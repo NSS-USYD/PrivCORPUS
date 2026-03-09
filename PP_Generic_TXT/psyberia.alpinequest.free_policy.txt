@@ -1,0 +1,90 @@
+Privacy Policy - AlpineQuest
+Privacy Policy
+•
+Terms of Service
+Privacy Policy
+Last updated:
+2021.06.01
+Psyberia (“us”, “we”, or “our”) operates AlpineQuest Off-Road Explorer, AlpineQuest Off-Road Explorer (Lite) and various associated software components, media, printed materials, and online services and documentation (the “Software Product”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Software Product.
+We use your Personal Information only for providing and improving the Software Product. By using the Software Product, you agree to the collection and use of information in accordance with this policy.
+If you have any questions about this Privacy Policy, please contact us.
+1. Information we collect
+We collect information to provide better services to all of our users, like figuring out which language they speak, or own often a particular feature is used.
+We collect information in the following ways:
+Information you give us. For example when you report an error, suggest a new feature, or create an account.
+Information we get from your use of our services. When you use our services, we may automatically collect and store certain information in server logs. This includes details of how you used our services, such as Internet protocol address, language and the date and time of your request.
+Locations (foreground and background) from the device location service. We only use collected locations to serve the requested features, see section 3 for more details.
+2. How we use information we collect
+We use the information we collect from all of our services to provide, maintain, protect and improve them, and to develop new ones.
+3. Location access (foreground and background)
+Some features available in the application require your real-time location. This location is provided by the device location service, and may come from different sources, including network or GNSS services, depending on your system and application settings.
+In order to work even if your screen is turned off or if the main application window is not displayed, some features, specifically 1) the Track recorder, 2) the Proximity alerts, and 3) the Path following, require background access to your location. When using those features, and with your explicit consent, the application will collect your location in the background for this strict purpose. Collected locations remain on your device at all time and are not used for any other purpose.
+At any time, you can revoke access to background locations from the device settings.
+4. Information we share
+We do not share any information with other companies, organizations and individuals.
+5. Third party components
+We do not use any third party components.
+6. Accessing and updating your personal information
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it, unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+7. Security
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+8. Compliance and cooperation with regulatory authorities
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+9. When this Privacy Policy applies
+Our Privacy Policy applies to all of the services offered by us.
+10. Changes
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+Choose language:
+Search
+Search
+Online help
+·
+Index
+·
+Maps & Layers
+·
+File-based maps
+·
+Image calibration
+·
+Elevations
+·
+Placemarks
+·
+Explore device
+·
+Search
+·
+Measure
+·
+Auto-routing
+·
+Positioning
+·
+Track recorder
+·
+Orientation
+·
+Workspaces
+·
+Settings
+·
+Location formats & grids
+·
+Data storage
+·
+FAQ
+[
+Back to top
+]
+[
+Log In
+|
+Old revisions
+|
+New posting
+]
+mnml-blog on DW
+under the hood

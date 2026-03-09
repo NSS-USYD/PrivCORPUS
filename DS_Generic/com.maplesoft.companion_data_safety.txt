@@ -1,0 +1,33 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Financial info                
+<d_attr>               Purchase history              
+<d_valu>             Account management            
+<d_cata>                 Photos and videos                
+<d_attr>               Photos              
+<d_valu>             App functionality            
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Personal info                
+<d_attr>               Name                          · Optional            
+<d_valu>             App functionality, Developer communications, Advertising or marketing, Account management            
+<d_attr>               Email address                          · Optional            
+<d_valu>             App functionality, Developer communications, Advertising or marketing, Account management            
+<d_attr>               User IDs                          · Optional            
+<d_valu>             App functionality, Developer communications, Account management            
+<d_cata>                 Financial info                
+<d_attr>               Purchase history              
+<d_valu>             Account management            
+<d_cata>                 Photos and videos                
+<d_attr>               Photos              
+<d_valu>             App functionality, Analytics            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Developer communications, Advertising or marketing            
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             Data can’t be deleted            
+<s_attr>             The developer doesn’t provide a way for you to request that your data be deleted            
+<s_cata>             Committed to follow the Play Families policy            
+<s_attr>             The developer has committed to follow the Play Families policy for this app.                           See the policy              

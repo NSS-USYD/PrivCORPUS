@@ -1,0 +1,335 @@
+Privacy Policy
+(Last Updated:
+Nov 1
+, 20
+21
+)
+Beijing Elex Technology Co., Ltd. (“ELEX,” “we,” “our,” or “us”) is the operator and controller of various mobile applications and other online services and websites (collectively, the “Services”). We are dedicated to protecting the privacy rights of our online users (“you,” “users,” and “user”), and have adopted this Privacy Policy to explain how we collect, store, use, disclose, and manage your personal information and data. This Privacy Policy applies to the Services in which it is posted only. Unless otherwise stated at the time of collection, this Privacy Policy does not apply to information collected outside of the Services in which it is posted.
+ELEX is a valid licensee and participating member of the
+Entertainment Software Rating Board’s Privacy Certified Program
+(“ESRB Privacy Certified”). To protect your privacy, we have voluntarily undertaken this privacy initiative and have had the Services that display an ESRB Privacy Certified Seal reviewed and certified by ESRB Privacy Certified to meet established online information, collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to audits of the Services and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
+If you do not agree with this Privacy Policy or our
+Terms of Service
+, please do not access or use our Services.
+Note to Parents
+The Services are intended for enjoyment by a broad audience. They are not directed to users under 13 years old (“Children” or “Child”). We do not knowingly collect or store personal information from Children. However, we do collect information, including personal information, from all users of the Services, as explained further in Section 1 below. If you believe we may have unintentionally collected personal information from your Child, please contact us using the information in the Contact Us section below.
+In addition, we urge you to instruct your Children to never give out their real names, addresses, phone numbers, or other personal information when online, unless you have given them permission to do so. We also recommend you familiarize yourself with the parental controls available on the devices you provide to your Child (e.g., mobile phones and tablets) and keep a watchful eye on your Child’s online activity. If you have any concerns, please contact us immediately using the information in the Contact Us section below.
+Parents/guardians are jointly and severally liable for all acts (including purchases and payments in the Services) and omissions of their Children when using the Services.
+Table of Contents
+1.
+Information We Collect About You
+2.
+How We Use Information We Collect
+3.
+When We Disclosure Your Information
+4.
+Third-Party Links
+5.
+Publicly Posted Information
+6.
+Security
+7.
+Your Privacy Rights
+8.
+Data Retention Policy
+9.
+International Data Transfer of Your Information
+10.
+Changes to this Privacy Policy
+11.
+Contact Us
+1.  Information We Collect About You
+AND SOURCES OF INFORMATION
+We collect three main sources of personal information: (1) information you provide by interacting with our App; (2) information provided by your device, and (3) information from third-party sites or platforms that you link with your registration account.  The categories of information we collect are identifiers/contact information, demographic information (such as gender and age), commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above.
+A. Information You Provide To Us
+There are several opportunities for you to provide or disclose personal information directly to us via the Services. The decision whether to provide the information to us belongs to you. If you prefer not to disclose the information, you will still be able to utilize the Services, but may not be able to utilize all aspects of them. The information you choose to provide to us will either be processed with your affirmative consent, pursuant to a contractual necessity or in furtherance of our legitimate business interests.
+Profile Information:
+We collect information about you when you create or modify your profile, set preferences, and sign-up for or make purchases through the Services. For example, depending on the Service, you may have the option of adding a display name, profile photo, age, gender, geographic information and other details to your profile information to be displayed in the Service.
+Content you provide through our products:
+We collect and store content that you send, receive and share when you use the Services. This content includes any information about you that you may choose to include. Examples of content we collect and store include but are not limited to: your email address, when you choose to give it to us; the messages you post, exchange or reply in message boards, forums or chat areas, including, in certain Services, voice messages you send to your friends; information you provide in connection with a survey or contest; and any feedback you provide to us. Content also includes the files and links you upload to the Services, including art you create and share with us and other users in our Services, and pictures and audio recording you upload.
+Content you provide through our websites:
+We also collect content you submit to our websites, which include social media or social networking websites operated by us (e.g., our Facebook pages). For example, you provide content to us when you provide feedback or when you participate in any interactive features, surveys, contests, promotions, activities, or events.
+Information you provide through our support channels:
+The Services also include our customer services and technical support, where you may choose to submit information regarding a problem you are experiencing with a Service. Whether you speak to one of our representatives directly or otherwise engage with our support team (or our third-party service providers), you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue. You may upload photos and voice messages to customer service. Whatever information you provide will be used solely to address your request for support.
+Payment Information:
+We collect certain payment and billing information when you purchase certain paid Services. You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
+B. Information Collected Automatically
+We collect certain information automatically from and about the device(s) you utilize to access the Services and your use of the Services. Specifically, we and/or our third-party service providers collect your Internet Protocol (IP) address, type of device, operating system, browser type, language settings, device IDs, mobile advertising IDs (e.g., for Android users, the GPS ADID also known as the “Google Play Services ID for Android”), MAC address, GSSF ID, usage data (including the features of the Services you use, and when and how often you use the Services), URLs of referring/exit pages, and crash data. We use your IP address and/or country preference to approximate your location (i.e., country and, at times, city) to provide you with a better experience, and in some of our Services, we also collect precise geolocation data from your device (i.e., street-level).
+Some of the Services use cookies and similar tracking technologies, such as pixel tags, to automatically collect information from and about your device(s) and your use of the Services. A “cookie” is a small file that is saved on your computer or mobile device, which uniquely identifies your browser and provides information to the cookie sender. Pixel tags are small blocks of code on a webpage that allow websites to do things like read and place cookies. We also use third-party software development kits (also known as SDKs) in our mobile apps, which collect information about your device(s) and use of the Services. These trackers help us to deliver the Services to you, to improve your user experience and to analyze traffic on and use of the Services. In addition, they are used for marketing and advertising, including to help us to measure the effectiveness of our marketing campaigns and potentially for interest-based advertising by third parties.
+Third parties that provide support for internal operations, as well as marketing partners and analytics providers include the following:
+Third Party
+Category
+Privacy Statements and Opt-out Options
+Adbert
+Advertising
+http://www.adbertech.com/privacy
+http://www.adbertech.com/gdprprivacy
+http://www.adbertech.com/setgdprcookie
+Adjust
+Analytics
+https://www.adjust.com/terms/privacy-policy/
+AIhelp
+Customer Support
+https://aihelp.net/privacypolicy/
+Alipay
+Payment Processing
+https://render.alipay.com/p/f/agreementpages/alipayglobalprivacypolicy.html
+Apple (Search Ads)
+Analytics; Advertising
+https://searchads.apple.com/privacy/
+AppsFlyer
+Analytics; Advertising
+https://www.appsflyer.com/services-privacy-policy
+https://www.appsflyer.com/optout
+Amazon (AWS)
+Cloud Provider
+https://aws.amazon.com/privacy/
+Branch
+Analytics; Advertising
+https://branch.io/policies/#privacy
+Chartboost
+Advertising
+https://answers.chartboost.com/en-us/articles/200780269
+Facebook (Sign-in)
+Functional; Advertising; Social
+https://www.facebook.com/privacy/explanation
+Google (APIs, Analytics, DoubleClick, Firebase, Sign-in, Voice, Video/YouTube, etc.)
+Sign-in; Analytics; Advertising; Functional
+https://policies.google.com/privacy
+https://firebase.google.com/support/privacy
+https://support.google.com/ads/answer/2662922?hl=en-GB
+https://tools.google.com/dlpage/gaoptout
+InMobi
+Analytics; Advertising
+https://www.inmobi.com/privacy-policy/
+https://www.inmobi.com/page/opt-out/
+Kingsoft
+Cloud Provider
+https://docs.ksyun.com/documents/2753
+Liftoff
+Advertising
+https://liftoff.io/privacy-policy/
+https://liftoff.io/opt-out/
+Nanigans
+Advertising
+https://www.nanigans.com/privacy-policy/
+http://www.nanigans.com/AndroidDoNotTrack.apk
+Parse
+Messaging Service
+https://community.parseplatform.org/privacy
+Ping++
+Payment Processing
+https://www.pingxx.com/terms
+TalkingData
+Analytics; Advertising
+http://www.talkingdata.com/privacy.jsp?languagetype=zh_en
+http://www.talkingdata.com/optout.jsp?languagetype=en_us
+Tencent (Bugly and WeChat)
+Crash Reporting; Social
+https://privacy.qq.com/yszc-en.htm
+Twitter
+Social
+https://twitter.com/en/privacy
+QiniuCDN
+Customer Support
+https://www.qiniu.com/privacy-right
+Unity (IAP and Analytics)
+Analytics; Functional
+https://unity3d.com/legal/privacy-policy
+We also utilize certain third parties in China and Russia only.  For more information on those third parties, please contact us.
+C. Information We Receive From Other Sources
+We receive information about you from other Service users, from third-party services, from our related companies, and from our business and channel partners.
+Other services you link to your account:
+We receive information about you when you integrate or link a third-party service with our Services. For example, if you log into the Services using your Google credentials, we receive your name and email address as permitted by your Google profile settings in order to authenticate you. If you log into the Services using your Facebook credentials, we receive your Facebook username, profile picture, and email address
+, and you will have the option to share your friends list
+. The information we receive when you link or integrate our Services with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with our Services.
+Other Partners:
+We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with our Services and online advertisements.
+Depending on the Services that you are using, some of the information listed above may not be collected. However, when this information is collected, we consider it to be in furtherance of our legitimate business interests.
+2.   How We Use Information We Collect
+We process your personal information for the following purposes under a range of legal bases:
+Purpose
+Legal Basis
+To improve, operate, manage, and provide you with the Services
+Contract; Legitimate interests
+To perform services requested by you, including to fulfill your orders, respond to your support requests, and send messages to your friends
+Legitimate interests
+To send you technical notices, updates, security alerts, information regarding changes to our policies, and support and administrative messages
+Legitimate interests
+To protect our legal rights, interests and the interest of others, including to prevent and address fraud, breach of policies or terms, or threats of harm
+Legitimate interests, Legal obligation, or Vital interests
+To monitor and
+analyze aggregate
+trends, usage and activities
+Legitimate interests
+For internal marketing, profiling and demographic purposes, so we can constantly improve the Services; adapt our Services to better suit your needs; and better understand and serve you
+Legitimate interests
+To send you messages or personalized information about our games, your scores, new features, contests, special offers, and more, including for marketing and promotional purposes
+Legitimate interests or consent
+To provide you with advertisements about the Services and to measure the effectiveness of the advertisements
+Legitimate interests or consent
+To fulfill other purposes that may be disclosed to you and for which you provide affirmative consent.
+Consent
+3.   When We
+Disclose
+Your Information
+ELEX
+Disclose
+s
+personal
+information about you to the below third parties. We do so to further our legitimate business interests.
+·
+Affiliates.
+ELEX may share your information, including personal information, with its related entities, including its parent, subsidiary and sister companies. For example, we may share your information with our affiliates for customer support, marketing, technical operations, or to offer affiliated services to you. If we share your personal information with our affiliates, it is on the condition they have agreed to be bound by the terms of this Privacy Policy as it relates to their handling of your personal information.
+·
+Application Providers.
+ELEX shares your information, including personal information, with our third-party service providers, which may include agents, vendors, developers, and consultants, among others. Service providers assist us with operating the Services and provide us with other services, including marketing and promotional services. Some of these third-party service providers are necessary to provide you with the Services, perform services requested by you, and prevent and address fraud, in which case we also share information with them to fulfill our contractual obligations.
+·
+Mergers or Acquisition.
+In the event of, or during negotiations of, an actual or proposed merger, acquisition, reorganization, bankruptcy, sale of a line of business, or other similar event, your information may be shared with or transferred to ELEX’s successors or assigns or other third parties involved in the event.
+·
+Security and Compelled Disclosure.
+We may share your information, including your personal data, to comply with the law or other legal process, and where required, in response to requests by public authorities, including to meet national security or law enforcement requests. We may also share your information in connection with an investigation of fraud, harassment, intellectual property infringements, or other activity that is illegal, a violation of our policies, or may expose you or us to legal liability. We may also share your information to protect the rights, property, life, health, security, and safety of us, the Services or a third party. We may share this information pursuant to a legal and/or contractual obligation, or a vital interest.
+Marketing and Advertising
+We also share personal information with our Marketing and Advertising Partners in order to market our App and to present advertising in the App as follows:
+<![if !supportLists]>
+•
+<![endif]>
+Marketing Partners.
+We share your information, including personal information, with our partners in connection with offering you co-branded services, marketing, promoting, advertising selling or distributing our products or the products of our partners, or engaging in joint marketing activities.
+<![if !supportLists]>
+•
+<![endif]>
+Advertising Partners.
+We share your information, including advertising IDs, with third parties for purposes of providing you with advertisements. Our advertising partners include Facebook and Google, but we may use other advertising partners as well.
+If you do not want to receive personalized  marketing and advertising, you can:
+<![if !supportLists]>
+•
+<![endif]>
+Ask
+Adjust
+to forget your device
+:
+https://www.adjust.com/forget-device/
+<![if !supportLists]>
+•
+<![endif]>
+Ask
+Appsflyer
+to forget your device
+:
+https://www.appsflyer.com/optout
+<![if !supportLists]>
+•
+<![endif]>
+Change your settings on
+Google Play
+by o
+pening the Google settings app on your device (called Google Settings or Settings, depending on your device) Scroll down and tap Google Tap Ads Switch on Opt out of interest-based ads or Opt out of Ads Personalisation.
+<![if !supportLists]>
+•
+<![endif]>
+Opt out of personalized ads from
+Unity Ads
+that are presented in the game by click ing the privacy icon in the left bottom corner of a Unity ad.
+Opt out of receiving personalized ads in your Facebook account.
+Except as set forth above and in this Privacy Policy, ELEX does not
+share
+, sell or rent your personal information to any third parties. However, we may share aggregated information that does not identify you or de-identified information about you with third parties or affiliates for any purpose, except as prohibited by law.
+4.   Third-Party Links
+The Services may contain links to third-party websites or other online services. ELEX is not responsible for the content or the privacy policies or practices of any other websites or online services, or for the actions of the companies responsible for those websites and online services. Please review the privacy policies of those websites or online services before providing them with any personal information.
+5.   Publicly Posted Information
+Whenever you publicly post personal information online (for example on message boards, public profiles, and in chat areas), that information is stored by us and becomes publicly available, subject to the collection and use of third parties (e.g., other users). ELEX is not responsible for the subsequent use of that information by third parties. Please take caution whenever you disclose personal information in a public manner. If you encounter any ELEX user who is improperly collecting or using information about you or other users, please contact us using the information in the Contact Us section below.
+For certain forums, you may post or reply to a post using your full first and last name with the option to also display your primary in-game character. If your personal information is posted on one of our forums, you may contact us to request removal using the information in the Contact Us section below. If we are unable to remove your personal information, we will notify you and explain the reason.
+6.  Security
+ELEX takes reasonable steps to help protect the security and integrity of any personal information you provide to us. Nevertheless, transmission via the internet is not completely secure and we cannot guarantee the security of your personal information through the Services. If we learn that your personal information has been compromised by a data breach, we will notify you consistent with applicable laws.
+Please also keep in mind that you are responsible for maintaining the secrecy of your passwords and account information. Please be careful and responsible whenever you are online.
+7.  Your Privacy Rights
+You may have the right to know how your personal information will be collected, processed, stored, and used; access, update, and request the deletion of information you have previously provided to us; request a portable copy of your personal information; withdraw previously provided consent; and object to our processing of your personal information, including for direct marketing and profiling purposes. In addition, you have the right to opt-out of our use of your personal information for purposes of targeted or interest-based advertising at any time.
+For more information on interest-based advertising and opt-out options, see
+https://youradchoices.com/learn
+. You may exercise or find out more about these rights by using the information in the Contact Us section below. Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask us to delete information that we are permitted by law or have an overriding legitimate ground to keep.
+You also have the right to complain to a data protection authority about our collection and use of your personal information.
+You have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, email
+cok@elex.com
+ã€‚
+CALIFORNIA RESIDENTS
+California Privacy Rights
+If you are a California resident and the processing of personal information about you is subject to the California Consumer Privacy Act (“CCPA”), you have certain rights with respect to that information.
+Right to Know
+: You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our
+collection
+,
+use
+,
+disclosure
+, or
+sale
+of such personal information. Note that we have provided much of this information in this privacy statement. You may make such a “request to know” by contacting us at
+cok
+@elex.com
+.
+Right to Request Deletion
+: You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, email
+cok
+@elex.com
+or write to:
+ELEX
+97 E. Brokaw Road, Suite 310, Room M
+San Jose, CA 95112
+Attn: Privacy
+Right to Opt-Out
+: You have a right to opt-out from future “sales” of personal information. Note that the CCPA defines “sell” and “personal information” very broadly, and some of our data sharing described in this privacy statement may be considered a “sale” under those definitions. In the past 12 months, we may have sold any of the categories of personal information described in the “
+Information We Collect
+” section above. To opt-out from “sales” of personal information, please visit our “
+Do Not Sell My Personal Information
+” page
+.
+We do not knowingly sell the personal information of minors under 16 years of age.
+You may designate in writing, or through a power of attorney an authorized agent to make requests on your behalf to exercise your rights under the CCPA. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us.
+Further, to provide or delete specific pieces of personal information, we will need to verify your identity to the degree of certainty required by law. We will verify your request by asking you to send it from the email address associated with your account or requiring you to provide information necessary to verify your account.
+Finally, you have a right to receive notice of our practices at or before collection of personal information, and you have a right to not be discriminated against for exercising these rights set out in the CCPA.
+Additionally, under California Civil Code section 1798.83, also known as the “Shine the Light” law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (“California Customers”) may request information about whether the business has disclosed, personal information to any third parties for the third parties’ direct marketing purposes.
+Please be aware that we do not disclose personal information to any third parties for their direct market purposes as defined by this law.
+California residents under the age of 18 who are registered users of online sites, services, or applications have a right under California Business and Professions Code Section 22581 to remove, or request and obtain removal of, content or information they have publicly posted. To remover content or information you have publicly posted, please send a detailed description of the specific content or information you wish to have removed to
+cok
+@elex.com
+. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
+8.   Data Retention Policy
+How long we keep information we collect about you depends on the type of information, as described in further detail below.  After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.
+We retain your information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.  We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you. We retain the information you share on the chatting areas for 24 hours. If you private chat with other users, we will retain only 800 messages.
+Any personal information you provide in connection with a customer service request or inquiry will be deleted by our third-party service provider one year from the date of your request or inquiry.
+9.   International Transfer of Your Information
+Personal data may be transferred to, and stored in, a country operating outside the European Economic Area (EEA). Under Regulation (EU) 2016/679, the transfer of personal data to a country outside the EEA may take place where the European Commission has decided that the country ensures an adequate level of protection. In the absence of an adequacy decision, we may transfer personal data provided appropriate safeguards are in place.
+Personal data collected from individuals, including those in the EEA, is stored on servers located in the United States and the Netherlands. We have verified that our Cloud Service Provider and data processors (where applicable) are certified under the EU-U.S. Privacy Shield Framework. For additional information, please click
+here
+.
+10.  Changes to this Privacy Policy
+We may revise this Privacy Policy from time to time. Please check the Privacy Policy each time you use one of the Services to ensure you are aware of any changes in our privacy practices. The Privacy Policy will indicate the date it was last updated. If we make a material change in the way we handle your personal information, we will provide you with additional notice by sending you an email at the last email address we have for you, if any, or by prominently posting notice of the change on the Services. If you do not agree with any changes we make to the Privacy Policy, please stop using the Services.
+11.  Contact Us
+If you have any comments, questions or complaints regarding this Privacy Policy or our privacy practices, please contact us using any of the following methods:
+ELEX
+97 E. Brokaw Road, Suite 310, Room M
+San Jose, CA 95112
+cok@elex.com
+EU/EEA Representative
+The nominated Representative for data protection matters within the EEA, pursuant to Article 27 of Regulation (EU) 2016/679 (the General Data Protection Regulation, or GDPR) is:
+Adaptant Solutions AG
+Rosenheimer Str. 139
+81671 Munich
+German
+compliance-elex@adaptant.io
+The nominated Representative for data protection matters in the United Kingdom is:
+Adaptant Services Ltd
+Kemp House, 160 City Road
+London EC1V 2NX
+United Kingdom
+compliance-elex@adaptant.io
+Inquiries may also be submitted through Adaptant’s contact form at
+https://www.adaptant.io/contacts-locations/
+.
+ESRB Privacy Certified
+As previously mentioned, ELEX is a licensee of the ESRB’s Privacy Certified Program. If you believe we have not adequately responded to your privacy-related inquiry or complaint, you may contact ESRB Privacy Certified at:
+ESRB
+privacy@esrb.org
+https://www.esrb.org/privacy/contact/

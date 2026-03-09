@@ -1,0 +1,5 @@
+Privacy
+This privacy policy covers the use of the 'Ringtone Maker', 'Ringpod' and 'Lite Player' applications.
+It may not be applicable to other software produced or released by Big Bang Inc.
+Big Bang Inc does not collect any personal information. We only collect usage analytics by Google Firebase SDK, these data only used for APP improvement.
+    APP also has Admob SDK for playing AD. It may collect some statistic, but Big Bang Inc does not have access to any information stored within.

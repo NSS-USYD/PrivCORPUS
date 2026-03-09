@@ -1,0 +1,82 @@
+Privacy Policy of DualSpace
+DualSpace respects and protects the privacy of individuals from all official websites and application that are related to DualSpace. This DualSpace Privacy Policy (hereinafter, this "Privacy Policy") provides: without obtaining your prior consent, we will not intentionally disclose any contents that relates to your personal privacy to any third party unless otherwise stipulated herein.
+1.How We Collect and Use Your Personal Data
+We may collect your personal data as follows while we are providing services. These data is critical for us to realize various functions of this Product. We will use these data to help us develop and improve our products to provide better services. We will use your personal data in strict compliance with the purposes set forth in this Policy. We will inform you in advance and obtain your consent before we use these data for any other purposes than set forth in this Policy or we use the personal data collected for specific purposes for other purposes
+1.1. We Do Not Collect or Share Any Sensitive Information
+. Sensitive Information includes your name, address, password, telephone number, fax number, the information you stored on your device and the information to identify you or other individuals when you use applications, services or websites
+1.1.1. Non-Sensitive Information.
+When users interact with our application, we may collect non-personal-identity information associated with the user. Non-personal-identity information may include your phones model, version of Android and other similar information.
+Such information will only be used to provide you with support services and will not be connected with any other information collected from you on or through the Software and Services, including, any individual User ID (as defined below) generated or collected by us.
+When you use the Software and Services, we automatically generate an anonymous internal user ID (which does not personally identify you), which is assigned to your use of the Software and Services (the "User ID") and may be combined with any of the above information.
+(1)
+Session and Available Data.
+"Session and Available Data" refers to data information relevant to connections and services that you provide to us when you use an application, service or website, including but not limited to, when you use our applications, services or websites. Session and Available Data includes information related to connection request, server communication and data sharing, including network testing, quality of service, date, time, and place / location. Gathering of information as described below, we may also gather Session and Available Data. Please note that Session and Available Data does not include any personal information, nor does it include any content that you might use applications (such as photo, contact, calendar, etc.), services, or website to send or share.
+(2)
+Login Data
+. When you interact with us, or use applications, services or our website, our system may automatically collect your unique user device serial number, IP address, the type of your browser or operating system, and the date and time that you use (the "Login Data").
+(3)
+Summary Information.
+"Summary Information" refers to the data that we collected from a group or service type or users, in which users' personal identity information has been removed. In other words, the information of how you use the application, services and websites may be collected and combined with how other individuals use the applications, services and websites, but personal identity information will not be included in the ultimate Summary Information. Summary Information can help us understand user demand trends, so that we can better develop new features, or provide tailor-made applications, services and websites.
+1.2.
+Clone Apps
+In order to provide the feature of cloning apps, we will collect the application lists in your mobile and SD card to show you the list in DualSpace to choose which app to clone.
+1.3. Social Networks
+You may also choose to use your favorite social networks directly from the Software and Services. During such activation, you will be asked to grant the Company permission to compile certain information from such social networks. And use a runtime permissions request whenever available first time.
+This information may include friends or contact lists, notes, updates, and photos and may be used by the Company to customize the content available to you through the Software and Services, suggest new features and content that may be relevant to you or provide the Company with data for statistical purposes. The information you allow the Company to access is that which is presented to you when you choose to activate these features. Please see your social network provider policies for any questions or concerns. You may opt not to grant the Company access to your social network account(s) at any time by changing your social network settings or by not authorizing the Company's access thereto.
+And
+we do not collect any social network information
+, all these permissions are only required by the apps added in DualSpace to function normally.
+1.4. Feedback
+You can raise your issues or suggestions when you using DualSpace via Feedback function. Accordingly, we'll read and collect your contact information and question contents to answer your questions timely. In the meanwhile, we'll also read your email address, name and any information voluntarily submitted by you in connection with such support (for example, your communication)
+And in order to check your issue or solve the user's problem, we will collect some information, including application name, application version; country code, IP address, system language, android version, memory information and other system information; screen resolution, mobile phone brand, mobile phone model and other information.
+1.5. Crash Log
+When our product crashes, then we will get the uploaded crash information, including application name, application version, application signature and other application information; country code, system language, android version, memory information and other system information; screen resolution, mobile phone brand, mobile phone model and other information; crash process name, crash time, system non-sensitive log at crash, and crash log of this application.
+The purposes of the crash information is: (i) to operate and update the Software and Services and provide you with existing and new functionality and features; and/or (ii)to improve and customize the Software and Services; and/or (iii)to provide you personalized content, including through the delivery of targeted interest-based advertisements from us or our partners; and/or (iv)to maintain and improve the quality and operation of the Software and Services; and/or(v)to notify you of Software and Services updates.
+1.6. Create Shortcut
+In order to create shortcuts of dual apps, we need get access to the permission of shortcut, while this permission only can be accessed by manual setting first by users.
+And when you use this function, DualSpace will remind users to set it.
+1.7. Delete Dual Apps
+If you uninstall the original app, the cloned app in Dual Space will also be deleted automatically.
+1.8. Sharing
+When you use DualSpace, you may use sharing function. In order to experience the sharing of this core function better, you need to obtain the application list information of the mobile phone, which is used to prompt to share the corresponding apps according to sharing types (text, pictures, links, etc.) of different functions.
+1.9. VIP
+In order to recognize the VIP users, we will find Gmail accounts on the device. Used to check if user has logged in to Google Play, and only when the first place of your Google Account list is the account which you successfully paid will be recognized the VIP users and DualSpace will provide the VIP service.
+Except the Gmail, we will not collect any other payment information (payment account, bills, bank card, etc.)
+2. Do Not Obtain Your Personal From A Third Party
+For now, we do not obtain your personal data from any third party. If certain services may require your personal data from a third party, we will notify you in advance and obtain your consent.
+What permissions do we use to get your data
+2.1. Read phone status and identity
+This permission is used to acquire a unique ID of each device, and we will then apply a non-invertible encryption on the data. It does not include any personal identity information.
+2.2.
+Read the contents of USB storage
+Used in our junk files cleaning feature to scan junk from device's hard drive.
+2.3.
+Modify or delete the contents of USB storage
+Used in our junk files cleaning feature to remove junk from device's hard drive.
+2.4. Find accounts on the device
+Used to check if user has logged in to Google Play, and provide the corresponding installation and download services.
+2.5. Read Google service configuration
+Used to retrieve anonymous advertising ID so as to provide high-accuracy advertising recommendation service.
+2.6. Full network access.
+Used to achieve network-based services, e.g. performing version update notification. GPRS traffic may be needed.
+2.7. Install shortcuts
+Used to create shortcuts on home of dual apps that added in DualSpace.
+3. How We Share, Transfer and Disclose Your Personal Data
+3.1.
+Install Application Information
+We will read your install application information, The purposes of the install application information is only: (i) to operate and update the Software and Services and provide you with existing and new functionality and features; and/or (ii)to improve and customize the Software and Services; and/or (iii)to provide you personalized content, including through the delivery of targeted interest-based advertisements from us or our partners; and/or (iv)to maintain and improve the quality and operation of the Software and Services; and/or(v)to notify you of Software and Services updates.
+3.2 The Possibility of Personal Information Being Disclosed
+3.2.1. Sensitive Information. We do not collect or store sensitive Information, so your sensitive information cannot be disclosed by us.
+3.2.2. Non-Sensitive Information. We will not match non-personal information and personal information (such as numbering your name and your user-specific device).
+3.2.3. All these information we collect is used for application functional normally, and might be used for appmarket promotion and development purposes.
+3.2.4. We can not control the behavior of other users you share your data with. We cannot and will not control the behaviors of other users that you share information with when you use an application, service or website, or how such users will use or share such information. We will not be responsible for any behavior or conduct of third party circumventing our security measures.
+4. How We Store and Protect Your Personal Data
+4.1.
+Security protection of personal data
+DualSpace is concerned about keeping confidential of your information. We do not collect Personal Information, and we have adopted effective measures to protect your Non-Personal Information, so that such information will not be accessed and used without authorization. Please note that although we have taken sufficient security measures to protect your information, there is not absolute guarantee that we can prevent non-personal information from being accessed or used without authorization
+.
+5. Contact Us / Report Violation
+If you have any questions or suggestions with respect to this Privacy Policy or our privacy system, or if you want to report any violations of this Privacy Policy or abuse of the application, service or website, please contact us at:
+service@ludashi.com
+6. Amendment of This Privacy Policy
+We reserve the right to handle, amend, modify or otherwise change this Privacy Policy at any time and at our sole discretion, and if you do not agree to any amendment or modification of this Privacy Policy, you may stop using all of relevant applications, services and websites. Please note that our employees or agents have no right to change any of our policies.

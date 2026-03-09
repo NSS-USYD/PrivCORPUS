@@ -1,0 +1,112 @@
+[Official]MobileTrans App- Privacy Policy
+MobileTrans respects your privacy and takes a careful attitude towards user information security. When you
+        install MobileTrans, upon your agreement, MobileTrans shall, out of providing data transfer services, improving
+        service quality and data collection accuracy, collect and process some data related to your mobile device and
+        data types.
+Before using the Application, please read carefully the following privacy policy which provides you, as the
+        user of the Website and/or Application (the â€œUserâ€ or â€œYouâ€), with the relevant information regarding the
+        various processing of personal data implemented by MobileTrans, and frequently learn about the privacy policy
+        updates. If you disagree with the following privacy policy, please stop using the Application and uninstall
+        it.
+MobileTrans fully comprehends the importance of your personal information, and will be devoted to protecting the
+        security and reliability of your personal information. MobileTrans shall be committed to maintaining your trust,
+        and abide by the following principles to protect your personal information:
+1) Compliance of rights and obligations;
+2) Explicitness of goals;
+3) Agreement upon choosing;
+4) Minimum utilization;
+5) Security assurance;
+6) User participation;
+7) Publicity and transparency.
+Meanwhile, MobileTrans shall take sufficient security measures to protect your personal information by adhering
+        to the mature security standards in the industry.
+1. INFORMATION COLLECTION
+The following information shall be collected during data backup:
+1) Device model type;
+2) Device manufacturer;
+3) Types of transferred data;
+4) Data transfer status (success or failure);
+5) Log data (for example, service use time and duration).
+The following information shall not be collected:
+1) Detailed data transferred from your old phone to new phone;
+2. INFORMATION COLLECTION PURPOSES
+1) To provide you with services or functions, such as to transfer data;
+2) To optimize MobileTrans products and services and improve user experience based on your tool use and the log
+        data;
+3) To deliver ads (customization ads and sponsorship contents) and promotion information;
+4) To evaluate and analyze the market, customer, product, and service (including the query of your opinions on
+        MobileTrans products and services, and customer polls).
+3. UTILIZATION OF TOKEN AND RELATED TECHNOLOGIES
+To ensure that the Application run properly, MobileTrans shall save a â€œtokenâ€ file on your device. The token is
+        an identity verification mechanism. The user submits account data to the server initially. The server generates
+        a character string (token) based on specific policies. The token character string contains some user information
+        and will expire after some time. The server transfers the token character string to the client end, which will
+        save it and add it in the subsequent requests.
+4. SHARING OR DISCLOSING OF YOUR INFORMATION?
+Without your consent, MobileTrans shall never disclose your information to a third party for its own marketing
+        or commercial purposes. MobileTrans, however, may disclose your information to the following entities:
+1) Associated enterprises
+Your information may be shared with an associated enterprise;
+2) Business partners
+Your information may be shared with a business partner of MobileTrans;
+3) Service providers
+Your information may be shared with an enterprise that provides services to MobileTrans or acts on behalf of
+        MobileTrans;
+4) Other entities upon your consent on information sharing
+Apart from the disclosing situations described in the privacy policy, your information may be shared with a
+        third party upon your consent on information sharing or request for information sharing.
+5. PROTECTION OF YOUR PERSONAL INFORMATION
+MobileTrans has used protection measures that comply with industry standards to protect your personal
+        information from unauthorized access, exposure, use, modification, corruption, or loss, and will take all
+        feasible measures to protect your personal information by ensuring that all collected information is used only
+        on the purposes specified in the privacy policy.
+In case of security events concerning your personal information, MobileTrans shall, by complying with related
+        laws and regulations, notify you of the following:
+1) Basic situations and possible implications of the security events;
+2) Counter measures taken or to be taken;
+3) Comments that advise you to prevent or lower risks proactively;
+4) Rescue measures.
+MobileTrans shall inform you of the event situations by emails, mails, phone calls, notifications, etc., and
+        dispense announcements in a reasonable and effective manner if it may be impossible to inform affected users one
+        by one. Meanwhile, MobileTrans shall report to authorities on how the security events are addressed by complying
+        with the requirements of supervision departments.
+6. YOUR RIGHTS
+According to the laws, regulations, and standards in China, and common practices in other countries and regions,
+        MobileTrans ensures that you have the following rights on your personal information:
+1) Access your personal information
+Unless otherwise stipulated by laws and regulations, you have the right to access your personal information.
+        Some information may be collected anonymously and therefore cannot be accessed.
+2) Rectify your personal information
+You have the right to demand information rectification when finding that your information processed by
+        MobileTrans is incorrect. Some information may be collected anonymously and therefore cannot be rectified.
+3) Delete your personal information
+You can demand the deletion of your personal information in the following situations:
+a. Your personal information is processed by violating laws and regulations;
+b. Your personal information is collected and processed without your consent;
+c. Your personal information is processed by violating the agreement;
+d. You no longer use the MobileTrans products or services, or have cancelled your account.
+Some information may be collected anonymously and therefore cannot be deleted.
+If deciding to follow your deletion request, MobileTrans shall also demand that its related entities that hold
+        your personal information should delete it in a timely manner, unless the cases are otherwise stipulated by laws
+        and regulations, or such entities have obtained your permission independently of MobileTrans.
+When your personal information is deleted from related services, MobileTrans may not synchronize the information
+        deletion in the system immediately, but will delete the required information during backup updates.
+4) Change the authorized scope
+Each service function requires some basic personal information for implementation. Refusal to provide such
+        information may result in the failure to deliver the corresponding services to you. You can grant or cancel your
+        permission anytime on the collection and use of additional personal information.
+5) Limit the auto decision of the information system
+In some service functions, decisions may be made based on non-human decision-making mechanisms, such as the
+        information systems and algorithms. If such decisions affect your rightful benefits, you have the right to
+        demand an explanation from MobileTrans, who will, therefore, provide proper redressing measures.
+7. GLOBAL TRANSFER OF YOUR PERSONAL INFORMATION
+In principle, MobileTrans will use a database within the jurisdiction of Peopleâ€™s Republic of China to store the
+        personal information collected and generated in the jurisdiction of the Peopleâ€™s Republic of China.
+8. REVISION OF THIS PRIVACY POLICY
+Occasionally, MobileTrans may change this privacy policy. In this case, new versions shall be released in a
+        timely manner, and you are therefore encouraged to periodically note MobileTrans-released notices regarding
+        privacy policy changes. Contact us in the following ways if you have any doubts concerning the privacy policy of
+        MobileTrans.
+Name: Wondershare MobileTrans App
+E-mail: privacy@wondershare.com
+Address: Haitian Road, Software Industry Base, Shenzhen, Guangdong, China

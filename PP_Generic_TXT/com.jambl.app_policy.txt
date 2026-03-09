@@ -1,0 +1,275 @@
+Privacy — Make your beats come true
+Home
+Home
+Make your beats come true
+Privacy Policy (German version below)
+Jambl GmbH
+(“
+Jambl
+”, “
+we
+”, “
+us
+” or “
+our
+”) is a company registered in Germany with company number HRB 198863 B and a registered address at Rheinsberger Str. 76/77, 10115 Berlin, Germany.
+We, the owners of our Jambl App, are responsible for our App, which is made available through App-Stores (Apple Appstore and Goolge Play Store). We are responsible for providing our services and  with respect to the processing of personal data via our App we act as “Controller”.
+When you use Jambl’s “
+Jambl
+” app or the website www.jambl.app (each being, our “
+Platform
+”), we will collect, store and process certain personal data. In the following data privacy policy you will be informed about what we do with your data and why we do this. We will also inform you how we protect your data, when this data is deleted and what rights you have due to data protection. First of all: We observe the data protection laws and protect your privacy.
+California residents may have different or additional rights. Please see the section titled
+Privacy Notice for California Residents
+.
+Whom can I contact?
+If you have any questions or comments about this Privacy Policy or your personal data, you can reach us (the Controller) at:
+JAMBL GMBH
+RHEINSBERGER STR. 76/77
+10115 Berlin
+MARIKA@JAMBL.APP
+What are Personal Data?
+Personal data is any information relating to an identified or identifiable natural person, such as a name, an address or e-mail address but also IP addresses.
+Details on data processing
+1. Data processing when using our app
+Usage data
+Whenever opening and running our app on your mobile device, we will collect your device operating system, time zone setting and time/date of access requests, the amount of data transmitted and the requesting provider.
+This data processing activity is strictly necessary to allow us to provide a functional app and to maintain it. This is also our legitimate interest justifying the processing of personal data.
+The legal basis for processing is therefore art. 6 par. 1 f) GDPR.
+Registration
+In order to use some of our services, you are requested to create a user account. When doing so, we collect the following data: nick name, e-mail address.
+The provision of personal data marked as “required” is necessary in order to use our services. Failure to provide them will result in unavailability of the services.
+Registration or login via Facebook:
+You can create an account or log into your account via Facebook connect. In such case, we will receive your personal information from Facebook directly, as described in the respective privacy notice. We will use such information to populate or update your account. You account on Jambl will thereby not be accessed by Facebook.
+The legal basis for the processing of personal data when creating a user account is art. 6 par. 1  b) GDPR.
+Uploading content
+Whenever you upload content to our app, any personal data contained in such content will be provided to us and made available publicly at the same terms as happens the content itself.
+The legal basis for the processing of personal data when uploading content is art. 6 par. 1  b) GDPR.
+App Authorisations
+Some features of our app require access to certain features and services on your device. Depending on which mobile operating system you are using, you may be required to accept certain App permissions.
+To protect your privacy, all app permissions are optional, except for the technical permissions required to run the app. You can decline at any time (by clicking "no" or "do not accept"). You can also revoke the permissions later by changing the corresponding settings on your device.
+The purpose of the request for these permissions is to enable you to use our service and app-specific functions. One of the functions and services of our app is to send you messages about certain events. We will now explain to you what these permissions are:
+Notifications: if you select OK at the "Allow push notifications" prompt, you allow the app to notify you of specific events and topics by push notifications, even if the app is not currently open. The notifications can be made by tones, messages and/or icon flags (a picture or number on the app icon).
+The legal basis is your consent in accordance with the European data protection regulations pursuant to Art. 6 Para. 1 lit. a GDPR.
+Camera permission: if you select Allow or OK at the "Allow access to the camera" or "Allow access to the photo library" prompt, you allow the app to access the camera or capture images and video from the device. Please note that the camera permission is necessary in order to use some features of our service, such as adding video to music. In case of failure to provide such permission, we won’t be able to deliver such features to you.
+The legal basis in accordance with the European data protection regulations is Art. 6 Para. 1 lit. a GDPR.
+Analytics, Marketing and Advertising
+Unless otherwise specified, all data processing activities described within this section are based on your consent, pursuant to Art. 6 Para. 1 lit. a GDPR.
+Firebase, Flurry, Mixpanel, AppsFlyer, AppMetrica, Facebook
+These are the marketing and analytics tools we implement in our app, that allow us to track and analyse user behaviour. The personal data processed to this end include IP address, Instance ID, device specs, user agents, Installation UUID, crash traces, as well as, for logged in users, email and user name. This information is processed by these services in order to better understand how users interact with our app, what content they like or dislike and, based upon this evidence, elaborate analytical data that allow us to improve our service and increase its user proximity.
+To find out more about how these services process your data, please refer to the relevant privacy policies or terms of use:
+Firebase:
+https://firebase.google.com/terms/
+Flurry:
+https://developer.yahoo.com/flurry/legal-privacy/terms-service/flurry-analytics-terms-service.html
+and
+https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html
+Mixpanel:
+https://mixpanel.com/legal/terms-of-use/
+AppsFlyer:
+https://www.appsflyer.com/services-privacy-policy/
+YandexMobileMetrica:
+https://yandex.ru/legal/metrica_termsofuse/
+AppMetrica:
+https://yandex.ru/legal/metrica_termsofuse/
+Facebook:
+https://www.facebook.com/about/privacy/
+Ironsource
+Ironsource is an advertising platform that helps us to serve ads on our app, and allows us to show in-app ads based on your interests and on your interaction with the app. By default, unless consent is given, Ironsource does not serve personalized advertising in the European Economic Area (“EEA") or Switzerland, nor do they create any profiles or segments of end users in these countries. To this end, Ironsource assigns an additional unique identifier (Advertising ID) – that does not allow for your identification on other apps – to your app and collects and processes personal data including IP address, age, gender, in-app purchases.
+Your Advertising ID, an additional unique identifier available solely from within the app of the app developer which cannot be used to identify you on other apps, IP address, information about your browser settings. The term Advertising ID refers to the Google Advertising ID on Android devices, and ID For Advertising (“IDFA”) or ID For Vendor (“IDFV”) on iOS devices. The Advertising ID is a resettable persistent identifier generated by Android or iOS that allows online advertising companies to recognize your device across non-affiliated apps, for purposes such as frequency capping, attribution, fraud detection, personalized advertising, and whitelisting.
+To find out more about how Ironsource processes your data, please refer to the relevant privacy policy:
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Newsletter
+We use the so-called double opt-in procedure for the provision of our newsletter. We will therefore only send you a newsletter by e-mail if you confirm that you would like to receive our newsletter by subscribing on our Platforms. If you confirm your wish to receive the newsletter, we will save your e-mail address for the purpose of sending the newsletter.
+Of course you can unsubscribe from our newsletter at any time, you will find a link in every newsletter. If you click on the link you will be redirected and you can confirm your cancellation in an e-mail. This way we can ensure that the logoff is implemented in all processes. Alternatively, you can contact us using the contact details above.
+We work together with the service provider Mailchimp („MailChimp“,Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 )for the dispatch of our newsletter. We have concluded an order processing agreement with this service provider in accordance with the requirements of Art. 28 DSGVO. Further suitable guarantees for data transmission to other EU countries are available.
+The processing of personal data in connection with the sending of newsletters is based on your consent. The legal basis thereof is art. 6 par. 1 a) GDPR.
+Purchases
+In case you purchase any premium features or subscriptions via our app, you will be asked to provide details about your means of payment. Such information – which may consist of personal data – will directly be collected by third-party payment service providers that we work with. In no case will payment data be collected or stored directly by us.
+2.
+App download via app stores
+When you download our app through an app platform (Apple App Store or Google Play Store), you provide certain information to that platform, including your account information, such as your name, device ID, and email address. We do not control and are not responsible for this information collection.
+3. Data processing when visiting www.jambl.app
+Usage data
+When you visit our website
+www.jambl.app
+, we automatically store usage-related data about the usage process. This includes in particular the URL of the accessed website, date and time of the access, transferred data volume, http status code of the answer to the access, web browser and HTTP referrer. This information is not associated with your person. We collect this data to guarantee the provision of our services. In addition, they are used to anonymously analyse, store and evaluate user behaviour and to continuously improve and further develop the service. For more details on the systems used, please refer to the sections on cookies and social media below.
+These purposes constitute our legitimate interest, which justifies data processing pursuant to Art. 6 par. 1 f) GDPR.
+Cookies
+In order to improve user experience on our Website and enable specific features, we implement so-called cookies on several pages. Cookies are small text files that being placed on your terminal device. Some of the cookies we use are automatically erased as soon as you close your browser (so-called “session cookies”). Other cookies are permanently stored on your terminal device in order to allow us or our partners to identify your browser at your next visit (so-called “persistent cookies”).
+By setting your browser preferences accordingly, you can be informed each time cookies are being places and can decide whether to accept them one by one or object to the use of cookies in certain cases or always. Furthermore, you can always remove cookies from your terminal device manually. In case of objection to the use of cookies, some features of our Website may not be available to you.
+Unless otherwise specified, art. 6 par. 1 lit. f) GDPR serves as legal basis for the processing of personal data via cookies.
+technical cookies
+We implement some necessary cookies in order to allow our visitors to navigate and use key features on our Website. Some elements of our webpage require that the accessing browser be recognized even after a page change. These functional and required cookies allow Squarespace, our hosting platform, to securely serve this Website to you.
+analytics and performance cookies
+We implement cookies in order to monitor and evaluate user behaviour for analytics purposes. We use these analytics and performance cookies only when you acknowledge our cookie banner. We integrate such cookies in order to monitor the use of our Website and be able to improve it constantly. Thanks to the statistical evidence gathered we are able to improve our offer to you.
+Please note that third parties (including, for example, providers of external services like web traffic analysis services) may also use cookies, over which we have no control.
+If cookies do not contain an exact expiration date, they are stored only temporarily and are automatically deleted as soon as you close your browser or restart your device. Cookies with an expiration date will still be stored even when you close your browser or restart your device. Such cookies will not be deleted until the specified date or if you delete them manually.
+You can configure, block and delete cookies in your browser settings. If you delete all cookies from our website, some functions of the website may not be displayed correctly. Further information on cookies and how to configure them can be found here in German https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/EinrichtungSoftware/EinrichtungBrowser/Sicherheitsmassnahmen/Cookies/cookies_node.html or here in English
+https://ico.org.uk/for-the-public/online/cookies/
+Youtube Video Plugins
+Third-party content is integrated on our website. This content is provided by Google LLC via the YouTube video service.
+Youtube is operated by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+For videos from Youtube, which are integrated on our site, the extended data protection setting is activated. This means that no information from website visitors is collected and stored by YouTube unless they play the video. The integration of the videos serves our overriding legitimate interests in an optimal marketing of our offer.
+The purpose and scope of the data collection and the further processing and use of the data by the providers as well as your relevant rights and setting options for the protection of your privacy can be found in the data protection information of Google http://www.google.com/intl/de/+/policy/+1button.html.
+The transmission of your data to Google in the USA takes place within the framework of the EU-USA Privacy Shield.
+Fonts
+This website uses font files from Google Fonts and Adobe Fonts. To properly display this site to you, servers where the font files are stored may receive personal information about you, including:
+Information about your browser, network, or device
+Your IP address
+Applicants Data
+We collect and process the personal data of applicants for the purpose of processing the application procedure. Processing may also be carried out electronically. This is particularly the case if an applicant sends corresponding application documents to us by electronic means, for example by e-mail or via a web form on the website. If we conclude an employment contract with an applicant, the data transmitted will be stored for the purpose of processing the employment relationship in compliance with the statutory provisions. If we do not conclude an employment contract with the applicant, the application documents shall be deleted 3 months after notification of the decision of refusal, provided that we are not obliged or allowed to store the data longer by applicable law, such as, for example, the German General Equal Treatment Act (AGG).
+The legal basis for processing of personal data of job applicants is art. 6 par. 1 b) GDPR.
+4. General information about personal data processing
+Deletion of data and storage periods
+In principle and unless otherwise stated, your personal data will only be retained until the purpose of the collection and processing is achieved. With your consent, data can also be stored for longer until you revoke your consent (for example, if you have subscribed to our newsletter, data will be stored until you unsubscribe).
+Furthermore, data may be stored if required by European or national regulations and laws which we are subject to. The data will also be erased if the retention period prescribed by any of the aforementioned regulations expires, unless there is a need for further storage of the data for the conclusion or fulfilment of a contract.
+Who do we share your personal data with?
+Unless otherwise stated in this privacy policy, we do not share personal data with third parties who use it for their own purposes or without your consent.
+For the purpose of providing our services, we do cooperate with certain service providers, to whom we transfer the personal data collected from you in order to be able to deliver our services. These include, for example, hosting services and technical providers that allow us operating our website or app or payment service providers that process payments done via our app.
+Where legally required, we have entered into a data processing agreement pursuant to art. 28 GDPR with all such service providers.
+Transfer of personal data outside of the EU/EEA
+Unless otherwise stated, all data processing operations take place within the EU or the EEA countries. Data processing operations carried out by third-party Providers established outside the mentioned geographical area may be carried out in part or in full in third countries in compliance with the relevant data protection regulations.
+Any transfer of personal data outside the EU or the EEA shall exclusively be based on an adequacy decision of the European Commission, including the adequacy decision on the EU-US Privacy Shield. A list of current adequacy decisions is available on the European Commission's Website.
+Information on the EU-US Privacy Shield and in particular on the participation of a specific company can be found on the Website of the US Department of Commerce.
+What are your rights?
+You can contact us at any time if you have any questions about your rights regarding data protection or if you wish to exercise any of the following rights:
+Right to withdraw your consent
+in accordance with Art. 7 para. 3 GDPR
+Right to access your data
+in accordance with Art. 15 GDPR (e.g. you can contact us if you would like to know what data we have stored about you)
+Right to correct your data
+in accordance with Art. 16 GDPR (e.g. you can contact us if your e-mail address has changed and we should replace your old e-mail address)
+Right to have your data deleted
+in accordance with Art. 17 GDPR (e.g. you can contact us if you want us to delete certain data that we have stored about you)
+Right to limit data collection
+in accordance with Art. 18 GDPR (e.g. you can contact us if you do not want us to use your e-mail address for newsletters, but only to send absolutely necessary e-mails)
+Right to take your data with you
+in accordance with Art. 20 GDPR (e.g. you can contact us to receive your data in a zipped format, if you want to upload it to another website)
+Right to object how your data is handled
+in accordance with Art. 21 GDPR (e.g. you can contact us if you do not agree with any user analytics procedures as described within this privacy policy)
+Right to send complaints
+to the supervisory authority in accordance with Art. 57 para. 1 f GDPR (e.g. you can contact the data protection supervisory authority directly)
+If you want to exercise any of your rights, including as set out above under section “What are your rights?”, or you wish to withdraw your consent where we have stated we are processing your personal data based on your consent, then please contact us:
+1.     via e-mail at: marika@jambl.app;
+2.     via post to: Jambl GmbH, Rheinsberger str. 76/77, 10115, Berlin.
+How is your personal data protected?
+We will take all reasonable and appropriate measures to protect the personal information we hold from unauthorized use, loss or access. To this end, we have taken a number of technical and organizational measures. This includes measures to deal with any suspected data breaches.
+If you suspect that your personal information has been abused, lost or accessed by unauthorized persons, please let us know as soon as possible and contact us at the above address!
+Privacy Policy for California Residents
+Please review our Privacy Notice for California Residents at
+Privacy Notice for California Residents
+Changes to this Privacy Policy
+Any changes we may make to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back regularly to keep informed of updates or changes to this Privacy Policy.
+Changes affecting the use of the data already collected and stored in your user account shall only take place if this is reasonable for you. If and to the extent that changes to the privacy statement relate to the use of data already collected and stored in your User account, we will notify you in good time by e-mail, on our website, on our app or in another way. You have the right to object to the new privacy statement within six weeks of receiving the notification. In the event of an objection, we reserve the right to terminate the contract and/or delete your user account. If no objection is raised within the aforementioned period, the amended privacy statement shall be deemed as accepted by you. We will inform you in the notification of your right to object and the significance of the objection period.
+This Privacy Policy was last updated in March 2020.
+Datenschutzerklärung
+Jambl GmbH
+(“
+Jambl
+”, “
+wir
+”, “
+uns
+” oder “
+unsere
+”) ist eine Firma mit der Firmennummer HRB 198863 B und einer registrierten Adresse unter Rheinsberger Str. 76/77, 10115 Berlin, Deutschland.
+Wir, die Betreiber unserer Jambl App sind verantwortlich für unsere App, die über App-Stores (Apple Appstore und Goolge Play Store) verfügbar gemacht werden. Wir sind dabei verantwortlich für die Bereitstellung unserer Angebote und in Bezug auf die Verarbeitung der persönlichen Daten über unsere App fungieren wir als “Controller”.
+Wenn Sie die App “Jambl” oder die webseite www.jambl.app verwenden (“Plattform”), wir wird bestimmte Daten erfassen, speichern und verarbeiten.
+In der folgenden Datenschutzerklärung erfahren Sie, was wir mit Ihren Daten machen und warum wir dies tun. Außerdem teilen wir Ihnen mit, wie wir Ihre Daten schützen, wann die Daten gelöscht werden und welche Rechte Sie dank des Datenschutzes haben.
+Einwohner Kaliforniens haben möglicherweise andere oder zusätzliche Rechte. Bitte lesen Sie den Abschnitt mit dem Titel Datenschutzerklärung für Einwohner von Kalifornien.
+An wen kann ich mich wenden?
+Wenn Sie Fragen oder Kommentare zu dieser Datenschutzerklärung oder Ihren persönlichen Daten haben, können Sie uns (“Controller”) unter folgender Adresse erreichen:
+JAMBL GMBH
+RHEINSBERGER STR. 76/77
+10115 Berlin
+MARIKA@JAMBL.APP
+Datenerfassung auf unseren Plattformen
+Wenn Sie unsere App herunterladen über eine App-Plattform (Apple App Store oder Google Play Store), übermitteln Sie bestimmte Informationen an diese Plattform, insbesondere Ihre Kontodaten, z. B. Name, Gerätekennung und E-Mail-Adresse. Wir haben keinen Einfluss auf diese Datenerhebung und sind nicht dafür verantwortlich.
+Wenn Sie unsere Plattform besuchen, stellen Sie uns die folgenden Arten von personenbezogenen Daten zur Verfügung, und wir erheben und verarbeiten diese personenbezogenen Daten gemäß dieser Datenschutzerklärung wie folgt:
+Kontaktdaten:
+Dies kann Ihre E-Mail-Adresse enthalten. Diese Informationen werden von uns gesammelt,      wenn Sie mit uns kommunizieren, beispielsweise wenn Sie die Links auf      unserer Plattform verwenden, um mit uns per E-Mail zu kommunizieren. Wenn      Sie über den Link Kontakt mit uns aufnehmen, um Ihren Musikinhalt zu monetarisieren, werden Daten wie Name, Alter und Stadt erfasst.
+Kontodaten:
+Wenn Sie ein Konto auf unserer Plattform erstellen, müssen Sie möglicherweise Ihren Spitznamen und Ihre E-Mail-Adresse angeben.
+Korrespondenzdaten:
+Dazu gehören die Informationen, die Sie angeben, wenn Sie über unsere Plattform Support anfordern, uns per E-Mail kontaktieren und Ihre Ansichten, Meinungen und Rückmeldungen, die Sie in Bezug auf die Plattform      und unsere Dienste angeben.
+Benutzerinhalt:
+Wenn Sie unsere Jambl-App verwenden, umfasst dies die Videos und / oder Audioaufnahmen, die Sie erstellen und auf unsere Plattform hochladen. Durch die Bereitstellung solcher Benutzerinhalte erkennen Sie an, dass wir      diese anderen Benutzern der Plattform zur Verfügung stellen können, bis Sie Ihr Konto auf unserer Plattform löschen.
+Sitzungsdaten:
+Dazu gehören Ihre IP-Adresse, die eindeutige Kennung Ihres Geräts, Browserdetails wie Version, Betriebssystem des Geräts, geografische Position, Zeitzoneneinstellung und Uhrzeit / Datum der Zugriffsanforderungen, die übertragene Datenmenge und der anfragende Anbieter
+Cookies:
+Wir verwenden teilweise so genannte Cookies. Bei Cookies handelt es sich um kleine Textdateien, die üblicherweise in einem Ordner Ihres Browsers gespeichert werden. Weitere Informationen zur Verwendung von Cookies finden Sie im Abschnitt “Cookies”.
+Zahlungsdaten:
+Wenn Sie ein Abonnement oder In-App-Inhalte kaufen, geben Sie Ihre Zahlungsinformationen an unseren Zahlungsdienstleister weiter. Wir speichern solche Informationen nicht auf unseren Servern.
+App Berechtigungen
+Einige Funktionen unserer App erfordern den Zugriff auf bestimmte Funktionen und Dienste auf Ihrem Gerät. Je nachdem, welches mobile Betriebssystem Sie verwenden, kann es erforderlich sein, dass Sie bestimmte App Berechtigungen akzeptieren. Wir werden Ihnen nun erklären, was diese Berechtigungen sind:
+Push Mitteilungen:
+Wenn Sie im Popup-Fenster "Push Mitteilungen erlauben" OK wählen, erlauben Sie der App, ihnen Benachrichtigungen zu senden.
+Zum Schutz Ihrer Privatsphäre sind alle App Berechtigungen optional, mit Ausnahme der technischen Berechtigungen, die für die Ausführung der App erforderlich sind. Sie können jederzeit ablehnen (durch Klicken auf "nein" oder "nicht akzeptieren"). Sie können die Berechtigungen auch nachträglich widerrufen, indem Sie die entsprechenden Einstellungen auf Ihrem Gerät ändern.
+Der Zweck der Anfrage nach diesen Berechtigungen ist es, Ihnen unseren Service und Appspezifische Funktionen zu ermöglichen. Eine der Funktionen und Leistungen unserer App ist es Ihnen Mitteilungen über bestimmte Ereignisse zu senden.
+Rechtsgrundlage ist Ihre Einwilligung gemäß den europäischen Datenschutzbestimmungen nach Art. 6 Abs. 1 lit. a DSGVO.
+Newsletter
+Wir verwenden das sogenannte Double Opt-In-Verfahren für die Bereitstellung unseres Newsletters, wir werden Ihnen also erst dann einen Newsletter per E-Mail zusenden, wenn Sie in unserer Benachrichtigungs-E-Mail durch das Anklicken eines Links bestätigen, dass Sie unseren Newsletter erhalten möchten. Wenn Sie den Wunsch nach dem Empfang des Newsletters bestätigen, speichern wir Ihre E-Mail-Adresse so lange, bis Sie den Newsletter abbestellen. Die Speicherung dient alleine dem Zweck, Ihnen den Newsletter senden zu können.
+Sie können sich selbstverständlich jederzeit von unserem Newsletter abmelden, einen Link dazu finden Sie in jedem Newsletter. Alternativ können Sie sich an die oben genannten Kontaktdaten wenden.
+Wir arbeiten für die Versendung unseres Newsletter mit dem Dienstleister „MailChimp“ Sitz in  Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 zusammen. Die Datenschutzbestimmungen des Versanddienstleisters können Sie hier einsehen:
+https://mailchimp.com/legal/privacy
+. The Rocket Science Group LLC d/b/a MailChimp ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäisches Datenschutzniveau einzuhalten. Der Versanddienstleister wird auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 DSGVO eingesetzt. Wir haben mit diesem Dienstleister einen den Anforderungen des Art. 28 DSGVO entsprechenden Auftragsverarbeitungsvertrag geschlossen.
+Löschung von Daten und Speicherdauer
+Sofern nicht anders angegeben, löschen wir Ihre Daten, sobald diese nicht mehr benötigt werden, also z.B. Ihre E-Mail-Adresse nach der Abmeldung von unserem Newsletter. Eine Sperrung oder Löschung Ihrer Daten erfolgt auch dann, wenn eine durch ein Gesetz vorgeschriebene Speicherfrist abläuft, es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht. Bestimmte Daten müssen womöglich aus gesetzlichen Gründen länger aufbewahrt werden. Sie können selbstverständlich jederzeit Auskunft über die gespeicherten Daten verlangen.
+Cookies
+Auf unserer Plattform verwenden wir folgende Arten von Cookies:
+Erforderliche Cookies (diese benötigen wir, z.B. um die Webseite für Sie korrekt darzustellen und bestimmte Einstellungen zwischenzuspeichern)
+Funktions- und leistungsbedingte Cookies (diese helfen uns dabei, z.B. technische Daten Ihres Besuchs auszuwerten und somit Fehlermeldungen zu vermeiden)
+Werbe- und analysebedingte Cookies (diese sorgen dafür, dass z.B. Werbung für Schuhe angezeigt wird, wenn Sie zuvor nach Schuhen gesucht haben)
+Tracking ID: jedes iOS- und Google Android-Gerät verfügt über eine eindeutige Tracking-ID. Mit diesen Tracking-IDs können App-Anbieter und Werbetreibende die Nutzeraktivität verfolgen und Anzeigen auf diese Nutzer ausrichten.
+Sofern Cookies kein genaues Ablaufdatum enthalten, werden diese nur zwischengespeichert und automatisch gelöscht, sobald Sie Ihren Browser schließen bzw. das Endgerät neustarten. Cookies mit einem Ablaufdatum bleiben auch gespeichert, wenn Sie Ihren Browser schließen bzw. das Endgerät neustarten. Solche Cookies werden erst zum angegebenen Datum entfernt oder wenn Sie diese manuell löschen.
+Sie können Cookies in den Einstellungen Ihres Browsers konfigurieren, blockieren und löschen. Falls Sie alle Cookies unserer Webseite löschen, kann es sein, dass einige Funktionen der Webseite nicht korrekt dargestellt werden.Hilfreiche Informationen und Anleitungen für die gängigen Browser stellt das Bundesamt für Sicherheit in der Informationstechnik bereit: https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/EinrichtungSoftware/EinrichtungBrowser/Sicherheitsmassnahmen/Cookies/cookies_node.html
+Mit wem teilen wir Ihre persönlichen Daten?
+Wir teilen Ihre persönlichen Daten mit:
+Drittanbieter für Marketingzwecke:
+Wenn Sie uns Ihre Einwilligung geben, können bestimmte personenbezogene Daten an Dritte weitergegeben werden, mit denen wir Marketing betreiben, z. B. Benutzeranalyseplattformen wie Firebase (Google Analytics, Fabric), Flurry und gezielte Werbeplattformen wie IronSource.
+Gismart Limited:
+Gismart Limited ist ein Unternehmen mit der Firmennummer 10152488 und einer registrierten Adresse in der 22 Great Marlborough Street, London W1F 7HU, Großbritannien. Gismart ist Entwickler und Herausgeber von      unterhaltungsorientierten Apps und Spielen und Veröffentlichungspartner von Jambl. Jambl teilt persönliche Daten mit Gismart gemäß den Bestimmungen der Datenverarbeitungsvereinbarung zwischen Jambl und Gismart. Die Datenschutzerklärung von Gismart finden Sie hier:
+https://gismart.com/privacy-policy/
+Squarespace:
+Jambl webseite wird von Squarespace gehostet. Squarespace sammelt persönliche Daten, wenn Sie diese Website besuchen. Falls Sie sich bloß auf unserer Webseite umschauen wollen, erfassen wir keine personenbezogenen Daten, mit Ausnahme der Daten, die Ihr Browser übermittelt, um den Besuch der Webseite zu ermöglichen.
+Was sind deine Rechte?
+Sie können sich jederzeit an uns wenden, wenn Sie Fragen zu Ihren Rechten im Datenschutz haben oder Ihre nachfolgenden Rechte geltend machen möchten:
+Widerrufsrecht
+gem. Art. 7 Abs. 3 DSGVO (z.B. können Sie sich an uns wenden, falls Sie eine zuvor erteilte Einwilligung in einen Newsletter rückgängig machen möchten)
+Recht auf Auskunft
+gem. Art. 15 DSGVO (z.B. können Sie sich an uns wenden, falls Sie wissen möchten, welche Daten wir über Sie gespeichert haben)
+Berichtigung
+gem. Art. 16 DSGVO (z.B. können Sie sich an uns wenden, falls sich Ihre E-Mail-Adresse geändert hat und wir die alte E-Mail-Adresse ersetzen sollen)
+Löschung
+gem. Art. 17 DSGVO (z.B. können Sie sich an uns wenden, falls wir bestimmte Daten löschen sollen, die wir über Sie gespeichert haben)
+Einschränkung der Verarbeitung
+gem. Art. 18 DSGVO (z.B. können Sie sich an uns wenden, falls Sie möchten, dass wir Ihre E-Mail-Adresse zwar nicht löschen, aber nur noch zur Versendung von unbedingt erforderlichen E-Mails verwenden)
+Datenübertragbarkeit
+gem. Art. 20 DSGVO (z.B. können Sie sich an uns wenden, um Ihre bei uns gespeicherten Daten in einem komprimierten Format zu erhalten, z.B. weil Sie die Daten einer anderen Webseite zur Verfügung stellen wollen)
+Widerspruch
+gem. Art. 21 DSGVO (z.B. können Sie sich an uns wenden, falls Sie mit einem der hier angegebenen Werbe- oder Analyseverfahren nicht einverstanden sind)
+Beschwerderecht
+bei der zuständigen Aufsichtsbehörde gem. Art. 77 Abs. 1 DSGVO (z.B. können Sie sich bei Beschwerden auch direkt an die Datenschutz-Aufsichtsbehörde in Ihrem Bundesland wenden)
+Änderungen Ihrer persönlichen Daten
+Wenn Sie eines Ihrer Rechte ausüben möchten, wie oben unter "Was sind deine Rechte?", oder wenn Sie Ihre Einwilligung widerrufen möchten, kontaktieren Sie uns bitte:
+per e-mail an: marika@jambl.app;
+per post an: Jambl GmbH, Rheinsberger str. 76/77, 10115, Berlin.
+Wie werden Ihre personenbezogenen Daten geschützt?
+Wir werden alle sinnvollen und geeigneten Maßnahmen ergreifen, um die von uns gespeicherten personenbezogenen Informationen vor Missbrauch, Verlust oder unbefugtem Zugriff zu schützen. Dazu haben wir eine Reihe von technischen und organisatorischen Maßnahmen ergriffen. Dies umfasst Maßnahmen, um mit jedweden mutmaßlichen Datenverletzungen umzugehen.
+Wenn Sie den Verdacht haben, dass Ihre personenbezogenen Informationen missbraucht wurden oder verloren gegangen sind oder ein unbefugter Zugriff darauf erfolgt ist, lassen Sie uns dies bitte schnellstmöglich wissen und wenden sich an die oben genannten Kontaktdaten!
+Änderungen dieser Datenschutzerklärung
+Alle Änderungen, die wir in Zukunft an dieser Datenschutzerklärung vornehmen, werden auf dieser Seite veröffentlicht.
+Diese Datenschutzerklärung wurde zuletzt im Dezember 2019 aktualisiert.
+For Further questions please write us:
+Email Address
+*
+Message
+*
+Thank you!
+Impressum
+Privacy
+Terms Of Use
+Contact
+Monetize
+Press

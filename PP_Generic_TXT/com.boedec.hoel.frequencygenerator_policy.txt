@@ -1,0 +1,25 @@
+Privacy Policy
+Privacy Policy
+We keep our applications free by showing ads provided by Google Admob.
+In compliance with the EU ePrivacy Directive and the General Data Protection Regulation (GDPR), EU and UK users can decide whether the ads they see will be personalized or non-personalized.
+        A definition of those terms is given
+here
+.
+Consenting to view personalized ads will authorize the application to use "advertising cookies" on the user's device, allowing it to display ads that are more relevant.
+        Please refer to Google Admob and its partners privacy policies listed below to get in-depth information about how they determine users interests and how they personalize ads.
+Non-personalized ads don’t use cookies or mobile ad identifiers for ad targeting, but they do still use cookies or mobile ad identifiers for frequency capping, aggregated ad reporting, and to combat fraud and abuse. Consenting to view non-personalized ads will authorize the application to use cookies or mobile ad identifiers for those purposes.
+EU and UK users can change their consent choice at anytime by visiting the application settings.
+Additionally, in compliance with the California Consumer Privacy Act (CCPA), users in California will only see non-personalized ads.
+The Google Mobile Ads SDK (Admob) collects the following data types: User product interactions and interaction information, including app launch, taps, and video views; Device's IP address, which may be used to estimate the general location of a device; Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device; Information related to the performance of the app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+The Android advertising (ad) ID can be reset or deleted by users using ad ID controls in the Android settings menu.
+We use Firebase Crashlytics, Firebase Analytics and Firebase Performance Monitoring to investigate and fix app crashes, performance issues, and to improve the quality of our applications.
+        Google Admob events and data are shared with Firebase for those purposes. Please refer to the Firebase privacy policy listed below for in-depth information about each Firebase product.
+In compliance with the EU ePrivacy Directive and the General Data Protection Regulation (GDPR), Firebase products data collection is disabled for users in the European Economic Area along with the UK.
+Links to partners privacy policies
+Google
+Google Admob
+Amazon
+Criteo
+Firebase
+Developer contact
+Hoël Boëdec - hoel.boedec.contact@gmail.com

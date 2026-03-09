@@ -1,0 +1,1164 @@
+NVIDIA Privacy Policy
+NVIDIA Home
+NVIDIA Home
+Menu
+Menu icon
+Menu
+Menu icon
+Close
+Close icon
+Close
+Close icon
+Close
+Close icon
+Caret down icon
+Accordion is closed, click to open.
+Caret down icon
+Accordion is closed, click to open.
+Caret up icon
+Accordion is open, click to close.
+Caret right icon
+Click to expand
+Caret right icon
+Click to expand
+Caret right icon
+Click to expand menu.
+Caret left icon
+Click to collapse menu.
+Caret left icon
+Click to collapse menu.
+Caret left icon
+Click to collapse menu.
+Shopping Cart
+Click to see cart items
+Search icon
+Click to search
+Skip to main content
+Artificial Intelligence Computing Leadership from NVIDIA
+Main Menu
+Products
+Hardware
+Software
+Gaming and Creating
+GeForce Graphics Cards
+Laptops
+G-SYNC Monitors
+Studio
+SHIELD TV
+Laptops and Workstations
+Laptops
+NVIDIA RTX in Desktop Workstations
+NVIDIA RTX in Professional Laptops
+NVIDIA RTX-Powered AI Workstations
+Cloud and Data Center
+Overview
+Grace CPU
+DGX Platform
+EGX Platform
+IGX Platform
+HGX Platform
+NVIDIA MGX
+NVIDIA OVX
+DRIVE Sim
+Networking
+Overview
+DPUs and SuperNICs
+Ethernet
+InfiniBand
+GPUs
+GeForce
+NVIDIA RTX / Quadro
+Data Center
+Embedded Systems
+Jetson
+DRIVE AGX
+Clara AGX
+Application Frameworks
+AI Inference - Triton
+Automotive - DRIVE
+Cloud-AI Video Streaming - Maxine
+Computational Lithography - cuLitho
+Cybersecurity - Morpheus
+Data Analytics - RAPIDS
+Generative AI - NeMo
+Healthcare - Clara
+High-Performance Computing
+Intelligent Video Analytics - Metropolis
+Logistics and Route Optimization - cuOpt
+Metaverse Applications - Omniverse
+Recommender Systems - Merlin
+Robotics - Isaac
+Speech AI - Riva
+Telecommunications - Aerial
+Apps and Tools
+Application Catalog
+NGC Catalog
+NVIDIA NGC
+3D Workflows - Omniverse
+Data Center
+GPU Monitoring
+NVIDIA RTX Experience
+NVIDIA RTX Desktop Manager
+RTX Accelerated Creative Apps
+Video Conferencing
+AI Workbench
+Gaming and Creating
+GeForce NOW Cloud Gaming
+GeForce Experience
+NVIDIA Broadcast App
+Animation - Machinima
+Modding - RTX Remix
+Studio
+Infrastructure
+AI Enterprise Suite
+Cloud Native Support
+Cluster Management
+Edge Deployment Management
+IO Acceleration
+Networking
+Virtual GPU
+Cloud Services
+Base Command
+BioNeMo
+NeMo
+Picasso
+Private Registry
+Omniverse
+Solutions
+Artificial Intelligence
+Overview
+AI Platform
+AI Inference
+AI Workflows
+Conversational AI
+Data Analytics
+Generative AI
+Machine Learning
+Prediction and Forecasting
+Speech AI
+Data Center and Cloud Computing
+Overview
+Accelerated Computing for Enterprise IT
+Cloud Computing
+Colocation
+MLOps
+Networking
+Virtualization
+Design and Simulation
+Overview
+3D Avatars
+Augmented and Virtual Reality
+Digital Twins
+Engineering Simulation
+Rendering
+Robotics and Edge Computing
+Overview
+Robotics
+Edge Computing
+Vision AI
+High-Performance Computing
+Overview
+HPC and AI
+Scientific Visualization
+Simulation and Modeling
+Quantum Computing
+Self-Driving Vehicles
+Overview
+In-Vehicle Computing
+Infrastructure
+Industries
+Industries
+Overview
+Architecture, Engineering, Construction & Operations
+Automotive
+Consumer Internet
+Cybersecurity
+Energy
+Financial Services
+Healthcare and Life Sciences
+Higher Education
+Game Development
+Industrial Sector
+Manufacturing
+Media and Entertainment
+US Public Sector
+Restaurants
+Retail and CPG
+Robotics
+Smart Cities and Spaces
+Supercomputing
+Telecommunications
+Transportation
+For You
+Creatives/Designers
+Data Scientists
+Developers
+Executives
+Gamers
+IT Professionals
+Researchers
+Roboticists
+Startups
+NVIDIA Studio
+Overview
+Accelerated Apps
+Products
+Compare
+Shop
+Industries
+Media and Entertainment
+Manufacturing
+Architecture, Engineering, and Construction
+All Industries >
+Solutions
+Data Center/Cloud
+Laptops/Desktops
+Augmented and Virtual Reality
+Multi-Display
+Rendering
+Metaverse - Omniverse
+Graphics Virtualization
+Engineering Simulation
+Industries
+Financial Services
+Consumer Internet
+Healthcare
+Higher Education
+Retail
+Public Sector
+All Industries >
+Solutions
+AI Inference
+AI Workflows
+Conversational AI
+Data Analytics
+Deep Learning Training
+Generative AI
+Machine Learning
+Prediction and Forecasting
+Speech AI
+Software
+AI Enterprise Suite
+AI Inference - Triton
+AI Workflows
+Avatar - Tokkio
+Cybersecurity - Morpheus
+Data Analytics - RAPIDS
+Apache Spark
+AI Workbench
+Large Language Models - NeMo Framework
+Logistics and Route Optimization - cuOpt
+Recommender Systems - Merlin
+Speech AI - Riva
+NGC Overview
+NGC Software Catalog
+Open Source Software
+Products
+PC
+Laptops & Workstations
+Data Center
+Cloud
+Resources
+Professional Services
+Technical Training
+Startups
+AI Accelerator Program
+Content Library
+NVIDIA Research
+Developer Blog
+Kaggle Grandmasters
+Developer Resources
+Join the Developer Program
+NGC Catalog
+NVIDIA NGC
+Technical Training
+News
+Blog
+Forums
+Open Source Portal
+NVIDIA GTC
+Startups
+Developer Home
+Application Frameworks
+AI Inference - Triton
+Automotive - DRIVE
+Cloud-AI Video Streaming - Maxine
+Computational Lithography - cuLitho
+Cybersecurity - Morpheus
+Data Analytics - RAPIDS
+Generative AI
+Healthcare - Clara
+High-Performance Computing
+Intelligent Video Analytics - Metropolis
+Logistics and Route Optimization - cuOpt
+Metaverse Applications - Omniverse
+Recommender Systems - Merlin
+Robotics - Isaac
+Speech AI - Riva
+Telecommunications - Aerial
+Top SDKs and Libraries
+Parallel Programming - CUDA Toolkit
+Edge AI applications - Jetpack
+BlueField data processing - DOCA
+Accelerated Libraries - CUDA-X Libraries
+Deep Learning Inference - TensorRT
+Deep Learning Training - cuDNN
+Deep Learning Frameworks
+Conversational AI - NeMo
+Generative AI - NeMo
+Intelligent Video Analytics - DeepStream
+NVIDIA Unreal Engine 4
+Ray Tracing - RTX
+Video Decode/Encode
+Automotive - DriveWorks SDK
+GeForce
+Overview
+GeForce Graphics Cards
+Gaming Laptops
+G-SYNC Monitors
+RTX Games
+GeForce Experience
+GeForce Drivers
+Forums
+Support
+Shop
+GeForce NOW
+Overview
+Download
+Games
+Pricing
+FAQs
+Forums
+Support
+SHIELD
+Overview
+Compare
+Shop
+FAQs
+Knowledge Base
+Solutions
+Data Center (On-Premises)
+Edge Computing
+Cloud Computing
+Networking
+Virtualization
+Enterprise IT Solutions
+Software
+AI Enterprise Suite
+Cloud Native Support
+Cluster Management
+Edge Deployment Management
+AI Inference - Triton
+IO Acceleration
+Networking
+Virtual GPU
+Apps and Tools
+Data Center
+GPU Monitoring
+NVIDIA Quadro Experience
+NVIDIA RTX Desktop Manager
+Resources
+Data Center & IT Resources
+Technical Training and Certification
+Enterprise Support
+Drivers
+Security
+Product Documentation
+Forums
+NVIDIA Research Home
+Research Areas
+AI Playground
+Video Highlights
+COVID-19
+NGC Catalog
+Technical Training
+Startups
+News
+Developer Blog
+Open Source Portal
+Cambridge-1 Supercomputer
+3D Deep Learning Research
+Products
+AI Training - DGX
+Edge Computing - EGX
+Embedded Computing - Jetson
+Software
+Robotics - Isaac ROS
+Simulation - Isaac Sim
+TAO Toolkit
+Vision AI - Deepstream SDK
+Edge Deployment Management
+Synthetic Data Generation - Replicator
+Use Cases
+Healthcare and Life Sciences
+Manufacturing
+Public Sector
+Retail
+Robotics
+More >
+Resources
+NVIDIA Blog
+Robotics Research
+Developer Blog
+Technical Training
+Startups
+Shop
+Drivers
+Support
+0
+Log In
+Log Out
+Skip to main content
+0
+Login
+LogOut
+NVIDIA
+NVIDIA logo
+Main Menu
+Products
+Hardware
+Gaming and Creating
+GeForce Graphics Cards
+Laptops
+G-SYNC Monitors
+Studio
+SHIELD TV
+Laptops and Workstations
+Laptops
+NVIDIA RTX in Desktop Workstations
+NVIDIA RTX in Professional Laptops
+NVIDIA RTX-Powered AI Workstations
+Cloud and Data Center
+Overview
+Grace CPU
+DGX Platform
+EGX Platform
+IGX Platform
+HGX Platform
+NVIDIA MGX
+NVIDIA OVX
+DRIVE Sim
+Networking
+Overview
+DPUs and SuperNICs
+Ethernet
+InfiniBand
+GPUs
+GeForce
+NVIDIA RTX / Quadro
+Data Center
+Embedded Systems
+Jetson
+DRIVE AGX
+Clara AGX
+Software
+Application Frameworks
+AI Inference - Triton
+Automotive - DRIVE
+Cloud-AI Video Streaming - Maxine
+Computational Lithography - cuLitho
+Cybersecurity - Morpheus
+Data Analytics - RAPIDS
+Generative AI - NeMo
+Healthcare - Clara
+High-Performance Computing
+Intelligent Video Analytics - Metropolis
+Logistics and Route Optimization - cuOpt
+Metaverse Applications - Omniverse
+Recommender Systems - Merlin
+Robotics - Isaac
+Speech AI - Riva
+Telecommunications - Aerial
+Apps and Tools
+Application Catalog
+NGC Catalog
+NVIDIA NGC
+3D Workflows - Omniverse
+Data Center
+GPU Monitoring
+NVIDIA RTX Experience
+NVIDIA RTX Desktop Manager
+RTX Accelerated Creative Apps
+Video Conferencing
+AI Workbench
+Gaming and Creating
+GeForce NOW Cloud Gaming
+GeForce Experience
+NVIDIA Broadcast App
+Animation - Machinima
+Modding - RTX Remix
+Studio
+Infrastructure
+AI Enterprise Suite
+Cloud Native Support
+Cluster Management
+Edge Deployment Management
+IO Acceleration
+Networking
+Virtual GPU
+Cloud Services
+Base Command
+BioNeMo
+NeMo
+Picasso
+Private Registry
+Omniverse
+Solutions
+Artificial Intelligence
+Overview
+AI Platform
+AI Inference
+AI Workflows
+Conversational AI
+Data Analytics
+Generative AI
+Machine Learning
+Prediction and Forecasting
+Speech AI
+Data Center and Cloud Computing
+Overview
+Accelerated Computing for Enterprise IT
+Cloud Computing
+Colocation
+MLOps
+Networking
+Virtualization
+Design and Simulation
+Overview
+3D Avatars
+Augmented and Virtual Reality
+Digital Twins
+Engineering Simulation
+Rendering
+Robotics and Edge Computing
+Overview
+Robotics
+Edge Computing
+Vision AI
+High-Performance Computing
+Overview
+HPC and AI
+Scientific Visualization
+Simulation and Modeling
+Quantum Computing
+Self-Driving Vehicles
+Overview
+In-Vehicle Computing
+Infrastructure
+Industries
+Industries
+Overview
+Architecture, Engineering, Construction & Operations
+Automotive
+Consumer Internet
+Cybersecurity
+Energy
+Financial Services
+Healthcare and Life Sciences
+Higher Education
+Game Development
+Industrial Sector
+Manufacturing
+Media and Entertainment
+US Public Sector
+Restaurants
+Retail and CPG
+Robotics
+Smart Cities and Spaces
+Supercomputing
+Telecommunications
+Transportation
+For You
+Creatives/Designers
+NVIDIA Studio
+Overview
+Accelerated Apps
+Products
+Compare
+Shop
+Industries
+Media and Entertainment
+Manufacturing
+Architecture, Engineering, and Construction
+All Industries >
+Solutions
+Data Center/Cloud
+Laptops/Desktops
+Augmented and Virtual Reality
+Multi-Display
+Rendering
+Metaverse - Omniverse
+Graphics Virtualization
+Engineering Simulation
+Data Scientists
+Industries
+Financial Services
+Consumer Internet
+Healthcare
+Higher Education
+Retail
+Public Sector
+All Industries >
+Solutions
+AI Inference
+AI Workflows
+Conversational AI
+Data Analytics
+Deep Learning Training
+Generative AI
+Machine Learning
+Prediction and Forecasting
+Speech AI
+Software
+AI Enterprise Suite
+AI Inference - Triton
+AI Workflows
+Avatar - Tokkio
+Cybersecurity - Morpheus
+Data Analytics - RAPIDS
+Apache Spark
+AI Workbench
+Large Language Models - NeMo Framework
+Logistics and Route Optimization - cuOpt
+Recommender Systems - Merlin
+Speech AI - Riva
+NGC Overview
+NGC Software Catalog
+Open Source Software
+Products
+PC
+Laptops & Workstations
+Data Center
+Cloud
+Resources
+Professional Services
+Technical Training
+Startups
+AI Accelerator Program
+Content Library
+NVIDIA Research
+Developer Blog
+Kaggle Grandmasters
+Developers
+Developer Resources
+Join the Developer Program
+NGC Catalog
+NVIDIA NGC
+Technical Training
+News
+Blog
+Forums
+Open Source Portal
+NVIDIA GTC
+Startups
+Developer Home
+Application Frameworks
+AI Inference - Triton
+Automotive - DRIVE
+Cloud-AI Video Streaming - Maxine
+Computational Lithography - cuLitho
+Cybersecurity - Morpheus
+Data Analytics - RAPIDS
+Generative AI
+Healthcare - Clara
+High-Performance Computing
+Intelligent Video Analytics - Metropolis
+Logistics and Route Optimization - cuOpt
+Metaverse Applications - Omniverse
+Recommender Systems - Merlin
+Robotics - Isaac
+Speech AI - Riva
+Telecommunications - Aerial
+Top SDKs and Libraries
+Parallel Programming - CUDA Toolkit
+Edge AI applications - Jetpack
+BlueField data processing - DOCA
+Accelerated Libraries - CUDA-X Libraries
+Deep Learning Inference - TensorRT
+Deep Learning Training - cuDNN
+Deep Learning Frameworks
+Conversational AI - NeMo
+Generative AI - NeMo
+Intelligent Video Analytics - DeepStream
+NVIDIA Unreal Engine 4
+Ray Tracing - RTX
+Video Decode/Encode
+Automotive - DriveWorks SDK
+Executives
+Gamers
+GeForce
+Overview
+GeForce Graphics Cards
+Gaming Laptops
+G-SYNC Monitors
+RTX Games
+GeForce Experience
+GeForce Drivers
+Forums
+Support
+Shop
+GeForce NOW
+Overview
+Download
+Games
+Pricing
+FAQs
+Forums
+Support
+SHIELD
+Overview
+Compare
+Shop
+FAQs
+Knowledge Base
+IT Professionals
+Solutions
+Data Center (On-Premises)
+Edge Computing
+Cloud Computing
+Networking
+Virtualization
+Enterprise IT Solutions
+Software
+AI Enterprise Suite
+Cloud Native Support
+Cluster Management
+Edge Deployment Management
+AI Inference - Triton
+IO Acceleration
+Networking
+Virtual GPU
+Apps and Tools
+Data Center
+GPU Monitoring
+NVIDIA Quadro Experience
+NVIDIA RTX Desktop Manager
+Resources
+Data Center & IT Resources
+Technical Training and Certification
+Enterprise Support
+Drivers
+Security
+Product Documentation
+Forums
+Researchers
+NVIDIA Research Home
+Research Areas
+AI Playground
+Video Highlights
+COVID-19
+NGC Catalog
+Technical Training
+Startups
+News
+Developer Blog
+Open Source Portal
+Cambridge-1 Supercomputer
+3D Deep Learning Research
+Roboticists
+Products
+AI Training - DGX
+Edge Computing - EGX
+Embedded Computing - Jetson
+Software
+Robotics - Isaac ROS
+Simulation - Isaac Sim
+TAO Toolkit
+Vision AI - Deepstream SDK
+Edge Deployment Management
+Synthetic Data Generation - Replicator
+Use Cases
+Healthcare and Life Sciences
+Manufacturing
+Public Sector
+Retail
+Robotics
+More >
+Resources
+NVIDIA Blog
+Robotics Research
+Developer Blog
+Technical Training
+Startups
+Startups
+Shop
+Drivers
+Support
+About Us
+Company
+Overview
+History
+Our Body of Work
+Awards
+Executive Bios
+Investors
+Venture Capital (NVentures)
+Brand Guidelines
+Diversity and Inclusion
+Our Work
+AI Computing Leadership
+Corporate Responsibility
+NVIDIA Foundation
+Research
+Technologies
+Trustworthy AI
+Careers
+Overview
+Life at NVIDIA
+Open Positions
+How We Hire
+University Recruiting
+Benefits
+News
+Newsroom
+NVIDIA Blog
+AI Podcast
+Stay Informed
+Events
+Events Calendar
+Webinars
+NVIDIA GTC
+Company
+History
+Our Body of Work
+Awards
+Executive Bios
+Investors
+Venture Capital (NVentures)
+Brand Guidelines
+Diversity and Inclusion
+Our Work
+AI Computing Leadership
+Corporate Responsibility
+NVIDIA Foundation
+Research
+Technologies
+Trustworthy AI
+Careers
+Life at NVIDIA
+Open Positions
+How We Hire
+University Recruiting
+Benefits
+News
+Newsroom
+NVIDIA Blog
+AI Podcast
+Stay Informed
+Events
+Events Calendar
+Webinars
+NVIDIA GTC
+Company
+Company
+Overview
+History
+Our Body of Work
+Awards
+Executive Bios
+Investors
+Venture Capital (NVentures)
+Brand Guidelines
+Diversity and Inclusion
+Our Work
+Our Work
+AI Computing Leadership
+Corporate Responsibility
+NVIDIA Foundation
+Research
+Technologies
+Trustworthy AI
+Careers
+Careers
+Overview
+Life at NVIDIA
+Open Positions
+How We Hire
+University Recruiting
+Benefits
+News
+News
+Newsroom
+NVIDIA Blog
+AI Podcast
+Stay Informed
+Events
+Events
+Events Calendar
+Webinars
+NVIDIA GTC
+Personalized Ads
+Preference Signal
+Websites
+Children's Privacy
+Data Transfer
+Data Retention
+Contact Us
+Privacy Policy
+Personalized Ads
+Preference Signal
+Websites
+Children's Privacy
+Data Transfer
+Data Retention
+Contact Us
+This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the
+instructions how to enable JavaScript in your web browser.
+Effective date February 27, 2024 (
+Archived versions
+)
+NVIDIA Privacy Policy
+We promise to protect your privacy.
+We’re committed to supporting your privacy rights.
+Control your personal data.
+You have the right to see the data we have collected, take it with you, make corrections, withdraw consent for future uses, opt out of sharing, or erase your data all together at any time.
+Expect non-discrimination.
+You have the right to non-discriminatory treatment, regardless of whether you allow us to process your data.
+Protect your privacy—and your choices
+. If you feel we’ve failed in any way, you have the right to lodge a complaint with a data protection authority in your region.
+When we use the term “NVIDIA” we’re referring collectively to NVIDIA Corp. in the United States and to our subsidiaries and affiliates globally.
+If you have an NVIDIA account or have signed up for our content with your email address, you may visit
+privacy.nvidia.com
+to exercise your privacy rights. Otherwise, you can contact us directly at
+privacy@nvidia.com
+. We use your NVIDIA account or your registered email address to verify your identity.
+Visiting Our Website and Interacting With Our Online Content
+We collect your information when you search for information, order products, request to download content, register for events or demos, or give us feedback. This helps us deliver what you ask for, communicate with you, and better understand what your interests are. It also enables us to improve our web experiences, products and services, and find others who may be interested in them.
+See More
+See Less
+Type of Data
+How We Use This Data
+Legal Basis for Processing
+Whether We Share This Data
+When you visit our websites or online services, we collect a history of the content you have viewed.
+We use content viewing history to understand your experience, improve our content, and customize content for you.
+If you consent, we may also use content viewing history to send customized communications to you (e.g., emailed recommendations).
+We process content viewing history based on our legitimate interest in making and improving our content.
+We rely solely on your consent if we use content viewing history to send customized communications to you.
+We never share this data.
+When you register for our events or when you request content (e.g., newsletters or white papers), we collect your contact information, including your name, email address, phone number, address, and organization affiliations.
+We use your request history and contact information to communicate with you about your requests, and to find other individuals and organizations that may be interested in our products and services.
+If you consent, we may also use your request history and contact information to send customized communications to you (e.g., emailed recommendations).
+We process your contact information with your consent or based on our legitimate interest in finding potential customers for our products and services.
+We rely solely on your consent if we use this information to customize our communications with you.
+We share your request and contact information with business partners so they can communicate with you about relevant products or services.
+We share your email address and phone number with Google to assess the effectiveness of our internet advertising.
+We share your contact information with identity enrichment providers such as 6Sense or Leadspace to obtain additional details (e.g., title, associated industries) about you.
+If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others.
+Learn more.
+When you order products, we collect your contact information, including your name, email address, phone number, address, and business affiliations.
+We use your order history and contact information to communicate with you about your orders, to send you items you have ordered, and to find other individuals and organizations that may be interested in our products and services.
+If you consent, we may also use your order history and contact information to send customized communications to you (e.g., emailed recommendations).
+We process your contact information with your consent, as part of a contract with you (for example, to buy a product), or based on our legitimate interest in finding potential customers for our products and services.
+We rely solely on your consent if we use this information to customize our communications with you.
+We share your contact information with shipping or logistics vendors to help fulfill your request.
+If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others.
+Learn more.
+When you submit feedback through our online services, we collect your feedback, your email address, and associated technical information such as the feedback mechanism (e.g., URL), the version of your operating system and browser, and your IP address.
+We use this data to improve our products and services.
+We rely solely on your consent if we collect feedback information.
+We do not share this data unless you use GeForce NOW as an account holder with one of our GeForce NOW Alliance partners. If so, we share your ratings and feedback with your GeForce Now Alliance partner.
+When you interact with any of our chatbots on our web site or mobile apps we collect your messages, including the personal information included in the messages, such as your name and email address (if provided), along with the web page you are on.
+We use this data to improve our products and services, and to support our customer service efforts. We also use your contact information to communicate with you about your requests. We store this information for purposes of record keeping and to support our customer service efforts, including to continue our chatbot communications if we end up connecting at a future date.
+We rely solely on your consent to collect the chatbot messages. In addition, we process your personal information with your consent or based on our legitimate interest based on the nature of the processing activity. When we rely on legitimate interest, we do so to provide the chatbot services and find potential customers for our products and services (as may be permitted under applicable law).
+If the chatbot platforms are supported by third-party vendors such as Drift, such vendors will collect and process this data, including your personal information if provided, as part of the provision of the chatbot services. These vendors will process your personal information as a data processor, and under our instructions.
+When you interact with our emails (e.g., open, click, unsubscribe, add other recipients), we collect information about your interactions.
+We use email interaction data to improve how we communicate with you and others, and to find potential customers.
+We process email interaction data based on our legitimate interest in making and improving our content, and in finding and communicating with potential customers.
+We never share this data.
+Creating an NVIDIA Account
+We collect your information when you create an account with us for GeForce NOW, NGC, GTC, or other programs to service your account, communicate with you, and comply with regional laws.
+See More
+See Less
+Type of Data
+How We Use This Data
+Legal Basis for Processing
+Whether We Share This Data
+We collect user information, including username, email address, account preferences, login activity, and IP address.
+We use your user profile information to identify you as a user of our services, customize your experience, communicate with you about important changes, and detect and prevent malicious use of our services.
+If you consent, we may also use your user profile information to send customized communications to you (e.g., emailed recommendations).
+We process your user profile information with your consent, or as part of a contract with you (for example, to provide a service such as GeForce NOW or NVIDIA Developer Program).
+If we process your user profile information to detect and prevent malicious use of our services, we do so based on our legitimate interest in protecting our services from abuse.
+We rely solely on your consent if we process your user profile information to customize our communications with you.
+If you visit our online discussion forums, your user profile is shared with a vendor to manage operations such as content moderation and account management.
+If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others.
+Learn more.
+We collect your birthdate.
+We use your birthdate to ensure compliance with local laws regarding children’s access to digital services.
+We are required by law to process your birthdate to ensure compliance with local laws regarding children’s access to digital services.
+We never share this data.
+We collect your geographic region.
+We use your geographic region to (1) ensure compliance with local laws; (2) customize the language, format, or substance of our communications with you; and (3) configure our network services.
+We are required to process your geographic region to ensure compliance with local laws.
+When we customize communications or configure our network services based on your geographic region, we do so based on our legitimate interest in communicating effectively with you.
+If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others.
+Learn more.
+Using NVIDIA Products
+We collect your information when you use NVIDIA software, including GeForce Experience, GeForce NOW, software for NVIDIA SHIELD, and enterprise software for our cloud, data center, networking, and embedded systems products.This helps us optimize your experience, improve our products and services, and better communicate with you. In addition, when you use ad-supported services such as an ad-supported plan of GeForce NOW, we collect and share information to personalize advertisements for you.
+See More
+See Less
+Type of Data
+How We Use This Data
+Legal Basis for Processing
+Whether We Share This Data
+We collect installation and configuration details about your software, hardware, and network configuration (e.g., version of operating system, applications installed, type of hardware, network speed, IP address).
+We use this data to optimize your settings, and to improve our products and services by understanding how they are used.
+If you consent, we may also use this data to send customized communications to you (e.g., emailed recommendations).
+We process this data as part of a contract with you to provide a service (e.g., delivering software updates), and based on our legitimate interest in making and improving our products and services.
+We rely solely on your consent if we use this data to customize our communications with you.
+We do not share this data unless you use GeForce NOW as an account holder with one of our GeForce NOW Alliance partners. If so, we share your operating system version, network type, and the last three digits of your IP address with your GeForce Now Alliance partner.
+We collect information about the features and applications used in connection with our products or services, including the software or games you are using.
+We use feature and application data to understand your experience and to improve our products and services.
+If you consent, we may also use feature and application data to send customized communications to you (e.g., emailed recommendations).
+We process feature and application data as part of a contract with you to provide a service (e.g., delivering software updates), and based on our legitimate interest in making and improving our products and services.
+We rely solely on your consent if we use your feature and application data to customize our communications with you.
+We do not share this data unless you use GeForce NOW as an account holder with one of our GeForce NOW Alliance partners. If so, we share your games played and session time with your GeForce Now Alliance partner.
+When you use an ad-supported GeForce NOW plan, in addition to the installation and feature data described above, we collect your birth date, language, country, IP address, and details of how you are viewing advertisements (e.g., duration, screen orientation).
+We use this data on ad-supported GeForce NOW plans to provide interest-based advertising, for fraud prevention, and to limit the repetition of advertisements.
+We process data for interest-based advertising based on your consent to use an ad-supported GeForce NOW plan, and based on our legitimate interest in delivering an ad-supported GeForce NOW plan. If you do not wish to have this data processed for interest-based advertising, please select a premium plan of GeForce NOW or opt-out of interest-based advertising in our Privacy Center. If you opt-out of interest-based advertising, you may still see non-interest-based advertising.
+We process your IP address for purposes of fraud prevention and to limit the repetition of advertisements based on our legitimate interests in maintaining the security and quality of GeForce NOW. You cannot opt out of processing for this purpose.
+If you use an ad-supported GeForce NOW plan, we share your age range, language, country, and IP address with advertising providers to deliver interest-based ads and for the purposes of fraud prevention and to limit the repetition of advertisements.
+If you consent, we collect error or crash data in connection with our products or services.
+We use error or crash data to find and fix bugs.
+We rely solely on your consent if we use your error or crash data.
+We do not share this data unless you use GeForce NOW as an account holder with one of our GeForce NOW Alliance partners. If so, we share error data with your GeForce Now Alliance partner.
+For Lead Generation and Identity Enrichment
+We collect your information from publicly or commercially available sources such as attendance at events we sponsor, searches on the public internet, and data enrichment services. This helps us communicate with you more effectively and find others who are interested in our products and services.
+See More
+See Less
+Type of Data
+How We Use This Data
+Legal Basis for Processing
+Whether We Share This Data
+If you attend an event we sponsor, we collect from the event organizer information such as your name, email address, business affiliations, phone number, and physical or billing address.
+We use this data to communicate with you and find individuals and organizations that may be interested in our products and services.
+If you consent, we may also use this information to send customized communications to you (e.g., emailed recommendations).
+We process this data based on our legitimate interest in finding and communicating with potential customers.
+We share this information with business partners so they can communicate with you about relevant products or services.
+We also share this information with identity enrichment providers such as 6Sense or Leadspace to obtain additional details (e.g., title, associated industries) about you.
+If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others.
+Learn more.
+We collect certain personal data from publicly available sources (e.g., the internet) to find individuals and organizations that may be interested in our products or services. The personal data we collect includes names, titles, areas of work, publication or funding histories, mentions of NVIDIA technology, and contact information including emails, phone numbers, and associated organizations or collaborations.
+We use this data to understand the market for our products and to communicate with potential customers or partners.
+We process this data based on our legitimate interest in market research and in finding and communicating with potential customers.
+If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others.
+Learn more.
+We collect identity enrichment data from third-party sources such as your name, email, job title, company, associated industries, and social media handles.
+We combine this data with other information about you to more effectively communicate with you and others, including by customizing online content you view or making recommendations.
+We process this data based on our legitimate interest in finding and communicating with potential customers.
+We share this information with business partners so they can communicate with you about relevant products or services.
+If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others.
+Learn more.
+For Autonomous Vehicle (AV) and Artificial Intelligence (AI) Research and Development
+AV and AI technologies require access to large volumes of high-quality data to learn how to perceive, classify, and navigate among people, objects, and scenes. We collect public images and other data through sensors on NVIDIA or partner-identified vehicles and in clearly disclosed public spaces–as well as datasets collected by others–to improve the safety and reliability of our AV and AI models. This data is never associated with any other product or service.
+See More
+See Less
+Type of Data
+How We Use This Data
+Legal Basis for Processing
+Whether We Share This Data
+Public images, audio-video, and survey data (e.g., lidar / radar data) surrounding our NVIDIA- or partner-identified vehicles.
+Public images and audio-video in clearly disclosed locations.
+Publicly available or appropriately licensed datasets containing images, audio-video, or text relating to people, voices, or other personal data or scenes.
+We use this data to train our AV and AI models to perform safely and reliably, including to accurately classify or generate images, audio, video, or text, or to navigate public roads or other spaces.
+This data is used exclusively for the purposes of our AV and AI projects and is not used or connected to personal data for our other products and services.
+We process this data based on our legitimate interest in developing safe and reliable AV and AI models.
+We sometimes share this data with third-party vendors supporting our technology or with business partners that are also developing AV and AI technology.
+We require all recipients to strictly abide by this privacy policy including its restrictions on how personal data is used, stored, and shared.
+NVIDIA does not use, sell, or share “sensitive personal information” as defined by California law.
+Sharing Hashed Data for Interest-based Advertising on Third-party Platforms
+If you’ve consented to receive marketing communications or recommendations, we share hashed details about your identity with third-party ad providers such as Google to serve interest-based ads to you and others. These hashed details may include your name, email, phone number, job title, organizational business affiliations, zip code, country, and social media handles.
+Your information is shared in hashed form only, which means that your details are irreversibly converted to a fixed-size string of characters such as “0890f456684a70f1a9f1dbcee40c1fe847b76f338581a9a1d9202c76b1c175f4” (which is the SHA-256 hash of “NVIDIA”). Sharing information in hashed form means that third-party ad providers can only identify you if they already have the information we have shared and have hashed it themselves to match the hashed version we are sharing. Sharing information in hashed form is a way of identifying information that both parties have without sharing the information itself.
+You can opt out of data sharing for interest-based advertising at any time by visiting our
+Privacy Center
+or by enabling an opt-out preference signal.
+How to Set Up and Use an Opt-Out Preference Signal
+NVIDIA websites detect and respond to Global Privacy Control signals by disabling all Performance and Advertising cookies. If you have consented to marketing communications or recommendations you will need to log into our Privacy Center to disable sharing with third party advertisers. To enable this signal, download and use a browser or browser extension that supports the Global Privacy Control.
+Data on NVIDIA Websites
+If you visit any of our NVIDIA websites, we or our third-party partners collect information using cookies, web beacons, or log file information. Please see our
+Cookie Policy
+for more details.
+Children’s Privacy Policy
+We take special care to protect the privacy of children, and our products and services are not targeted for use by children under the age of 13. We only collect data from children who are above the age of digital consent in their jurisdiction (e.g., at least 13 for the United States), or if we have express parental consent (e.g., for attendance at one of our conferences).
+We share some personal data of account holders under the age of 18 if sharing personal data is required for service functionality. For example, if an account holder under the age of 18 is using NVIDIA services via one of our GeForce NOW Alliance partners, we share the account holder’s operating system version, network type, games played, session time, ratings and feedback, error data, and a masked version of the account holder’s IP address with that GeForce NOW Alliance Partner to enable service functionality.
+If an account holder under the age of 18 uses an ad-supported GeForce NOW plan, we share the account holder’s IP address, country, platform, and game title for purposes of fraud prevention and ad frequency capping. We also share this information as well as age range for purposes of interest-based advertising if the account holder is 16 or older. Account holders below the age of 16 are opted out of interest-based advertising by default, and all account holders may opt out of interest-based advertising by visiting our Privacy Center.
+We employ reasonable technological safeguards to comply with local laws, and to prevent underage children from accessing areas of our services where personal information may be collected. For example, underage children are not allowed to participate in our user-to-user forums, subscribe to an email newsletter, or enter any of our sweepstakes or contests.
+Please contact us if you become aware that your child has provided us with personal data without your consent.
+Cross-Border Data Transfer
+NVIDIA is located in California, and in most cases we need to securely transfer and store your information in the United States. Transfers of personal data to the United States, and to or from NVIDIA, are made subject to the
+Standard Contractual Clauses
+which have been pre-approved by the European Commission and ensure appropriate data protection safeguards. In addition, NVIDIA complies with the EU-U.S., Swiss-U.S., and UK Extension to the EU-U.S.
+Data Privacy Framework Principles
+and we are subject to enforcement by the U.S. Federal Trade Commission. This means we adhere to the Data Privacy Framework Principles of notice, choice, and accountability for onward transfer, security, data integrity, purpose limitation, access, recourse, enforcement, and liability. We are the data controller, and we remain responsible for any of your personal information that is shared with third parties for processing on our behalf.
+NVIDIA has committed to cooperating with the panel established by the EU data protection authorities (DPAs) the Swiss Federal Data Protection and Information Commissioner (FDPIC), and the UK Information Commissioner’s Office (ICO) with regard to unresolved Data Privacy Framework complaints concerning data transferred from the EU Switzerland, and the UK. Under certain conditions, you may invoke binding arbitration to resolve any complaint. We are subject to U.S. law, and we may be required to share data with U.S. law enforcement agencies. To learn more about the Data Privacy Framework, please visit the U.S. Department of Commerce Privacy Shield website:
+https://www.dataprivacyframework.gov/
+. For more information regarding our Data Privacy Framework certification, please see:
+https://www.dataprivacyframework.gov/s/participant-search
+.
+Data Retention
+We retain your personal data for as long as our engagement with you continues (e.g., emails, website visits, logins, or event attendance). We erase customer and enterprise personal data if there has been no engagement with you for more than five years.
+We retain data collected from public spaces for as long as it continues to support our AV and AI projects. If you are a member of the public and wish to exercise any of your privacy rights, please contact us directly at
+privacy@nvidia.com
+.
+You may also exercise your right to erasure at any time. If you have an NVIDIA account or have signed up for our content with your email address, you may visit privacy.nvidia.com to exercise your privacy rights. Otherwise contact us directly at
+privacy@nvidia.com
+.
+Contact Us
+If you have any questions, wish to contact an NVIDIA data protection officer in a specified region, or if you’re an Authorized Agent seeking to make a request on behalf of a consumer under California’s Consumer Privacy Act, please contact our Data Privacy Team.
+Email
+privacy@nvidia.com
+Mail
+ATTN: Data Privacy Team
+NVIDIA Corporation
+2788 San Tomas Expressway
+Santa Clara, CA 95051
+Updates to this policy will be posted at
+privacy.nvidia.com
+. Significant updates will be communicated by email.
+You can change your privacy settings at any time.
+Visit NVIDIA Privacy Center
+Company Information
+About Us
+Company Overview
+Investors
+Venture Capital (NVentures)
+NVIDIA Foundation
+Research
+Social Responsibility
+Technologies
+Careers
+News and Events
+Newsroom
+Company Blog
+Technical Blog
+Webinars
+Stay Informed
+Events Calendar
+GTC AI Conference
+NVIDIA On-Demand
+Popular Links
+Developers
+Partners
+Executive Insights
+Startups and VCs
+Documentation
+Technical Training
+Training for IT Professionals
+Professional Services for Data Science
+Follow NVIDIA
+Facebook
+Twitter
+LinkedIn
+Instagram
+YouTube
+NVIDIA
+United States
+Privacy Policy
+Manage My Privacy
+Do Not Sell or Share My Data
+Terms of Service
+Accessibility
+Corporate Policies
+Product Security
+Contact
+Copyright © 2024 NVIDIA Corporation

@@ -1,0 +1,28 @@
+AEM Privacy Policy
+Home
+Products
+Audio Evolution Mobile for Android
+Audio Evolution Mobile for iOS
+USB Audio Player PRO
+USB Audio Recorder PRO
+Stage Assistant
+Technology
+USB audio driver
+Forums
+Contact
+Overview
+Features
+Tutorial videos
+User manual
+Free trial
+Buy
+Audio Evolution Mobile privacy policy
+Audio Evolution Mobile Studio verifies your in-app purchases through the Google License Verification servers. In order to prevent fraud, it sends your device's Firebase ID and the in-app purchase information in an encrypted way. None of this information is shared with other parties, neither can we link Firebase ID's to individuals. No other information is collected.
+The WRITE_EXTERNAL_STORAGE permission is used to store projects in the AudioEvolution folder on your device.
+The RECORD_AUDIO permission is used to record audio.
+The INTERNET permission is used to verify your license and to connect to Google Drive.
+The GET_ACCOUNTS permission is only used when selecting Google Drive. The app then asks to choose which account you want to use with Google Drive. Email addresses displayed are only used for this purpose.
+Google Drive
+After selecting an account and giving permission to use Google Drive, the app will only access the AudioEvolution folder on your Google Drive. It is used for synchronizing and backing up Audio Evolution Mobile projects and their data. None of your data is used or sent to someone else like the developers. This means that we DO NOT keep a copy of your data! You are responsible for your own back-ups.
+Should you have any questions or concerns, please contact us at
+This email address is being protected from spambots. You need JavaScript enabled to view it.

@@ -1,0 +1,30 @@
+Privacy Policy | Intellijoy
+Contact Us
+Games
+Blog
+Our Team
+Why Intellijoy
+Contact Us
+Privacy Policy
+Last updated: February 22, 2021
+Intellijoy’s privacy policy is very simple.
+Our apps DO NOT collect ANY information.
+Period.
+Home
+/
+All Games
+/
+Blog
+/
+Our Team
+/
+Why Intellijoy
+/
+Testimonials
+/
+Privacy Policy
+/
+'footer_menu2', 'container' => '', 'after' => '
+/
+' )); ?>
+Copyright © Intellijoy, 2021

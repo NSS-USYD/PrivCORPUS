@@ -1,0 +1,213 @@
+Privacy Policy
+ABUZZ Applications and Website
+In Brief:
+We are parents ourselves and do take children's privacy very seriously.
+We use COPPA and GDPR compliant third party services to build and run the Applications. They do collect certain personal and non-personal and usage data automatically, which is necessary for them to provide the services and without it, the Applications cannot run and you have the option to simply delete the Applications. All personally identifiable information collected by these services, are anonymized
+Â
+(like Advertising ID and IP address and more) and is mainly used to provide the service for which it is being collected. And all the advertising on our Applications are non personalized.
+We ourselves directly do collect email addresses and name only when you send it yourselves to us (never automatically) and use it only for the purpose for which it was collected (Newsletter, Support, etc.).
+In Detail:
+Overview:
+This Privacy Policy describes the information collected by Abuzz ("we," "us" or "our") through our mobile applications and website and how we use that information.
+Types of Data collected:
+Among the types of Personal Data that our Applications or Website collects, by itself or through third parties, there are: Usage Data, Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, first name, Storage permission and geographic position. Complete details on each type of Personal Data collected are provided in the dedicated sections below.
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using our Applications or Website. Unless specified otherwise, all automated Data requested by our Applications and Website is mandatory and failure to provide this Data may make it impossible to provide its services. In cases where it specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service. The data collected by Advertising networks are not collected once you make the in-app purchase within our Applications to Remove the Ads, or for that matter use our Paid Applications.
+Any use of Cookies - or of other tracking tools - by our Applications or Website or by the owners of third-party services used by these, serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
+Users are responsible for any third-party Personal Data obtained, published or shared through our Applications or Website and confirm that they have the third party's consent to provide the Data to the Owner.
+Mode and place of processing the Data
+Methods of processing
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of these Applications or Website (administration, sales, marketing, legal, system administration) or external parties (such as mail carriers, hosting providers, etc.).
+Legal basis of processing
+The Owner may process Personal Data relating to Users if one of the following applies:
+• Users have given their consent for one or more specific purposes.
+• processing is necessary for compliance with a legal obligation to which the Owner is subject;
+• processing is related to a task that is carried out in the exercise of official authority vested in the Owner;
+• processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+Place
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
+Retention time
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
+Therefore:
+• Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+• Personal Data collected for the purposes of the Owner's legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+The purposes of processing
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Advertising, Analytics, Contacting the User, Device permissions for Personal Data access, Handling payments, Hosting and backend infrastructure, Infrastructure monitoring and Managing contacts and sending messages.
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
+Device permissions for Personal Data access
+Depending on the User's specific device, these Applications or Website may request certain permissions that allow it to access the User's device Data as described below.
+By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
+The exact procedure for controlling app permissions may be dependent on the User's device and software.
+Please note that the revoking of such permissions might impact the proper functioning of the Applications or Website.
+If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
+Storage permission
+Used for accessing shared external storage, including the reading and adding of any items.
+Detailed information on the processing of Personal Data
+Personal Data is collected for the following purposes and using the following services:
+Advertising
+This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User's interests and behavior. For more information, please check the privacy policies of the relevant services.
+In addition to any opt-out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting theÂ
+Network Advertising Initiative opt-out page - http://optout.networkadvertising.org/
+.
+SuperAwesome (SuperAwesome Ltd)
+SuperAwesome is an advertising service provided by SuperAwesome Ltd.
+Personal Data collected: Cookies and Usage Data.
+Place of processing: United Kingdom -
+Privacy Policy - https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/
+.
+AdMob (AdMob Google Inc.)
+AdMob is an advertising service provided by Google LLC.
+In order to understand Google's use of Data, consult
+Google's partner policy - https://www.google.com/policies/privacy/partners/
+.
+Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
+Place of processing: United States-
+Privacy Policy (https://www.google.com/policies/technologies/ads/)
+-
+Â
+Opt Out (https://www.google.com/settings/ads)
+. Privacy Shield participant.
+Read in full
+here - https://support.google.com/admob/answer/6128543?hl=en
+.
+Unity Ads (Unity Technologies ApS)
+Unity Ads is an advertising service provided by Unity Technologies ApS.
+Personal Data collected: Cookies and Usage Data.
+Place of processing: Denmark -
+Â
+Privacy Policy - https://unity3d.com/legal/privacy-policy
+.
+Kidoz
+Privacy Policy: https://kidoz.net/privacy-policy/
+Safe Ads Policy: https://kidoz.net/safe_ads_policy/
+Analytics
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+Unity Analytics (Unity Technologies ApS)
+Unity Analytics is an analytics service provided by Unity Technologies ApS.
+Personal Data processed: Usage Data; various types of Data as specified in the privacy policy of the service.
+Place of processing: Denmark-
+Privacy Policy - https://unity3d.com/legal/privacy-policy
+.
+Google Analytics for Firebase (Google LLC)
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google LLC.
+In order to understand Google's use of Data, consultÂ
+Google's partner policy - https://www.google.com/policies/privacy/partners/
+.Â Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.Â This Application uses identifiers for mobile devices and technologies similar to cookies to run the Firebase Analytics service.Â Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.
+Personal Data processed: Usage Data.
+Place of processing: United States-
+Privacy Policy - https://policies.google.com/privacy
+. Privacy Shield participant.
+Contacting the User
+Mailing list or newsletter (Applications)
+By registering on the mailing list or for the newsletter, the User's email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning our Applications.
+Personal Data collected: email address and first name.
+Contact form (Website)
+By filling in the contact form with their Data, the User authorizes the Website and Applications to use these details to reply to request for information or any other kind of request as indicated by the form's header.
+Personal Data collected: email address and first name.
+Device permissions for Personal Data access
+The Applications requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
+Personal Data collected: Storage permission.
+Handling payments
+Unless otherwise specified, this Application processes any payments by credit card, bank transfer or other means via external payment service providers. In general and unless where otherwise stated, Users are requested to provide their payment details and personal information directly to such payment service providers. This Application isn't involved in the collection and processing of such information: instead, it will only receive a notification by the relevant payment service provider as to whether payment has been successfully completed.
+Amazon Payments (Amazon)
+Amazon Payments is a payment service provided by Amazon.com, Inc., which allows Users to make online payments using their Amazon credentials.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing: See the Amazon privacy policy-
+Privacy Policy - https://pay.amazon.com/help/201491260
+.
+Payments processed via the Google Play Store (Google LLC)
+This Application uses a payment service provided by Google LLC that allows the Owner to offer the purchase of the app itself or in-app purchases.Â Personal Data processed to complete the purchases are processed by Google, as described in theÂ
+privacy policy for the Google Play store - https://policies.google.com/privacy?hl=en&gl=it
+.
+Personal Data processed: payment data.
+Place of processing: United States-
+Privacy Policy - https://policies.google.com/privacy
+. Privacy Shield participant.
+Payments processed via the Apple App Store (Apple Inc.)
+This Application uses a payment service provided by Apple Inc. that allows the Owner to offer the purchase of the app itself or in-app purchases.Â Personal Data processed to complete the purchases are processed by Apple, as described in theÂ
+privacy policy for the App Store - https://www.apple.com/legal/privacy/en-ww/
+.
+Personal Data processed: payment data.
+Place of processing: United States-
+Privacy Policy - https://www.apple.com/legal/privacy/en-ww/
+. Privacy Shield participant.
+Hosting and backend infrastructure
+This type of service has the purpose of hosting Data and files that enable our Website and Applications to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of the Applications. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+Google Cloud Storage (Google Inc.)
+Google Cloud Storage is a hosting service provided by Google Inc.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+Place of processing: United States-
+Privacy Policy - https://www.google.com/intl/policies/privacy/
+. Privacy Shield participant.
+Google App Engine (Google Inc.)
+Google App Engine is a hosting service provided by Google Inc.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+Place of processing: United States-
+Privacy Policy - https://www.google.com/intl/policies/privacy/
+. Privacy Shield participant.
+Managing contacts and sending messages
+This type of service makes it possible to manage a database of email contacts and name to communicate with the User.
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+MailChimp (The Rocket Science Group, LLC.)
+MailChimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+Personal Data collected: email address and first name.
+Place of processing: United States-
+Privacy Policy - https://mailchimp.com/legal/privacy/
+. Privacy Shield participant.
+These Applications and Website are directed to children under the age of 13 to play the games but it is also directed towards the parents as they are the ones who access the Website and Download the Applications and not the children themselves.
+It doesn't require the child to disclose any more information than is reasonably necessary to participate in its activity.
+Parents can delete the Applications if they do not want any further collection of Data. And they can contact the third parties as listed in this Policy to delete the Data already collected. We ourselves collect Name and Email Address only if the User has themselves given it to us and this is something we only use to communicate back for the purpose for which it was given.
+Additional information about Data collection and processing
+Legal action
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of these Applications or the related Services.
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+Additional information about User's Personal Data
+In addition to the information contained in this privacy policy, these
+Â
+Applications may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+System logs and maintenance
+For operation and maintenance purposes, any third-party services may collect files that record interaction with these Applications (System logs) use other Personal Data (such as the IP Address) for this purpose.
+How "Do Not Track" requests are handled
+These Applications and Website does not support "Do Not Track" requests.
+To determine whether any of the third-party services it uses honor the "Do Not Track" requests, please read their privacy policies.
+Changes to this privacy policy
+The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within the Applications and the Website. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
+Overview
+This Privacy Policy describes the information collected by Abuzz, D.O.O ("we," "us" or "our") through our mobile applications and website and how we use that information.
+We Collect Limited Information with Our Applications.
+When you download and use our mobile applications, we don't require you to provide any information and we don't collect any information about you or your device, except we collect:
+(i) non-personal information about the duration the App is used and how the App is used, such as the screens viewed and actions taken within our mobile applications, which is used solely to enhance and improve our applications; and
+(ii)Â if the parents send us an email from the app or if they opt-in the newsletter form within the app, then only we collect the email addresses specifically to send newsletters only about our new app launches.
+We Comply with the Children's Online Privacy Protection Act
+Our website and mobile applications comply with the Children's Online Privacy Protection Act ("COPPA"). We don't knowingly collect personal information from children under the age of 13 in violation of COPPA, and if in the event that a user identifies himself or herself as a child under the age of 13 through a support request, we will not collect, store or use, and will delete in a secure manner, any personal information of such user.
+To Receive Our Newsletter, We Need Your Email Address
+We provide a free, optional newsletter that parents can elect to receive by submitting a request on our website atÂ
+www.iabuzz.com
+Â or by providing an email address through our Apps. Our collection of email addresses to send newsletters is made under Section 312(c)(3) of the COPPA rules effective July 1, 2013, which require that we notify you that:
+(i) we are collecting the email address for the sole purpose of sending the newsletters;
+(ii) we use the email address solely for that purpose and the email address is not combined with any other information; and
+(iii) you may opt out of receiving the newsletter at any time by unsubscribing.
+Our newsletter is provided through our third party service providers, so we share your email address with them for the sole purpose of fulfilling newsletter subscriptions.
+When You Request Support, You May Send Us Email
+We allow users to contact us if they have support questions about use of our mobile applications. If you submit a support request, we may receive your email address and other information you provide related to your support request ("Support Information"). We use Support Information only for the support for the internal operations of our website and Apps as provided under Section 312.2 of the COPPA rules effective July 1, 2013.
+Information Sharing and Disclosure
+We use your email address only for the purpose of sending the newsletter to you. We use Support Information only for the support for the internal operations of our website and Apps as provided under Section 312.2 of the COPPA rules effective July 1, 2013. We don't rent, sell or share your email address unless we have your express consent and in the following circumstances:
+(i) We share your email address with our newsletter provider to deliver our newsletter to you.
+(ii) We may share your Support Information with our support providers, but only for the purpose of providing support to you.
+(iii) We may share your email address and/or Support Information: (a) to protect the security or integrity of our website and Apps, (b) to take precautions against liability; (c) to respond to judicial process, or (d) to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety; and where such information is not used for any other purpose, all in compliance with Section 312.5(c)(6) of the COPPA rules effective July 1, 2013.
+Cookies
+When you visit our website, we may send cookies to your computer that uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking usage information. Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer.
+Links to Third Party Sites
+We may provide links and/or connections to third-party web sites or services from our website (we don't allow links within our mobile applications). We are not responsible for the privacy practices or content of these third-party sites.
+Changes to this Privacy Policy
+We may amend this Privacy Policy from time to time. Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use your email address, we will notify you in advance of posting by email. Such modifications will become effective on the date set forth in the email.
+Â Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please send us an email at kids@iabuzz.com
+Last updated September 22, 2020

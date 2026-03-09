@@ -1,0 +1,569 @@
+Estoty
+You need to enable JavaScript to run this app.
+Privacy Policy
+Terms & Conditions
+© 2022 Estoty LLC
+info@estoty.com
+info@estotyvilnius.com
+Privacy Policy
+Last updated: February 09, 2023
+EFFECTIVE DATE: FEBRUARY 09, 2023
+Estoty SIA Website Privacy Policy
+Content
+Who collects and process your Personal Data
+Which Personal Data do we collect and process
+Term of Personal Data processing and place of storage
+Third persons and your Personal Data
+Your rights under the GDPR
+Cookies and similar technology
+Age limits
+Contact us
+1
+.
+Who collects and process your Personal Data
+1.1.
+When you (1) play the games developed by us and/or by our partner developers
+(“Game(s)”)
+or (2) use our websites
+https://estoty.com
+we can collect information about you that can directly or indirectly identify you
+(“Personal Data”)
+.
+1.2.
+Please note that we have partner developers who are also engaged in the development of the Games. Our partner developers may also collect Personal Data in the Games. For the avoidance of doubt, the processing of Personal Data in the Games by our partner developers is outside the scope of this Privacy Policy and we are not responsible for such processing. For more information you may refer to our partner developers and their privacy policies.
+1.3.
+Please note that we have partner publishers with which we publish our Games. Our partner publishers may also collect Personal Data. For the avoidance of doubt, the processing of Personal Data by the partner publishers with which we publish our Games is outside the scope of this Privacy Policy, and we are not responsible for such processing. For more information, you may refer to the partner publishers and their privacy policies.
+1.4.
+Our websites may provide links to third-party websites, applications, and services, which are operated and provided by the independent providers. These providers shall have their own privacy policies, cookies policies, as well as terms and conditions, which we encourage you to review before using their services. We are not responsible for the processing activities conducted by third-party providers via their websites, applications, and/or services.
+1.5.
+This Privacy Policy provides (1) the Game players (app users); (2) visitors (users) of website
+https://estoty.com
+(including but not limited to users consuming website content and candidates submitting applications via website designated job application directory); (3) and other subjects with information on which Personal Data we collect and how we process such Personal Data. Unless expressly provided otherwise, all of the following terms apply to all of the above categories of data subjects.
+1.6.
+The controller of your Personal Data who determines purposes and means of the processing is
+SIA Estoty
+, registered in the Register of Legal Entities of the Republic of Latvia on July 18, 2012, under Registration Number 40103567138, legal address: Republic of Latvia, Riga, 6-1 Pulkveza Brieza Street, LV-1010 (
+“we”, “us”, “our”
+, etc.).
+1.7.
+We collect Personal Data in the following ways: if
+you provide it
+to us or
+automatically
+by electronic means, including with the help of cookies, when you play our Games or use our websites. If you contact us on social networks, we may also collect information about you available on such social networks.
+1.8.
+We may periodically update this Privacy Policy. Your continued use of the Games and/or website
+https://estoty.com
+after the effective date of the updated Privacy Policy will be subject to the new Privacy Policy. If we make any major changes to our Privacy Policy and will need your explicit consent for further processing of your Personal Data, we will request your consent or your renewed consent (in case it was obtained previously).
+IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT PLAY OUR GAMES OR USE OUR WEBSITES.
+2
+.
+Which Personal Data do we collect and process
+2.1.
+We respect your privacy and aim to limit the Personal Data that we collect from you to the amount which is strictly necessary to fulfil the purposes of processing. Categories of Personal Data that we process are specified below.
+2.2.
+Your Personal Data is used as follows:
+In-game users
+Checking the quality of game content
+Purpose of the processing
+In order to check and improve the quality of Games content we need to collect data about:
+Progress of passing the Games by users (are there any stages that are too difficult);
+Are ads displayed and are ads working properly with Games content.
+Frames per second (FPS) of the Games across different devices;
+How many users keep playing the Games for a long time;
+How long users play Games;
+Games testing;
+Type of Pesonal Data
+Game data:
+Game name;
+Game configuration version;
+Session ID;
+Event ID;
+Game event type (e.g., “install”, “level_completed”, “show_ad”);
+Event context (arbitrary key/value pairs for in Game event data, soft/hard currency, placement). This field can be filled with specific and custom data depending on the event, Game and user (for example, some are shown only to the paid users). The data list is determined partially by our partner developers and may be changed. The type of data which is collected is Game play data;
+FPS Game information;
+Event time;
+Install time.
+Device data:
+Device name;
+OS name;
+Unity device ID=device ID;
+Advertiser ID (GAID/IDFA), device IDFA;
+Attribution network device ID - external device ID (Adjust ID).
+Legal ground for the processing
+The legitimate interest based on the balance of interests:
+Your interest is in receiving Games with high-quality content;
+Our interest is in attracting more Game players and keeping them.
+Identification of problems in the games
+Purpose of the processing
+In order to identify problems in the Games and fix them we need to collect data about:
+Game freeze/suspension;
+Inability to load the Game;
+Problems while passing the Game;
+Checking the display and operation of ads in the application;
+Errors, warnings;
+Type of Pesonal Data
+Game data:
+Game name;
+Game configuration version;
+Session ID;
+Event ID;
+Game event type (e.g., “install”, “level_completed”, “show_ad”);
+Event context (arbitrary key/value pairs for in Game event data, soft/hard currency, placement). This field can be filled with specific and custom data depending on the event, Game and user (for example, some are shown only to the paid users). The data list is determined partially by our partner developers and may be changed. The type of data which is collected is Game play data;
+FPS Game information;
+Event time;
+Install time.
+Device data:
+Device name;
+OS name;
+Unity device ID=device ID;
+Advertiser ID (GAID/IDFA), device IDFA;
+Attribution network device ID - external device ID (Adjust ID).
+Legal ground for the processing
+The legitimate interest based on the balance of interests:
+Your interest is in playing Games free from any errors, warnings and other problems;
+Our interest is in attracting more Game players and keeping them.
+Financial analysis
+Purpose of the processing
+In order to analyze financial information we need to collect data about:
+How many ads are viewed by users;
+IWhat income does the Game bring (viewing ads, purchases);
+User acquisition costs;
+Type of Pesonal Data
+Advertisement data:
+Ads type (e.g., interstitial / banner / rewarded);
+Advertisement placement name;
+Impressions count;
+Revenue figures;
+Specific and custom data depending on the event, Game and user (for example, some fields are shown only to the paid users). The data list is determined partially by our partner developers and may be changed. The type of data which is collected is acquisition, monetization and advertisement data as well as purchase data;
+Attribution data:
+Source (ad network identifier);
+Campaign name;
+Creatives name;
+source_app_id (adgroup ID - Adjust Attribution manager data);
+tracker token (token ID - Adjust Attribution manager data).
+Device data:
+device name;
+OS name;
+Unity device ID=device ID;
+advertiser ID (GAID/IDFA), device IDFA;
+attribution network device ID - external device ID (Adjust ID).
+Legal ground for the processing
+The legitimate interest based on the balance of interests:
+Your interest is in receiving relevant and valuable ads;
+Our interest is in attracting more Game players and keeping them; analyzing the effectiveness of the ads.
+Marketing analysis
+Purpose of the processing
+We group users by number / countries / by activity in order to determine the audience for the acquisition of users and monetization
+Type of Pesonal Data
+Attribution data:
+Source (ad network identifier);
+Campaign name;
+Creatives name;
+Revenue figures;
+source_app_id (adgroup ID - Adjust Attribution manager data);
+tracker token (token ID - Adjust Attribution manager data).
+GeoIP:
+IP;
+country;
+ASN name.
+Game data:
+Game name;
+Game configuration version;
+Session ID;
+Event ID;
+Game event type (e.g., “install”, “level_completed”, “show_ad”);
+Event context (arbitrary key/value pairs for in Game event data, soft/hard currency, placement). This field can be filled with specific and custom data depending on the event, Game and user (for example, some are shown only to the paid users). The data list is determined partially by our partner developers and may be changed. The type of data which is collected is Game play data;
+GFPS Game information;
+Event time;
+Install time.
+Device data:
+device name;
+OS name;
+Unity device ID=device ID;
+advertiser ID (GAID/IDFA), device IDFA;
+attribution network device ID - external device ID (Adjust ID).
+Legal ground for the processing
+The legitimate interest based on the balance of interests:
+Your interest is in discovering new Games that you may be interested in; receiving relevant and valuable ads;
+Our interest is in attracting more Game players and keeping them; analyzing the effectiveness of the ads.
+Using our website or social media users
+To consider and reply to incoming queries
+Purpose of the processing
+You may contact us via social media or email indicated on our website
+https://estoty.com/
+as well as via the form
+Contact us
+with a question/request/complaint, etc., including with employment request. We will process Personal Data you provide to give feedback (including but not limited to evaluate candidates for the vacant position for the purposes of entering into contractual relations with the successful candidate in accordance with the applicable laws and regulations; to communicate with you regarding job interviews, test assignments and other recruitment related matters; to review and evaluate your eligibility and suitability for the position under consideration).
+Type of Pesonal Data
+Email;
+Personal information from the social media via which you contacted us;
+Full name and surname;
+Phone number;
+Relevant CV entries;
+Graduation diplomas and other certificates of achievement;
+Other data that you provide in your query;
+Legal ground for the processing
+The legitimate interest based on the balance of interests:
+Your interest is in receiving response to your query (e.g., results of considering your CV);
+Our interest is in ensuring good customer service, and providing you with the prompt personalised reply to your enquiry. and/or finding potential suitable employee.
+Other
+To conduct due diligence when preparing for an M&A deal
+Purpose of the processing
+We may need to provide the potential investor and/or his legal counsels with information necessary to conduct due diligence, including with Personal Data of (1) Game players (app users); (2) visitors (users) of our website
+https://estoty.com/
+or social media users.
+Type of Pesonal Data
+Information requested by the potential investor and/or his legal counsels
+Legal ground for the processing
+The legitimate interest based on the balance of interests:
+Your interest is in interaction with us who will have new resources;
+Our interest is in attracting new investors and receiving new resources.
+3
+.
+Term of Personal Data processing and place of storage
+3.1.
+We retain your Personal Data for as long as it is necessary to fulfil the purposes specified in the section “Which Personal Data do we collect and process”.
+3.2.
+The time limits are:
+For Personal Data of Game players (app users) – as long as you use the application and 2 years after (in any case not exceeding 3 years in total);
+For Personal Data of visitors (users) of our website https://estoty.com/ or social media users – as long as it is necessary to respond to the query and 2 years after;
+In case of conducting due diligence when preparing for an M&A deal Personal Data will be stored for the period of cooperation with a business partner.
+Once these time periods have expired, we will delete your data as soon as possible.
+3.3.
+We securely store your data at servers provided by Google Cloud which are physically located in Finland (EU). We also take security precautions such as:
+Measures of pseudonymisation and encryption of Personal Data;
+Measures for ensuring ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+Measures for ensuring the ability to restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident;
+Processes for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures in order to ensure the security of the processing;
+Measures for user identification and authorisation;
+Measures for the protection of data during transmission;
+Measures for the protection of data during storage;
+Measures for ensuring physical security of locations at which Personal Data are processed;
+Measures for ensuring events logging;
+Measures for ensuring system configuration, including default configuration;
+Measures for internal IT and IT security governance and management;
+Measures for certification/assurance of processes and products;
+Measures for ensuring data minimisation;
+Measures for ensuring data quality;
+Measures for ensuring limited data retention;
+Measures for ensuring accountability;
+Measures for allowing data portability and ensuring erasure;
+When processing and transmitting data, the HTTPS protocol is used. To ensure the security of data storage and processing, SSL certificates and other information protection tools are used. When processing data, caching may be performed.
+4
+.
+Third persons and your Personal Data
+4.1.
+Third persons that we share your personal data with:
+4.1.1.
+We may share your Personal Data collected and processed by us (i) in the Games and (ii) via cookies and similar technology (for more information refer to section “Cookies and similar technology”) but only for the purposes specified in section “Which Personal Data do we collect and process” with the companies (third persons) specified in clause 4.1.3.
+4.1.2.
+Please note that some of these companies (or some of their offices/group members) may be located outside the European Union (international data transfers) including in the countries which do not ensure an adequate level of protection of your Personal Data. Where this is the case, we meet the strict conditions of Personal Data transfers from the member states of European Union to other countries by using the Standard Contractual Clauses (SCC) adopted by the European Commission to ensure that Personal Data are properly protected or relying on other derogations compliant with GDPR as specified in clause 4.1.3. In case you want to check the relevant SCC, the links to them are provided in clause 4.1.3. If the link is not provided and you want to check the SCC, please, contact us by using one of the contact means specified in section “Contact us”.
+4.1.3.
+The list of third persons with whom we may share your Personal Data:
+Product / business metrics services
+Google Firebase
+Its privacy policy and SCC (if applicable)
+https://policies.google.com/privacy?hl=en
+Transfer to the USA and Singapore based on
+Firebase Data Processing and Security Terms
+Purposes of transfer
+Checking the quality of Games content.
+GameAnalytics
+Its privacy policy and SCC (if applicable)
+https://gameanalytics.com/privacy/
+Purposes of transfer
+Checking the quality of Games content.
+Google Analytics
+Its privacy policy and SCC (if applicable)
+https://policies.google.com/privacy?hl=en
+Transfer to the USA and Singapore based on
+Google Ads Controller-Controller Data Protection Terms
+and
+Google Ads Data Processing Terms
+Purposes of transfer
+To better understand you as the user of our Games, learn about your preferences, evaluate the effectiveness of our advertising and/or to provide you advertising that will fit your interests.
+Gamestoty
+Its privacy policy and SCC (if applicable)
+https://estoty.com/privacy-policy
+Purposes of transfer
+It is our own collecting data service, where we store all the Personal Data collected in our Games.
+Attribution services
+Appsflyer
+Its privacy policy and SCC (if applicable)
+https://www.appsflyer.com/fr/services-privacy-policy/
+Transfer to India, Thailand, China, Ukraine, the Russian Federation, the USA, Brazil, Hong Kong and Australia based on
+Data Processing Addendum
+Purposes of transfer
+Marketing analysis
+Adjust
+Its privacy policy and SCC (if applicable)
+https://www.adjust.com/terms/privacy-policy/
+Transfer to the USA, Mexico, Brazil, Singapore, China, India, Turkey and the Russian Federation based on Data Processing Agreement
+Purposes of transfer
+Checking the quality of Games content
+Identification of problems in the Games
+Financial analysis
+Crash and error support services
+Google Firebase Crashlytics
+Its privacy policy and SCC (if applicable)
+https://policies.google.com/privacy?hl=en
+Transfer to the USA and Singapore based on
+Firebase Data Processing and Security Terms
+Purposes of transfer
+Identification of problems in the Games
+GameAnalytics
+Its privacy policy and SCC (if applicable)
+https://gameanalytics.com/privacy/
+Purposes of transfer
+Identification of problems in the Games
+Unity
+Its privacy policy and SCC (if applicable)
+https://unity3d.com/legal/privacy-policy
+Transfer to the USA based on the
+Data Processing Addendum
+Purposes of transfer
+Identification of problems in the Games
+Marketing analysis
+Checking the quality of Games content
+User acquisition, monetization and mediation services
+Meta
+Its privacy policy and SCC (if applicable)
+https://www.facebook.com/policy.php
+Transfer to the USA based on the
+Data Processing Addendum
+Purposes of transfer
+Financial analysis
+Unity Ads
+Its privacy policy and SCC (if applicable)
+https://unity3d.com/legal/privacy-policy
+Transfer to the USA based on the
+Data Processing Addendum
+Purposes of transfer
+Financial analysis
+Google AdMob
+Its privacy policy and SCC (if applicable)
+https://policies.google.com/privacy?hl=en
+Transfer to the USA and Singapore based on
+Google Ads Controller-Controller Data Protection Terms
+and
+Google Ads Data Processing Terms
+Purposes of transfer
+Financial analysis
+Google AdMob Native
+Its privacy policy and SCC (if applicable)
+https://policies.google.com/privacy?hl=en
+Transfer to the USA and Singapore based on
+Google Ads Controller-Controller Data Protection Terms
+and
+Google Ads Data Processing Terms
+Purposes of transfer
+Financial analysis
+Google Ads
+Its privacy policy and SCC (if applicable)
+https://policies.google.com/privacy?hl=en
+Transfer to the USA and Singapore based on
+Google Ads Controller-Controller Data Protection Terms
+and
+Google Ads Data Processing Terms
+Purposes of transfer
+Financial analysis
+Applovin
+Its privacy policy and SCC (if applicable)
+https://www.applovin.com/privacy/
+Transfer to the USA based on
+Data Processing Agreement
+and
+Data Processing Addendum (controller-controller)
+Purposes of transfer
+Financial analysis
+Mintegral
+Its privacy policy and SCC (if applicable)
+https://www.mintegral.com/en/privacy/
+Transfer to the USA, the Russian Federation, India, Singapore, China, Hong Kong, Seychelles based on the consent
+Purposes of transfer
+Financial analysis
+IronSource
+Its privacy policy and SCC (if applicable)
+https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-1
+Transfer to the USA, China and India based on the
+Data Protection Addendum
+Purposes of transfer
+Financial analysis
+AdColony
+Its privacy policy and SCC (if applicable)
+https://www.adcolony.com/privacy-policy/
+Transfer to China, India, the UAE, Vietnam, Turkey, Indonesia, South Africa, the USA, Philippines, the Russian Federation, Singapore, Australia based on the Data Processing Agreement
+Purposes of transfer
+Financial analysis
+TikTok
+Its privacy policy and SCC (if applicable)
+https://ads.tiktok.com/i18n/official/policy/privacy
+Transfer to the USA, the Russian Federation, the UAE, Indonesia, India based on the
+Jurisdiction Specific Terms
+and
+Controller to Controller Data Terms
+Purposes of transfer
+Financial analysis
+Vungle
+Its privacy policy and SCC (if applicable)
+https://vungle.com/privacy/
+Transfer to the USA, China and Singapore based on
+Data Privacy Addendum
+Purposes of transfer
+Financial analysis
+Fyber
+Its privacy policy and SCC (if applicable)
+https://www.fyber.com/services-privacy-statement/
+Purposes of transfer
+Financial analysis
+InMobi
+Its privacy policy and SCC (if applicable)
+https://www.inmobi.com/privacy-policy
+Transfer to the USA, India, Singapore, to the UAE, China, Australia, Malaysia, Indonesia, Vietnam based on Advertiser
+Data Protection Rider
+,
+Publisher Data Protection Rider
+,
+Affiliate Promotion Property: Demand - Data Protection Rider
+and
+Affiliate Promotion Property: Supply - Data Protection Rider
+Purposes of transfer
+Financial analysis
+Pangle
+Its privacy policy and SCC (if applicable)
+https://www.pangleglobal.com/privacy
+Transfer to China, the USA, the UAE, India, Singapore, Indonesia and others based on the
+Partner Service Agreement (Appendix 1: EEA/ Swiss/ UK Specific Terms)
+Purposes of transfer
+Financial analysis
+Smaato
+Its privacy policy and SCC (if applicable)
+https://www.smaato.com/privacy
+Purposes of transfer
+Financial analysis
+Third-party cookies providers
+Google Analytics
+Its privacy policy and SCC (if applicable)
+https://policies.google.com/privacy?hl=en
+Transfer to the USA and Singapore based on
+Google Ads Controller-Controller Data Protection Terms
+and
+Google Ads Data Processing Terms
+Purposes of transfer
+To better understand you as the user of our website
+https://estoty.com/
+, learn about your preferences, evaluate the effectiveness of our advertising and/or to provide you advertising that will fit your interests.
+Our partner developers
+We may also transfer Personal Data related to the Games to our partner developers by granting access to Personal Data via our internal website, but in a personalized and limited way: a user from the specific team /studio/company will only see data for Games owned by this team/studio/company and not for Games owned by our other partner developers.
+4.2.
+Third persons that may process your personal data independently from us:
+4.2.1.
+Other third persons may process your personal data with regard to your use of the Games as independent controllers of your personal data when you make in-app purchases payments or save your game progress via such third persons.
+4.2.2.
+When you make payments related to the Game(s), you submit your payment details to the relevant app store (Google Play Store, Apple App Store) that processes your payments. We only receive a limited amount of information from such third person, such as product ID, price and currency, purchase time, transaction ID, etc. We do not receive any personal information about you or your bank details. Please, refer to the privacy policy of the relevant public app store to check how it processes your payment data:
+Google Play Store:
+https://policies.google.com/privacy
+Apple App Store:
+https://www.apple.com/legal/privacy/data/en/app-store/
+4.2.3.
+When you play the Game(s) with the Cloud Save feature while signed in to Game Center, Apple Inc. collects your Game data allowing you to save your progress in the Game. This Game data is processed by Apple according to its own policy:
+https://www.apple.com/legal/privacy/data/en/game-center/
+. We will only have access to your Apple Game Center ID, but not your name and other data that will allow us to easily associate your Game Center ID with other information that may identify you, like your IP address. You can stop sending your Game data to Game Center by signing out of Game Center in Apple Settings.
+5
+.
+Your rights under the GDPR
+5.1.
+You have following rights under the GDPR:
+The right of access to your Personal Data meaning that you can receive a copy of the Personal Data that we hold about you, as well as other supplementary information.
+The right to rectification of your Personal Data which is incomplete or inaccurate.
+The right to erasure of your Personal Data meaning that you can ask us to delete or remove your Personal Data in certain circumstances.
+The right to restrict processing of your Personal Data if (a) the accuracy of the Personal Data is contested by you, (b) the processing is unlawful and you oppose the erasure of the Personal Data, (c) we no longer need the Personal Data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims, and (d) you have objected to processing pending the verification whether the legitimate grounds override this.
+The right to data portability. Please note that this right only applies to information that we processed based on your consent or contract.
+The right to object to the processing of your Personal Data where we are relying on a legitimate interest and there is something about your particular situation that makes you want to object to the processing on this ground. We will no longer process the Personal Data unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms or for the establishment, exercise or defense of legal claims.
+If your explicit consent serves the basis for Personal Data processing, you have the right to recall your consent to process your Personal Data by at any time. If we have no other grounds for processing your Personal Data, after you send us a request to withdraw consent, we will stop processing your Personal Data that we were processing under your consent.
+Right to lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data infringes the relevant legislation.
+5.2.
+You may exercise these rights by means of an email sent to our email address or written notice sent to the address of our registered office. We will address your request as early as possible and no longer that within one month. Please note that this period may be extended by two further months where necessary, taking into account the complexity and number of the requests. In this case, we will inform you of the extension within one month of receipt of your request and will explain you the reasons for the delay.
+5.3.
+Note that if you ask us to delete your Personal Data, we may retain your Personal Data as necessary to comply with our legal obligations or resolve disputes.
+6
+.
+Cookies and similar technology
+6.1.
+We may collect your Personal Data by automated means, such as cookies (strictly necessary, analytical, marketing and social media cookies), web beacons and web server logs when you visit our website
+https://estoty.com/
+.
+Cookie is a simple text file sent by our website
+https://estoty.com/
+to your web browser to uniquely identify you and/or function properly and/or to store information or settings in the corresponding browser, effectively, in your computer or mobile device or other internet connectable devices. We use following types of cookies:
+Necessary cookies
+Necessary cookies help make our website
+https://estoty.com/
+usable by enabling basic functions like page navigation and access to secure areas of the website. Our website
+https://estoty.com/
+cannot function properly without these cookies.
+Analytical (measurement) cookies
+These cookies (such as Google Analytics cookie) allow us to measure traffic, analyze user behavior, to count visits and traffic sources so we can measure and improve the performance of our website
+https://estoty.com/.
+All information these cookies collect is aggregated by third-party providers or immediately by us. If you block these cookies, we will not know when you have visited our website
+https://estoty.com/.
+, or will not be able to remember your preferences you chose.
+Marketing (targeting) cookies:
+These cookies may be set through our website
+https://estoty.com/
+or services by partners. They may be used to build a profile of your interests and show you relevant adverts on other websites or apps. They do not directly store your Personal Data but do uniquely identify your browser or your device. If you do not allow these cookies, you will experience less personalised advertising. We do not collect marketing (targeting) cookies except for the cookies mentioned under analytical (measurement) cookies.
+Social media cookies:
+These cookies are used when you share information using a social media sharing button or “like” button on our services or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Instagram. The social network will record that you have done this and collect information from you which may be your Personal Data.
+Web Beacon
+Also known as internet tag, pixel tag or clear GIF, is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel, that is placed on a website to monitor behaviour of the visitor of the website and obtain the so-called clickstream data, i.e. a log of the links and other content accessed by you by clicking, while browsing our website
+https://estoty.com/.
+Web Server Log
+Web Server Log is a simple text file which records traffic on the web server.
+6.2.
+With the help of cookies and similar technology we collect your internet protocol (IP) address, unique device identifier (UDI), browser characteristics, device characteristics, operating system (OS), referring uniform resource locators (URLs), information concerning your website activities, dates and times of your visits to our website
+https://estoty.com/
+and other related statistics. We may create and implement our cookies and similar technology or cookies from third-party providers, namely, we use third-party analytics service Google Analytics. Google Analytics uses technologies such as cookies, web beacons and web server logs to help us analyse your activities on our website
+https://estoty.com/
+(for more information please refer to section “Third persons and your Personal Data”).
+6.3.
+As you browse through our website
+https://estoty.com/.
+, a record of your activities may be collected and stored by us. We link certain data elements collected through cookies and similar technology with other information obtained about you. You can generally activate or later deactivate the use of cookies and similar technology through a functionality built into your browser or you can also contact us with the request to disable particular categories of cookies and similar technology but it may lead to certain restrictions in terms of using specific features of our website
+https://estoty.com/.
+6.4.
+Cookies and similar technology, except for strictly necessary cookies (without which our website
+https://estoty.com/
+cannot function properly and which do not contain Personal Data), are processed based on your explicit consent received via cookies banner.
+6.5.
+We retain your Personal Data collected via cookies and similar technology as long as you browse our website and 2 years after.
+6.6.
+Providers of third-party applications, tools, widgets and plug-ins on our website
+https://estoty.com/
+, if any, such as social media sharing tools, may also rely on automated means to collect information regarding your interactions with their applications, tools, widgets and plug-ins. The processing of such information is conducted directly by the corresponding providers of the designated features and therefore is governed by the privacy policies of these providers. We are not responsible for the processing activities conducted by third-party providers.
+7
+.
+Age limits
+7.1.
+We do not knowingly collect or solicit Personal Data about or direct or target personalized advertisements to anyone under the age of 16, or knowingly allow such persons to use our Games of websites. If you are under the age of 16, please do not send any Personal Data to us. If we learn that we have collected Personal Data about a child under age 16, we will delete that Personal Data as quickly as possible. If you believe that we might have any Personal Data from or about a child under the age of 16, please contact us.
+8
+.
+Contact us
+8.1.
+Would you have any questions regarding the processing of your Personal Data by us, do not hesitate to contact us under the email address:
+dpo@estoty.com
+(DPO) or by means of a written notice sent to the address of our registered office: Republic of Latvia, Riga, 6-1 Pulkveza Brieza Street, LV-1010.
+8.2.
+Be also informed, that since we are registered under the law of the Republic of Latvia, the personal data authority overseeing us regarding the Personal Data processing is
+Data State Inspectorate
+. In case you have any doubts how we process your Personal Data, you may contact the personal data authority of the Republic of Latvia anytime.
+Overview
+Privacy Policy
+Terms & Conditions
+Privacy Policy
+Games
+Workplace
+Careers
+Games
+Workplace
+Careers

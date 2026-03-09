@@ -1,0 +1,30 @@
+Privacy Policy
+Last updated March 18, 2021
+This statement contains the privacy policy applicable to the products of Smartpix Games.
+Information we do not collect
+We do not collect any personal private information.
+Device information
+We may collect device-specific information, such as your hardware model and operating system version.
+Application information
+We may collect information about your installation, such as the operating system type and application version number.
+Game profile infrormation
+Your profile data (such as game progress and profile name) may be stored on our server for your convenience - it is a backup. 
+You can download it anytime using game controls. Profile data does not include any personal data.
+Some our games do not have such feature, 
+some of them use iTunes Game Center, Google Game Services or another store's scoreboard and cloud system.
+User ID
+If you choose to log into your LiveConnect/Graph/Google-sign-in account (if applicable) we will use your LiveConnect/Graph/Google-signin ID (16-byte unique number) as your game profile identificator. No additional information is requested.
+On Windows/Windows Phone 7/8/10 we may use your anonymous ID (32-byte unique number) as your game profile identificator.
+Communication information
+When you contact Smartpix Games support, we may keep a record of your communication to help solve any issues you might be facing.
+Information we share
+If your profile data is stored on our server, its public fields (i.e. profile name, highest scores) may be shown on our site in leaderboards section. 
+We do not share or disclose any other information.
+Information security
+We will protect collected information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+Third-party libs
+Most our Android apps include Appodeal SDK to show advertizement and make our apps free for you. Please see
+Appodeal Privacy Policy
+Some of our apps use Applovin SDK to show advertizement. Please refer to Applovin Privacy Documentation here:
+Applovin Privacy Policy
+2009-2021 Smartpix Games © All Rights Reserved

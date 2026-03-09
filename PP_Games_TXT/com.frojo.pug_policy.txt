@@ -1,0 +1,68 @@
+Privacy Policy – Frojo Apps
+Skip to Main Content
+Privacy Policy
+About us and this privacy policy
+As used in this Privacy Policy, “Frojo Apps”, “we”, “us” or “our”, “ours” refers to Frojo Apps AB, registered at Malma Ringväg 30, 756 45 Uppsala, Sweden.
+This privacy policy explains the data collection and use for all of Frojo Apps portfolio. You will find a list of all apps in
+Frojo Apps
+portfolio below.
+Names of apps in alphabetic order: Happy Bear – Virtual Pet Game, Moy – Virtual Pet Game, Moy 2 – Virtual Pet Game, Moy 3 – Virtual Pet Game, Moy 4 – Virtual Pet Game, Moy 5 – Virtual Pet Game, Moy 6 the Virtual Pet Game, Moy 7 the Virtual Pet Game, Moy’s World, My Chicken – Virtual Pet Game, My Chicken 2 – Virtual Pet, My Corgi – Virtual Pet Game, My Moy – Virtual Pet Game, Oliver the Virtual Cat, Pug – My Virtual Pet Dog
+Terms and condition
+Frojo Apps provides online games for children. Children have access to its games, but the apps do not collect information from them.
+Therefore, Frojo Apps does not condition a children’s participation on the disclosure of Information, as well as
+we do not directly collect and store any information from children.
+Some information may nonetheless be collected through and maintained by Frojo Apps’s third-party providers of certain products or services such as the Ad Networks found under the section “Partners”. However, for children’s directed games all of our third parties are set with COPPA compliant policies, so they will not also collect information that is not allowed under COPPA.
+What information do we collect?
+Frojo Apps does not collect personal contact information (eg. full name, e-mail address, home address, or phone number) or any geolocation information from children under the age of 13. We may collect information that is reasonably necessary to support internal operations.
+We collect a persistent advertising identifier that is unique to your device. This is required for us to be able to display advertisements in our apps.
+Children’s non-Personal Information collected by Frojo Apps and its Partners may include the following technical information: type of operation system (e.g. Android, iOS, etc.), type of browser (e.g. Explorer, Firefox, Chrome, Safari, etc.), screen resolution (e.g. 800×600, 1024×768, etc.), language (e.g. English), device type (e.g. Galaxy, HTC, iPhone, etc.) and only general location may be collected, no street name or city/town name is collected. In addition, In order to enhance transparency and compliance with the Regulations regarding this Policy, the information our partners may collect are encompasses: Device identifiers, such as your IP address, iOS for Advertising Identifier (IDFA), Android Advertising ID;  information about your use of applications; Information about the offered, viewed, or clicked ads such as the type of ad where the ad was offered, whether you clicked on it, and whether you visited the advertiser’s website or downloaded the advertiser’s application.
+Partners may also collect a “Persistent Identifier” (such as an IP address, unique device identifier or advertising identifier) from you.
+This data is principally used for internal purposes only, in order to:
+provide children with access to features and activities on our site and applications;
+conduct research and analysis to address the performance of our sites and applications
+We strive to ensure that all of our Partners adhere to the same standards for the collection and usage of your Information as we do, and we recommend to check the Children’s Partner Policy of our Partners before using the services, in order to verify the accomplish with COPPA as we do.
+Frojo Apps does not allow any Personal Information to be linked to a child’s Persistent Identifier.
+What do we use your information for?
+Frojo Apps publishes advertising on the Services so that we can continue to offer many of the Services for free. Such advertisements are provided by Ad Networks, which are carefully selected to preserve compliance with the applicable privacy laws as well as such information are clear to all users in an accessible format that you can decide not to consent, or change your mind later by activating our specific toll for that purpose.
+Nevertheless, we have the necessary tools to formalize your choice, if you decide not to consent anymore, or change your decision later if you have already consented
+Note that Ad Networks may collect and use your Information, such as:
+performance data (like the number of clicks on an advertisement);
+aggregated and/or de-identified information about you and other users collectively that is not intended to specifically identify you (
+e.g.
+, a group of players between the ages of 21 and 25 who live in São Paulo);
+certain technical information (
+e.g.
+, IP addresses, MAC address, IMEIs, non-persistent device identifiers such as IDFAs and de-identified persistent device identifiers such as a hashed Android ID);
+geo-location information;
+and other contextual data about your game play (
+e.g.
+, your session activity);
+Information about the offered, viewed, or clicked ads such as the type of ad where the ad was offered, whether you clicked on it, and whether you visited the advertiser’s website or downloaded the advertiser’s application.
+The Information collected may be used to:
+measure how effective advertisements are and/or
+undertake web analytics (which are used to analyze traffic and other user activity to improve your experience).
+Ad Networks may collect this Information through the use of tracking technologies like browser cookies and web beacons, and they may use a single tracking technology or multiple tracking technologies at the same time. Such practices are subject to those Ad Networks’ policies, which we recommend you review before interacting with them.
+Please note that after clicking on an advertisement you may be redirected to a website that is not hosted by Frojo Apps.
+Moreover, we may, at our discretion, advertise other Frojo Apps Services within our Applications. Such advertisements are not directed towards specific users but are rather broadly posted on random Frojo Apps Applications.
+Partners
+Admob (owned by Google)
+Terms of Service:
+http://www.google.com/intl/en/policies/terms/#subid=latam-semexp3-r3
+Privacy Policy:
+http://www.admob.com/home/privacy
+UnityAds
+Terms of Service:
+https://unity3d.com/legal/monetization-services-terms-of-service
+Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+Why do we require certain Permissions in our apps?
+(1) INTERNET: This permission is required to display ads.
+(2) ACCESS_NETWORK_STATE: See (1)
+(3) WRITE_EXTERNAL_STORAGE: This permission is only used for saving and loading images which the user has painted him/herself. This is entirely optional.
+(4) READ_EXTERNAL_STORAGE: See (3)
+(4) MICROPHONE: This permission is used to record audio from the microphone. The recorded data is NOT saved on the device. It is only cached in memory for a short while (approximately 3 seconds) and used for distorting the recorded audio to a higher pitch making it a fun tool.
+This policy was last modified May 2021
+© 2023 Frojo Apps - WordPress Theme by
+Kadence WP
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+Ok

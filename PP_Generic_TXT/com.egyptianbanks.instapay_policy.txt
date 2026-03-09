@@ -1,0 +1,165 @@
+Terms and Conditions – instapay
+instapay
+Home
+What is InstaPay?
+How to?
+Get Started
+Q&A
+contact us
+Menu
+Home
+What is InstaPay?
+How to?
+Get Started
+Q&A
+contact us
+Home
+What is InstaPay?
+How to?
+Get Started
+Q&A
+contact us
+English
+العربية
+Menu
+Home
+What is InstaPay?
+How to?
+Get Started
+Q&A
+contact us
+English
+العربية
+English
+English
+العربية
+Menu
+English
+English
+العربية
+Terms and Conditions
+Definitions
+“Bank Account and/or Account”
+: different account types opened in one of IPN Member Banks and used to either send or receive money.
+“Company”
+: Egyptian Banks Company for Technological Advancement EBC, S.A.E.
+“Fees”
+: means the charge payable by the User for the provision of Services and related transactions.
+“InstaPay”
+: application developed, owned and operated by the Company. InstaPay is a licensed PSP application from Central Bank of Egypt and IPN network and uses IPN network services.
+“IPN”
+: the Instant Payment network, owned, managed and operated by Company, connecting banks (Issuer and PSP Banks) and PSPs together to exchange financial and non-financial transactions for example (customers onboarding, mini-statement etc.…)
+“IPN Member Banks”
+: any participant bank in IPN network.
+“Instant Payment Address and/or IPA”
+: is a reference defined by the User as a representation for on- boarded Accounts to InstaPay in the format of user@InstaPay, the IPA is used by the Users/ customers to exchange financial transactions.
+“Intellectual Property Rights”
+: means any and all rights including inventions, business processes, software applications, databases, patents, trademarks, trade names, trade dresses, designs both industrial and layout, geographical indicators, copyrights broadcasting rights, distribution rights, selling rights, abridged rights, translating rights, reproducing rights. Whether registered or not, in Egypt and any country of the world.
+“Issuer Bank”
+: the bank which holds Users’ Accounts and is responsible for User’s authentication and financial transaction authorization, all Users Sensitive Data are processed and managed by Issuer Bank. Issuer Bank could be defined as either Payer and/or Payee Bank depend on his position in the transaction.
+“Payer Bank”
+: means the bank holding the payer Account.
+“Payee Bank”
+: means the bank holding the payee Account.
+Payer”
+: means the User initiating the transaction.
+“Payee”
+: means the recipient of the transaction.
+“PSP Bank”
+: means the bank responsible for managing the PSP and responsible for connecting the PSP to IPN network.
+“Payment Service Provider and/or PSP”
+: Is the mobile application offering the front-end interface for the Users, a PSP could be either Payer PSP and/or Payee PSP depend on the PSP position in the transaction.
+‘’Services’’
+: means the services provided by the Company to the User where he or she can use InstaPay to manage financial & non-financial transaction according to the Terms and Condition to the User under InstaPay.
+“Transactional Data”:
+is the non-sensitive data available during transaction process including and not limited to the transaction value, destination address, date, time and transaction status.
+“Trademarks”
+: shall mean any marks, names, and/or logos, whether registered or not, including all applications and rights to apply for trademark registrations, in Egypt or any country in the world, used by the Company in connection with InstaPay or any other service.
+“User”
+: the customer who is authorized by the Company to use or access InstaPay Services, customer is considered a User either he/she has managed to onboard a Bank Account or not, whenever the User onboard his/ her Account to InstaPay, the User then shall be considered as either a Payer or Payee depend on its position in the transaction who is willing to use IPN Services through InstaPay.
+“Unauthorized Transactions”
+is any payment made from the User’s Account that the User later claims did not authorize.
+“User Non-Sensitive Data”
+: is defined as the data collected from the User during the registration
+on a PSP application, this data is limited to: mobile number, name, date of birth, gender, email and might include location.
+“User Sensitive Data”
+: is defined as all data that could be used to authenticate and authorize the transactions in addition to the Bank Account details, balance and mini-statement received from the bank, the sensitive data includes Card Number, Card PIN and OTP used in authentication, IPN PIN used to authenticate transactions.
+Introduction
+This document prescribes the “Terms and Conditions”, which shall be applicable to all transactions including financial transactions initiated by the User through InstaPay. InstaPay and Instant Payment Network (“IPN”) Services are developed, operated, and fully owned by the Company. The User is advised to carefully read and understand these Terms and Conditions before using the InstaPay application. By downloading InstaPay, the User will be deemed to have read, understood and accepted the Terms and Conditions, and shall be bound thereby as amended from time to time. The continued use of InstaPay constitutes acceptance by the User of the Terms and Conditions as amended from time to time. Usage of IPN Services via InstaPay by the User shall be further subject to IPN guidelines and all its updates. An electronic version is available by visiting InstaPay website:
+www.instapay.eg
+.
+InstaPay is authorized by the Central Bank of Egypt & IPN network to facilitate financial & non-financial transactions. In order to complete transactions each single transaction shall be processed across the following parties according to IPN rules and regulations:
+Users (customers).
+Payer PSP and/or InstaPay.
+PSP Bank and/or InstaPay bank.
+Payee PSP and/or InstaPay.
+Payer Bank.
+Payee Bank.
+IPN Network.
+Any failure in processing of any transaction across one party might lead to failure in the transaction processing.
+In all cases, all financial transactions are processed through Issuer bank, thus, all sensitive and financial data are secured by banks including and not limited to IPN PIN, Card Number, Card PIN and OTP in addition to the balance and mini-statement.
+In case of failure in financial transaction that cause or result a financial impact on the User Account, the User shall revert to his/ her bank.
+In all cases InstaPay will never have access to your sensitive data and/or Account balance or records.
+Applicability of Terms
+These Terms and Conditions are applicable to the existing and eligible customers of banks using InstaPay Services. These Terms and Conditions shall be in addition to and not in lieu of the guidelines applicable to IPN Services.
+It is agreed by the User that these Terms and Conditions, shall be binding on the User with regard to any transaction done by the User via InstaPay.
+The User understands and agrees that nothing herein shall be construed as creating any license to the Intellectual Property of the Company or any other contractual relationship between the User and the Company, except for the provision of the Services in accordance therewith.
+The Company shall notify Users of any changes on these Terms and Conditions.
+Scope of the IPN Services and InstaPay
+IPN services offers an instant, 24×7 payment services, including and not limited to fund transfer, fund collection, and bill payment services to the Users of IPN Member Banks. The Services allow Users to request fund transfers or funds collection or respond to funds collection for any of their linked Accounts in a secure manner using InstaPay.
+InstaPay shall only be used by Account holders for Accounts for which their bank is an IPN member. Authorization to the User to use the InstaPay is subject to the fulfilment of all the Terms and Conditions laid down by the User’s Account holding bank, including the submission of the necessary documents and information required by the bank from time to time. Transfer of funds via InstaPay shall be subject to the same restrictions imposed by InstaPay, IPN or IPN Member Banks from time to time, at their sole discretion, such as maximum daily or periodic limits.
+To use InstaPay, the User must complete the registration formalities, in such form, manner and substance as may be prescribed by the Company, and the Company shall be entitled, at its sole discretion, to accept or reject such applications.
+User will have an option to set up an Instant Payment Address (IPA) and start transacting via InstaPay. User has the option to link his/ her Bank Accounts through a registration process defined and standardized by IPN and conduct transactions via InstaPay.
+The Company reserves the right to modify the scope of the InstaPay Services at any time, after amending the scope of service and these Terms and Conditions.
+User Obligations
+The User authorizes the Company to act as a Payment Service Provider and send payment instructions initiated by the User through InstaPay to the IPN network.
+The User shall maintain and keep his/her Account information, at all times, under the User’s personal control. Accordingly, the User shall be solely held liable for disclosing any data or information related to the User or any of the User’s Accounts if such disclosure is due to any error, omission or negligence with respect to maintaining the User’s Account information.
+User shall be liable for all and any instructions issued by his/her via InstaPay. The User understands and agrees that once the payment instruction is accepted under IPN Services, the User Account will automatically be credited/debited with such amounts as may be mentioned in the payment instruction. The User understands and agrees that User’s credit/debit instructions once processed by IPN shall be treated the same as any other irreversible credit/debit bank transfer.
+The User should ensure the correctness of the Payee, beneficiary and/or receiver’s details at the time of initiating the transaction using InstaPay Services, particularly, the Instant Payment Address (IPA), mobile number, Meeza Prepaid cards number, Account number of any beneficiary, receiver and/or Payee.
+The User acknowledges that she / he is responsible for all transactions and instructions executed via InstaPay as long as such transactions and instructions are carried out through the User’s Account and by using the User credentials. InstaPay as well as IPN books and records shall be conclusive evidence against the User and any third party.
+The User agrees and consents that the User shall not engage in any activity that shall interfere with or disrupts InstaPay and/or IPN. In the event of any misuse of InstaPay by the User; Company shall have sole and absolute discretion to take suitable action against the User, including and not restricting Company’s right to seek appropriate legal remedies at the User’s cost and expenses.
+User agrees that all ownership of InstaPay including all relevant Intellectual Property Rights shall remain with the Company. Any breach of these stated terms shall entitle the Company to seek appropriate legal actions against the User as it shall deem fit and appropriate, including and not restricting the right to disable InstaPay.
+The User agrees and understands that the Services are provided by the Company in accordance with the rules and regulations of the Central Bank of Egypt, as amended from time to time based at the Central Bank’s sole discretion. Any changes in the law or the Central Bank’s regulations shall result in changes to these Terms and Conditions shall form an integral part thereof. The User shall be bound by the Terms and Conditions as it stands at any point of time.
+Fees
+The User undertakes to pay Services registration fees, annual fees, charges of withdrawal, deposit and transfer, and fees for any other additional services, as per tariffs announced and disclosed by The Company from time to time.
+The Company reserves the right to amend any fees from time to time at its absolute discretion. The Fees shall take effect and apply to the User upon being announced in the manner deemed appropriate by the Company. Upon using the Services after the amended Fees apply, the User shall be deemed to have accepted such amended Fees without any reservation.
+The User irrevocably undertakes to indemnify the Company for all losses, claims, damages, costs and expenses, including legal, attorney and advisor fees incurred by the Company as a result of executing the User’s instructions.
+Data Privacy
+User agrees that the Company may process all personal data obtained through InstaPay and related Services for the sole purpose of completing transactions. All such data shall be managed in accordance with the following privacy terms:
+-All Users data reach out to InstaPay are protected according to Central Bank of Egypt rules and regulation, InstaPay, does not sell the Users data to any other party.
+-The available data are limited to the User data submitted during registration process and it is limited to name, date of birth, gender, email and mobile number. In addition to the data (Transactional Data) submitted during financial transaction processing.
+-InstaPay has only a reference to the Payer Account number according to IPN rules & regulations, the actual Account number is stored at your bank.
+Limitation of Liability
+The Company shall not be held liable for any loss or damage incurred by the User as a result of any misuse or abuse of the Services, any error committed by the User, malfunctioning in the Services due to a mistake on the part of the User, insufficient balance in the User’s Account, or any other reason due to the User. Company shall also not be held liable for any malfunctioning in banks, IPN and\or telecommunication networks related to the Services, provided that there is no breach or shortage on the part of the Company.
+InstaPay is provided on an “as is” basis with no representation, guarantee or warranty of any kind, either express or implied, as to its functionality. Downloading or using InstaPay does not automatically entitle the User to receive any documentation from the Company. No warranty is provided that InstaPay will be free from defects (to the best of the Company knowledge) or
+that the operation of the InstaPay will be uninterrupted. The Company does not hold out any warranty and makes no representation about the quality of InstaPay and\or IPN Services, considering that the Company uses payment security and international quality standards.
+The User agrees and acknowledges that in the absence of fault or gross negligence on the part of the Company, the Company shall not be liable for any damages whatsoever whether such damages are direct, indirect, incidental or consequential and irrespective of whether any claim is based on loss of revenue, interruption of business. While the Company shall endeavour to promptly execute and process the transactions as instructed by the User, the Company shall not be responsible for any interruptions, non-response or delay in responding due to any reason whatsoever, including due to failure of operational systems or any change of laws.
+The Company shall not be liable for any loss, claim or damage suffered by the User and/or any other third party arising out of or resulting from failure of any transaction initiated via InstaPay due to and not limited to time out transaction i.e., where no response is received from any party participated in the transaction processing such as and not limited to IPN, Payer Bank and/or Payee Bank.
+Breach of Terms and Conditions
+In the event the User commits a breach, or fails to abide by these Terms and Conditions, or if the Company reasonably suspects that User have breached these Terms and Conditions or any other guidelines related to the Services, then the Company may:
+Temporarily suspend User access to InstaPay;
+Permanently prohibit User from accessing InstaPay; or make new Accounts,
+Contact any or all of User internet service providers and request that they block User access to InstaPay;
+Suspend or delete User Account on InstaPay; and/or
+Commence legal action against User, whether for breach of contract or otherwise.
+Indemnity
+The User agrees, at his/her own expense, to indemnify, defend and hold harmless the Company, in connection with the use of InstaPay Services as a result of the User’s fault or gross negligence, including but not limited to:
+A violation of the Terms and Conditions by the User.
+Any deletions, additions, insertions or alterations to, or any unauthorized use of, InstaPay Services using the User’s login credentials and passwords;
+Any Unauthorized Transactions made through the User’s Account whether due to a stolen password or the disclosure of the login info to a third party.
+Any payments made erroneously to the wrong party due to an error at the User’s side.
+Any misrepresentation or breach of representation made by the User contained herein;
+Any infringement of the Intellectual Property rights of the Company.
+The User agrees to pay any and all costs, damages and expenses, including, but not limited to, reasonable attorneys’ fees and costs awarded against it or otherwise incurred by or in connection with or arising from any such claim, suit, and action or proceeding attributable to any such claim.
+This Section 10 shall survive termination or expiration of these Terms and Conditions for any reason.
+Termination
+Notwithstanding anything herein to the contrary, the Company reserves the absolute discretion to suspend or terminate InstaPay Services and/or right of access to InstaPay for any reason and at any time.
+Any termination by the Company under these Terms and Conditions will not affect any of the obligations of the User hereunder which have arisen before the effective date of such termination.
+Upon termination for any reason, all rights granted by the Company with respect to InstaPay shall immediately cease
+General Conditions
+The headings in the clauses of these Terms and Conditions are only for convenience and do not affect the meaning of the relative clause.
+Egyptian law shall govern these Terms and Conditions and the usage of IPN Services and\or InstaPay by the User and any legal action or proceeding pertaining to IPN Services and\or InstaPay or arising out of these Terms and Conditions shall be subject to the jurisdiction of Cairo courts.
+Copyrights
+Terms and Conditions
+Copyright © 2022 InstaPay by EBC ® All Rights Reserved.
+info@meeza-eg.com

@@ -1,0 +1,162 @@
+Total Commander for Android privacy policy
+Privacy Policy - Total Commander for Android
+Google translate:
+Select...
+Arabic (Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©)
+Belarusian (Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ)
+Bulgarian (Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸)
+Catalan (CatalÃ )
+Chinese simplified (ç®€ä½“ä¸­æ–‡)
+Chinese traditional (ç¹é«”ä¸­æ–‡)
+Czech (ÄŒeÅ¡tina)
+Danish (Dansk)
+Dutch (Nederlands)
+Finnish (Suomi)
+French (FranÃ§ais)
+German (Deutsch)
+Hebrew (×¢×‘×¨×™×ª)
+Hellenic (Î•Î»Î»Î·Î½Î¹ÎºÎ¬)
+Hungarian (Magyar)
+Indonesian (Bahasa Indonesia)
+Italian (Italiano)
+Japanese (æ—¥æœ¬èªž)
+Korean (í•œêµ­ì–´)
+Lithuanian (LietuviÅ¡kai)
+Norwegian
+Polish (Polski)
+Portuguese (PortuguÃªs)
+Romanian (Romana)
+Russian (Ð ÑƒÑÑÐºÐ¸Ð¹)
+Serbian(Ð¡Ñ€Ð¿ÑÐºÐ¾)
+Slovak (Slovensky)
+Slovenian (Slovenski)
+Spanish (EspaÃ±ol)
+Swedish (Svenska)
+Thai (à¸ à¸²à¸©à¸²à¹„à¸—à¸¢)
+Turkish (TÃ¼rkÃ§e)
+Ukrainian (Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°)
+Vietnamese (Viá»‡t)
+Total Commander is a tool which allows you to manage the
+files and apps on your device. This page informs you about our policies with the collection,
+use, storage and sharing of personal information.
+You need to accept this policy if you want to use our app.
+Last updated on January 11, 2023.
+User data collection, use, and storage during normal operation:
+Total Commander can be used to open, send, list, copy, move, delete, rename, pack, unpack files on your device. It does not transfer any data on its own without user interaction.
+Total Commander can be used to create new files and folders.
+Total Commander can be used to find files and folders on your device. A history of search terms will be stored on your device.
+Total Commander can show information about installed applications and their data, but does not store this information or share it with anyone.
+Total Commander can be used to backup installed applications and some of their data locally or via plugins.
+Total Commander allows to create custom toolbar buttons pointing to folders, internal commands, apps, and shell commands.
+Total Commander can edit files with the built-in text editor, and play music and video with the multimedia player.
+Total Commander can accept files shared by other apps, and store them on your device or via plugins.
+Total Commander can create links to files and/or folders on the Android home screen (launcher).
+Total Commander does not use any social networking functions directly.
+You can use the Android "Send" or "Share" function which may send files of your own choice to social media or other apps.
+Total Commander does not collect or store or share any personal information.
+Total Commander does not link to external web sites, except to our own homepage:
+https://www.ghisler.com/
+.
+Total Commander does not store or share your location, address, or name.
+Total Commander does not store or share your contacts.
+Plugins:
+Plugins are extensions of Total Commander which allow you to access
+remote services like PCs via SMB protocol (Windows file sharing), cloud services, Web folders, or FTP/SFTP servers.
+These plugins do not share data with third parties on their own, they only perform the tasks initiated
+by the user like uploading, downloading, renaming or deleting files.
+Be careful with what data you share with third parties like cloud services, and consult their
+privacy policies first.
+Plugins usually require some kind of login, e.g. via user name and password,
+or via OAUTH.
+Plugins will store user name and password (if provided) of the
+created connections.
+By default, passwords are protected with a
+master password
+using strong encryption (AES256).
+Log files:
+When you enable logging via main settings, Total Commander will
+create a log file in the primary storage/.TotalCommander folder. This is disabled by default.
+Total Commander will switch to a new log file when the current one reaches a size of 1 MB. Up to
+10 log files will be kept, and older log files will be deleted automatically.
+Log files may contain sensitive data from plugins like server names, file names, and user names
+(but no passwords), so they should only be used to locate problems.
+Advertising:
+Total Commander does not show any ads. It links to our own and
+third party plugins when you click on "Add extensions", which is
+treated as advertising by Google.
+In-app purchases:
+Total Commander does not allow in-app purchases.
+Used permissions:
+MANAGE_EXTERNAL_STORAGE:
+Allows to access files on Android 11 and newer.
+WRITE_EXTERNAL_STORAGE:
+Allows to access files on Android 10 and older versions.
+INTERNET:
+Allows to send crash reports to our homepage (after confirmation by the user).
+BLUETOOTH, BLUETOOTH_ADMIN, BLUETOOTH_CONNECT:
+Allows to send files via Bluetooth.
+ACCESS_NETWORK_STATE:
+Check whether a network connection is active.
+WAKE_LOCK:
+Keep device awake while playing music or copying files.
+ACCESS_SUPERUSER:
+Use root functions on rooted devices.
+INSTALL_SHORTCUT:
+Allows to create a link to a file or folder on the home screen.
+com.ghisler.tcplugins.restricted:
+Restrict some plugins to Total Commander versions signed by us.
+USE_FINGERPRINT, USE_BIOMETRIC:
+Use a fingerprint or other biometric function to connect to sites where the password is stored with a master password.
+POST_NOTIFICATIONS:
+Show notification that a file operation is going on in background, and show the controls for the media player.
+FOREGROUND_SERVICE:
+Keep program active while playing music ort copying files in background.
+Data collected and sent when submitting a crash report:
+In case of a crash, Total Commander shows a dialog box to submit
+a crash report. If you send this report, the data shown at the
+end of this page will be sent to us. You can view the report
+before submitting it, by clicking on the magnifying glass button,
+and deny sending the report if you prefer.
+Updates to the Privacy Policy:
+Updates to the privacy policy will be published in this document, so you may want to bookmark it.
+In case of important changes, you will have to consent again to the changed privacy policy within our app.
+Developer:
+Christian Ghisler
+Ghisler Software GmbH
+Huehnerbuehlstr. 45
+Bolligen, CH-3065
+Switzerland
+You can contact us also via Play Store
+Crash report content (sample):
+Application version:
+2.40
+Timestamp
+2022-09-12 07:40:52
+Device manufacturer:
+samsung
+Device model name:
+SM-G970F
+Device code name:
+beyond0
+Android version:
+9: P
+Android API version:
+28
+Exception name:
+java.lang.ArithmeticException: divide by zero
+user_comment:
+The comment you write in the crash dialog
+Stack trace:
+com.ghisler.android.TotalCommander. TotalCommander.launchButtonBarCommand (TotalCommander.java:3411)
+com.ghisler.android.TotalCommander. TotalCommander$23.onClick (TotalCommander.java:2777)
+android.view.View.performClick (View.java:7352)
+android.view.View.performClickInternal (View.java:7318)
+android.view.View.access$3200 (View.java:846)
+android.view.View$PerformClick.run (View.java:27807)
+android.os.Handler.handleCallback (Handler.java:873)
+android.os.Handler.dispatchMessage (Handler.java:99)
+android.os.Looper.loop (Looper.java:214)
+android.app.ActivityThread.main (ActivityThread.java:7037)
+java.lang.reflect.Method.invoke (Native Method)
+com.android.internal.os.RuntimeInit $MethodAndArgsCaller.run (RuntimeInit.java:494)
+com.android.internal.os.ZygoteInit.main (ZygoteInit.java:965)

@@ -1,0 +1,18 @@
+Change Color - Privacy policy
+Privacy policy
+Please read this privacy policy carefully. By using the "Change Color" app you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all of the terms and conditions set forth below, you may not use this app.
+What information we collect
+Some information may be collected by AdMob for advertising purposes (
+Google Privacy & Terms
+).
+Requested permissions of Android device
+Camera:
+used to allow the user edit a picture taken from the device camera.
+Read external storage:
+used to allow the user edit a picture chosen from the device photo gallery.
+Read from Google Photos:
+used to allow the user select a picture from Google Photos.
+Write external storage:
+used to save edited photos by the user.
+Internet:
+used by AdMob for advertising.

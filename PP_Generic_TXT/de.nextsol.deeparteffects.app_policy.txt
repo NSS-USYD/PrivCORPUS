@@ -1,0 +1,130 @@
+Data privacy - Deep Art Effects
+Toggle navigation
+Deep Art Effects
+Desktop PC
+Mobile App
+For Business
+Sign In
+Privacy Policy according to Art. No. 13 GDPR
+Deep Art Effects GmbH (hereinafter referred to as “we”) is responsible for processing the personal data of our customers (hereinafter referred to as “you”). Pursuant to Article 13 of Regulation (EU) 2016/679 (General Data Protection Regulation “GDPR”), we are obliged to inform you as follows at the time your personal data is collected:
+We offer our customers software-based photo editing services in accordance with the respective service description (“service(s)”). You are required to accept and comply with our terms and conditions in order to use this service.
+We offer the Services through a mobile application (“App”) that you can download to your mobile device, through desktop PC software (“PC Software”) that you can download to your hardware device, and through an interface to our Services (“Interface”) for embedding in your own applications. While you subscribe to and use our services, we process personal information about you as described below. Personal information is any information that personally identifies you, such as your name, address, e-mail address.
+I. CONTACT INFORMATION OF THE RESPONSIBLE PERSONS
+Deep Art Effects GmbH
+Kriegsstraße 82
+76133 Karlsruhe
+E-Mail:
+[email protected]
+Telephone number: + 49 (721) 66 99 06 01
+II. CATEGORIES OF DATA, PURPOSES AND LEGAL BASES FOR THE PROCESSING OF YOUR PERSONAL DATA AND THE DISCLOSURE OF YOUR PERSONAL DATA
+A. IF YOU USE OUR WEBSITE
+For information purposes
+We only process the personal data that your browser transmits to our server. This includes your IP address, date and time of request, time zone difference from Greenwich Mean Time (GMT), content of request (specific page) and access status/HTTP status code. This processing is technically necessary for us to provide you with our website and to ensure the stability and security of the website.
+The legal basis for such processing is Art. 6 (1) f) GDPR.
+Registration on our website
+Some services require you to register on our website and set up a user account. Personal information that we collect during registration is your e-mail address and optionally your name and address. We process the personal data you provide only for the purpose of using the service for which you have registered. The provision of this data is voluntary. However, if you do not wish to provide the e-mail address, we will have to refuse registration.
+The legal basis for such processing is Art. 6 (1) b) GDPR.
+Cookies
+When you use our website, cookies are stored on your hard drive in the browser you are using. Cookies are small text files that are used to store a web session. They cannot execute programs or transmit viruses to your computer. They serve to make the Internet offer more user-friendly and more effective. We use cookies for the technically perfect and optimized provision of our website and thus on the basis of our legitimate interest.
+The legal basis for the use of cookies is Art. 6 (1) f) GDPR.
+We use the following types of cookies on our website, the scope and functionality of which are explained below:
+Transient Cookies
+: Transient cookies are automatically deleted when you close your browser. This includes, in particular, session cookies. They store a so-called session ID, which can be used to assign various requests from your browser to a common session. This means that your computer is recognised when you return to our website. Session cookies are deleted when you log out or close your browser.
+Persistent cookies
+: Persistent cookies are automatically deleted after a certain period of time, which may vary depending on the cookie. You can delete cookies at any time in the security settings of your browser.
+Further information on cookies
+: You can set your browser so that you are informed when cookies are set and only allow cookies in individual cases, exclude the acceptance of cookies for certain cases or generally and activate the automatic deletion of cookies when you close your browser. If cookies are deactivated, the functionality of this website may be restricted.
+Disclosure of your personal data
+In particular, we work with the following carefully selected and monitored service providers who may be recipients of your personal information:
+– IT service providers (Stripe, Paypal, Gooten)
+– Website operator (Amazon Webservices)
+B. IF YOU USE OUR APP
+Downloading our app
+When you download our app, the necessary information is transferred to the App Store, including your username, email address and account number, the time of download, payment information, and the individual device ID. We have no control over and are not responsible for this data collection. For more information about how we handle your personal information, please visit the App Store.
+Using our app
+The app accesses the Deep Art Effects interfaces to process images as soon as they use a filter in the app for editing. No personal data is collected or processed during use.
+Ordering a printed copy of your photos
+You can order a printed copy of your edited photos. In the app you will find a section for submitting such an order. In order to fulfill the contract with you, we process your name, address, e-mail address, selected image and credit card or other payment information (according to available and selected payment method, e.g. IBAN number, BIC etc.).
+The legal basis for such processing is Art. 6 (1) b) GDPR.
+Disclosure of your personal data
+In particular, we work with the following carefully selected and monitored service providers who may be recipients of your personal information:
+– IT service providers (Amazon Webservice)
+“Gooten” printing service (Breakout Commerce, Inc., 142 W 57 th St, Floor 10, New York, NY 10019 USA) (if you order a printed copy of your edited photo).
+C. IF YOU USE OUR PC SOFTWARE
+Downloading our PC software
+We only process the personal data that your browser transmits to our server during downloading. This includes your IP address, date and time of request, time zone difference from Greenwich Mean Time (GMT), content of request (specific page) and access status/HTTP status code. This processing is technically necessary for us to provide you with our website and to ensure the stability and security of the website when you download it.
+The legal basis for such processing is Art. 6 (1) b) GDPR.
+Using our PC software
+The PC software runs offline without Internet access once it has been downloaded to your end-user hardware device. No personal data is collected or processed during use.
+Extended PC Software Version Subscription
+You can use an extended version of our PC software. For this purpose, we forward your name, address, e-mail address and credit card or other payment data (depending on the available and selected payment method, e.g. IBAN number, BIC etc.) to the payment service provider Stripe or Paypal. Such a processing of your personal data is necessary for the fulfillment of the contract with you.
+The legal basis for such processing is Art. 6 (1) b) GDPR.
+Order a printed copy of your photos
+You can order a printed copy of your edited photos. You can find more information on our website for such an order. In order to fulfill the contract with you, we process your name, address, e-mail address, selected image and credit card or other payment information (according to available and selected payment method, e.g. IBAN number, BIC etc.).
+The legal basis for such processing is Art. 6 (1) b) GDPR.
+Disclosure of your personal data
+In particular, we work with the following carefully selected and monitored service providers who may be recipients of your personal information:
+– IT service providers (Stripe, Paypal)
+“Gooten” printing service (Breakout Commerce, Inc., 142 W 57 th St, Floor 10, New York, NY 10019 USA) (if you order a printed copy of your edited photo).
+D. IF YOU USE OUR INTERFACE
+Subscription of access to the interface of our services
+We process your name, e-mail address and your credit card or other payment data (according to available and selected payment method, e.g. IBAN number, BIC etc.). Such processing of your personal data is necessary for the fulfillment of the contract with you.
+The legal basis for such processing is Art. 6 (1) b) GDPR.
+Use of access to the interface of our services
+While you access the user interface of the interface of our services, we collect and process the IP address of your computer, the date and time of your access and your browser type. This is technically necessary in order for us to fulfil the contract with you and allow you access to the interface of our services.
+The legal basis for such processing is Art. 6 (1) b) GDPR.
+Disclosure of your personal data
+In particular, we work with the following carefully selected and monitored service providers who may be recipients of your personal information:
+– IT service providers (Stripe, Paypal)
+III. GENERAL INFORMATION REGARDING THE PROCESSING OF PERSONAL DATA WHEN USING OUR SERVICES
+A. TRANSMISSION OF DATA TO COMPANIES OUTSIDE THE EUROPEAN UNION
+In some cases, we use service providers from countries outside the European Union or the European Economic Area. We select these service providers carefully and check them regularly. In these cases, the data will only be transmitted if the conditions for such transmission in accordance with the GDPR are fulfilled (e.g. signing of EU standard contract clauses with the service provider(s) in accordance with Art. 46 (2) c) GDPR). You can request a copy of these EU standard contract clauses from us at any time.
+B. DURATION OF THE STORAGE OF YOUR PERSONAL DATA
+We store your personal data as far as this is necessary for the execution of the contract and beyond that, as far as we are legally obliged to do so. For example, we are legally obliged to keep records for tax purposes (e.g. in accordance with § 147 of the German Tax Code) and for accounting purposes (e.g. in accordance with § 257 of the German Commercial Code). The retention periods are six to ten years. Insofar as we are legally obliged to store personal data, it will be stored in limited form for your protection. If the personal data is no longer required to fulfil contractual or legal obligations, the personal data will be deleted in accordance with our deletion concept.
+C. YOUR RIGHTS
+You have the right to obtain information about your personal data (Art. 15 GDPR), to correct your personal data (Art. 16 GDPR), to delete your personal data (Art. 17 GDPR), to restrict the processing of your personal data (Art. 18 GDPR) and to transfer your personal data (Art. 20 GDPR).
+In addition, you have the right to object to the processing of your personal data pursuant to Art. 21 GDPR within the framework of a processing which we base on Art. 6 (1) f) GDPR.
+If you have given us your consent to the processing of personal data for a specific purpose, this consent is the legal basis for the processing of your personal data. The consent can be revoked at any time without affecting the legality of the processing carried out on the basis of the consent until revocation. The revocation can be made informally and is to be addressed to:
+Deep Art Effects GmbH
+Kriegsstraße 82
+76133 Karlsruhe, Germany
+or by e-mail to:
+[email protected]
+You have the right to lodge a complaint with a data protection supervisory authority if you are of the opinion that the processing of your personal data conflicts with the GDPR. This right does not affect other administrative or judicial remedies.
+D. PROVISION OF YOUR PERSONAL DATA
+Within the framework of contractual relationships, we collect your personal data only for the purposes described above, i.e. to the extent necessary for the proper execution of the contract. You are not obliged to provide personal data. However, if you do not provide any personal data, the contract cannot be fulfilled.
+If you give us your consent, we will use your personal data exclusively for the purpose covered by the consent; this purpose is described in detail in the text of the consent. The consent is voluntary, i.e. you can give it or not.
+If we process your personal data within the framework of our legitimate interests, you may be obliged to make them available due to general support obligations. In any case, before processing your personal data, we check whether the processing is necessary and whether your interests in the non-processing prevail. In the case of processing pursuant to Article 6 paragraph 1 letter f) GDPR, you have a right of objection pursuant to Art. 21 GDPR.
+E. INFORMATION ABOUT THE RIGHT OF OBJECTION ACCORDING TO ART. 21 GDPR
+You have the right, for reasons arising from your particular situation, to object at any time to the processing of personal data concerning you on the basis of Art. 6 (1) S. 1 lit. f GDPR (data processing on the basis of a weighing of interests). Further information on our data processing operations and on which regulations we base these in each case can be found in our data protection information pursuant to Art. 13 GDPR. If you file an objection, we will no longer process your personal data unless we can prove compelling reasons for the processing worthy of protection which outweigh your interests, rights and freedoms or the processing serves the assertion, exercise or defence of legal claims.
+The objection can be raised free of charge and informally and is to be addressed to the following address:
+Deep Art Effects GmbH
+Kriegsstraße 82
+76133 Karlsruhe, Germany
+or by e-mail:
+[email protected]
+Language
+English
+Deutsch
+Nederlands
+Français
+Español
+Italiano
+日本語
+polski
+Русский
+Português
+简体中文
+About
+Developers
+Become an Affiliate
+Jobs
+Community
+Download
+Tutorials & FAQ
+Events
+Resources
+Data Privacy
+Terms of Service
+Imprint
+© 2023 Deep Art AI GmbH

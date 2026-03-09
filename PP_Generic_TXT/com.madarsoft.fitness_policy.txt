@@ -1,0 +1,37 @@
+ï»¿
+Rashaqa Privacy Policy:
+Rashaqa Healthâ€™s goal is to help users live more active and healthier lives using advanced mobile internet technology. To that end our applications and services collect, store and analyze a variety of data collected from you and your devices, including personal health related data on your mobile device.
+Your privacy is critically important to us. Your data is your own. We make no claims to it and will only use it according to the policies outlined below.
+This statement is intended to clearly explain in human readable language what data we collect and how it is used. If after reading this statement you have further questions.
+WHAT INFORMATION WE COLLECT
+Our apps and services may collect the following types of information in order to provide services:
+Your email address or your social login information as required to safeguard your data and verify your identity;
+Biographical information, e.g. photograph, biography, gender, age, geographic location, general notes;
+Physical activity related data, e.g., exercise logs (including location coordinates for GPS-enabled sessions) and passively tracked activity data such as steps taken, calories burned, active time and distance traveled
+Other health related data, e.g., body weight log and BMI
+Data entered via free text fields, such as comments and annotations
+Health goals and targets specified within the services
+We may also collect certain information from your mobile device, including but not limited to the following:
+Location Information that allows us to periodically determine your location, including your location relative to and within third party merchant locations.
+We may collect this information even if the app is not running in the foreground.
+[For iOS: You should be able to adjust the settings on your iOS mobile device to prevent our collection of Location Information by disabling the location services feature on your device.]
+[For Android: You should be able to adjust your settings on your Android mobile device to prevent our collection of Location Information be disabling Bluetooth and Location.]
+Data collected from other sources:
+â€¢ If you choose to connect our services with 3rd party services such as social networks or other health apps, we may collect information from these services in order to provide the expected functionality to you. Any information we collect will always be used in compliance with the policies of the relevant 3rd party. This data may include but is not limited to health data collected via other services, as well as basic social network profile information.
+How to exercise your privacy rights :
+At any time, you can exercise your rights to your information by contacting our data protection officer at support@madarsoft.com
+APPLE HEALTHKIT DATA
+User data collected from Apple Health will never be used for marketing or advertising purposes.
+If you choose to have Rashaqa integrate with HealthKit then the application will have access only to the health data types you opt-in to access.
+The health data read from HealthKit is used for display within the app. It is not collected or disclosed outside of your local installation of the app. Only those data types relevant to the app are accessed.
+Rashaqa requests permission to write certain data types into your HealthKit data store. These are used when you perform a walking workout from an Apple Watch.
+In no case is your health data ever transfered to a 3rd party. It is only ever kept within the application container of Rashaqa or transfered to your personal HealthKit data store as per your permission choices.
+USE OF YOUR DATA
+We use the information we collect to:
+Operate and improve our services;
+Provide user and other support, including to our third-party business partners;
+Provide you with information when you enter participating local venues;
+Carry out other purposes that are disclosed to you and to which you consent.
+We do not disclose your health related data, physical activity data or health related goal data to any 3rd parties without your express permission.
+Deleting Your Data
+You have the right to delete your data. You may do so via the contacting our data protection officer at support@madarsoft.com. Deletion requests will be completed within 30 days of receiving confirmation, your information will be entirely deleted from that data.

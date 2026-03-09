@@ -1,0 +1,52 @@
+ï»¿
+Privacy Policy for aCalendar and aCalendar+
+Privacy Policy for aCalendar and aCalendar+
+ðŸ‡©ðŸ‡ª ðŸ‡¦ðŸ‡¹ ðŸ‡¨ðŸ‡­
+Die Deutsche Version unserer
+DatenschutzerklÃ¤rung
+gibt es hier
+Â§ Scope
+aCalendar is an Android app developed by
+Tapir Apps GmbH
+in Munich, Germany. We take privacy very seriously and collect no data from our users.
+aCalendar is a user interfaces to the Android calendar storage for events and Android contacts for birthdays.
+The plus version includes all features that can be bought as in-app-purchase in the regular (free) version.
+This privacy policy governs both app versions.
+For any questions regarding our privacy policy please contact our support by email to
+support@tapirapps.de
+.
+Â§ Calendar and Contacts data
+aCalendar operates on Android's local calendar and contacts data.
+aCalendar never transfers your calendar or contacts data to Tapir Apps or third parties.
+Please be aware, that calendar and contacts data can be read by any app on your device with the appropriate permissions, as these are standard Android interfaces.
+If you use cloud calendars to sync your calendar data, please read the privacy policies of your cloud services.
+Â§ Tasks data
+If installed, aCalendar can access tasks from the Open Tasks app.
+aCalendar offers Google Tasks support with its own local storage and synchronization to Google's server. Please see Google's
+privacy policy
+for details.
+aCalendar never transfers your tasks data to Tapir Apps or any other third parties.
+Â§ Data we collect
+None. We collect no data from our users. The only data we receive from you, is through support requests sent to us by email or other support channels. All such data will be treated strictly confidential.
+Â§ Third party libraries used
+The free aCalendar version uses ads from
+Google
+, please see Google's
+privacy policy on advertisement
+for details.
+To configure your Google ad experience, please visit
+Google ad preferences
+or in aCalendar settings - ads.
+The free aCalendar version uses ads from
+Facebook
+, please see Facebook's
+privacy policy
+for details.
+To configure your Facebook ad experience, please visit
+Facebook ad preferences
+.
+The free aCalendar version from Huawei AppGallery uses ads from
+Huawei ads
+, please see the
+Statement About HUAWEI Ads and Privacy
+for details.

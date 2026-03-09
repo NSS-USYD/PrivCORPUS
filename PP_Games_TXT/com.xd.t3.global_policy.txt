@@ -1,0 +1,176 @@
+PRIVACY POLICY
+PRIVACY POLICY
+Contents
+I.	About This Privacy Policy
+II.	What Data We Collect and Process
+III.	How does XD Use Your Personal Information?
+IV.	Who May Access Your Personal Information?
+V.	Data Storage, Cross-Board Transfer, Security and Retention
+VI.	What Rights do You Have to Your Personal Information?
+VII.	How does XD Use Cookies or Similar Technologies
+VIII.	How Will XD notify You of Changes to this Privacy Policy?
+IX.	How Can You Contact XD?
+LAST UPDATED:
+November 17, 2022
+The Changes to this Privacy Policy are mainly including:
+Disclosed the new Third-Party Service Providers and its Main third-party services embedded in our Services which may collect your Personal Information.
+PRIVACY POLICY
+Throughout this Privacy Policy we refer to â€œServicesâ€, which means our websites, game services, surveys, promotions, contests, purchases, community support, and other related activities. Also, when we use the terms â€œXDâ€, â€œweâ€, â€œusâ€ or their derivatives, we are referring to XD Entertainment Pte. Ltd and XDâ€™s affiliates. Affiliate in this Privacy Policy shall mean an entity that directly or indirectly controls, is controlled by or is under common control with XD Entertainment Pte. Ltd hereto.
+With so many users using XD Services, we, XD, understand the importance of your privacy and respect the privacy and security of every user. Maintaining your privacy and the trust of our users is important to us. This Privacy Policy summarizes our policies and processes on how we collect, use, disclose, transfer and store your personal information.
+IT IS IMPORTANT FOR YOU TO UNDERSTAND HOW THIS HAPPENS AND HOW YOU MAY CONTROL IT. AND BY ACCESSING OUR WEBSITES OR OTHERWISE, USING OUR SERVICES AND CLICKING â€œAGREEâ€ BUTTON ON THE POP-UP WINDOW, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND ACCEPTED THE FOLLOWING TERMS. IN THE CASE YOU DO NOT AGREE TO ANY OF THE TERMS, YOU MAY IMMEDIATELY STOP USING OUR SERVICES.
+Our Services are not designed for Minor, and since a â€œMinorâ€ is usually considered to be under the age of [16ï¼ˆEEAï¼‰/14ï¼ˆKOREA and other countries or regions ï¼‰/13(the USA,JAPAN and other countries or regions/12 (Brazil and other countries or regionsï¼‰Subject to the laws of your country] under applicable law of most regions, we do not directly provide Services to Minor under the age of [16/14/13/12] If you are under the [16/14/13/12] you shall ask for the consents of your parent or legal guardian before using our Services. We also do not knowingly collect Data from Minor through the Service. If you are the parent or guardian of a Minor and you believe that we have inadvertently received your childâ€™s information, please contact us through the methods listed in Section IX. We will delete the Data from our records as soon as possible after verifying your identity. If you are not a parent or legal guardian but believe that we might possess any Data from or about a Minor under the age of [16/14/13/12], you are also encouraged to contact us as well. We encourage parents to instruct their Children to never give out personal data when online.
+IN THE EVENT OF A MERGER, ACQUISITION, REORGANIZATION, BANKRUPTCY, OR OTHER SIMILAR EVENT, WE WILL MAKE AN ANNOUNCEMENT IN ADVANCE, DISCLOSE THE DETAILS OF THE EVENT AND INFORMATION ABOUT THE SUCCESSOR, AND WITH THE EXPRESS CONSENT OF YOU OR YOUR GUARDIAN IN ADVANCE AGAIN, YOUR PERSONAL DATA MAY TRANSFER TO THE SUCCESSOR OF  XD.
+I. About This Privacy Policy
+Except for specific XD Services providing an independent privacy policy, this Privacy Policy applies to all XD Services that reference or link to this Privacy Policy. This Privacy Policy explains how we collect, use, protect, and store your Personal Information (defined below) and how we comply with applicable data protection laws. It does not apply to other non-XD service providers, including third-party services as described in Section II, which may be embedded in our Services in the form of Software Development Kit (â€œSDKâ€), Application Programming Interface (â€œAPIâ€) or directly linked to our Services. Those third-party service providers may access your data as data controller and operate under their own privacy policies, and you can refer to Section IV for more details.
+XDâ€™s Privacy Policy does not include the privacy policies of third-party service providers, nor does it bear any joint liability for them. If you need to exercise related rights or think that third-party service providers infringe your rights, please contact their corresponding DPO.
+II. What Data We Collect and Process
+Personal information may be collected from you during your use of the Service, including, during (a) the registration process, (b) promotional activities, (c) customer support and technical service requests, and/or (d) ordering and use of products and other services, or from and through third-party service providers and partners.
+We may also collect information that does not generally identify you but may become associated with your account. We reserve the right to use information that does not generally identify you in connection with any lawful purpose.
+1.Information We Need You to Provide or Information You Provide to Us Voluntarily
+For using XDâ€™s Services, we may ask you to provide necessary information or you may provide information to us voluntarily. In general, we will collect the following information that you may provide to us :
+Information You give us when register for the Game and set up your profile for the Game
+: your nominated nickname, and information we import from your connected social media account in order to set up your profile, including your nickname as it appears on your social media profile, your profile picture, etc. For certain regions, you may also be asked to provide us with your date of birth (stored device-side only) to verify your age and for administration of the gameplay management system. You also provide us with additional information when you set up your profile for the Game (including region location and information you voluntarily elect to provide, such as gender) or your nickname when you log-in as a â€˜guestâ€™ in order to use the Game.
+Information you provide when you contact our support team or DPO team
+: Information that you provide in your communications; Specifically, For requests relevant to data or privacy subject, we may collect information to verify your identity, your rights and to process the requests, including country/region, alias, user email address, screenshot of Game avatar, account ID, account registration date, account balance, request details, and if applicable, name of requestor, email address of requestor, requestorâ€™s relationship with user, proof of requestorâ€™s identity, proof of userâ€™s identity and requestorâ€™s authority.
+Information you provide when participating in-game surveys, sweepstakes events, game-based event, etc.
+: When you participate in a survey we will process the information you provide to us as part of the survey, such as country, age, gender, profession and email address; When you participate in one of our sweepstakes events, you may provide us with information such as email address, Open ID, phone number, mailing address and country; If you participate in our game-based events, to send you digital prize(s) if you win such prize(s), we may collect and process your email address and telephone number; to deliver physical prize(s) if you win such prize(s), we may collect and process your name (as shown on your passport), email address, telephone number, mailing address and postal code.
+2.Information We Collect Automatically
+We automatically collect certain data from you when you use the Services, namely:
+IP address
+, we collect IP address to allow you to connect to the Game server; and suggest your country/region when you seek to change your location setting.
+Device information:
+such as application version, battery level, WiFi strength, available space, network type, OS version, platform, carrier, country code, series ID, Android ID, IDFV, WiFi SSID (stored device-side only) and time zone settings, registration time, login time.
+Battle Performance Information
+: such as opening time, hero, player/team UID, scores/badges earned, damage amount, current round rank, etc.
+Game play statistics
+(e.g. level, scores, game settings);
+Transaction Records (in-app)
+: cost, product purchased, IP address, details of transactions linked to your player ID, and device details including OS version, phone model, device root status, etc.For security reasons and to better protect your privacy, we do not directly collect or store your payment information like valid credit card number, expiration date, etc.
+Malicious content information
+: signatures, nicknames, profile photos and chat histories which is suspicious of containing malicious content such as the sale of plug-ins or pornographic or any other malicious contents as stipulated in the End User License Agreement(we will detect if your signature, nickname, profile photo or chat history contains malicious information and changing it to its default setting and prompting you to change it subsequently if this is the case).
+Please note that if certain features on the Services are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of the Services over time. These features are subject to those third partiesâ€™ privacy notices and policies.
+3.Data We obtain From Third- Parties
+We also may receive Personal Information from or through certain third-party service providers (such as Social Media Platforms, third-party payment platforms, Advertising Partners, Fraud-Detection Service Provider, Customer Support Partner, Anti-Crack and Anti-Cheat Service Provider, etc.)which provide us services in support of the operation of XD Services:
+Data we imported from the Social Media (Sign-in with TapTap, Sign-in with Apple, etc.) via which you choose to log in XD Services (for TapTap, we will import nickname in the profile, profile photo, and gender, etc.; For sign-in with Apple, we will import Apple ID, profile image).
+Malicious content/behavior information related to cheat and fraud and any other prohibited behaviors as stipulated in End User License Agreement, such as video clips of suspected cheating behavior generated from userâ€™s in-Game instructions detected by our third-party anti-cheating service provider.
+Data from third-party payment platforms when you conduct any transaction within the Game to facilitate your transaction and to maintain transaction records.
+Data to measure the effectiveness of our advertising campaign from our advertisement service provider.
+Safety observation and security related information: such as game crashes and errors data.
+We collect the above information for the purposes to update your profile, perform market analysis, and/or otherwise improve the XD Services. We abide by this Privacy Policy when we use Personal Information provided to us by third-parties.
+Certain game features or third-party services embedded in our Services may require for the access to your Camera, Microphone, device location and other sensitive device or usage data, we will use a runtime permissions request whenever available, prior to accessing data gated by Android or IOS permissions. For example, if you want to use the Scan QR code feature, you will be required to grant the Camera Permission; if you want to function the in-game voice-chatting feature, you will be required to grant the Microphone Permission; if you want to store/read game data, or want to store/read/post/share photos or screenshots, you will be required to grant the Write/Read-External-Storage permission (or other similar permission with different name in the operating system), etc.
+III. How does XD Use Your Personal Information?
+1.We only collect, use, store, and process your Data based on:
+The principle of lawfulness, fairness and transparency;
+Your consent that we may obtain from you time to time;
+Specified, explicit and legitimate purposes;
+The extent that is adequate, relevant and limited to what is necessary in relation to the purposes, such as to perform the obligations under End User License Agreement and to provide our Services;
+Your or our other legitimate interests;
+Necessity for protecting the vital interests of you;
+Other legal bases including if required under any law or required by governmental and regulatory bodies.
+2.We need collect and use certain Personal Information to operate our business and to enhance and personalize your Service experience, such as:
+Software: For example, identify, fix, and troubleshoot bugs and service errors; provide software updates;
+In-game Communications: For example, enable you to communicate, share your gaming experiences, or express your feelings with other users;
+Account: Set up and maintain your accounts; activate or authenticate your games and save game progress and status; recover your account, locate your account when you receive rewards;
+Gaming Functions: For example, facilitate your gameplay on multiple devices; enable online matchmaking; enable purchasing related functions; monitor, analyze, test, improve, and develop our Service, etc.;
+Marketing/Advertising(optional): For example, serve and measure the effectiveness of advertising; adhere to your preferences and to deliver dynamic and personalized content;
+Solve In-game disputes: Keep our Services safe and fair, investigate and resolve disputes between you and other users as well as XD;
+Compliance and security: help identify fraud and illegal behaviors, comply with the law or to enforce our agreements and policies, ensure the security of our services, to maintain a fair gaming environment in the Game and to prevent the sale of plug-ins or the availability of pornographic content on the services.
+3.We need collect and use certain Personal Information to provide you with customer support, including:
+Help identify and troubleshoot problems with your account or Services;
+Collect your opinions through surveys or questionnaires;
+Communicate with you and respond to your specific requests or questions;
+Help you find your friends or share your related gaming experience;
+Manage and send you confirmations and important information about your account, purchases, subscriptions, and warranties.
+For the purposes set forth above and to successfully operate the Services, our affiliates may be commissioned to access and process your information from time to time. All related affiliates may only use your Personal Information in accordance with this Privacy Policy. In all of the above cases and purposes, you acknowledge and confirm that we may analyze, profile, segment, merge and/or update all collected data (regardless of an aggregated or individualized manner) for the purposes of improving service quality and providing a better experience to users.
+IV. Who May Access Your Personal Information?
+In addition to XD and/or its affiliates, other parties may also access your personal data in the following situations. You acknowledge that you have foreseen and agreed to the occurrence of such disclosure when you provide your personal data.
+1.Other Users
+Social features are a core component of our games and Services, other players and users may, for example, see your profile data, in-game activities and read the messages you have posted depending on the setting adopted by you. We strongly recommend that all users avoid posting personal or sensitive information at any time, do not use your real name when selecting a username or post your real name in public-facing areas of the Services, such as forums, chat rooms, or message boards, and
+do not share anything private about yourself on such public platforms, including your phone number or address. Use usernames/nicknames instead of real names at all times.
+2.Competent Authorities
+We may provide certain portion of your Personal Information to judicial or administrative authorities when we are required to do so by law, legal process, or a reasonable request from law enforcement authorities or other government officials. Besides, we may disclose certain portion of your Personal Information within a strictly limited scope of recipients when we reasonably think it is necessary to protect us, our users or a portion of the public.
+In addition to be required by applicable laws, we reserve the right to disclose your Personal Information in the cases if we, in our good faith, believe that disclosing such data is necessary to identify, contact, or bring legal action against you, if (a) you are violating any agreements between us, such as the End User License Agreement and this Privacy Policy or otherwise damage us; (b) you are infringing third partiesâ€™ rights and interests (including but not limited to intellectual property rights); and/or (c) we believe that it is necessary to prevent fraud or other illegal activities.
+We ensure that, even in this case, we will not provide your Personal Information to third parties.
+3.Third-Party Service Providers
+XD works with some (if any) third-party service providers and business partners to support the operation and provision of our Services. For example, we may share certain limited information, such as device identifiers, with marketing partners for purposes of executing and optimizing campaigns, and gauging the effectiveness of advertising and other marketing strategies solely on XDâ€™s behalf. Other common examples include partners that assist with cloud storage, payment processing, customer supporting ticketing, and monitoring and securing the XD Services. These service providers are not authorized by us to use or disclose personal information except as necessary to perform services on our behalf or comply with legal requirements and we do not share Personal Information with third parties for their direct marketing purposes.
+Besides, some of third-party services being linked to or embedded in XD Service may use cookies, web beacons, and/or other technologies to collect or receive data about you according to their own Privacy Policy, and we cannot control the information that these third parties collect or how they use that information.
+We strongly encourage you to check their own Privacy Policies on their official websites and learn more about their data processing practices. Notwithstanding the foregoing, if you discover that any third party collects or processes your Personal Information illegally or in a manner which worries you, you are encouraged to contact us, and we will make reasonable efforts to help you.
+Main third-party services embedded in our Services which may collect your Personal Information and links to their Privacy Policy are as follows
+(the concrete scope of Third-party services embedded in each XD Service may vary depending on the services we provide):
+For the purpose of providing payment processing services (including security and fraud detection): AppStore, UniPin, Coda, PayPal, Razer, Toss, etc.;
+For the purpose of providing services of login: TapTap, etc.
+For the purpose of providing social features such as game community forum, content sharing and posting, in-game friends system: TapTap;
+For the purpose of processing customer support tickets: Zendesk;
+For the purpose of executing and optimizing campaigns, and gauging the effectiveness of advertising and other marketing strategies solely on XDâ€™s behalf: AppsFlyer, Adjust;
+For the purpose of providing performance and stability monitoring service to solve crashes and optimize compatibility, to identify and address bugs and assess service function for optimization and to improve our services: Tencent Bugly;
+For the purpose of providing anti-cheating and security reinforcement service: Tencent MTP;
+For the purpose of providing in-game voice communication services: Tencent GME.
+Links to the Privacy Policy/ official sites of the above third-party services for your quick access and reference:
+TapTap:
+https://www.taptap.io/privacy-policy
+Zendesk:
+https://www.zendesk.com/company/customers-partners/privacy-policy/
+AppStore:
+https://www.apple.com/legal/privacy/en-ww/
+UniPin:
+https://www.unipin.com/
+Coda:
+https://www.codapayments.com/policy/privacy-policy
+PayPal:
+https://www.paypal.com/sg/webapps/mpp/ua/privacy-full
+Razer:
+https://www.razer.com/legal/customer-privacy-policy
+Toss:
+https://toss.im/docs/53
+Facebook:
+https://www.facebook.com/policy.php
+ACE: https://intl.anticheatexpert.com/#/doc-center/8fc4c1195346a2c74e472881bca42c4010698921
+Tencent Bugly:
+https://static.bugly.qq.com/bugly-sdk-privacy-statement.pdf
+Tencent MTP:
+https://cloud.tencent.com/document/product/301/11470
+Tencent GME:
+https://cloud.tencent.com/document/product/301/11470
+V. Data Storage, Cross-Board Transfer, Security and Retention
+Storage and Cross-Board Transfer
+Our Service is global by nature
+and you understand and agree that we may store or process your Personal Information outside of the country where we collect it or in which you reside;
+You hereby unconditionally agree and permit that we may transfer, share, disclose all or any of your Personal  Information to third parties or service providers or other entities where necessary in relation to the purposes identified in this Privacy Policy . As different countries may have different Data Protection and Privacy laws, policies, and other regulations, you are fully aware that applicable laws in some country may not offer you privacy protection which is in the same level as such offered in the country where you live or work. In such cases, we will take steps to ensure adequate safeguards are in place to protect your data, for example, we will contractually oblige the receiving parties to ensure that same level of data protection is accorded to your information that is adhered to by us under applicable law. Further, we contractually ensure that such information is not disclosed, published, or transferred further.
+Security Safeguard
+Security of our usersâ€™ Personal Information is a priority at us, and we are continuously implementing and updating administrative, technical, and physical security measures such as access control, compressed encryption to help protect your data against unauthorized access, loss, destruction, or alteration. As part of our privacy compliance processes we review these security procedures on an ongoing basis to consider new technology and methods as necessary. Due to the continuous updating of technology, we will try our best to continuously improve our information protection measures. If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. If there is a security breach, we may also post a notice on our Website or by other effective means to notify you for you to take steps to protect the safety of your information as well as your property. We will send an emergency report to authorities in case that the security breach is serious and assist authorities as well to take steps to prevent further harm.
+Data Retention Policy
+We will keep your personal information for as long as your account is active or that information is necessary for us to provide you with the XD Services unless we receive your request to delete. And we will only store your information as long as necessary to fulfil the purposes for which the information is collected and processed or where a longer storage and retention period is required to comply with any statutory, regulatory, or legal obligations. After that, your personal information will be deleted, blocked or anonymized, as provided by applicable law.
+In the case you request to remove or delete your personal information, we will retain your personal information as long as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and/or enforce the agreements between us. Please note that the remove or deletion any of your personal information may result in the termination of some of our applicable services.
+Information you have shared with others such as your chat logs with other users may continue to be retained for other users in the Services, even after your Account is cancelled. However, attribution of such information to you will be removed. Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers. Data protection and information security is important for us. While providing services to you and other users, we operate and maintain the Services or Game so as to protect Data and our systems from accidental or malicious loss and destruction. Therefore, as part of provision of Service and on account of overall safety of Data of all users, residual copies of your personal information may not be removed from our backup systems for a limited period of time.
+VI. What Rights do You Have to Your Personal Information?
+Right to Access/Data Portability, Correct, Delete or Withdraw consent, Restrict/Object Processing
+Subject to any limitations under applicable law, you have the right to request access to your Personal Information and exercise the following rights
+You have the right to access, correct or update your Personal Information. In many cases, you can review or update the Personal Information in your account by accessing your account online or contacting us.
+You have the right to request deletion of your account and related Personal Information. If you choose to have your Personal Information removed from our active databases, subject to the terms and conditions as set forth in Section V, we will carry out your request within 30 days after we verify your identity unless otherwise required by applicable laws and regulations. After deletion, we will only retain necessary information to document your request and the actions we took to carry out your request. And you are fully aware that once your personal information is deleted, we will not be able to provide you with corresponding services or recover the information with current technology.
+Where you have provided your consent to our collecting and processing of your personal information, you can always withdraw your consent at any time for example by turning off GPS location sharing in your mobile device settings or contact us through the methods listed in Section IX. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Upon receiving your request to withdraw your consent we will stop the process and delete the corresponding information as well.
+You have the right to restrict certain processing of your Personal Information, and the right to object to some types of processing of your Personal Information subject to Section VI of this Privacy Policy.
+You have the right to object to the usage of your Personal Information for marketing or advertising purposes.
+You may exercise any of the rights described above by using any functionality available while using the Service and/or sending an email to the DPO email as listed in Section IX and we will respond within 30 days or other shorter period (if any) as required by applicable laws or policies in the country where you live or work after. To protect your privacy, we may need to take steps to verify your identity before fulfilling your request.
+We will process such requests in accordance with applicable laws. Please note that we are legally prohibited from carrying out requested actions in some circumstances, including (i) when we are unable to confirm your identity; (ii) where the request is considered excessive, and (iii) where doing so would adversely affect the rights or freedoms of other individuals.
+Additional Notice for Users Whose Data is Subject to California Law
+The personal information that XD collects, uses and/or discloses and has collected, used, and/or disclosed from users as set forth above in the twelve months prior to the effective date of this Policy, may include personal information as defined under the CCPA, depending on how you have accessed the Services and interacted with us.
+For purposes of the California Consumer Privacy Act (â€œCCPAâ€), we do not â€œsellâ€ personal information and in the past twelve months prior to the effective date of this Policy did not sell any personal information of our users, as defined under the CCPA. The California â€œShine the Lightâ€ law also gives residents of California the right under certain circumstances to opt out of the sharing of certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. We do not share your personal information with third parties for their own direct marketing purposes.
+In accordance with the CCPA or other applicable law, you may have the right to: (i) request confirmation of whether we are processing your personal information; (ii) obtain access to or a copy of your personal information; (iii) receive an electronic copy of your personal information or ask us to send that information to another company; (iv) restrict our uses of your personal information, including the right to opt in or opt out of the sale of your personal information to third parties, depending on applicable law; (v) seek correction or amendment of inaccurate, untrue, incomplete, or improperly processed personal information; and (vi) request erasure of personal information held about you by XD, subject to certain exceptions prescribed by law.
+Right to Lodge a Complaint
+You have the right to lodge a complaint regarding our collection, processing, or storage of your Personal Information with a data protection supervisory authority in the country where you live or work.
+VII. How does XD Use Cookies or Similar Technologies
+In order to measure the effectiveness of our services, some pages on our websites may use cookies, which are small text files for added functionality or for tracking site usage. We may use cookies and/or authorize third partyâ€™s tracking-utility, from time to time, (a) to log your IP address in determining the path that users take on our sites and identifying repeat users of our sites, (b) to collect the websites or sources that linked or referred you to our services, and/or (c) to collect technical data about the devices and software you use to access our services, the operating system of your devices, and other similar technical data. Notwithstanding the foregoing, we do not link your IP address to your other Personal Information. If you do not wish to accept cookies or want to be notified of when they are placed, you may set your web browser to do so, if your browser permits.
+We use the cookies, web beacons and similar technologies to personalize your experiences on our services and for various other purposes, including:
+remembering you: cookies, web beacons and similar technologies can help us identify you as a registered user or keep the preferences or data that you have previously provided;
+analyzing how you use our services: we can use cookies, web beacons and similar technologies to understand what visitors (including users) are doing on our services, or what pages or sections are most popular;
+serving advertising: cookies, web beacons and similar technologies help us provide you with advertising that we believe is relevant to you or of interest to you, on the basis of your provided data; and/or
+other related functions or purposes mentioned in Section II & III.
+Our authorized third-party service providers or we may use cookies and similar technologies to provide and personalize the services, prevent fraud and for other purpose mentioned above. Please note you can disable cookies in your browser settings, while some parts of the XD Services may then not function properly.
+VIII. How Will XD notify You of Changes to this Privacy Policy?
+We may update this Privacy Policy from time to time to accommodate changes in technology, law, our operations, or for any other reason we determine is necessary or appropriate, you agree to review it for the updates on this page frequently. We will indicate the last updated Date at the top of this page. We may also notify you by placing a clear notice in the Services, sending private messages or e-mails, posting the new Privacy Policy on our websites, or other notification methods that may be appropriate based on the nature of the updates. All changes to the Privacy Policy will be effective when posted, and your continuous use of any of the Services after the update will be deemed as your acceptance for the updated Privacy Policy unless material changes are involved, in which case we may obtain your consent again in the form of a pop-up window when you log into our Services.
+IX. How Can You Contact XD?
+If you have questions, comments and requests regarding this privacy policy and/or your rights, or you want to exercise any of the rights described above or if you have questions regarding your rights, we encourage you to primarily contact us through the support features within each game, so we can reply to you more quickly. Alternatively, you may contact:
+Name of the controller: XD Entertainment Pte. Ltd.
+Address: 111 SOMERSET ROAD #05-11 111 SOMERSET SINGAPORE (238164)
+Attn: Privacy
+You also have the right to contact our Data Protection Officer (DPO) by sending an email to [privacy@xd.com] if you are unsatisfied with how your request is being handled.

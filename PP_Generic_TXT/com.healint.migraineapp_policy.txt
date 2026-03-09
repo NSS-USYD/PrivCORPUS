@@ -1,0 +1,182 @@
+Privacy Policy - Migraine Buddy
+Track Migraine Symptoms & Triggers
+For Your Medical Team
+EN
+Choose Language:
+Deutsch
+Italiano
+Français
+Español
+日本語
+Download the App
+Privacy Policy
+Français:
+Politique de confidentialité
+Deutsch:
+Datenschutzbestimmungen
+Español:
+Política de privacidad
+Italian:
+Politica sulla privacy
+Healint, the creators of Migraine Buddy would like you to be familiar with how we collect, use and disclose information and data. This Privacy Policy explains our practices in connection with information that we collect through Migraine Buddy (“App”), our websites (
+app.migrainebuddy.com
+,
+www.Healint.com
+, and
+www.migrainebuddy.com
+, “Websites”) and any services we provide you either through the App or through our customer service practices (“Services”). In regard to data collected through the app, Healint is the data controller. In the case of any privacy related questions or in case of desired actions relevant to your privacy rights, please contact Nicolas Paris at +65 8657 9176. By downloading, accessing or using the App, or providing information to us in connection with the App, you agree to the terms and conditions of this Privacy Policy.
+Modification Of Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time without prior notice . This Privacy Policy was last updated on the 11th of January, 2020. Your continued use of the Services after any changes or revisions to this Privacy Policy shall denote your agreement with the terms of such a revised Privacy Policy.
+What Kind Of Information We Collect
+When You Create A Migraine Buddy Account
+If you want to access data collected by your Device, you must create a Migraine Buddy account. When you create a Migraine Buddy account, we ask for some personal information, including your email address and a password. Your email address will be used to log-into your account.
+You can also create your Migraine Buddy account using a different credential such as a Facebook or Google account. We will ask permission to access basic information from that account, such as your name. You can stop sharing that information with us at any time by removing Migraine Buddy’s access to that account.
+When You Add Information to Your Profile
+You can customize your Migraine Buddy experience by adding other types of information to your account, such as: Name, Gender, Birthdate.
+When You Record Data
+Full use of Migraine Buddy requires that you record information related to your migraines, such as your pain intensity, your pain location, your symptoms, your triggers, your medication, your reliefs, your menstruation, etc.
+When You Sync Your Device
+When you sync your Device through Migraine Buddy, data recorded on your Device about your activity is transferred from your Device to our servers. This data is stored and used to provide Services and is associated with your account. Each time a sync occurs, we log data about the transmission. Some examples of the log data are the sync time and date, device battery level, and the IP address used when syncing.
+When You Contact Us For Help
+Whenever you contact Migraine Buddy for help, we collect your email address along with additional information you provide in your request so that we can provide you with assistance and improve the Services. If you contact us when you are already logged in to your account, the web form automatically pre-fills this information, so you don’t have to type it manually. You can also contact Migraine Buddy on public forums such as Twitter or Facebook; however, we cannot maintain the privacy of your communication to us if you contact us through these channels.
+When You Invite Buddies
+You can invite your buddies who are already Migraine Buddy users or invite friends who have not yet joined. You can invite Buddies in several ways, such as by providing their email addresses, or by accessing social networking accounts or from the contact list on your phone. When you share your Buddies’ contact information with us to add them as a friend, we will only use it for this purpose. We do not store your phone’s contact list, and it is deleted immediately after it is used for this purpose.
+When You Activate Location Features
+The Services include features that require the collection of specific location data, including GPS signals, in order to detect weather parameters (humidity, pressure, temperature) which can trigger your migraines. We only collect this type of data when you activate a location feature. We stop collecting this type of data when you deactivate the feature. We store this information in your Migraine Buddy account.
+How We Use Your Personal Information
+Personal information can include the email address and password provided at sign-up, as well as gender and geographic location, first name, last name, phone number, and date of birth of a person who has downloaded, accessed and used Services in connection to the App (“User”).
+We may use your Personal Information:
+To respond to your inquiries, comments and posts on different platforms such as social media or to send newsletters to you in order to inform you of our present and upcoming services.
+To send you news and research-based migraine information that we believe may be of interest to you.
+To allow you to send messages or invites to a friend through the applications
+To personalize your experience on the app
+Under the following circumstances: (a) under applicable law (b) to comply with legal process; (c) to respond to requests from public or government authorities, including public or government authorities outside your country of residence.
+How We Use Your Data
+By using, accessing and inputting information in the App, you agree that any and all migraine data (excluding personal information) that you have entered or may enter at a future time, into the App, as well as any data you may enter into related features or Services of the App (which are not present at the moment within the App, but which may be introduced at any time in the future), you consent to the compilation, processing, analyzing as well as anonymous disclosure of the resulting statistics to a third party.
+(i) Where do we store your data:
+We store your data (self-recorded data, phone sensor data and analytics data) in controlled cloud servers, and on some third-party servers than are used as Healint’s Data Processors, such as AWS.
+PII data is stored in a physically segregated database from the rest of the data (self-reported episode data, sleep, etc.).
+(iI)
+How is your data encrypted:
+We encrypt all communications with SSL. It ensures that nobody can look at the data exchanged between Healint’s servers and the Migraine Buddy application.
+All data are separated in silos in different micro-services that represent logical blocs for the platform (e.g. 1 for the migraine, 1 for the sleep, 1 for medication…).
+(iii)
+GDPR compliance
+Our platform is fully GDPR compliant. We store patient data in different geography (EU, US, Singapore/Rest of the world).
+Aggregating anonymised user statistics allows us to enhance our services through the provision of insights that can not only help users and physicians understand the causes of migraines, but also show how a population responds to treatment methods and medications. The main objective of data collection is to assist and further migraine research as well as improve and quantify our services. In lieu of these objectives, the above mentioned compilation, processing, analysis, and anonymous disclosure of statistical information may be conducted with the purpose of:
+1) Developing anonymous aggregated reports, analysis, charts, tables, infographics in order to:
+Develop and improve the Crowdsourced Search Engines (how many users record a specific word)
+Work with external researchers to improve algorithms and develop new individualized algorithms meant at improving your experience including “migraine prediction,” “activity detection,” and “trigger learning,” without being limited to those.
+Compare different migraine population groups for our understanding, as well as for communication and awareness of migraine.
+Participate in academic research with a resulting publication, sponsored by Healint or a Third Party (cf, Disclosing Statistics To A Third Party).
+You can still opt-out
+at any time
+by going into “My profile” and adjust the “opt-in for research” button.
+2) Improving Healint’s algorithms in order to:
+Improve Machine Learning and affiliated services
+Create groups or customized patterns
+You can still opt-out
+at any time
+by going into “My profile” and adjust the “opt-in for research” button.
+3) Quantifying how Healint’s services are utilized
+4) Developing consequently related new products, services and features which may be used to improve the App or may be sold to you or a third party.
+Disclosing Statistics and Data To A Third Party
+Your statistics and/or data may be disclosed to a third party in the following instances:
+1) As we develop our business, we might sell or buy businesses or assets. In the event of a sale, merger, reorganization, dissolution or similar event relating to all or a portion of our business or assets, your personal information and data may be part of the transferred assets.
+2) We may also disclose your data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public.
+3) Fully anonymised statistics derived from data collection can be included in anonymous & aggregated reports, analysis, charts, tables, infographics to support research and awareness of migraine, more in How We Use Your Data, 1).
+We store your Personally Identifiable Information for as long as you maintain a Migraine Buddy account. Once the account is deleted, your Personally Identifiable Information will be removed within 30 calendar days.
+How To Edit or Modify Data
+Personal information and data that you provide to Migraine Buddy can be modified from your Migraine Buddy account (ex: modify your user’s email address from your Migraine Buddy profile). If you remove migraine and sleep data from your account, it will no longer appear to you. Backups of that data will remain associated with your Migraine Buddy account and in our archive servers. It is important to note that the data on the aforementioned backups is only deleted once the account is deactivated, and this occurs within 30 days of deactivation.
+How To Deactivate Your Migraine Buddy Account
+You can deactivate your Migraine Buddy account by deleting it directly InApp (My profile > Delete). When you do, data that can identify you will be removed from the Services, including but not limited to your email, name, Buddies list and links to sites such as Facebook. Backup copies of this data will be removed from our server based upon an automated schedule, which means it may persist in our archive for a short period, and to a maximum of 30 days. Healint may continue to use your de-identified information after you deactivate your account. De-identified information is fully anonymised and there will be absolutely no way to trace any of this information to your personal identifiable information. It is important to note that the identifiable data on the aforementioned backups is only deleted once the account is deactivated.
+Exclusions To Privacy Policy
+This Privacy Policy does not and shall not apply to any unsolicited information you provide to us. This includes, but is not limited to, information posted to any public and social media forums, such as the Migraine Buddy forum, Migraine Buddy’s UserVoice Page, Migraine Buddy’s social media pages and websites (collectively, “Public Platforms”), including any ideas for new products or modifications to existing services, and other unsolicited submissions (collectively, “Unsolicited Information”). All such Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+Please also note that any personal information you provide to be displayed in publicly available parts of Migraine Buddy, including the Buddy tab, will be displayed for those who you have added or will add as Buddies to see and thus will not be subject to the terms of this Privacy Policy. We cannot and will not be responsible for i) who you add as a Buddy within the App and ii) what those Buddies do with any personal information or other forms of information, such as but not limited to personal data, that you choose to make publicly available.
+This Privacy Policy will also not be applicable to any information you share on Buddies Tab in the App. Therefore, we advise that you exercise great caution when adding a Buddy within the app and what information you choose to make publicly available through our Services.
+Children
+If you are under sixteen, please do not submit any Personal Data and Information through the App or our website without consent from a parent or guardian. Parents who are using the App and our website for their children who are under 16 will be responsible for any data and Personal Information they enter into the App.
+PLEASE NOTE:
+Migraine Buddy is, under no circumstances, meant to make a diagnosis or provide treatment for migraines or any other related health condition. For a proper diagnosis of your medical condition and the treatment that may stem from such a diagnosis, we suggest you consult a doctor or related health care professional.
+Questions about the Privacy Policy
+If you have questions or comments about our Privacy Policy, please contact us at
+jenny@healint.com
+.
+Reporting a breach in data privacy
+If you believe your data is unprotected or in breach of GDPR regulations, please contact
+jenny@healint.com
+(opens in new tab) or your aggregated local authorities.
+Leave your mobile to get a link to download the app
+Get the Link
+Migraine Buddy is the #1 headache and migraine tracking application. Recommended by the best neurologists in the world, we empower our users to learn and communicate about their condition. Our community of 3.5 million contribute to migraine awareness and research. Migraine affects 1 in 7 people globally and only 60% of them have access to treatment. Join us now!
+Track Migraine Symptoms & Triggers
+For Your Medical Team
+Volunteer With Us!
+MBplus
+Help Center
+Migraine Weather
+General
+Life With Migraine
+Reliefs
+Diagnosis
+Symptoms
+Triggers
+Download the App
+Share with friends
+Copyright © 2023 - Migraine Buddy. All rights reserved.
+App developed by
+Healint
+Terms Of Use
+Privacy Policy
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “ACCEPT ALL”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+Cookie Settings
+REJECT ALL
+ACCEPT ALL
+Manage consent
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+wp-wpml_current_language
+24 hours
+The cookie is set by the WPML plugin and is used to store the user's preferred language to view the website. It does not store any personal data.
+Functional
+Functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement
+Advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Others
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+SAVE & ACCEPT

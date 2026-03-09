@@ -1,0 +1,31 @@
+Privacy Policy
+Search this site
+Skip to main content
+Skip to navigation
+Privacy Policy
+Terms of Use
+Privacy Policy
+Your security and privacy are important to us.
+By accepting the notification form that appears after installing and running any AOSP STUDIO application, you are deemed to have accepted this document.
+Publication Date: March 1, 2023
+Effective Date: March 10, 2023
+What does the Privacy Policy regulate? Who processes it?
+This privacy policy contains the data that may be collected as a result of using applications owned by our organization and affiliated with our organization. The data is collected and used through third-party software (Google) by AOSP STUDIO Group, which is based in Aydin/Turkey.
+About the usage data collected
+We collect data as long as the "Send Usage Data" option is enabled depending on your use of our applications. This data is collected through Google Firebase, a third-party service. The collected and used data includes:
+The total number of active users daily and in real-time, anonymous total viewing rates of application pages, anonymous data on the regions and countries where applications are used, anonymous data on the update rates of applications, and semi-comprehensive data on application crashes, freezes, and/or lockups (device model, android version, etc.).
+In addition to the information collected by the developer, the Google Firebase service's Privacy Policy should be read for other data that the Firebase service can collect without the developer's knowledge.
+Is your usage data shared with third parties?
+We collect your device and application usage data anonymously as long as the "Send Usage Data" option is enabled to provide an excellent user experience, and we use it actively. We do not share this anonymous data with third parties. (Firebase service is a third-party service and may collect and share additional data without the developer's knowledge).
+About external links
+Our organization's applications and/or websites or social media profiles may provide links to different internet addresses and/or services. Our organization is not responsible for the data collected, used, and shared by other services, sites, applications, etc. that it provides links to.
+About online purchases
+Our organization may offer applications, services, and/or products for a certain fee regionally. It uses Google Play Store and/or a third-party payment system. To access details about the payment information collected or used by the payment provider (card information, phone number for mobile payment, etc.), you should read the Privacy Policy document of the payment instrument we have mentioned by name.
+Updating this policy, questions, and suggestions
+Our organization may change the "Privacy Policy" provisions at any time by publishing them on its website and implementing them in its applications, services, and/or products. In the event of a change in the Privacy Policy provisions, it will come into effect on the date specified in the document.
+It is the user's responsibility to keep track of changes.
+© 2016 AOSP STUDIO - All Right Reserved.
+Google Sites
+Report abuse
+Google Sites
+Report abuse

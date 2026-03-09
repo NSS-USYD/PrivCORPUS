@@ -1,0 +1,52 @@
+DynamicG Android Apps: Privacy Policy
+[
+Home
+]
+DynamicG Android Apps: Privacy Policy
+Personal Information
+â€¢ No information whatsoever entered into the app is uploaded to or shared with the app developers or other
+parties.This applies to all apps published by DynamicG (Time Recording Free, Time Recording Pro, all Time Recording Plugins, Home Button Launcher).
+â€¢ Exemption for Google Drive and Dropbox cloud integration: end users can perform "App data backup to cloud" and "Store report in cloud" from within the app, using 
+Google Drive or Dropbox as target; the according data files are uploaded to the previously configured cloud account in
+non-encrypted format, potentially exposing their content to the cloud provider.
+See the according privacy policies of
+Google
+and
+Dropbox
+.
+Internet access by the app
+â€¢ Internet connectivity in Time Recording Free is required to serve Google AdMob advertisement.
+No information whatsoever from Time Recording Free is shared with the advertisement provider.
+â€¢ Internet connectivity in Time Recording Free and Time Recording Pro is required if end users enable the "current location lookup" feature (which resolves current address based on geo location).
+â€¢ Also see the
+list of app permissions
+.
+Data storage
+â€¢ The application's database is stored on internal device storage
+â€¢ All data backups triggered from within the app are stored in unencrypted format on the SD Card
+â€¢ All reports created from within the app are stored in unencrypted format on the SD Card
+Advertisement in Time Recording Free
+â€¢ Time Recording Free uses the Google AdMob SDK to serve banner ads.
+â€¢ Time Recording Free does not provide any user data entered into the app to Google AdMob.
+â€¢ Google AdMob may use the "Advertisement ID" to serve personalised ads.
+See these Google links for more information and to manage ads personalisation settings:
+- Ad personalization:
+https://adssettings.google.com/authenticated
+- Google Privacy Policy:
+https://policies.google.com/privacy
+- Google Partner Sites:
+https://policies.google.com/technologies/partner-sites
+- AdMob Data Safety Disclosure:
+https://developers.google.com/admob/android/play-data-disclosure
+Advertising ID
+Resetting the advertising ID unrecoverably disassociates all AdMob tracking data gathered in earlier Time Recording Free sessions, 
+so this is the equivalent of having your AdMob tracking data deleted ("
+Right to be forgotten
+").
+Navigation path on your Android smartphone:
+Settings → Privacy → Ads → Reset advertising ID
+Privacy Policy Revisions
+Version 1, April 2013: Initial upload
+Version 2, October 2020: moved page from Google Sites to dynamicg.ch
+Version 3, November 2021: Sections "Advertisement" and "Advertising ID" added
+Version 4, November 2022: Added link to "App permissions"

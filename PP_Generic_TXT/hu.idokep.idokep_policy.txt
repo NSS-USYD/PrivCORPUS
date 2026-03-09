@@ -1,0 +1,1292 @@
+Időkép Adatvédelmi Tájékoztató
+IDŐKÉP.HU
+ADATKEZELÉSI TÁJÉKOZTATÓ
+1. BEVEZETÉS
+AZ ADATKEZELŐ ADATAI:
+Időkép Üzleti Szolgáltatások
+Korlátolt Felelősségű Társaság (a továbbiakban: Időkép)
+cégjegyzékszám: 01 09 927002
+postacím: 1224 Budapest, Bartók Béla út 65/B.
+e-mail:
+adatvedelem@idokep.hu
+ADATVÉDELMI TISZTVISELŐ NEVE ÉS ELÉRHETŐSÉGEI
+A Társaságnál adatvédelmi tisztviselő kijelölésére nem
+került sor, tekintettel arra, hogy a GDPR 37. cikkének értelmében az Időkép nem
+valósít meg olyan adatkezelést, amely szükségessé tenné adatvédelmi
+tisztségviselő kijelölését.
+2. A WWW.IDOKEP.HU WEBOLDAL
+LÁTOGATÓI ADATAINAK KEZELÉSE
+<![if !supportLists]>
+2.1.
+<![endif]>
+Regisztráció
+nélküli látogatók munkamenetének pillanatnyi kiszolgálása
+Adatkezelés célja
+Az Időkép látogatói célú használatához nem szükséges
+regisztráció sem a weboldalon, sem a mobil applikációs felületen. Az adatkezelés
+célja ezért a weboldalt regisztráció nélkül látogatók kiszolgálása.
+A weboldal látogatóinak a weboldal használatához
+alapesetben nem szükséges személyes adataik megadása. Ugyanakkor a weboldal
+böngészése során és azzal összefüggésben az Időkép a weboldal elérhetővé tétele
+és az ott megtalálható szolgáltatások nyújtása, a weboldalon elérhető
+szolgáltatások javítása, a visszaélések kiszűrése és megakadályozása, a
+látogatottsági adatok mérése, a felhasználói élmény növelése, valamint statisztikai
+célokból végez adatgyűjtést, amely bizonyos esetekben személyes adatok
+kezelésével is együtt járhat.
+Kezelt adatok köre
+Hozzájárulás esetén a felhasználó IP címe és
+hozzávetőleges lokációs adata (nem pontos GPS adat, hanem városszintű lokáció)
+kerül kezelésre az Időkép által. A folyamat során kizárólag a látogató IP címe
+kerül továbbításra a Google-
+nek
+és a GEMIUS Hungary-
+nek
+, melyek a weboldal forgalmával kapcsolatos adatokat
+rögzítenek. Részletes tájékoztatás a
+cookie
+tájékoztatóban,
+a
+3.2-es
+pontban
+.
+Amennyiben a látogató regisztráció nélkül tekinti meg
+a weboldalt, úgy az Időkép saját digitális kiszolgáló
+háttér-infrastruktúrájában / adatbázisában nem tárol semmiféle adatot a
+felhasználóról (az adott munkamenet pillanatnyi technológiai kiszolgálásán
+kívül – úgy mint pl. IP-cím a webkiszolgáló, vagy
+Socket
+azonosító az élő Időkép térkép és más, élőben frissülő vizualizációk számára).
+Fontos azonban kiemelni, hogy az Időkép (és külső, statisztikai analitikai és
+reklámkiszolgáló szolgáltatások)
+ún
+, „sütiket”
+tárolnak a Felhasználó számítógépén, melyek esetében az Időkép a felhasználó
+hozzávetőleges (pontos tartózkodási hely megállapítására alkalmatlan),
+település-szintű információját tartja nyilván.
+Az Időkép a fenti adatokat mindaddig, amíg a látogató nem
+regisztrál a weboldalon, nem kapcsolja össze más adatokkal és nem törekszik a
+látogató személyének más módon való beazonosítására sem.
+Adatok frissítése és megváltoztatása
+A felhasználó vállalja, hogy a regisztráció során
+megadott személyes adatokat szükség szerint frissíti annak érdekében, hogy azok
+időszerűek, teljesek és a valóságnak megfelelőek legyenek. A felhasználó
+köteles a személy adatait folyamatosan frissíteni és adatváltozás esetén azt a
+Szolgálató részére bejelenti, amennyiben az a teljesítéshez vagy egyéb jogos
+érdek érvényesítéséhez szükséges.
+A felhasználónak bármikor lehetősége van az
+adatbeviteli hibák javítására, melyet a belépést követően a profiljának
+szerkesztésével tud megtenni.
+Adatkezelés időtartama
+A személyes adatok a munkamenet kiszolgálását követően
+automatikusan és rögtön törlődnek a rendszerből.
+Adatkezelés jogalapja
+Amennyiben a fenti tevékenység személyes adatok
+kezelését eredményezi, az adatkezelés jogalapja a GDPR 6. cikk (1) bekezdés a)
+pontja szerint az érintett hozzájárulása.
+Adatfeldolgozó igénybevétele, adatai
+és tevékenysége
+A folyamat során adatfeldolgozó igénybevételére nem
+kerül sor.
+Adattovábbítás címzettjei
+A személyes adatok említett része a következő
+címzettek részére, mint önálló adatkezelők részére kerülnek továbbításra:
+<![if !supportLists]>
+§
+<![endif]>
+Google - Gordon House,
+Barrow
+Street, Dublin 4,
+Ireland
+(a továbbiakban:
+Google
+);
+<![if !supportLists]>
+§
+<![endif]>
+GEMIUS Hungary Adatfeldolgozó és
+Kutató Korlátolt Felelősségű Társaság – 1053 Budapest, Szép utca 5. 1. em. 2.
+(a továbbiakban:
+GEMIUS Hungary
+);
+Időképtől független adatkezelések
+lehetősége
+A weboldal
+html
+kódja az Időképtől
+független, harmadik személy weboldalára mutató linkeket tartalmazhat,
+hirdetések formájában. Ezekre való kattintás esetén, a harmadik személy
+szervere közvetlenül a látogató által használt számítógéppel kerül
+összeköttetésbe. Ebben az esetben a külső szolgáltatás üzemeltetőjének a
+weboldalán megvalósuló adatkezelést az érintett harmadik személy végzi a saját
+adatkezelési tájékoztatójának és informatikai beállításainak megfelelően. Tekintettel
+arra, hogy ezek a hivatkozások folyamatosan változhatnak, azok felsorolása nem
+lehetséges.
+<![if !supportLists]>
+2.2.
+<![endif]>
+Regisztráció
+nélküli látogatók munkamenetének technikai lehetővé tétele
+Adatkezelés célja
+A
+z adatkezelés célja az Időkép által üzemeltetett
+weboldal regisztráció nélküli látogatói számára az oldal használatának
+technikai lehetővé tétele. Bár a weboldal látogatóinak a weboldal használatához
+alapesetben nem szükséges személyes adataik megadása, ugyanakkor a weboldal
+felkeresése és megnyitása céljából elengedhetetlen bizonyos technikai műveletek
+elvégzése, mely adott esetben a látogató személyes adatait is érinti.
+Kezelt adatok köre
+A folyamatban kizárólag a látogató IP címe kerül
+kezelésre. Ennél fogva kizárólag a látogató IP címe kerül továbbításra a
+Google-
+nek
+és a GEMIUS Hungary-
+nek
+,
+melyek a weboldal forgalmával kapcsolatos adatokat rögzítenek. Részletes
+tájékoztatás a
+cookie
+tájékoztatóban,
+a 3.2-es pontban
+.
+Amennyiben a látogató regisztráció nélkül tekint meg a
+weboldalt, úgy az Időkép saját digitális kiszolgáló háttér-infrastruktúrájában
+/ adatbázisában nem tárol semmiféle adatot a felhasználóról (az adott
+munkamenet pillanatnyi technológiai kiszolgálásán kívül – úgy mint pl. IP-cím a
+webkiszolgáló, vagy
+Socket
+azonosító az élő Időkép
+térkép és más, élőben frissülő vizualizációk számára).
+Az Időkép a fenti adatokat mindaddig, amíg a látogató
+nem regisztrál a weboldalon, nem kapcsolja össze más adatokkal és nem törekszik
+a látogató személyének más módon való beazonosítására sem.
+Adatkezelés időtartama
+Az IP cím a munkamenet kiszolgálását követően
+automatikusan és rögtön törlődik a rendszerből.
+Adatkezelés jogalapja
+Amennyiben a fenti tevékenység személyes adatok
+kezelését eredményezi, az adatkezelés jogalapja az adatkezelő jogos érdeke,
+vagyis a GDPR 6. cikk (1) bekezdés f) pontja. A jogos érdek a honlap elérésének
+biztosítása.
+Adatfeldolgozó igénybevétele, adatai
+és tevékenysége
+A folyamat során adatfeldolgozó igénybevételére nem
+kerül sor.
+Adattovábbítás címzettjei
+A személyes adatok említett része a következő
+címzettek részére, mint önálló adatkezelők részére kerülnek továbbításra:
+<![if !supportLists]>
+§
+<![endif]>
+Google - Gordon House,
+Barrow
+Street, Dublin 4,
+Ireland
+(a továbbiakban:
+Google
+);
+<![if !supportLists]>
+§
+<![endif]>
+GEMIUS Hungary Adatfeldolgozó és
+Kutató Korlátolt Felelősségű Társaság – 1053 Budapest, Szép utca 5. 1. em. 2.
+(a továbbiakban:
+GEMIUS Hungary
+);
+Időképtől független adatkezelések
+lehetősége
+A weboldal
+html
+kódja az
+Időképtől független, harmadik személy weboldalára mutató linkeket tartalmazhat,
+hirdetések formájában. Ezekre való kattintás esetén, a harmadik személy
+szervere közvetlenül a látogató által használt számítógéppel kerül
+összeköttetésbe. Ebben az esetben a külső szolgáltatás üzemeltetőjének a
+weboldalán megvalósuló adatkezelést az érintett harmadik személy végzi a saját
+adatkezelési tájékoztatójának és informatikai beállításainak megfelelően.
+Tekintettel arra, hogy ezek a hivatkozások folyamatosan változhatnak, azok
+felsorolása nem lehetséges. Ezen szolgáltatók adatvédelmi gyakorlatáért és más
+tevékenységéért az Időkép nem vállal felelősséget.
+<![if !supportLists]>
+2.3.
+<![endif]>
+Regisztrált
+felhasználók weboldal használata
+Adatkezelés célja
+A
+z adatkezelés célja az Időkép által üzemeltetett
+weboldal regisztrációval rendelkező felhasználóinak kiszolgálása, és az ahhoz
+kapcsolódó többlet szolgáltatások biztosítása.
+Kezelt adatok köre
+A folyamat során kezelt személyes adatok három
+kategóriába tartoznak: kötelezően és opcionálisan megadható adatok, illetve az
+Időkép által generált/összekapcsolt adatok.
+Kötelezően kell megadni a regisztrált felhasználónak a
+következő adatait: felhasználónév; email cím; jelszó; elsődleges észlelési
+helyszín;
+Opcionálisan adhatja meg a regisztrált felhasználó a
+következő adatait: teljes (valódi) név; telefonszám; rövid bemutatkozás; saját
+weboldal címe; fénykép; pontosabb földrajzi koordináták (az észlelési helyre
+vonatkozólag); további (2.-5.) opcionális észlelési település helye;
+Az Időkép által generált/összekapcsolt adatok a
+folyamatban a következők: előzmény adatok (felhasználói adatszolgáltatás
+minősége, és a felhasználó magatartása);
+A kötelező adattípusokat az Időkép azért tárolja, hogy
+a nagy nyilvánosság számára beküldött és megjelenő képeknek, adatoknak legyen
+egyértelműen beazonosítható forrása. Ez teszi ugyanis lehetővé a
+minőségbiztosítási rendszer működését és a rosszindulatú, szándékosan hamis
+vagy jogellenes tartalmak kiszűrését, tiltását.
+Az Időkép a fenti adatokat olyan formában kapcsolja
+össze a felhasználó egyéb adataival, hogy abból a visszaélések kiszűrésére és
+megakadályozására reális esélye legyen, ezáltal biztosítva a weboldalon
+szereplő tartalmak hitelességét, és további látogatói védelmét. Ezek ún. „
+moderációs
+előzmények”, amelyek során a minőségbiztosítást
+és segítségnyújtást végző meteorológusok bizonyos – szakmailag indokolt –
+műveleteket hajtanak végre a felhasználó adatforrásaival (időjárás állomás,
+webkamera, stb.) kapcsolatban. Ezek lehetnek korrekciók, ideiglenes tiltások,
+újbóli engedélyezések, karbantartási időszakok jegyzékei, javítási napló,
+anomáliák és feltételezetten hibás adatok listája, rosszul beállított, vagy nem
+időjárási képet közvetítő webkamera tiltása, stb. Az ilyen előzmények
+közvetlenül nem jelennek meg a felhasználó számára, ám a felhasználónak
+e-mailben joga van ezen adataihoz hozzáférni (az ezzel kapcsolatos információt
+ld. 7. pont)
+Amennyiben a magatartási előzmények vizsgálata során
+felmerül a gyanúja annak, hogy a felhasználó szándékos vagy súlyosan gondatlan
+magatartásával sorozatosan helytelen adatokat küld az Időkép rendszerébe, úgy
+az Időkép fenntartja magának a jogot, hogy a felhasználó fiókját
+tiltsa
+, vagy végérvényesen törölje a rendszeréből.
+Egyebekben az Időkép a felhasználó által a weboldalon
+elérhető szolgáltatások igénybevétele során megadott személyes adatait nem
+kapcsolja össze és nem törekszik a felhasználó személyének más módon való
+beazonosítására sem.
+A felsorolt személyes adatok közül kizárólag a felhasználó
+IP címe kerül továbbításra a Google-
+nek
+és a GEMIUS
+Hungary-
+nek
+, melyek a weboldal forgalmával
+kapcsolatos adatokat rögzítenek. Részletes tájékoztatás a
+cookie
+tájékoztatóban,
+a 3.2-es pontban.
+Adatkezelés időtartama
+A személyes adatok az érintett által megadott hozzájárulás
+visszavonásáig, vagy a regisztrált fiók törléséig tárolódnak.
+Adatkezelés jogalapja
+A regisztrált felhasználók személyes adatai
+kezelésének jogalapja a GDPR 6. cikk (1) bekezdés a) pontja szerint az érintett
+hozzájárulása.
+Adatfeldolgozó igénybevétele, adatai
+és tevékenysége
+A folyamat során adatfeldolgozó igénybevételére nem
+kerül sor.
+Adattovábbítás címzettjei
+A személyes adatok említett része a következő
+címzettek részére, mint önálló adatkezelők részére kerülnek továbbításra:
+<![if !supportLists]>
+§
+<![endif]>
+Google - Gordon House,
+Barrow
+Street, Dublin 4,
+Ireland
+(a továbbiakban:
+Google
+);
+<![if !supportLists]>
+§
+<![endif]>
+GEMIUS Hungary Adatfeldolgozó és
+Kutató Korlátolt Felelősségű Társaság – 1053 Budapest, Szép utca 5. 1. em. 2.
+(a továbbiakban:
+GEMIUS Hungary
+);
+Időképtől független adatkezelések
+lehetősége
+A weboldal
+html
+kódja az
+Időképtől független, harmadik személy weboldalára mutató linkeket tartalmazhat,
+hirdetések formájában. Ezekre való kattintás esetén, a harmadik személy
+szervere közvetlenül a felhasználó által használt számítógéppel kerül összeköttetésbe.
+Ebben az esetben a külső szolgáltatás üzemeltetőjének a weboldalán megvalósuló
+adatkezelést az érintett harmadik személy végzi a saját adatkezelési
+tájékoztatójának és informatikai beállításainak megfelelően. Tekintettel arra,
+hogy ezek a hivatkozások folyamatosan változhatnak, azok felsorolása nem
+lehetséges.
+<![if !supportLists]>
+2.4.
+<![endif]>
+Regisztrált
+automata és webkamera üzemeltetők weboldal használata
+Adatkezelés célja
+A
+z adatkezelés célja az Időkép által üzemeltetett
+weboldal regisztrációval rendelkező felhasználóinak kiszolgálása, és az ahhoz
+kapcsolódó többlet szolgáltatások biztosítása.
+Kezelt adatok köre
+A folyamat során kezelt személyes adatok három
+kategóriába tartoznak: kötelezően és opcionálisan megadható adatok, illetve az
+Időkép által generált/összekapcsolt adatok.
+Kötelezően kell megadni a regisztrált felhasználónak a
+következő adatait: felhasználónév; email cím; jelszó; elsődleges észlelési
+helyszín;
+Opcionálisan adhatja meg a regisztrált felhasználó a
+következő adatait: teljes (valódi) név; telefonszám; rövid bemutatkozás; saját
+weboldal címe; fénykép; kamerakép; pontosabb földrajzi koordináták (az automata,
+illetve webkamera helyére vonatkozólag); további (2.-5.) opcionális észlelési
+település helye;
+Az Időkép által generált/összekapcsolt adatok a
+folyamatban a következők: előzmény adatok (felhasználói adatszolgáltatás
+minősége, és a felhasználó magatartása);
+A kötelező adattípusokat az Időkép azért tárolja, hogy
+a nagy nyilvánosság számára beküldött és megjelenő képeknek, adatoknak legyen
+egyértelműen beazonosítható forrása. Ez teszi ugyanis lehetővé a
+minőségbiztosítási rendszer működését és a rosszindulatú, szándékosan hamis
+vagy jogellenes tartalmak kiszűrését, tiltását.
+Az Időkép a fenti adatokat olyan formában kapcsolja
+össze a felhasználó egyéb adataival, hogy abból a visszaélések kiszűrésére és
+megakadályozására reális esélye legyen, ezáltal biztosítva a weboldalon
+szereplő tartalmak hitelességét, és további látogatói védelmét. Ezek ún. „
+moderációs
+előzmények”, amelyek során a minőségbiztosítást
+és segítségnyújtást végző meteorológusok bizonyos – szakmailag indokolt –
+műveleteket hajtanak végre a felhasználó adatforrásaival (időjárás állomás,
+webkamera, stb.) kapcsolatban. Ezek lehetnek korrekciók, ideiglenes tiltások,
+újbóli engedélyezések, karbantartási időszakok jegyzékei, javítási napló,
+anomáliák és feltételezetten hibás adatok listája, rosszul beállított, vagy nem
+időjárási képet közvetítő webkamera tiltása, stb. Az ilyen előzmények
+közvetlenül nem jelennek meg a felhasználó számára, ám a felhasználónak
+e-mailben joga van ezen adataihoz hozzáférni (az ezzel kapcsolatos információt
+ld. 7. pont)
+Amennyiben a magatartási előzmények vizsgálata során
+felmerül a gyanúja annak, hogy a felhasználó szándékos vagy súlyosan gondatlan
+magatartásával sorozatosan helytelen adatokat küld az Időkép rendszerébe, úgy
+az Időkép fenntartja magának a jogot, hogy a felhasználó fiókját
+tiltsa
+, vagy végérvényesen törölje a rendszeréből.
+Egyebekben az Időkép a felhasználó által a weboldalon
+elérhető szolgáltatások igénybevétele során megadott személyes adatait nem
+kapcsolja össze és nem törekszik a felhasználó személyének más módon való
+beazonosítására sem.
+A felsorolt személyes adatok közül kizárólag a
+felhasználó IP címe kerül továbbításra a Google-
+nek
+és a GEMIUS Hungary-
+nek
+, melyek a weboldal
+forgalmával kapcsolatos adatokat rögzítenek. Részletes tájékoztatás a
+cookie
+tájékoztatóban,
+a 3.2-es pontban.
+Adatkezelés időtartama
+A személyes adatok az érintett által megadott
+hozzájárulás visszavonásáig, vagy a regisztrált fiók törléséig tárolódnak.
+Adatkezelés jogalapja
+A regisztrált felhasználók személyes adatai
+kezelésének jogalapja a GDPR 6. cikk (1) bekezdés a) pontja szerint az érintett
+hozzájárulása.
+Adatfeldolgozó igénybevétele, adatai
+és tevékenysége
+A folyamat során adatfeldolgozó igénybevételére nem
+kerül sor.
+Adattovábbítás címzettjei
+A személyes adatok említett része a következő
+címzettek részére, mint önálló adatkezelők részére kerülnek továbbításra:
+<![if !supportLists]>
+§
+<![endif]>
+Google - Gordon House,
+Barrow
+Street, Dublin 4
+,
+Ireland
+(a
+továbbiakban:
+Google
+);
+<![if !supportLists]>
+§
+<![endif]>
+GEMIUS Hungary Adatfeldolgozó és
+Kutató Korlátolt Felelősségű Társaság – 1053 Budapest, Szép utca 5. 1. em. 2.
+(a továbbiakban:
+GEMIUS Hungary
+);
+Időképtől független adatkezelések
+lehetősége
+A weboldal
+html
+kódja az
+Időképtől független, harmadik személy weboldalára mutató linkeket tartalmazhat,
+hirdetések formájában. Ezekre való kattintás esetén, a harmadik személy
+szervere közvetlenül a felhasználó által használt számítógéppel kerül összeköttetésbe.
+Ebben az esetben a külső szolgáltatás üzemeltetőjének a weboldalán megvalósuló
+adatkezelést az érintett harmadik személy végzi a saját adatkezelési
+tájékoztatójának és informatikai beállításainak megfelelően. Tekintettel arra,
+hogy ezek a hivatkozások folyamatosan változhatnak, azok felsorolása nem
+lehetséges.
+<![if !supportLists]>
+2.5.
+<![endif]>
+A
+képfeltöltésre és videóanyagok/webkamerák használatára vonatkozó adatvédelmi
+szabályok
+Az Időkép ezúton is előre felhívja a felhasználók
+figyelmét, hogy a beküldött meteorológiai / időjárási jellegű képek, adatok és
+egyéb információk alapvetően nem minősülnek személyes adatnak. Ezek az adatok a
+felhasználói fiók esetleges törlése esetén automatikusan nem törlődnek a
+rendszerből (csupán a beküldőjük válik
+anonimmá
+és visszakövethetetlenné).
+Amennyiben a felhasználónak ilyen jellegű kérése lenne, azt az Időkép fenti
+elérhetőségein tudja jelezni. Ez a rendelkezés természetesen nem vonatkozik
+azon képekre/videóanyagokra, amelyek esetlegesen személyes adatot is
+tartalmaznak. Az ezzel kapcsolatos szabályozást lásd a továbbiakban.
+Az Időkép rendszerébe – annak céljából és jellegéből
+kifolyóan – kizárólag olyan képi ábrázolás (fotó, képsorozat, videorészlet,
+infografika
+, stb.) tölthető fel, amely az időjárással,
+meteorológiai eseményekkel, meteorológiai események előjeleivel, utóhatásaival,
+klimatológiával, klimatikus hatásokkal, időjárási helyzetek és klimatikus
+hatások társadalmi-gazdasági, emberekre gyakorolt hatásaival, tágabb értelemben
+vett természetes és mesterséges környezetünkkel, természettudományos
+elméletekkel és kísérletekkel, földi, vízi, légtérben és világűrben történő
+közlekedéssel, valamint ezek meteorológiához, időjáráshoz is kapcsolható
+kutatásaival és fejlesztéseivel, élőlények és az időjárás kapcsolatával,
+valamint különleges, máshová be nem sorolható természetes vagy mesterséges, de
+a természetes környezetre hatással lévő fizikai-, kémiai, biológiai
+jelenségekkel és behatásokkal foglalkozik.
+A képek lehetnek (jellemzően) táj- és égképek, víz
+alatti felvételek, felhőképek, csillagászati- és
+asztrofotók
+,
+természetes és mesterséges infrastruktúrákat, jelenségeket bemutató felvételek,
+makrofotók
+,
+infografikák
+,
+flórát és faunát ábrázoló illetve élőlényekről készült felvételek (embereket
+csak bizonyos feltételek telesülése esetén szabad ábrázolni – lásd később.)
+Egyéb, a fenti körökbe nem, vagy nem egyértelműen beletartozó fotó csak az Időkép
+szerkesztőségével történő előzetes egyeztetés után tölthető fel a képtárba.
+Kizárólag saját tulajdonú (saját készítésű)
+képanyag tölthető fel, vagy olyan fotó, amelynek készítője (jogtulajdonosa)
+felhatalmazta a feltöltőt, hogy az érintett anyagot az Időkép rendszerébe – annak
+kép- és video feltöltési szabályzatát, valamint a feltöltés jogkövetkezményeit
+saját maga is ismerve és elfogadva –
+feltöltse
+.
+Embert felismerhetően ábrázoló fotókat csak akkor
+szabad feltölteni, ha az illető valamilyen, az adatvédelmi jogszabályoknak
+megfelelő módon (pl. hozzájárulásával) engedélyezte azt. A felhasználó
+felelőssége, hogy a feltöltött képeken szereplő emberek hozzájárulását
+beszerezze és azt utólag bizonyítható módon igazolni tudja, illetve az Időkép
+felhívása esetén be tudja mutatni. Az Időkép vélelmezi, hogy a felhasználó
+megfelelő jogalap birtokában tölti fel a képet és egyebekben jogosult azt
+felhasználni. Amennyiben ezzel ellentétes információ jut az Időkép tudomására,
+úgy jogosult azt azonnal eltávolítani, és a szükséges jogi lépéseket a
+felhasználóval szemben megindítani.
+A felhasználó kijelenti és szavatolja, hogy az
+elküldött személyes adatok, képmás érintettjeinek hozzájáruló nyilatkozatával
+bizonyítható formában rendelkezik, és kérés esetén azokat köteles a
+Szolgáltatónak bemutatni/átadni.
+Amennyiben a felvétel nyilvános eseményen készült,
+illetve olyan tömegfelvétel, amelyen a kamera nem fókuszál kiemelten egyes
+emberekre vagy azok csoportjaira, csupán távolból, a környezet részeként jelenik
+meg, úgy a kép előzetes egyeztetést követően feltölthető a rendszerbe.
+Magántulajdonú gépjárműveket csak úgy szabad a képen
+szerepeltetni, ha azok rendszáma eleve felismerhetetlen, vagy valamilyen
+utómunkálattal felismerhetetlenné lett téve. Ez alól kivételt képeznek azon
+közüzemű járművek, amelyek tipikusan meteorológiai eseményhez vagy annak
+utóhatásaihoz köthetően jelennek meg (pl. hókotrók, tűzoltóautók, stb.).
+Időjárási célú webkamerát csak olyan módon és irányba
+nézve szabad üzemeltetni, illetve annak a képét az Időkép rendszerébe
+feltölteni, hogy az ne
+sértse
+más természetes személyek
+jogait, így különösen a személyes képmáshoz való jogát. Ez alól csak az
+jelenthet kivételt, ha valamennyi érintett magánszemély – aki a kamera
+látóterébe felismerhető távolságban megjelenik, vagy belép – megfelelő hozzájárulását
+adja ehhez.
+Ebből következik, hogy magánterületet részben vagy
+egészében érintő webkamera csak akkor üzemeltethető, ha
+<![if !supportLists]>
+§
+<![endif]>
+A
+magánterület olyan messze van a kamerától, hogy annak optikai felbontása nem
+teszi lehetővé személyek vagy gépjárművek felismerését, beazonosítását, vagy
+<![if !supportLists]>
+§
+<![endif]>
+Az érintett
+magánterület tulajdonosa utólag bizonyítható módon, igazoltan hozzájárult
+ehhez.
+Az Időkép fenntartja a jogot a jelen szabályok
+egyoldalú, külön, előzetes értesítés nélküli történő módosítására. A korábban
+feltöltött képekre az adott pillanatban érvényes szabályzat vonatkozik, így
+előfordulhat, hogy a felhasználó korábbi képei eltávolításra kerülnek a
+rendszerből.
+3. A WWW.IDOKEP.HU WEBOLDALON
+ELÉRHETŐ COOKIE-KKAL (HTTP SÜTI) KAPCSOLATOS ADATKEZELÉS
+3.1 A
+cookie-kkal
+(http sütik) kapcsolatos általános tájékoztató
+Mi az a
+cookie
+?
+A
+cookie
+-k (http sütik)
+kisméretű adatfájlok, adatcsomagok, amelyeket egy weboldal üzemeltetője a
+weboldal használata során és azon keresztül helyez el a látogató számítógépén
+és amelyeket a látogató internetes böngészője ment és tárol el a weboldalról
+letöltve. Egy későbbi látogatás esetén az üzemeltető a
+cookie
+révén tudja pl. azonosítani a látogatót, vagy megkülönböztetni őt más
+felhasználóktól, illetve akár testreszabott információkat is eljuttathat neki a
+böngésző ablakban.
+Hogyan tudom megtiltani a
+cookie
+-k gépemre történő telepítését vagy azokat törölni?
+Fontos tudni, hogy az internetes böngészők többsége
+alapbeállításként elfogadja és engedélyezi a
+cookie
+-k
+elhelyezését és használatát. Ugyanakkor a böngésző megfelelő beállításaival a
+cookie
+-k
+visszautasíthatóak
+,
+használatuk korlátozható, illetve letiltható, valamint a már eltárolt
+cookie
+-k
+törölhetőek
+. A
+cookie
+-k használatához szükséges beállításokról az egyes
+böngészők szolgáltatói nyújtanak tájékoztatást, illetve a szükséges információk
+általában megtalálhatóak a böngészők „súgó” menüpontja alatt is.
+Mi történik, ha törlöm a
+cookie-kat
+, vagy nem járulok hozzá a gépemre történő
+telepítésükhöz?
+A
+cookie
+-k használatának
+felhasználó általi tiltása általában nem akadálya a weboldal látogatásának vagy
+az azon való böngészésnek. Néhány
+cookie
+viszont
+feltétlenül szükséges egyes szolgáltatások megfelelő működéséhez, így a
+cookie
+-k használatának tiltása vagy visszautasítása,
+illetve a már eltárolt
+cookie
+-k törlése azt
+eredményezi, illetve eredményezheti, hogy a weboldal nem működik
+teljeskörűen
+és bizonyos funkciói nem használhatóak
+megfelelően az érintett látogató által.
+A
+cookie
+-k
+típusai
+A weboldalakon elérhető
+cookie
+-k
+általában két kategóriába
+sorolhatóak
+. Az egyik
+csoportba tartoznak a weboldal
+működ
+(tet)
+éséhez
+elengedhetetlenül szükséges
+cookie
+-k
+(idetartoznak pl. a felhasználó által rögzített adatokat tároló, hitelesítési
+munkamenet, felhasználó központú biztonsági, multimédia-lejátszó munkamenet, terheléskiegyenlítő
+munkamenet-, és a felhasználói felület
+testreszabását
+segítő munkamenet
+cookie
+-k), míg a másikba tartozik
+minden egyéb olyan
+cookie
+, amelynek célja vagy
+funkciója túlmutat a weboldal
+működ
+(tet)
+ésén
+, és egyéb adatkezelési célokat szolgál (ilyenek pl. az
+analitikai
+cookie
+-k,
+social
+media
+plug
+-in és a
+felhasználó Internet-használatának adatait rögzítő és egyéb marketing célú
+cookie
+-k). Míg az első csoportba tartozó
+cookie
+-k esetén a weboldal üzemeltetőjének elegendő
+előzetes tájékoztatást nyújtania a weboldala használatával a látogató gépére
+telepített
+cookie-kről
+, a második csoport esetén
+ehhez előzetesen be kell szereznie a látogató hozzájárulását.
+3.2 A www.idokep.hu weboldal egyedi
+cookie-kkal
+(http süti) végzett adatkezelése
+A
+cookie
+-k
+használatával érintettek köre
+Az Időkép weboldalának látogatói.
+A weboldalon használt
+cookie
+-k adatai
+(A) A weboldal működéséhez
+elengedhetetlenül szükséges
+cookie
+-k
+COOKIE NEVE
+COOKIE ÁLTAL KEZELT/HASZNÁLT
+  ADATOK
+COOKIE ÉLETTARTAMA
+COOKIE FUNKCIÓJA, ADATKEZELÉS
+  CÉLJA
+CONSENT
+Alfanumerikus
+  és speciális karakterek
+6218
+  nap
+A
+  felhasználó „
+cookie
+consent
+”
+  beleegyezési preferenciáját tárolja a Google
+Ads
+szolgáltatáshoz.
+CookieConsent
+A
+  felhasználó által engedélyezett sütik listáját tárolja
+730 nap
+A
+  felhasználó „
+cookie
+consent
+”
+  beleegyezési preferenciáját tárolja a
+Cookiebot
+süti hozzájárulás-kezelő rendszerével.
+lastvaros
+A
+  felhasználó által utoljára megtekintett
+előrejelzési
+helyszínt tárolja
+365 nap
+A
+  felhasználó által utoljára beállított
+előrejelzési
+helyszín nevét tárolja a felhasználói élmény javításának érdekében.
+lastvaroseszl
+A
+  felhasználó által utoljára kiválasztott észlelési helyszínt tárolja
+365 nap
+Az
+  „időjárás észlelés” funkció során a felhasználó által utoljára beállított
+  város azonosítóját tárolja a felhasználói élmény javításának érdekében.
+login
+A
+  felhasználó bejelentkezési nevét tárolja
+365 nap
+A
+  bejelentkezett felhasználó felhasználói azonosítóját tárolja.
+  Kijelentkezéskor törlődik. Az oldal használatához elengedhetetlen.
+passport
+A
+  felhasználó sikeres belépésének tényét igazoló karaktersorozat
+365 nap
+Bejelentkezés
+  után jön létre, a felhasználó munkamenetét azonosítja. Kijelentkezéskor
+  törlődik. Az oldal használatához
+eleneghetetlen
+.
+(B) Eg
+yéb,
+harmadik személyek által alkalmazott
+cookie
+-k és az
+ezekkel kapcsolatos tájékoztatás
+A weboldal látogatása során harmadik személyek (Google
+és GEMIUS Hungary) szolgáltatásaihoz kapcsolódóan is keletkezhetnek és
+használhat az Időkép célzó, úgynevezett
+third
+party
+cookie-kat
+, amelyek például
+segítik a látogatottsági adatok rögzítését és elemzését. Ezekről bővebb
+információ megtalálható a
+https://policies.google.com/technologies/cookies?hl=hu#types-of-cookies
+és a
+https://gasurvey.gemius.com/recruiting/static.php?sid=93787&page=cookie
+elérhetőségek alatt. A konkrét
+cookie-kkal
+kapcsolatos információkért ld. az alábbi
+táblázatot.
+COOKIE NEVE
+COOKIE ÁLTAL KEZELT/HASZNÁLT
+  ADATOK
+COOKIE ÉLETTARTAMA
+COOKIE FUNKCIÓJA, ADATKEZELÉS
+  CÉLJA
+__gfp_64b
+Alfanumerikus
+  karakterekből álló
+domain
+azonosító
+1000 nap
+Gemius
+forgalmi és statisztikai
+  mérések és analitika biztosítása
+Gdyn
+Alfanumerikus
+  karakterek
+1858
+  nap
+A fájl
+  tartalmazza a hit.gemius.pl kifejezést és védi az internetfelhasználókat a
+  kutatási célokat szolgáló kérdőív zavaró mértékű megjelenítésével szemben. A
+  fájlban tárolt kifejezés módosítása után a kérdőív többet nem jelenik meg,
+  blokkolva lesz. Megjegyzés: a blokkolás nem működik, ha a
+fálj
+törölve lett.
+__
+gads
+Alfanumerikus
+  és speciális karakterek
+390 nap
+A
+DoubleClick
+for
+Publishers
+(Google
+Ads
+)
+  szolgáltatáson keresztül terjesztett hirdetések megjelenítésének biztosítása,
+  a
+megjelentített
+hirdetésekkel való interakció
+  mérése, illetve annak megelőzése, hogy egy adott hirdetés
+ugyanannál
+felhasználónál túl gyakran jelenjen meg.
+DSID
+Alfanumerikus
+  és speciális karakterek
+390 nap
+Goolgle
+DoubleClick
+for
+Publishers
+szolgáltatáson keresztül megjelentetett hirdetésekkel, illetve az azokkal
+  történő interakció során jön létre a hirdetés hatékonyságának mérésére és
+  célzott hirdetések megjelenítésének biztosítására
+IDE
+Alfanumerikus
+  és speciális karakterek
+390 nap
+Goolgle
+DoubleClick
+for
+Publishers
+szolgáltatáson keresztül megjelentetett hirdetésekkel, illetve az azokkal
+  történő interakció során jön létre a hirdetés hatékonyságának mérésére és
+  célzott hirdetések megjelenítésének biztosítására
+OTZ
+Alfanumerikus
+  és speciális karakterek
+30 nap
+Weboldal
+  forgalmi adatainak rögzítéséhez használt
+NID
+Alfanumerikus
+  és speciális karakterek
+160 nap
+A
+  felhasználó legutóbbi Google kereséseinek, egyes hirdetők hirdetéseivel vagy
+  keresési eredményeivel történő korábbi
+interkacióinak
+,
+  továbbá a hirdetők webhelyein tett látogatásainak rögzítése annak érdekében,
+  hogy személyre szabott hirdetéseket jelenítsen meg.
+1P_JAR
+Alfanumerikus
+  és speciális karakterek
+30 nap
+A
+  weboldallal kapcsolatos forgalmi adatok és a konverziós arány (hirdetés)
+  követéséhez használt.
+OGPC
+Alfanumerikus
+  és speciális karakterek
+30 nap
+Google
+Ads
+optimalizáció
+DV
+Alfanumerikus
+  és speciális karakterek
+7 nap
+A
+  felhasználó preferenciáit és egyéb információit tárolja. A többi között a
+  nyelvi beállítások, a megjelenített találati elemek száma, illetve, hogy a
+  Google
+SafeSearch
+szűrő aktív állapotban van-e.
+A kezelt adatok köre
+Az Időkép a
+cookie
+-k
+elhelyezésével, illetve azok visszaolvasásával a látogatóknak a weboldal
+használatával, illetve böngészésével kapcsolatos adatait és az azokhoz
+kapcsolódó információkat kezeli. A konkrét adatok meghatározását ld. a fe
+nti 3.2 pontban.
+A
+cookie-kkal
+végzett adatkezelés célja
+Az Időkép a weboldalon azért használ
+cookie-kat
+, hogy a látogatók számára biztosítsa a weboldal
+elérhetőségét (ideértve az azon elérhető szolgáltatásokat és funkciókat),
+egyszerűsítse a böngészést, a felhasználói élményt pedig növelje az egyes
+felhasználói beállítások és látogatási előzmények rögzítésével. Emellett a
+cookie
+-k segítenek a látogatók megfelelő kiszolgálásában, a
+látogatásuk biztonságának elősegítésében és az Időkép szolgáltatásainak
+fejlesztésében azáltal, hogy a weboldal használatával kapcsolatos adatokat,
+statisztikákat és más hasznos információkat adnak az Időkép számára.
+A weboldalról korábban letöltött és elmentett
+cookie
+-k visszaolvasása lehetővé teszi az Időkép számára, hogy
+a látogató adott böngészési munkamenetét összekapcsolja egy korábbi
+böngészésének adataival. A böngészési előzmények összekapcsolása és a böngészési
+szokások elemzése pedig abban segít, hogy az Időkép a látogató anonimitásának
+megőrzése mellett számára egyedi felhasználói élményt nyújtson.
+Az adatkezelés jogalapja
+A weboldal üzemeltetéséhez elengedhetetlen
+cookie
+-k (A rész) esetén az adatkezelés jogalapja az
+adatkezelő, vagyis az Időkép jogos érdeke. A további
+cookie
+-k
+(B rész) esetén az adatkezelés jogalapja az érintett hozzájárulása.
+Az adatkezelés időtartama
+A konkrét részleteket ld. a fenti táblázatban. Egyes az
+Időkép által használt, általában az adott munkamenetben az adatvesztést
+megakadályozó
+cookie
+-k átmeneti élettartamúak és az
+adott munkamenet lezárásával, azaz a böngésző bezárásával törlődnek. Ugyanakkor
+az Időkép használ tartós élettartamú
+cookie-kat
+is,
+amelyek hosszabb ideig a látogató számítógépén maradnak. Az Időkép által
+használt tartós élettartamú
+cookie
+-k alapvetően a
+weboldal ismételt meglátogatásának támogatását szolgálják és a böngésző
+bezárásával nem törlődnek automatikusan. Az állandó jellegű
+cookie
+-k
+eltárolása határozott időre történik és azok általában automatikusan 1 év
+elteltével vagy a felhasználó böngésző beállításainak a törlésre irányuló
+műveletével tetszés szerint (akár azonnal) törlődnek, illetve
+törölhetőek
+.
+Adatfeldolgozó igénybevétele, adatai
+és tevékenysége
+A folyamat során adatfeldolgozó igénybevételére nem
+kerül sor.
+Adattovábbítás címzettjei
+A
+cookiek
+a következő
+címzettek részére, mint önálló adatkezelők részére kerülnek továbbításra:
+<![if !supportLists]>
+§
+<![endif]>
+Google - Gordon House,
+Barrow
+Street, Dublin 4,
+Ireland
+(a továbbiakban:
+Google
+);
+<![if !supportLists]>
+§
+<![endif]>
+GEMIUS Hungary Adatfeldolgozó és
+Kutató Korlátolt Felelősségű Társaság – 1053 Budapest, Szép utca 5. 1. em. 2.
+(a továbbiakban:
+GEMIUS Hungary
+);
+Cookie
+-k bármikori törlésének lehetősége
+Felhívjuk a weboldal látogatók figyelmét arra és
+javasoljuk számukra, hogy amennyiben a
+cookie
+-k
+használatához nem járulnak hozzá, úgy az internetes böngészőjük megfelelő
+beállításaival a
+cookie-kat
+utasítsák vissza, illetve
+használatukat
+tiltsák
+, illetve a már eltárolt
+cookie-kat
+töröljék.
+5. ADATBIZTONSÁGI INTÉZKEDÉSEK
+A weboldal biztonságos szervereken üzemel, melyhez az Időkép
+illetékes munkavállalóin kívül más nem fér hozzá. A hozzáférések személyhez
+kötöttek, biztonságos jelszóval védettek, a hozzáférések rendszeresen
+felülvizsgálatra kerülnek. A munkakörnyezet tűzfalakkal védett. A személyes
+adatokkal kapcsolatos műveletek
+logolásra
+kerülnek.
+6. ADATOK MEGISMERÉSÉRE JOGOSULTAK
+KÖRE AZ ADATKEZELŐNÉL
+Az adatok megismerésére az Időkép adatkezelésben és az
+adatfeldolgozásban részt vevő és erre feljogosított
+közreműködői
+és munkavállalói jogosultak az adatkezelésben elvégzett feladatuk, illetve
+munkakörük által indokolt mértékben és szabályozott keretek között. Ezekben a
+munkakörökben dolgozó kollégák a weboldalon keletkezett adatok megismerését,
+elemzését és az érintettek kérése alapján a törlését végzik. Az elemzésekből
+csak statisztikai értelmezések származhatnak, személyes adatot ezek az
+elemzések nem tartalmaznak. A fenti szabály alól kivételt képeznek a hatósági
+és bírósági megkeresések, amelyeket az Időkép a hatályos jogszabályok szerint
+teljesít.
+7. AZ ÉRINTETTEK ADATKEZELÉSSEL
+KAPCSOLATOS JOGAI ÉS JOGORVOSLATI LEHETŐSÉGEI
+Az érintett
+hozzáféréshez/tájékoztatáshoz való joga
+Az érintett jogosult arra, hogy az Adatkezelőtől
+tájékoztatást kapjon arra vonatkozóan, hogy személyes adatainak kezelése
+folyamatban van-e, és ha igen, jogosult arra, hogy a személyes adataihoz és a
+következő információkhoz hozzáférést kapjon:
+<![if !supportLists]>
+§
+<![endif]>
+Az adatkezelés célja;
+<![if !supportLists]>
+§
+<![endif]>
+Az érintett személyes adatainak
+kategóriái;
+<![if !supportLists]>
+§
+<![endif]>
+A személyes adatok tárolásának
+tervezett időtartama, vagy ha ez nem lehetséges, ezen időtartam
+meghatározásának szempontjai;
+<![if !supportLists]>
+§
+<![endif]>
+Azon címzettek vagy címzettek
+kategóriái, akikkel, illetve amelyekkel a személyes adatokat közölték vagy
+közölni fogják, ideértve különösen a harmadik országbeli címzetteket, illetve a
+nemzetközi szervezeteket. Ha személyes adatoknak harmadik országba vagy
+nemzetközi szervezet részére történő továbbítására kerül sor, az érintett
+jogosult arra, hogy tájékoztatást kapjon a továbbításra vonatkozóan a GDPR
+által előírt megfelelő garanciákról is;
+<![if !supportLists]>
+§
+<![endif]>
+Amennyiben az adatokat nem az
+érintettől
+gyűjtötték, a forrásukra vonatkozó minden
+elérhető információ;
+<![if !supportLists]>
+§
+<![endif]>
+Az érintett azon joga, hogy kérelmezheti
+az adatkezelőtől a rá vonatkozó személyes adatok helyesbítését, törlését vagy
+kezelésének korlátozását, és tiltakozhat az ilyen személyes adatok
+<![if !supportLists]>
+§
+<![endif]>
+A valamely felügyeleti hatósághoz
+címzett panasz benyújtásának joga;
+<![if !supportLists]>
+§
+<![endif]>
+Az automatizált döntéshozatal ténye,
+ideértve a profilalkotást is, valamint legalább ezekben az esetekben az
+alkalmazott logikára és arra vonatkozó érthető információk, hogy az ilyen
+adatkezelés milyen jelentőséggel bír, és az érintettre nézve milyen várható
+következményekkel jár.
+Az Időképnek az adatkezelés tárgyát képező személyes
+adatok másolatát az érintett rendelkezésére kell bocsátania. Az érintett által
+kért további másolatokért az Időkép az adminisztratív költségeken alapuló,
+észszerű mértékű díjat számíthat fel. Ha az érintett elektronikus úton
+nyújtotta be a kérelmet, az információkat széles körben használt elektronikus
+formátumban kell rendelkezésre bocsátani, kivéve, ha az érintett ezt másként
+kéri.
+Helyesbítéshez való jog
+Az érintett kérésére az Időképnek indokolatlan
+késedelem nélkül helyesbítenie kell a rá vonatkozó pontatlan személyes
+adatokat. Az adatkezelés céljának figyelembevételével az érintett kérheti a
+hiányos személyes adatok kiegészítését is.
+Adatkezelés korlátozáshoz való jog
+Az Adatkezelő az érintett kérésére köteles korlátozni
+az adatkezelést az alábbi feltételek valamelyikének teljesülése esetén:
+<![if !supportLists]>
+§
+<![endif]>
+Az Adatkezelőnek már nincs szüksége
+a személyes adatokra adatkezelés céljából, de az Érintett igényli azokat jogi igények
+előterjesztéséhez, érvényesítéséhez vagy védelméhez;
+<![if !supportLists]>
+§
+<![endif]>
+Az adatkezelés jogellenes, az
+érintett
+ellenzi
+az adatok törlését, és törlés
+helyett az adatok felhasználásának korlátozását kéri;
+<![if !supportLists]>
+§
+<![endif]>
+Az érintett vitatja a személyes
+adatok pontosságát. Ebben az esetben a korlátozás addig tart, ameddig az
+Adatkezelő ezt ellenőrizni tudja;
+<![if !supportLists]>
+§
+<![endif]>
+Az érintett tiltakozott az
+adatkezelés ellen; ez esetben a korlátozás arra az időtartamra vonatkozik, amíg
+megállapításra nem kerül, hogy az adatkezelő jogos indokai elsőbbséget élveznek-e
+az érintett jogos indokaival szemben.
+<![if !supportLists]>
+§
+<![endif]>
+Ha az adatkezelés korlátozás alá
+esik, az ilyen személyes adatokat a tárolás kivételével csak az alábbi
+célokból, illetve jogalapok alapján lehet kezelni:
+<![if !supportLists]>
+a)
+<![endif]>
+az érintett
+hozzájárulásával,
+<![if !supportLists]>
+b)
+<![endif]>
+az Unió,
+illetve valamely tagállam fontos közérdekéből vagy
+<![if !supportLists]>
+c)
+<![endif]>
+jogi igények
+előterjesztéséhez, érvényesítéséhez vagy védelméhez, vagy más természetes vagy
+jogi személy jogainak védelme érdekében.
+Amennyiben az adatkezelés korlátozása feloldásra kerül
+az Időkép köteles erről az érintettet előzetesen tájékoztatni, akinek a
+kérésére korlátozták az adatkezelést.
+Tiltakozáshoz való jog
+Saját helyzetével kapcsolatos okból az érintett
+bármikor tiltakozhat személyes adatainak jogos érdeken alapuló kezelése ellen,
+ideértve a profilalkotást is. Ebben az esetben a személyes adatok nem
+kezelhetők tovább, kivéve, ha az Időkép bizonyítja, hogy az adatkezelést olyan
+az ő oldalán fellépő jogos érdek indokolja, amely elsőbbséget élvez az érintett
+érdekeivel, jogaival és szabadságaival szemben, vagy amelyek jogi igények
+előterjesztéséhez, érvényesítéséhez vagy védelméhez kapcsolódnak.
+Közvetlen üzletszerzés érdekében történő adatkezelés
+esetén az érintett bármikor tiltakozhat a rá vonatkozó személyes adatok e
+célból történő kezelése ellen, ideértve a profilalkotást is, amennyiben az a
+közvetlen üzletszerzéshez kapcsolódik. Amennyiben az érintett tiltakozik a
+személyes adatok közvetlen üzletszerzés érdekében történő kezelése ellen, akkor
+a személyes adatai a továbbiakban e célból nem kezelhetők.
+Törléshez (elfeledtetéshez) való jog
+Az érintett kérésére az Időkép indokolatlan késedelem
+nélkül
+törli
+a rá vonatkozó személyes adatokat.
+Ezenkívül az Időkép köteles az érintettre vonatkozó személyes adatok
+indokolatlan késedelem nélküli törlésére, amennyiben:
+<![if !supportLists]>
+§
+<![endif]>
+A személyes adatokat jogellenesen
+kezelték;
+<![if !supportLists]>
+§
+<![endif]>
+Az érintett hozzájárulását
+visszavonta, feltéve hogy nincs más jogalap;
+<![if !supportLists]>
+§
+<![endif]>
+Az érintett tiltakozik az
+adatkezelés ellen, és nincs elsőbbséget élvező jogszerű ok az adatkezelésre;
+<![if !supportLists]>
+§
+<![endif]>
+A személyes adatokra már nincs
+szükség abból a célból, amelyből azokat gyűjtötték vagy más módon kezelték;
+<![if !supportLists]>
+§
+<![endif]>
+Uniós vagy tagállami jogban előírt
+jogi kötelezettség írja elő a törlést.
+Ha az Időkép nyilvánosságra hozta a személyes adatot,
+és azt a fentiek értelmében törölni köteles, az elérhető technológia és a
+megvalósítás költségeinek figyelembevételével minden
+észszerűen
+elvárható lépést meg kell tennie – ideértve technikai intézkedéseket – annak
+érdekében, hogy tájékoztassa az adatokat kezelő többi adatkezelőt arról, hogy
+az érintett kérelmezte tőlük a szóban forgó személyes adatokra mutató linkek
+vagy e személyes adatok másolatának, illetve másodpéldányának törlését.
+Tilos az adatokat törölni, amennyiben az adatkezelés:
+<![if !supportLists]>
+§
+<![endif]>
+a személyes adatok kezelését előíró,
+uniós vagy tagállami jog szerinti kötelezettség teljesítése érdekében
+szükséges;
+<![if !supportLists]>
+§
+<![endif]>
+jogi igények előterjesztéséhez,
+érvényesítéséhez, illetve védelméhez szükséges (pl. az adatokra bírósági
+eljárásban, bizonyítékként való felhasználás céljából van szükség).
+<![if !supportLists]>
+§
+<![endif]>
+a véleménynyilvánítás szabadságához
+és a tájékozódáshoz való jog gyakorlása céljából szükséges;
+<![if !supportLists]>
+§
+<![endif]>
+közérdekű archiválás, tudományos és
+történelmi kutatási vagy statisztikai célból szükséges és a törlés lehetetlenné
+tenné vagy komolyan veszélyeztetné az adatkezelést;
+Adathordozhatósághoz való jog
+Az érintett jogosult arra, hogy
+<![if !supportLists]>
+§
+<![endif]>
+a rá vonatkozó, általa az adatkezelő
+rendelkezésére bocsátott személyes adatokat tagolt, széles körben használt,
+géppel olvasható formátumban megkapja,
+<![if !supportLists]>
+§
+<![endif]>
+ezeket az adatokat egy másik
+adatkezelőnek továbbítsa anélkül, hogy ezt akadályozná az az Adatkezelő,
+amelynek a személyes adatokat a rendelkezésére bocsátotta, továbbá, hogy
+<![if !supportLists]>
+§
+<![endif]>
+kérje a személyes adatok adatkezelők
+közötti közvetlen továbbítását, amennyiben ez technikailag megvalósítható.
+Ez a jog akkor gyakorolható, ha az adatkezelés
+hozzájáruláson, vagy szerződésen alapul és az adatkezelés automatizált módon
+történik.
+Automatizált adatkezeléshez
+kapcsolódó jogok
+Az érintett jogosult arra, hogy ne terjedjen ki rá az
+olyan, kizárólag automatizált adatkezelésen – ideértve a profilalkotást is –
+alapuló döntés hatálya, amely rá nézve joghatással járna vagy őt hasonlóképpen
+jelentős mértékben érintené. Az érintettet ez a jog alanyi alapon megilleti,
+így annak gyakorlása nem függ attól, hogy ezt kérelmezi vagy sem.
+Automatizált adatkezelés így kizárólag abban az
+esetben alkalmazható, ha az
+<![if !supportLists]>
+§
+<![endif]>
+az érintett kifejezett
+hozzájárulásán alapul;
+<![if !supportLists]>
+§
+<![endif]>
+az érintett és az Adatkezelő közötti
+szerződés megkötése vagy teljesítése érdekében szükséges vagy
+<![if !supportLists]>
+§
+<![endif]>
+az Adatkezelőre vonatkozó uniós vagy
+tagállami jog lehetővé teszi.
+Az első két esetben az adatkezelő köteles megfelelő
+intézkedéseket tenni az érintett jogainak, szabadságainak és jogos érdekeinek
+védelme érdekében, ideértve az érintettnek legalább azt a jogát, hogy
+<![if !supportLists]>
+§
+<![endif]>
+álláspontját kifejezze,
+<![if !supportLists]>
+§
+<![endif]>
+a döntéssel szemben kifogást
+nyújtson be, és
+<![if !supportLists]>
+§
+<![endif]>
+az adatkezelő részéről emberi beavatkozást
+kérjen.
+Az alkalmazhatóság fenti eseteiben a döntések nem
+alapulhatnak a személyes adatok különleges kategóriáin, kivéve a kifejezett
+hozzájárulást és a jelentős közérdeket, és csak abban az esetben, ha az
+érintett jogainak, szabadságainak és jogos érdekeinek védelme érdekében
+megfelelő intézkedések megtételére került sor.
+Az érintetti jogok gyakorlására irányuló kérelmét
+kérjük, hogy az
+adatvedelem@idokep.hu
+e-mailcímre küldje.
+Jogorvoslathoz való jog
+Amennyiben úgy érzi, hogy személyes adatainak
+kezelésével kapcsolatban sérelem érte, kérjük, hogy a fenti email-címen jelezze
+azt részünkre, és mindent elkövetünk annak orvoslása érdekében.
+Ettől függetlenül minden érintett jogosult arra, hogy
+panaszt tegyen valamelyik – különösen szokásos tartózkodási helye, munkahelye
+vagy a feltételezett jogsértés helye szerinti tagállamban lévő – felügyeleti
+hatóságnál a rá vonatkozó személyes adatok kezelése megsértése esetén.
+<![if !supportLists]>
+§
+<![endif]>
+Jogorvoslati lehetőséggel, panasszal
+a következő elérhetőségeken lehet élni:
+<![if !supportLists]>
+§
+<![endif]>
+Név: Nemzeti Adatvédelmi és
+Információszabadság Hatóság
+<![if !supportLists]>
+§
+<![endif]>
+Cím: 1055 Budapest, Falk Miksa utca
+9-11. / 1374 Budapest, Pf. 603.
+<![if !supportLists]>
+§
+<![endif]>
+Telefon: 06- 1-391-1400 Fax:
+06-1-391-1410
+<![if !supportLists]>
+§
+<![endif]>
+E-mail: ugyfelszolgalat@naih.hu
+<![if !supportLists]>
+§
+<![endif]>
+Weboldal:
+www.naih.hu
+Fentieken túl az Érintettet megilleti a bírósághoz
+fordulás joga is.
+Hatályos 2021.03.17
+* * *

@@ -1,0 +1,104 @@
+Privacy Policy
+Softnyx Co., Ltd. (hereinafter referred to as the “Company”) establishes and presents the following privacy policy in order to protect the personal information of the users who use the Company’s mobile game services and resolve any relevant complaint.
+1. Purpose of Processing Personal Information
+The Company collects and uses personal information for the following purposes.
+Membership registration and management: confirmation of membership intent, identification, authentication, prevention of illegal or unauthorized use of services by users who were restricted from use or had their membership canceled due to violation of the Terms of Use, restriction on the number of subscriptions, record preservation for settlements, handling of complaints, sending various notices, etc.
+Provision of goods or services and bill settlement: delivery of contents, sending notices on winning results of events, delivery of goods/contracts, authentication, bill payment and settlement, debt collection, etc. (however, if membership registration and consent procedures are carried out through the mobile platform, some of the above items would be performed on the mobile item)
+Service Improvements and Development, Marketing and Advertising: improvement of existing services and development of new and customized services, provision of customized services and advertisements according to demographic characteristics, verification of service validity, provision of opportunities to participate in events, provision of information regarding events, identification of access frequency, statistics on service use of members, provision of services regarding promotions and events
+2. Items of Personal Information Processed
+The Company collects and processes the following personal information of service users.
+Information collected through membership registration (mandatory): username
+Information collected through membership registration (optional): name, email, address, phone number
+Items additionally provided by cooperating companies for the purpose of approving membership registration according to the method of registration:
+cooperating company/service used by user for membership registration
+information provided by cooperating company
+Registration using facebook account (cooperating company: Meta, Inc.)
+username, profile picture, and information on user identification
+name, email address
+Registration using Google account (cooperating company: Google, Inc.)
+username, profile picture, and information on user identification
+name, email address
+Registration using Apple account (cooperating company: Apple, Inc.)
+username, profile picture, and information on user identification
+name, email address
+Registration using Onestore account (cooperating company: Onestore Co., Ltd.)
+username, profile picture, and information on user identification
+name, email address
+Registration using Payco account (cooperating company: NHNPAYCO Co., Ltd.)
+username, profile picture, and information on user identification
+name, email address
+Registration using Twitter account (cooperating company: Twitter,Inc.)
+username, profile picture, and information on user identification
+name, email address
+In the process of using the service, the following personal information is automatically collected: IP address, game and service use records, access records, device information (mobile phone model name, OS version device unique identification number, etc.), advertisement identifier, cookies
+For managing user complaints: collects and processes necessary information among the above and other necessary information required to resolve the complaints from the user
+3. Period of Retention and Use for Personal Information
+The Company will, without delay, delete and destroy the user’s personal information when it achieves the purpose of collection and use of personal information or upon the user’s withdrawal of membership or loss of membership qualifications. The Company, however, will retain the user’s personal information for a period of seven (7) days from the date of the user's request for withdrawal of membership to prevent involuntary withdrawal caused by identity theft. In addition, the following information is retained for the following reasons despite withdrawal of membership or loss of user qualification.
+If there is an ongoing investigation regarding a violation of relevant laws and regulations, the personal information shall be retained until the completion of the respective investigation
+If any debts or debt relationship pursuant to the use of the services remain unsettled, the personal information shall be retained until the relevant debts are settled
+If the Company terminates the service use contract according to the Terms of Use, any records of the illegal use of the Services shall be retained for one (1) year to prevent any unauthorized re-registration and use of service.
+Personal verification use records are stored for three (3) years from the date of collection for the purpose of identification and age verification, prevention of illegal registration, and customer consultation.
+Personal information of non-members is stored for three (3) years from the date of collection, but duplicate registration information is stored until the restriction on the registration is released.
+Personal information of the legal representative is stored until the time when a youth under the age of fourteen (14) reaches the age of majority or until the withdrawal of membership.
+Notwithstanding the foregoing, the following information is retained for the period specified for the reasons stated below:
+Personal information related to use of service (log records): 3 months (Communications Secret Protection Act)
+Records on withdrawal of contract or subscription, etc., and records on payment and supply of goods: 5 years (Consumer Protection Act in Electronic Commerce, Etc.)
+Records on handling consumer complaints or disputes: 3 years (Consumer Protection Act in Electronic Commerce, Etc.)
+Books and evidentiary documents for all transactions prescribed by tax laws:  5 years (Framework Act on National Taxes)
+The Company shall separately store or delete personal information of users who have not used the service for a period of one (1) year or any other period set forth by the user.
+4. Provision of Personal Information to Third Parties
+The Company may provide personal information to third parties only with the consent of the user or when there are special provisions in the Personal Information Protection Act or other laws.
+5. Use and Provision of Personal Information within the Scope Reasonably Related to the Purpose of Collection
+The Company may use or provide personal information to a third party without the consent of the user, considering each of the following criteria within a reasonable scope and the original purpose of collection.
+Whether or not it is related to the original purpose of collection: judgment based on whether the original purpose of collection and the purpose of additional use and provision are related in terms of their nature or tendency;
+Whether or not the further use or provision of personal information is predictable considering the circumstances in which the personal information was collected or the processing practices: judgment based on the relationship between the personal information controller and the user, the level of technology and the rate of development, and general circumstances (practice) established over a substantial amount of time, etc.;
+Whether the interests of the user are unreasonably infringed: judgment based on whether the interests of the user are substantially infringed in relation to the additional purpose of use and whether the infringement of the interests is unreasonable, etc.; and
+Whether measures necessary to secure safety, such as pseudonymization or encryption, have been taken: judgment by considering whether safety measures are taken in consideration of the possibility of infringement, etc.
+6. User’s and Legal Representatives’ Rights and Methods for Exercising the Rights
+The user can exercise the right to read, correct, delete and suspend processing his or her personal information against the Company at any time.
+The exercise of the rights pursuant to Section 7.1 can be made to the Company in writing, by phone, or by e-mail, and the Company will take action without delay.
+The exercise of rights pursuant to Section 7.1 may be done through an agent such as a legal representative of the user or a person who has been delegated. In this case, a power of attorney must be submitted to the Company that confirms such delegation.
+In accordance with relevant laws such as the Personal Information Protection Act, the exercise of the user's right to access, correct, delete, or suspend the processing of personal information may be restricted.
+Request for correction and deletion of personal information cannot be requested if the information is required to be collected according to other laws.
+The Company shall confirm whether the person who made the request, such as a request for reading, correction, or deletion, or request for suspension of processing, holds such right or is a legitimate agent.
+7. Destruction of Personal Information
+The Company destroys the personal information without delay when the personal information becomes unnecessary, such as in the cases of the expiration of the personal information retention period, or achievement of the purpose of processing.
+If personal information needs to be preserved in accordance with the laws and regulations even when the personal information retention period agreed by the user has elapsed or the purpose of processing has been achieved, the personal information will be moved to a different place or stored in a separate database (DB).
+The destruction procedures and methods are as follows:
+Destruction procedures: The Company selects the personal information that needs to be destroyed and destroys the personal information with the approval of the Company's personnel for management of personal information.
+Destruction method: The Company destroys personal information recorded and stored in electronic file format using technical methods so that the information cannot be reproduced, and personal information recorded and stored on paper documents is destroyed by crushing or incineration with a shredder.
+8. Measures to Ensure Safety of Personal Information
+Company is taking the following measures to ensure the safety of personal information
+Administrative measures: establishment and implementation of internal management plans for personal information, regular employee training, etc.
+Technical measures: technical countermeasures against password hackings, etc., encryption of personal data, storage access records, and prevention of forgery, etc.
+Physical measures: Access control to server rooms, data storage rooms, etc.
+9. Installation, Operation, and Rejection of Automatic Personal Information Collection Devices
+The Company uses 'cookies' to store and frequently retrieve usage information to provide users with individually customized services. Cookies are a small amount of information sent to the user's PC browser by the server (HTTP), which are used to operate the website, etc., and are also stored in the user's hard disk in the computer.
+Purpose of using cookies: security management and improving services, developing new services, and providing customized services and advertisements by analyzing access frequency and access time of users, etc., identifying the patterns of service usage and tracking traces, secure access status, and the number of users.
+Installation, operation, and rejection of cookies: Users have the right to choose the installation of cookies. Therefore, the users may refuse to save all cookies by changing their Internet browser options.
+However, if you refuse to store cookies, it may be difficult to use some services of Company.
+10. Personnel for Management of Personal Information
+The Company has designated the person in charge of personal information management and handling complaints about personal information, and the contact information is as follows.
+Personal Information Manager
+Name:
+Jae Hyung Bae
+Title:
+Director of Development Department
+Telephone No.:
++82-70-5213-7952
+Email Address:
+kingdom-cs@softnyx.com
+The user can inquire about all personal information protection-related inquiries, handling complaints, damage relief, etc. that occurred while using the Company's service (or business) to the person in charge of personal information protection and the following department in charge.
+Department Name:
+Development Department
+Telephone No.:
++82-70-5213-7952
+Email Address:
+kingdom-cs@softnyx.com
+11.Amendment of the Privacy Policy
+The Company may amend the Privacy Policy in order to comply with applicable law or to reflect any changes in the provision of service. In the event this Privacy Policy is amended, the Company shall notify the users in advance through a notice on the website at least 7 days prior to the amendment. The amended Privacy Policy shall take effect from the Effective Date stipulated in the Amendment. However, the Company shall notify the users at least 30 days in advance for any major changes in the Privacy Policy, such as the items of personal information to be collected or the rights of the users.
+The Privacy Policy shall take effect from [Dec 20th, 2022].
+The previous Privacy Policy can be found at the link below.
+[
+Privacy Policy
+Apr 27th, 2022]

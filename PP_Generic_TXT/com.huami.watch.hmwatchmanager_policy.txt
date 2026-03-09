@@ -1,0 +1,964 @@
+ZEPP PRIVACY POLICY
+PRIVACY POLICY
+Effective
+: January
+6
+, 2023
+Your privacy is important to us. We respect the privacy rights of all individuals and we are committed to handling your personal information responsibly and in accordance with the applicable law. Please take a moment to familiarize yourself with our Privacy Policy and let us know if you have any questions.
+PURPOSE
+This Privacy Policy describes how we manage your personal information for products and services provided by Anhui Huami Information Technology Co., Ltd. ("we", "our" or "us").
+This Privacy Policy also applies to personal information that is processed by us in the course of our business, including on mobile applications, services, products (such as the
+Zepp
+App and its bundled devices like Amazfit watch, Amazfit band,
+Ze
+pp
+watch), and other online or offline offerings unless otherwise indicated. All individuals whose responsibilities include the processing of personal information on our behalf are expected to protect this data by adherence to this Privacy Policy.
+OUR COMMITMENT TO YOU
+The Privacy Policy is designed with you in mind, and it is important that you have a comprehensive understanding of and confidence in our personal information collection and usage practices of any personal information provided to us.
+In this Privacy Policy, "personal information" means any information relating to an identified or identifiable natural person.
+Such personal information may include, but is not limited to the information you upload or provide to us and information we obtain through your devices as described below.
+We are committed to protecting the privacy, confidentiality and security of your personal information by complying with applicable laws. We are equally committed to ensuring that all our employees and agents uphold these obligations.
+Ultimately, what we want is the best for all our users. Should you have any concerns with our data handling practices as summarized in this Privacy Policy, please contact
+us via
+https://www.zepp.com/privacy-support
+to address your specific concerns
+.
+If your questions are not adequately addressed, you may then contact our Data Protection Officer at
+dpo@zepp.com
+to address your specific concerns.
+TRANSPARENCY:
+WHAT INFORMATION IS COLLECTED AND HOW WE USE IT
+The categories of personal information we may collect (directly from you or from third party sources) and our privacy practices depend on the nature of the relationship you have with us and the requirements of applicable law. Some of the ways that we may collect personal information include:
+You may provide personal information directly to us through interacting with our products and services, or requesting services or information from us.
+As you navigate the services, certain information may also be collected automatically, including through cookies and similar technologies as described below.
+We endeavor to collect only that information which is relevant for the purposes of processing.
+TYPES OF INFORMATION COLLECTED
+Information You Provide Directly to Us
+. When you use our services or engage in certain activities, such as registering for an account, responding to surveys, requesting services or information, request
+ing
+customer or technical support, or contacting us directly, we may ask you to provide certain personal information, such as email address or phone number.
+Automatic Data Collection
+. We may collect certain information automatically through our products, services or other methods of analysis, such as your Internet protocol (IP) address, cookie identifiers, mobile carrier, MAC address and other device identifiers that are automatically assigned to device when you access the Internet, hardware type,
+device name
+,
+operating system,
+system version, region & language, installation package name, App version, network status, source of App, device battery, Bluetooth status
+,
+Internet service provider,
+t
+he usage of product and App features
+,
+pages that you visit before and after using the services, the date and time of your visit, the amount of time you spend on each page, information about the links you click and pages you view within the services, and other actions taken through use of the services such as preferences.
+Specific Information Collected Through Our Products and Services.
+We have a wide range of products, the personal information collected by different products may vary. We may collect the following types of information (which may or may not be personal information):
+Information about You:
+When you register for an account or log into our service using your credentials from your Mi, WeChat, Google, Line or Facebook accounts (with your approval), we may collect and use your avatar, gender, country, email address, nicknames, time zones, languages, regions, birthday, height, weight.
+Online Purchase Information
+. If you place an order with us, we will record the personal information and details associated with the transaction. We will collect your purchase/subscription information, such as, user ID, items purchased, order ID, payment information for fulling your order. Any payments made via the Services are processed by third-party payment processors. We do not directly collect or store your payment card information, which is handled by third-party service providers.
+Personal Body and Health Information:
+When you use Zepp App and our device, your personal body and health information may be collected, such as, heart rate, resting heart rate, heart rate zone, maximum heart rate, minimum heart rate, average heart rate, blood oxygen saturation,
+stress, PAI,
+PPG data,
+ECG
+data
+,
+weight, body fat
+, BMI
+.
+Exercising Information:
+When you use the Zepp App and our device for exercising, we may collect your
+exercising information, such as,
+steps,
+stand-up times
+,
+total distance, time, total time, total duration, burned
+calories,
+consumption,
+pace, speed, frequency, stride length,
+maximum oxygen uptake
+(VO
+2
+Max)
+,
+exercise capacity, training
+effects, sports loading, frequency of exercising, strokes,
+stroke rate, number of trips,
+number of jumping rope,
+average
+stroke
+distance
+, movement track, velocity,
+swolf index, stroke speed and number of floors climbed.
+Information Recorded by Your Device:
+When you use the
+Zepp
+App to synchronize device data, personal data is recorded
+.
+For example, altitude,
+air pressure,
+temperature, weather type,
+volume of earphone, ambient sound,
+sleep data,
+rapid eye movement(REM), activity information, the time length of one-legged standing with eyes closed testing and the time of measuring, resistance value.
+Device Setting Information:
+We may collect information of your device settings. For example, status of notification, unit settings, dial layout settings, gesture settings, band wearing settings.
+Application Setting Information:
+We may collect information of your device settings on applications. For example, device system setting, exercising functional setting, target of steps, target of exercising, target of weight, target of calories, target of sleep, alarm settings.
+Caller Information:
+When you use the Incoming Call or SMS Alert functions, you will receive an alert about your phone calls, SMS. Your contact information for incoming calls and messages will be synchronized to and displayed on the bundled device. We will not save your caller information in Zepp App or sever.
+Network Usage Information:
+We may collect network types, network signals,
+WLAN information
+and other similar information related to certain features of the
+Zepp
+App.
+Music Information:
+When you use
+music or music
+control
+function,
+the
+music
+information
+(e.g.,
+name
+of
+song,
+singer, the status of song)
+will
+be
+obtained
+from
+your
+mobile
+phone
+and synchronized
+to
+the
+device.
+This information will only be displayed on the device screen and we will not save this information.
+When you use the music storage function (only supported by certain devices), then your music will be synchronized to and stored in the device.
+Log Information:
+W
+e may record some log information when you use
+the
+Zepp
+App. For example, we may collect operating information, hit log, firmware clicking statistics, and server log. When you give us feedback, at your option, your app log and device log
+will
+be collected by us.
+L
+ocation
+Information:
+When you use location-based program services or features, we may collect your location information such as your GPS information.
+Mobile Phone Information:
+When you use
+Zepp
+App
+, we may
+collect
+your
+mobile
+phone information, such as,
+unique identifier
+(IDFA, IMEI),
+the operating system version, system time, time zone, alarm clock
+, brand
+and
+model
+of your mobile phone.
+Device Information:
+When you use
+Zepp
+App to connect a hardware device, such as an Amazfit
+watch
+, we may obtain information, such as: the device's unique identifier,
+device ID,
+MAC address, serial number
+, firmware version, Bluetooth,
+device size.
+The collection may also apply to your updated system or software and factory settings.
+Device
+U
+nlock
+I
+nformation:
+When you use the device off-wrist lock function, we may collect your device unlock password to realize this function.
+Crash Information:
+When you choose to upload debug logs to help us analyze the problem, your application debug log file will be sent to the server.
+Information from Friends:
+Zepp
+App allows you to add friends. After receiving permission from your friends, the
+weight,
+activity and sleep
+information
+of your friends will be displayed
+o
+n your App.
+Information Submitted via Services.
+When you use various functionalities of the
+Zepp
+App, you may submit certain information, such as
+voice
+information
+,
+a reminder setting or tags for your current activity status (
+e.g.
+walking
+,
+pre-sleep state, wake-up mood
+,
+sleeping
+and etc.
+). When you use female health function, the information provided by you will be collected, such as duration of menstruation, menstruation interval, the starting date of your latest menstruation, the starting date and ending date of your menstruation, physical condition and mood during menstruation.
+Visitor Information:
+When using the visitor function of our smart scale, a visitor can experience our products and certain limited services. The data of the visitor (gender, height, date of birth) may be collected and used to calculate and present the results of certain services the visitor experiences. You can choose to save the visitor information or not,
+if you choose to
+save
+, the visitor
+’
+s
+gender, height, date of birth
+and weight will be
+collected
+by us.
+Other Information:
+We may also collect other types of information which is not directly or indirectly linked to an individual and which is aggregated, anonymized or de-identified. For example, the device function, system status, battery status, Startup & Shutdown status, charging status and connecting status of smartphone of your device may be collected when using a particular service. Such information is collected in order to improve the services we provide to you.
+HOW THE PERSONAL INFORMATION IS USED
+We acquire, hold, use and process personal information for a variety of business purposes including for providing services and/or products to you, to respond to information requested and to fulfill legal compliance on our part under applicable laws. We may also process and disclose personal information to our affiliated companies and to third-party service providers for the purposes stated in this Privacy Policy.
+To Provide Products, Services, or Information Requested
+. We may use information about you to fulfill requests for products, Services, or information, including:
+Providing, processing, maintaining, improving and developing our goods and/or services to you, including after-sales and customer support and for services on your device;
+Communicating with you about your device, service or any general queries or other requests and comments, such as updates, customer inquiry support, information about our events, notices;
+Providing access to certain areas, functionalities, and features of our products and services;
+Conducting promotional activities, such as sweepstakes and Facebook events;
+Analyzing and developing statistical information on the use of our products and services to better improve our products and services;
+Optimizing the performance of your device;
+Storing and maintaining information about you for our business operations or legal obligations; and
+Providing local services without communicating with our servers.
+A
+dministrative Purposes.
+We may use personal information about you for administrative purposes, including to:
+Measure interest in our services;
+Develop new products and services;
+Ensure internal quality control;
+Verify your identity;
+Communicate about accounts and activities on our services and systems, and, in our discretion, changes to any of our policies;
+Send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance;
+Prevent potentially prohibited or illegal activities; and
+Enforce our
+Service Agreement and/or Privacy Policy
+.
+Marketing Our Products and Services
+.
+If
+permitted by applicable laws, we may use your personal information, such as
+your email address,
+a
+ccount ID,
+to provide you with materials directly or through third-party service provider(s) about offers, products, and services, including new content or services. We may provide you with these materials by phone, postal mail, facsimile, or email, or as otherwise permitted by applicable law. Such uses include:
+To notify you about offers, products, and services that may be of interest to you;
+For other purposes disclosed at the time that individuals provide personal information; and
+Otherwise with your consent.
+You have the right to opt out of our proposed use of your personal information for direct marketing. If you no longer wish to receive certain types of email communication you may opt-out by following the unsubscribe link located at the bottom of each communication.
+Research and Development
+. We may use personal information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and services or develop new products and services and we may share these statistics with the public or third parties in order to present the preference
+and
+trend analysis.
+Services via Mobile Devices (only in certain feature)
+. From time to time, we may provide products and services that are specifically designed to be compatible and used on mobile devices. We will collect certain information that your mobile device sends when you use such products and services, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Mobile versions of our products and services may require that users log in with an account. In such cases, information about use of mobile versions of the products and services may be associated with accounts. In addition, we may enable you to download an application, widget, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit personal information to us to enable you to access your accounts and to enable us and our third-party service providers to track use of these tools. Some of these tools may enable users to transmit reports and other information from the tool. We may use personal or non-identifiable information transmitted to us to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices we provide.
+De-identified, Anonymous and/or Aggregated Information Use
+. We may use personal information and other information about you to create de-identified, anonymized and/or aggregated information, such as de-identified demographic information, de-identified location information, information about the mobile phone or device from which you access
+Zepp
+App
+, or other analyses we create. De-identified, anonymized and/or aggregated information is not personal information, and we may use such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes.
+Improving User Experience.
+Some opt-in features allow us or our third party partners to analyze data about how users use our products and services, so as to improve the user experience, such as sending crash reports.
+Specific Ways Personal Information is Used in Products and Services
+. Here are more details on how we may use your information (which may include personal information):
+To
+Set Up Your Account for
+Zepp
+App
+. Personal information collected when creating an account through our
+Zepp
+App is used for creating the personal account and profile page for the user.
+To
+Calculate Exercise Results.
+Personal body information is used to accurately calc
+ulate and display the exercise result to you, such as, exercising records,
+distance,
+exercising time, total duration, burned
+calories,
+consumption,
+pace, speed, maximum oxygen uptake
+(VO2 Max)
+,
+exercise capacity, training
+effects.
+Physical Analysis.
+Based on the personal
+information
+you provided and the data recorded by the
+device
+, we will provide you an analysis related to your physical condition for your reference,
+such as PAI,
+BMI, muscle mass, body fat percentage,
+water percentage
+, protein, basal
+metabolic rate
+,
+subcutaneous fat, skeletal muscle mass,
+visceral fat level, bone mass content,
+pressure,
+body shape, body age
+.
+Sleep Analysis.
+Based on the personal
+information
+you
+have
+provided and the data recorded by the
+device, such as PPG, heart rate, we will
+record your naps, sleep time, sleep breathing and
+provide you a sleep score and sleep analysis related to your
+sleep quality
+for your reference.
+To
+Provid
+e
+World Clock Service.
+When you add
+a
+world clock
+in
+Zepp
+A
+pp, we will calculate the local time corresponding to your selected area based on the time at your mobile phone and display it
+in
+Zepp App
+and
+the bundled
+devices that support the world clock function.
+To
+Provid
+e
+Alarm Clock Service:
+when you use alarm clock function, your alarm clock information will be displayed in
+Zepp
+App and the bundled device.
+To
+P
+rovide
+V
+oice
+Related
+S
+ervice
+:
+W
+hen you use off-line or on-line voice assistant function
+(only supported by certain device in certain countries/areas), such as Alexa, we will collect your voice request, for the purpose of carrying out your
+orders
+.
+Your voice information may also be used to provide voice memo service to you.
+To
+Provid
+e
+Female Health Service.
+When you use female health function, certain information related to menstrual period will be recorded and displayed in
+Zepp
+App or on some devices that support this function. If you turn on the physiological period intelligent prediction mode, we will predict your menstrual period and remind you based on the information you provided.
+To
+Provid
+e
+Blood Oxygen Saturation M
+easur
+ement Function.
+When you turn on the blood oxygen
+measur
+ement function, we will collect your blood oxygen saturation
+information to show the value to you or to assist providing a sleeping analysis to you.
+To
+Provid
+e
+Notification Reminder Service.
+W
+hen you enable the notification reminder function, the reminder information you set in the
+Zepp
+App will be pushed to the
+bundled
+device.
+To
+Provid
+e
+Bluetooth Camera Function.
+W
+hen you use Bluetooth camera function, your mobile phone will be connected with the device through Bluetooth for controlling the camera.
+To
+Provid
+e
+Zepp
+App Services.
+When you connect certain devices with
+Zepp
+App, the information collected through the device will be shown to user.
+To
+P
+rovide
+eSIM
+(embedded SIM)
+F
+unction.
+(only supported by certain device
+s
+and in certain countries/areas)
+. After you successfully activate eSIM with telecom carriers, you may use the device alone to call or receive a call, to send or receive SMS
+(SMS service is subject to local telecom carriers). When you use eSIM function, we will collect your operation records. Your phone number, call records, short messages will be stored in the device, but if you choose to upload th
+is
+information together with the log, th
+is
+information will be uploaded and stored in our cloud.
+To Display Caller Information.
+When you receive a call, text messages, caller information will be displayed on the device.
+You may even answer or reject a phone call by the device directly (only supported by certain devices).
+To P
+rovide Bluetooth
+P
+hone
+S
+ervices
+(only supported by certain devices)
+.
+With the device successfully paired with your mobile phone
+’
+s Bluetooth, when you receive an incoming call, the incoming call information will be displayed on the device. You can even use the device to answer or hang up the call. If you have missed calls, the relevant information will also be displayed on the device. You may add or delete your frequent contacts information in Zepp App. The frequent contacts information added by you will be bound to your account and synchronized to the device and our cloud.
+To Display Music Information.
+When you use music control function,
+the
+music
+information
+(
+name
+of
+song,
+singer, volume, the status of song) will be displayed on the device.
+To Provide AI Sleep Melody Service.
+When you use AI Sleep Melody service, we will collect and use your personal information, such as heart rate, activity data, sleep data and your music reference to recommend sleep melodies to you.
+To Provide
+H
+earing Health Function
+(only supported by certain
+earphone
+)
+. If you turn on this function, we will collect your earphone volume in real time and recommend listening time for the current week based on the hearing protection standards established by the World Health Organization (WHO).
+To Provide Cervical Protection Function
+(only supported by certain
+earphone
+)
+. If you turn on this function, the earphone sensor will detect and present you with habitual head-lowering angle. If you turn on the relax prompt, the earphone will play music to remind you to relax your spine for long periods of time.
+To Provide Noise Control Function
+(only supported by certain
+earphone
+)
+.
+When you turn on ANC function, we will collect and cancel ambient sound in accordance with the mode set by you.
+To Provide Tap for Report Function
+(only supported by certain
+earphone
+)
+. If you turn on this function, we will collect your current speed, heart rate and other workout information. By simply taping the earphone, this information will be broadcasted to you.
+T
+o Determine Whether the Mobile Phone is Supported.
+Phone information will be used to determine if your device can use
+Zepp
+App.
+To M
+easure the
+T
+emperature
+(only supported by certain devices)
+.
+The device will measure the temperature and display the data to you.
+To
+Provid
+e
+Network Related Services.
+We use network types, network signals, etc. to prompt the user to download updates in different network environments.
+Certain devices
+(such as
+Amazfit smart
+scale)
+can directly connect to the server via WLAN, and upload your measurement (such as your weight, body fat,
+BMI
+and etc.) and the device identifier to the cloud accessible in the Zepp
+A
+pp.
+To
+Provid
+e
+Off-wrist Lock Function.
+Your device unlock password will be used to the off-wrist lock function. If you turn on this function, your device will be locked when the device detects that it is off-wrist. If the wrong password is entered on the device more than a certain number of times, your device will be locked up. To unlock the device, you need to change the device unlock password or restore the Factory Settings on device in
+Zepp
+App.
+To Share Information with Friends.
+Our services may offer various tools and functionalities. For example, our products and services may allow you to forward or share certain information with friends.
+To Provide Location-based Services.
+In the course of using our services, location information may also be used by us or third-party service providers to provide and improve our services. For example, we may use your GPS information to provide you with weather details, calculating the distance of your outdoor sporting or mapping such activity. You may turn this off at any time by going into the device settings of your mobile devices or discontinue use of that application.
+To
+Optimize Our Products and Services.
+We
+use your personal information, such as, Huami ID, log information, debug information, the information automatically collected to provide functionality, analyze performance, fix errors, and improve
+the quality of our products and services
+.
+For example, we may use these information to
+optimiz
+e
+pages/function display, determining the importance of each product function, guiding us to adjust the priority of the development of product features.
+To
+Manage Devices.
+This information provides the ability to manage the bundled devices.
+To
+Improve Software Stability.
+We
+collect crash logs for analyzing software quality to provide better service.
+To
+Improve Device Stability.
+We may use the information to improve the bundled devices.
+To Send Notices.
+From time to time, we may use your personal information to send important notices, such as communications about changes to our terms, conditions, and policies.
+COOKIES AND OTHER TECHNOLOGIES
+We, as well as our third-party service providers that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, and other technologies
+(“
+Technologies
+”) to automatically collect information through the Services.
+We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices that allow us to record certain pieces of information whenever you visit or interact with our websites, services, applications, messaging, and tools, and to recognize you across devices.
+·
+What Information is Collected and How We Use Them
+:
+Technologies such as cookies, tags, and scripts are used by us and our third-party service providers. These Technologies are used in analyzing trends, administering the website, tracking users’ movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+·
+Cookies
+. Cookies are small text files placed in visitors’ device browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the website may not work properly.
+·
+Pixel Tags/Web Beacons
+. A pixel tag (also known as a web beacon) is a piece of code embedded on the website that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
+·
+Social Media Widgets:
+Our products, services and website may include social media features such as connectivity with Facebook,
+Google
+,
+Twitter, Strava, Line (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our website, and may set a cookie/or use some device or location information to enable the feature to function properly. These social media features are either hosted by a third party or hosted directly by us. Your interactions with these features are governed by the privacy policy of the company providing it.
+·
+Log Files:
+As true of most websites, we gather certain information and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+·
+Mobile Analytics:
+Within some of our mobile applications, we use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where crashes occur within the application.
+·
+Local Storage –
+HTML5:
+We use Local Storage Objects (LSOs) such as HTML5 to store content and preferences. Third parties with whom we partner to provide certain features on our websites or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tool for removing HTML5 LSOs.
+·
+Website Analytics
+. We may use Technologies and other third-party tools to process analytics information on our Services (e.g., Google Analytics).
+For more about Google Analytics information, please visit
+Google Analytics’ Privacy Policy
+.
+To learn more about how to opt-out of Google Analytics’ use of your information on our website, please click
+here
+.
+Our Uses of Such Technologies Fall into the Following General Categories:
+·
+Operationally Necessary
+. We may use cookies, or other similar technologies that are necessary to the operation of our services, applications, and tools. This includes technologies that allow you access to our services, applications, and tools; that are required to identify irregular website behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions;
+·
+Performance Related
+. We may use cookies, or other similar technologies to assess the performance of our websites, applications, services, and tools, including as part of our analytic practices to help us understand how our visitors use our websites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our website content, applications, services, or tools;
+·
+Functionality Related
+. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our websites, services, applications, or tools. This may include identifying you when you sign into our websites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our websites;
+If you would like to opt out of the Technologies we employ on our websites, services, applications, or tools, you may do so by blocking, deleting, or disabling them as your browser or device permits.
+THIRD PARTY WEBSITES, SOCIAL MEDIA PLATFORMS AND SOFTWARE DEVELOPMENT KITS
+Our App may contain links to other websites and other websites may reference or link to our website, products or other services. These other domains and websites are not controlled by us, and we do not endorse or make any representations about third-party websites or social media platforms.
+We encourage you to read the privacy policies of each and every website and application with which you interact. We do not endorse, screen or approve and are not responsible for the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
+The website and our other services may also contain links and interactive features with various social media platforms (e.g., widgets). If you already use these platforms, their cookies may be set on your device when using our website or other services. You should be aware that personal information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the personal information provided by you may be viewed and used by third parties for any number of purposes.
+We may also use third party APIs and/or software development kits (“SDKs”) as part of the functionality of our products and services. APIs and SDKs may allow third parties (including advertisers) to collect your personal information to provide services and content that is more relevant to you.
+HOW WE SHARE YOUR INFORMATION
+We may disclose your personal information on occasion to third parties (as described below) in order to provide the products or services that you have requested.
+Disclosure may be made to third-party service providers and affiliated companies listed in this section below. In each case described in this section, you can be assured that we will only share your personal information in accordance with this Privacy Policy and the applicable terms that govern your use of our services. We will engage sub-processors for the processing of your personal information. You should know that when we share your personal information with a third-party service provider under any circumstance described in this section, we will contractually specify that the third party is subject to practices and obligations to comply with applicable local data protection laws. We will contractually ensure compliance by any third-party service providers with the privacy standards that apply to them in your home jurisdiction.
+ONWARD TRANSFER: SHARING WITH OUR GROUP, THIRD PARTY SERVICE PROVIDERS AND OTHERS
+In order to conduct business operations smoothly in providing you with the full capabilities of our products and services, we may disclose your personal information from time to time to our affiliated companies.
+We may also share your information as described in this Privacy Policy with our third-party service providers, to comply with legal obligations, to protect and defend our rights and property or with your permission.
+Our third-party service providers include, without limitation, our mailing houses, delivery service providers, telecommunications companies, data centers, data storage facilities, customer service providers, advertising and marketing service providers. Such third-party service providers will be processing your personal information on our behalf or for one or more of the purposes listed herein.
+·
+Vendors and Service Providers
+. We may share any information we receive with vendors and service providers. The types of service providers (processors) to whom we entrust personal information include service providers for: (i) provision of IT and related services; (ii) provision of information and services you have requested; (iii) customer service activities; and (iv) in connection with the provision of the products, services and website. We have executed appropriate contracts with the service providers that prohibit them from using or sharing personal information except as necessary to perform the contracted services on our behalf or to comply with applicable legal requirements.
+·
+Third-Party Services
+. You may choose to share personal information with other third-party services (e.g., Strava
+,
+Wechat, Google Fit, Relive
+).
+Once your personal information has been shared with a third-party service, it will also be subject to the third-party service’s privacy policy. We encourage you to closely read each third-party service’s privacy policy before sharing your personal information with them. Please note that we do not control and we are not responsible for the third-party service’s processing of your personal information.
+·
+Business Partners
+. We may share personal information with our business partners to provide you with a product or service that you have requested. We may also provide personal information to business partners with whom we may jointly offer products or services, or whose products or services we believe may be of interest to you. In such cases, our business partner’s name will appear, along with us. We require our business partners to agree in writing to maintain the confidentiality and security of personal information they maintain on our behalf and not to use it for any purpose other than the purpose for which we provided them.
+·
+Affiliates.
+We may share your personal information with our company affiliates for the purposes set forth in this Privacy Policy, including our administrative purposes, activities such as IT management, or for them to provide services to you or support and supplement the services we provide.
+·
+Displaying to
+Your Friends
+.
+With your prior consent, we may share your personal information, such as, steps, weight, calories burned, sleep data to your friends
+.
+·
+Disclosures to Protect Us or Others as Required by Law and Similar Disclosures.
+We may access, preserve, and disclose your personal information, other account information, and content if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena
+(including in a country other than your home country)
+; (ii) respond to your requests; (iii) protect your, ours or others’ rights, property, or safety; (iv) to enforce our policies or contracts; (v) to collect amounts owed to us; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable.
+·
+Merger, Sale, or Other Asset Transfers.
+If we are involved in a merger, acquisition,
+financing due diligence, reorganization, bankruptcy, receivership, transition of service to another provider
+or asset sale of all or a portion of our assets,
+then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract.
+You will be notified via email and/or a prominent notice on our website or in the Zepp App of any changes in ownership, uses of your personal information, and choices you may have regarding your personal information.
+We will endeavor to direct the transferee to use personal information in a manner that is consistent with the Privacy Policy in effect at the time such personal information was collected.
+SECURITY SAFEGUARDS
+We are committed to ensuring that your personal information is secure, and we will take all practicable steps to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure, and for this reason we cannot guarantee the security or integrity of any personal information we process.
+To prevent unauthorized access, disclosure or other similar risks and to comply with applicable privacy and security laws in the countries in which we operate, we have put in place reasonable administrative, technical and physical controls and procedures designed to safeguard and secure the information we collect from your use of our products and services. We will use reasonable efforts designed to safeguard your personal information.
+For example, when you access your
+a
+ccount, you can choose to use our two-step verification process for better security. When you send or receive data from your device to our servers, we make sure they are encrypted using Secure Sockets Layer ("SSL") and other algorithms.
+All your personal information is stored on secure servers that are protected in controlled facilities. We classify your data based on importance and sensitivity, and endeavor to ensure that your personal information has an appropriate security level.
+The files and records containing your personal information will be kept in our offices and/or on our servers or those of our service providers and only those employees that require it for the purposes of their duties will have access to this file. We have also implemented controls to require that our third-party service providers and partners have appropriate safeguards designed to protect your personal information as well.
+We make sure that our employees and third-party service providers who access the information to help provide you with our products and services are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet such obligations. In some cases, we have special access controls for cloud-based data storage as well. All in all, we regularly review our information collection, storage and processing practices, including physical security measures, in an effort to guard against any unauthorized access and use.
+However, despite these efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed to prevent any interception or other type of misuse. We also depend on you to protect your information. If you become aware of any breach of security or privacy, please notify us immediately. To the fullest extent permitted by applicable law, we do not accept liability for unauthorized disclosure.
+By using our products and services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the website or through the product or service and/or by sending an e-mail to you. You may have a legal right to receive this notice in writing.
+WHAT YOU CAN DO
+·
+You can play your part in safeguarding your personal information by not disclosing your login password or account information to anybody unless such person is duly authorized by you. Whenever you log in the Zepp App, particularly on somebody else's mobile
+phones
+or on public Internet terminals, you should always log out at
+the end of your session.
+·
+We cannot be held responsible for lapses in security caused by third party accesses to your personal information as a result of your failure to keep your personal information private. Notwithstanding the foregoing, you must notify us immediately if there is any unauthorized use of your account by any other Internet user or any other breach of security. Your assistance will help us protect the privacy of your personal information.
+YOUR PRIVACY CHOICES AND RIGHTS
+YOUR PRIVACY CHOICES
+The privacy choices you may have about your personal information are determined by applicable law and are described below.
+Mobile devices
+We may occasionally send you push notifications through our mobile applications with version updates and other notices that may be of interest to you. You may at any time opt-out from receiving these types of communications by changing the settings on your mobile device. We may also collect location-based information if you use our mobile applications. You may opt-out of this collection by changing the settings on your mobile device.
+“Do Not Track”
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
+Cookies
+As noted herein, you may stop or restrict the placement of cookies and other technologies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
+To be clear, cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out. For example, if you have opted-out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt-out on each device.
+ACCESSING OTHER FEATURES ON YOUR DEVICE
+Our applications may need access to certain features on your device such as Wi-Fi network status. This information is used to allow the applications to run on your device and allow you to interact with the applications. At any time you may revoke your permissions by turning these off at the device level and/or contacting us
+via
+https://www.zepp.com/privacy-support
+.
+CONTROLLING SETTINGS FOR PRODUCTS AND SERVICES
+We recognize that privacy concerns differ from person to person. Therefore, we provide examples of ways we make available for you to choose to restrict the collection, use, disclosure or processing of your personal information and control your privacy settings:
+·
+Log in and out of the account;
+·
+Toggle on/off for other services and functionalities which deal with sensitive or personal information.
+If you have previously agreed to us using your personal information for the abovementioned purposes, you may change your mind at any time through your device or privacy settings as described above. If you have any questions, please
+contact
+us
+via
+https://www.zepp.com/privacy-support
+.
+RETENTION POLICY
+We retain personal information we receive as described in this Privacy Policy for as long as you use our products, services and websites or as necessary to fulfill the purpose(s) for which it was collected, provide our services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws. We shall cease to retain personal information, or remove the means by which the personal information can be associated with particular individuals, as soon as it is reasonable to assume that the purpose for which that personal information was collected is no longer being served by retention of the personal information.
+If further processing is for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes according to the applicable laws, the data can be further retained by us even if the further processing is incompatible with original purposes in certain jurisdictions.
+YOUR PRIVACY RIGHTS
+In accordance with applicable law, you may have the right to:
+·
+Access Personal Information
+about you, including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information;
+·
+Request Correction
+of your personal information where it is inaccurate, incomplete or outdated. In some cases, we may provide self-service tools that enable you to update your personal information;
+·
+Request Deletion or Anonymization
+of your personal information when processing is based on your consent or when processing is unnecessary, excessive or
+non-compliant
+;
+·
+Request Restriction or Blocking of or Object
+to
+our
+processing of your personal information;
+·
+Withdraw Your Consent
+to our processing of your personal information. If you refrain from providing personal information or withdraw your consent to processing, some features of our Service may not be available;
+·
+Request Data Portability
+and
+receive an electronic copy of personal information that you have provided to us
+;
+·
+Be Informed
+about third parties with which your personal information has been shared; and
+·
+Request any review
+of decisions which may have been taken exclusively based on automated processing
+if that could affect data subject rights.
+If you would like to exercise any of these rights, please contact us as set forth in “Contact Us” below. We will process such requests in accordance with applicable laws.
+STORAGE AND TRANSFER OF PERSONAL INFORMATION
+Currently, we have data centers in China, the United States, Singapore, Russia, India and Germany.
+If you are a Chinese mainland user, your personal information is stored in data centers located in mainland China, except for cross-border transmissions as permitted by applicable laws. If you are a European Economic Area (“EEA”) user, your personal information is stored in data centers located in Germany, except for cross-border transmissions as permitted by applicable laws. If you are a Russian user, your personal information is stored in data centers located in Russia, except for cross-border transmissions permitted under Russian law. If you are an Indian user, your personal information is stored in data centers located in India, except for cross-border transmissions as permitted by Indian laws. If you are a United States or Canadian user, your personal information is stored in data centers located in United States. For users who use our products and services in other territories, your personal information may be stored in data centers located in Germany, Singapore or the United States in accordance with applicable laws.
+To the extent that we may need to transfer personal information outside of your jurisdiction, whether to our affiliated companies or Third Party Service Providers, we shall do so in accordance with the applicable laws. For example, when we transfer your personal information to countries outside the EEA, we do so under the European Commission’s model contracts for the transfer of personal data to third countries (i.e. standard contractual clauses) or in line with any replacement mechanism approved under EU law. In particular, we will ensure that all transfers will be in accordance with requirements under your applicable local data protection laws by putting in place appropriate safeguards. You will have the right to be informed of the appropriate safeguards taken by us for this transfer of your personal information.
+We may use overseas facilities operated and controlled by us to process or back up your personal information. You understand that your personal information collected via or by us may be stored outside of your jurisdiction. These overseas jurisdictions may or may not have in place data protection laws which are substantially similar to that in your home jurisdiction. You have understood that the risks under applicable data protection laws are different and we may transfer to and store your personal information at our overseas facilities. However, this does not change any of our commitments to safeguard your personal information in accordance with this Privacy Policy. Your personal information may be accessible to law enforcement or other authorities pursuant to a lawful request. By providing information to us, you consent to the storage of your personal information in these locations.
+MINORS/CHILDREN’S PRIVACY
+Our products and services are not directed to children under 16 (and in certain jurisdictions under the age of 13) years of age
+.
+We don’t seek or intend to seek to receive any personal information from minors. Should a parent or guardian have reasons to believe that a minor has provided us with personal information without their prior consent, please contact us to ensure that the personal information is removed and the minor unsubscribes from any of the applicable services.
+If we learn that we have collected any personal information from children under 16 (and in certain jurisdictions under the age of 13) and we do not obtain permission from a parent, we will promptly take steps to delete such information and terminate the minor’s account.
+UPDATES TO THE PRIVACY POLICY
+We keep our Privacy Policy under regular review and may update this Privacy Policy to reflect changes to our information practices.
+You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you use the products or services after the updated Privacy Policy is posted. If, at any point, you do not agree to any portion of the Privacy Policy then in effect, you must immediately stop using the products and services.
+If we make material changes to our Privacy Policy, we will notify you by email (sent to the e-mail address specified in your account) or post the changes in our App. Such changes to our Privacy Policy shall apply from the effective date as set out in the notice or in our App. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of products and services on mobile phones and/or any other device will be taken as acceptance of the updated Privacy Policy.
+Before we use personal information for any new purpose not originally authorized by you, we will endeavor to provide information regarding the new purpose and give you the opportunity to opt-out. Where your consent for the processing of personal information is otherwise required by law or contract, we will endeavor to comply with the law or contract.
+THIRD PARTY TERMS AND CONDITIONS
+Our Privacy Policy does not apply to products and services offered by a third party. Our products and services may include third parties’ products, services and links to third parties’ websites. When you use such products or services, they may collect your information too. For this reason, we strongly suggest that you read the third party’s privacy policy as you have taken time to read ours. We are not responsible for and cannot control how third parties use personal information which they collect from you. Our Privacy Policy does not apply to other websites linked from our services.
+OUR
+APPROACH TO MANAGE YOUR PERSONAL INFORMATION UNDER GDPR
+If you are a European Union user under GDPR, we will provide a systematic approach to managing personal information through our people, management processes and information systems by applying a risk management methodology. According to the GDPR, for instance, (1) we set up a Data Protection Officer (DPO) in charge the data protection, and the contact of the DPO is dpo@
+zepp
+.com, (2)
+We designated a representative in Europe, a professional attorney with data protection experience, and the contact of representative is representative.huami@herrero.es and (3) a procedure for conducting data protection impact assessments.
+SUPERVISORY AUTHORITY
+If you are located in the European Economic Area, Switzerland, the United Kingdom or Brazil, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
+REDRESS/COMPLIANCE AND ACCOUNTABILITY
+We are the controller of the personal information we process, unless otherwise stated. For information on how to contact us, please refer to “
+Contact Us
+” below.
+If you have any questions about our privacy practices or this Privacy Policy, please contact us
+via
+https://www.zepp.com/privacy-support
+. We will address your concerns and attempt to resolve any privacy issues in a timely manner.
+CONTACT US
+If you have any comments or questions about this Privacy Policy or any questions relating to our collection, use or disclosure of your personal information, please contact
+us
+at the address below referencing "Privacy Policy":
+Anhui Huami Information Technology Co., Ltd.
+Attn: Data Protection Officer
+7/F, Building B2, Huami Global Innovation Center, No. 900,Wangjiang West Road, High-tech Zone, Hefei City, China (Anhui) Pilot Free Trade Zone.
+Thank you for taking the time to understand our Privacy Policy!
+SUPPLEMENTAL CALIFORNIA ADDENDUM TO THIS PRIVACY POLICY
+This Supplemental California Addendum to this Privacy Policy (“
+California Addendum
+”) supplements and should be read in conjunction with this Privacy Policy. This California Addendum
+only applies to our processing of personal information that is subject to the California Consumer Privacy Act of 2018 (“
+CCPA
+”). The CCPA provides California residents with the right to know what categories of personal information
+we
+have collected about them and whether
+we
+disclosed that personal information for a business purpose (e.g., to a service provider) in the preceding twelve months. California residents can find this information below:
+Category of Personal Information Collected by
+Us
+Categories of Third Parties Personal Information is Disclosed to for a Business Purpose
+Identifiers
+such as alias, unique personal identifier, online identifier, IP address, email address, account name or other similar identifiers.
+·
+Service providers
+·
+Affiliates
+·
+Other users or third-party services you share or interact with
+Personal information categories listed in Cal. Civ. Code § 1798.80(e)
+·
+Service providers
+·
+Affiliates
+·
+Other users or third-party services you share or interact with
+Commercial information
+such as records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+·
+Service providers
+·
+Affiliates
+Biometric Info
+such as an individual’s physiological, biological, or behavioral characteristics, that can be used, singly or in combination with each other or with other identifying data, to establish individual identity. Biometric information includes, but is not limited to, gait patterns or rhythms, and sleep, health, or exercise data that contain identifying information.
+·
+Service providers
+·
+Affiliates
+Internet or other electronic network activity information
+such as browsing history, search history and information regarding a consumer's interaction with a website, application, or advertisement.
+·
+Service providers
+·
+Affiliates
+·
+Other users or third-party services you share or interact with
+Geo
+-
+location
+such as physical location or movements.
+·
+Service providers
+·
+Affiliates
+·
+Other users or third-party services you share or interact with
+Inferences drawn from other personal information to create a profile about a consumer
+·
+Service providers
+·
+Affiliates
+The categories of sources from which we collect personal information and our business and commercial purposes for using personal information are set forth above in the relevant sections of this Privacy Policy.
+Additional Privacy Rights for California Residents
+·
+“Sales” of Personal Information under the CCPA.
+For purposes of the CCPA, we do not “sell” personal information, nor do we have actual knowledge of any “sale” of personal information of minors under 16 years of age.
+·
+Non-Discrimination.
+California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.
+·
+Authorized Agent.
+Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. To designate an authorized agent, please contact us as set forth below.
+·
+Verification
+.
+When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include confirming the email address associated with any personal information we have about you.
+If you are a California resident and would like to exercise any of your rights under the CCPA, please contact us as set forth below. We will process such requests in accordance with applicable laws.
+SUPPLEMENTAL NEVADA ADDENDUM TO THIS PRIVACY POLICY
+This Supplemental Nevada Addendum to this Privacy Policy supplements and should be read in conjunction with this Privacy Policy.
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties who intend to license or sell that personal information. You can exercise this right by contacting us
+via
+https://www.zepp.com/privacy-support
+with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your personal information as sales are defined in Nevada Revised Statutes Chapter 603A. If you have any questions, please contact us as set forth in “Contact Us” above.
+SUPPLEMENTAL SOUTH KOREA ADDENDUM TO THIS PRIVACY POLICY
+This Supplemental South Korea Addendum to this Privacy Policy (“
+South Korea Addendum
+”) supplements and should be read in conjunction with this Privacy Policy. This South Korea Addendum describes our practices regarding privacy and the collection and use of personal information of its users and customers residing in South Korea.
+Items of Personal Information Collected and Methods of Collection
+Items of personal information collected
+:
+Types of Personal Information
+Items of Personal Information to be Collected and Used
+Mandatory Items
+-
+[Automatic Data Collection: Internet protocol (IP) address, MAC address, hardware type, operating system.]
+-
+[Information about You:
+Mi, WeChat, Google, Line or Facebook accounts (with your approval), gender, time zones, languages, avatars,
+birthday, country/region and email address.]
+-
+[Personal Body Information: height, weight, BMI, muscle mass, water percentage, protein, basal metabolic rate, subcutaneous fat, skeletal muscle mass, visceral fat level, bone mass content, pressure, body shape, body age.]
+-
+[Information Recorded by User’s Device: period of excising, distance, duration, consumption, heart rate, PPG data, ECG data, volume of earphone, ambient sound, activity information, pace, speed, altitude, stride frequency, stride length,
+stress,
+swimming strokes,
+stroke rate, number of trips, average stroke distance,
+stroke length, excising frequency, stroke times, stroke velocity, swolf index, stroke speed and number of floors climbed, number of jumping rope, calories burned, exercise capacity, number of steps and sleep data.]
+-
+[Device Setting Information: unit settings, band wearing settings.]
+-
+[Device Application Setting Information: device system setting, excising functional setting, targets.]
+-
+[Device Information: device ID, device size,
+MAC address,
+serial number, firmware version, and the operating system version of your mobile phone, brand and model
+.]
+Optional Items
+-
+[Communications with Us:  email address, phone number]
+-
+[Automatic Data Collection
+:
+cookie identifiers, mobile carrier and other device identifiers that are automatically assigned to your device when you access the Internet, browser type and language, unique identifier(IDFA, IMEI),
+device name
+,
+system time,
+system version, region & language, installation package name, App version, network status, source of App, device battery, Bluetooth status
+,
+Bluetooth information, geo-location information, Internet service provider, pages that you visit before and after using the services, the date and time of your visit, the amount of time you spend on each page, information about the links you click and pages you view within the services, and other actions taken through use of the services such as preferences.]
+-
+[Information about You:
+phone number,
+and nicknames.]
+-
+[Information Recorded by Your Device: body fat, steps, stand-up times, PAI scores, naps, sleep breathing, blood oxygen saturation, REM, the time length of one-legged standing with eyes closed testing and the time of measuring, resistance value, maximum oxygen uptake,
+training
+effects, sports loading, temperature, weather type, air pressure, altitude,
+latitude, longitude,
+movement track.
+]
+-
+[Device Setting Information:
+gesture settings, dial layout settings, status of notification.]
+-
+[Device Application Setting Information:
+target of excising, target of weight, target of calories, target of sleep, alarm settings, training plan.]
+-
+[Caller Information:
+phone number, call records, frequent contacts information, operation records,
+SMS or other text messages. your phone calls, SMS, and messages can push from a third party app (like WeChat) to your bundled devices.]
+-
+[
+Music Information
+:
+name of song, singer, the status of song]
+-
+[Device Unlock Information: device unlock password]
+-
+[Information from Friends: the
+weight,
+activity and sleep information of user’s friends]
+-
+[
+Visitor Information: gender, height, date of birth]
+-
+[Network Usage Information: network types, network signals, WLAN information and other similar information related to certain features of the Zepp
+App
+.]
+-
+[Location information:
+GPS information.]
+-
+[Log Information:
+operating information, hit log, firmware clicking statistics, server log, App log, device log, IP address, browser type, browser language, refer source page, operating system, date / time stamp, and clickstream data.
+]
+-
+[
+Crash Information: debug log file.]
+-
+[
+Information Submitted via Services: voice information, menstruation information, reminder setting or tags]
+Methods of collection
+: We may collect your personal information directly from you by your entering the information through application or from your bundled device. We may also collect your personal information from third-party service provider, or using generated information gathering tools.
+Period of Retention and Use of Personal Information
+Your personal information will be retained and used until the purpose of collecting and using has been achieved. If necessary under applicable law, it may also be retained for a period prescribed by the applicable law.
+In principle, when the purposes of collection and use of your personal information are achieved,
+we
+will destroy the personal information without undue delay. You may at any time
+request to delete your personal information or withdraw your consent to the collection and use of your personal information by sending an e-mail to us. In such case, we will
+destroy your personal information in a timely manner.
+However, if any personal information is required to be retained under applicable law, such information will be retained for the period and purpose as prescribed by law.
+Provision of Personal Information to Third Parties
+With your prior written consent, we
+may
+provide your personal information to third parties as described below:
+Name of Recipient (contact info.)
+Country where the Recipient is located
+Items of Personal Information provided
+Purpose of Use by Recipient
+Period of Retention and Use by Recipient
+Strava (Strava Inc)
+United States
+period of ex
+erci
+sing, distance, altitude, speed, pace, heart rate, stride frequency, stride length
+Synchronize data to Strava
+Determined by user, from user authorize Strava to synchronize the data to user cancel the authorization
+.
+Process and Method of Destruction of Personal Information
+Personal information, which has fulfilled the purpose for which it was collected or used, and has reached the period of time during which personal information was to be possessed, will be destroyed in an irreversible way. After the expiration of the applicable period, information under the obligation of retention by applicable laws will be promptly destroyed in an irreversible way. Personal information stored in electronic files will be deleted safely in an irreversible way by using technical methods, and printed information will be destroyed by shredding or incinerating such information. Furthermore, in compliance with applicable laws, measures will be taken to destroy or separate the personal information of the users who have not used our services for a period of one year.

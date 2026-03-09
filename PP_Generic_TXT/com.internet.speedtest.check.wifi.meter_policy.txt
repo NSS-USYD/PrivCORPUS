@@ -1,0 +1,210 @@
+Privacy Policy for Speedtest Master IOS
+Last Update: Mar 12th, 2021
+1.Introduction
+Hangzhou AtlasV Technology Co., Ltd.
+(hereinafter referred to as “
+AtlasV
+”, “
+we
+” or “
+us
+”) takes your privacy very seriously, and we are committed to protecting and respecting your privacy. That value powers all of the decisions we make, including how we collect, use, share, store and respect your personal data. Please read this Privacy Policy carefully so that you can make appropriate decisions on an informed and freely given basis.
+2.Scope
+This Privacy Policy applies to users of our
+SpeedTest Master APP
+(hereinafter referred to as “
+the APP
+” or “
+Our APP
+”). This Privacy Policy specifically applies to individuals who receive services provided by us through the APP or in relation to the APP.
+It is important that you read this Privacy Policy together with any other privacy policy or fair processing policy we may provide on specific occasions, so that you are fully aware of when, why and how we collect and process your personal data.  This Privacy Policy supplements other notices and privacy policies and is NOT intended to override them.
+Unless otherwise prescribed in the Privacy Policy, the terms in the Privacy Policy shall have the same implications with the terms in the
+Terms of Service
+.
+PLEASE NOTE THAT,
+this Privacy Policy does
+NOT
+apply to the following cases:
+•Any information or personal data collected by any third party services, products, applications, websites and/or platforms, regardless whether they are accessible through our APP; or
+•Any information or personal data collected by other companies or institutions that provide advertising services through our APP.
+In such circumstances, you SHALL refer directly to the Privacy Policy for the relevant third party.
+3.Data Controller and Data Processor
+Hangzhou AtlasV Technology Co., Ltd. is both the data controller and data processor, who determine the purposes and methods of the data processing with respect to your personal data collected by us, and responsible for the data processing with respect to your use of our services. You can contact AtlasV in the following ways:
+Full name of legal entity: Hangzhou AtlasV Technology Co., Ltd.
+Email address:
+legal@netspeedtestmaster.com
+4.Personal Data We Collect
+Personal data, or personal information, means any information that identifies (whether directly or indirectly) a particular natural person, such as the name, email address, phone number, the identification number, location data, or an online identifier, etc. It does not include data where the identity has been removed (anonymous data).
+We may collect your personal data as follows:
+(a)Contact Details
+. We may collect your name and email address for responding products feedback, complaints, bug reports, or questions regarding your personal data;
+(b)Location Information.
+We may collect your location data that describes the precise geographic location of your device for recognizing and presenting the name of WIFI you are accessing;
+(c)Identifier for Advertising (“IDFA”)
+. We will not collect your unique device identifier (“
+UDID
+”), but we may collect your IDFA for helping advertisers tracking your visits to the contents and ads on third party websites, applications and platforms, such tracking will only happen upon your express permission, and you can withdraw such permission at any time through “Setting”
+＞
+“Privacy”
+＞
+“Tracking” on the device;
+(d)Technical Information
+. We
+Will NOT
+collect technical information about the device(s) and/or browsers (including without limitation your IP address, browsing type, mobile model, operating systems, network type and other browser settings/preference) you may use. However, we may use such pseudonymization technical information provided by Google Analytics (to know how Google Analytics collect and process with your personal data when you use any websites and/or applications have established partnership with Google, please refer to
+https://policies.google.com/privacy/google-partners?hl=en-US
+)
+；
+(e)Other personal data about you may be collected to provide the service requested by you, and we will obtain your express consent before we collect such personal data.
+5.If You Fail to Provide Personal Data
+If you fail to provide the personal data as requested where we need to collect such personal data by law, under the terms of a contract we have with you, to enter into a contract with you, or to provide you with the services, we may not be able to perform the contract we have or are trying to enter into with you, or to provide you with, in part or in a whole, certain features or the services that you request.
+6.How We Use Your Personal Data
+We will use the personal data we collect about you in accordance with the laws of applicable jurisdictions in the following ways:
+(a)To enter into and to perform our contract with you, or to perform any steps you require from us before entering into a contract with you;
+(b)To communicate with you, including but not limited to respond to your request for any help with our services or for exercising your rights with respect to your personal data;
+(c)To provide you with the services you request as we stated in the above Section 4;
+(d)To pursue our legitimate interests
+（
+or those of a third party
+）
+as we deem fit and necessary, where your interests and fundamental rights do not override those legitimate interests of ours (or ang third party’s), such as:
+•to understand, improve, optimize and develop our services;
+•to conduct research and monitor the quality of our services;
+•to enforce our
+Terms of Services
+; or
+•to respond to complaints, hearings, arbitrations, law suits or other governmental or regulatory proceedings
+；
+(e)To comply with our legal obligations under relevant laws, regulations, and orders (including subpoenas), injunctions, or any other legal documents issued by the court or competent governmental or regulatory authorities.
+PLEASE NOTE THAT
+, we
+DO NOT
+sell or share your personal data with any third parties for their direct marketing, except with your express consent.
+7.How We Share Your Personal Data
+（
+Third-Party SDKs
+）
+We will not share your personal data with any third party without your prior express consent,
+EXCEPT
+in the following cases:
+(a)We use
+Google AdMob
+，
+Google Mobile Ads Mediation Facebook
+,
+Google Mobile Ads Mediation App Lovin
+and
+Pangle SDK
+as advertising providers, which may tack your browsing history for online behavioral advertising purposes, such as your visits to the contents and ads on third party websites, applications and platforms, and collect your IDFA, IP address, in order for you to receive relevant interest-based advertising when you use any websites and/or applications have established partnership with them.
+To know how
+Google AdMob
+collect and process with your personal data, please refer to
+https://support.google.com/admob/answer/6128543?hl=en&ref_topic=2745287
+;
+To know how
+Google Mobile Ads Mediation Facebook
+collect and process with your personal data, please refer to
+https://www.facebook.com/about/privacy
+;
+To know how
+Google Mobile Ads Mediation App Lovin
+collect and process with your personal data, please refer to
+https://www.applovin.com/privacy/
+;
+To know how
+Pangle SDK
+collect and process with your personal data, please refer to
+https://www.pangle.cn/help/doc/5fc4f25f7b550100157c01d0
+.
+(b)We use
+Google Analytics
+to understand the functionality of our APP, which may collect technical information about the device(s) and/or browsers (including without limitation your IP address, browsing type, mobile model, operating systems, network type and other browser settings/preference) you may use (to know how Google Analytics collect and process with your personal data when you use any websites and/or applications have established partnership with Google Analytics, please refer to
+https://policies.google.com/privacy/google-partners?hl=en-US
+).
+(c)We use
+Firebase
+for statistics service as follows:
+•
+Firebase Crashlytics:
+which may collect and use your Crash Trace data to associate crashes with a project, send email alerts to project members and display them in the Firebase Console, and help Firebase customers debug crashes; uses Crashlytics Installation UUIDs to measure the number of users impacted by a crash and minidump data to process NDK crashes; and the minidump data is stored while the crash session is being processed and then discarded;
+•
+Firebase Remote Config:
+which may collect and use your Firebase installation IDs to select configuration values to return to end-user devices;
+•
+Firebase Messaging:
+which
+WILL NOT
+collect any of your personal data, but can be used for us to push notification;
+•
+Firebase Performance:
+which
+WILL NOT
+collect any of your personal data, but can be used for technically check the operation of the APP.
+To know how
+Firebase
+collect and process with your personal data when you use any websites and/or applications have established partnership with Firebase, please refer to
+https://firebase.google.com/support/privacy
+.
+We hereby affirm that those third parties with whom we may share your personal data provide the same or equivalent protecting measures as this Privacy Policy described and relevant App Store guidelines required.
+8.Your Rights and Controls
+You have rights under applicable data protection law in relation to our use of your personal data, including:
+(a)Data Access.
+You have the right to request access to your personal data;
+(b)Rectification.
+You have the right to update or amend your personal data if it is inaccurate or incomplete;
+(c)Objection.
+You have the right to object to certain uses of your personal data, including direct marketing, processing based on legitimate interests, and processing for purposes of scientific or historical research and statistics, on grounds relating to your particular situation;
+(d)Erasure.
+You have the right to request the deletion of your personal data, or restrict its use, in certain circumstances (for example you can request that we erase your personal data where it is no longer necessary for the purpose for which it was collected unless certain exceptions apply);
+(e)Portability.
+You have the right to request certain copies of your personal data you have provided to us, to use for your own purposes (often called the right to data portability).
+PLEASE NOTE THAT
+we may not able to provide any copy of your personal data since we usually not store any of your personal data;
+(f)Withdrawing Consent.
+If we are processing your personal information based on your consent you can withdraw your consent at any time by changing “Settings” on the APP or by sending a communication to us specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal; and
+(g)Lodging Complaints.
+You have the right to lodge complaints about our data processing activities by filing a complaint with our Data Officer who can be reached by the “
+Contact Us
+” Section below or lodge a complaint with the relevant supervisory authority or bring a legal action.
+If you have any question about these rights or you would like exercise any of them, please contact us via appropriate means as set forth in “
+Contact Us
+” Section of this Privacy Policy. Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or your account details. Please note that your ability to access or control your personal data will be limited in some cases, as required or permitted by applicable law.
+PLEASE NOTE THAT, if you decide not to provide the personal data we request (such as your contact detail to communicate with you) we may not be able to timely or adequately respond to your needs or proposals with respect to your rights as set forth above.
+9.Security of Personal Data
+The security, integrity, and confidentiality of your personal data are extremely important to us. We will use various technologies and administrative measures to protect your personal data which have been collected and/or stored by usfrom being lost, being misused, unauthorized accessed or leaking. In addition, all processing by our staff are based on their work assignments and bound by confidentiality obligations.
+PLEASE NOTE THAT
+, despite our best efforts to provide security protections for your personal data, due to limit of technology as well as various possible malicious means in the internet industry, no security measures are perfect or impenetrable. We will regularly review our security procedures to consider appropriate new technology and methods.
+10.Where We Store Your Personal Data
+Generally, we only store two types of your personal data on your local device and our server located in Singapore, which are your device ID (which created by us and cannot be used to recognize your identification on other websites, applications and platforms) and test history.
+We may also collect and use your personal data to the extent for responding your request, but such data will not be stored in our local device or server. To be specific, if you contact us for feedback, complaints, bug reports, or questions regarding your personal data, we may collect and use your technical information about the device(s) and/or browsers (including without limitation your IP address, browsing type, mobile model, operating systems, network type and other browser settings/preference) you may use, and we will only retain such data and your contact details (such as email address) on Google Sheet, instead of our local device and/or server.
+PLEASE NOTE THAT
+any of your personal data stored by us will not be transmitted outside of Singapore, and we will take reasonable technological and organizational measures to safeguard your personal data during the entire time of the storage of your personal data.
+11.How Long We Store Your Personal Data
+Again, we only store your device ID (which created by us and cannot be used to recognize your identification on other websites, applications and platforms) and test history on your local device and our server located in Singapore. Such data will be stored on our server until you delete your test history on your local device.
+In the case we need to retain your personal data for the purposes stated in this Privacy Policy, such retention will be limited to the necessary period which permitted by applicable laws and regulations. For example, when you contact us for feedback, complaints, bug reports, or questions regarding your personal data, we will store such data and your personal contact details (such as email address) to the extent for responding your request, and then immediately delete the same properly,
+EXCEPT THAT
+we have other legitimate basis (such as complying with our legal obligations, resolving disputes, and enforcing our agreements) for keeping such data.
+12.Advertising
+We
+WILL NOT
+send you any promotional information by email, SMS, physical or telephone.
+PLEASE NOTE THAT
+, we use
+Google AdMob
+，
+Google Mobile Ads Mediation Facebook
+,
+Google Mobile Ads Mediation App Lovin
+and
+Pangle SDK
+as advertising providers, any advertising on our APP are published and controlled by them instead of us, and therefore,
+if you click those advertising link to any third party, you shall read their privacy policies carefully, and you shall understand that their privacy policies are not controlled or covered by us.
+13.California Consumer Privacy Act (“CCPA”)
+If you are a California resident, the supplemental terms in this section may apply to you.
+(a)Opt-out. We do not sell your personal data or share, exchange your personal data with any third party. Therefore, we do not offer an opt-out to the sale of personal data as required by CCPA;
+(b)You will not be discriminated (such as price discrimination) for exercising your rights under CCPA (you can refer to your rights under the Section of “Your Rights and Controls” above).
+14.Contact Us
+If you have any questions about this Privacy Policy or our privacy practices, or if you wish to exercise your rights in respect of your personal data, please contact us in the following ways:
+Full name of legal entity:  Hangzhou AtlasV Technology Co., Ltd.
+Email address:
+legal@netspeedtestmaster.com

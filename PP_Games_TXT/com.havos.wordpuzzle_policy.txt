@@ -1,0 +1,111 @@
+PRIVACY POLICY FOR ALL HAVOS MOBILE APPLICATIONS AND THE HAVOS WEBSITE
+PRIVACY POLICY FOR ALL HAVOS MOBILE APPLICATIONS AND THE HAVOS WEBSITE
+This privacy policy covers Your use of this Service. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
+This policy is effective as of
+2020-04-18
+If You choose to use our Service, then You agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share Your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible here:
+Havos Terms and Conditions w.r.t. apps available on the Apple App Store
+Havos Terms and Conditions w.r.t. apps available on Google Play
+Havos Terms and Conditions w.r.t. apps available on the Amazon App Store
+1. Personal Information Collected by Havos (not including third party services)
+Havos itself collects very little personal information.
+Those Havos Services
+offering coins within the Service
+for purchase of digital assets, such as games, gaming packs and hints, do connect to a central Havos administered server. The server creates a random anonymised username and password (which can be seen in the Service), not in anyway connected to Your real name or identity. You have the ability in the Service to change this username and password to one of Your choosing. This login is used to allow Havos to store the following information:
+The language and country You set in the Service
+The number of gaming coins You currently hold
+The kinds of digital assets You have purchased in the Service, such as games, gaming packs, coins spent on hints
+Any in-app purchases You have made, such as additional coins or a subscription to remove ads
+Our Service can also collect the following information:
+Any feedback You have provided about issues You have with clues/questions offered in the Service (again by connecting to the central Havos administered server)
+Havos Limited retains Your e-mail address and e-mail contents if You have provided feedback regarding the Service via our e-mail feedback feature. We do not pass this e-mail or Your e-mail address on to any other party.
+This list includes only the data collected and stored by Havos. Other kinds of data may be collected by third party services Havos uses. These are discussed in a later section of this privacy notice.
+Note that Havos has
+no information or knowledge of the actual identity of You, the user of this Service
+. Our Service do NOT have access to or stores Your real first or last names or e-mail addresses, only the language and country You have set in the Service.
+2. Use of This Information
+Havos will use the information that we store on our centralized database server only for the following purposes:
+Compile anonymous statistical data and analysis for use internally (e.g. how many gaming packs of a certain kind are purchased)
+Create and manage Your account (e.g. remotely award additional coins You may have lost through a fault in the Service)
+Fulfill and manage internal currency payments made with virtual coins
+Increase the efficiency and operation of the Service
+Prevent fraudulent transactions, and protect against criminal activity (e.g. our server checks with Apple App Store to ensure an in-app purchase is genuine)
+Improve the quality of clues/questions provided in the Service
+Provide an e-mail response to an e-mail You may have sent us via our e-mail feature
+Troubleshoot problems
+3. Disclosure of Your Information
+We do not disclose this information to any other parties
+4. Security of Your Information
+We use administrative, technical, and physical security measures to help protect Your personal information.  While we have taken reasonable steps to secure the personal information You provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Therefore, we cannot guarantee complete security.
+5. Data Retention Policy, Managing Your Information
+Havos will retain the information we collect, as listed above. However you can contact us using the contact information at the end of this policy at anytime and request that we delete all personal data we have collected, including any e-mails you have sent us, your e-mail address and the other listed information if you provide us with the username created in the Service.
+6. Policy for Children
+If You are less than the age of 18, You must obtain Your parentâ€™s permission to access our site and to use our Services. If You are less than 13, You are not permitted to access the site, or to play any of our games or use any of our Services. This site and all of our games and Services are not intended for children below the age of 13 and we do not knowingly market to or collect, use or disclose information from children under the age of 13. If Havos Ltd learns that we have inadvertently gathered personal information from children under such age, Havos Ltd will take reasonable measures to promptly erase such personal information from our records. If You are a parent or guardian and You are aware that Your child has provided us with personal information, please contact us so that we will be able to do delete the data. Our contact information is below.
+7. Third Party services that may collect personal information
+We want to inform You that this Service uses third parties that may have access to Your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. We employ third-party companies for the following reasons:
+To facilitate our Service.
+To perform Service-related services.
+To assist us in analyzing how our Service is used.
+To assist us in diagnosing problems.
+Here are links to the privacy policy of the third party service providers used by the Service:
+Google Play Services
+Apple App Store Services
+Amazon App Store Services
+AdMob (Advertizing service owned and administered by Google)
+Ogury (Advertizing service)
+Google Analytics for Firebase
+Firebase Crashlytics
+It is important to follow and read the information provided in each of these links to fully understand the kind of data collected by those third party service providers and how that data is used. This can include the collection of information that these third party services use to provide targeted advertizing.
+Here follows a short summary regarding how Havos uses each of these services:
+Google Play Services & Apple App Store Services
+:  Used to provide in app purchases and centralised high score comparisons and achievements under an anonymised login system administered by Google or Apple
+Amazon App Store Services
+:  Used to provide centralised high score comparisons and achievements (GameCircle) under an anonymised login system administered entirely by Amazon
+Admob & Ogury
+:  Used to provide in-app advertizing, including targeted ads using collected personal information
+Google Analytics for Firebase
+:  Used to provide macro information about how our Services are used, e.g. how many total minutes across all players are spend playing a game and which game features are popular. This information is entirely anonymized and cannot be used to identify You, and provides very useful data to enable us to improve our Service
+Firebase Crashlytics
+:  Used to provide information regarding any crashes in our Service. This information is anonymous (only the type of device and OS version is known), in order for us to improve the quality of our Service
+8. Links to Other Sites
+This Service contains links to other sites. If You click on a third-party link, You will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise You to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Here is a non-exhaustive list of the web-sites we link to within the Service
+Wikipedia
+(for You to view the Wikipedia page of the words, places, people etc which are answers to our questions)
+Wiktionary
+(for You to view the Wiktionary dictionary definition of words you discover in the Service)
+Facebook
+(for You to view our facebook page and provide a "like")
+Twitter
+(for You to view our Twitter page)
+Google Play
+(for You to view the Google Play page of Havos Apps)
+Apple App Store
+(for You to view the Apple App Store page of Havos Apps)
+Amazon App Store
+(for You to view the Amazon App Store page of Havos Apps)
+9. Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to Your browser from the websites that You visit and are stored on Your device's internal memory.
+This Service does not use these â€œcookiesâ€ explicitly. However, the Service may use third party code and libraries that use â€œcookiesâ€ to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to Your device.
+10. Opt-out rights (All Customers)
+The first three options are only relevant for those Services which display advertizing.
+If You are using a Google Android device, You can go into "Settings" icon on Your device, then tap the "Google Section", then tap "Ads" and select "Opt out of interest-based ads". Here You can also reset Your advertising identifier, which means all previously stored advertising relevant information will no longer be applicable to Your device.
+On an Apple device (iPad, iPhone, iPod) You can go into "Settings", and then "Privacy" and then "Advertising" and select the option "Limit Ad Tracking". Here You can also reset Your advertising identifier, which means all previously stored advertising relevant information will no longer be applicable to Your device.
+On an Amazon device (typically a Kindle), You can log into Your Amazon account and go to the "Amazon Advertising Preferences", and from here You can choose to not allow personalised ads.
+If You are using a Google Android device, You can choose not to login to Google Play (if applicable for that Service), i.e. You can opt out of sharing high score and achievement data to the Google Play centralized server.
+You can opt-out of all data collection by not using this Service.
+11. GDPR: EU Consent Management and additional Opt-out on some of our Services (EEA Users only)
+In order to be fully GDPR compliant, Havos mobile applications all display a consent notice to all EEA customers when ads are first displayed on first launch of the application. This notice may additionally also be shown at later stages if there are changes relevant to inform You about, such as a change to the list of Ad networks used to display in-app advertizing.
+
+The consent notice informs EEA users of what personal data is collected by this Service, and You will have one or two options (depending on the Service you are using):
+Two Options
+Some of our Services provide You with the option to accept the use of Your personal data for targeted advertizing and another option not to provide personal data for targeted advertizing purposes. If You chose the second option, then advertizing services are not entitled to store and use personal data for the purposes of targeted advertizing. In addition You have the ability to change Your consent decision at any time by going into the Service's "Settings" and selecting "Privacy Settings". This will take You to a screen where You can change Your consent decision. Please however appreciate that Havos is only able to provide our Services for free by funding the development largely through in-app advertizing. The funds we earn through this advertizing are considerably better when permission is granted to provide personal data for targeted advertizing purposes. It is also very important to note that that refusing consent does NOT stop Your personal data being collected for all non advertizing related purposes listed above in this policy. If You do not wish any of Your personal data to be collected for ANY purpose, then you must stop using this service.
+One Option
+Some of our Services provide only the option to consent to use Your personal data for the purposes of targeted advertizing in order to continue using the Service. If You do not wish to provide this consent You must immediately stop using the service.
+12. Your Consent
+By using the Service, You are consenting to our processing of Your information as set forth in this Privacy Policy now and as amended by us.
+13. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, You are advised to review this page periodically for any changes. We will notify You of any changes by posting the new Privacy Policy on this page. You are advised that continued use of the Service is deemed approval of all changes.
+14. Contact Us
+If You have any questions, issues or suggestions about our Privacy Policy, do not hesitate to contact us at support@havos.co.uk.

@@ -1,0 +1,276 @@
+HelloTalk Privacy Policy
+HelloTalk Privacy Policy
+Last updated: 2023.04.06
+UPDATES: PRIVACY POLICY
+HelloTalk is a global language exchange platform developed and operated by HelloTalk Limited (hereinafter referred to as "we" or "our"). We attach great importance to your privacy and personal information, and are always committed to protecting your privacy. In order for you to better use HelloTalk, we have specifically laid out how and what kind of information we collect, use, and safeguard when you use our services in this Privacy Policy.
+Before using our services, please read our Privacy Policy carefully. Unless you have read and accepted all the terms of this agreement, please stop using HelloTalk immediately. Once you check or click the "Agree and continue" button, you are deemed to have fully understood and accepted this Privacy Policy.
+Part One Definitions
+User: hereinafter referred to as "you" or "user" refers to individuals or organizations that register, log in, use, browse, or obtain services under this policy.
+Personal information: refers to all kinds of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the identity of a specific person, or reflect the activities of a specific person.
+Part Two Contents
+This privacy policy will help you understand the following:
+Information We Collect
+Information Storage
+Information Security
+How We Use Information
+Disclosure to Third Parties
+Children's Information Policy
+Contact Us
+1. Information We Collect
+(1) Register an account
+When you register for HelloTalk, we will collect your device's MAC address and unique device identification code to identify you as a HelloTalk user. If you log in to HelloTalk using QQ, WeChat, Apple ID, Facebook, Gmail, Line, or Kakao Talk, we will collect your QQ, WeChat, Line, or Kakao Talk unique identifier, avatar, and nickname, or Apple ID, Facebook, or Gmail unique identifier to synchronize your data and enable you to log in using different devices. After you register or log in with a third-party account, your third-party account will be bound to your HelloTalk account, but you can choose to unbind the account in [Settings→Account→Binding Info].
+When you create your HelloTalk ID, we will collect the following personal information: email address, gender, age, nationality, native language, and the language you are learning. This will help us provide you with improved service and a better user experience.
+We will collect your mobile phone number to verify your user information. Mobile phone numbers are sensitive information, and the purpose of collecting your mobile phone number is to meet the online real-name system requirements of relevant laws and regulations. Refusing to provide a mobile phone number may affect your HelloTalk user experience.
+(2) Providing network security and operational security
+To protect your account, network, and operation and system security and prevent phishing, website fraud, and Trojan viruses during your use of HelloTalk, our server will automatically record the information sent by your mobile phone ("log data"). The log data will include various related information (such as mobile operator, device model, operating system and version, client version, Android ID, device resolution, package name, device settings, process, and unique device identifiers, and software and hardware characteristics) as well as device location-related information (such as IP address, GPS location, and WLAN access point, Bluetooth, and base station sensor information).
+(3)
+Camera functions
+After enabling camera permission, you may use the camera to take photos or videos, upload, share, and use other features. Please note that even if you allow access to your camera, we will only obtain relevant information through the camera when you actively click on the above functions in the client.
+(4)
+Microphone-based functions
+You can use the microphone for voice chat by enabling the microphone permission. Please know that even if you allow microphone access, we will only obtain voice information through the microphone when you actively click the microphone icon in the client.
+(5)
+Geographic location information functions
+After obtaining your consent, we will record your geographic location to show you more user attributes and a better match with language partners in your region. Geographic location information is sensitive information, and refusing to provide this information will not affect the normal use of the application. You may adjust your geographic location information permissions at any time.
+(6) Functions based on storage permissions
+When you upload/update your account avatar or post graphic/video content, we will need to access your device storage/album in order to publish pictures and text information. If you refuse to enable the above permissions, we will not be able to provide you with the aforementioned functions. Note, this will not affect the use of other HelloTalk functions.
+(7) Calendar-based functions
+When you use HelloTalk Live to create a livestream or reserve a spot in a livestream, we will ask you for permission to read/write to your calendar so that we can send you reminders before the event starts. We will not access or change any calendar content that is not related to language exchange and live streaming.
+(8) Other circumstances
+According to relevant laws, regulations, and national standards, in the following situations, we will collect and use your personal information without asking for your authorization:
+When it is directly related to national security, national defense security, and other national interests; directly related to major public interests such as public safety, public health, and public knowledge;
+When it is directly related to criminal investigation, prosecution, trial and execution of judgments;
+In order to protect your or other individuals’ life, property, reputation, and other major legal rights, but it is difficult to obtain the consent of the person;
+When the personal information collected is disclosed to the public by yourself;
+In order to collect personal information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;
+When it is necessary for signing and fulfilling the contract according to your requirements;
+When it is necessary for maintaining the safe and stable operation of the products or services provided, such as discovering and disposing of product or service failures;
+When it is necessary to carry out statistical or academic research in public interest, and when it provides the results of academic research or description to the outside, the personal information contained in the results is de-identified;
+Other circumstances stipulated by laws and regulations.
+2. Information storage
+(1) Method and period of information storage
+We will store your information in a secure way, including local storage (for example, data caching within the app), database, and server logs.
+Under normal circumstances, we will only store your personal information for the time necessary to achieve the purpose of the service or under the conditions stipulated by laws and regulations. You can choose to delete your data history and other personal information provided and generated when you use our services. When you delete any of your personal information, we will immediately delete the corresponding data accordingly.
+(2) Managing and retaining your information
+Legal obligations and issues: We keep your information for legal reasons such as when we have a legal obligation to retain data, to enforce and prevent violations of our Terms, or if necessary to protect rights, property, and users.
+Operational retention needs: We do not retain your messages when providing our services (except in the limited circumstances set out above), and so once your messages are delivered they are deleted from our servers. However, if a message cannot be delivered immediately, we keep it in an encrypted form on our servers for up to 30 days as we try to deliver it, after which it is deleted. Your public information will be retained until you delete your account and withdraw from the agreement, including your profile information and the moments you posted. All of these data will be deleted or anonymized.
+(3) Data transmission in other countries
+HelloTalk is a global language exchange platform. Data is transferred to third countries outside your home country. Data transfer is approved by law and is handled appropriately and safely. Such data is available for your review on request.
+(4) Retention and usage period of personal information
+HelloTalk will obtain user consent for the retention period of personal information at the time of their member or service subscription for the following purposes.
+Mobile phone number: Up to 1 year from the time of request for registration/modification/deletion
+According to relevant statutes, including the Act on Consumer Protection, in Electronic Commerce, Etc., the Framework Act on Electronic Documents and Transactions, and the Protection of Communications Secrets Act, require HelloTalk to store the information for a certain period of time under the following circumstances. HelloTalk stores personal information during the set period under the provisions of the statutes and in no case will it ever store this information for any other purposes.
+Act on Consumer Protection, in Electronic Commerce, Etc.
+Records on the contract or subscription withdrawal, etc.: Stored for 5 years
+Records on the payment and supply of goods, etc.: Stored for 5 years
+Records on consumer complaints or dispute settlement: Stored for 5 years
+Protection of Communications Secrets Act
+Login information: 6 months
+Personal information that fully serves its purpose of collection and uses, by means such as membership cancellation, service termination, and/or expiration of the retention period of personal information approved by the user, is destroyed to an irreversible state.
+Information required to be retained under the statutes is also destroyed to an irreversible state without delay after the expiration of the relevant period.
+Please note that HelloTalk separately stores and manages or deletes the personal information of members who have not used its service for at least one year in accordance with the Personal Information Validity Period Plan.
+3. Information Security
+(1) Data protection
+We have taken extensive technical and organizational measures to secure your data against potential risks, such as unauthorized login or access, unauthorized perusal, amendment, or distribution, and against loss, deletion, or misuse.
+In order to protect your personal data against unauthorized access by third parties when being transmitted, we secure data transmissions, if necessary, using SSL and TLS encryption. This is a standard encryption procedure for online and mobile services.
+(2) Regarding video and audio chats
+We will not monitor, record, or broadcast video or audio chat sessions at any time. However, we cannot prevent your chat partners from broadcasting live or recorded chat sessions without your or our permission through third-party websites or services. We recommend that you exercise caution in disclosing any information, personal or otherwise, during a video or chat session.
+(3) Security incident handling measures
+In the event of personal information leakage, damage, loss, or other security incidents, we will activate emergency plans to prevent the expansion of security incidents. After a security incident occurs, we will promptly inform you of the basic situation of the security incident, as well as the handling and remedial measures we are about to or have taken, in the form of push notifications, emails, etc. If it is difficult to notify users one by one, we will issue a warning through announcements and other methods.
+(4) How you can manage your information
+You can access and modify your mobile phone number information, account password, and third-party account information through [Me→Settings→Account];
+You can visit and unfollow related users through [Me→Following];
+You can access and delete friends and related conversation information through [Talks→Message];
+When you find that there are errors in our processing of information about you, you have the right to request us to make corrections. In the process of providing services, you may need to activate some device permissions, such as notifications, photo album, camera, and microphone. You can choose to turn off some or all of the permissions in the [Settings] of your device at any time to stop HelloTalk from collecting your personal information.
+You can submit an account cancellation application on the HelloTalk app by yourself with the cancellation method: [Me→Settings→Account→Delete Account]. After you delete your account, we will delete your corresponding personal information immediately. The processing of your information is generally completed within 1 business day.
+4. Information Usage
+We strictly abide by laws and regulations and agreements with users, and use the collected information as described in this privacy policy to provide you with better services.
+We use your personal information to analyze user demographics.
+We may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies.
+We do not treat log data as personal information or use it in association with other personal information, though we may aggregate, analyze, and evaluate such information for purposes such as understanding or improving the services.
+The user's public information includes name, age, profile picture, current city, and time zone. We will never show your exact location or email address. You can choose not to share any information with other users in your profile settings.
+Device information: We will receive and record information about the device you use according to the specific permissions granted by you during the software installation and use (such as IMSI identification code, device model, operating system and version, client version, device resolution, package name, device settings, process and unique device identifiers, and software and hardware feature information) as well as information about the location of the device (such as IP address, GPS location and WLAN access point that can provide relevant information, Bluetooth, and base station sensor information).
+Please note that separate device information and log information are information that cannot identify a specific natural person. If we combine this type of non-personal information with other information to identify specific natural persons, or combine it with personal information, this type of non-personal information will be treated as personal information during the combined use. Unless your authorization is obtained, or laws and regulations provide otherwise, we will anonymize and de-identify this type of personal information.
+5. Disclosure to Third Parties
+(1) Principle
+If you are approved for our services, your account will be governed by HelloTalk's respective privacy policies. Personal information will only be used by HelloTalk to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
+The accessed third-party service is operated by the relevant third party and is subject to the third party's own terms of service and information protection statement (not this "HelloTalk Privacy Policy").
+We will only share your information for legitimate, necessary, and specific purposes. For third-party service providers with whom we share information, we will require them to fulfill relevant confidentiality obligations and take corresponding security measures.
+At the same time, we collect and use this analytical information in an aggregated form, so we cannot reasonably manipulate it to identify any specific individual user.
+(2) Accessed third-party SDK directory:
+The following personal information is stored and used until the user cancels membership or reaches the term of the entrusted agreement.
+Third-party SDK name
+Purpose of use
+Types of user personal information obtained
+Privacy Policy Link
+YiDun
+Identify risky accounts and devices, so that we can maintain the quality of users in the community
+(1) Device information, device unique identification code (device serial number, IMEI, MAC address, Android ID, IDFV, IDFA), device brand, device name, device model and device system type, detailed settings and version information. (2) Log information, including 1) Network related information: device IP address, router identification (BSSID, SSID, MAC) and IP address, network operator information, network connection status; 2) Operation information: end user boot, click, Installation behavior information, sensor information, positioning permission (iOS system needs to obtain positioning permission to obtain WIFI information). (3) Application information, including the Bundle ID of the iOS application and/or the application package name of the Android application, the application name and version number, and the application signature information.
+https://dun.163.com/clause/privacy/en
+Facebook
+Identity verification during registration
+Mac, Android ID, Conversation Account, service log information
+https://www.facebook.com/privacy/policy/
+Google OAuth
+Identity verification during registration
+Mac, Android ID, Conversation Account, service log information
+https://policies.google.com/privacy
+QQ
+Identity verification during registration
+imei, imsi, mac, conversationAccount, device model, operating system, unique device identifier (Android such as Android ID/OAID, iOS such as IDFA before iOS14.5), login IP address, WeChat software version number, QQ nickname, QQ avatar, network access method, type and status, network quality data, device accelerators (such as gravity sensing devices), operation logs, service log information
+https://privacy.qq.com/
+Wechat
+Identity verification during registration
+imei, imsi, mac, conversationAccount, device model, operating system, unique device identifier (Android such as Android ID/OAID, iOS such as IDFA before iOS14.5), login IP address, WeChat software version number, WeChat nickname, WeChat avatar, network access method, type and status, network quality data, device accelerators (such as gravity sensing devices), operation logs, service log information
+https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN&head=true
+Line
+Identity verification during registration
+Mac, Android ID, Conversation Account, service log information
+https://line.me/en/terms/policy/
+Kakao Talk
+Identity verification during registration
+Mac, Android ID, Conversation Account, service log information
+https://www.kakao.com/policy/privacy?lang=en
+Agora
+Real-time voice communication for users
+Device-related information (device type, device model, CPU information, battery power information, operating system version information); network status-related information (dynamic IP address, network type/status); interaction information (transceiver user ID, user attributes, channel information, usage time), storage permissions, device sensor information, service log information
+https://www.agora.io/en/privacy-policy
+Zego
+Real-time voice communication for users
+imei, imsi, mac, Android ID, storage permissions, service log information
+https://www.zego.im/privacy
+UserLeap（Sprig）
+Used to initiate and retrieve user questionnaires
+Mac, Android ID, service log information
+https://sprig.com/privacy-policy.html
+weex SDK
+Enables developers to build Android, iOS and web applications based on a common cross-platform web development language and development experience.
+imei, imsi, mac, Android ID, service log information
+https://www.apache.org/foundation/policies/privacy.html
+AI Help
+The third-party customer service system provides knowledge base, robot and human customer service to provide service support to users.
+Device information, imei, imsi, mac, Android ID, storage permissions, access to the current network environment, customer complaint information actively submitted by users, service log information
+https://aihelp.net/privacypolicy/
+Xiaomi Push (Xiaomi)
+Send emails and push messages
+imei, imsi, mac, Android ID, service log information, Android users will collect device-related information such as device manufacturer, device model, device memory, operating system version, Xiaomi push SDK version, device home (country or region), SIM card operation Business name, current network type (the current network type and SIM card operator name are only read locally on the device and will not be uploaded to the Xiaomi server), notification bar setting information (including whether to block the notification bar and whether to set the lock screen pop-up message) ; iOS users will collect device-related information such as device model, operating system version, and Xiaomi push SDK version.
+https://dev.mi.com/console/doc/detail?pId=1822
+OPPO Push (OPPO)
+Send emails and push messages
+Device-related information (such as IMEI or OAID, Serial Number, IMSI, User ID, Android ID, MAC address, Google Advertising ID, mobile phone Region settings, device model, mobile phone battery, mobile operating system version and language), applications using push services Information (such as APP package name and version number, running status), push SDK version number, network-related information (such as IP or domain name connection results, current network type), message sending results, notification bar status (such as notification bar permissions, user clicks behavior), lock screen status (such as whether to lock the screen, whether to allow lock screen notifications), service log information
+https://open.oppomobile.com/wiki/doc#id=10288
+FCM Push（Google
+）
+Send emails and push messages
+imei, imsi, mac, Android ID, service log information
+https://firebase.google.com/support/privacy
+Huawei Push (Huawei)
+Send emails and push messages
+imei, imsi, mac, Android ID, service log information
+https://consumer.huawei.com/cn/privacy/privacy-policy/
+Vivo Push (Vivo)
+Send emails and push messages
+Device-related information (such as IMEI or OAID, Serial Number, IMSI, User ID, Android ID, MAC address, Google Advertising ID, mobile phone Region settings, device model, mobile phone battery, mobile operating system version and language), applications using push services Information (such as APP package name and version number, running status), push SDK version number, network-related information (such as IP or domain name connection results, current network type), message sending results, notification bar status (such as notification bar permissions, user clicks behavior), lock screen status (such as whether to lock the screen, whether to allow lock screen notifications), service log information
+https://www.vivo.com.cn/about-vivo/privacy-policy
+Leanplum
+Send emails and push messages
+imei, imsi, mac, Android ID, service log information
+https://www.leanplum.com/privacy/
+SensorsData
+Data analytics
+imei, imsi, mac, Android ID, operator, device brand, model, software version, application installation list information, device connection wifi and base station information, sdk host application package name, version number, service log information
+https://www.sensorsdata.cn/market/privacy_policy.html
+AppsFlyer
+Data analytics
+imei, imsi, mac, Android ID, operator, device brand, model, software version, application installation list information, device connection wifi and base station information, sdk host application package name, version number, service log information
+https://www.appsflyer.com/privacy-policy/
+BranchIO
+Data analytics
+imei, imsi, mac, Android ID, operator, device brand, model, software version, application installation list information, device connection wifi and base station information, sdk host application package name, version number, service log information
+https://branch.io/policies/#privacy
+Google Analytics
+Data analytics and to improve application stability and reduce application crashes
+mac, Android ID, device brand, model, software version, application installation list information, device connection wifi and base station information, sdk host application package name, version number, service log information
+https://policies.google.com/technologies/partner-sites
+Firebase Analytics
+Data analytics and to improve application stability and reduce application crashes
+mac, Android ID, device brand, model, software version, application installation list information, device connection wifi and base station information, sdk host application package name, version number, service log information
+https://policies.google.com/technologies/partner-sites
+Facebook Analytics
+Data analytics
+mac, Android ID, device brand, model, software version, application installation list information, device connection wifi and base station information, sdk host application package name, version number, service log information
+https://www.facebook.com/privacy/explanation
+Alibaba Cloud SDK (including OSS: Object Storage Service, and Log Service)
+Used for cloud storage services, reporting service quality logs, and analyzing service problems
+(1) Device information: We will receive and record the device-related information you use (such as device model, operating system version, device settings, MAC address and IMEI, IDFA, OAID, imsi, Android ID, storage permissions), information about the location of the device (such as IP address, GPS location, and sensor information such as Wi-Fi access points, Bluetooth, and base stations that can provide relevant information). (2) Log information: Your detailed usage of the service will be automatically collected and saved as relevant network logs. Such as search query content, IP address, type of browser, telecom operator, language used, date and time of access.
+http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html?spm=5176.7933691.J_9220772140.89.48042a66UppgUO
+Android Pay（Google Inc.）
+Allow users to pay with Android Pay in the app
+mac, Android ID, service log information
+https://policies.google.com/privacy
+Apple Pay（Apple Inc.）
+Allow users to pay with Apple Pay in the app
+mac, Android ID, service log information
+https://www.apple.com/legal/privacy/en-ww/
+Braintree
+Provide mobile payment support
+mac, Android ID, service log information
+https://www.braintreepayments.com/legal/braintree-privacy-policy
+Cardinal SDK
+Provide mobile payment support
+mac, IMEI, Android ID, service log information, GPS, WIFI, IP, Network operator, SIM card serial number, Bluetooth adapter address
+https://cardinaldocs.atlassian.net/wiki/spaces/CMSDK/overview
+Google Map
+Display positioning information for language learning partners in the same or designated area
+mac, Android ID, location information, service log information
+https://policies.google.com/privacy?hl=zh-CN
+Google Admob
+HelloTalk advertising exposure
+mac, Android ID, service log information
+https://policies.google.com/privacy?hl=en
+AppLovin
+HelloTalk advertising exposure
+Device information, operating system, country time zone and locale, geolocation data, IP address, advertising ID (GAID, Amazon FOSAID), vendor ID, service log information
+https://www.applovin.com/privacy/
+Facebook Audience Network
+HelloTalk advertising exposure
+mac, Android ID, service log information
+https://business.facebook.com/privacy/explanation
+TopOn
+HelloTalk advertising exposure
+Publicly collected data: system version name, system version number, application package name, application version name, application version number, mobile phone brand, mobile phone model, screen resolution, mobile network code, mobile country code, language, time zone, User Agent, Screen orientation, network type, app installation source, Android ID, service log information Additional data collected by SDK in China: MAC address, International Mobile Equipment Identity (IMEI), OAID Additional data collected by the SDK in non-China regions: Google Ad ID
+https://docs.toponad.com/#/zh-cn/android/NetworkAccess/SDK_Policy/TopOn_SDK_Privacy_Policy_CN
+Pangle
+HelloTalk advertising exposure
+imei, imsi, mac, Android ID, BSSID, device brand, model, operating system version number, browser information, IP address, software version number, software region, software language, network type, system language, operator information, platform operation, Usage and service logs
+https://www.pangle.cn/privacy
+To personalize ads, we may share anonymized and personal information, such as interest and age as well as device types with Admob by Google, Facebook Audience Network, TopOn
+,
+AppLovin and Pangle.
+Both iOS and Android devices allow you to opt-out of the use of mobile advertising identifiers for purposes of showing you targeted ads. For iOS, go to your iOS device settings and turn on “limit ad tracking”. For Android, turn on “opt-out of ads personalization” in your device settings.
+To control target group-related advertising, we record information about activities on our apps and websites (e.g. advertising banners clicked, screens viewed, and pages visited, etc.). This is recorded and we may use this to provide our customers’ users with advertising targeted to their interests.
+For the purpose mentioned above, cookies may be stored on your device. Cookies are small text files that are stored on your device's hard drive. They enable recognition of your device but do not permit you to be personally identified.
+If you do not want cookies to be installed, you can opt-out using your browser settings. On mobile devices, you can opt-out of sharing advertising identifiers in your device's settings.
+If you do not want personal information to be shared with advertising networks, you can opt-out in Phone Setting→Privacy→Share With App Developers.
+You can edit, hide, and delete personal data in the Me→ Settings→Privacy within the HelloTalk app. Also, you can request the deletion of your account or ask for certain profile information to be changed via HelloTalk’s customer support (
+hellotalk8@gmail.com
+).
+6. Children's Information Policy
+Children under 12 are not allowed to use HelloTalk. If you are based in the European Economic Area (EEA), you may only use HelloTalk if you are over the age at which you can provide consent to data processing under the laws of your country or if verifiable parental consent for your use of HelloTalk has been provided to us. If you are a parent and you learn that your child is using HelloTalk and you don’t want them to, please contact
+(hellotalk8@gmail.com)
+.
+If the user is under the age of 14, the child’s legal representative has the right to view and update the child’s personal information, and to revoke his/her consent to the collection and use of the child’s personal information.
+We suggest that any minors participating in online activities should obtain the consent of their parents or other guardians (hereinafter referred to as "guardians") in advance. We will protect the relevant information of minors in accordance with the relevant national laws and regulations.
+7. Contact Us
+HelloTalk is an international team located in Hong Kong, China and Shenzhen, China. We are firmly committed to protecting users' personal information under national data protection standards. If you have any questions or concerns about our privacy policy or data processing, please contact us.
+Company Name: HelloTalk Limited
+Company Address: 18th Floor, Shuguang Building, Nanshan District, Shenzhen City, Guangdong Province
+Contact email:
+hellotalk8@gmail.com
+You can also contact our personal information protection officer Simon by email:
+simon@hellotalk.com
+.
+Publication date:
+2023.04.06
+We reserve the right to modify this data privacy policy at any time and may revise this policy in due course.
+If you do not agree with the revised privacy policy, you have the right to and should stop using HelloTalk services immediately. If you continue to use HelloTalk's services, it is deemed that you have accepted the modifications made by HelloTalk to the relevant terms of this policy.

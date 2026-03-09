@@ -1,0 +1,14 @@
+Privacy Policy
+Last Updated: Feb 4, 2023
+This Privacy Policy (the "Policy") is designed to provide you with information about our data collection, retention and usage practices, and governs any and all of "Shuisky" apps on Android from https://play.google.com/store/apps/developer?id=Shuisky.
+1. Accepting the Privacy Policy
+By downloading, installing, accessing or otherwise using our Services (Android apps), you confirm that you have read this Policy, that you understand it and that you agree to be bound by it. IF YOU DO NOT UNDERSTAND AND/OR AGREE TO THE PRIVACY, YOU SHOULD IMMEDIATELY EXIT AND AVOID MAKING ANY USE OF OUR SERVICES.
+2. Changes to Terms, Privacy Policy or Services
+The Policy is subject to changes at any time, effective upon the posting of an updated version of them. Once we change any of the Policy, the "Last Updated" field on top of the Policy will be updated with the date of change. You are requested to regularly reviewing the Policy.
+3. Information Collection And Use
+We do not retrieve or collect any personal information about you. We don't share any information with anyone except to comply with the law, develop our products, or protect our rights. We don't transmit or store personal information on our servers.
+All permissions which given in manifest are used only to provide the application's functionality.
+4. android.permission.BIND_DEVICE_ADMIN
+If the apps request the "android.permission.BIND_DEVICE_ADMIN" permission, it's for allow to use the option 'Lock the screen' of the phone from the smart-watch.
+5. Contact Information
+If you have any questions about The Policy, please contact us at shuisky@gmail.com

@@ -1,0 +1,219 @@
+Privacy Policy (last updated December, 19th 2022)
+8SEC is an international entertainment company specialized in the development and publishing of mobile games.
+The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by 8SEC when you use one of our applications. This privacy policy governs and details the main principles that 8SEC applies to the data we collect and process to:
+(i) develop, publish and monetize mobile games (“8SEC games”), and
+(ii) run our corporate website (“8sec.games”).
+This policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.
+Should you have any questions related to this policy or our practices around privacy and data protection in general, please don’t hesitate to contact us as indicated in the contact section of this policy.
+8SEC games
+Why does 8SEC collect data from its games?
+When you install and use 8SEC mobile games, we can collect and process some of your data for different legitimate purposes.
+You will find below explanations regarding the reasons why 8SEC may collect data and the legal bases 8SEC relies on in each case.
+8SEC collects data:
+To provide you with the services you asked for (e.g., knowing that you completed the first level to allow access to the second one, provide a Cloud save feature)
+Legal basis – such data processing is strictly necessary for the service(s) asked
+To run analytics and understand how users interact with our product and services in order to continuously improve it either directly or through third party partners
+(e.g. identifying that a feature is annoying for users or that a level is too difficult for most gamers)
+Legal basis for third party analytics - Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, 8SEC only shares personal data collected through 8SEC games with third party partners that provide 8SEC with analytics services once you express your consent
+through the pop-up notice included in our apps
+.
+Legal basis for first party analytics – Legitimate interest. 8SEC collects user data for the purpose of its own internal analytics tools. Data is used for the sole purpose of 8SEC analytics tool and is not shared with any third parties. This data processing is based on the legitimate interest of 8SEC.
+To serve advertising tailored to the preference and interests of our users and allow 8SEC to continue to provide free services and products
+Legal basis – Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, 8SEC only processes or shares personal data collected through 8SEC apps for personalized advertising purposes once you express your consent through the pop-up notice included in one of our apps.
+For all data processing activities that rely on users’ consent, you can withdraw your consent at any time from the “settings” page in our various applications.
+Please only note that in the case where you withdraw your consent or where you refuse to consent in the first place, you will still be served with advertising but that may be less relevant to you as it will not be tailored to your interests.
+What data does 8SEC collect from its games?
+For all the purposes listed above the data that 8SEC collect is limited to:
+The apps you are using
+Your IP address
+Your Mobile Advertising ID (Apple IDFA or Google AAID - which are technical identifiers developed by mobile operating systems for advertising purposes which remain under your control
+and can be reset or erased at any time in through your device settings)
+Technical information about the device you use and your connection (user agent - country, language, local settings, operating system, operating system version-, type of connection, timestamp)
+Data pertaining to your activities on our applications and notably the way in which you interact with our applications (for instance, how and when you use our applications) and with the advertising served in our applications (for instance, number of ads served, potential clicks)
+Google user data exclusively to provide a Cloud save feature for our players (this data is not tied to any personal identifiable information)
+With who may your data be shared & why?
+8SEC does not share your personal data with third parties without your prior consent in the countries where collecting users’ consent may be required by applicable laws and regulations.
+When you consent to the collection of data for advertising and analytics purpose, we may share the data listed above with the following categories of recipients:
+Ad Partners: that allow us to monetize the ad inventory of our apps and provide users with free products and services.
+Those partners usually collect data via their own tools (Software Development Kits or “SDK”). You will find a list of our partners implementing advertising SDKs through our applications and the privacy policies of their services that describe their practices and allow you to exercise your rights directly toward them hereafter:
+AdColony
+Admix
+Adverty
+Amazon
+Anzu
+AppLovin
+Archon
+Chartboost
+CSJ (Pangle)
+Facebook
+Fyber
+Google AdMob
+HyperMX
+i mobile
+InMobi
+IronSource
+Line
+Mintegral
+MyTarget
+Nend
+Ogury
+Pangle
+Reklam’Up
+Smaato
+Snap
+TapJoy
+Tencent
+Unity Ads
+Verizon
+Vungle
+Yandex
+Analytic companies: that provide us with tools and technologies that allow us to better understand how users interact with our services and will help us improve it. Those partners also usually collect data via their own SDKs. You will find a list of our partners implementing analytical SDKs through our applications hereafter:
+Game Analytics
+Adjust
+Facebook Analytics
+Revenue cat
+Firebase
+Google Crashlytics
+Tenjin
+Amplitude
+8SEC
+website
+Why does 8SEC collect data from its website?
+Like on most websites, when you browse on 8sec.games certain information about your connection and device(s) are automatically collected for the website to operate properly.
+8SEC and its partners also use cookies and similar technologies to analyze how our users interact with our services and administer the website. Cookies are small text files stored on your browser that allow the collection of non-personally identifiable information related to your navigation on a website.
+You can control the use of cookies in your browser settings but if you choose to disable cookies it may affect certain websites’ functionalities.
+What data does 8SEC collect from its website?
+For the purposes listed above the data that 8SEC and its partners collect is limited to:
+Browsing events and interactions with the website’s contents and services
+Anonymized IP address and technical information related to your browser and/or device (user agent)
+Information you provide us with voluntarily when you contact 8SEC
+Analytics and third party cookies
+8SEC
+uses Google Analytics to collect information related to the web traffic on our website. This service allows us to measure the performance and proper functioning of our website and to provide you with a better experience. 8SEC made sure to configure this tool in such a way that the information collected for this purpose is anonymized in a way that does not allow to identify any end users of our website.
+For more information on the data protection and privacy aspects of these analytics services, you can refer to Google specific policy accessible here:
+https://policies.google.com/privacy?hl=fr
+and opt-out from Google Analytics data collection here:
+https://tools.google.com/dlpage/gaoptout
+Social networks and other communication tools
+Our website also offers communication tools allowing users to share content on social networks. When you interact with such social media widgets or “share buttons”, these social network companies may collect information about you and/or your device and connection. your interactions with these services are governed by the respective privacy policies of the companies providing these services. For more information on the data protection and privacy practices of these companies, you can refer to their specific policies listed below:
+Facebook:
+Linkedin:
+Security and other important information
+How long does 8SEC keep your data?
+Personal data collected, received and processed for the purposes described in this policy is not kept longer than necessary by 8SEC.
+8SEC does not retain user level data for more than 13 months except for the data collected for the purpose of its first-party analytics tool which can be stored up to 25 months based on the guidelines of our Supervisory Data Protection Authority.
+Children data
+8SEC never knowingly or willingly collect any personal data concerning children under 16 years of age.
+International transfers
+Some of the partners and processors referred to in this policy are located outside of the European Union.
+In such case, we ensure that:
+the personal data is transferred to countries recognized as offering an equivalent level of protection or,
+For personal data transferred outside of countries recognized by the European Commission as having a sufficient level of protection, any of the mechanisms offering appropriate guarantees is used, for which provision is made by applicable regulations, and notably the adoption of the standard contractual clauses of the European Commission.
+What rights do you have?
+Consent withdrawal and opt-out of sale of information
+You can change your consent status at any time from the Privacy Settings available in 8SEC mobile games.
+Please note that if 8SEC does not sell the personal information of its users, we may share it with third parties such as analytics and advertising companies in order to improve and personalize your experience and adapt the content and ads of our services.
+Adjusting your consent settings within 8SEC games, will allow you to block the collection of data for these purposes and will de facto prevent the sharing of information with our analytics and/or advertising partners.
+Access right
+Upon request, 8SEC will provide you with information about whether we hold any of your personal information. You may access or request deletion of your personal information directly in 8SEC mobile apps or by contacting 8SEC as indicated in the “Contact” section below. We will respond to your request within a reasonable timeframe.
+Rectification and erasure
+You may request 8SEC the rectification of inaccurate personal data concerning you, as well as the completion of incomplete personal data. You may also request 8SEC to erase without undue delay your personal data when it is no longer necessary for 8SEC to retain such data.
+In order for your data to be erased or rendered inaccessible you can either:
+reset your mobile advertising identifier (IDFA on iOS, GAAID on Androïd) or activate “Limit Ad Tracking” in your device’ settings in order to make previously collected data non linkable to you or your device anymore and limit further data collection if you choose to enable the “Limit Ad Tracking” option
+contact 8SEC, as indicated in the “Contact” section below in order to have the data previously collected by 8SEC on you and/or your device permanently erased or anonymized
+Portability
+Upon request, 8SEC will provide you with the personal data that you provided to us and, if possible, will communicate this information directly to another data controller of your choice in a portable format when the processing is based on consent or contract.
+Right to lodge a complaint
+You may lodge a complaint with a Data Protection Authority. 8SEC being a French company, our supervisory authority is in France: CNIL
+www.cnil.fr
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy
+@8sec.games.
+DISCLOSURE FOR CALIFORNIA RESIDENTS
+This section, which applies only to residents of California contains disclosures required by the California Consumer Privacy Act (“CCPA”) and applies only to “personal information” that is subject to the CCPA.
+Data collection
+The categories of personal data we have collected in the preceding 12 months, and the sources of said data, are described in the section “What data does 8SEC collect from its games?” in the
+global privacy policy
+.
+Data use
+The business or commercial purposes for collecting your personal data are described in the section “Why does 8SEC collect data from its games?” in the
+global privacy policy
+.
+Data disclosure and/or sale
+We do not “sell” your personal data with third parties as most people would understand that term. However, we may share your information and advertising identifiers with our third-party advertising platforms to deliver interest-based advertisements, attribute installs and optimize campaign performance. To the extent that practice is considered a “sale” under the CCPA, you may opt out of said sharing by following the steps described in “Consent withdrawal and opt-out of sale of information” in the
+global privacy policy
+.
+We do not have actual knowledge of any sale of personal data of minors under 16 years of age, as the term “sale” is defined under the CCPA.
+In the preceding 12 months, we have disclosed the following categories of personal data as part of our Services:
+Category of personal data collected
+Business or commercial purposes for collection, use and sharing
+Categories of third parties who may receive personal data for a business purpose
+Identifiers (IP address
+Mobile Advertising ID
+other similar identifiers)
+Marketing;
+Advertising;
+Authentication;
+Fraud detection;
+Fulfilment services;
+Facilitating transactions; Auditing related to our interactions with you;
+Legal compliance;
+Detecting and protecting against security incidents, fraud, and illegal activity;
+Debugging;
+Performing services (for us or our service providers) such as account servicing and analytics;
+Internal research for technological improvement;
+Internal operations;
+Activities to maintain and improve our services
+Service Providers
+and
+Advertising Networks
+Technical information
+(user agent - country, language, local settings, operating system, operating system version-, type of connection, timestamp)
+Marketing;
+Advertising;
+Authentication;
+Fraud detection;
+Fulfilment services;
+Facilitating transactions; Auditing related to our interactions with you;
+Legal compliance;
+Detecting and protecting against security incidents, fraud, and illegal activity;
+Debugging;
+Performing services (for us or our service providers) such as account servicing and analytics;
+Internal research for technological improvement;
+Internal operations;
+Activities to maintain and improve our services
+Service Providers
+and
+Advertising Networks
+Interactions with our applications (
+how and when you use our applications
+, purchases),
+and with the advertising served in our applications (for instance, number of ads served, potential clicks)
+Marketing;
+Advertising;
+Authentication;
+Fraud detection;
+Fulfilment services;
+Facilitating transactions; Auditing related to our interactions with you;
+Legal compliance;
+Detecting and protecting against security incidents, fraud, and illegal activity;
+Debugging;
+Performing services (for us or our service providers) such as account servicing and analytics;
+Internal research for technological improvement;
+Internal operations;
+Activities to maintain and improve our services
+Service Providers
+Advertising Networks (for compliance purposes only)
+Your rights
+California residents have certain rights with respect to the personal information collected by businesses.  If you are a California resident, you may exercise the following rights regarding your personal information, subject to certain exceptions and limitations:
+The right to know the categories and specific pieces of personal information we collect, use, disclose, and sell about you, the categories of sources from which we collected your personal information, our purposes for collecting or selling your personal information, the categories of your personal information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared personal information.
+The right to request that we delete the personal information we have collected from you or maintain about you.
+The right to opt out of our sale(s) of your personal information. Please note that if you opt out of certain types of sales, we will be unable to provide you with the services that rely on such sales.
+The right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
+To exercise any of the above rights, please contact us by email to: privacy
+@8sec.games
+You may also exercise the right to opt out of our sale(s) of your personal information by clicking the “Do not sell my Personal Info” button (or a similarly named option) available within the privacy settings of our Apps. This will stop our sale of your personal information within such Apps.
+If you reset your advertising identifier (IDFA, Advertising ID), your request to opt out of sale will not apply to your new advertising identifier and you will need to select this setting again
+[END OF CALIFORNIA SPECIFIC PROVISIONS]

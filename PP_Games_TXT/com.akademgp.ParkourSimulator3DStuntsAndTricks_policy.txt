@@ -1,0 +1,110 @@
+MotivApp GmbH
+Privacy Policy
+Version from the 7
+th
+of February 2023
+This Personal Data Processing Policy (hereinafter referred to as the Policy) has been drawn up in accordance with the requirements of the legislation - the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA) (hereinafter â€“ "Personal Data Laws"; "legislation")
+    and defines the personal data processing and personal data security measures undertaken by MotivApp GmbH, a legal entity located at:
+    RosenbursenstraÃŸe 2/21 1010 Wien, (hereinafter "the Operator"; "the Company").
+Personal data means any information relating directly or indirectly to a specific or identifiable user of any programs and/or websites of the Operator (hereinafter "the Services"), as well as information that identifies, relates to, describes,
+    is associated with, or can be reasonably associated with, directly or indirectly, with a particular consumer or a household.
+By using the Services, the User expresses his consent to the terms of the Policy. If the User disagrees with the terms of the Policy, the use of the Services must be immediately terminated.
+1. Personal data processing purposes
+1.1. To fulfill the Operator's obligations to users regarding the use of the Services;
+1.2. To collect information about the actions of users during the usage of the Services and to improve the Service content quality;
+1.3. To interact, if necessary. This refers to the collection of information that is provided voluntarily through a feedback form available on the
+    Services in order to process and respond (if necessary) to requests, feedback, commentary, and suggestions regarding the Services or other matters.
+2. Processed user data
+2.1. Personal information provided by users voluntarily when using the Services, which may include: name, e-mail address, phone number, country of residence,
+    address, age, spending and income data, account balance, etc.
+Personal data provided voluntarily by users is processed by the Operator to the extent necessary to fulfill its obligations.
+2.2. Anonymized user data is processed automatically.
+User data is processed automatically using third-party automatic data processing technologies to analyze certain information sent by the user's device through the Services (via analytics or advertising tools).
+    Some of them may run automatic processing of personal data, including profiling, which involves any format of automatic processing used to evaluate certain personal aspects related to users, in order to analyze
+    or predict aspects related to the user's personal preferences, interests, behavior, location or movements.
+    The processing of information through automatic data processing technologies begins automatically from the moment the Services are accessed by the User.
+2.3. Device Information.
+Data files or similar data structures stored on or associated with the device that identify the device (but not the individual). The Device ID allows third parties to generate aggregated reports or create personalized content and advertising.
+Such data may include:
+2.3.1 Information about the device itself: device type, operating system and its version, model and manufacturer,
+        screen size, screen pixel density, screen orientation, sound level, battery charge, and device memory usage;
+2.3.2 Internet connection information: mobile network carrier, network service provider, network type,
+        IP address, timestamp and duration of sessions, speed, browser type and its version, browser language settings;
+2.3.3. Location-related information: IP address, country/region/state/city code associated with the SIM card or device, language settings, time zone;
+2.3.4. Device IDs: Advertising IDs, Advertising ID for iOS devices/Advertising IDs or Android ID for Android devices.
+2.4. Cookies and similar technologies.
+2.4.1. "Cookie" is a text file containing information downloaded to your device during the use of the Services.
+        The downloaded text file is sent back to the server each time the Services are used. Cookies are necessary to analyze the use of
+        the Services and are used to improve marketing offers and provide the User with content and features of interest.
+        Third-party analytics tools implement cookies or similar technologies to analyze Service traffic.
+3. Data not processed by the Operator
+3.1. The Operator does not process special categories of personal data relating to race, ethnicity, political views, religious or philosophical beliefs, or intimate life.
+3.2. Biometric personal data.
+The Services which request the access to hardware devices (camera, microphone) do not transmit the data created with their help to the Operator.
+    However, the access to such devices is necessary to ensure the functionality of the Service. If the access to hardware devices is restricted, the full functionality of the Service cannot be used.
+4. Transfer and exchange of data
+4.1. The Operator transfers personal information to third parties in order to achieve the goals specified in the Policy. Such third parties may include:
+4.1.1. Partners, such as owners of sites and applications, advertising networks, and other
+        partners providing services related to the placement and display of advertisments on sites or services that are owned or controlled by the partners;
+4.1.2. Any national and/or international regulatory authority, law enforcement bodies, central or local executive authorities, other official or state bodies or courts,
+        with respect to which the Company is obliged to provide information in accordance with the applicable laws upon request;
+4.1.3. Third parties, if the User has consented to the transfer of Personal Information, or the transfer of Personal Information
+        is required to provide services or perform a specific agreement or fulfill a contract entered into with the User;
+4.1.4. Any third party which provides legal protection to the Company or any third parties in case of violation of the User Agreement for the Company's services,
+        this Policy or the terms governing the use of individual Services, or in a situation where there is a threat of such a violation.
+4.2. The Operator may share the information obtained through tools such as cookies, registration files, and device identifiers with third parties who provide automated processing technologies to the Services.
+    The Operator does not control or influence the data processing operations of such third parties or how such data may be used.
+The Operator may interact with the following third-party providers to obtain data for the implementation and improvement of the Services:
+Name
+Type of service
+Privacy Policy link
+Amplitude, Inc.
+Analysis of user behavior during the use of the Services
+https://amplitude.com/privacy
+Google LLC analytics services:
+Firebase Crashlytics
+Google Analytics for Firebase
+Firebase Authentication
+Cloud Firestore
+Analysis of the use of Services
+https://policies.google.com/privacy
+https://firebase.google.com/policies/analytics
+OneSignal, a U.S.
+Push notification delivery and automation service
+https://onesignal.com/privacy_policy
+4.3. Sale of personal data
+The Operator has not sold personal user data within the last 12 (twelve) months and does not sell personal data.
+    The term "sale" as defined in the CCPA is used to define this item.
+5. Data storage
+5.1. The Operator stores personal data in accordance with the requirements of the legislation on personal data on servers that provide reliable data protection.
+User's personal data is stored exclusively on electronic media and processed using automated systems, except when non-automated processing of personal data is necessary in connection with the fulfillment of legal requirements.
+5.2. The Company keeps personal information of the User until the achievement of the purposes for which it was collected, and deletes it upon the termination of the use of the Services; or until the expiration of the mandatory storage period of personal information provided by applicable law.
+6. User rights
+6.1. The User has the right to receive information about personal data processed by the Operator.
+If the information about the User is incorrect or incomplete, the User can correct and/or supplement the information on their own,
+    if the Service allows it, or contact the Company and demand to correct and/or supplement the incorrect information.
+6.2. In addition, the User has the right to:
+a) request the complete removal of Personal Information;
+b) demand restrictions on the processing of Personal Information;
+c) object to the processing of Personal Information;
+6.3. To exercise any of the above rights, the User may contact the Operator by e-mail
+support@motivapp.at
+.
+    The Operator shall ensure the exercise of the above rights only in relation to the information to which the Operator has access to and which is stored by the Operator.
+    To process a request, the Operator must first identify the User.
+6.4. When processing information for marketing purposes, the User may submit a request to stop processing data for such purposes.
+    To exercise this right, the User must contact the third-party service providers listed in Section 7 of the Privacy Policy.
+7. Cancelling personal data processing
+7.1. The User may prevent and/or control the collection and processing of data related to the use of the Services by following the instructions below.
+Google Analytics. To opt-out of data tracking performed by Google Analytics, the User can install and activate the Google Analytics Opt-out Browser Add-on. The User can also manage and/or delete cookies previously set by Google Analytics through the browser settings.
+    Further information on the data processing practices and related Google Analytics guidelines can be found at
+https://support.google.com/analytics/answer/6004245
+(section "Information for Visitors of Sites and Apps Using Google Analytics").
+8. Feedback
+8.1. Users have the right to send requests, including requests regarding the use of their personal data, provided for in Section 6 of the Policy,
+    in writing to the address: RosenbursenstraÃŸe 2/21 1010 Wien, or in the form of an electronic document signed by a qualified electronic signature in accordance with applicable law to the following e-mail address:
+support@motivapp.at
+.
+8.2. To exercise the right set forth above, the Operator may request (1) sufficient information to verify that the User is the person on whom the Operator has collected Personal Data, and (2) sufficient detail to describe the request so that the Operator can understand, evaluate and respond to it. The Operator may not respond to requests that do not meet these criteria.
+    The Operator will only use the Personal Information provided in the request to verify and fulfill the request. The Operator will respond to the request within 30 days.
+Â© MotivApp GmbH 2021-2023

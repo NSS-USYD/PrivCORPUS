@@ -1,0 +1,1265 @@
+c:geo – FAQ
+Home
+send2cgeo
+FAQ
+User Guide
+Support
+Changelog
+Development
+English
+Deutsch
+FAQ
+Welcome to our FAQ where we collect and answer frequently asked questions.
+To quickly find an answer to your question, use the
+Find in page
+feature of your browser - usually accessible by pressing
+Ctrl+F
+.
+If you still don't find the answer you're looking for, check out our
+User Guide
+.
+Current issues and changes
+Creating and/or adding caches to an online bookmark list fails!
+Cannot read or update maps or map themes
+Why did the online map of mapy.cz stop working?
+The background cache downloader fails for larger amount of caches!
+Maps.me is no longer working when started from c:geo!
+I am using Android 12 and c:geo is not offered to open web links!
+Getting started
+I am new to Geocaching. How does all of this work?
+I forgot my username and/or password!
+A login problem is shown on the main screen!
+How to reset c:geo to factory defaults?
+General
+My find count on home screen shows two numbers (e.g. 1234 + 5)!
+How can I change to miles instead of meters?
+Why do the cache details miss new information?
+Why does c:geo not use Groundspeak's public API?
+Is it possible to edit an existing geocache log with c:geo?
+How can I store c:geo data on my SD card?
+Can I login using my Facebook or Google account?
+Can c:geo post to Facebook?
+Translations are missing or wrong!
+Can I hide a cache and publish it using c:geo?
+How to delete my account?
+How to manage my solved mysteries in c:geo?
+Missing data after import of caches via GPX (PQ)!
+How to perform a coordinate projection with c:geo?
+The authorization to Opencaching fails, does not start or is not completed!
+Installation and update
+I am not able to install c:geo from Google Play!
+I do see a warning in c:geo that my device is no longer supported!
+Why does c:geo need the requested permissions on my device?
+I want to install an older version of c:geo!
+I don't use Google Play but still want to use c:geo!
+Is c:geo available for iOS or Windows Phone?
+I got a new device. How to transfer all the content of c:geo from the old device?
+GPS and Navigation
+How to setup my device to get the best possible location?
+c:geo is draining my battery when I use it!
+c:geo is even draining my battery when I do not use it!
+Why is GPS deactivated when I lock the screen or switch to another app?
+Why is GPS active all the time although I might not need it?
+The compass shows wrong directions or stops moving!
+What is Radar navigation?
+I am always located at Paris/France!
+c:geo seems unable to get my current location!
+Live Map
+The live map is not showing any caches!
+Instead of the map "c:geo won't run unless you install/update Google Play services" is shown!
+The map is rotating all the time!
+Starting my offline map is very slow!
+Recent changes to the c:geo design
+Where is my background image?
+I am missing the "Go to" function!
+New filtering framework
+Why did you change the filtering?
+What has changed for filtering?
+Adventure Lab Caches
+Why are Adventure Lab caches only shown to premium members?
+Can I play Adventure Lab caches with c:geo?
+Adventure Lab caches I have already found are not shown as found!
+I have enabled everything but still can't see Adventure lab caches!
+I cannot set the found state for Adventure Labs I imported from Lab2Gpx!
+I don't want to see Adventure Lab caches in c:geo. How to disable it?
+Will there be any additional features for Adventure Lab Caches in c:geo in the future?
+Send2cgeo
+What is send2cgeo?
+I tried to register my device but it shows 'Registration failed'!
+Can I use multiple devices and/or browsers with send2cgeo?
+Register first is shown on the website although I am registered!
+Offline caching
+Can I use c:geo also for offline caching?
+Can I batch submit offline logs to the website with c:geo?
+Trackable management
+Does c:geo support trackables?
+I get the message "Logging of GeoKrety cannot be done anonymously"!
+Some functions of GeoKrety.org seem not to be supported in c:geo!
+Device or user specific problems
+I can't see PM only caches although I am Premium Member!
+My external Bluetooth-GPS is no longer working with c:geo!
+On my Xiaomi device some icons have strange colors or are not visible!
+How to change the user account c:geo uses? / How to use c:geo with multiple accounts?
+Contacts plugin
+What does the contacts plugin do?
+How to use the contacts plugin?
+How do I have to store the contacts in my phonebook to make it work?
+The contact is not matched although it is stored!
+Privacy policy for the c:geo contacts plugin
+Known limitations
+The favorite percentage shown in c:geo does not match with other sources!
+Aktuelle Probleme und Änderungen
+Erstellen und/oder Hinzufügen von Caches zu einer Online-Lesezeichenliste schlägt fehl!
+Kann Karten oder Kartendesign-Dateien nicht lesen
+Warum funktioniert die Online-Karte von mapy.cz nicht mehr?
+Der Cache-Download im Hintergrund schlägt bei größerer Anzahl von Caches fehl!
+Maps.me kann von c:geo nicht mehr gestartet werden!
+Ich nutze Android 12 und c:geo wird nicht angeboten um Weblinks zu öffnen!
+Erste Schritte
+Ich bin neu beim Geocaching. Wie funktioniert das alles?
+Ich habe meinen Benutzernamen und/oder Passwort vergessen!
+Ein Anmeldungsfehler wird im Hauptmenü angezeigt!
+Wie setze ich c:geo auf Werkseinstellungen zurück?
+Allgemeines
+Meine Fundzahl auf dem Startbildschirm zeigt zwei Zahlen (z.B. 1234 + 5)!
+Wie kann ich Meilen statt Meter einstellen?
+Warum fehlen aktuelle Daten in den Cache-Details?
+Warum nutzt c:geo nicht das Groundspeak-API?
+Ist es möglich mit c:geo ein existierendes Log zu bearbeiten?
+Wie kann ich Daten von c:geo auf der externen SD-Karte abspeichern?
+Kann ich mich mit meinem Facebook- oder Google-Account anmelden?
+Kann c:geo auf Facebook posten?
+Es fehlen Übersetzungen oder sie sind falsch!
+Kann ich mit c:geo einen Cache verstecken und veröffentlichen?
+Wie lösche ich meinen Zugang?
+Wie verwalte ich meine gelösten Mysteries mit c:geo?
+Fehlende Daten nach dem Importieren von Caches per GPX (PQ)!
+Wie führe ich eine Koordinaten-Projektion mit c:geo durch?
+Die Authentisierung mit Opencaching schlägt fehl, wird nicht gestartet oder nicht fertiggestellt!
+Installation und Aktualisierung
+Ich kann c:geo nicht über Google Play installieren!
+Ich sehe eine Warnung in c:geo, dass mein Gerät nicht länger unterstützt wird!
+Warum braucht c:geo die angefragten Rechte auf meinem Gerät?
+Ich möchte eine ältere Version von c:geo installieren!
+Ich nutze Google Play nicht, möchte aber dennoch c:geo nutzen!
+Gibt es c:geo auch für iOS oder WindowsPhone?
+Ich habe ein neues Gerät. Wie übertrage ich alle Inhalte von c:geo vom alten Gerät?
+GPS und Navigation
+Wie stelle ich mein Gerät ein, um die bestmögliche Lokalisierung zu haben?
+c:geo saugt meinen Akku leer, wenn ich es nutze!
+c:geo saugt sogar meinen Akku leer, wenn ich es nicht nutze!
+Warum wird GPS deaktiviert, wenn ich den Bildschirm sperre oder zu einer anderen App wechsele?
+Warum ist GPS immer eingeschaltet, selbst wenn ich es nicht brauche?
+Der Kompass zeigt in die falsche Richtung oder bewegt sich nicht mehr!
+Was ist die Radar-Navigation?
+Ich bin immer in Paris/Frankreich!
+c:geo scheint es nicht möglich zu sein, meine Position zu bestimmen!
+Live-Karte
+Die Live-Karte zeigt keine Caches an!
+Statt der Karte wird "c:geo won't run unless you install/update Google Play services" angezeigt!
+Die Karte dreht sich pausenlos!
+Das Starten meiner Offline-Karte ist sehr langsam!
+Kürzliche Design-Änderungen in c:geo
+Wo ist mein Hintergrundbild?
+Ich vermisse die "Gehe zu"-Funktion!
+Neue Filter-Methoden
+Warum habt ihr die Filterung geändert?
+Was hat sich beim Filtern verändert?
+Adventure Lab-Caches
+Warum werden Adventure Lab-Caches nur Premium-Mitgliedern angezeigt?
+Kann ich Adventure Lab-Caches mit c:geo spielen?
+Adventure Labs, die ich schon gefunden habe, werden nicht als gefunden angezeigt!
+Ich habe alles eingeschaltet, sehe aber immer noch keine Adventure Lab-Caches!
+Ich kann über Lab2Gpx importierte Adventure Labs nicht als gefunden setzen!
+Ich möchte keine Adventure Lab-Caches in c:geo sehen. Wie kann ich das abschalten?
+Wird es zukünftig noch weitere Funktionen für Adventure Labs in c:geo geben?
+Send2cgeo
+Was ist send2cgeo?
+Ich versuche mich zu registrieren, aber erhalte 'Registration failed'!
+Kann ich mehrere Geräte und/oder Browser mit send2cgeo nutzen?
+Es wird 'Register first' auf der Webseite angezeigt, obwohl ich registriert bin!
+Offline cachen
+Kann ich c:geo auch fürs Offline-Caching verwenden?
+Kann ich mehrere Offline-Logs mit c:geo automatisch absenden?
+Verwaltung von Trackables
+Unterstützt c:geo Trackables?
+Ich sehe die Meldung "Loggen von GeoKrets kann nicht anonym erfolgen"!
+Einige Funktionen von geokrety.org werden von c:geo nicht unterstützt!
+Geräte- oder benutzerspezifische Probleme
+Ich kann Premium-Caches nicht sehen, obwohl ich Premium-Mitglied bin!
+Mein externer Bluetooth GPS-Empfänger funktioniert nicht mit c:geo!
+Auf meinem Xiaomi-Gerät haben einige Symbole falsche Farben oder sind nicht sichtbar!
+Wie kann ich den Benutzer in c:geo wechseln? / Wie kann ich c:geo mit mehreren Benutzerkennungen nutzen?
+Kontakte-Erweiterung
+Wozu dient die Kontakte-Erweiterung?
+Wie nutze ich die Kontakte-Erweiterung?
+Wie muss ich meine Kontakte im Telefonbuch abspeichern, damit es funktioniert?
+Der Kontakt wird nicht gefunden, obwohl er gespeichert ist!
+Datenschutzerklärung für die c:geo Kontakte-Erweiterung
+Bekannte Einschränkungen
+Die Favoritenquote in c:geo stimmmt nicht mit anderen Quellen überein!
+Current issues and changes
+Aktuelle Probleme und Änderungen
+Creating and/or adding caches to an online bookmark list fails!
+This is caused by a website change and we are on our way to provide a fix with the next update of c:geo.
+Erstellen und/oder Hinzufügen von Caches zu einer Online-Lesezeichenliste schlägt fehl!
+Dies wird durch eine Änderung auf der Webseite verursacht und wir sind dabei eine Fehlerkorrektur mit dem nächsten Update von c:geo bereitzustellen.
+Cannot read or update maps or map themes
+This is most likeley a permissions problem. Specifically some Samsung mobiles seem to be affected, sometimes also other vendors.
+To gain access to map and map theme files stored in their configured folders, c:geo calls a system app called “external storage”. This app needs to have access to those files to be able to provide them to c:geo.
+Please check, if the following setting is enabled:
+Samsung devices: Settings → Apps → Special Access (from “Three dots menu”) → All files access → External Storage
+Other vendors: (should be similar, but we don’t know the exact navigation yet)
+Kann Karten oder Kartendesign-Dateien nicht lesen
+Das ist wahrscheinlich ein Rechteproblem. Besonders einige Samsung-Modelle scheinen betroffen zu sein, manchmal auch andere Hersteller.
+Um Zugriff auf die eigenen Karten- und Kartendesign-Dateien zu erhalten, nutzt c:geo eine Systemapp namens “Externer Speicher”. Diese benötigt Zugriff auf die Dateien, um sie c:geo bereitzustellen.
+Bitte prüfe, ob folgende Einstellung aktiv ist:
+Samsung Geräte: Einstellungen → Apps → Spezieller Zugriff (im “Drei Punkte-Menü”) → Zugriff auf alle Dateien → Externer Speicher
+Andere Hersteller: (sollte ähnlich sein, aber wir kennen den genauen Pfad noch nicht)
+Why did the online map of mapy.cz stop working?
+The company behind mapy.cz seems to have changed the usage conditions for their map server recently and blocked the access.
+Due to this change of usage conditions we are unfortunately no longer able to provide mapy.cz maps in c:geo.
+Warum funktioniert die Online-Karte von mapy.cz nicht mehr?
+Die Firma hinter mapy.cz hat scheinbar vor kurzem die Nutzungsbedingungen für ihren Karten-Server geändert und den Zugriff blockiert.
+Aufgrund der neuen Nutzungsbedingungen können wir die Karte von mapy.cz leider nicht mehr in c:geo anbieten.
+The background cache downloader fails for larger amount of caches!
+The new feature performs batch refresh/download of caches in the background instead of blocking the usage of c:geo during download.
+This implies, that you probably need to allow c:geo be active while in background. Otherwise cache downloads might fail as soon as your device goes into sleep or you use another app.
+On most devices you will find energy saving preferences in your device settings fur this purpose. Make sure to allow background activity for c:geo there.
+On recent Samsung devices you will e.g. find it in Settings → Apps → c:geo → Battery, where you should set it to “Unrestricted”.
+Der Cache-Download im Hintergrund schlägt bei größerer Anzahl von Caches fehl!
+Die neue Funktion führt die Speicherung/Aktualisierung von Caches im Hintergrund aus anstatt die Nutzung von c:geo während des Herunterladens zu blockieren.
+Dies bedingt, dass du wahrscheinlich c:geo die Erlaubnis geben musst im Hintergrund aktiv zu sein. Andernfalls könnte das Herunterladen von Caches fehlschlagen sobald dein Gerät einschläft oder du eine andere App nutzt.
+Bei den meisten Geräten findest du zu diesem Zweck Energiespar-Präferenzen in den Einstellungen deines Gerätes. Stell sicher, dass du dort Hintergrundaktivitäten für c:geo erlaubst.
+Bei aktuellen Geräten von Samsung findest du dies z.B. unter Einstellungen → Apps → c:geo → Akku, wo du “Unbeschränkt” einstellen solltest.
+Maps.me is no longer working when started from c:geo!
+This problem started with a recent update of maps.me. As we haven’t changed anything on c:geo side with regard to the maps.me connection, our best guess is that 
+there have been changes on the maps.me side with their new version which causes this.
+We have opened a support ticket with them, but so far no response from their side, though. You can help by also reporting this bug to maps.me to increase attention.
+Users of c:geo have provided us with workarounds for the techy savvy, see
+this bugtracker issue
+for details.
+Maps.me kann von c:geo nicht mehr gestartet werden!
+Das Problem begann mit einem kürzlichen Update von maps.me. Da wir in c:geo in Bezug auf die maps.me-Anbindung nichts geändert haben, vermuten wir, dass es an der neuen Version von maps.me liegt.
+Wir haben ein Supportticket bei maps.me aufgemacht. Bislang haben wir allerdings noch keine Rückmeldung von maps.me erhalten. Du kannst helfen, indem du ebenfalls eine Fehlermeldung an maps.me sendest um sie darauf aufmerksam zu machen.
+c:geo-Anwender haben uns Workarounds für technisch Versierte vorgeschlagen, siehe
+diesen Bugtracker-Issue
+für Details.
+I am using Android 12 and c:geo is not offered to open web links!
+If you are using a device running Android 12 you might experience, that c:geo is not offered as target app (anymore) when tapping a geocaching related link e.g. from your email. Instead the link is opened in another app or your browser without giving you a choice.
+This is caused by the fact, that in Android 12 Google removed the dialog to let the user choose which app to use for certain web links. Instead the browser or an app which officially registered for that specific weblink is automatically used.
+You can change this by going to your device app settings, open the c:geo app settings and manually select what URLs (web links) you allow c:geo to open.
+Unfortunately in Android 12 you can only set this as permanently (no longer asking each time you tap such link).
+Info for Xiaomi users: On some Xiaomi devices this procedure does not work as Xiaomi did not follow common Android practice and does not offer the mentioned setting. In this case you might want to look into this
+helper app
+which acts as an app chooser for those cases.
+If you experience, that this setting is removed by your device automatically, than you probably also have the Groundspeak Geocaching app installed on your device.
+As the Groundspeak app registered itself as owner of the website, this will overrule your personal setting. 
+Luckily there is an easy workaround: Go to your device app settings, open the setting for the Groundspeak app and completely disable the function, that it is opened for supported weblinks.
+Afterwards activate it for c:geo as described above.
+Some of cgeo’s users reported the following steps as working on Xiaomi and Poco mobiles:
+Install and open app “Hidden Settings for Miui” (It’s in the PlayStore)
+Select Settings –> Manage Aplications
+If official geocaching app is installed, choose it –> select “Open by definition” –> “Add Link” —> remove all selected –> Back and then disable “Open compatible Links”.
+Choose c:geo –> Enable “Open compatible Links” –> Select all the links.
+For Poco devices tap on “Open by default” in app settings, then “open supported links”, then check the links you want to have opened in c:geo
+Ich nutze Android 12 und c:geo wird nicht angeboten um Weblinks zu öffnen!
+Wenn du ein Gerät mit Android 12 nutzt, kann es passieren, dass c:geo nicht (mehr) als Ziel-App angeboten wird, wenn ein Geocaching-bezogener Weblink (z.B. aus einer Mail) angetippt wird. Stattdessen wird der Link in einer anderen App oder deinem Browser geöffnet, ohne dir die Wahl zu lassen.
+Dies wird dadurch verursacht, dass Google den Dialog, der den Nutzer die gewünschte App auswählen lässt, entfernt hat. Stattdessen wird der Link im Browser oder einer App geöffnet, die sich für diesen Web-Link offiziell registriert hat.
+Du kannst dies ändern, in dem du die App-Einstellungen deines Gerätes und dort die c:geo App-Einstellungen öffnest und dort manuell festlegst, für welche URLs (Web-Links) du c:geo erlaubst genutzt zu werden.
+Dies ist leider bei Android 12 nur noch dauerhaft festlegbar (keine Auswahl beim Tippen eines solchen Links).
+Info für Xiaomi-Nutzer: Auf einigen Xiaomi-Geräten funktioniert diese Prozedur nicht, da Xiaomoi nicht den Android-Empfehlungen folgt und die genannte Option nicht anbietet. In diesem Fall schau dir einmal diese
+Helfer-App
+an, die als App-Wähler für solche Fälle dient.
+Wenn es so sein sollte, dass diese Einstellung von deinem Gerät automatisch wieder entfernt wird, dann hast du vermutlich auch die Groundspeak Geocaching-App auf deinem Gerät installiert.
+Da die Groundspeak-App sich selber als Inhaber der Webseite registiert, werden damit deine persönlichen Einstellungen überstimmt.
+Glücklicherweise gibt es einen einfachen Workaround: Gehe in die App-Einstellungen deines Gerätes und dort in die Einstellungen der Groundspeak-App und deaktiviere die Funktion, dass unterstützte Webseiten dort geöffnet werden, komplett.
+Aktiviere danach diese Funktion wieder für c:geo wie oben beschrieben.
+Einige cgeo-Anwender haben folgenden Weg für Xiamo- und Poco-Handys beschrieben:
+Installiere und starte die App Hidden Settings for Miui (im PlayStore zu finden)
+Wähle Settings –> Manage Aplications
+Falls die offizielle Geocaching App installiert ist, wähle sie aus –> wähle “Open by definition” –> “Add Link” —> lösche alle Zuordnungen –> dann zurück und wähle “Open compatible Links” ab.
+Wähle dann c:geo –> Aktiviere “Open compatible Links” –> Wähle alle Zuordnungen aus.
+Für Poco-Geräte wähle “Open by default”, dann “open supported links”, und wähle dann die Adressen aus, die sich in c:geo öffnen sollen
+Getting started
+Erste Schritte
+I am new to Geocaching. How does all of this work?
+You can find information about how to get started with c:geo in our
+user guide
+.
+Ich bin neu beim Geocaching. Wie funktioniert das alles?
+Informationen zur Nutzung von c:geo findest du in unserem
+Benutzerhandbuch
+.
+I forgot my username and/or password!
+c:geo is only using the login details you specified on the geocaching website.
+You must go to the geocaching website to reset your password. After you successfully restored your password there, please go to c:geo settings and enter the new login data.
+For example on
+geocaching.com
+you can reset your password on
+this page
+. If you forgot your username you can request it on
+this page
+.
+Ich habe meinen Benutzernamen und/oder Passwort vergessen!
+c:geo nutzt nur deine Nutzerdaten, die du auf der Geocaching-Webseite festgelegt hast.
+Du musst also auf die Geocaching-Webseite gehen, um dein Passwort zurückzusetzen. Nachdem du es dort erfolgreich zurückgesetzt hast, gehe bitte in die c:geo-Einstellungen und gib die neuen Nutzerdaten dort ein.
+Für
+geocaching.com
+kannst du beispielsweise
+auf dieser Seite
+dein Passwort zurücksetzen. Wenn du deinen Benutzernamen vergessen hast, kannst du ihn auf
+dieser Seite
+abfragen.
+A login problem is shown on the main screen!
+Please check
+this page of user guide
+, which provides detailed help in case of login problems.
+Ein Anmeldungsfehler wird im Hauptmenü angezeigt!
+Bitte schaue dir
+diese Seite unseres Benutzerhandbuchs
+an, die eine detailierte Hilfestellung im Falle von Anmeldeproblemen enthält.
+How to reset c:geo to factory defaults?
+Attention:
+This procedure will delete all stored caches and app settings!
+If needed, perform a backup of your caches in Menu → Settings → Backup/Restore
+Go to your Android settings (not c:geo settings) and select Apps or Appmanager → c:geo → “Delete data”
+On the next start of c:geo it will be back to factory settings and take you directly to the login screen.
+Enter your login data for the desired geocaching website
+Restore your backup (You will be asked for restoring once you enter the main screen of c:geo)
+Wie setze ich c:geo auf Werkseinstellungen zurück?
+Achtung:
+Diese Prozedur löscht alle gespeicherten Caches und App-Einstellungen!
+Wenn benötigt, führe eine Sicherung der Caches unter Menü → Einstellungen → Sicherung/Wiederherstellung durch.
+Gehe in deine Android-Einstellungen (nicht die c:geo-Einstellungen) und wähle Apps oder Anwendungsmanager → c:geo → Daten löschen
+Beim nächsten Start von c:geo sind die Werkseinstellungen wieder hergestellt und es erscheint der Anmeldebildschirm.
+Gib deine Nutzerdaten für die gewünschte Geocaching-Plattform ein
+Stelle ggf. deine Sicherung wieder her (du wirst im Hauptmenü von c:geo nach der Wiederherstellung gefragt)
+General
+Allgemeines
+My find count on home screen shows two numbers (e.g. 1234 + 5)!
+Starting with 2020.09.02-RC c:geo does now support an offline find count.
+This means, that your find count will be incremented also for offline logs. This way you can use the signature template [NUMBER] also for offline logs.
+To remind you of existing offline logs those are shown separate to your online find count.
+If this offline number shows up unexpected, you might have some offline logs from the past still stored in c:geo. Open the list “History” and filter “Status” - “Has Offline Log=YES” to see the caches causing this.
+If you do no longer need these offline logs you can clear them by selecting Menu → Manage caches → Clear offline logs while on the history list.
+Meine Fundzahl auf dem Startbildschirm zeigt zwei Zahlen (z.B. 1234 + 5)!
+Ab Version 2020.09.02-RC unterstützt c:geo einen Offline-Fundzähler.
+Das bedeutet, dass deine Fundzahl auch für Offlinelogs hochgezählt wird. Auf dieser Weise kannst du die Signatur-Vorlage [NUMBER] nun auch für Offlinelogs nutzen.
+Um dich an die existierenden Offlinelogs zu erinnern, werden diese separat zu deiner Online-Fundzahl angezeigt.
+Wenn diese Offline-Fundzahl unerwartet angezeigt wird, hast du wahrscheinlich noch vergangene Offlinelogs in c:geo gespeichert. Öffne die Liste “Verlauf” und filtere nach “Status” - “Hat Offline-Log=JA”, um die Caches zu sehen, die dies verursachen.
+Wenn du diese Offline-Logs nicht mehr benötigst, kannst du sie löschen, indem du Menü → Caches verwalten → Offline-Logs löschen wählst, während du auf der Liste “Verlauf” bist.
+How can I change to miles instead of meters?
+c:geo uses metric units by default but should detect automatically if your phones default is set to imperial units.
+You can also manually select your preference in c:geo settings:
+c:geo Menu → Settings → Appearance → “Use Imperial units”
+Wie kann ich Meilen statt Meter einstellen?
+c:geo nutzt als Standard das metrische System, sollte sich aber automatisch den Telefon-Einstellungen anpassen.
+Du kannst das gewünschte System aber auch in den c:geo-Einstellungen setzen:
+c:geo Menü → Einstellungen → Erscheinungsbild → “Imperiale Einheiten”
+Why do the cache details miss new information?
+In order to minimize the network traffic c:geo downloads caches only once and stores them temporary or permanently (if you save them on your list).
+So if you miss some information (e.g. newest logs are missing, description has changed, etc.) please refresh the stored cache by selecting the “Refresh” button on the cache detail page.
+Warum fehlen aktuelle Daten in den Cache-Details?
+Um den Netzwerk-Verkehr zu minimieren, lädt c:geo die Caches nur einmalig herunter und speichert sie temporär oder permanent (wenn du sie in deinen Listen speicherst).
+Wenn du also einige Informationen vermisst (z.B. die neuesten Logs fehlen, die Beschreibung hat sich geändert, usw.), aktualisiere bitte den gespeicherten Cache, indem du die Schaltfläche zum Aktualisieren auf der Cache-Details Seite wählst.
+Why does c:geo not use Groundspeak's public API?
+The initial idea of c:geo is to provide a free (and open-source) app for mobile geocaching for everybody.
+What would change with the API?
+c:geo only for premium members
+No support for Opencaching or other platforms than geocaching.com
+Groundspeak advertisements
+There would also be problems with the development:
+The API requires a private key for the app. But c:geo is open source. There are a lot of independent developers, but only one would get the key. All other developers would not be able to test what they do.
+c:geo would no longer be open source
+Only a few core developers would be allowed
+Much slower development would result from that
+While Groundspeak’s API would fix some of our current problems, c:geo would then force users to pay money to a corporation. This is not the open-source spirit.
+If Groundspeak says OK to our ideas then c:geo might have use the API someday…
+Warum nutzt c:geo nicht das Groundspeak-API?
+Die ursprüngliche Idee von c:geo ist es, eine kostenlose (und quelloffene) Anwendung zum mobilen Geocaching für alle zur Verfügung zu stellen.
+Was würde sich mit dem API ändern?
+c:geo nur für Premium-Mitglieder
+Keine Unterstützung von Opencaching oder anderen Plattformen außer geocaching.com
+Groundspeak-Werbung
+Es würde auch Probleme bei der Entwicklung geben:
+Das API benötigt einen privaten Schlüssel für die App, aber c:geo ist quelloffen. Es gibt eine Menge unabhängiger Entwickler, aber nur einer davon würde über den Schlüssel verfügen. Alle anderen Entwickler wären nicht in der Lage zu testen, was sie machen.
+c:geo wäre nicht mehr quelloffen
+Nur wenige Haupt-Entwickler wären erlaubt
+Wesentlich langsamere Entwicklung wäre das Resultat davon
+Obwohl das API von Groundspeak einige unserer aktuellen Probleme beheben würde, würde c:geo die Nutzer dann zwingen Geld an eine Firma zu zahlen. Das entspricht nicht dem Geist der quelloffenen Anwendungen.
+Wenn Groundspeak mit unseren Ideen einverstanden ist, könnte c:geo eines Tages auch das API nutzen…
+Is it possible to edit an existing geocache log with c:geo?
+No, this is not possible and we do not have plans to implement this on short term.
+Please use the geocaching website to edit your log after you posted it.
+Ist es möglich mit c:geo ein existierendes Log zu bearbeiten?
+Nein, das ist nicht möglich und wir planen derzeit nicht dies einzubauen.
+Bitte nutze für das Bearbeiten von Logs, die du schon gesendet hast, die Geocaching-Webseite.
+How can I store c:geo data on my SD card?
+There are two main things we are storing on your device:
+The geocache database containing basically the content of your lists:
+You may store the database of c:geo either system internally or in a directory on your user storage.
+You can change the database location in Menu → Settings → Offline Data → “Database location”.
+As the database availability is critical for using c:geo and the typical size is only some megabyte, we decided to forbid moving it to the external SD card.
+ If you enable the option “On user storage” the database will be moved to the folder /Android/data/cgeo.geocaching/files/databases (may vary depending on your device).
+The additional data (e.g. images, maps) for all the caches stored in the database:
+This additional data can be much larger as it contains the images of the cache description and (optionally) and the images retrieved from logs.
+By default this data is stored on the internal user storage in /Android/data/cgeo.geocaching/files/GeocacheData/.
+You can move this data to your external SD card in Menu → Settings → Offline Data → “Geocache Data Directory”.
+If your device supports using the external SD card this menu option will show you the available target directories as well as the current size of your geocache data and the available space on the target directories.
+Please consider the following when you decide to store the geocache data on your external SD card:
+The initial moving of the geocache data might take a long time depending on the amount of data to be moved.
+Please do not interrupt the process and make sure your device is sufficiently charged.
+If you remove the external SD card or the SD card is full the additional geocache data will no longer be available and c:geo might no longer work as expected.
+Wie kann ich Daten von c:geo auf der externen SD-Karte abspeichern?
+Es gibt hauptsächlich zwei Dinge, die wir auf deinem Gerät speichern:
+Die Geocache-Datenbank, welche grob gesagt den Inhalt deiner Listen enthält:
+Diese Datenbank wird entweder systemintern oder in einem Ordner im Benutzerspeicher abgelegt.
+Du kannst den Speicherort über Menü → Einstellungen → Offline-Daten → “Datenbank-Speicherung” ändern.
+Da die Verfügbarkeit der Datenbank kritisch für die Nutzung von c:geo ist und die typische Größe nur wenige Megabyte beträgt, haben wir entschieden ein Verschieben der Datenbank auf die externe SD-Karte zu verbieten.
+ Wenn du die Option “Auf Benutzerspeicher” aktivierst, wird die Datenbank in den Ordner /Android/data/cgeo.geocaching/files/databases (variiert je nach Gerät) verschoben.
+Die zusätzlichen Daten (z.B. Bilder, Karten) für alle gespeicherten Caches in der Datenbank:
+Diese zusätzlichen Daten können viel größer sein, da sie die Bilder der Cachebeschreibung und (optional) und die Logbilder enthalten.
+ Die Daten werden standardmäßig auf dem internen Benutzerspeicher abgelegt unter /Android/data/cgeo.geocaching/files/GeocacheData/.
+Du kannst diese Daten über Menü → Einstellungen → Offline-Daten → “Geoache-Daten Verzeichnis” auf die externe SD-Karte verschieben.
+Wenn dein Gerät die Nutzung einer externen SD-Karte hierfür unterstützt, zeigt dieses Menü die verfügbaren Zielverzeichnisse sowie die Größe deiner Geocache-Daten und den verfügbaren Speicherplatz in den Zielverzeichnissen an.
+Bitte berücksichtige das Folgende, wenn du dich dafür entscheidest die Geocache-Daten auf der externen SD-Karte zu speichern:
+Das Verschieben der Geocache-Daten kann, je nach Menge der zu verschiebenden Daten, eine ganze Weile dauern.
+Bitte unterbrich diesen Prozess nicht und stelle sicher, dass dein Gerät ausreichend geladen ist.
+Wenn du die externe SD-Karte entfernst oder sie voll ist, werden die Geocache-Daten nicht mehr verfügbar sein und c:geo könnte nicht mehr so wie erwartet funktionieren.
+Can I login using my Facebook or Google account?
+No, the login via Facebook or Google is an option on the geocaching website only.
+In order to login to geocaching.com via c:geo you need to enter the username and password dedicated to the website.
+In case you currently only use Facebook or Google to login to geocaching.com, you have to go to the
+Password Reset Page
+to set up a regular password first.
+Please note, that you have to logout from the Geocaching.com website first to reach the password reset page.
+After you got this password you can use it together with your username to log in with c:geo.
+Kann ich mich mit meinem Facebook- oder Google-Account anmelden?
+Nein, die Anmeldung über Facebook oder Google ist nur auf der Geocaching-Webseite möglich.
+Um dich in c:geo bei geocaching.com anzumelden, benötigst du einen Benutzernamen und Passwort von dieser Seite.
+Wenn du dich bislang nur über Facebook oder Google bei geocaching.com angemeldet hast, gehe bitte auf ihre
+Passwort-Reset Seite
+und fordere dort ein reguläres Passwort an.
+Bitte beachte, dass du dich erst auf der Geocaching-Seite ausloggen musst, um die Passwort-Reset Seite zu erreichen.
+Wenn du dieses Passwort erhalten hast, kannst du es zusammen mit deinem Benutzernamen in c:geo für die Anmeldung verwenden.
+Can c:geo post to Facebook?
+No, currently c:geo does only support Twitter as a social network.
+As the development team has limited resources and is focusing on new geocaching features, we currently do not have plans to implement a Facebook connection.
+However, if you are Twitter user already and/or you are looking for a way to post your findings to Facebook, please note that there is a possibility to link Twitter to Facebook.
+Doing so all your tweets will also be posted on Facebook (including the c:geo tweets).
+You can find more info on the
+Twitter support website
+.
+Kann c:geo auf Facebook posten?
+Nein, momentan unterstützt c:geo nur Twitter als soziales Netzwerk.
+Da das Entwickler-Team nur begrenzte Ressourcen hat, fokussieren wir uns auf neue Geocaching-Features und habe keine Pläne eine Facebook-Verbindung in c:geo zu integrieren.
+Dennoch gibt es einen Weg auf Facebook zu posten, wenn du bereits Twitter-Nutzer bist, da du Twitter mit Facebook verknüpfen kannst.
+Wenn du dies machst, werden alle Tweets auch auf Facebook gepostet (inklusive der c:geo-Tweets).
+Mehr Informationen dazu findest du auf der
+Twitter-Support Webseite
+.
+Translations are missing or wrong!
+We are using a crowd sourced translation platform to improve the translation and even include new languages.
+If you see untranslated (i.e. English) or wrong strings or your language is not even supported, you are invited to contribute on this platform!
+Just create a free account on
+Crowdin
+and start contributing translations or vote for existing proposals to the
+c:geo Crowdin Project
+.
+Es fehlen Übersetzungen oder sie sind falsch!
+Wir nutzen eine offene Übersetzungs-Plattform, um die Übersetzungen in c:geo zu verbessern und sogar neue Sprachen zu implementieren.
+Wenn dir nicht übersetzte (also nur in Englisch vorhandene) oder falsche Wörter auffallen oder deine Sprache noch gar nicht unterstützt wird, bist du eingeladen uns auf dieser Plattform zu unterstützen!
+Lege dazu einfach einen kostenlosen Zugang bei
+Crowdin
+an und füge Übersetzungen hinzu oder stimme über existierende Vorschläge in
+unserem c:geo-Crowdin-Projekt
+ab.
+Can I hide a cache and publish it using c:geo?
+Publishing a new cache with c:geo is not possible and there are no plans to implement this function.
+However you can still use c:geo to record waypoints to help you planning your cache hide.
+To do so simply use the ‘Go to’ function which offers a history of the coordinates you entered there.
+There are also other apps available on
+Google Play
+helping you to record and average coordinates for your new cache (e.g.
+GPS Averaging
+or
+Geocache Placer
+).
+In order to e.g. beta-test an unpublished cache you will not be able to access the cache online (because it is unpublished) but you can import the cache via GPX or add the cache waypoints manually to another cache already stored on your device.
+Furthermore you can view your own unpublished caches with c:geo by searching for its geocode online.
+Kann ich mit c:geo einen Cache verstecken und veröffentlichen?
+Das Veröffentlichen eines Caches mit c:geo ist nicht möglich und es gibt keine Pläne diese Funktion zu integrieren.
+Allerdings kannst du c:geo nutzen, um Wegpunkte zu speichern, was dir bei der Cacheplanung hilft.
+Um dies zu tun, nutze einfach die “Gehe zu”-Funktion, die dir eine Historie der dort eingegebenen Koordinaten zur Verfügung stellt.
+Es gibt auch andere Apps auf
+Google Play
+, die dir helfen Koordinaten für deinen neuen Cache zu mitteln und zu speichern (z.B.
+GPS Averaging
+oder
+Geocache Placer
+).
+Wenn du z.B. einen Beta-Test eines noch nicht veröffentlichten Caches machen möchtest, kannst du noch nicht Online auf den Cache zugreifen (da er noch nicht veröffentlicht ist), aber du kannst den Cache per GPX-Datei importieren oder die Wegpunkte manuell zu einem auf deinem Gerät gespeicherten Cache hinzufügen.
+Weiterhin kannst du deine eigenen unveröffentlichten Caches mit c:geo öffnen, indem du online nach dem Geocode suchst.
+How to delete my account?
+c:geo is only a client for several geocaching platforms and does not hold own accounts or logins.
+To delete or disable your account you have to consult the website of the geocaching platform (e.g. on
+this page
+of geocaching.com).
+Wie lösche ich meinen Zugang?
+c:geo ist nur ein Browser für verschiedene Geocaching-Plattformen und hat keine eigenen Zugänge oder Anmeldungen.
+Um deinen Zugang zu deaktivieren oder löschen, musst du die Webseite der von dir genutzten Geocaching-Plattform aufsuchen (z.B.
+diese Seite
+auf geocaching.com).
+How to manage my solved mysteries in c:geo?
+Most of the time when you solve a puzzle for a mystery cache you might want to store the real final coordinates until you go out and log the cache.
+Although each user might handle this different, we recommend to use a helpful feature of
+geocaching.com
+:
+Premium members of
+geocaching.com
+can store the real final coordinates of solved mystery caches (also working for all other cache types) on the website by tapping on the small pencil icon right next to the listing coordinates.
+Once you have stored the real final coordinates on the website they will also be available in c:geo once you store/refresh the cache.
+This means, that c:geo will display the cache icon on the real final coordinates and only have an additional waypoints referring to the listing coordinates.
+Of course this is also working the other way around:
+Open a cache in c:geo and create a new waypoint with the real final coordinates. Before saving the waypoint tap the selection “Set as cache coordinates in c:geo and on website”.
+Once you saved the waypoint the real final coordinates will be uploaded to the website.
+Wie verwalte ich meine gelösten Mysteries mit c:geo?
+In den meisten Fällen möchtest du nach dem Lösen eines Rätsels für einen Mystery-Cache die realen Final-Koordinaten speichern, bis du nach draußen gehst und den Cache loggst.
+Obwohl dies jeder Nutzer unterschiedlich handhabt, empfehlen wir eine hilfreiche Funktion von
+geocaching.com
+zu nutzen:
+Als Premium-Mitglied von
+geocaching.com
+kannst du die realen Final-Koordinaten der gelösten Mystery-Caches (aber auch für alle anderen Cache-Typen) auf der Webseite abspeichern, indem du das kleine Bleistift-Symbol direkt neben den Listing-Koordinaten nutzt.
+Nachdem du dort die realen Final-Koordinaten gespeichert hast, sind diese auch in c:geo verfügbar, wenn du den Cache speicherst bzw. aktualisierst.
+Das bedeutet, dass c:geo das Cache-Symbol an den realen Final-Koordinaten anzeigt und die Listing-Koordinaten nur noch als weiterer Wegpunkt des Caches angezeigt werden.
+Natürlich funktioniert das auch andersherum:
+Öffne einen Cache mit c:geo und erstelle einen neuen Wegpunkt mit den realen Final-Koordinaten. Bevor du diesen speicherst, wähle die Option “Als Cache-Koordinaten in c:geo und auf der Webseite setzen” aus.
+Nachdem du den Wegpunkt gespeichert hast, werden die realen Final-Koordinaten auf die Webseite hochgeladen.
+Missing data after import of caches via GPX (PQ)!
+When importing caches via GPX file (e.g. download a pocket query) some data is missing. That is because the GPX file format does not contain all information which is available online.
+The following information is missing or incomplete:
+Some logs (only the 5 recent logs are provided)
+Friends / Own logs
+Favorite points
+Spoiler and Log images
+Status of your watchlist
+GCVote rating
+Trackable inventory
+This information can be downloaded by manual “Refresh”, either individually cache by cache or for all caches in a list.
+Fehlende Daten nach dem Importieren von Caches per GPX (PQ)!
+Wenn du Caches als GPX-Datei (z.B. Herunterladen einer Pocket-Query) importierst, fehlen einige Daten. Das ist so, weil das GPX-Dateiformat nicht jede Information enthält, die online verfügbar ist.
+Die folgenden Informationen fehlen oder sind nicht komplett:
+Einige Logs (nur die fünf neuesten Logs werden mitgeliefert)
+Freundes- und eigene Logs
+Favoritenpunkte
+Spoiler- und Logbilder
+Status deiner Beobachtungsliste
+GCVote-Bewertung
+Trackable-Inventar
+Diese Informationen kannst du mit einer Aktualisierung einzelner oder der gesamten Cache-Liste herunterladen.
+How to perform a coordinate projection with c:geo?
+If you have a given coordinates plus direction and distance you have to perform a projection to obtain the resulting coordinates.
+To perform a projection simply add a new waypoint to a cache, enter the start coordinates and fill the field for distance and direction accordingly.
+If you save this it will result in a waypoint with the target coordinates.
+If you want to perform a projection on an existing waypoint this is only possible if the waypoint is user defined.
+If it is a waypoint defined by the owner you need to duplicate the waypoint to a user defined waypoint at first by selecting “Duplicate waypoint” after tapping on its coordinates.
+Wie führe ich eine Koordinaten-Projektion mit c:geo durch?
+Wenn du vorgegebene Koordinaten plus Richtung und Entfernung hast, musst du eine Projektion durchführen, um die resultierenden Koordinaten zu ermitteln.
+Um eine Projektion durchzuführen, füge einfach einen neuen Wegpunkt zu einem Cache hinzu, gebe die Start-Koordination ein und nutze die Felder für Entfernung und Richtung entsprechend.
+Beim Speichern wird dann ein Wegpunkt an den Ziel-Koordinaten erzeugt.
+Wenn du eine Projektion für einen existierenden Wegpunkt durchführen willst, funktioniert dies nur bei nutzerdefinierten Wegpunkten.
+Wenn der Wegpunkt vom Besitzer vorgegeben ist, musst du zuerst den Wegpunkt duplizieren. Dazu wähle “Dupliziere Wegpunkt” nachdem du auf die Koordinaten des Wegpunktes geklickt hast.
+The authorization to Opencaching fails, does not start or is not completed!
+If this is happening to you, please check that your device has the correct date, time and time zone information.
+For security reasons the Opencaching API will reject requests which are not matching the server time (± 5 minutes).
+On some devices the Internet browser does not correctly redirect back to c:geo after you logged in on the opencaching website but tries to open a website like “callback://www.cgeo.org[…]”.
+This is a faulty behavior of the Internet browser you are using, please try another Internet browser application to perform the authorization.
+Die Authentisierung mit Opencaching schlägt fehl, wird nicht gestartet oder nicht fertiggestellt!
+Wenn du dieses Problem hast, prüfe bitte, ob dein Gerät das korrekte Datum, Zeit und Zeitzone hat.
+Aus Sicherheitsgründen lehnt das Opencaching-API jede Anfrage ab, die nicht der Server-Zeit (± 5 Minuten) entspricht.
+Auf einigen Geräten leitet der Internet-Browser die Anfrage nicht korrekt an c:geo zurück, nachdem du dich auf der Opencaching-Webseite angemeldet hast, sondern öffnet eine Webseite wie z.B. “callback://www.cgeo.org[…]”.
+Das ist ein fehlerhaftes Verhalten des Internet-Browsers, den du nutzt. Bitte versuche eine andere Internet-Browser-App, um die Authentisierung durchzuführen.
+Installation and update
+Installation und Aktualisierung
+I am not able to install c:geo from Google Play!
+c:geo is shown as “Not supported” for your device on
+Google Play
+:
+This means that either your device is running on an Android version below 4.1 or it does not support GPS.
+Android versions below 4.0 are no longer supported by c:geo.
+If you are on a minimum Android version of 4.1 but your device has no GPS and you still want to install c:geo on it, you have to install c:geo manually by downloading the APK file
+here
+.
+But be aware, that you cannot navigate to caches without GPS!
+If you are a Chromebook user and want to install c:geo, have a look at
+this article
+for more details on how to sideload (manually install) an APK on those devices.
+Ich kann c:geo nicht über Google Play installieren!
+c:geo wird als “Nicht unterstützt” für das Gerät auf
+Google Play
+angezeigt:
+Dies bedeutet, dass dein Gerät entweder mit einer Android-Version kleiner als 4.1 läuft oder kein GPS unterstützt.
+Android-Versionen kleiner als 4.1 werden von c:geo nicht mehr unterstützt.
+Wenn du ein Gerät mit einer Android-Version von mindestens 4.0 nutzt, das aber kein GPS unterstützt, und dennoch c:geo darauf installieren möchtest, musst du c:geo manuell durch Herunterladen der
+APK-Datei
+installieren.
+Bitte beachte, dass eine Navigation zu einem Cache ohne GPS nicht möglich ist!
+Wenn Du ein Chromebook verwendest und darauf c:geo installieren möchtest, lies
+diesen Artikel
+(Englisch) für Informationen, wie Du eine Installationsdatei manuell auf diesem Gerät installieren kannst.
+I do see a warning in c:geo that my device is no longer supported!
+If you see this message your device will no longer be supported in upcoming c:geo versions.
+We decided to drop the support of Android versions below 5.0. Only a very minor percentage of our users is affected.
+The reason for this is, that we want to include more features and further improve usability and stability. Newer Android versions offer a lot more possibilities which we simply cannot use if we have to be compatible to Android 4.
+There will be no more c:geo updates for devices below Android 5.0. Therefore some online functions do no longer work, or might fail in future.
+You can however still use c:geo for offline Geocaching (e.g. by importing GPX files and exporting field notes).
+Please check if the manufacturer of your device offers an update for your device. If there is no official update it may also be possible to use a Custom ROM if it is available for your device.
+If nothing can be done to update your device, you should consider using a new(er) device running on an Android version as recent as possible.
+Ich sehe eine Warnung in c:geo, dass mein Gerät nicht länger unterstützt wird!
+Wenn du diese Nachricht siehst, wird dein Gerät in zukünftigen Versionen von c:geo nicht länger unterstützt.
+Wir haben uns entschieden, die Unterstützung von Android-Versionen kleiner als 5.0 aufzugeben. Nur ein sehr geringer Prozentsatz unserer Nutzer ist davon betroffen.
+Der Grund dafür ist, dass wir neue Features einführen und Stabilität und Nutzbarkeit weiter verbessern wollen. Neuere Android-Versionen bieten viel mehr Möglichkeiten, die wir einfach nicht nutzen können, wenn wir zu Android 4 kompatibel sein müssen.
+Es wird keine weiteren c:geo Aktualisierungen für Geräte unter Android 5.0 geben. Daher funktionieren einige Online-Funktionen nicht mehr, oder könnten zukünftig nicht mehr funktionieren.
+Du kannst jedoch weiterhin c:geo für Offline-Geocaching nutzen (z.B. durch Import von GPX-Dateien und Export von Feldnotizen).
+Prüfe, ob der Hersteller deines Gerätes eine Aktualisierung anbietet. Wenn es keine offizielle Aktualisierung gibt, kann es dennoch möglich sein, ein Custom-ROM zu nutzen, wenn es für dein Gerät verfügbar ist.
+Wenn nichts zu machen ist, solltest du überlegen ein neu(er)es Gerät zu nutzen, dass mit einer möglichst aktuellen Android-Version ausgestattet ist.
+Why does c:geo need the requested permissions on my device?
+c:geo needs the following permissions to do its job and will only use them for that purpose:
+Location
+Of course c:geo needs access to the GPS on your device to locate your position and calculate distance and direction to geocaches.
+Photos/Media/Files
+c:geo will write data onto your phone storage or SD card as soon as you save geocaches for offline use. Furthermore c:geo will use your phone storage for import and export of files and reading of offline maps.
+Warum braucht c:geo die angefragten Rechte auf meinem Gerät?
+c:geo benötigt die folgenden Rechte, um seine Arbeit zu erledigen und nutzt diese nur zu diesem Zweck:
+Lokalisierung
+Natürlich benötigt c:geo Zugriff auf das GPS deines Gerätes, um die Position zu bestimmen und Entfernungen zu Geocaches zu berechnen.
+Fotos/Medien/Dateien
+c:geo schreibt Daten in deinen Telefonspeicher oder die SD-Karte, sobald Geocaches zur Offline-Nutzung gespeichert werden. Weiterhin nutzt c:geo den Telefonspeicher für Import und Export von Dateien und das Lesen von Offline-Karten.
+I want to install an older version of c:geo!
+Generally we do not recommend to install an outdated version of c:geo, because it might no longer work as expected as newer versions often include adaptions to changed functions of the geocaching platforms.
+We strongly recommend not to go back but to apply all updates as soon as they are available.
+We cannot guarantee that older versions will still work!
+If you however still want to install an old version (e.g. for testing purposes) you can find a version history with download option in our
+GitHub Release History
+.
+Please be aware that you need to uninstall a newer version of c:geo on your device before installing an older version as downgrading is not possible.
+Ich möchte eine ältere Version von c:geo installieren!
+Generell empfehlen wir keine veraltete Version zu installieren, da diese nicht mehr länger so funktionieren könnte wie erwartet. Neuere Versionen enthalten oft Anpassungen an geänderte Funktionen auf der Geocaching-Plattform.
+Daher empfehlen wir wirklich dringend, nicht auf eine alte Version zu setzen, sondern alle Aktualisierungen zu installieren, sobald sie verfügbar sind.
+Wir können nicht garantieren, dass ältere Versionen noch funktionieren!
+Wenn du dennoch eine alte Version installieren möchtest (z.B. zu Testzwecken), findest du die Versionshistorie mit Download-Option in unserer
+Github Release-Historie
+.
+Bitte beachte, dass eine neuere Version vor der Installation einer älteren Version deinstalliert werden muss. Ein Downgrade ist nicht möglich.
+I don't use Google Play but still want to use c:geo!
+You can download the newest version of c:geo directly to your device from
+here
+.
+Ich nutze Google Play nicht, möchte aber dennoch c:geo nutzen!
+Du kannst die neueste Version von c:geo auch direkt
+hier
+herunterladen.
+Is c:geo available for iOS or Windows Phone?
+No, c:geo is written for Android and has more than 50,000 lines of code. We will not port it to iOS or other non Android systems because it is too much work. Furthermore the iOS AppStore / Apple is very restrictive and most of us don’t like it.
+But c:geo is open source! That means that everyone can get the code from
+GitHub
+and rewrite it for other operating systems. Feel free to port (and maintain) it, but be aware of the
+open source license terms
+.
+Gibt es c:geo auch für iOS oder WindowsPhone?
+Nein, c:geo ist für Android geschrieben und hat mehr als 50.000 Code-Zeilen. Wir werden es nicht nach iOS oder auf andere Nicht-Android-Systeme portieren, weil es für uns einfach zu viel Arbeit ist. Weiterhin ist der iOS-Appstore bzw. Apple sehr restriktiv und die meisten von uns mögen das nicht.
+Aber c:geo ist quelloffen! Das bedeutet, dass jeder den Quellcode von
+GitHub
+beziehen und ihn dann für andere Betriebssysteme umschreiben kann. Du kannst gerne den Code portieren (und warten), aber beachte die
+OpenSource-Lizenzbedingungen
+I got a new device. How to transfer all the content of c:geo from the old device?
+Sometimes users are asking us how to clone the content in their c:geo installation from one device to another (e.g. in case they got a new device).
+Our user guide provides a step by step procedure for this:
+Migrate c:geo to another device
+Ich habe ein neues Gerät. Wie übertrage ich alle Inhalte von c:geo vom alten Gerät?
+Manchmal fragen uns Nutzer, wie sie den Inhalt ihrer c:geo-Installation von einem Gerät zu einem anderen duplizieren (z.B. wenn sie ein neues Gerät bekommen haben).
+Unser Benutzerhandbuch enthält eine Schritt-für-Schritt Anleitung hierfür:
+c:geo auf ein anderes Gerät migrieren
+GPS and Navigation
+GPS und Navigation
+How to setup my device to get the best possible location?
+Android has different mechanisms to provide location information to apps:
+Network based location information derived from Wi-Fi signals and mobile networks
+GPS position information derived from the device GPS receiver
+You should make sure to enable both of these sources to get the best possible location information in c:geo in every situation.
+This can usually be done in your device settings (not in c:geo itself) in a menu called “Locations” or similar. You can also reach this menu by tapping on the GPS status shown on the lower corner of the c:geo main screen.
+Please select all possible sources in that menu or (in newer Android versions) select the “High accuracy mode”.
+Furthermore you should check if your device supports “Google Play Services” and eventually enable the usage of that in c:geo:
+Menu → Settings → System → “Use Google Play Services”
+Wie stelle ich mein Gerät ein, um die bestmögliche Lokalisierung zu haben?
+Android hat verschiedene Mechanismen, um Lokalisierungs-Informationen an Apps zu liefern:
+Netzwerkbasierte Lokalisierung abgeleitet aus WLAN-Signalen und den Mobilfunknetzen
+GPS-Positionsinformationen abgeleitet aus dem GPS-Empfänger deines Gerätes
+Stelle sicher, dass du beide Quellen aktiviert hast, um in jeder Situation die bestmögliche Positionsbestimmung in c:geo zu erhalten.
+Dies kann normalerweise in den Geräte-Einstellungen (nicht in c:geo selbst) in einem Menü namens “Lokalisierung” oder ähnlich ausgewählt werden. Diese Einstellungen erreichst man auch mit einem Klick auf den GPS-Status in der unteren Ecke des c:geo-Hauptmenüs.
+Bitte wähle dort alle verfügbaren Quellen oder (in neueren Android-Versionen) wähle den Modus “Hohe Genauigkeit”.
+Weiterhin solltest du prüfen, ob dein Gerät die “Google Play-Dienste” unterstützt und ggf. deren Nutzung in den c:geo-Einstellungen aktivieren:
+Menü → Einstellungen → System → “Google Play-Dienste nutzen”
+c:geo is draining my battery when I use it!
+Of course c:geo needs quite some battery power as it utilizes almost all sensors of your device to always determine the current position and direction as needed for Geocaching.
+Nevertheless we implemented sophisticated methods to optimize the power consumption over the last years.
+If you want to further minimize the battery consumption you can additionally active the low-power mode as described in
+this FAQ entry
+.
+c:geo saugt meinen Akku leer, wenn ich es nutze!
+Natürlich verbraucht c:geo einiges an Akkuladung, da es fast alle Sensoren des Gerätes verwendet, um ständig die für das Geocaching notwendige aktuelle Position und Richtung zu bestimmen.
+Dennoch haben wir in den letzten Jahren hochentwickelte Methoden integriert, um den Akkuverbrauch zu optimieren.
+Wenn du den Akkuverbrauch weiter minimieren möchtest, kannst du zusätzlich, wie in
+diesem FAQ-Eintrag
+beschrieben, den Energiesparmodus aktiveren.
+c:geo is even draining my battery when I do not use it!
+Your assumption is probably based on the fact that your Android battery statistics sometimes show a high percentage of battery drain for c:geo even if you did not recently use it.
+This is caused by a well-known bug within these measurement routines in Android:
+Sometimes the statistic collector misses to detect when an app stops using the phone sensors (this affects not only c:geo but all apps with high sensor usage).
+Because of this it keeps counting the app as running and consuming power for the sensors even if it was closed long time ago.
+These faulty battery statistics will only be “fixed” by a restart of your device.
+c:geo saugt sogar meinen Akku leer, wenn ich es nicht nutze!
+Deine Annahme beruht vermutlich darauf, dass deine Android Batterie-Statistik manchmal für c:geo eine hohe Prozentzahl des Akkuverbrauchs anzeigt auch wenn du c:geo nicht kürzlich genutzt hast.
+Dies wird durch einen wohlbekannten Fehler in den Messroutinen von Android verursacht:
+Manchmal verpasst der Statistik-Sammler festzustellen, dass eine App aufhört die Telefon-Sensoren zu verwenden (dies betrifft nicht nur c:geo sondern alle Apps mit hoher Sensor-Nutzung).
+Darum zählt er diese App weiterhin als aktiv und Strom für Sensoren verbrauchend, selbst wenn sie bereits vor längerer Zeit geschlossen wurde.
+Diese fehlerhaften Akku-Statistiken können nur “behoben” werden, indem man das Gerät neu startet.
+Why is GPS deactivated when I lock the screen or switch to another app?
+While you are using c:geo GPS should always be active except if you are in the settings menu.
+Only if you put your device to standby (switch off the screen) or switch to another app GPS will be deactivated to save battery.
+We have no plans to change this behavior or introduce another setting for this.
+If you wish to keep GPS always on, we recommend to use a dedicated app for this (e.g.
+GPS Lock
+).
+Warum wird GPS deaktiviert, wenn ich den Bildschirm sperre oder zu einer anderen App wechsele?
+Während der Nutzung von c:geo ist das GPS außer in den Einstellungen immer aktiviert.
+Nur wenn du das Gerät in den Bereitschaftsmodus (Ausschalten des Bildschirms) schaltest oder zu einer anderen Anwendung wechselst, wird das GPS deaktiviert, um Strom zu sparen.
+Wir planen nicht dieses Verhalten zu ändern oder eine weitere Einstellung dafür einzuführen.
+Wenn du das GPS immer aktiv halten möchtest, empfehlen wir eine dedizierte App dafür zu nutzen (z.B.
+GPS Lock
+).
+Why is GPS active all the time although I might not need it?
+Some users complained that their device needs a long time to reobtain a GPS fix after it was switched off.
+So we decided to keep GPS active while c:geo is being used (except in the settings menu).
+To save more battery you can you select Menu → Settings → System → “Activate low-power mode”.
+c:geo will then use high precise location (GPS) only if needed.
+This means, that e.g. on cache lists, cache descriptions, trackable screens GPS might be switched off or only used periodically.
+Warum ist GPS immer eingeschaltet, selbst wenn ich es nicht brauche?
+Einige Nutzer haben sich beklagt, da ihr Gerät eine lange Zeit braucht, um nach dem Ausschalten des GPS wieder einen GPS-Fix zu bekommen.
+Daher haben wir uns dazu entschieden, GPS aktiviert zu lassen, solange c:geo läuft (außer im Einstellungsmenü).
+Um mehr Akku zu sparen, kannst du unter Menü → Einstellungen → System den Energiesparmodus aktivieren.
+c:geo wird dann die hochpräzise Lokalisierung (GPS) nur nutzen, wenn es notwendig ist.
+Das bedeutet, dass z.B. auf Cache-Listen, in der Cache-Beschreibung, auf dem Trackable-Bildschirm GPS ggf. ganz ausgeschaltet oder nur periodisch eingeschaltet wird.
+The compass shows wrong directions or stops moving!
+In a major percentage of these cases the problem is within your device.
+c:geo only uses the position and compass information provided by the Android system.
+Please first of all try to calibrate the compass sensors of your device:
+On most devices this can be done by turning the devices around all of its axis three times or moving it horizontally in shape of the number 8 until the compass shows the right magnetic direction.
+Please be aware that electric fields (such as high voltage lines near to you) or magnetic fields (e.g. a phone cover with magnetic lock) might influence the device sensors.
+If the problem is still not solved you should try another app with compass functionality (e.g.
+GPS Status & Toolbox
+) to verify your device capabilities.
+If the compass works normal in other apps but not in c:geo you might experience a problem of the rotation sensor.
+In this case please go to Menu → Settings → System and activate “Use orientation sensor”.
+If nothing helps and the problem persists, please contact us and provide detailed information about your device, the compass misbehavior and what steps you already tried to resolve the problem.
+Der Kompass zeigt in die falsche Richtung oder bewegt sich nicht mehr!
+In einem Großteil dieser Fälle liegt das Problem innerhalb deines Gerätes.
+c:geo nutzt nur die Positions- und Kompass-Informationen, die vom Android-System zur Verfügung gestellt werden.
+Versuche bitte zuallererst deinen Kompass-Sensor zu kalibrieren:
+Auf den meisten Geräte kann man dies dadurch erreichen, dass man das Gerät mehrfach um alle seine Achsen dreht oder horizontal in Form einer 8 bewegt, bis der Kompass die richtige magnetische Ausrichtung anzeigt.
+Bitte beachte, dass elektrische Felder (z.B. Hochspannungsleitungen in deiner Nähe) oder magnetische Felder (z.B. eine Telefonhülle mit Magnetverschluss) den Sensor beeinflussen können.
+Wenn das Problem immer noch nicht behoben ist, solltest du eine andere App mit Kompass-Funktion ausprobieren (z.B.
+GPS Status & Toolbox
+), um die Geräte-Fähigkeiten zu prüfen.
+Wenn der Kompass zwar in der anderen App aber nicht in c:geo funktioniert, ist es möglich, dass dein Gerät ein Problem mit dem Rotations-Sensor hat.
+In diesem Fall aktiviere bitte in Menü → Einstellungen → System die Nutzung des Orientierungs-Sensors.
+Wenn gar nichts hilft und das Problem weiterhin besteht,
+kontaktiere
+bitte unseren Support mit detaillierten Informationen zu deinem Gerät, dem genauen Problem des Kompasses und was du schon versucht hast, um das Problem zu lösen.
+What is Radar navigation?
+The “Radar” function works together with the third party app called “GPS Status & Toolbox” available
+here on Google Play
+.
+Once you installed the app c:geo will additionally offer “Radar” as a navigation option.
+Was ist die Radar-Navigation?
+Die “Radar”-Funktion arbeitet mit einer Drittanbieter-App namens “GPS Status & Toolbox” zusammen, die
+hier auf Google Play
+verfügbar ist.
+Nachdem du diese App installiert hast, bietet c:geo dir zusätzlich “Radar” als Navigations-Option an.
+I am always located at Paris/France!
+Paris/France is the default location if c:geo is unable to get
+any
+location information on your device, no home coordinates are set on geocaching.com and c:geo never before had any information about your position since start of your phone.
+Please make sure all location sources are activated in your device settings.
+Please check
+this FAQ entry
+for more information.
+If you had a GPS fix at least once while c:geo is running it should remember this as your last position and open the live map at this position.
+Additionally you can set your home coordinates on
+this page
+on geocaching.com. c:geo will then use these coordinates if no other location information is available.
+Ich bin immer in Paris/Frankreich!
+Paris/Frankreich ist die Standard-Lokalisierung, wenn c:geo nicht in der Lage ist
+irgendeine
+Lokalisierungs-Information von deinem Gerät zu bekommen, keine Heimat-Koordinaten auf geocaching.com gesetzt sind und c:geo davor seit einem Neustart noch nie eine Position empfangen hat.
+Bitte stelle sicher, dass alle Lokalisierungs-Optionen in den Einstellungen deines Gerätes aktiviert sind.
+Lies dazu bitte
+diesen FAQ-Eintrag
+für weitere Informationen.
+Wenn du mindestens einmal einen GPS-Fix hattest während c:geo aktiv war, sollte es diese Position als deine letzte Position speichern und die Live-Karte an dieser Position öffnen.
+Zusätzlich kannst du deine Heimat-Koordinaten auf
+dieser Seite
+von geocaching.com einstellen. c:geo wird diese Koordinaten nutzen, wenn keine andere Lokalisierung verfügbar ist.
+c:geo seems unable to get my current location!
+Please first of all check if you enabled all positioning methods on your device as described in
+this FAQ entry
+.
+We received reports, that on some devices the “Google Play Services” might be faulty.
+If all location methods are enabled but you still have problems, please try to switch off the usage of “Google Play Services” in Menu → Settings → System → “Use Google Play Services”.
+c:geo scheint es nicht möglich zu sein, meine Position zu bestimmen!
+Zuallererst prüfe bitte, ob du alle Lokalisierungs-Methoden auf deinem Gerät, wie in
+diesem FAQ-Eintrag
+beschrieben, aktiviert hast.
+Wir haben Berichte erhalten, dass auf manchen Geräten die “Google Play-Dienste” fehlerhaft sind.
+Wenn alle Lokalisierungs-Methoden aktiviert sind, aber du weiterhin Probleme hast, versuche bitte die Nutzung der “Google Play-Dienste” in Menü → Einstellungen → System auszuschalten.
+Live Map
+Live-Karte
+The live map is not showing any caches!
+Please make sure that live mode is enabled. You might have accidentally disabled it:
+Live Map → Menu → Enable live
+You can see whether live is enabled or not by looking at the headline:
+“Map” means live mode is disabled, “Live Map” means live mode is enabled
+If still no caches are loaded please make sure you are logged in correctly in c:geo.
+Die Live-Karte zeigt keine Caches an!
+Bitte stelle sicher, dass die Aktualisierung eingeschaltet ist. Du könntest sie versehentlich deaktiviert haben:
+Live-Karte → Menü → Aktualisierung einschalten
+Du kannst mit einem Blick auf die Titelzeile sehen, ob die Live-Karte aktiv ist:
+“Karte” bedeutet, dass die Aktualisierung abgeschaltet ist. Live-Karte bedeutet, dass die Aktualisierung eingeschaltet ist.
+Wenn weiterhin keine Caches angezeigt werden, prüfe bitte, ob du korrekt in c:geo angemeldet bist.
+Instead of the map "c:geo won't run unless you install/update Google Play services" is shown!
+In order to use Google Maps in c:geo you need to have Google Play Services installed using a recent version on your device.
+This is a precondition by Google to use the Maps service.
+A button will be shown on the screen to allow to install/update Google Play Services on your device. This requires a Google account and access to the Google Play Store app.
+If you do not want or cannot install it, you can use one of the OSM maps supported in c:geo. Simply tap the map icon in the title bar and change to another map source than Google.
+Statt der Karte wird "c:geo won't run unless you install/update Google Play services" angezeigt!
+Um Google Maps in c:geo nutzen zu können, müssen die Google Play Dienste in einer aktuellen Version installiert sein.
+Dies ist eine Vorbedingung von Google, um den Kartendienst nutzen zu können.
+Es wird auf dem Bildschirm eine Schaltfläche angezeigt, die es dir erlaubt die Google Play Dienste zu installieren/aktualisieren. Dazu wird ein Google-Konto und Zugriff auf den Google Playstore benötigt.
+Wenn du dies nicht installieren kannst oder möchtest, kannst du stattdessen eine der OSM-Karten nutzen, die von c:geo unterstützt werden. Klicke hierzu einfach auf das Kartensymbol in der Titelzeile und wähle eine andere Karte anstatt Google aus.
+The map is rotating all the time!
+You have accidentally activated the experimental map rotation feature, which does not yet seem to work correct on your device.
+Please disable the map rotation in Live Map - Menu (three dot button) - Map rotation.
+We are working on improving this feature in future versions of c:geo.
+Die Karte dreht sich pausenlos!
+Du hast aus Versehen die experimentelle Kartenrotation eingeschaltet, die auf deinem Gerät scheinbar noch nicht korrekt funktioniert.
+Bitte deaktiviere die Kartendrehung in Live-Karte - Menü (Drei-Punkt-Button) - Kartendrehung.
+Wir arbeiten daran diese Funktion in den kommenden Versionen von c:geo zu verbessern.
+Starting my offline map is very slow!
+Starting with c:geo version 2021.03.16-RC1 we were forced to change the method c:geo reads map theme files from your storage.
+Unfortunately the new access method provided by Android is much slower to read many small files (such as in map themes). If you are using a custom map theme this could impact the time needed to initially render the map.
+There are two possible ways to fix the problem. The fix is not related to the offline map files itself, but only to map theme files:
+c:geo now supports
+zipped map themes
+:
+You can put the content of your themes folder into a zip archive and place this zip file into the theme folder instead. Alternatively download a zipped theme from your offline map provider (or via the c:geo map downloader) and directly place this file into your themes folder without unzipping it first.
+This solution brings a comparable opening performance of the map as before.
+c:geo now supports a
+sync function
+for themes:
+While the zip solution should be the prefereed method, you can also stay with unzipped theme files and instead let c:geo buffer the theme files internally. This method however is only recommended to advanced users with good knowledge of file storages and themes.
+To activate the sync go to c:geo Menu → Settings → Map and activate the function “Synchronize themes to app-private folder”.
+Make sure to check the size of the data to be synced
+in the following dialog, before confirming the sync!! The size should (depending on how many themes you use) only be some kB up to a few MB. Do not activate the sync if the shown size is unreasonably high! In that case your theme folder contains unrelated data, or you might use the same folder for maps and their themes. You should separate and clean up the data first and/or set the correct theme folder.
+If you are not sure, that you are doing it right, please use the zip solution instead (as described above).
+If you notice any problems or have further questions, feel free to contact
+support@cgeo.org
+.
+Das Starten meiner Offline-Karte ist sehr langsam!
+Beginnend mit der c:geo Version 2021.03.16-RC1 sind wir gezwungen die Methode zu ändern, mit der c:geo die Kartendesigns (Themes) von deinem Speicher liest.
+Leider ist die neue Zugriffsmethode, die von Android bereitgestellt wird, viel langsamer beim Lesen vieler kleiner Dateien (so wie in den Kartendesigns). Wenn du ein benutzerdefiniertes Kartendesign nutzt, kann dies die Zeit beinflussen die benötigt wird, um die Karte initial darzustellen.
+Es gibt zwei Wege dieses Problem zu beheben. Die Lösung bezieht sich hierbei nicht auf die Dateien mit Offline-Karten, sondern nur auf die Dateien mit dem Kartendesign.
+c:geo unterstützt nun
+gezippte Kartendesigns
+:
+Du kannst den Inhalt deines Kartendesign-Ordners in ein Zip-Archiv packen und diese Zip-Datei stattdessen im Ordner für Kartendesigns ablegen. Alternativ lade ein gezipptes Kartendesign von deinem Offlinekarten-Anbieter (oder mit dem c:geo Karten-Downloader) and platziere diese Datei direkt in den Kartendesign-Ordner, ohne sie zuerst zu entpacken.
+Diese Lösung bietet eine vergleichbare Geschwindigkeit beim Öffnen der Karten wie vorher.
+c:geo unterstützt nun eine
+Sync-Funktion
+für Kartendesigns:
+Die ZIP-Lösung ist die bevorzugte Methode, du kannst aber auch bei nicht gezippten Designs bleiben und c:geo stattdessen die Design-Dateien intern puffern lassen. Diese Methode empfehlen wir allerdings nur für erfahrene Anwender mit guter Kenntnis von Dateisystemen und Kartendesigns.
+Um die Synchronisierung zu aktivieren, gehe in das c:geo Menü → Einstellungen - Karte und aktiviere die Funktion “Design mit app-internem Ordner synchronisieren”.
+Prüfe im dann folgenden Dialog unbedingt die Größe der zu synchronisierenden Daten
+, bevor du die Synchronisierung bestätigst!! Die Größe sollte (je nach Anzahl der Designs) nur einige kB bis wenige MB betragen. Aktiviere die Synchronisierung nicht, wenn die angezeigte Größe ungewöhnlich hoch ist! In diesem Fall enthält dein Kartendesign-Ordner fremde Daten, oder du nutzt den gleichen Ordner für Karten und ihre Designs. Du solltest die Dateien erst trennen und aufräumen und/oder den korrekten Design-Ordner auswählen.
+Wenn du dir nicht sicher bist, ob du es richtig machst, nutze bitte stattdessen die oben beschriebene ZIP-Lösung.
+Wenn du Probleme feststellst oder weitere Fragen hast, kontaktiere uns gerne unter
+support@cgeo.org
+.
+Recent changes to the c:geo design
+Kürzliche Design-Änderungen in c:geo
+Where is my background image?
+You can enable this again by using c:geo Menu → Settings → Appearance → Wallpaper.
+Wo ist mein Hintergrundbild?
+Du kannst dies unter c:geo Menü → Einstellungen → Erscheinungsbild → Hintergrundbild wieder aktivieren.
+I am missing the "Go to" function!
+The new bottom navigation does only support five functions.
+Therefore we placed the former “Go to” main screen function into the menu of the new home screen now. Just tap on the menu (three-dot) button on the upper right to find the “Go to” function.
+On recent version of c:geo you can create a button shortcut on the homescreen for it, see settings → appearance → quick launch buttons
+Ich vermisse die "Gehe zu"-Funktion!
+Die neue Navigation am unteren Bildschirmrand unterstützt nur maximal fünf Funktionen.
+Daher haben wir die ehemalige “Gehe zu”-Funktion des Hauptbildschirms nun in das Menü des neuen Startbildschirms verschoben. Tippe einfach auf das Menü-Symbol (drei Punkte) oben rechts, um die “Gehe zu”-Funktion zu finden.
+In aktuellen Versionen von c:geo kannst Du Dir die Funktion auch als Button auf den Startbildschirm legen, siehe Einstellungen → Erscheinungsbild → Schnellstart-Schaltflächen
+New filtering framework
+Neue Filter-Methoden
+Why did you change the filtering?
+There have been several different filtering methods included into c:geo over the last years. As they have been developed independently of one another, there have been
+several limitations and issues with that, which we could not fix.
+Instead of trying to glue those existing filters together, we therefore decided to make a clean, new and more powerful approach.
+Warum habt ihr die Filterung geändert?
+In c:geo wurden über die letzten Jahre mehrere verschiedene Filtermethoden eingebaut. Da diese unabhängig voneinander entwickelt wurden, gab es dadurch mehrere Limitierungen und Fehler, die wir nicht beheben konnten.
+Statt dem Versuch dies irgendwie zusammenzukleben, haben wir uns daher dafür entschieden einen neuen, sauberen und leistungsfähigeren Versuch zu starten.
+What has changed for filtering?
+There used to be several different filters at different places in c:geo, which did only partly interact properly:
+The global hiding of found, owned, disabled, archived caches
+The global switch to filter on a single cache type within the whole app
+A bunch of filters for your stored caches (e.g. for certain states, attributes, etc.)
+We basically removed all of those filters and replaced them by a common filter framework with more and more flexible filtering options.
+There are now two independent filter contexts (with identical filtering options):
+A live filter which is used for all live data (i.e. on live map and for all search actions)
+An offline filter which is used for your stored caches
+The reason for this differentiation is, that you e.g. might want to hide your found caches on the map and for searches, while still seeing them on your lists.
+Your previous global cache hiding settings (e.g. for found caches) have therefore been automatically migrated into the live filter.
+For more information about the new filter possibilities, please refer to
+our user guide
+.
+The filter is all new and can get very complex (try the advanced mode!). So there might still be bugs or not everything you desire might be included. 
+Feel free to provide
+feedback to our support
+if you encounter problems or have improvement proposals.
+Was hat sich beim Filtern verändert?
+Es gab bislang mehrere verschiedene Filter an verschiedenen Stellen in c:geo, die nur begrenzt miteinander interagierten:
+Den globalen Ausblenden von gefundenen, eigenen, deaktivierten, archivierten Caches
+Die globale Einstellung einen einzelnen Cache-Typ in der gesamtem c:geo App zu filtern
+Eine Sammlung von Filtern für die gespeicherten Caches (z.B. nach gewissen Statuswerten, Attributen, etc.)
+Im Grunde haben wir all diese Filter entfernt und durch eine gemeinsame Filtermethodik mit mehr und viel flexibleren Filteroptionen ersetzt.
+Es gibt nun zwei unabhängige Filterkontexte (mit identischen Filteroptionen):
+Einen Live-Filter, der für alle Live-Daten genutzt wird (d.h. auf der Live-Karte und für alle Suchaktionen)
+Einen Offline-Filter, der für deine gespeicherten Caches genutzt wird
+Der Grund für diese Unterscheidung ist, dass du z.B. deine gefundenen Caches auf der Karte und für Suchen verstecken möchtet, aber du diese dennoch auf deinen Listen sehen möchtest.
+Die vorherigen globalen Einstellungen fürs Ausblenden (z.B. für gefundene Caches) wurden daher automatisch in den Live-Filter übertragen.
+Mehr Informationen zu den neuen Filtermöglichkeiten findet ihr in
+unserem Benutzerhandbuch
+.
+Der Filter ist komplett neu und kann sehr komplex werden (probier den erweiterten Modus aus!). Es kann also noch Fehler geben oder es ist noch nicht alles enthalten, was du erwartest.
+Kontaktiere und gerne mit
+deinem Feedback an unseren Support
+, wenn du Probleme feststellst oder Verbesserungsvorschläge hast.
+Adventure Lab Caches
+Adventure Lab-Caches
+Why are Adventure Lab caches only shown to premium members?
+There is no final information available from Groundspeak yet, how Adventure Labs will be implemented into their app interfaces and/or websites.
+Therefore Groundspeak explicitly asked us to include this restriction, which is also present in other Geocaching apps. In spirit of good collaboration of c:geo and Groundspeak we decided to respect their wishes for now.
+If we would include all currently available data for both member types, we might later end up with removing functions, if they are no longer available by Groundspeak’s future interfaces.
+Warum werden Adventure Lab-Caches nur Premium-Mitgliedern angezeigt?
+Es gibt seitens Groundspeak noch keine finale Information darüber, wie Adventure Labs künftig in ihre App-Schnittstelle und/oder ihre Webseite implementiert werden.
+Daher hat uns Groundspeak explizit darum gebeten diese Einschränkung aufzunehmen, die auch so in anderen Geocaching-Apps existiert. Im Sinne einer guten Zusammenarbeit von c:geo und Groundspeak haben wir entschieden, ihrem Wunsch momentan zu entsprechen.
+Wenn wir alle momentan verfügbaren Daten für beide Arten von Mitgliedern aufnehmen würden, könnten es später damit enden, dass wir Funktionen wieder entfernen müssten, wenn sie in der künftigen Groundspeak-Schnittstelle nicht mehr verfügbar sind.
+Can I play Adventure Lab caches with c:geo?
+No, you have to use the Adventure Lab app by Groundspeak to play the Adventure Lab Cache.
+You can install/open their app and be directed to the selected Adventure Lab cache by tapping on the Adventure Lab icon in the cache details view in c:geo.
+Kann ich Adventure Lab-Caches mit c:geo spielen?
+Nein, du musst hierzu die Adventure Lab-App von Groundspeak nutzen, um den Adventure Lab-Cache spielen zu können.
+Durch Tippen auf das Adventure Lab-Symbol in den Cache-Details in c:geo kannst du ihre App installieren/öffnen und wirst direkt zum gewählten Adventure Lab-Cache geleitet.
+Adventure Lab caches I have already found are not shown as found!
+The current implementation works without any authorization over a public interface. 
+As your account is not used here, we can currently not get any user specific data from it (e.g. whether you already found that Adventure Lab cache).
+You can however mark Adventure Lab caches as “Found” locally in c:geo (Open the Adventure Lab cache → Menu → “Set as Found”). Please be aware, that this “Found” marking is lost, if you delete the Adventure Lab cache from c:geo.
+Adventure Labs, die ich schon gefunden habe, werden nicht als gefunden angezeigt!
+Die aktuelle Implementierung arbeitet ohne Autorisierung über eine öffentliche Schnittstelle.
+Da dein Konto hier nicht genutzt wird, können wir aktuell keinen benutzerspezifischen Informationen darüber abrufen  (z.B. ob du diesen Adventure Lab-Cache bereits gefunden hast).
+Du kannst allerdings Adventure Lab-Caches lokal in c:geo als “Gefunden” markieren (Öffne den Adventure Lab-Cache → Menü → “Als Gefunden setzen”). Bitte beachte, dass diese “Gefunden”-Markierung verloren geht, wenn du den Adventure-Lab-Cache aus c:geo löschst.
+I have enabled everything but still can't see Adventure lab caches!
+Maybe you applied a filter, which accidentally also filters out adventure lab caches.
+As for example adventure lab caches do not have any D/T-rating, filtering for certain D/T-values will exclude adventure labs as a consequence.
+In such cases you should enable the option “Include inconclusive results” in the advanced filter setting to have all caches included, where the filter criteria cannot be applied.
+Ich habe alles eingeschaltet, sehe aber immer noch keine Adventure Lab-Caches!
+Vielleicht hast du einen Filter angewendet, der versehentlich Adventure Lab-Caches herausfiltert.
+Da z.B. Adventure Lab-Caches keinerlei D/T-Bewertung haben, resultiert das Filtern nach bestimmten D/T-Werten darin, dass alle Adventure Lab-Caches ausgenommen sind.
+In solchen Fällen solltest du die Option “Unschlüssige Treffer einbeziehen” in den erweiterten Filtereinstellungen aktivieren, damit auch Caches eingeschlossen werden, bei denen die Filterkriterien nicht anwendbar sind.
+I cannot set the found state for Adventure Labs I imported from Lab2Gpx!
+By default
+Lab2Gpx
+uses the geocode prefix “LC” for Adventure lab caches. Due to technical reasons c:geo has to use “AL” as prefix for Adventure Lab caches.
+Therefore please configure Lab2Gpx to use “AL” as prefix when creating your GPX files, to gain full compatibility to c:geo.
+Additionally you should select “Zipped GPX with waypoints” when downloading the GPX for best results in c:geo.
+Ich kann über Lab2Gpx importierte Adventure Labs nicht als gefunden setzen!
+Standardmäßig verwendet
+Lab2Gpx
+den Geocode-Präfix “LC” für Adventure Lab-Caches. Aus technischen Gründen muss c:geo “AL” als Präfix für Adventure Lab-Caches nutzen.
+Um volle Kompatibilität mit c:geo zu erhalten, konfiguriere daher bitte, dass Lab2Gpx bei der Erstellung deines GPX das Code-Präfix “AL” verwendet.
+Zusätzlich solltest du “Gezipptes GPX mit Wegpunkten” beim Herunterladen auswählen für beste Resultate in c:geo.
+I don't want to see Adventure Lab caches in c:geo. How to disable it?
+Go to c:geo Menu → Settings → Services → “Geocaching.com Adventure Lab” and deactivate this service.
+Ich möchte keine Adventure Lab-Caches in c:geo sehen. Wie kann ich das abschalten?
+Gehe zu c:geo Menü → Einstellungen → Dienste → “Geocaching.com Adventure Lab” and deaktiviere diesen Dienst.
+Will there be any additional features for Adventure Lab Caches in c:geo in the future?
+We are still working on how we can best include Adventure Labs into c:geo and are also in contact with Groundspeak. We want to evaluate, if we find a mode of cooperation for using their planned official application interface to access Adventure Labs.
+There is no final information yet about their conditions and limitations for future access to Adventure Lab data.
+If Groundspeak offers fair conditions and an acceptable functionality range in their application interface, it might be, that its possible to provide a better implementation with more functions in c:geo.
+It might however also end up with the current state, if we are unable to find an agreement with Groundspeak or the conditions are considered too strict by our developer team.
+Even worse, it might also be possible, that we need to remove Adventure Labs from c:geo in future, if they close the public access to that information and there is no further acceptable way to access this information.
+Wird es zukünftig noch weitere Funktionen für Adventure Labs in c:geo geben?
+Wir arbeiten noch daran, wir wir Adventure Labs zukünftig am besten in c:geo integrieren und sind hierzu auch in Kontakt mit Groundspeak. Wir wollen herausfinden, ob wir einen Weg der Zusammenarbeit finden, um über ihre geplante offizielle App-Schnittstelle auf Adventure Labs zuzugreifen.
+Es gibt noch keine abschließende Information über die Bedingungen und Limitierungen bezüglich des zukünftigen Zugriffs auf Adventure Lab-Daten.
+Wenn Groundspeak faire Bedingungen und eine akzeptable Funktionalität über ihre App-Schnittstelle anbietet, kann es sein, dass wir eine bessere Implementierung mit mehr Funktionen in c:geo anbieten können.
+Es kann aber auch beim aktuellen Stand bleiben, wenn wir keine Vereinbarung mit Groundspeak erzielen oder die Bedingungen von unserem Entwickler-Team als zu strikt angesehen werden.
+Es könnte sogar dazu kommen, dass wir die Adventure Labs aus c:geo zukünftig wieder entfernen, wenn die öffentliche Schnittstelle zu diesen Informationen entfernt wird und es keinen akzeptablen Weg zum Zugriff auf diese Informationen mehr gibt.
+Send2cgeo
+Send2cgeo
+What is send2cgeo?
+Send to c:geo is a quicker way to transfer a cache opened in your browser to your c:geo.
+You will find all relevant information for installation and usage here:
+send2cgeo
+Was ist send2cgeo?
+Send to c:geo ist ein schneller Weg um Caches, die du im Browser geöffnet hast, auf c:geo zu übertragen.
+Du findest alle relevanten Informationen zur Installation und Nutzung hier:
+send2cgeo
+I tried to register my device but it shows 'Registration failed'!
+If the registration fails, the reason can be one of the following:
+Your device does not have Internet connection.
+Our servers are down or busy.
+A communication error or timeout occurred.
+You should try again in a couple of minutes/hours and if the problem persists please contact our
+support
+.
+Ich versuche mich zu registrieren, aber erhalte 'Registration failed'!
+Wenn die Registrierung fehlschlägt, kann das folgende Gründe haben:
+Dein Gerät hat keine Internet-Verbindung.
+Unser Server ist gerade nicht erreichbar oder ausgelastet.
+Ein Kommunikationsfehler oder Zeitablauf ist aufgetreten.
+Du solltest es einfach in ein paar Minuten/Stunden erneut versuchen und dich bei
+uns melden
+, wenn das Problem dauerhaft besteht.
+Can I use multiple devices and/or browsers with send2cgeo?
+Yes, multiple devices can be on multiple browsers.
+You need to “Register the device” for every browser. The PIN can only be used once.
+Afterwards you can send caches to c:geo from each of the registered browsers and they will be retrieved on all registered devices on which the import is currently active.
+Kann ich mehrere Geräte und/oder Browser mit send2cgeo nutzen?
+Ja, mehrere Geräte können in mehreren Browsern genutzt werden.
+Du musst dein Gerät dazu in jedem Browser registrieren. Eine PIN kann nur jeweils einmal genutzt werden.
+Danach kannst du von jedem der registrierten Browser Caches an c:geo senden und sie werden von allen Geräten empfangen, bei denen der Import gerade aktiviert ist.
+Register first is shown on the website although I am registered!
+Please check your browsers cookie settings.
+It is required to allow third party cookies for send2cgeo.
+Look into your geocaching.com browser tab: If there is a cookie symbol with a red X at the end of the URL dialog, tap on it, and in the popup tap “Maintain cookie blocking” (or similar) and permit [*.]send2.cgeo.org.
+For recent versions of Google Chrome you need to apply a workaround which is described on our
+send2cgeo page
+.
+Es wird 'Register first' auf der Webseite angezeigt, obwohl ich registriert bin!
+Kontrolliere bitte deine Cookie-Einstellungen im Browser.
+Es ist erforderlich, dass du Drittanbieter-Cookies für send2cgeo erlaubst.
+Schaue in deinen geocaching.com Browser-Tab: Wenn dort ein Cookie-Symbol mit einem roten X am Ende des URL-Eingabefeldes erscheint, dann klicke darauf und klicke im erscheinenden Fenster auf “Maintain cookie blocking” (oder eine entsprechende Meldung in Deutsch) und erlaube [*.]send2.cgeo.org.
+In neueren Versionen von Google Chrome musst du einen Workaround anwenden, der auf unserer
+send2cgeo Seite
+beschrieben ist.
+Offline caching
+Offline cachen
+Can I use c:geo also for offline caching?
+The main purpose of c:geo is to have an online access to your geocaching platform.
+However c:geo also provides offline functionality to use it without any network connection (e.g. while caching abroad).
+You can find more information in the chapter
+Offline Caching
+of the c:geo user guide.
+Kann ich c:geo auch fürs Offline-Caching verwenden?
+Hauptsächlich kann c:geo genutzt werden, um Online-Zugriff auf deine Geocaching-Plattform zu haben.
+Dennoch stellt c:geo auch Offline-Funktionalität zur Verfügung, um es ohne jede Netzverbindung (z.B. beim Cachen im Ausland) zu nutzen.
+Mehr Informationen findet du im Kapitel
+Offline-Caching
+des c:geo Benutzerhandbuches.
+Can I batch submit offline logs to the website with c:geo?
+This is not (yet) possible.
+While we are against mass logging of caches still batch sending offline stored logs might be meaningful as this is another use case.
+Therefore we are thinking about implementing this but we encourage you to use the existing field note submission for the time being.
+Kann ich mehrere Offline-Logs mit c:geo automatisch absenden?
+Das ist (noch) nicht möglich.
+Auch wenn wir gegen das Massen-Loggen von Caches sind, könnte das gemeinsame Hochladen von gespeicherten Logs sinnvoll sein, da es ein anderer Anwendungsfall ist.
+Daher denken wir darüber nach, diese Funktion einzubauen. Bis dahin solltest du die Feldnotiz-Funktion ausprobieren, um deine Logs zu übermitteln.
+Trackable management
+Verwaltung von Trackables
+Does c:geo support trackables?
+c:geo offers full support for
+geocaching.com Trackables
+as well as for
+GeoKrety
+.
+More information about Trackable management with c:geo can be found in our
+user guide
+.
+To learn more about logging
+GeoKrety
+with c:geo you can also refer to the
+FAQ of geokrety.org
+.
+Unterstützt c:geo Trackables?
+c:geo bietet volle Unterstützung für
+Geocaching.com Trackables
+sowie
+GeoKrety
+.
+Mehr Informationen zur Verwaltung von Trackables mit c:geo findet ihr in unserem
+Benutzerhandbuch
+.
+Um mehr über das Loggen von
+GeoKrets
+mit c:geo zu erfahren, schaue bitte auch in die
+FAQ von geokrety.org
+.
+I get the message "Logging of GeoKrety cannot be done anonymously"!
+While for reading GeoKrety information no login is required, you need a dedicated account on
+GeoKrety.org
+to log these trackables with c:geo.
+If you do not yet have an account you can create it on the
+Geokrety.org registration page
+.
+Afterwards go to Settings → Services → GeoKrety.org in c:geo, enter your login data and authorize to the webpage.
+Once you are authorized you can log GeoKrety with c:geo as described
+here
+.
+Ich sehe die Meldung "Loggen von GeoKrets kann nicht anonym erfolgen"!
+Während für das Lesen von Geokret-Informationen kein Nutzerkonto benötigt wird, brauchst du ein Nutzerkonto für
+GeoKrety.org
+, um diese Trackables mit c:geo zu loggen.
+Wenn du noch kein Nutzerkonto hast, kannst du dies auf der
+Geokrety.org-Registrierungsseite
+anlegen.
+Danach kannst in c:geo du unter Einstellungen → Dienste → GeoKrety.org deine Zugangsdaten eingeben und dich authentisieren.
+Nachdem du authentisiert bist, kannst du GeoKrets mit c:geo loggen, wie es
+hier
+beschrieben ist.
+Some functions of GeoKrety.org seem not to be supported in c:geo!
+Some functionalities which are available on the
+GeoKrety.org
+webpage are not (yet) supported with c:geo as either the current version of the interface does not support it or we did not yet have time to implement it:
+Mark a GeoKret as “missing”
+Einige Funktionen von geokrety.org werden von c:geo nicht unterstützt!
+Einige der Funktionen, die auf der
+GeoKrety.org
+-Webseite verfügbar sind, werden (noch) nicht von c:geo unterstützt, da diese entweder von der Schnittstelle nicht unterstützt werden oder wir einfach noch keine Zeit hatten diese einzubauen:
+Einen GeoKret als “vermisst” markieren
+Device or user specific problems
+Geräte- oder benutzerspezifische Probleme
+I can't see PM only caches although I am Premium Member!
+While logging in to the geocaching.com website c:geo will automatically detect whether you are basic or premium member, but c:geo will only perform a login if it is necessary.
+So after you became a premium member it can happen, that c:geo does not know this yet.
+In this case you can force c:geo to login by simply rebooting your phone and starting c:geo again.
+Ich kann Premium-Caches nicht sehen, obwohl ich Premium-Mitglied bin!
+Beim Anmelden auf der Geocaching.com-Webseite stellt c:geo automatisch fest, ob du Basis- oder Premium-Mitglied bist. Allerdings führt c:geo eine Anmeldung nur durch, wenn sie notwendig ist.
+Wenn du also erst seit kurzem Premium-Mitglied bist, kann es vorkommen, dass c:geo dies noch nicht erkannt hat.
+In diesem Fall kannst du c:geo zwingen sich neu einzuloggen, indem du dein Gerät einfach neu startest und danach c:geo wieder öffnest.
+My external Bluetooth-GPS is no longer working with c:geo!
+We are now using Google Play location services if they are installed on your device.
+This location services might not be compatible with external GPS receivers depending on your Android version.
+If you have problems using the GPS signal from the external receiver in c:geo, you have to disable the usage of those location services in:
+c:geo Menu → Settings → System
+Mein externer Bluetooth GPS-Empfänger funktioniert nicht mit c:geo!
+Wir benutzen jetzt die Google Play Lokalisierungs-Dienste, wenn diese auf deinem Gerät installiert sind.
+Dieser Lokalisierungs-Dienst könnte abhängig von deiner Android-Version nicht kompatibel mit externen GPS-Empfängern sein.
+Wenn du Probleme hast das GPS-Signal von externen Empfängern mit c:geo zu verwenden, musst du die Nutzung dieses Dienstes ausschalten:
+c:geo Menü → Einstellungen → System
+On my Xiaomi device some icons have strange colors or are not visible!
+Some Xiaomi devices use some proprietary dark mode implementation, which does obviously not work according to Android standards.
+This results in cache type icons, attribute icons and other graphical elements to be either not shown at all or shown in wrong coloring.
+Please look into your device settings and search for a function called “dark mode” or “color optimization”. 
+Either switch off this function completely or configure, that c:geo is excluded from this feature.
+Auf meinem Xiaomi-Gerät haben einige Symbole falsche Farben oder sind nicht sichtbar!
+Einige Xiaomi-Geräte haben eine proprietäre Implementierung des dunklen Modues, der offensichtlich nicht nach Android-Standard funktioniert.
+Das führt dazu, dass Cachetyp-Symbole, Attribut-Symbole und weitere graphische Elemente entweder gar nicht angezeigt oder in einer falschen Farbe angezeigt werden.
+Bitte schaue in deine Geräte-Einstellungen und suche nach der Funktion “Dunkler Modus” oder “Farboptimierung”.
+Schalte diese Funktion entweder komplett ab oder konfiguriere sie so, dass c:geo von dieser Funktion ausgenommen ist.
+How to change the user account c:geo uses? / How to use c:geo with multiple accounts?
+c:geo is not designed to work with multiple user accounts at the same time, but you can switch manually to a new user account by applying the following steps:
+Go to settings → services → geocaching.com
+Long tap on “Update or remove authorization”
+Enter the new username / password
+c:geo will then reconnect with the new account data. A similar procedure applies for the other geocaching services.
+Be aware that some stored data still relates to the old user account (eg. “found state”).
+Wie kann ich den Benutzer in c:geo wechseln? / Wie kann ich c:geo mit mehreren Benutzerkennungen nutzen?
+c:geo ist nicht darauf ausgelegt zeitgleich mit mehreren Benutzerkennungen zu arbeiten, man kann aber manuell auf eine andere Benutzerkennung umschalten, indem man folgende Schritte ausführt:
+Gehe zu Einstellungen → Dienste → geocaching.com
+Tippe lange auf “Autorisierung aktualisieren oder entfernen”
+Gebe die neuen Daten für Benutzername und Passwort ein
+c:geo wird sich dann mit den neuen Daten verbinden. Für die übrigen Geocachingdienste gilt das Vorgehen analog.
+Achtung: Manche gespeicherte Daten verweisen noch auf die alte Kennung (bspw. “Gefunden-Status”).
+Contacts plugin
+Kontakte-Erweiterung
+What does the contacts plugin do?
+It allows you direct access to your phonebook when tapping on a username in c:geo.
+As it is a plugin it will only work if also c:geo itself is installed on your device.
+Wozu dient die Kontakte-Erweiterung?
+Sie ermöglicht dir, direkt auf dein Telefonbuch zuzugreifen, wenn du auf einen Benutzernamen in c:geo klickst.
+Da es eine Erweiterung ist, funktioniert sie nur wenn auch c:geo auf deinem Gerät installiert ist.
+How to use the contacts plugin?
+When you tap on a username in c:geo (e.g. in the cache logbook) the menu will contain an item to open the corresponding contact card in your phone contacts.
+This will allow you to directly call or message the user.
+Wie nutze ich die Kontakte-Erweiterung?
+Wenn du in c:geo auf einen Benutzernamen klickst (z.B. im Cache-Logbuch), enthält das Menü einen Eintrag, um den passenden Kontakt in deinem Telefonbuch zu öffnen.
+Das ermöglicht es dir den Nutzer direkt anzurufen oder anzuschreiben.
+How do I have to store the contacts in my phonebook to make it work?
+The username of the person needs to be stored in the ‘name’ or ‘alias’ field of your contacts in order for the plugin to match the geocaching username to the contact.
+Wie muss ich meine Kontakte im Telefonbuch abspeichern, damit es funktioniert?
+Der Benutzername der Person muss in deinem Telefonbuch im Feld ‘Name’ oder ‘Spitzname’ eingetragen sein, damit die Erweiterung den Benutzernamen mit dem Eintrag verknüpfen kann.
+The contact is not matched although it is stored!
+Please make sure you stored the geocaching name of the person like it is shown in c:geo in the ‘alias’ field of the contact in your contacts list.
+Alternatively the plugin will also match if the geocaching name equals the full name stored in your contacts list.
+Der Kontakt wird nicht gefunden, obwohl er gespeichert ist!
+Bitte stelle sicher, dass der Benutzername der Person genauso in deinem Telefonbuch im ‘Spitzname’-Feld eingetragen ist, wie er in c:geo angezeigt wird.
+Alternativ wird die Erweiterung den Eintrag auch finden, wenn der Benutzername mit dem vollen Namen des Kontakts im Telefonbuch übereinstimmt.
+Privacy policy for the c:geo contacts plugin
+What information is collected by the c:geo contacts plugin?
+The contacts plugin needs the permission to access the contacts on your device.
+ It will access your contacts in order to be able to find the contact data of other geocachers.
+The c:geo contacts plugin will access your contacts only on your demand if you select the menu item “Open contact card” in c:geo.
+ As long as you don’t use that function the plugin will never access any data of your contacts.
+How is the information used by the c:geo contacts plugin?
+After you select “Open contact card” the c:geo contacts plugin will read your contact data to find a possible match of the geocachers name in the name or nickname field of your contact data.
+ It will neither write to your contact data nor store any of your contact data within c:geo or the c:geo contacts plugin itself.
+With whom is the information shared?
+Your contact data will neither by copied into c:geo nor shared with third parties.
+Datenschutzerklärung für die c:geo Kontakte-Erweiterung
+Welche Daten werden von der c:geo Kontakte-Erweiterung erfasst?
+Die c:geo Kontakte-Erweiterung benötigt die Berechtigung auf die Kontakte in deinem Gerät zuzugreifen.
+ Sie wird auf deine Kontakte zugreifen um Kontaktdaten anderer Geocacher zu finden.
+Die c:geo Kontakte-Erweiterung wird nur auf deine Anforderung hin auf die Kontaktdaten zugreifen, wenn du den Menüpunkt “Kontakt öffnen” in c:geo nutzt.
+ Solange du diese Funktion nicht nutzt, wird die Erweiterung niemals auf Daten in deinen Kontakten zugreifen.
+Für welche Zwecke werden die Daten durch die c:geo Kalender-Erweiterung genutzt?
+Nachdem du “Kontakt öffnen” ausgewählt hast, wird die c:geo Kalender-Erweiterung die Kontakte in deinem Gerät lesen um eine mögliche Übereinstimmung zwischen dem Namen des Geocachers und dem Namen oder Spitznamen in deinen Kontaktdaten zu finden.
+ Die Erweiterung wird weder in deine Kontakte schreiben noch deine Kontakte innerhalb von c:geo oder der c:geo Kalender-Erweiterung speichern.
+An wen werden die Daten weitergegeben?
+Deine Kontaktdaten werden weder in c:geo gespeichert noch an Dritte weitergegeben.
+Known limitations
+Bekannte Einschränkungen
+The favorite percentage shown in c:geo does not match with other sources!
+As c:geo cannot retrieve this information from the website, we have to calculate the favorite percentage ourselves.
+Since c:geo does not know how many finders could theoretically award a favorite point to the cache (only those, who are premium members) we can only calculate using the favorite points divided by the number of total finds.
+This means, that the percentage shown in c:geo will be less then the percentage shown on the website.
+There is nothing we can do about this for the time being.
+Die Favoritenquote in c:geo stimmmt nicht mit anderen Quellen überein!
+Da c:geo diese Information nicht von der Webseite bekommen kann, müssen wir die Favoritenquote selbst berechnen.
+Allerdings weiß c:geo nicht, wie viele Finder theoretisch einen Favoritenpunkt vergeben könnten (nur die, die Premium-Mitglieder sind), daher können wir nur die Favoritenpunkte durch die Anzahl aller Funde teilen.
+Das bedeutet, dass die in c:geo angezeigte Prozentzahl meist kleiner ist, als die Prozentzahl auf der Webseite.
+Es gibt für den Moment nichts, was wir daran ändern könnten.
+Contribute
+Help us build c:geo.
+c:geo is and always will be 100% free and open source. Join our team and help make it better.
+Get involved
+Donate
+Support c:geo development.
+Donate a few bucks and help us pay for servers and other costs, so we can focus on development.
+Donate
+Follow
+Stay informed about c:geo.
+Follow us on social media and stay up to date with the latest and greatest about c:geo.
+Edit page on GitHub:
+template
+data

@@ -1,0 +1,126 @@
+ï»¿
+Satellite Director.
+Satellite Director
+Last updated: 10 November 2021,
+Back
+Frequently Asked Questions
+Ad by Google.
+Finding a TV satellite or antenna, in azimuth, can be pretty difficult. Before you can find it with a compass you have to do some 
+calculations using GPS location, magnetic variation, compass  azimuth and satellite azimuth.
+Satellite Director replaces all of that.
+Just enable the GPS in your phone or enter your GPS location, select the desired TV satellite or antenna location and point your phone 
+to the sky to target (find) the TV satellite. You have found the satellite when the white ball is in the white circle 
+and the cyan ball is in the cyan circle. Align, in azimuth, the offset arm of the satellite dish to the cyan arrow on 
+the phones display and the satellite dish is aligned in azimuth with the satellite.
+Selectable audio tone, camera preview, continuous mode (no pause), color pickers or a user defined satellite position may make it easier for you to find the desired TV satellite. 
+The satellite list contains 280 satellites.
+SEE THE PLAYLIST FOR ALL VIDEOS !!
+Ad by Google.
+Satellite positions are derived from
+Geostationary Satelite Calculations at http://www.satellite-calculations.com/Satellite/satellitelist.php
+.
+  Some positions may seem not accurate (example: Hispasat 30Â°W is at 29.96Â°W)
+in the satellite list but they are very accurate.
+An audio tone, the camera background and/or continuous displaying of the offset arm
+of the satellite dish help to make it easier pointing the dish on the satellite.
+Minimum Requires: An Andriod device with embedded compass.
+WHY doesn't the app work on your device ?
+The market page may state this app is compatible with your device but
+I have learned that that is not always the case.
+The only sensor you need is orientation
+(also named compass or acceleration meter + magnetic field)
+Use app "Andro Sensor" to verify that your device has it.
+Download here from
+the market
+.
+Or install a compass app
+WARNING: Is your satellite dish made from iron ?
+Iron influences the compass readings when you get to close to the Iron !!
+The compass in any phone is at least +/- 2 degrees wrong,
+roll and pitch up to +/- 6 degrees.
+CALIBRATE COMPASS
+Satellite not found, strange compass readings ?
+Probably the ompass is not calibrated.
+See
+http://www.youtube.com/watch?v=sP3d00Hr14o
+Wave your phone in a horizontal figure 8 using your wrist and rotating your arm.
+Next: on some phone models it helps to roll you phone along its length axis about 2-3 times !!!
+SLOW GPS FIX:
+Does it take more then 2 minutes to get your location using the phone's GPS ?
+From version 1.27 there is "reset GPS" button which resets the GPS data in order to get a faster fix.
+Or install "GPS Status & Toolbox" by EclipSim and reset the GPS data.
+Or disable the GPS and enter the location latitiude, longitude and altitude.
+How to change the satellite list ?
+Starting with version Satellite Director 2.2.1
+you have full control of that list.
+How to find a satellite:
+Click here for details !!
+Options:
+`Audio tone` for an audio indication when a ball is close to or in it's circle.
+`Camera background` to view the offset arm alignment with the cyan line or for the skyview.
+`Continuous mode` to display the Director tab continuously.
+`SatColor` to change the cyan color.
+`Compass` to change the white color.
+`SkyColor` to change the green color.
+`User defined satellite position`, to define your satellite position (finish the input with the 'Done' key).
+`Reduce satellites list` to reduce the satellite list from begin azimuth to end azimuth.
+				You may have to swap begin and end azimuth to get it... 'right', finish the input with the 'Done' key and
+				restart the app (use `back` key)
+`Photo/screenshot` take a photo or screenshot. It's stored in the external memory card of your phone.
+`Magnetometer` gives an indication if you are to close to iron (green=no, yellow=possible, red=yes).
+'Sort satellites' in 4 ways
+Reset the GPS in your phone (for a faster location fix)
+Select the language for the app independent of the phone's language
+Directly download an old version
+SatelliteDirector.apk 1.50
+or the latest version
+SatelliteDirector.apk
+to your computer or phone.
+On your phone: sometimes it gets an additional .zip extension SatelliteDirector.apk.zip . To remove the extension and/or to install the apk you need "Simple File Manager" from Simple Mobile Tools.
+       Open Simple File Manager, go to the Download folder. To remove .zip press on the .zip file and then tap on the "I" to rename the file. To install tap on SatelliteDirector.apk file.
+From your computer: mail the apk to your own E-mail address, read the mail on your Android device and install the attached apk by tapping on the attachment. Google may block this action !!
+       When you connect the phone to your computer copy the file from your computer Download folder to the Downloads folder om your phone. Then use Simple File Manager to install it.
+Before you can install it you must have enabled "Allow installation of apps from unknown sources" (Settings -> Security).
+Screenshots: Samsung Apollo (240*400 pixels)
+Ad by Google.
+Links:
+http://en.wikipedia.org/wiki/Satellite_dish
+: What is a satellite dish ?
+http://en.wikipedia.org/wiki/Director
+: What is a Director ?
+http://en.wikipedia.org/wiki/Degrees_of_freedom
+: What is roll, pitch, yaw ?
+http://www.zekitez.com/wf/dish_maps.html
+, to get the
+latitude/longitude
+of the dish location
+http://earth.google.com
+, to get the
+latitude/longitude
+of the dish location
+Find a satellite in 30 seconds.
+How to setup a satellite dish.
+History:
+1.53 1.53 Added: instead of finding a satellite find an antenna via its GPS location (switch between the 2 via the settings menu on the "2 Satellites" tab; updated satellite lists (Echostar 19 is in the extended list)
+Under development:
+... your suggestion ?
+Privacy Policy
+This privacy policy is subject to change without notice.
+Zekitez reserves the right to make changes to this privacy policy at any time.
+This privacy policy was updated on 2021-January-14.
+Satellite Director requires access to the phone's: sensors ( GPS location and compass ), front/back camera and internal/external storage.
+A geostationary satellite with radio and tv channels is located at a fixed GPS position (latitude, logitude, distance from earth) in the sky. 
+Because the satellite cannot be seen from earth one can find its location in the sky with some calculations that require the current GPS location and a compass reading.
+The calculated direction of the satellite is displayed on the phone's screen as an arrow. 
+The cameras are required to immitate a 'look through window' or 'mirror effect' which allows to align the satellite dish with displayed arrow.
+Access to internal/external storage is required so a screenshot or photo can be stored but also to create your own list of satellites and store settings.
+Google requires Zekitez to disclose that Satellite Director will record camera and read sensor data, which is used for the purpose of taking photos and calculating your position with respect to a satellite position.
+Camera access is needed to take photos.
+Location access is needed to calculate the direction of the satellite.
+Compass access is needed to determine your position with repect to the calculated satellite position.
+Storage access is needed to store photos or read and write settings.
+Satellite Director and this page do not collect any personal or non-personal data.
+However this page uses Google Translator and thus refers to Google's Privacy Policies at
+http://www.google.nl/intl/en/policies/privacy/
+Satellite Director does not use any advertising.
+Back

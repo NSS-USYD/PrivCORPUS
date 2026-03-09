@@ -1,0 +1,138 @@
+Privacy Policy | SeriesGuide
+SeriesGuide
+Support the app
+Help
+Privacy
+Extensions API
+Community
+GitHub
+More
+Privacy
+Extensions API
+Community
+GitHub
+Privacy Policy
+Who makes SeriesGuide
+SeriesGuide and its services are provided by Uwe Trottmann in Germany. See the
+Impressum
+for contact details.
+Services collecting data
+This section only applies to the
+SeriesGuide
+app. The separate
+X Pass app
+does not collect or share user data.
+Based on legitimate interests (in the sense of Art.
+6
+lit. f. GDPR) SeriesGuide uses third-party services provided by Google LLC ("Google") to collect and store data.
+Data collected by the Google services is transferred over a secure connection to, stored and processed in the United States and other countries where the services operate.
+Firebase Crashlytics
+This Google service:
+Collects stack traces when the application crashes or an error occurs.
+Collects relevant application state when the application crashes or an error occurs.
+Collects point-in-time
+metadata about the device
+when the application crashes or an error occurs.
+Generates and stores the Crashlytics installation UUID to measure the number of users impacted by a crash or error.
+Crash and error traces and their associated identifiers are kept for 90 days.
+This data is used to get insights into and measure the number of users impacted by issues with the app and to help fix them.
+For more details have a look at:
+Firebase data disclosure info about Crashlytics
+Privacy and Security in Firebase
+Firebase Crashlytics Terms of Service
+Firebase Data Processing and Security Terms
+Google Cloud Platform and Firebase Authentication
+If you use SeriesGuide Cloud additional data is collected and stored by these Google services:
+Collects your SeriesGuide data including shows, episodes, lists, movies, statistics.
+Collects your email address to uniquely identify an account and its stored data.
+Generates and stores request logs (including IP addresses and SeriesGuide version) to determine usage of and issues with the Cloud service.
+Collects the Firebase user agent that includes device metadata, the app used to install the app (e.g. Play Store) and which Firebase SDKs are used. The Firebase user agent is used internally by Google to determine platform and version adoption in order to provide, maintain, and improve Firebase services. It is never linked to a user or device identifier.
+Collects IP addresses to provide added security and prevent abuse during sign-up and authentication.
+Collects user agent strings (that the app uses FirebaseUI, version of Authentication SDK, platform of the device) to provide, maintain, and improve Firebase services.
+Collects the Firebase Android App ID of the app.
+Generates and stores a unique Firebase Authentication identifier.
+Request logs are kept for about 30 days. Your email address and SeriesGuide data is kept until you remove your SeriesGuide Cloud account from within SeriesGuide on all connected devices.
+For more details have a look at:
+Firebase data disclosure info about Authentication
+Google Cloud Platform Terms of Service
+Cloud Data Processing Addendum
+Privacy and Security in Firebase
+Contacting SeriesGuide
+If you contact SeriesGuide to provide feedback, ask questions or ask for support a record of your communications, including your email address, is kept. 
+      This data is used when needed to provide support as requested by you and communicate with you. This data is not shared.
+You can request your communication records to be deleted.
+If contacted via email data is processed by Google Workspace by Google Cloud EMEA Limited, see the
+Cloud Data Processing Addendum
+.
+Using this website
+This website is hosted by GitHub Pages. If it is visited, the visitor's IP address is
+logged and stored for security purposes by GitHub
+.
+This website uses Cloudflare for DNS and may use it for proxying requests. If it is visited,
+data processed by Cloudflare
+may include but is not limited to IP addresses, traffic routing data, system configuration information, and other information about traffic to and from this website.
+Your Rights
+You can request access to and rectification or erasure of your personal data, or the restriction of processing concerning you or to object to processing. You have a right to portability of your personal data. You can lodge a complaint with a supervisory authority regarding the processing of personal data.
+Personal data means any information relating to you. Where you can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to your physical, physiological, genetic, mental, economic, cultural or social identity.
+Exporting your data
+You can export your shows, lists and movies to files in JSON format using the
+Backup/Restore
+tool in Settings.
+App permissions
+What follows are explanations of why SeriesGuide requires certain permissions.
+Storage
+Required for the
+Backup/Restore
+tool as well as
+Auto-Backup
+to write and read their files from the external storage (USB/SD card/integrated) of your device.
+Google Play billing service
+Required to provide an
+in-app purchase to unlock all features
+. This is handled by Google Play.
+Full network access
+View network connections
+Required to send data to and receive data from the internet and to behave well if the connectivity of your device changes.
+Control vibration
+Required so the app can vibrate your device, like to notify you.
+Run at startup
+Required to re-schedule the notification service at startup.
+Read sync statistics
+Read sync settings
+Toggle sync on and off
+Required to integrate with the Android account and sync framework to schedule network operations. This permission allows to enable and disable sync within the app and see if a sync is currently running.
+Install shortcuts
+Required to automatically pin shortcuts to your home screen.
+Update history
+2022-06-08: Updated links to new Firebase Data Processing and Security Terms, add info about hosting this website.
+2022-10-05: Updated links to new Google Cloud Data Processing Addendum.
+2022-05-26: Details about data processing when contacting via email.
+2022-05-05: More details about data collected by Firebase Crashlytics and Authentication, noted data is transferred securely.
+2021-07-07: Add Firebase Authentication, remove Countly service.
+2020-12-04: Add new service: self-hosted Countly instance.
+2020-08-13: Drop mention of Privacy Shield, update Crashlytics and Google Cloud sections.
+2019-01-05: Dropped Google Analytics, SeriesGuide no longer uses it.
+2018-12-17: Crashlytics does not collect Android ID.
+2018-08-10: Explicitly mention for what purpose data is collected.
+2018-05-23: Added explicit justification of data collection, Google Analytics data retention info.
+2018-03-29: Dropped Answers as SeriesGuide no longer uses it. Grouped info by service, added more details. Added note about exporting data.
+Follow SeriesGuide
+Twitter
+Release and other announcements
+Forums
+Release announcements, share ideas, report bugs or ask for help
+Release notes
+Detailed list of changes
+Powered by
+Further Resources
+Source Code
+GitHub code repository
+Translate SeriesGuide
+Help translate SeriesGuide to your native language
+Made on Earth.
+Uwe Trottmann
+.
+Impressum
+.
+Android, Google Play and the Google Play logo are trademarks of Google LLC.
+This product uses the TMDb API but is not endorsed or certified by TMDb.

@@ -1,0 +1,28 @@
+android translator apps
+Search this site
+Skip to main content
+Skip to navigation
+android translator apps
+Privacy Policy
+This document applies to the Translator applications on Android, the mobile apps developed by Aloha Std. We've tried to keep text simple, so we hope you will take a time to read it carefully.
+Personal information
+We made the applications with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.
+Photos and videos
+The applications will collect and transmit photos to enable the "recognize text in images" feature when you want to detect text in your images. This is an optional feature and we collect/transmit photos only when you use the feature.
+The applications do not collect/transmit/sync/store videos.
+Usage analytics
+We would like to make out product more useful for you, so we added Firebase Analytics to the applications. It collects user behavior information in an anonymous form and transmits it to Google's Firebase servers. That means only usage data is collected, no personally identifiable information. Then we can use Firebase Analytics to create reports of how our App being used. For example, a percentage of users that use certain features, or most popular Android versions and screen sizes among our users. We use these reports to understand how to spend our development resources more efficiently and make our App better. Note that we might share these reports with third parties. To learn more check out
+Google's privacy policy
+.
+Advertising
+We use ads to keep the applications free for you. All ads in our app served by Google's AdMob. AdMob may use and collect anonymous data about your interests to customize advertising in our App and in other sites and apps. To do that AdMob using unique user-resettable Advertising ID, provided by Google Play services. Interest and location data may be linked to your device, but is not linked to your identity. To learn more about AdMob privacy policies and opt-out choices check out
+Google's privacy policy
+.
+We also use cross-promotion between our apps. But we make sure that all our apps are from the Play Store and we have complied with all developer policies. To learn more check out
+Developer Policy Center
+.
+Changes
+We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice. If you have any questions or concerns about our privacy policies, please contact via email lta1292@gmail.com.
+Report abuse
+Google Sites
+Report abuse

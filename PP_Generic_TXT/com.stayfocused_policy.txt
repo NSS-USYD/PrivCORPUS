@@ -1,0 +1,247 @@
+Stay Focused - Site & App Block
+Home
+App Features
+Contact
+Download Now
+Google Play Store
+Apple App Store
+Last modified: May 12, 2021
+Introduction
+Stay Focused
+(“
+Stay Focused
+”, “
+Us
+”, “
+We
+”)
+                        respects your right to privacy and understands the importance of
+                        protecting your personal data ("Data").
+We adopted this
+                        privacy policy (the “
+Policy
+”) in order to explain
+how
+we collect,
+process
+,
+store
+,
+share
+and
+protect
+the Data that you provide to Us or that we collect when you use our
+                        application (“
+Application
+”) and any other features
+                        operated by Stay Focused.
+By using Stay
+                        Focused, you acknowledge that you have read and understood the terms
+                        of this Privacy Policy.
+We reserve the right
+                        to modify the terms of this Policy at any time and in our sole
+                        discretion. If we modify the Policy, we will publish the
+                        modifications, depending on the medium, on the home page of the
+                        Application so that you are fully informed. Any changes to the Policy
+                        will take effect thirty (
+30
+) days after its publication. Your
+                        continued use of our Services will constitute acceptance of the
+                        policy changes.
+What Information
+                        Do We Collect?
+The information we
+                        collect when you use the Stay Focused (“
+Product Data
+”)
+                        includes (i) non-identifiable information, which may be made
+                        available or gathered via a user’s use of the Stay Focused
+                        (“
+Non-Personal Information
+“); and (ii) individually
+                        identifiable information, namely information that identifies an
+                        individual or may with reasonable effort be used to identify an
+                        individual (“
+Personal Information
+”).
+The
+                            Non-Personal Information we collect includes:
+Technical
+                                    information related to your device and network (Device Mode, Device
+                                    OS version, Manufacturer)
+List of
+                                    installed apps (Package Name, Version, Install Date, Update Date)
+App usage data
+                                    (Package Name, timestamp of app in Foreground and Background)
+Website usage
+                                    data (Package Name, Full url and time of visit). Before storage for
+                                    your reports, URLs are trimmed top level directory when a site has
+                                    distinct web apps. Query strings are discarded.
+The Personal
+                            Information we collect or save includes:
+online
+                                    identifiers such as masked IP address, which cannot be traced back
+                                    to an individual or used in any way to identify an individual.
+unique
+                                    identifier, which is a random number we generate to keep track of
+                                    the amount of data sets we collect. Although the unique ID does not
+                                    reveal the identity of a user and is not generated based on any
+                                    user personal information, it may be considered under some
+                                    jurisdictions as Personal Information.
+If you contact us
+                        for support, you will also need to provide us with your contact
+                        details so we can communicate with you to provide the support needed.
+                        This is also Personal Information but we will treat this as separate
+                        from the Product Data in our systems.
+How is the
+                        Product Data Used?
+We and the third
+                        party use the Product Data in order to show you more relevant ads,
+                        measure add effectiveness, check for and fix bugs, provide better
+                        experience, for analytics, research purposes, decide the next
+                        important features for Stay Focused and for the market intelligence analytics purposes.
+                        For instance, to learn which apps and sites are used in your country, how many people use a specific app or site, and how many times a day an app or site is used. This information will only be shared in a way that does not identify you.
+How is the
+                        Product Data Shared?
+We do not share any
+                        Personal Information with third parties unless (i) required by law or
+                        regulation; (ii) needed to deliver the Service, for security and
+                        fraud detection; and (iii) in case of merger and acquisition.
+For providing and improving the Services, we share Product Data with
+                        third-party service providers and our affiliated companies who help
+                        us deliver elements of the Service.
+We also share the Product Data on a de-identified (anonymous) basis with certain third parties for
+                        their market intelligence analytics purposes.
+Cookies and
+                        Third-Party Tools
+Stay Focused makes
+                        use of Cookies. A “
+Cookie
+” is a small text file found in a
+                        browser directory, which a website assigns and stores on your
+                        computer while you view a website. Cookies may be used for a number
+                        of different purposes including facilitating automatic activation of
+                        some features, remembering your preferences, customizing your user
+                        experience, etc. More information about how Cookies work can be found
+                        at
+www.allaboutcookies.org
+.
+The app does use
+                        third party services that may collect information used to identify
+                        you.
+Link to privacy policy of third party service providers used by the app
+Google Play Services
+AdMob
+Firebase
+                            Analytics
+Any information
+                        collected about you from these Cookies (including Personal
+                        Information) will be managed on the basis of the relevant privacy
+                        practices of these third parties which we recommend you review.
+You may stop these
+                        Cookies from collecting information by following the instructions of
+                        the relevant third party, or by adjusting your browser preferences.
+Retention
+                        arrangements
+Unless you instruct
+                        us otherwise, we retain the information we collect for as long as
+                        needed to provide the Services and to comply with our legal
+                        obligations. We believe in data minimization and only keep the
+                        information we truly need and only for the period of time required.
+User Rights
+If you are resident
+                        in the EU or UK and certain other countries, you may have the right
+                        to ask us to delete Personal Information, to access and/or obtain a
+                        copy of your Personal Information, to data portability, to request
+                        data rectification, to object to processing, to restrict processing,
+                        and/or to withdraw consent to processing. These rights are governed
+                        by applicable privacy laws and may be subject to important legal
+                        exceptions.
+If you would like to
+                        exercise any of these rights, please contact our Data Protection
+                        Officer at: ava@innoxapps.com who will be pleased to help. Note that
+                        we may request proof of your identity and we reserve the right to
+                        charge a fee where allowed by law.
+Stopping the
+                        collection of Product Data
+You may stop the
+                        automatic collection of certain Product Data from your device at any
+                        time by managing your settings
+here
+.
+If you follow the
+                        deactivation steps explained above, we will no longer automatically
+                        collect Product Data from you.
+How do we protect
+                        your information?
+Your data is always
+                        encrypted in transit. All requests with the Stay Focused web app,
+                        client apps are encrypted with current best practice SSL
+                        configurations and data is stored in secure infra. We maintain
+                        ongoing vulnerability scanning and respond immediately to security
+                        advisories.
+We will take the
+                        necessary steps to ensure that international transfers of personal
+                        data (including Personal Information) meet all requirements under
+                        applicable data protection laws. When personal data collected within
+                        the European Economic Area (“
+EEA
+“) is transferred outside
+                        the EEA, we will take the steps necessary to ensure that the transfer
+                        of such data provides sufficient safeguards, and you may exercise
+                        your rights, where applicable, to receive information on such
+                        transfer mechanism. Personal Information transferred outside the EEA
+                        is transferred for processing by Linode on its servers in the United
+                        States, and among the Company’s affiliates, in both cases pursuant
+                        to standard contractual clauses approved by the European Commission.
+Children
+Children under 13
+                        are prohibited from using the
+Stay Focused
+. In the event that
+                        we become aware that a user under the age of 13 has shared any
+                        information, we will delete such information from our servers. If you
+                        have any reason to believe that a child under the age of 13 has
+                        shared any information with us, please contact our Data Protection
+                        Officer at: ava@innoxapps.com. If you are under 18, please read this
+                        policy with your parents or legal guardians and ask questions about
+                        things you do not understand.
+How to contact
+                        us?
+If you have any
+                        questions about this Privacy Policy, please contact us at:
+                        ava@innoxapps.com.
+If you have a
+                        complaint about your handling of Personal Information under the terms
+                        of this Privacy Policy and you are resident in European Union or
+                        United Kingdom, you may raise that with your local data protection
+                        supervisory authority.
+Additional Rights
+                        of California Users
+California residents
+                        have certain additional rights, pursuant to California privacy laws,
+                        including the California Consumer Privacy Act (“
+CCPA
+”).
+                        The CCPA defines “
+personal information
+” as any information
+                        that identifies, relates to, describes, is reasonably capable of
+                        being associated with, or could reasonably be linked, directly or
+                        indirectly, to a particular California resident or household, but
+                        excluding publicly available data. This section does not apply to our
+                        handling of publicly available information or other personal
+                        information subject to an exemption pursuant to Section
+                        1798.145(c)-(f) of the CCPA.
+Join Our Newsletter
+Get productivity tips on Email
+Stay Focused
+Email:
+ava@innoxapps.com
+Useful Links
+Home
+Blog
+Privacy policy
+© Copyright
+InnoxApps
+. All Rights Reserved

@@ -1,0 +1,9 @@
+Twenty Privacy Policy
+Privacy Policy
+This privacy policy applies to all information collected or submitted with the Twenty app by Stephen French.
+Information we collect
+Game scores are saved locally to the device, and are also submitted to Apple's Game Center and Google Play Games Services to store user's scores and provide leaderboard capabilities.
+The app does not collect or store any payment details (credit cards details, names, etc), as this is all done indirectly by the Apple AppStore and Google Play Store. Refer to your store's privacy policy for details on what they do with your payment information.
+The app may request feedback in the form of an e-mail or offer to share game results via standard sharing options offered by the operating system (such as Facebook or Twitter).
+Third-Party Services
+Except as described above, we do not share any data with third parties.

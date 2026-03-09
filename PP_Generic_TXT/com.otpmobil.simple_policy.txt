@@ -1,0 +1,5211 @@
+ADATKEZELÉSI TÁJÉKOZTATÓ
+A SIMPLE APPLIKÁCIÓHOZ ÉS A SIMPLE HONLAPOHOZ
+Hatály: 2024. 01. 29.
+A Simple Applikáció és Rendszer fejlesztője és üzemeltetője, az
+OTP Mobil
+Kft
+. (Cg. 01-09-174466; székhely: 1138 Budapest, Váci út
+135-139. B. ép. 5. em.; a továbbiakban:
+Simple
+) az alábbiakban
+tájékoztatja a Felhasználókat a Simple Applikációban, a Simple Honlapon (
+www.simple.hu),
+a
+Simple Rendszerben és a Simple Facebook oldalon
+(https://www.facebook.com/simplehungary/) történő adatkezelésekkel kapcsolatban
+az Európai Parlament és Tanács Általános Adatvédelmi Rendeletéről szóló
+2016/679 számú rendeletével (a továbbiakban:
+GDPR
+) összhangban.
+A jelen Adatkezelési Tájékoztatóban nagy kezdőbetűvel szereplő szavak és
+fogalmak a Simple Rendszerre vonatkozó Általános Felhasználási Feltételekben (a
+továbbiakban:
+Simple ÁFF
+) meghatározott fogalmakkal azonosak.
+A jelen Adatkezelési tájékoztatót a Simple bármikor, egyoldalúan
+módosíthatja. A jelen adatkezelési tájékoztató a Simple Honlapon kerül
+közzétételre és elérhető a Simple Applikációban is. A jelen Adatkezelési
+Tájékoztató a közzétételével lép hatályba.
+A jelen Adatkezelési tájékoztató alkalmazandó a meglévő Simple
+Applikációra, valamint a Simple által kiadott új Simple by OTP Applikációra is
+azzal, hogy Simple by OTP Applikációban az egyes Szolgáltatások és funkciók a
+Simple belátása szerint, fokozatosan kerülnek bekapcsolásra, a Simple by OTP
+Applikációban aktuálisan elérhető Szolgáltatások és funkciók listáját a
+Honlapon közzétett Hirdetmény tartalmazza. Ebből eredően a Simple by OTP
+Applikációban történő adatkezelésekre a jelen adatkezelési tájékoztatónak csak
+azon Szolgáltatásokra vonatkozó rendelkezései vonatkoznak, amely
+Szolgáltatásokat és funkciókat a Hirdetmény felsorol. A jelen adatkezelési
+tájékoztató Szolgáltatásoktól és funkcióktól független adatkezelésekre való
+rendelkezései attól függetlenül alkalmazandók a Simple by OTP Applikációban
+történő adatkezelésre, hogy azok a Hirdetményben nem kerülnek külön
+feltüntetésre, ezen rendelkezések az alábbiak: a jelen adatkezelési tájékoztató
+1.1.1., 1.1.2., 1.1.3., 1.2.13., 1.2.14., 1.2.15., 1.2.1.6. pontja és 2. – 14.
+pontjai.
+1.
+Milyen személyes adataidat, meddig kezeljük a Simple
+Rendszerben, mire használjuk őket, és milyen felhatalmazás alapján?
+Az adatkezelésünk jogalapjai az alábbiak:
+a)
+a GDPR 6.
+cikk (1) bekezdés a) pontja szerint a felhasználó megfelelő tájékoztatáson
+alapuló önkéntes hozzájárulása az adatkezeléshez (a továbbiakban:
+Hozzájárulás
+);
+b)
+a GDPR 6.
+cikk (1) bekezdés b) pontja szerint az adatkezelés olyan szerződés
+teljesítéséhez szükséges, amelyben a Felhasználó mint érintett az egyik fél (a továbbiakban:
+Szerződés teljesítése
+)
+c)
+a GDPR 6.
+cikk (1) bekezdés c) pontja szerint az adatkezelés az adatkezelőre vonatkozó
+jogi kötelezettség teljesítéséhez szükséges (mint például számviteli,
+könyvviteli kötelezettség teljesítése – a továbbiakban:
+Jogi kötelezettség
+teljesítése
+)
+d)
+a GDPR 6.
+cikk (1) bekezdés f) pontja szerint az adatkezelés az adatkezelő vagy egy
+harmadik fél jogos érdekeinek érvényesítéséhez szükséges (a továbbiakban:
+Jogos
+érdek
+)
+e)
+az elektronikus kereskedelmi szolgáltatások, valamint az információs
+társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi
+CVIII. törvény (Elkertv.) 13/A. §-a által biztosított adatkezelési engedély,
+amely szerint a Felhasználó hozzájárulása nélkül kezelhetők a Felhasználók
+természetes személyazonosító adatai (név, születési név, anyja születési neve,
+születési hely és idő) és lakcíme az információs társadalommal összefüggő
+szolgáltatás nyújtására irányuló szerződés létrehozása, tartalmának
+meghatározása, módosítása, teljesítésének figyelemmel kísérése, az abból
+származó díjak számlázása, valamint az azzal kapcsolatos követelések
+érvényesítése céljából, továbbá a Felhasználó hozzájárulás nélkül kezelhetők a
+Felhasználó természetes személyazonosító adatai, lakcíme, valamint a
+szolgáltatás igénybevételének időpontjára, időtartamára és helyére vonatkozó
+adatok az információs társadalommal összefüggő szolgáltatás nyújtására irányuló
+szerződésből származó díjak számlázása céljából (a továbbiakban:
+Elkertv
+.)
+Az adatkezelés jogalapját az
+alábbiakban adatkategóriánként és adatkezelési célonként külön-külön
+meghatározzuk a fenti felsorolásra való utalással.
+1.1.
+A Simple
+Rendszerben általánosságban kezelt adatok esetén
+1.1.1.
+Simple fiókkal, Simple profillal és a Simple regisztrációval
+kapcsolatos adatkezelés esetén
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+név*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése, kezelése
+d)
+Felhasználó
+  azonosítása
+e)
+Kommunikáció
+  biztosítása
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a), b), d) és e) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D
+  oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – az adózási kötelezettség teljesítéséhez
+  szükséges adatok esetén az adózás rendjéről szóló 2017. évi CL. törvény
+  („Art.”) 78. § (3), 202. § (1), számviteli kötelezettség teljesítéséhez
+  szükséges iratok esetén a számvitelről szóló 2000. évi C. törvény („Sztv.”)
+  168-169. §.
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+  bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna
+  fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési, csalásmegelőzési és
+  -kezelési célból kezelt adatok a Simple regisztráció törlésétől számított 5
+  éves általános elévülési időn belül kerülnek megőrzésre azzal, hogy ha ezen
+  időtartam alatt polgári, büntető, közigazgatási vagy egyéb hatósági eljárás
+  indul, akkor az adat ezen eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a
+regisztráció törlésétől számított
+5 évig
+kerülnek megőrzésre
+az adatok (általános polgári jogi elévülési
+  idő).
+e-mail cím*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése, kezelése
+d)
+Felhasználó
+  azonosítása
+e)
+Kommunikáció
+  biztosítása
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D oszlop
+  a), b), d) és e) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D
+  oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – az adózási kötelezettség teljesítéséhez
+  szükséges adatok esetén az adózás rendjéről szóló 2017. évi CL. törvény
+  („Art.”) 78. § (3), 202. § (1), számviteli kötelezettség teljesítéséhez
+  szükséges iratok esetén a számvitelről szóló 2000. évi C. törvény („Sztv.”)
+  168-169. §.
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési, csalásmegelőzési és
+  -kezelési célból kezelt adatok a Simple regisztráció törlésétől számított 5
+  éves általános elévülési időn belül kerülnek megőrzésre azzal, hogy ha ezen
+  időtartam alatt polgári, büntető, közigazgatási vagy egyéb hatósági eljárás
+  indul, akkor az adat ezen eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+telefonszám*
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A
+  regisztráció törlésétől számított 5 évig (általános polgári jogi elévülési idő).
+jelszó*
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A
+  regisztráció törlésétől számított 5 évig (általános polgári jogi elévülési
+  idő).
+Facebook fiókhoz tartozó e-mail cím (ha eltér a
+  Simple fiók e-mail címtől)
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A
+  regisztráció törlésétől számított 5 évig (általános polgári jogi elévülési
+  idő).
+Facebook fiókhoz tartozó név (ha eltér a Simple
+  fiók névtől)
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A regisztráció törlésétől számított 5 évig
+  (általános polgári jogi elévülési idő).
+Facebook fiókhoz tartozó avatár (profilkép)
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Felhasználói
+  fiók testreszabása
+a GDPR
+  6. cikk (1) bekezdés a) pontja szerinti hozzájárulás
+A regisztráció törlésétől számított 5 évig
+  (általános polgári jogi elévülési idő).
+Google fiókhoz tartozó e-mail cím (ha eltér a
+  Simple fiók e-mail címtől)
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A regisztráció törlésétől számított 5 évig
+  (általános polgári jogi elévülési idő).
+Google fiókhoz tartozó név (ha eltér a Simple
+  fiók névtől)
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A regisztráció törlésétől számított 5 évig
+  (általános polgári jogi elévülési idő).
+Apple fiókhoz tartozó e-mail cím (ha eltér a
+  Simple fiók e-mail címtől)
+érintettől származó
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A regisztráció törlésétől számított 5 évig
+  (általános polgári jogi elévülési idő).
+Korhatár adat (elmúlt-e 16 éves) *
+érintettől származó
+a)
+Szülői
+  hozzájárulási kötelesség megállapítása
+GDPR 6.
+  cikk (1) bekezdés c) pontja szerinti Jogi kötelezettség teljesítése – szülői
+  hozzájárulás kéréséhez – GDPR 8. cikke szerint a 16 éven aluli személy
+  adatkezeléshez történő hozzájárulásához a szülői felügyeletet gyakorló szülő
+  engedélye szükséges, illetve a hozzájárulást ő adja meg.
+A regisztráció törlésétől számított 5 évig
+  (általános polgári jogi elévülési idő).
+Telefon azonosító kód
+Adatkezelő által generált
+a)
+Felhasználó
+  azonosítása
+b)
+Kommunikáció
+  biztosítása
+D
+  oszlop a), d) és e) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A
+  regisztráció törlésétől számított 5 évig (általános polgári jogi elévülési
+  idő).
+A *-gal jelölt adatok megadása kötelező, anélkül a Simple fiók
+regisztráció és a Simple Rendszer használata nem lehetséges, ezen adatok
+megadása a szerződéskötés előfeltétele.
+Az adatkezelő a Simple.
+Amennyiben a Parkolási és/vagy az E-matrica vásárlási szolgáltatást a
+Felhasználó munkáltatóján keresztül, a munkáltatója és a Simple között létrejött
+Simple Vállalati szerződés keretében veszi igénybe, a Felhasználó munkáltatója
+továbbítja a Simple számára a Felhasználó e-mail címét és nevét a Felhasználó
+Simple Rendszerben történő regisztrációja céljából, vagyis ezen adatok forrása
+ebben az esetben a Felhasználó munkáltatója. A Simple az így megkapott nevet és
+e-mail címet a fenti táblázatban meghatározott célokra, jogalapon és ideig
+kezeli.
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre vonatkozóan fennálló szerződésből eredő jogviták rendezése
+érdekében, esetleges peres, nemperes vagy egyéb hatósági eljárásban történő
+bizonyítás érdekében használja fel. Ezen adatokat a Szolgáltató azért kezeli,
+hogy amennyiben a Felhasználóval a szerződéssel kapcsolatban jogvita keletkezik,
+ezen adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató
+ezen jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél
+másként nem valósítható meg.
+A felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A Felhasználó kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.1.2.
+A Simple Rendszer általános használatával kapcsolatos
+adatkezelés esetén
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+A lebonyolított tranzakció azonosítója
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D oszlop
+  a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+  bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+A lebonyolított tranzakció összege
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D
+  oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – számlakibocsátás
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb esetben
+  a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az adatok
+  (általános polgári jogi elévülési idő).
+A lebonyolított tranzakció tárgya (megvásárolt
+  termék, szolgáltatás)
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D
+  oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – számlakibocsátás
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+Szállítási cím
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) pont szerinti cél esetében: Elkertv. 13/A. §
+D
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+  bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna
+  fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+Számlázási név és cím
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése, kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D
+  oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – az adózási kötelezettség teljesítéséhez
+  szükséges adatok esetén az adózás rendjéről szóló 2017. évi CL. törvény
+  („Art.”) 78. § (3), 202. § (1), számviteli kötelezettség teljesítéséhez
+  szükséges iratok esetén a számvitelről szóló 2000. évi C. törvény („Sztv.”) 168-169.
+  §.
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési, csalásmegelőzési és
+  -kezelési célból kezelt adatok a Simple regisztráció törlésétől számított 5
+  éves általános elévülési időn belül kerülnek megőrzésre azzal, hogy ha ezen
+  időtartam alatt polgári, büntető, közigazgatási vagy egyéb hatósági eljárás
+  indul, akkor az adat ezen eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+E-mail cím, pénznem, fizetés típusa, vásárolt
+  szolgáltatás/termék megnevezése, mennyisége, ára (díja), autópálya matrica és
+  parkolójegy vásárlás esetén a gépjármű rendszáma
+Felhasználó által
+  megadott
+Nyugtaadás
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – az adózási kötelezettség teljesítéséhez
+  szükséges adatok esetén az adózás rendjéről szóló 2017. évi CL. törvény („Art.”)
+  78. § (3), 202. § (1), számviteli kötelezettség teljesítéséhez szükséges
+  iratok esetén a számvitelről szóló 2000. évi C. törvény („Sztv.”) 168-169. §.,
+  Általános forgalmi adóról szóló 2007. évi CXXVII. törvény (Áfa tv.) 166.,
+  167. §-ai, 173., 173/A. §-ai.
+Az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+GPS koordináták, ha a felhasználó azt
+  engedélyezte
+Mobilkészülékről
+  gyűjtött
+Profilalkotás
+  - viselkedésalapú reklám megjelenítése, vásárlói preferenciák megismerése
+GDPR 6.
+  cikk (1) bek. a) pontja szerinti Hozzájárulás
+Hozzájárulás
+  visszavonásáig.
+A *-gal jelölt adatok megadása kötelező, anélkül a Simple Rendszer
+használata nem lehetséges, ezen adatok megadása a szerződéskötés előfeltétele.
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre vonatkozóan fennálló szerződésből eredő jogviták rendezése
+érdekében, esetleges peres, nemperes vagy egyéb hatósági eljárásban történő bizonyítás
+érdekében használja fel. Ezen adatokat a Szolgáltató azért kezeli, hogy
+amennyiben a vásárlóval a szerződéssel kapcsolatban jogvita keletkezik, ezen
+adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató ezen
+jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél
+másként nem valósítható meg.
+A felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A felhasználó kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+Az adatkezelő a Simple.
+1.1.3.
+A Simple ügyfélszolgálattal kapcsolatos adatkezelés esetén
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált, az ügyfélszolgálatot
+  megkereső felhasználó
+név*
+érintettől
+  származó
+a)
+Felhasználó
+  azonosítása
+b)
+Felhasználóval
+  való kommunikáció a panaszkezelés során
+c)
+Panasz
+  elintézése
+d)
+Igény-
+  és jogérvényesítés
+a GDPR 6. cikk (1) bekezdés f) pontja szerinti Jogos érdek
+Panasztételt
+  követő általános polgári jogi elévülési időn belül, azaz a panasztételtől
+  számított 5 évig.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+e-mail cím*
+érintettől
+  származó
+a)
+Felhasználó
+  azonosítása
+b)
+Felhasználóval
+  való kommunikáció a panaszkezelés során
+c)
+Panasz
+  elintézése
+d)
+Igény-
+  és jogérvényesítés
+a GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+Panasztételt követő általános polgári jogi
+  elévülési időn belül, azaz a panasztételtől számított 5 évig.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+regisztrációs szám
+érintettől
+  származó
+a)
+Felhasználó
+  azonosítása
+b)
+Felhasználóval
+  való kommunikáció a panaszkezelés során
+c)
+Panasz
+  elintézése
+d)
+Igény-
+  és jogérvényesítés
+a GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+Panasztételt követő általános polgári jogi
+  elévülési időn belül, azaz a panasztételtől számított 5 évig.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+panaszról felvett jegyzőkönyvben szereplő
+  adatok: fogyasztó neve, lakcíme, panasztétel időpontja, helye, módja, panasz
+  részletes leírása, a fogyasztó által bemutatott iratok, dokumentumok és egyéb
+  bizonyítékok jegyzéke,
+a Simple nyilatkozata a fogyasztó panaszával
+  kapcsolatos álláspontjáról, amennyiben a panasz azonnali kivizsgálása
+  lehetséges,
+a jegyzőkönyvet felvevő személy és - telefonon
+  vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt
+  szóbeli panasz kivételével - a fogyasztó aláírása,
+a jegyzőkönyv felvételének helye, ideje,
+telefonon vagy egyéb elektronikus hírközlési
+  szolgáltatás felhasználásával közölt szóbeli panasz esetén a panasz egyedi
+  azonosítószáma.
+érintettől
+  származó, illetve Simple által generált
+Panaszról
+  jegyzőkönyv felvétele
+a GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése: A Fogyasztóvédelemről szóló 1997. évi CLV.
+  törvény 17/A. § (5) bekezdése előírja a panaszról felvett jegyzőkönyv
+  kötelező tartalmi elemeit
+A panasztételtől számított 5 évig
+telefonszám
+érintettől
+  származó
+a)
+Felhasználó
+  azonosítása
+b)
+Felhasználóval
+  való kommunikáció a panaszkezelés során
+c)
+Panasz
+  elintézése
+a GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+Panasztételt követő általános polgári jogi
+  elévülési időn belül, azaz a panasztételtől számított 5 évig.
+telefonhívás hangfelvétele
+érintettől
+  származó
+a)
+Felhasználó
+  azonosítása
+b)
+Fogyasztók
+  jogainak védelme
+c)
+Panasz
+  tartalmának bizonyíthatósága
+d)
+Igény-
+  és jogérvényesítés
+a GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése: A Fogyasztóvédelemről szóló 1997. évi CLV.
+  törvény 17/B § (3) bekezdése szerint az ügyfélszolgálathoz beérkező
+  valamennyi telefonon tett szóbeli panaszt, valamint az ügyfélszolgálat és a
+  fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. A
+  hangfelvételt egyedi azonosítószámmal kell ellátni és öt évig meg kell
+  őrizni.
+A panasztételtől számított 5 évig.
+panasz tárgya
+érintettől
+  származó
+a)
+Panasz
+  elintézése
+b)
+Igény-
+  és jogérvényesítés
+a GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+Panasztételt követő általános polgári jogi
+  elévülési időn belül, azaz a panasztételtől számított 5 évig.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+panaszolt tranzakció adatai
+érintettől
+  származó
+a)
+Panasz
+  elintézése
+b)
+Igény-
+  és jogérvényesítés
+a GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+Panasztételt követő általános polgári jogi
+  elévülési időn belül, azaz a panasztételtől számított 5 évig.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+A *-gal jelölt adatok megadása kötelező.
+Az ügyfélszolgálati tevékenységet a Simple és az OTP Bank Nyrt. (1051
+Budapest, Nádor u. 16.) közötti közös adatkezelési szerződés alapján a Simple
+és az OTP Bank Nyrt. közös adatkezelőként végzi. A GDPR 26. cikk (2)
+bekezdésének megfelelően ezúton adunk tájékoztatást a közös adatkezelési
+szerződés lényeges rendelkezéseiről:
+-
+A Simple és az OTP Bank Nyrt. mindegyike maga vezeti a
+felelősségébe tartozó adatkezelési tevékenységekről az adatvédelmi
+nyilvántartást, adatvédelmi incidensekről vezetett nyilvántartást, az érintett
+személyek és felügyeleti hatóságok részéről az adatkezelésekkel kapcsolatban
+érkezett kérések nyilvántartását, az általuk az adatkezelésekkel kapcsolatban
+igénybe vett adatfeldolgozók nyilvántartását, valamint az adatkezelésekkel
+összefüggő adattovábbítások nyilvántartását.
+-
+A hozzájáruló
+nyilatkozatoknak az adatkezelők által közösen megállapított időtartamban,
+visszakereshető módon történő megőrzéséről az OTP Bank Nyrt. gondoskodik.
+-
+Az érintettek tájékoztatását
+akkor, amikor az ügyfélszolgálat telefonos vagy e-mail-en keresztül történő
+megkeresése történik, beleértve – amennyiben alkalmazható – az érintett
+hozzájáruló nyilatkozatának megszövegezését is, az OTP Bank Nyrt. végzi. OTP
+Bank Nyrt. gondoskodik továbbá az adatkezelési hozzájáruló nyilatkozatok
+beszerzéséről és tárolásáról, őrzéséről, nyilvántartásáról is.
+-
+A Simple saját honlapján
+elhelyezett jelen adatkezelési tájékoztatójában az ügyfélszolgálati adatok
+kezelésével kapcsolatos tájékoztatást külön is megteszi.
+-
+A
+Simple és az OTP Bank Nyrt. mindegyike
+a
+közös adatkezelések tekintetében külön-külön megfogalmazott adatkezelési
+tájékoztatójukat saját maguk külön-külön teszik közzé és juttatják el az
+érintetteknek.
+-
+A Simple és az OTP Bank Nyrt.
+a közös adatkezeléssel érintett adatkezelések
+esetében közösen határozzák meg az adatkezelés célját és fő eszközeit a GDPR
+26. cikk (1) bekezdésének megfelelően.
+-
+Az érintett mindegyik közös
+adatkezelő vonatkozásában és mindegyik adatkezelővel szemben gyakorolhatja
+jogait.
+-
+A Simple és az OTP Bank Nyrt.
+a hozzájuk beérkezett megkereséseket maguk,
+önállóan válaszolják meg a közösen elfogadott eljárásrendnek megfelelően.
+-
+Az
+érintett adatainak helyesbítésére, törlésére, az adatkezelés korlátozására, az
+érintett adatai kezelése elleni tiltakozására és az adathordozhatóságra
+vonatkozó kérelmének teljesítése a
+Simple és az OTP Bank Nyrt.
+részéről önállóan történik.
+-
+A
+hatósági megkereséseket a
+Simple és az OTP Bank
+Nyrt.
+saját maga válaszolja meg azon hatósági megkeresések esetén, amik
+tevékenységéhez kapcsolódnak.
+-
+Az adatvédelmi incidenst az a közös adatkezelő jelenti be a
+hatóságnak, amelynek tevékenységét az incidens érinti.
+-
+Az érintetteket az adatvédelmi
+incidensről az az adatkezelő tájékoztatja, amelynek a tevékenységét az
+adatvédelmi incidens érintette. Ha az adatvédelmi incidens mindkét adatkezelőt
+érintette, az incidensről az érintetteket az adatkezelők önállóan, külön-külön
+tájékoztatják.
+-
+Az OTP Bank Nyrt. adatvédelmi
+tisztviselője: Gázmár Zoárd, e-mail: adatvedelem@otpbank.hu, cím: 1131
+Budapest, Babér u. 9.
+A GDPR 6. cikk (1) bekezdés f) pontja szerinti
+jogos
+érdek megjelölése
+: a panasztétel, panasz kivizsgálása, elintézése és
+kezelése körében történő adatkezelés a Simple jogos érdeke, valamint a Simple
+Applikációban elérhető szolgáltatások nyújtóinak érdeke is, mivel ezen adatok
+kezelése a Simple Applikációban történt vásárlással, szolgáltatások igénybe
+vételével összefüggő fogyasztóvédelmi, polgári jogi jogaink és érdekeink
+érvényesítéséhez szükséges.
+A Felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A Felhasználó kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.2.
+A Simple
+Rendszer egyes szolgáltatásai körében szolgáltatás specifikusan kezelt
+személyes adatok
+1.2.1.
+Parkolás
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+Gépjármű rendszáma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D
+  oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – számlakibocsátás
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+Gépjármű felségjelzése*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+  bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna
+  fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+Parkolás helye*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb
+  esetben a regisztráció törlésétől számított 5 évig kerülnek megőrzésre az
+  adatok (általános polgári jogi elévülési idő).
+A *-gal jelölt adatok megadása kötelező, anélkül a Parkolás funkció
+használata nem lehetséges.
+Az adatkezelő a Simple.
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre vonatkozóan fennálló szerződésből eredő jogviták rendezése
+érdekében, esetleges peres, nemperes vagy egyéb hatósági eljárásban történő
+bizonyítás érdekében használja fel. Ezen adatokat a Szolgáltató azért kezeli,
+hogy amennyiben a vásárlóval a szerződéssel kapcsolatban jogvita keletkezik,
+ezen adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató
+ezen jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél
+másként nem valósítható meg.
+A felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A felhasználó kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.2.2.
+Autópálya matrica vásárlás
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+Gépjármű rendszáma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D
+  oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése – számlakibocsátás
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb esetben a regisztráció törlésétől
+  számított 5 évig kerülnek megőrzésre az adatok (általános polgári jogi
+  elévülési idő).
+Gépjármű felségjelzése*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról bevallást,
+  adatbejelentést, bejelentést kellett volna tenni, illetve bevallás,
+  adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb esetben a regisztráció törlésétől
+  számított 5 évig kerülnek megőrzésre az adatok (általános polgári jogi
+  elévülési idő).
+Gépjármű típusa*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+  bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna
+  fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári, büntető,
+  közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen eljárás
+  jogerős befejezéséig kerül megőrzésre.
+Egyéb esetben a regisztráció törlésétől
+  számított 5 évig kerülnek megőrzésre az adatok (általános polgári jogi
+  elévülési idő).
+Vásárolt matrica adatai (típus, érvényességi
+  idő)*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a) és b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+Ha az adatok az adózási kötelezettség
+  teljesítéséhez szükségesek, annak a naptári évnek az utolsó napjától
+  számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az adóról
+  bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+  bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna
+  fizetni.
+Ha az adatok a számviteli kötelezettség
+  teljesítéséhez szükségesek, akkor 8 évig kerülnek megőrzésre és tárolásra.
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Egyéb esetben a regisztráció törlésétől számított
+  5 évig kerülnek megőrzésre az adatok (általános polgári jogi elévülési idő).
+A *-gal jelölt adatok megadása kötelező, anélkül az autópálya matrica
+vásárlási funkció használata nem lehetséges.
+Az adatkezelő a Simple.
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre vonatkozóan fennálló szerződésből eredő jogviták rendezése
+érdekében, esetleges peres, nemperes vagy egyéb hatósági eljárásban történő
+bizonyítás érdekében használja fel. Ezen adatokat a Szolgáltató azért kezeli,
+hogy amennyiben a vásárlóval a szerződéssel kapcsolatban jogvita keletkezik,
+ezen adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató ezen
+jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél
+másként nem valósítható meg.
+A felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A felhasználó kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.2.3.
+Közlekedési
+mobiljegy vásárlása
+A Simple a Közlekedési mobiljegy vásárlása során
+az alábbi adatokat is kezeli a Felhasználókról:
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+·
+Volánbusz-BKSZ
+  bérletigazolvány száma*
+·
+Általános
+  bérletigazolvány száma*
+·
+Kisgyermekes
+  bérletigazolvány száma*
+·
+Nyugdíjas
+  bérletigazolvány száma*
+·
+Kártya
+  formátumú vezetői engedély száma*
+·
+Útlevél
+  száma*
+·
+Személyazonosító
+  igazolvány száma*
+·
+362/2011
+  (XII. 30.) Korm. rendelet szerinti oktatási igazolvány száma, amely lehet
+  diákigazolvány vagy pedagógus igazolvány száma*
+·
+Magyar
+  igazolvány száma*
+·
+Magyar
+  hozzátartozói igazolvány száma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+d)
+Kedvezményre,
+  mentességre való jogosultság megállapítása
+D
+  oszlop a), b) és d) pont szerinti célok esetében: jogi kötelezettség teljesítése,
+  GDPR 6. cikk (1) bek. c) pont, jogi kötelezettséget előíró jogszabályok:
+Elkertv.
+  13/A. §
+2011.
+  évi CC. tv. 6. § (2) bek.
+356/2012.
+  (XII. 13.) Korm. rend. 25. § (1) bek.,
+2012.
+  évi XLI. tv. 7. § (1) - (5) bek.
+D
+  oszlop a), b) és d) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+A
+  regisztráció törlésétől számított 5 évig kerülnek megőrzésre az adatok
+  (általános polgári jogi elévülési idő).
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+Simple-ben regisztrált felhasználó
+·
+Közlekedési
+  mobiljegy érvényességi idejének kezdő dátuma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Szerződésből
+  származó díjak számlázása
+c)
+Igény-
+  és jogérvényesítés
+D
+  oszlop a), b) pont szerinti célok esetében: Elkertv. 13/A. §
+D
+  oszlop a), b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+A
+  regisztráció törlésétől számított 5 évig kerülnek megőrzésre az adatok
+  (általános polgári jogi elévülési idő).
+Igény- és jogérvényesítési célból kezelt adatok
+  a Simple regisztráció törlésétől számított 5 éves általános elévülési időn
+  belül kerülnek megőrzésre azzal, hogy ha ezen időtartam alatt polgári,
+  büntető, közigazgatási vagy egyéb hatósági eljárás indul, akkor az adat ezen
+  eljárás jogerős befejezéséig kerül megőrzésre.
+A *-gal jelölt adatok megadása kötelező, anélkül a Közlekedési mobiljegy
+funkció használata nem lehetséges, ezen adatok megadása a szerződés
+létrehozásának előfeltétele.
+Az adatkezelő a Simple.
+A Felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu
+.
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre vonatkozóan fennálló szerződésből eredő jogviták rendezése
+érdekében, esetleges peres, nemperes vagy egyéb hatósági eljárásban történő
+bizonyítás érdekében használja fel. Ezen adatokat a Szolgáltató azért kezeli,
+hogy amennyiben a vásárlóval a szerződéssel kapcsolatban jogvita keletkezik,
+ezen adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató
+ezen jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél másként
+nem valósítható meg.
+A felhasználó kérésre jogosult a fenti jogos érdeken alapuló adatkezeléssel
+kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni, kérését a
+Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.2.4.
+Bookline rendelés
+A Simple az ebben a pontban felsorolt adatok
+tekintetében a
+Libri-Bookline
+Zrt.
+mint a bookline.hu online webáruház
+üzemeltetője adatfeldolgozójának minősül és a fenti adatok kezelését
+adatfeldolgozóként végzi. Ezen adatok adatkezelője a
+Libri-Bookline Zrt.
+A Simple által adatfeldolgozóként kezelt adatok köre az alábbi:
+Érintett
+Adat kategória
+Simple-ben regisztrált felhasználó
+Bookline fiók adatai (név, e-mail cím)*
+Szállítás módja*
+Szállítási cím*
+Rendelési név*
+A *-gal jelölt adatok megadása kötelező, anélkül a Bookline rendelés
+funkció használata nem lehetséges.
+1.2.5.
+Taxi rendelés
+A Simple az ebben a pontban felsorolt adatok
+tekintetében a
+Főtaxi Zrt.
+mint a Főtaxi szolgáltatás nyújtója
+adatfeldolgozójának minősül és a fenti adatok kezelését adatfeldolgozóként
+végzi. Ezen adatok adatkezelője a
+Főtaxi Zrt. A Simple által
+adatfeldolgozóként kezelt adatok köre az alábbi:
+Érintett
+Adat kategória
+Simple-ben regisztrált felhasználó
+Taxi rendelési címe*
+Telefonszám*
+Rendelési név*
+A *-gal jelölt adatok megadása kötelező, anélkül a Taxi rendelés funkció
+használata nem lehetséges.
+1.2.6.
+OTP Egészségpénztári egyenleg lekérdezés és feltöltés, OTP
+SZÉP kártya egyenleglekérdezés
+A.
+Adatkezelés
+az OTP Egészségpénztári egyenleg lekérdezéssel és feltöltéssel kapcsolatban
+A Simple az ebben a pontban felsorolt adatok
+tekintetében az OTP Országos Egészség- és Önsegélyező Pénztár
+adatfeldolgozójának
+minősül és a fenti adatok kezelését adatfeldolgozóként végzi. Ezen adatok
+adatkezelője az OTP Országos Egészség- és Önsegélyező Pénztár
+. A Simple által adatfeldolgozóként kezelt
+adatok köre az alábbi:
+Érintett
+Adat kategória
+Simple-ben regisztrált felhasználó
+OTP EP kártya száma*
+OTP EP kártya telekódja*
+OTP EP kártya egyenlege
+OTP EP kártya feltöltési összege*
+A *-gal jelölt adatok megadása kötelező, anélkül az OTP EP kártya
+feltöltés és egyenleglekérdezés funkció használata nem lehetséges.
+B.
+Adatkezelés
+az OTP SZÉP kártya egyenleg lekérdezéssel kapcsolatban
+A Simple az ebben a pontban felsorolt adatok
+tekintetében az OTP Pénztárszolgáltató és Tanácsadó Zrt. adatfeldolgozójának
+minősül és a fenti adatok kezelését adatfeldolgozóként végzi. Ezen adatok
+adatkezelője az OTP Pénztárszolgáltató és Tanácsadó Zrt.
+A Simple által adatfeldolgozóként kezelt
+adatok köre az alábbi:
+Érintett
+Adat kategória
+Simple-ben regisztrált felhasználó
+OTP SZÉP kártya száma*
+OTP SZÉP kártya egyenlege
+A *-gal jelölt adatok megadása kötelező, anélkül az OTP SZÉP kártya
+egyenleg lekérdezés funkció használata nem lehetséges.
+1.2.7.
+Hűségkártya
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+Eltárolt Hűségkártya adatai*
+érintettől származó
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A
+  Simple regisztráció megszűnéséig.
+A *-gal jelölt adatok megadása kötelező, anélkül a Hűségkártya funkció
+használata nem lehetséges.
+Az adatkezelő a Simple.
+A hűségkártya funkciót tilos személyazonosításra alkalmas igazolvány,
+így különösen személyi igazolvány, lakcímkártya, jogosítvány, útlevél,
+adókártya, TAJ kártya, diákigazolvány, EU-s egészségbiztosítási kártya, egyéb
+fényképes vagy fénykép nélküli, személyes adatot tartalmazó igazolvány,
+belépőkártya rögzítésére és tárolására alkalmazni. Simple jogosult, de nem
+köteles ilyen igazolvány Hűségkártyaként történő rögzítése, tárolása esetén azt
+a Simple Rendszerből törölni. A Simple az ilyen igazolványok tárolását, az
+azzal kapcsolatos adatkezelést nem vállalja, azért felelősséget sem vállal,
+felelősségét ezzel kapcsolatban kifejezetten kizárja.
+A Hűségkártya funkcióban a Costa Coffee törzsvásárlói kártya rögzítése,
+regisztrációja, aktiválása esetén a Simple és a Costa Coffee közötti szerződés
+alapján a rögzített Costa Coffee törzsvásárlói kártya számát, a kártya
+tulajdonos e-mail címét, vezeték- és keresztnevét, és az opcionálisan megadható
+adatokat, így a születési dátumot, irányítószámot, valamint üzlet azonosítót a
+Simple rendszer tárolja és kezeli és a Costa Coffeenak továbbítja. Ezen adatok
+kezelésének célja, jogalapja és időtartama megegyezik a fenti táblázatban
+jelölt többi hűségkártya adattal. A Costa Coffee törzsvásárlói kártya
+regisztrációja esetén a kártyával történt vásárlás után a Costa Coffee
+üzletszabályzata szerint járó hűségpontokat a Costa Coffee továbbítja a Simple
+rendszerbe, amely azokat a kártyához kapcsoltan eltárolja és rögzíti.
+1.2.8.
+SuperShop kártya egyenleg lekérdezés
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+SuperShop kártya száma, Felhasználó
+  kártyatulajdonos születési ideje*
+érintettől származó
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése és ehhez a
+  Felhasználó azonosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A
+  Simple regisztráció megszűnéséig.
+A *-gal jelölt adatok megadása kötelező, anélkül a SuperShop kártya
+pontegyenleg lekérdezési funkció használata nem lehetséges.
+Az adatkezelő a Simple.
+1.2.9.
+Wallet
+1.2.9.1.
+Banki
+pénzküldés támogatása
+A Simple az ebben a pontban felsorolt adatok
+tekintetében az OTP Bank Nyrt. adatfeldolgozójának minősül és a fenti adatok
+kezelését adatfeldolgozóként végzi. Ezen adatok adatkezelője az OTP Bank Nyrt
+. A Simple által adatfeldolgozóként kezelt
+adatok köre az alábbi:
+Érintett
+Adat kategória
+Simple-ben regisztrált felhasználó
+Simple-ben regisztrált küldő bankkártya
+  száma*
+Címzett bankkártya birtokos
+Címzett fogadó bankkártya száma*
+Címzett bankkártya birtokos
+Címzett Simple felhasználó e-mail címe*
+A *-gal jelölt adatok megadása kötelező, anélkül a banki pénzküldés
+támogatása funkció használata nem lehetséges.
+A Felhasználó a pénzküldéshez megadandó címzett e-mail címét vagy
+begépeli, vagy úgy is megadhatja, hogy hozzáférést enged a mobileszközön lévő
+kontakt listájához és abból kiválasztja a kívánt címzett e-mail címét. Ezen
+e-mail cím kezelője az OTP Bank Nyrt., a Simple e tekintetben is adatfeldolgozóként
+jár el.
+1.2.9.2.
+Bankkártya
+regisztráció a Simple Rendszerben
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+bankkártyán szereplő név*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártya száma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártya lejárati dátuma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártyát kibocsátó bank neve
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártya CVV/CVC kódja*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártya elnevezése
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+A *-gal jelölt adatok megadása kötelező, anélkül a bankkártya regisztráció
+nem lehetséges.
+Az adatkezelő a Simple.
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre vonatkozóan fennálló szerződésből eredő jogviták rendezése
+érdekében, esetleges peres, nemperes vagy egyéb hatósági eljárásban történő
+bizonyítás érdekében használja fel. Ezen adatokat a Szolgáltató azért kezeli,
+hogy amennyiben a vásárlóval a szerződéssel kapcsolatban jogvita keletkezik,
+ezen adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató
+ezen jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél
+másként nem valósítható meg.
+A felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A felhasználó kérésre jogosult a fenti jogos érdeken alapuló adatkezeléssel
+kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni, kérését a
+Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.2.9.3.
+NFC-fizetés
+Az adatkezelő az OTP Bank Nyrt., a Simple az OTP Bank Nyrt.
+adatfeldolgozójaként kezeli az NFC fizetésre alkalmassá tett bankkártya adatait
+az OTP Bank Nyrt.-vel kötött kiszervezési és adatfeldolgozói szerződés alapján.
+A Simple által adatfeldolgozóként kezelt adatok köre az alábbi:
+Érintett
+Adat kategória
+Simple-ben regisztrált felhasználó
+bankkártyán szereplő név*
+bankkártya száma*
+bankkártya lejárati dátuma*
+bankkártyát kibocsátó bank neve
+bankkártya CVV/CVC kódja*
+telefonszám*
+Visa kártya esetén Mobilkészülék IMEI
+  száma
+A *-gal jelölt adatok megadása kötelező, anélkül az NFC-s fizetés és a
+kártyadigitalizáció nem lehetséges.
+A Simple az alábbi további adatfeldolgozót veszi igénybe a fenti
+Kártyadigitalizációsval kapcsolatos adatkezeléshez:
+ANTELOP
+PAYMENTS “Société par Actions Simplifiée” (székhely: 67 rue d'Aboukir, 750002 Párizs,
+Franciaország; nyilvántartási szám: 801 665 407; adószám: FR58801665407, adattárolás
+helye: Európai Gazdasági Térség területe.)
+1.2.9.4.
+Simple
+kártya fizetés
+Az adatkezelő az OTP Bank Nyrt., a Simple az OTP Bank Nyrt.
+adatfeldolgozójaként kezeli a Simple kártya adatait. A Simple által
+adatfeldolgozóként kezelt adatok köre az alábbi:
+Érintett
+Adat kategória
+Simple-ben regisztrált felhasználó
+név
+lakcím
+születési idő
+telefonszám
+e-mail cím
+bankkártyán szereplő név*
+bankkártya száma*
+bankkártya lejárati dátuma*
+bankkártyát kibocsátó bank neve
+bankkártya CVV/CVC kódja*
+A *-gal jelölt adatok megadása kötelező, anélkül a Simple Kártya
+kibocsátás nem rendelhető meg.
+1.2.10.
+SimplePay
+Hero Wallet
+A SimplePay Hero Wallet szolgáltatásban történő adatkezelés során
+összekötésre kerül egymással a Felhasználó Simple Applikáció fiókja a SimplePay
+fizetési szolgáltatással, amely során a Felhasználó a Simple ÁFF és a SimplePay
+Felhasználói ÁSZF rendelkezéseinek megfelelően a SimplePay szolgáltatásban a
+Simple Applikációban regisztrált bankkártyájával tudja kifizetni vásárlása
+ellenértékét. Ezen szolgáltatás keretében a Simple a Felhasználó alábbi adatait
+kezeli:
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+bankkártyán szereplő név*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártya száma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártya lejárati dátuma*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártyát kibocsátó bank neve
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop b) pont szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+bankkártya CVV/CVC kódja*
+érintettől származó
+a)
+Szerződés
+  létrehozása, tartalmának meghatározása, módosítása, teljesítése
+b)
+Felhasználó
+  azonosítása
+c)
+Igény-
+  és jogérvényesítés, csalás megelőzése és kezelése
+D
+  oszlop a) és b) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+D oszlop c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bekezdés f) pont – Jogos érdek
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+E-mail cím
+érintettől vagy a
+  kereskedőtől származó
+a)
+SimplePay
+  szolgáltatásban Simple Rendszerben regisztrált bankkártyával történő
+  fizetéssel kapcsolatos értesítések küldése
+b)
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+A bankkártya Felhasználó által történő
+  törléséig, de legkésőbb a Simple regisztráció megszűnéséig.
+A *-gal jelölt adatok megadása kötelező, anélkül a SimplePay Hero Wallet
+szolgáltatás nem működik.
+Az adatkezelő a Simple.
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre vonatkozóan fennálló szerződésből eredő jogviták rendezése
+érdekében, esetleges peres, nemperes vagy egyéb hatósági eljárásban történő
+bizonyítás érdekében használja fel. Ezen adatokat a Szolgáltató azért kezeli,
+hogy amennyiben a vásárlóval a szerződéssel kapcsolatban jogvita keletkezik,
+ezen adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató
+ezen jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél
+másként nem valósítható meg.
+A felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A felhasználó kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.2.11.
+Meghívó
+küldés
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+A meghívóval címzett személy
+e-mail cím*
+Simple-ben regisztrált felhasználótól származó
+a)
+A meghívott
+  személynek meghívó elküldése, a meghívott személy  azonosítása e célból
+A GDPR
+  6. cikk (1) bek. f) pont szerinti Jogos érdek
+A
+  Meghívó megküldésétől számított 30 napig.
+A *-gal jelölt adatok megadása kötelező, anélkül a meghívó nem küldhető
+el.
+Az adatkezelő a Simple.
+A Simple Rendszerben a
+Simple Rendszerbe nem regisztrált harmadik személyek (a továbbiakban: Címzett)
+általad ismert e-mail címére Kupont, Jegyet, és a Simple Rendszer és az abban
+elérhető szolgáltatások egésze vagy egy része igénybe vételére ösztönző, azt
+ajánló, népszerűsítő, kipróbálásra felhívó üzenetet, ajánlást, meghívót (a
+továbbiakban: Meghívó) is küldhetsz.
+Ilyen Meghívó Küldés
+esetén megadod a Címzett nevét és e-mail címét a Simple Rendszer erre szolgáló
+felületén.
+A Meghívó Küldéssel
+elfogadod, hogy csak olyan Címzett neve és e-mail címe írható be Meghívó Küldés
+funkcióba, és csak olyan személynek küldhetsz Meghívót, akitől erre előzetesen
+engedélyt kértél, hogy a nevét és az e-mail címét ilyen Meghívó Küldés céljára
+felhasználhasd. Nem vállalunk felelősséget azért, ha a Címzett adatkezelési
+hozzájárulását a Meghívó küldéséhez nem szerezted be, és nem felelünk azért
+sem, ha a Címzett nevét vagy e-mail címét pontatlanul, helytelenül adtad meg. A
+Meghívó küldésével meghatalmazol bennünket arra, hogy a képviseletedben és
+nevedben küldjük ki a megjelölt Címzettnek a Meghívót oly módon, hogy a Meghívó
+küldőjeként technikai okokból ugyan a Simple kerül feltüntetésre, azonban az
+elküldött Meghívó általad küldött üzenetnek, és nem általunk küldött üzenetnek
+minősül, és a megküldött Meghívóban foglalt tartalom nem minősül általunk tett
+ajánlatnak, reklámnak vagy egyéb direkt marketing kommunikációnak.
+A Meghívó Küldés
+szolgáltatás használatával elfogadod, hogy az Üzenetnek van egy általunk
+meghatározásra kerülő része, amelyet az Üzenetből nem távolíthatsz el. Ezen
+általunk meghatározott tartalom a Simple Rendszerrel, Applikációval kapcsolatos
+tájékoztatást tartalmazhat.
+A Meghívó általad
+megfogalmazható részében csak a jogszabályoknak és az általános udvariassági,
+etikai, erkölcsi, társadalmi szabályoknak, szokásoknak megfelelő tartalmú
+üzenetet küldhetsz, az Üzenet nem lehet obszcén, jogsértő, mások jogait vagy
+jogos érdekét indokolatlanul sértő vagy veszélyeztető, továbbá nem lehet a
+Simple Rendszerre, Applikációra és a Szolgáltatóra nézve hátrányos, így
+különösen jóhírnév sértő, becsületsértő, rágalmazó. Az általad írt Meghívó
+tartalomért és az azzal okozott károkért mi nem tartozunk felelősséggel.
+A Címzett fél általad megadott
+személyes adatait, azaz nevét és e-mail címét csak a Címzett részére történő
+Meghívó küldés céljából kezeljük.
+A Felhasználó a meghívó,
+jegy és kupon küldéshez megadandó címzett e-mail címét vagy begépeli, vagy úgy
+is megadhatja, hogy hozzáférést enged a mobileszközön lévő kontakt listájához
+és abból kiválasztja a kívánt címzett e-mail címét. Ezen e-mail címet a Simple
+a fent megadott jogos érdek jogalapon kezeli attól függetlenül, hogy azt a
+Felhasználó maga gépelte be vagy a Kontakt listájából választotta ki. Simple
+csak a Felhasználó által a Kontakt listából e célra kiválasztott e-mail címet
+kezeli, a Kontakt lista egyéb adatait nem.
+Jogos érdek bemutatása
+: a Meghívót küldő Felhasználók és a Simple közös
+jogos érdeke, hogy a Felhasználók a meghívott Címzettek e-mail címét a Simple
+Rendszerben be tudják írni és ezen keresztül harmadik személy Címzetteket meg
+tudnak hívni a Simple Rendszerbe. Az adatkezeléshez a Címzettektől a
+hozzájárulás bekérése nem lehetséges, mivel ők nem kerültek regisztrálásra a
+Simple Rendszerben. Az adatkezelési cél másként nem valósítható meg.
+Az érintett Címzett a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+Az érintett Címzett kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+1.2.12.
+Elektronikus
+direkt marketing üzenet küldés e-mail, in-app, push üzenet útján vagy egyéb
+hasonló módon
+A Simple az ahhoz hozzájárult felhasználók részére a közvetlen üzletszerzés
+módszerével elektronikus direkt marketing üzenetet küld, amelyben a Simple
+Rendszerrel és az ahhoz kapcsolódó szolgáltatásokkal kapcsolatos híreket,
+újdonságokat, promóciókat, reklámokat, ajánlatokat, nyereményjátékokat és egyéb
+marketing tartalmakat küld elektronikus kommunikáció útján, amely lehet a
+felhasználó e-mail címére megküldött e-mail üzenet, a felhasználó Simple
+fiókjába küldött üzenet, in-app üzenet vagy push értesítés is, valamint minden
+más hasonló elektronikus, online hálózaton küldött üzenet.
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+név*
+érintettől származó
+Elektronikus
+  direkt marketing tartalmú üzenet, így hírlevél, reklám küldése a közvetlen
+  üzletszerzés módszerével
+GDPR 6. cikk (1) bek. a) pont szerinti
+  Hozzájárulás
+Hozzájárulás visszavonásáig.
+e-mail cím*
+érintettől származó
+Elektronikus
+  direkt marketing tartalmú üzenet, így hírlevél, reklám küldése a közvetlen
+  üzletszerzés módszerével
+GDPR 6. cikk (1) bek. a) pont szerinti
+  Hozzájárulás
+Hozzájárulás visszavonásáig.
+Push, in-app üzenet esetén: Simple fiók
+érintettől származó
+Elektronikus
+  direkt marketing tartalmú üzenet, így hírlevél, reklám küldése a közvetlen
+  üzletszerzés módszerével
+GDPR 6. cikk (1) bek. a) pont szerinti
+  Hozzájárulás
+Hozzájárulás visszavonásáig.
+A *-gal jelölt adatok megadása kötelező, anélkül a hírlevél küldésre
+feliratkozni nem lehetséges.
+Az adatkezelő a Simple.
+A Felhasználó a hozzájárulását bármikor visszavonhatja, egyrészt
+valamennyi hírlevél és direkt marketing üzenet végén szereplő erre utaló gombra
+való kattintással, másrészt a Simple ügyfélszolgálatának küldött e-mailben:
+ugyfelszolgalat@simple.hu
+vagy postai úton a Simple
+lent jelzett postacímére, székhelyére.
+1.2.13.
+Nyereményjátékokkal,
+promóciós játékokkal kapcsolatos adatkezelés
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+A nyereményjátékban résztvevő személy (játékos)
+név*
+érintettől származó
+Promócióban,
+  nyereményjátékban történő részvétel
+Kommunikáció,
+  játékos értesítése az eredményről
+játékos
+  azonosítása
+Amennyiben a nyereményjátékban való részvétel
+  jelentkezéshez, játékban való regisztrációhoz kötött: GDPR 6. cikk (1) bek.
+  a) pont szerinti Hozzájárulás
+Amennyiben a nyereményjátékban való részvétel
+  valamely vásárlás lebonyolításával automatikus, és nem kötött külön
+  jelentkezéshez, játékban való regisztrációhoz:
+GDPR 6. cikk (1) bekezdés f) pontja: jogos
+  érdek.
+A sorsolás időpontját
+  követően 90 napig.
+Hozzájárulás esetén: Hozzájárulás
+  visszavonásáig, ha az hamarabb bekövetkezik, mint a fenti adatkezelési
+  időtartam.
+e-mail cím*
+érintettől származó
+Promócióban,
+  nyereményjátékban történő részvétel
+Kommunikáció,
+  Felhasználó értesítése az eredményről
+játékos
+  azonosítása
+A SimplePay fizetési felületen, Simple
+  Applikációban lebonyolított fizetési tranzakció azonosítója
+érintettől származó
+Promócióban,
+  nyereményjátékban történő részvétel
+A SimplePay fizetési felületen, Simple
+  Applikációban lebonyolított fizetési tranzakció időpontja
+érintettől származó
+Promócióban,
+  nyereményjátékban történő részvétel
+A Játékban való részvételhez
+  lebonyolított tranzakció azonosítója
+érintettől származó
+Promócióban,
+  nyereményjátékban történő részvétel, sorsolás
+A *-gal jelölt adatok megadása kötelező, anélkül a nyereményjátékban,
+promócióban részt venni nem lehetséges. Az adatkezelő a Simple.
+A játékos a hozzájárulását bármikor
+visszavonhatja. A hozzájárulás visszavonása esetén adatai kezelése a Játékban
+nem lehetséges, ezért a játékos a játékban nem vehet részt.
+A Játékos
+(érintett) a fenti jogos érdeken alapuló adatkezelés ellen tiltakozhat a Szolgáltatónak
+az ügyfélszolgálatra küldött e-mailjében: ugyfelszolgalat@simple.hu.
+A nyertes játékos adatainak kezelése
+A nyertes játékosnak az 1.2.13. pontban meghatározott, kötelező
+adatkörökön felül az alábbi, további adatainak szolgáltatása szükséges a
+nyeremények átadása, illetve az ahhoz kapcsoló adóterhek és esetleges
+kapcsolódó járulékok, közterhek megfizetése, bevallása és adóigazolás
+kiállítása céljából:
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Nyertes játékos
+Postacím (amennyiben eltér a Lakcímtől)*
+érintettől származó
+Nyeremény
+  átadása
+GDPR 6. cikk (1) bek. b) pont szerinti
+  szerződés teljesítése
+A nyereményjáték lezárultát követő 5 évig
+Adóazonosító jel*
+érintettől származó
+Adózási, járulékfizetési kötelezettség
+  teljesítése
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése
+Adózási kötelezettségek teljesítése tekintetében: az
+  adatmegőrzési idő annak a naptári évnek az utolsó napjától számított 5 év,
+  amelyben az adóról bevallást, bejelentést kellett volna tenni, illetve
+  bevallás, bejelentés hiányában az adót meg kellett volna fizetni (Art. 78. §
+  (3), 202. § (1)).
+Számviteli bizonylatok esetén:
+8 év
+(Szvtv. 168-169. §). A
+  gyakorlatban ilyen eset, ha az adatok a könyvelést alátámasztó iratok részét
+  képezik, például a Társaság és a partner közötti szerződéskötéssel
+  kapcsolatos dokumentumokban (pl megrendelésben) vagy a kiállított számlán
+  szerepelnek.
+Születési hely és idő
+érintettől származó
+Nyeremény átadása, nyertes azonosítása
+GDPR 6. cikk (1) bek. b) pont szerinti
+  szerződés teljesítése
+Személyi igazolvány száma*
+érintettől származó
+a)
+Nyeremény
+  átadása, nyertes azonosítása
+GDPR 6. cikk (1) bek. b) pont szerinti
+  szerződés teljesítése
+Anyja neve*
+érintettől származó
+Nyeremény átadása, nyertes azonosítása
+Adózási, járulékfizetési kötelezettség
+  teljesítése
+D oszlop a) pontja szerinti cél esetében:
+GDPR 6. cikk (1) bek. b) pont szerinti
+  szerződés teljesítése
+D oszlop b) pontja szerinti cél esetében:
+GDPR 6. cikk (1) bekezdés c) pontja szerinti
+  Jogi kötelezettség teljesítése
+Kép-, video- és hangfelvétel
+érintettől származó
+Simple tevékenységének, szolgáltatásainak
+  népszerűsítésére történő marketing célú felhasználás
+GDPR 6. cikk (1) bek. a) pont szerinti
+  Hozzájárulás
+Hozzájárulás visszavonásáig
+A *-gal jelölt adatok megadása kötelező, azok nélkül a Nyeremény
+átvétele nem lehetséges, ezen adatok megadása az átadás előfeltétele.
+A nyertesről készített kép, video és hangfelvételt a Simple az általa
+üzemeltetett honlapokon, így a jelen tájékoztató szerinti
+www.simple.hu
+honlapon, továbbá a Simple Facebook és Linkedin
+oldalain hozza nyilvánosságra. A hozzájárulás magában foglalja a felvétel
+elkészítését és az elkészített felvétel jelen pont szerinti valamennyi
+felhasználását is.
+Az adatkezelő a Simple.
+A nyertes játékos a hozzájárulását bármikor visszavonhatja a Simple-nek
+küldött e-mailjében: ugyfelszolgalat@simple.hu.
+Meghatalmazott által történő nyeremény-átvétel esetében
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Nyeremény-átvételi meghatalmazott
+név*
+érintettől származó
+Nyereményt átvevő meghatalmazott azonosítása
+GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+a nyereményjáték
+  lezárultát követő 3 hónapig
+születési hely, idő*
+érintettől származó
+Nyereményt átvevő meghatalmazott azonosítása
+GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+személyazonosító okmány száma*
+érintettől származó
+Nyereményt átvevő meghatalmazott azonosítása
+GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+lakcím*
+érintettől származó
+Nyereményt átvevő meghatalmazott azonosítása
+GDPR 6. cikk (1) bekezdés f) pontja szerinti
+  Jogos érdek
+A *-gal jelölt adatok megadása kötelező, azok nélkül a Nyeremény
+átvétele nem lehetséges, ezen adatok megadása az átadás előfeltétele.
+Jogos érdek megjelölése
+: a nyeremény meghatalmazott átvevő részére
+történő, jogszerű átadásának biztosítása. A nyereményátvételi meghatalmazott
+adatainak Simple által történő kezelése a Simple és a nyertes Játékos jogos
+érdeke. A kezelt adatok köre szűk, csak a személyazonosításhoz szükséges
+adatkört öleli fel, így a meghatalmazottak alapvető jogai és szabadságai
+aránytalanul nem sérülnek.
+Az adatkezelő a Simple.
+Az érintett meghatalmazott a fenti jogos érdeken
+alapuló adatkezelés ellen tiltakozhat a Simple-nek az ügyfélszolgálatra küldött
+e-mailjében: ugyfelszolgalat@simple.hu.
+A
+jogos érdeken alapuló adatkezelésről szóló érdekmérlegelési tesztet az
+érintettek kérésre teljes terjedelmében megtekinthetik. A kérést a lenti
+ügyfélszolgálati e-mail címen kell előterjeszteni.
+Meghatalmazotti tanúk esetében
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Nyeremény-átvételi meghatalmazott
+név*
+érintettől származó
+Nyereményt átvevő meghatalmazott azonosítása
+GDPR 6. cikk (1) bek. f) pont: Jogos érdek
+a nyereményjáték
+  lezárultát követő 3 hónapig
+lakcím*
+érintettől származó
+Nyereményt átvevő meghatalmazott azonosítása
+GDPR 6. cikk (1) bek. f) pont: Jogos érdek
+A *-gal jelölt adatok megadása kötelező, azok nélkül a Nyeremény
+átvétele nem lehetséges, ezen adatok megadása az átadás előfeltétele.
+Jogos érdek megjelölése
+: a nyeremény meghatalmazott átvevő részére
+történő, jogszerű átadásának biztosítása. A nyereményátvételi meghatalmazotti
+tanúk adatainak Simple által történő kezelése a Simple, a meghatalmazott és a
+nyertes Játékos jogos érdeke. A kezelt adatok köre szűk, csak a
+személyazonosításhoz szükséges adatkört öleli fel, így a meghatalmazotti tanúk
+alapvető jogai és szabadságai aránytalanul nem sérülnek.
+Az adatkezelő a Simple.
+Az érintett a fenti jogos érdeken alapuló adatkezelés ellen tiltakozhat
+a Simple-nek az ügyfélszolgálatra küldött e-mailjében: ugyfelszolgalat@simple.hu.
+A jogos érdeken alapuló
+adatkezelésről szóló érdekmérlegelési tesztet az érintettek kérésre teljes
+terjedelmében megtekinthetik. A kérést a lenti ügyfélszolgálati e-mail címen
+kell előterjeszteni.
+1.2.14.
+Rendszerüzenet
+e-mailben, in-app vagy push üzenetben
+A Simple a Simple regisztrációval rendelkező Felhasználóknak időről
+időre rendszerüzeneteket küld. Rendszerüzenet minden olyan üzenet, amely a
+Simple Rendszer működésével, esetleges szolgáltatás kimaradásaival,
+karbantartásával, a Simple Rendszer funkcióival, meglévő és új funkcióinak
+változásával, új funkcióival, a Simple Rendszerben elérhető szolgáltatások
+körével és igénybe vételének módjával, az Általános Felhasználási
+Feltételekkel, az Adatkezelési tájékoztatóval, vagy azok módosításával,  a
+Felhasználók Simple Rendszerrel kapcsolatos jogaival, kötelezettségeivel, igénybe
+vett szolgáltatásokkal kapcsolatos, beleértve az egyes igénybe vett
+szolgáltatásokról küldött visszaigazoló üzeneteket, igazolásokat,
+értesítéseket, megerősítéseket, elektronikus nyugtákat, számlákat is.
+A Rendszerüzenet küldéséhez a Simple az alábbi adatkezelést végzi:
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+név*
+érintettől származó
+Rendszerüzenet küldése a szerződés teljesítése
+  érdekében
+GDPR 6. cikk (1) bek. b) pont szerinti
+  Szerződés teljesítése
+Szerződés megszűnésétől számított 3
+  hónapig
+e-mail cím*
+érintettől vagy SimplePay Hero Wallet
+  szolgáltatás esetén a Kereskedőtől származó
+Rendszerüzenet küldése a szerződés teljesítése
+  érdekében
+GDPR 6. cikk (1) bek. b) pont szerinti
+  Szerződés teljesítése
+Szerződés megszűnésétől számított 3
+  hónapig
+push és in-app üzenet esetén: Simple
+  fiók
+érintettől származó
+Rendszerüzenet küldése a szerződés teljesítése
+  érdekében
+GDPR 6. cikk (1) bek. b) pont szerinti
+  Szerződés teljesítése
+Szerződés megszűnésétől számított 3
+  hónapig
+A *-gal jelölt adatok megadása kötelező, anélkül a rendszerüzenet küldés
+nem lehetséges.
+A Felhasználó a push üzenet küldés esetében a Simple Applikációban és
+Mobileszközén beállíthatja, hogy kíván-e automatikusan push üzeneteket kapni.
+Amennyiben a Felhasználó az automatikus push üzenet küldési funkciót nem
+kapcsolja be, a Simple csak a Felhasználó külön kérésére tud a Felhasználónak
+push üzenetet küldeni.
+Az adatkezelő a Simple.
+1.2.15.
+Edukációs
+jellegű, tudatosságnövelő üzenet e-mailben, in-app vagy push üzenetben
+A Simple a Simple regisztrációval rendelkező Felhasználóknak időről
+időre edukációs jellegű, tudatosságnövelő üzeneteket küld általános
+adatbiztonsági ismeretterjesztő céllal (pl. adathalászat elleni védekezés,
+frissítések és rendszerkarbantartás fontossága, erős jelszó használatára való
+figyelemfelhívás).
+Az edukációs jellegű, tudatosságnövelő üzenet küldéséhez a Simple az
+alábbi adatkezelést végzi:
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+név*
+érintettől származó
+Ismeretterjesztés az internetes fenyegetésekre és
+  az online biztonsági alapelvekre vonatkozóan, ezáltal a felhasználók
+  biztonságos online magatartásának ösztönzése
+GDPR 6. cikk (1) bek. f) pont: Jogos érdek
+Simple regisztráció törléséig, vagy a
+  felhasználó GDPR 21. cikke szerinti tiltakozási jogának gyakorlásáig
+e-mail cím*
+érintettől vagy SimplePay Hero Wallet
+  szolgáltatás esetén a Kereskedőtől származó
+Ismeretterjesztés az internetes fenyegetésekre és
+  az online biztonsági alapelvekre vonatkozóan, ezáltal a felhasználók
+  biztonságos online magatartásának ösztönzése
+GDPR 6. cikk (1) bek. f) pont: Jogos érdek
+Simple regisztráció törléséig, vagy a
+  felhasználó GDPR 21. cikke szerinti tiltakozási jogának gyakorlásáig
+push és in-app üzenet esetén: Simple
+  fiók
+érintettől származó
+Ismeretterjesztés az internetes fenyegetésekre és
+  az online biztonsági alapelvekre vonatkozóan, ezáltal a felhasználók
+  biztonságos online magatartásának ösztönzése
+GDPR 6. cikk (1) bek. f) pont: Jogos érdek
+Simple regisztráció törléséig, vagy a
+  felhasználó GDPR 21. cikke szerinti tiltakozási jogának gyakorlásáig
+A *-gal jelölt adatok megadása kötelező, anélkül a rendszerüzenet küldés
+nem lehetséges.
+Jogos érdek megjelölése
+: A Simple jogos érdeke, hogy a felhasználók
+adatbiztonsági tudatosságának és tájékozottságának növelésével elősegítse az
+üzleti folytonosságot és csökkenti a kiberbiztonsági kockázatokat, ezáltal védelmet
+nyújtson a Simple Rendszer digitális infrastruktúrájának. A Simple jogos érdeke
+továbbá ebben az esetben a Simple jó hírnevének megőrzése, mivel az
+IT-tudatosságra ösztönző üzenetekkel a Simple hatékonyan demonstrálja
+elkötelezettségét az adatvédelem és a kiberbiztonság terén.
+A Felhasználó a push üzenet küldés esetében a Simple Applikációban és
+Mobileszközén beállíthatja, hogy kíván-e automatikusan push üzeneteket kapni.
+Amennyiben a Felhasználó az automatikus push üzenet küldési funkciót nem
+kapcsolja be, a Simple csak a Felhasználó külön kérésére tud a Felhasználónak
+push üzenetet küldeni.
+Az adatkezelő a Simple.
+Az érintett a fenti jogos érdeken alapuló adatkezelés ellen tiltakozhat
+a Simple-nek az ügyfélszolgálatra küldött e-mailjében: ugyfelszolgalat@simple.hu.
+A
+jogos érdeken alapuló adatkezelésről szóló érdekmérlegelési tesztet az
+érintettek kérésre teljes terjedelmében megtekinthetik. A kérést a lenti
+ügyfélszolgálati e-mail címen kell előterjeszteni.
+1.2.16.
+Kérdőívekkel
+és egyéb kérésre történő adatmegadással kapcsolatos adatkezelés
+A Simple a Felhasználóknak a Simple Rendszerrel és az abban elérhető
+szolgáltatásokkal kapcsolatos véleményükre vonatkozóan, valamint a Simple
+szolgáltatásokkal kapcsolatos viselkedésükre, a Simple szolgáltatásokkal
+kapcsolatba hozható tulajdonosi, vagyoni, pénzügyi helyzetükre, valamint egyéb
+jellemzőikre vonatkozóan időről időre kérdőíveket, adatmegadásra kérő
+üzeneteket küld ki e-mailben, in-app üzenetben, push üzenetben vagy jelenít meg
+a Felhasználóknak más elektronikus módon. A Felhasználók kérdőív kiküldésével,
+adatmegadásra való kérésével kapcsolatos személyes adatait és az azokra adott
+válaszokat a Simple az alábbi módon kezeli:
+A
+B
+C
+D
+E
+F
+Érintett
+Adat kategória
+Adat forrása
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+név
+érintettől származó
+a)
+a
+  Simple Applikáció hatékonyabbá tétele,  továbbfejlesztése, új termékek
+  kifejlesztése
+b)
+a
+  Simple Applikáció használatának mérése, statisztikák készítése
+c)
+profilalkotás:
+  a Felhasználó személyes jellemzőinek, preferenciáinak elemzése és
+  előrejelzése és ez alapján személyre szóló ajánlatok, reklámok megjelenítése
+  azoknak a Felhasználónak, akik az elektronikus direkt marketing üzenetek
+  küldéséhez külön hozzájárultak
+D/a) és b) pont szerinti cél esetében: GDPR 6.
+  cikk (1) bek. f) pont szerinti Jogos érdek
+D/c) pont szerinti cél esetében: GDPR 6. cikk
+  (1) bek. a) pontja szerinti hozzájárulás
+Simple regisztráció törléséig
+e-mail cím
+érintettől származó
+Simple regisztráció törléséig
+push és in-app üzenet esetén: Simple
+  fiók
+érintettől származó
+Simple regisztráció törléséig
+Kérdőívben szereplő kérdésekre adott
+  válaszok
+érintettől származó
+Simple regisztráció törléséig
+A fenti adatok adatkezelője a Simple.
+A jogos érdek megjelölése:
+a)
+A Simple
+Applikáció hatékonyabbá tétele, továbbfejlesztése, új termékek kifejlesztése
+: A
+Simple jogos üzleti, gazdasági érdeke, hogy megismerje a Felhasználók Simple
+Rendszerről alkotott véleményét, a Felhasználók Simple Rendszerben bonyolított
+vásárlásait, szokásait, a Simple szolgáltatásokkal kapcsolatos preferenciáit,
+egyéb személyes jellemzőit annak érdekében, hogy olyan fejlesztéseket végezzen
+a Simple Rendszeren, amelyek megfelelnek a Felhasználói igényeknek, és valós
+piaci igényekre reagálnak.
+b)
+A Simple
+applikáció használatának mérése, statisztikák készítése
+: A
+Simple jogos üzleti, gazdasági érdeke, hogy a kérdőívekben szereplő adatok
+alapján megismerje, hogy a Felhasználók mely szolgáltatásokat használnak,
+melyeket nem, mely szolgáltatások milyen körben népszerűek, melyekre van vagy
+nincs igény a Felhasználók részéről, és hogy ez alapján saját részre
+kimutatásokat, üzleti statisztikákat készítsen, amelyek az üzleti döntések
+alapjául szolgálnak.
+A Felhasználót a jogos érdeken alapuló adatkezelés esetén tiltakozási
+jog illeti meg, amelyet az ugyfelszolgalat@simple.hu e-mail címre küldött
+levelében gyakorolhat.
+A jogos érdeken alapuló adatkezelésről szóló érdekmérlegelési tesztet az
+érintettek kérésre teljes terjedelmében megtekinthetik. A kérést a lenti
+ügyfélszolgálati e-mail címen kell előterjeszteni.
+A Simple a kérdőívekre adott válaszokat azoknál a Felhasználóknál, akik
+ahhoz külön hozzájárultak, automatizált adatkezelésen alapuló döntéshozatallal
+megvalósuló profilalkotásra is használja, és azoknak, akik az elektronikus
+direkt marketing üzenetek küldéséhez külön hozzájárultak, viselkedés alapú
+célzott elektronikus reklámüzeneteket küld, illetve jelenít meg a profilalkotás
+eredménye alapján.
+Azon Felhasználók esetében, akik nem járultak hozzá az automatizált
+döntéshozatallal járó profilalkotáshoz, de hozzájárultak az elektronikus direkt
+marketing anyagok küldéséhez, a Simple a kérdőívekre adott válaszait kézi
+erővel profilozza, és részükre viselkedés alapú célzott elektronikus
+reklámüzeneteket küld, illetve jelenít meg a profilalkotás eredménye alapján.
+Azon Felhasználók esetében, akik az elektronikus direkt marketing
+üzenetek küldéséhez nem járultak hozzá, a kérdőívekre adott válaszokat a Simple
+profilalkotásra nem használja, és részükre viselkedés alapú reklámüzenetet sem
+küld.
+A profilalkotással kapcsolatos részletes szabályokat lentebb találod
+meg.
+1.2.17.
+Csekkbefizetési
+szolgáltatással kapcsolatos adatkezelés
+A Csekkbefizetési szolgáltatásban a QR-kód beolvasás során a QR-kód
+rögzítéséhez, valamint a befizetés teljesítéséhez szükséges fizetési művelethez
+elengedhetetlen személyes adatok tekintetében a Simple a Magyar Posta Zrt.
+megbízásából és utasítására, a Magyar Posta Zrt.-vel kötött kiszervezési és
+adatfeldolgozási szerződés alapján a Magyar Posta Zrt. adatfeldolgozójaként jár
+el. Ezen adatkezelés tekintetében az adatkezelő a Magyar Posta Zrt., és a
+Magyar Posta Zrt. adatkezelési tájékoztatója irányadó ezen adatkezelésre.
+A Simple kizárólag a Postai QR-kód beolvasásával kezdeményezett
+szolgáltatás tekintetében jár el a Magyar Posta Zrt. adatfeldolgozójaként, a
+Simple Applikáción keresztül nyújtott egyéb termékek és szolgáltatások
+vonatkozásában és a Simple Applikáció általános használatával kapcsolatban a
+Simple jelen Adatkezelési tájékoztatója az irányadó és alkalmazandó.
+A Simple a Magyar Posta Zrt. megbízásából és utasítására
+adatfeldolgozóként az alábbi adatokat kezeli a fent meghatározott célra:
+-
+Fizetés státusza
+-
+Banki VPOS
+azonosító
+-
+e-mail cím
+-
+Tranzakció
+hivatkozási azonosító
+-
+Fizetendő összeg
+-
+Csekk kibocsátója
+-
+Megbízó neve, címe
+-
+Befizetőazonosító
+-
+Ügyfélközlemény
+-
+Mentett Csekk elnevezése
+A fenti adatkezelés célját, jogalapját, időtartamát a Magyar Posta Zrt.
+mint adatkezelő határozza meg és azt a saját adatkezelési tájékoztatójában
+közli az érintettekkel.
+1.2.18.
+A Simple
+Közösség funkcióval kapcsolatos adatkezelés
+A Simple Közösség funkción belül az
+alábbi adatokat kezeljük rólad az alábbi jogalapon:
+A
+B
+C
+D
+E
+Érintett
+Adat kategória
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált és a Simple Közösségbe
+  belépett és a megjelenítést engedő felhasználó
+Simple Rendszerben
+  regisztrált e-mail címe
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Simple rendszerben
+  megadott profilképe
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+A Simple rendszerben
+  legutóbb használt Simple szolgáltatások
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Facebook ismerősök
+  listája
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Facebook profilban
+  megadott név, profilkép, e-mail cím
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Simple Rendszerben regisztrált, más Simple
+  Felhasználó által a Simple Közösségben ismerősnek jelölt Felhasználó
+Simple Rendszerben
+  regisztrált e-mail címe
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Simple rendszerben
+  megadott profilképe
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+A Simple rendszerben
+  legutóbb használt Simple szolgáltatások
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Facebook ismerősök
+  listája
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Facebook profilban
+  megadott név, profilkép, e-mail cím
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Simple Rendszerben regisztrált, ismerősnek
+  ajánlás körében más Felhasználónál ismerősként felajánlott Felhasználó
+Simple Rendszerben
+  regisztrált e-mail címe
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Simple rendszerben
+  megadott profilképe
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+A Simple rendszerben
+  legutóbb használt Simple szolgáltatások
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+Facebook profilban
+  megadott név, profilkép, e-mail cím
+Simple
+  Közösségi funkció működtetése, szolgáltatás nyújtása
+GDPR 6.
+  cikk (1) bek. a) pont: hozzájárulás
+Hozzájárulás
+  visszavonásáig, ennek hiányában a Simple regisztráció megszűnéséig.
+A Felhasználó a hozzájárulását
+bármikor szabadon visszavonhatja.
+Az adatkezelő a Simple.
+1.2.19.
+A biztosítással
+kapcsolatos adatkezelés
+A Groupama Simple Gépjármű
+asszisztencia csoportos biztosítással kapcsolatos adatkezelés
+A)
+A Groupama Simple
+Gépjármű asszisztencia csoportos biztosításhoz a Felhasználó által történő
+csatlakozással kapcsolatban a Simple az alábbi adatokat kezeli a csatlakozott
+Felhasználókról a Groupama Biztosító Zrt.
+megbízásából és utasítására
+adatfeldolgozóként:
+Simple-ben
+regisztrált és a Simple gépjármű asszisztencia biztosítási szerződéshez
+csatlakozott Felhasználók:
+-
+Simple Rendszerben regisztrált e-mail címe
+-
+Simple Rendszerben megadott név, vagy ennek hiányában a
+Simple által a fenti e-mail címből generált név
+-
+Gépjármű típusa (személygépjármű/tehergépjármű), rendszáma,
+életkora (gyártási éve) és felségjelzése
+-
+Biztosítási szerződéshez csatlakozás dátuma
+-
+Választott biztosítási csomag és azok módosításai
+-
+Kockázatviselés kezdete és vége
+-
+Gépjármű használati szokások (külföldi utazás rendszeressége,
+autóhasználat gyakorisága)
+-
+Biztosítási szerződés száma.
+B)
+A Simple a
+Groupama Simple Gépjármű asszisztencia csoportos biztosításhoz a Felhasználó
+által történő csatlakozással kapcsolatban a biztosítási díj Felhasználónak
+történő számlázása érdekében és céljából adatkezelőként kezeli a
+GDPR 6. cikk (1) bek. c) pont szerinti jogi
+kötelezettség teljesítése jogalapon (az adózási kötelezettség teljesítéséhez
+szükséges adatok esetén az adózás rendjéről szóló 2017. évi CL. törvény
+(„Art.”) 78. § (3), 202. § (1), számviteli kötelezettség teljesítéséhez
+szükséges iratok esetén a számvitelről szóló 2000. évi C. törvény („Sztv.”)
+168-169. §) az alábbi személyes adatokat a
+Simple-ben
+regisztrált és a Simple gépjármű asszisztencia biztosítási szerződéshez
+csatlakozott Felhasználókról:
+-
+Simple Rendszerben regisztrált e-mail címe
+-
+Simple Rendszerben megadott név, vagy ennek hiányában a
+Simple által a fenti e-mail címből generált név
+-
+Gépjármű típusa (személygépjármű/tehergépjármű), rendszáma,
+életkora (gyártási éve) és felségjelzése
+-
+Biztosítási szerződéshez csatlakozás dátuma
+-
+Választott biztosítási csomag és azok módosításai
+-
+Kockázatviselés kezdete és vége.
+Adatmegőrzési idő: ha az adatok az
+adózási kötelezettség teljesítéséhez szükségesek, annak a naptári évnek az
+utolsó napjától számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az
+adóról bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna
+fizetni. Ha az adatok a számviteli kötelezettség teljesítéséhez szükségesek,
+akkor 8 évig kerülnek megőrzésre és tárolásra.  Egyéb esetben a szerződés
+megszűnésétől számított 5 évig kerülnek megőrzésre az adatok (általános polgári
+jogi elévülési idő).
+C)
+A Simple a
+Groupama Simple Gépjármű asszisztencia csoportos biztosításhoz a Felhasználó
+által történő csatlakozással kapcsolatban a csatlakozott Felhasználóval
+szembeni igény- és jogérvényesítési célból a GDPR 6. cikk (1) bek. f) pontja
+szerinti jogos érdek jogalapon adatkezelőként kezeli a csatlakozott Felhasználó
+alábbi személyes adatait:
+-
+Simple Rendszerben regisztrált e-mail címe
+-
+Simple Rendszerben megadott név, vagy ennek hiányában a
+Simple által a fenti e-mail címből generált név
+-
+Gépjármű típusa (személygépjármű/tehergépjármű), rendszáma,
+életkora (gyártási éve) és felségjelzése
+-
+Biztosítási szerződéshez csatlakozás dátuma
+-
+Választott biztosítási csomag és azok módosításai
+-
+Kockázatviselés kezdete és vége
+-
+Biztosítási szerződés száma.
+Adatmegőrzési idő: ha az adatok az
+adózási kötelezettség teljesítéséhez szükségesek, annak a naptári évnek az
+utolsó napjától számított 5 évig kerülnek tárolásra és megőrzésre, amelyben az
+adóról bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve
+bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna
+fizetni. Ha az adatok a számviteli kötelezettség teljesítéséhez szükségesek,
+akkor 8 évig kerülnek megőrzésre és tárolásra.  Egyéb esetben a szerződés
+megszűnésétől számított 5 évig kerülnek megőrzésre az adatok (általános polgári
+jogi elévülési idő).
+Jogos érdek bemutatása
+: az igény- és jogérvényesítési célú adatkezelés
+esetén a Felhasználók fent megjelölt adatait a Szolgáltató a Felhasználóval a
+Simple rendszerre és a biztosításra vonatkozóan fennálló szerződésből eredő
+jogviták rendezése érdekében, esetleges peres, nemperes vagy egyéb hatósági
+eljárásban történő bizonyítás érdekében használja fel. Ezen adatokat a Szolgáltató
+azért kezeli, hogy amennyiben a Felhasználóval a biztosítással és az arra
+vonatkozó biztosítási szerződéssel kapcsolatban jogvita keletkezik, ezen
+adatokat bizonyítási célból a Szolgáltató felhasználhassa. A Szolgáltató ezen
+jogát elévülési időn belül gyakorolhatja. Az adatkezelés ezért a Szolgáltató
+jogai és jogos érdekei megóvása érdekében szükséges. Az adatkezelési cél
+másként nem valósítható meg.
+A felhasználó a fenti jogos érdeken alapuló adatkezelés ellen
+tiltakozhat a Simple-nek az ügyfélszolgálatra küldött e-mailjében:
+ugyfelszolgalat@simple.hu.
+A felhasználó kérésre jogosult a fenti jogos érdeken alapuló
+adatkezeléssel kapcsolatban elkészített érdekmérlegelési tesztet megtekinteni,
+kérését a Simple ügyfélszolgálatra küldött levelében terjesztheti elő.
+A Magyar Posta Biztosító Zrt. által nyújtott Készülékbiztosítással
+kapcsolatos adatfeldolgozási tevékenység
+A Simple a Magyar Posta Biztosító Zrt.(Cg.: 01-10-044751; Székhely:1022
+Budapest, Bég. u. 3-5) által kínált csoportos készülékbiztosítást a Magyar
+Posta Biztosító Zrt.-vel kötött szerződése alapján – a biztosítási
+tevékenységről szóló 2014. évi LXXXVIII törvény („Bit.”) 4. § (1) bekezdés 34.
+a) pontja szerinti – függő biztosításközvetítőként (ügynökként) közvetíti a
+Simple Applikációban a Felhasználóknak a Felhasználók biztosításhoz való
+csatlakozása érdekében. A Simple ezen függő biztosításközvetítői tevékenysége
+végzésekor a Simple Applikáció Készülékbiztosítás menüpontján keresztül történő
+adatkezeléssel kapcsolatban a
+Magyar Posta Biztosító Zrt.
+adatfeldolgozójaként
+jár el a Magyar Posta Biztosító Zrt.-vel megkötött
+adatfeldolgozói szerződés alapján. A Simple ezen adatfeldolgozói szerződés
+alapján az alábbi adatok feldolgozását végzi a Magyar Posta Biztosító Zrt.
+számára adatfeldolgozóként a biztosítást kötő Felhasználóról:
+-
+Név
+-
+E-mail cím
+-
+Lakcím
+-
+Biztosított okostelefon készülék IMEI száma
+-
+Biztosított okostelefon készülék típusa
+-
+Biztosítási csomag (Alap/Extra)
+-
+Megkötött szerződés azonosítója
+-
+Kockázatviselés kezdő időpontja
+-
+Szerződéskötés napja
+-
+Szerződés törlésének hatálya
+-
+Szerződés törlésének oka
+-
+Szerződés törlésének dátuma
+-
+Fizetési gyakoriság (havi, féléves, éves)
+-
+Éves díj
+-
+Gyakoriság szerint fizetendő díj
+-
+Következő fizetési esedékesség dátuma
+-
+Biztosítási önrész
+-
+Biztosított készülék képernyőjéről készített fotók
+-
+Biztosítás státusza (aktív, nem aktív, felmondott, lejárt)
+-
+Készülék számlájában szereplő adatok
+A Magyar Posta Biztosító Zrt. adatkezelő fenti adatkezeléssel kapcsolatos
+adatkezelési tájékoztatója a Simple Applikáció Biztosítás menüpontjában
+elérhető.
+1.2.20.
+A Simple regisztráció
+(fiók, profil) törlése után a Simple által kezelt személyes adatok
+A Simple ÁFF-ben
+meghatározott Simple regisztráció (fiók/profil) törlése esetén a lenti adatokat
+a Simple a lenti célból a lenti időtartamig még tovább kezeli:
+A)
+Jogi kötelezettség
+teljesítése érdekében, a GDPR 6. cikk (1) bekezdés c) pontja szerinti jogalapon
+kezelt személyes adatok, amelyeket a Simple-nek kötelessége megőriznie: ezek a
+személyes adat kategóriák, az érintettek köre, az adatkezelés célja és az
+adatmegőrzés időtartama jelen Adatkezelési tájékoztatóban feltüntetésre
+kerültek.
+B)
+A Simple vagy harmadik
+személy GDPR 6. cikk (1) bekezdés f) pontja szerinti jogos érdeke jogalapon
+kezelt személyes adatok igény- és jogérvényesítési, csalásmegelőzési és
+kezelési célból, amelyeket a Simple a polgári jogi 5 éves elévülési időn belül,
+bűncselekmény esetében annak elévülési idején belül őriz meg, amennyiben pedig
+a bírósági, büntető hatósági, közigazgatási vagy egyéb eljárás megindul, az
+eljárás jogerős befejezéséig őriz meg. Ezek a személyes adatok az alábbiak:
+-
+Felhasználó
+neve, Simple-ben regisztrált e-mail címe
+-
+Felhasználó
+által a Simple Rendszerben lebonyolított tranzakció azonosítója, összege,
+tárgya, szállítási címe, számlázási címe
+-
+Ügyfélszolgálatot
+megkereső személy neve, e-mail címe, regisztrációs száma, a telefonhívás
+hangfelvétele, panaszról felvett jegyzőkönyv és annak tartalma, panasz tárgya,
+panaszolt tranzakció adatai
+-
+Parkolási
+és e-matrica vásárlás esetén: gépjármű rendszáma, típusa, felségjele, parkolás
+helye, e-matrica adatai
+-
+Közlekedési
+mobiljegy esetén: bérletigazolvány száma, személyazonosító igazolvány száma,
+kedvezményre való jogosultságot igazoló dokumentum száma, közlekedési mobiljegy
+érvényességi ideje.
+A Simple regisztráció
+(fiók, profil) törlése esetén a Felhasználó fenti esetkörökön és személyes
+adatokon kívüli, a Simple által adatkezelőként kezelt személyes adata
+visszafordíthatatlanul, a törlést jelentő módon anonimizálásra kerül.
+A Simple regisztráció
+(fiók, profil) törlésének részletes szabályait a Simple ÁFF tartalmazza.
+1.2.21.
+Bejelentkezési értesítés
+küldése és kétfaktoros authentikáció (röviden „2FA”) során kezelt személyes
+adatok
+A bejelentkezési
+értesítési e-mail küldése és a kétfaktoros authentikáció esetén a Simple az
+alábbi személyes adatokat kezeli:
+A
+B
+C
+D
+E
+Érintett
+Adat kategória
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben
+  regisztrált Felhasználó
+Felhasználó
+  regisztrált e-mail címe, bejelentkezés helye (úgy mint Simple Honlap, Simple
+  Applikáció), bejelentkezés időpontja, bejelentkezésre használt e-mail cím,
+  kétfaktoros authentikációhoz e-mailben kapott kód.
+A
+  Felhasználó Simple fiókjának védelme, a Felhasználó Simple fiókjával való
+  visszaélések megakadályozása, csökkentése, a biztonságos IT-környezet kialakítása
+  és a felhasználói fiókok védelmének megerősítése azáltal, hogy a felhasználók
+  számára egy második, önálló azonosítási tényezőt (e-mailben kapott kódot) követel
+  meg, jelentősen csökkentve ezzel az illetéktelen hozzáférések kockázatát.
+Bejelentkezési
+  értesítés esetén: GDPR 6. cikk (1) a) pont szerinti hozzájárulás.
+2FA
+  esetén a GDPR 6. cikk (1) bekezdés f) pontja szerinti jogos érdek. A Simple
+  jogos érdeke és az azzal kapcsolatos mérlegelést a Simple jogos érdek
+  mérlegelési tesztben elvégezte, amelyet a Felhasználó kérésére a Felhasználó
+  rendelkezésére bocsát. A 2FA kiegészítő biztonsági intézkedést a Simple alapértelmezés
+  szerinti kötelező jelleggel alkalmazza, azt a Felhasználó a teljeskörű fiókvédelem
+  biztosítása érdekében kikapcsolni nem tudja.
+Bejelentkezési
+  értesítés esetén: a Simple a Felhasználó hozzájárulása esetén a Simple
+  Rendszerben való regisztrációja megszüntetéséig küldi a bejelentkezési
+  értesítéseket a Felhasználónak, és alkalmaz kétfaktoros authentikációt.
+2FA
+  esetén: a Simple fiók regisztráció törléséig.
+A Felhasználó a
+bejelentkezési értesítések küldéséhez és a kétfaktoros authentikációhoz való
+hozzájárulását a Simple Classic, Simple by OTP Applikációban erre szolgáló gomb
+segítségével a funkció külön-külön történő bekapcsolásával adja meg. A
+Felhasználó a bejelentkezési értesítések küldéséhez és a kétfaktoros
+authentikációhoz adott hozzájárulását bármikor külön-külön visszavonhatja a
+Simple Classic és Simple
+by
+OTP
+Applikációban erre
+szolgáló gomb segítségével a funkció kikapcsolásával.
+Az
+érintetteknek a kétfaktoros authentikáció kikapcsolására nincs lehetőségük, így
+ezen adatkezelés ellen a GDPR 21. cikk (1) bekezdés első mondata szerinti
+tiltakozási jogukat a GDPR 21. cikk (1) bekezdés második mondata alapján nem tudják
+gyakorolni. A 2FA-hoz kapcsolódó adatkezelést az Adatkezelő által elvégzett
+érdekmérlegelés szerint a 2FA alkalmazását olyan kényszerítő erejű jogos ok
+indokolja, amely elsőbbséget élvez az érintett érdekeivel, jogaival és
+szabadságaival szemben. Ezen a kényszerítő ok egyrészt, hogy a Felhasználók,
+bár arról tényszerű információval nem vagy nem feltétlenül rendelkeznek, a
+magas szintű adatbiztonság garantálása iránt növekvő igényt tanúsítanak,
+másrészt, hogy a megnövekedett gyakoriságú informatikai rendszereket érő
+kibertámadások gyors lefolyása miatt nem elegendő a 2FA kibertámadás
+bekövetkezésekor való bekapcsolása, annak előzetes, preemptív használata
+szükséges.
+1.2.22.
+Falatozz.hu ételrendelés
+során kezelt személyes adatok
+A Simple az alábbi
+személyes adatokat kezeli a Falatozz.hu ételrendelési szolgáltatásban:
+A
+B
+C
+D
+E
+Érintett
+Adat kategória
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben
+  regisztrált Felhasználó
+Felhasználó
+  életkora
+A
+  Felhasználó alkoholtartalmú italvásárlási jogosultságának ellenőrzése
+GDPR 6.
+  cikk (1) bekezdés c) pontja szerinti jogi kötelezettség teljesítése. A jogi
+  kötelezettséget előíró jogszabály: A fogyasztóvédelemről szóló 1997. évi CLV.
+  törvény 16/A. §  (1) bekezdése: Tilos tizennyolcadik életévét be
+  nem töltött személy részére - a kizárólag orvosi rendelvényre kiadható
+  gyógyszer kivételével - alkoholtartalmú italt értékesíteni, illetve
+  kiszolgálni. (4) bekezdése: az (1) bekezdésben meghatározott korlátozás
+  érvényesítése érdekében a vállalkozás vagy annak képviselője kétség esetén
+  felhívja a fogyasztót életkorának hitelt érdemlő igazolására. Az életkor
+  megfelelő igazolásának hiányában a termék értékesítését, illetve
+  kiszolgálását meg kell tagadni.
+Az
+  adott megrendelés leadásáig.
+Korábbi
+  rendelések adatai
+Korábbi
+  rendelések újrarendelése
+GDPR 6.
+  cikk (1) bekezdésének b) pontja szerint a Simple és a Felhasználó közötti
+  szerződés teljesítése
+1 évig
+SZÉP
+  kártyás fizetés esetén a tranzakció azonosítója
+SZÉP
+  kártyás fizetés sikerességének visszajelzése a felhasználónak
+GDPR 6.
+  cikk (1) bekezdésének b) pontja szerint a Simple és a Felhasználó közötti
+  szerződés teljesítése
+Tranzakció
+  időpontjától számított 5 évig
+1.2.23.
+Fizetési kérelemmel
+kapcsolatban kezelt személyes adatok
+A Simple az alábbi személyes adatokat kezeli a
+Felhasználóról a Fizetési kérelemmel kapcsolatban adatkezelőként:
+A
+B
+C
+D
+E
+Érintett
+Adat kategória
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben
+  regisztrált Felhasználó
+Felhasználó
+  neve, bankszámlaszáma
+Bankszámlaszám
+  és név tárolása a Simple Applikációban Fizetési Kérelem teljesítése céljából.
+GDPR 6.
+  cikk (1) bekezdés a) pontja szerinti hozzájárulás
+A
+  hozzájárulás visszavonásáig, de legkésőbb a Simple regisztráció törléséig
+  (amelyik hamarabb bekövetkezik).
+A Felhasználó a
+hozzájárulását bármikor visszavonhatja.
+1.2.24.
+Hibabejelentéssel
+kapcsolatos adatkezelés
+A Simple Applikációban az erre rendszeresített
+űrlapon a Felhasználó a Simple Applikációval kapcsolatos hibákat bejelentheti.
+Ezzel a hibabejelentéssel és annak kezelésével kapcsolatban a Simple az alábbi
+személyes adatokat kezeli:
+A
+B
+C
+D
+E
+Érintett
+Adat kategória
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben
+  regisztrált Felhasználó
+Felhasználó
+  e-mail címe
+Hibabejelentés
+  kivizsgálása, felhasználó tájékoztatása
+GDPR 6.
+  cikk (1) bekezdés f) pontja szerinti jogos érdek
+A
+  hibabejelentéstő számított egy hónapig.
+Hibajelenség
+  felmerülésének helyszíne
+Hibabejelentés
+  kivizsgálása
+A jogos érdek megjelölése:
+A Simple Applikáció javítása
+: A Simple jogos üzleti, gazdasági érdeke, hogy a
+Simple Applikáció hibamentesen működjön, a Simple a hibákról értesüljön, és a
+hibákat ki tudja javítani, amely növeli a Felhasználói elégedettséget is.
+A Felhasználót a jogos érdeken alapuló adatkezelés esetén tiltakozási
+jog illeti meg, amelyet az ugyfelszolgalat@simple.hu e-mail címre küldött
+levelében gyakorolhat.
+A jogos érdeken alapuló adatkezelésről szóló érdekmérlegelési tesztet az
+érintettek kérésre teljes terjedelmében megtekinthetik. A kérést a fenti
+ügyfélszolgálati e-mail címen kell előterjeszteni.
+2.
+Cookiek
+útján gyűjtött adatokkal kapcsolatos adatkezelés
+A Honlapon és a Simple
+Applikációban cookiekat és egyéb különböző programokat alkalmazunk annak
+érdekében, hogy a Honlap és a Simple Applikáció Felhasználók igényeit,
+Honlappal és Simple Applikációval kapcsolatos viselkedését megismerjük és azok
+alapján a Honlapot, Simple Applikációt továbbfejlesszük, a Honlap és Simple
+Applikációs látogatásokról és használatról anonim statisztikákat készítsünk, a
+Felhasználóknak célzott reklámüzenetet küldjünk.
+A Honlapon és a Simple
+Applikációban alkalmazott sütiket három fő csoportba soroljuk:
+a)
+A
+Honlap és/vagy a Simple Applikáció működéséhez feltétlenül szükséges cookiek
+: ezek nélkül a Honlap,
+Simple Applikáció egyáltalán nem vagy nem rendeltetésszerűen működik, ezen
+sütik szükségesek a Honlap és a Simple Applikáció futtatásához. Az ilyen sütik
+csak olyan műveletekre vonatkoznak, mint például a nyelv, a pénznem, az
+adatvédelmi preferenciák. Amennyiben ezeket a sütiket a Felhasználó blokkolja a
+böngészőjében, a Honlap és a Simple Applikáció nem működik megfelelően.
+A Simple a Honlap és a Simple Applikáció
+működéséhez feltétlenül szükséges sütiket a GDPR 6. cikk (1) bekezdés f) pontja
+szerinti
+Jogos érdek
+alapján kezeli.
+A Simple jogos érdeke
+: a Simple jogos üzleti
+érdeke, hogy a Honlap és a Simple Applikáció rendeltetésszerűen működjön, és a
+Felhasználók számára a Honlap és a Simple Applikáció megjelenítésre
+kerülhessen. Ehhez szükséges a lent jelzett cookie-k alkalmazása és az általuk
+gyűjtött személyes adatok kezelése.
+Jogos
+érdeken alapuló adatkezelés esetén az érintett bármikor tiltakozhat az
+adatkezeléssel szemben, ebben az esetben adatait a Szolgáltató nem kezeli
+tovább.
+A
+jogos érdeken alapuló adatkezelésről szóló érdekmérlegelési tesztet az
+érintettek kérésre teljes terjedelmében megtekinthetik. A kérést a lenti
+ügyfélszolgálati e-mail címen kell előterjeszteni.
+b)
+Analitikai
+és statisztikai célú sütik: e
+zek a sütik lehetővé teszik a Simple-nek, hogy
+mérje a látogatói forgalmat és adatokat kezeljen adatbázisokban. Segítenek
+abban is, hogy a Simple megértse, mely termékek és tevékenységek népszerűbbek,
+mint mások. Ezeket a sütiket a Felhasználó blokkolhatja böngészőjében, vagy ezt
+is használhatja: https:\\tools.google.com/dlpage/gaoptout. Ezen sütik által
+gyűjtött adatokat a Simple a Honlap és a Simple Applikáció optimalizálására, a
+Honlap és a Simple Applikáció továbbfejlesztésére használja.
+A Simple ezeket az
+adatokat a GDPR 6. cikk (1) bekezdés a) pontja szerinti
+Hozzájárulás
+alapján kezeli.
+Hozzájáruláson
+alapuló adatkezelés esetében az érintett bármikor visszavonhatja
+hozzájárulását.
+c)
+Marketing és remarketing célú sütik: e
+zek a
+sütik általában marketing, reklám és hirdetési tevékenységek miatt kerülnek
+beállításra abból a célból, hogy a Felhasználók érdeklődési körét monitorozzák,
+majd ennek megfelelően tudnak releváns hirdetéseket megjeleníteni a Honlapon és
+a Simple Applikációban. Ezen sütik által gyűjtött adatok kerülnek
+felhasználásra a Felhasználók profilozásához. Amennyiben a Felhasználó nem
+engedélyezi ezeket a sütiket, a jövőben nem kap célzott hirdetéseket.
+Ezeknek a sütiknek az
+alkalmazásával gyűjtött adatok kezelésének a célja közvetlen üzletszerzési célú
+szegmentálás targetált reklámok közzétételére.
+Ezen
+túlmenően annak érdekében, hogy a Felhasználók csak olyan hirdetéseket
+kapjanak, amelyek érdeklődési körüknek megfelelnek, és amelyek számukra
+relevánsak, az automatikusan gyűjtött adatokat a Felhasználók, reklám címzettek
+szegmentálására, csoportokba sorolására használjuk.
+A
+fenti adatkezelés az érintettekre joghatással nincsen.
+A Szolgáltató ezeket a
+sütiket a GDPR 6. cikk (1) bekezdés a) pontja szerinti hozzájárulás alapján
+kezeli.
+Hozzájáruláson
+alapuló adatkezelés esetében az érintett bármikor visszavonhatja hozzájárulását
+a böngésző beállításaiban, ebben az esetben a Szolgáltató az adott cookie-t nem
+alkalmazza és azzal adatgyűjtést, adatkezelést a továbbiakban nem végez.
+A
+sütikre (cookiekra) vonatkozó általános rendelkezések
+Általánosságban
+a cookie egy olyan apró fájl, amelyet betűk és számok alkotnak, és amelyet a
+Felhasználó eszközére küldünk szerverünkről. Megbízható partnerek segítik a
+Simple-t hirdetések Honlapon,
+a
+Simple Applikációban
+és azon kívül történő megjelenítésében, és
+analitika szolgáltatók, mint a Google Analytics, Facebook Pixel is cookie-kat
+helyezhetnek el a Felhasználó eszközén.
+A Simple az alábbi
+harmadik féltől származó cookiekat az alábbi célra használja:
+Cookie típusa
+Cookie célja
+Google Analytics
+Látogatottsági statisztikák
+  generálása, Honlap
+és a Simple
+  Applikáció
+továbbfejlesztése
+Google Adwords Remarketing
+Google LLC által biztosított
+  hirdetési szolgáltatások használata, targetált, szegmentált reklám
+  megjelenítése
+Facebook Pixel és Custom Audience
+statisztikák generálása a
+  Facebook.com oldalról érkező látogatókra vonatkozóan
+Facebook, Inc. által nyújtott
+  remarketing szolgáltatások használata, targetált, szegmentált reklám
+  megjelenítésére a Facebook.com-on
+A Honlapon és a Simple
+Applikációban a Google Analytics és a Facebook Custom Audience szolgáltatásait
+és cookie-jait alkalmazzuk, ezek az alábbiak:
+A Google Analytics a Google LLC.
+(„Google”) internetes elemző szolgáltatása, amely segít többet megtudni arról,
+hogy a látogatók milyen szokások szerint használják a Honlapot
+és a Simple Applikációt
+. A Google Analytics olyan információkat
+összegez a Honlap
+és a Simple Applikáció
+használatáról, mint például az IP-cím, amelyet a rendszer elküldhet a
+Google-nek, és a kiszolgáló szerverein tárolja. Ezeket az információkat
+jelentések készítéséhez és a weboldalunk működésének javításához használjuk
+fel. A cookie-k anonim információkat gyűjtenek továbbá a következőkről is: a
+Honlap
+és a
+Simple Applikáció
+látogatóinak száma, illetve azzal kapcsolatos adatok, hogy milyen oldalról
+érkeznek a látogatók a Honlapra
+és a Simple Applikációba
+és azok mely oldalait tekintik meg.
+A Google Analytics cookiekról további
+információt itt olvashatsz:
+http://www.google.com/policies/privacy/.
+Ha szeretnéd kikapcsolni a Google
+Analytics nyomkövetését a Honlap
+és a Simple Applikáció
+látogatása során, akkor kattints az
+alábbi linkre: http://tools.google.com/dlpage/gaoptout
+A Facebook Custom Audience a Facebook,
+Inc. (Facebook) internetes elemző és hirdetési szolgáltatása, amellyel a Simple
+arról szerez információkat, hogy a Honlap
+és a Simple Applikáció
+látogatói hogyan használják a Honlapot
+és a Simple Applikációt
+. A Facebook Custom Audience vagy Facebook
+Pixel cookiek-ról további információkat itt olvashatsz:
+https://www.facebook.com/policies/cookies/.
+A Facebook Pixel szolgáltatáshoz a felhasználói eszközökön cookie
+elhelyezése szükséges. A Honlapon és a Simple Applikációban is Facebook Pixel-t
+használunk, mind hirdetésre, mind pedig Honlap és a Simple Applikáció
+analitikára vonatkozóan. A Facebook pixelek cookiekat helyeznek el a Honlapot és
+a Simple Applikációt böngésző eszközön, amelyek célja megfelelő hirdetési
+közönség összeállítása, eszközök közötti konverziók mérése, hirdetések célzása,
+optimalizálása  a megfelelő közönségre, személyre szabott reklámok, hirdetések
+megjelenítése, valamint riportok készítése, kimutatások készítése a Honlapról
+és a Simple Applikációról.
+A Facebook ezen adatkezelési tevékenységét a Felhasználó a Facebook
+fiókjában szabályozhatja és állíthatja be, valamint a Facebook cookiek által
+történő adatgyűjtést a Honlapon és a Simple Applikációban a Felhasználó maga
+engedélyezheti. A Facebookon a Felhasználó a fiókjába belépve a Facebook Ads
+Settings-ben tekintheti meg ezen cookiekat, és ott állíthatja be, illetve
+módosíthatja preferenciáit is a cookiek-kal kapcsolatban.
+A Honlapon
+és a Simple Applikációban
+a cookiek-hoz fajtájuk szerinti
+csoportosításban adhatja meg a Felhasználó a hozzájárulását.
+A Felhasználó beállíthatja böngészőjét,
+hogy elfogadjon minden sütit, elutasítsa mindet, vagy értesítse a felhasználót,
+ha süti érkezik a felhasználó gépére. Mindegyik böngésző különböző, így a
+“Segítség” menü segíthet a sütik beállításainak módosításában. A sütik
+természetével, valamint kikapcsolásukkal kapcsolatos további információ
+található például az alábbi oldalon:
+http://www.youronlinechoices.com/hu/
+.
+Annak érdekében, hogy a Simple tudomást
+szerezzen arról, hogy a felhasználó letiltotta egyes cookiek használatát, a
+Simple letiltási cookiet helyez el a Felhasználó eszközén, így a Simple tudni
+fogja, hogy nem helyezhet el cookiekat akkor, amikor a Felhasználó következő
+alkalommal meglátogatja a Honlapot
+és a
+Simple Applikációt
+.
+A leggyakrabban használt böngészők
+esetében a sütik kezelésére vonatkozó menüpontok:
+§
+Mozilla Firefox:
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+§
+Google Chrome:
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en
+§
+Internet Explorer:
+https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+§
+Microsoft Edge:
+https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy
+A Google Analytics kiegészítő
+lehetőségeket kínál a Google Analytics szolgáltatásokról való leiratkozáshoz:
+http://tools.google.com/dlpage/gaoptout?hl=en-GB.
+Az alkalmazott sütik típusonként:
+A)
+iOS
+mobileszközök esetén:
+A
+B
+C
+D
+E
+Érintett
+Adat kategória
+Adatkezelés célja
+Adatkezelés jogalapja, cookie besorolása
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+az alkalmazás nyelve
+a)
+Applikáció
+  testreszabása,
+b)
+Kommunikáció,
+c)
+Automatikus
+  értesítések nyelvének meghatározása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+a telepítéskor generált
+  egyedi hardware azonosító
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+a Felhasználó
+  azonosításához és hitelesítéséhez szükséges kulcslánc adatai
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+a bejelentkezéshez
+  használt e-mail cím
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+a bejelentkezés típusa
+  (e-mail, Google+ vagy Facebook fiók)
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+a felhasználói jelszó
+  kétszer hashelt változata a gyengébb azonosítást megkövetelő feladatokhoz
+  (pl. újrabejelentkezés)
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+a felhasználói jelszó
+  hashelt változata az erősebb azonosítást megkövetelő feladatokhoz (pl.
+  fizetés)
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+EP kártya feltöltés
+  esetén az utoljára használt EP kártya száma mentődik
+Applikáció
+  kényelmesebbé tétele, testreszabása, felhasználói élmény növelése
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás
+Az
+  applikációból való kijelentkezésig
+pénzküldési funkcióban
+  az utoljára használt bankkártyaszám mentődik
+Applikáció
+  kényelmesebbé tétele, testreszabása, felhasználói élmény növelése
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás
+Az
+  applikációból való kijelentkezésig
+utolsó jelszómódosítás
+  dátuma
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+utolsó bejelentkezés
+  dátuma
+a)
+Biztonság
+  biztosítása,
+b)
+Érdeklődési
+  kör megismerése,
+c)
+Applikáció
+  testreszabása,
+d)
+Reklám
+  megjelenítése, személyre szóló ajánlat küldése
+C
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+C
+  oszlop b)-d) pontok szerinti célok esetében:
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás – marketing típusú cookie.
+Az
+  applikáció törléséig
+jelszó nélküli
+  kifizetés maximális összege
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+regisztráció dátuma
+a)
+Érdeklődési
+  kör megismerése,
+b)
+Applikáció
+  testreszabása,
+c)
+Reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+regisztráció csatornája
+a)
+Érdeklődési
+  kör megismerése,
+b)
+Applikáció
+  testreszabása,
+c)
+Reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+Közösségi média
+  hálózatból történő regisztráció ténye
+a)
+Érdeklődési
+  kör megismerése,
+b)
+Applikáció
+  testreszabása,
+c)
+Reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+B)
+Android
+mobileszközök esetén:
+A
+B
+C
+D
+E
+Érintett
+Adat kategória
+Adatkezelés célja
+Adatkezelés jogalapja
+Adatkezelés időtartama
+Simple-ben regisztrált felhasználó
+bankkártya profil adatok
+  (kártya azonosító, kártya státusz, kártyaadatok)
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+Kártya tranzakciós
+  adatok (kártya azonosító, tranzakció időbélyege, azonosítója, logja)
+a)
+Felhasználó
+  azonosítása,
+b)
+bizonyíthatóság,
+c)
+igény-
+  és jogérvényesítés,
+d)
+érdeklődési
+  kör megismerése,
+e)
+applikáció
+  testreszabása,
+f)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+C
+  oszlop a)-c) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+C
+  oszlop d) – f) pontok szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+Környezeti adatok
+  (szélességi, hosszúsági fok – lokáció, wallett állapot, távoli url)
+a)
+érdeklődési
+  kör megismerése,
+b)
+applikáció
+  testreszabása,
+c)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikációból való kijelentkezésig
+Mobil kulcsok (mobil
+  kulcsszett azonosító, típus, érték, kártya azonosító)
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+Tranzakció igazolás
+  státusz adatok (token egyedi hivatkozás, időbélyeg)
+a)
+Szerződés
+  teljesítése,
+b)
+bizonyíthatóság,
+c)
+igény-
+  és jogérvényesítés
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+Token egyedi referencia
+  lista (token egyedi referencia, kártya azonosító)
+a)
+Szerződés
+  teljesítése,
+b)
+bizonyíthatóság,
+c)
+igény-
+  és jogérvényesítés
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+A bejelentkezéshez
+  használt e-mail cím
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az applikációból
+  való kijelentkezésig
+A bejelentkezés típusa
+  (e-mail, Google+ vagy Facebook fiók)
+a)
+Felhasználó
+  azonosítása,
+b)
+érdeklődési
+  kör megismerése,
+c)
+applikáció
+  testreszabása,
+d)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+C
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek - Az applikáció működéséhez
+  feltétlenül szükséges.
+C
+  oszlop b) - d) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikációból való kijelentkezésig
+A felhasználói jelszó
+  kétszer hashelt változata a gyengébb azonosítást megkövetelő feladatokhoz
+  (pl. újrabejelentkezés)
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+A felhasználói jelszó
+  hashelt, ujjlenyomattal titkosított változata
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+Sikeres tranzakciók
+  száma
+a)
+érdeklődési
+  kör megismerése,
+b)
+applikáció
+  testreszabása,
+c)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+d)
+statisztikai,
+  elemzési cél
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás
+marketing
+  és statisztikai, elemzési célú cookie
+Az
+  applikáció törléséig
+EP kártya feltöltés
+  esetén az utoljára használt EP kártya száma mentődik
+a)
+Applikáció
+  kényelmesebbé tétele, testreszabása,
+b)
+felhasználói
+  élmény növelése
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás
+Az
+  applikáció törléséig
+Pénzküldési funkcióban
+  az utoljára használt bankkártyaszám mentődik
+a)
+Applikáció
+  kényelmesebbé tétele, testreszabása,
+b)
+felhasználói
+  élmény növelése
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás
+Az
+  applikáció törléséig
+Utolsó bejelentkezéshez
+  használt e-mail cím mentődik
+a)
+Applikáció
+  kényelmesebbé tétele, testreszabása,
+b)
+felhasználói
+  élmény növelése
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás
+Az
+  applikáció törléséig
+Ügyfél API szintje
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+Üzenetközpont, utoljára
+  mutatott üzenet és időbélyege
+a)
+Szerződés
+  teljesítése,
+b)
+bizonyíthatóság,
+c)
+igény-
+  és jogérvényesítés
+C
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+C
+  oszlop b) és c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. f) pont szerinti Jogos érdek
+Az
+  applikáció törléséig
+Taxirendelési dialógus
+  adatai
+a)
+Szerződés
+  teljesítése,
+b)
+bizonyíthatóság,
+c)
+igény-
+  és jogérvényesítés
+C
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+C
+  oszlop b) és c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. f) pont szerinti Jogos érdek
+Az
+  applikációból való kijelentkezésig
+Parkolás GPS ellenőrzés
+  dialógus adatai
+a)
+Szerződés
+  teljesítése,
+b)
+bizonyíthatóság,
+c)
+igény-
+  és jogérvényesítés
+C
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+C
+  oszlop b) és c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. f) pont szerinti Jogos érdek
+Az
+  applikációból való kijelentkezésig
+Wallet PIN
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+Wallet app fizetési
+  azonosító
+Felhasználó
+  azonosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+a Walletben kártya
+  azonosító digitalizáltsága
+a)
+Felhasználó
+  azonosítása,
+b)
+szerződés
+  teljesítése,
+c)
+bizonyíthatóság,
+d)
+igény-
+  és jogérvényesítés
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+Nem lezárt telefon
+  időbélyeg
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikációból való kijelentkezésig
+Mobilfizetés EULA által
+  blokkolt
+a)
+Szerződés
+  teljesítése,
+b)
+bizonyíthatóság,
+c)
+igény-
+  és jogérvényesítés
+C
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. b) pont szerinti Szerződés teljesítése
+C
+  oszlop b) és c) pont szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. f) pont szerinti Jogos érdek
+Az
+  applikáció törléséig
+Biztonságos keyguard
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+Keyguard megváltozott
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az applikáció
+  működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+Nem a Simple az
+  alapértelmezett fizetési applikáció
+a)
+érdeklődési
+  kör megismerése,
+b)
+applikáció
+  testreszabása,
+c)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+Beállítások az
+  applikációban (nyelv, hírlevél feliratkozás, ujjlenyomatot használ-e,
+  értesítések, összekapcsolódik-e a Facebookkal, parkolási értesítések, taxi
+  értesítések, mozi értesítések)
+a)
+érdeklődési
+  kör megismerése,
+b)
+applikáció
+  testreszabása,
+c)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+utolsó jelszómódosítás
+  dátuma
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+utolsó bejelentkezés
+  dátuma
+a)
+Biztonság
+  biztosítása,
+b)
+érdeklődési
+  kör megismerése,
+c)
+applikáció
+  testreszabása,
+d)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+C
+  oszlop a) pont szerinti cél esetében:
+GDPR 6.
+  cikk (1) bek. b) pont Szerződés teljesítése
+C
+  oszlop b) – d) pontok szerinti célok esetében:
+GDPR 6.
+  cikk (1) bek. a) pont szerinti Hozzájárulás
+Az
+  applikáció törléséig
+Jelszó nélküli
+  kifizetés maximális összege
+Biztonság
+  biztosítása
+GDPR 6.
+  cikk (1) bek. f) pont szerinti jogos érdek
+Az
+  applikáció működéséhez feltétlenül szükséges.
+Az
+  applikáció törléséig
+regisztráció dátuma
+a)
+Érdeklődési
+  kör megismerése,
+b)
+applikáció
+  testreszabása,
+c)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+regisztráció csatornája
+a)
+Érdeklődési
+  kör megismerése,
+b)
+applikáció
+  testreszabása,
+c)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+Közösségi média
+  hálózatból történő regisztráció ténye
+a)
+Érdeklődési
+  kör megismerése,
+b)
+applikáció
+  testreszabása,
+c)
+reklám
+  megjelenítése, személyre szóló ajánlat küldése
+GDPR
+  6. cikk (1) bek. a) pont szerinti Hozzájárulás – marketing cookie
+Az
+  applikáció törléséig
+3.
+Profilalkotás
+A)
+Milyen adatokkal,
+milyen célra, milyen jogalapon profilozunk?
+A fenti 2. pontban felsorolt, mobileszközökről és Honlapról
+automatikusan gyűjtött adatokat, továbbá a fenti 1.2.16. pontban meghatározott
+Kérdőívekben a Felhasználók által megadott adatokat összekapcsoljuk a Simple
+Applikációban történő regisztrációd és egyéb Simple szolgáltatások igénybe
+vétele során általad megadott és általunk rólad gyűjtött, a jelen adatkezelési
+tájékoztató 1.1.1., 1.1.2., 1.2.1., 1.2.2., 1.2.3., 1.2.4. és 1.2.5. pontjában
+megjelölt adatokkal és a 1.2.19. pontjában megjelölt adatok közül azzal az
+adattal, hogy a Felhasználó rendelkezik-e gépjármű asszisztencia biztosítással,
+és mely járművére, továbbá az általunk üzemeltetett más honlapokon, így a
+www.simple.hu
+,
+www.simplepay.hu
+,
+www.simplepartner.hu
+,
+www.mozizunk.hu
+,
+www.mozi-filmek.hu
+,
+www.simplejatekok.hu
+,
+www.nyerjamatricaddal.hu
+,
+www.penzugyekonline.hu
+,
+www.nyerjegyszeruen.hu,
+www.utazzegyszeruen.hu, www.mentsdegyszeruen.hu
+honlapokon
+általad megadott és rólad automatikusan gyűjtött, ezen honlapokra vonatkozó
+adatkezelési tájékoztatónkban meghatározott adatokkal, és hozzád rendeljük.
+Az automatizált döntéshozatal nélküli profilalkotási adatkezelés célja
+és jogalapja:
+a)
+a Simple
+Applikáció hatékonyabbá tétele, továbbfejlesztése, új termékek kifejlesztése
+,
+amelynek jogalapja a GDPR 6. cikk (1) bekezdés f) pontja szerinti jogos érdek,
+azaz: a Simple jogos üzleti, gazdasági érdeke, hogy megismerje a Felhasználók
+Simple Rendszerről alkotott véleményét, a Felhasználók Simple Rendszerben
+bonyolított vásárlásait, szokásait, a Simple szolgáltatásokkal kapcsolatos
+preferenciáit, egyéb személyes jellemzőit annak érdekében, hogy olyan
+fejlesztéseket végezzen a Simple Rendszeren, amelyek megfelelnek a Felhasználói
+igényeknek, és valós piaci igényekre reagálnak.
+b)
+a Simple
+applikáció használatának mérése, statisztikák készítése
+,
+amelynek jogalapja a GDPR 6. cikk (1) bekezdés f) pontja szerinti jogos érdek,
+azaz: a Simple jogos üzleti, gazdasági érdeke, hogy a kérdőívekben szereplő
+adatok alapján megismerje, hogy a Felhasználók mely szolgáltatásokat
+használnak, melyeket nem, mely szolgáltatások milyen körben népszerűek,
+melyekre van vagy nincs igény a Felhasználók részéről, és hogy ez alapján saját
+részre kimutatásokat, üzleti statisztikákat készítsen, amelyek az üzleti
+döntések alapjául szolgálnak.
+c)
+profilalkotás
+és azon
+alapuló viselkedés alapú reklám megjelenítése
+,
+küldése
+: a fenti
+adathalmaz hozzárendelése a Felhasználó Simple Alkalmazásban létrehozott
+profiljához, a Felhasználóról profil alkotása, azaz a Felhasználó személyes
+jellemzőinek, preferenciáinak elemzése és előrejelzése és ez alapján személyre
+szóló ajánlatok, reklámok megjelenítése azoknak a Felhasználónak, akik az elektronikus
+direkt marketing üzenetek küldéséhez külön hozzájárultak.
+A jogos érdeken alapuló adatkezelés ellen a Felhasználó tiltakozhat, ebben
+az esetben adatait ilyen jogalapon és az ahhoz tartozó célra nem kezeljük
+tovább.
+A
+jogos érdeken alapuló adatkezelésről szóló érdekmérlegelési tesztet az
+érintettek kérésre teljes terjedelmében megtekinthetik. A kérést a lenti
+ügyfélszolgálati e-mail címen kell előterjeszteni.
+B)
+Az
+automatizált döntéshozatallal megvalósuló profilalkotásra vonatkozó információk
+A profilalkotást azoknál a Felhasználóknál, akik ahhoz kifejezetten,
+külön hozzájárulást adtak a GDPR 6. cikk (1) bekezdés a) pontja és 22. cikk (2)
+bekezdés c) pontja alapján (adatkezelés jogalapja: hozzájárulás), automatizált
+adatkezelésen alapuló döntéshozatallal végezzük, amely eredményeképpen
+létrejövő profil jellemzőket és adatokat közvetlen üzletszerzés céljára, azaz
+célzott, viselkedés alapú reklám küldésére csak azon Felhasználóknál használjuk
+fel, akik az elektronikus direkt marketing üzenet küldéshez is kifejezetten
+hozzájárultak.
+Automatizált döntéshozatallal történő profilalkotás esetén a
+Felhasználókat az alábbi többletjogok illetik meg:
+-
+emberi beavatkozást kérhet
+-
+álláspontját kifejezheti
+-
+az így meghozott döntéssel szemben kifogást nyújtson be a
+Simple-hez.
+A Felhasználó ezen jogainak gyakorlására irányuló nyilatkozatát az
+ügyfélszolgálati e-mail címre küldött levelében, vagy a Simple-nek papír alapon
+küldött levelében nyújthatja be, minden esetben írásbeli formában.
+Az automatizált döntéshozatallal megvalósuló profilalkotással
+kapcsolatban a GDPR 13. cikk (2) bekezdés f) pontja alapján a Simple az alábbi
+tájékoztatást nyújtja:
+-
+az automatizált döntéshozatallal megvalósuló profilalkotás
+jelentősége és következménye
+a Felhasználóra nézve az, hogy olyan
+elektronikus reklámüzenetet fog kapni, és részére olyan reklám tartalmak fognak
+online megjelenni, amelyek jobban megfelelnek az automatizált döntéshozatallal
+megvalósuló profilalkotás során feltárt személyes jellemzőinek, érdeklődési
+körének, vásárlási szokásainak, a profilalkotás során feltárt várható,
+előrejelzett viselkedésének. A Felhasználó a profilalkotás eredményeképpen nem
+esik el semmilyen előnytől, kedvezménytől, részére a szolgáltatások díja nem
+változik, a Felhasználóra nézve az ilyen automatizált döntéshozatalon alapuló
+profilalkotás joghatással nem jár, és őt jelentős mértékben nem érinti.
+-
+az automatizált adatkezelésen alapuló döntéshozatallal járó
+profilalkotás során alkalmazott logika
+:  a Felhasználó összegyűjtött adatait a Felhasználóhoz
+rendeljük, a gyűjtött adatokból következtetéseket vonunk le arra vonatkozóan,
+hogy mik a Felhasználó preferenciái, milyen az érdeklődési köre, és eddigi
+vásárlásai és Simple Rendszerrel kapcsolatos online viselkedése alapján a
+jövőben várhatóan mely szolgáltatásokat fogja és milyen módon igénybe venni,
+ezen adatok alapján pedig az ezen következtetéseknek megfelelő reklám kerül
+megjelenítésre, illetve megküldésre a Felhasználónak.
+Azon Felhasználók esetében, akik az automatizált döntéshozatallal történő
+profilalkotáshoz nem járultak hozzá, a profilalkotást kézi, emberi erővel
+végezzük, az ő esetükben automatizált adatkezelésen alapuló döntéshozatalt nem
+alkalmazunk; amely kézi profilalkotás eredményeképpen létrejövő profil
+jellemzőket és adatokat közvetlen üzletszerzés céljára, azaz célzott,
+viselkedés alapú reklám küldésére csak azon Felhasználóknál használjuk fel,
+akik az elektronikus direkt marketing üzenet küldéshez is kifejezetten
+hozzájárultak.
+Azon Felhasználók tekintetében, akik nem járultak hozzá direkt marketing
+üzenetek küldéséhez, közvetlen üzletszerzési célú profilalkotást sem
+automatizált döntéshozatallal, sem anélkül nem végzünk, részükre célzott,
+viselkedés alapú reklám üzenetet nem küldünk.  Az ilyen Felhasználók adatait a
+fenti adatkezelési célok  közül csak a Simple Applikáció hatékonyabbá tétele,
+testreszabása, továbbfejlesztése, új termékek kifejlesztése, valamint a Simple
+applikáció használatának mérése, statisztikák készítése céljára használjuk fel.
+Ezen adatkezelési célok jogalapja a GDPR 6. cikk (1) bekezdés f) pontja
+szerinti, fent jelzett jogos érdek.
+A profilalkotáshoz használjuk a Facebook Custom Audiences, Facebook
+Pixel, Google Analytics szolgáltatásokat. A Facebook Custom Audience
+szolgáltatás keretében e-mail címed, telefon azonosítód feltöltjük a fenti célból
+a Facebook rendszerébe, míg a Facebook Pixel és Google Analytics esetében az
+általuk Rólad gyűjtött adatokat használjuk és azokat esetenként összekapcsoljuk
+az általunk Rólad gyűjtött adatokkal. A Facebook-nak és a Google-nek általunk
+továbbított adatok, valamint a tőlük általunk kapott adatok tekintetében a
+Simple minősül adatkezelőnek, míg a Google és a Facebook az adatkezelő az
+általuk gyűjtött adatok tekintetében. A Facebook és a Google a Simple
+adatfeldolgozója a Simple által a felhasználókról gyűjtött és a Facebooknak,
+Google-nek átadott anyagok tekintetében.
+4.
+A
+Facebook oldallal kapcsolatos adatkezelés
+A Simple a
+https://www.facebook.com/simplehungary/
+URL cím alatt Facebook oldalt (Facebook Page) üzemeltet, amelyen híreket,
+hirdetéseket tesz közzé, videókat jelenít meg, nyereményjátékokat és
+promóciókat szervez és bonyolít le, eseményeket tesz közzé, fotókat közöl,
+bejegyzéseket tesz (post). A Simple a Simple Facebook Oldalon a Facebook
+Insight (Oldalelemzések) funkciójával adatokat gyűjt, elemez és aggregált módon
+jelenít meg arról, hogy a látogatók milyen tevékenységet folytatnak az oldalon,
+mennyi időt töltenek bizonyos tartalmak megtekintésével.
+A Simple tájékoztatja a Simple Facebook Oldal látogatóit, hogy a
+Facebook Oldallal kapcsolatos Oldalelemzések során gyűjtött személyes adatok
+tekintetében a Simple és a Facebook Ireland Limited a GDPR 26. cikke szerinti
+együttes (közös) adatkezelőknek minősülnek, mivel a Simple és a Facebook
+Ireland Limited közösen határozza meg az adatkezelés céljait és eszközeit. A
+Simple és a Facebook Ireland Limited között a Facebook Oldalra vonatkozóan
+létrejött közös adatkezelésről szóló megállapodás itt érhető el: https://www.facebook.com/legal/terms/page_controller_addendum.
+A Simple tájékoztatja a Facebook Oldala látogatóit a közös
+adatkezeléssel kapcsolatos főbb kötelezettségek és felelősségek megoszlásáról a
+Simple és a Facebook Ireland Limited között, valamint a közös adatkezelői
+megállapodás lényeges rendelkezéseiről:
+A Facebook Ireland Limited felelőssége és kötelezettségei:
+a)
+A
+Facebook Ireland Limited vállalja az elsődleges felelősséget az Oldalelemzések
+funkcióban kezelt személyes adatok kezelésével kapcsolatban; az adatkezelést a
+Simple nevében is a Facebook Ireland Limited végzi.
+b)
+A
+Facebook Ireland Limited felelős az érintettek megfelelő tájékoztatásáért az
+adatkezeléssel kapcsolatban.
+c)
+A
+Facebook Ireland Limited felelős az érintetti jogok gyakorlása esetén az
+érintettekkel való kapcsolattartásra, válaszadásra, arra a Simple nem jogosult
+a fenti közös adatkezelői szerződés alapján. Ha az érintett a Simple-höz
+nyújtja be érintetti jogok gyakorlásával kapcsolatos kérelmét, a Simple azt 7
+napon belül köteles a Facebook Ireland Limited-hez továbbítani, az érintett választ
+a Facebook Ireland Limited-től fogja megkapni a jogszabályi határidőn belül.
+d)
+A
+Facebook Ireland Limited felelős az Oldalelemzések során gyűjtött és kezelt
+adatok tekintetében az adatbiztonsági előírások betartásáért, az adatvédelmi
+incidensek bejelentéséért és az érintettek adatvédelmi incidensről való
+tájékoztatásáért.
+A Simple felelőssége és kötelezettségei:
+a)
+A Simple
+köteles biztosítani, hogy van megfelelő jogalapja az Oldalelemzésekkel
+kapcsolatos adatkezelésre.
+b)
+A Simple
+köteles megjelölni magát mint adatkezelőt a Facebook Oldalon, A
+c)
+A Simple
+nem kérheti ki a Facebook Ireland Limited-től az Oldalelemzések során kezelt
+konkrét személyes adatokat, a Simple csak a Facebook Ireland Limited által
+készített statisztikákat, kimutatásokat látja és fér hozzá, az azok alapját
+képező személyes adatokat nem.
+A Simple ezúton tájékoztatja a Simple Facebook Oldal látogatóit, hogy az
+alábbi típusú adatait a Simple az alábbi jogalapon kezeli:
+§
+A Simple
+Facebook Oldal like-okkal kapcsolatban: a like-oló személyek száma, a like-ok
+helye, az új like-ok száma
+§
+A Simple
+Facebook Oldalon elhelyezett postokkal kapcsolatban: hány személyhez ért el a
+post, hányan like-olták, kommentelték vagy osztották meg a postot, az unlike-ok
+száma, elrejtések (hide) száma, spamként riportolás száma, az oldalt elérő
+like-oló személyek mikor néznek Facebook tartalmat
+§
+A Simple
+Facebook Oldal látogatásával kapcsolatban: hányszor nézték meg az oldalt, külső
+oldalról, honlapról hányszor jöttek a Simple Facebook Oldalra
+§
+A Simple
+Facebook Oldalon elhelyezett videókkal kapcsolatban: hányszor nézték a videót
+több, mint 3 másodpercig, több, mint 30 másodpercig, melyek a legtöbbször
+megnézett videók az oldalon
+§
+A Simple
+Facebook Oldal látogatóival kapcsolatban: az Oldalt like-oló személyek
+tekintetében: nem, életkor, lokáció (ország, város), nyelv; az elmúlt 28 napban
+hányan látták a postot, az oldalon ki like-olt, kommentelt vagy osztott meg az
+elmúlt 28 napban
+A Simple tekintetében a fenti adtaok adatkezelésének jogalapja a GDPR 6.
+cikk (1) bekezdés a) pontja szerinti hozzájárulás. Az érintett a hozzájárulását
+bármikor visszavonhatja. A hozzájárulás megadása, illetve visszavonása az
+érintett Facebook profiljában lehetséges.
+A Facebook Oldallal kapcsolatos adatkezeléssel kapcsolatos részletes
+adatkezelési tájékoztatót a Facebook Ireland Limited kötelessége közzétenni a
+fent hivatkozott közös adatkezelői szerződés alapján.
+A Simple kizárja a felelősségét a Facebook Ireland Limited által végzett
+adatkezelésért, azért kizárólag a Facebook Ireland Limited felel.
+Az érintett személyek adatvédelmi jogai (részletesen lásd: 11.
+     pont) érvényesítésével kapcsolatos adatkezelés
+A Simple adatkezelést végez akkor is, amikor az érintettek adatvédelmi
+jogaikat gyakorolják a Simple adatkezelésével kapcsolatban. A Simple az alábbi
+adatkezelést végzi ebben az esetben:
+Az adatkezelés megnevezése és célja
+Az adatkezelés jogalapja
+A kezelt adatok köre
+Az adatkezelés időtartama
+Az érintett
+  személyek adatvédelmi jogai (részletesen lásd: 10. pont) érvényesítésével
+  kapcsolatos adatkezelés
+GDPR 6.
+  cikk (1) c) pontja (
+az adatkezelés
+az Adatkezelőre
+vonatkozó
+  jogi kötelezettség teljesítéséhez szükséges).
+A jogi kötelezettség
+: a GDPR
+15-22. cikkeiben foglalt érintetti jogok
+  gyakorlásának lehetővé tétele, illetve a megkereséssel kapcsolatban tett
+  egyéb lépések dokumentálása.
+Az Adatkezelőhöz érkező adatvédelmi megkeresésekkel
+  összefüggő személyes adatok: az Adatkezelőhöz forduló természetes személyek /
+  jogi személyek vagy egyéb szervezetek esetén a kapcsolattartó személyek kapcsolattartáshoz
+  szükséges adatai (így különösen: név, cím, e-mail cím, telefonszám), a
+  megkeresés tartalma, valamint a megkereséssel kapcsolatban tett lépések és a
+  megkereséssel kapcsolatban készült dokumentumok. Például: ha az érintett
+  e-mailben kéri az összes adata törlését a GDPR alapján, és ezt teljesíti is z
+  Adatkezelő, akkor magát a törlést kérő e-mailt ettől függetlenül megőrzi.
+Adatmegőrzési
+  idő
+: eltérő adatvédelmi hatósági iránymutatás hiányában
+  határozatlan idő.
+Adatkezelés az érintett személyek adatkezeléshez történő
+     hozzájárulásainak, valamint a hozzájáruló nyilatkozat esetleges
+     visszavonásának archiválása érdekében
+A Simple jogszabályi előírás alapján köteles a hozzájárulásokat
+nyilvántartani, ezzel kapcsolatosan az alábbi adatkezelést végzi:
+Az adatkezelés megnevezése és célja
+Az adatkezelés jogalapja
+A kezelt adatok köre
+Az adatkezelés időtartama
+Az érintett személyek adatkezeléshez történő hozzájárulásainak,
+  valamint a hozzájáruló nyilatkozat esetleges visszavonásának archiválása
+GDPR 6.
+  cikk (1) c) pontja (
+az adatkezelés
+a
+Szolgáltató
+ra
+mint adatkezelőre
+  vonatkozó jogi kötelezettség teljesítéséhez szükséges).
+A jogi
+  kötelezettség
+: a GDPR 7. cikk (1) szerint, ha az adatkezelés hozzájáruláson
+  alapul, az adatkezelőnek képesnek kell lennie annak igazolására, hogy az
+  érintett személyes adatainak kezeléséhez hozzájárult.
+Ha a Szolgáltató valamely adatkezelése az érintett
+  hozzájárulásán alapult, a Szolgáltató az adott hozzájárulást archiválja.
+  Ennek célja, hogy a hozzájárulás jogszerűsége bármikor igazolható legyen. Ha
+  az érintett a hozzájárulását visszavonja, a Szolgáltató a visszavonó
+  nyilatkozatot (és az azzal kapcsolatos kommunikációt) is megőrzi. Ennek
+  célja, hogy a Szolgáltató mindig tisztában legyen azzal, hogy egy érintett
+  visszavonta hozzájárulását egy meghatározott adatkezeléshez.
+Adatmegőrzési
+  idő
+: eltérő adatvédelmi hatósági iránymutatás hiányában
+  határozatlan idő.
+7.
+Adatkezelés
+az a
+datvédelmi incidensek nyilvántartása
+(ideértve az incidensek kezelésével kapcsolatban tett lépések dokumentálását)
+céljából
+A Simple jogszabályi előírás alapján nyilvántartja az adatvédelmi
+incidenssel kapcsolatos információkat, amely során az alábbi adatkezelést
+végzi:
+Az adatkezelés megnevezése és célja
+Az adatkezelés jogalapja
+A kezelt adatok köre
+Az adatkezelés időtartama
+Adatvédelmi
+  incidensek nyilvántartása (ideértve az incidensek kezelésével kapcsolatban
+  tett lépések dokumentálását)
+GDPR 6.
+  cikk (1) c) pontja (
+az adatkezelés
+az A
+datkezelőre
+  vonatkozó jogi kötelezettség teljesítéséhez szükséges).
+A jogi
+  kötelezettség
+: a GDPR 33. cikk (5) alapján az Adatkezelő nyilvántartja az
+  adatvédelmi incidenseket, feltüntetve az adatvédelmi incidenshez kapcsolódó
+  tényeket, annak hatásait és az orvoslására tett intézkedéseket. E
+  nyilvántartás lehetővé teszi, hogy az adatvédelmi hatóság ellenőrizze a GDPR
+  követelményeinek való megfelelést.
+Az érintett személyeknek az adatvédelmi incidenshez
+  kapcsolódó személyes adatai.
+Adatmegőrzési
+  idő
+: eltérő adatvédelmi hatósági iránymutatás hiányában
+  határozatlan idő.
+8.
+Ki kezeli
+a személyes adataidat, és ki fér hozzá azokhoz?
+Az adatkezelő
+A jelen tájékoztató 1.1.1., 1.1.2., 1.2.1. – 1.2.3., 1.2.7., 1.2.8.3., 1.2.9.,
+1.2.11. – 1.2.15., 1.2.17., 1.2.19. pont B) és C) alpontjában, 1.2.20. –
+1.2.22. pontjában, a 2., 3., 5 – 7. pontban meghatározott adataid adatkezelője
+a Simple, azaz az OTP Mobil Szolgáltató Kft., melynek elérhetőségei és
+cégadatai az alábbiak:
+OTP Mobil Szolgáltató Kft.
+Cégjegyzékszám:        01-09-174466
+Adószám:                     24386106-2-44
+Székhely:                     1138 Budapest, Váci út 135-139. B. ép. 5.
+em.
+Postacím:                     1138 Budapest, Váci út 135-139. B. ép. 5.
+em.
+Képviselője:                Benyó Péter ügyvezető (elérhetőségei: 1138
+Budapest, Váci út 135-139. B. ép. 5. em.; ugyfelszolgalat@simple.hu)
+E-mail cím:
+ugyfelszolgalat@simple.hu
+Telefonszám:              06 
+1 3666 611
+06 70 3666
+611
+06
+30 3666 611
+06
+20 3666 611
+A Simple részéről adataidhoz a Simple munkavállalói férnek
+hozzá abban a körben, amely munkájuk elvégzéséhez feltétlenül szükséges. A
+személyes adataidhoz való hozzáférési jogosultságokat szigorú belső
+szabályzatban rögzítjük.
+Adatfeldolgozók
+Adataid kezeléséhez, tárolásához különböző vállalkozásokat
+veszünk igénybe, akikkel adatfeldolgozói szerződést kötöttünk, és részükre a
+lenti célokhoz szükséges adataid továbbítjuk. Az alábbi adatfeldolgozók végzik
+adataid feldolgozását:
+Adatfeldolgozó neve és címe
+Adatfeldolgozás célja
+A külföldi adattovábbításra vonatkozó
+  információk
+OTP
+  Bank Nyrt.
+(székhely: 1051 Budapest, Nádor u. 16.;
+  Cégjegyzékszám: 01-10-041585;   Adószám: 10537914-4-44)
+a)
+banki
+  online bankkártyás fizetési szolgáltatás biztosítása a Simple Rendszerben,
+  bankkártya authorizáció
+b)
+IT
+  infrastruktúra biztosítása a Simple részére
+Nincs külföldi adattovábbítás.
+Microsoft
+  Corporation
+(USA - One Microsoft Way
+Redmond, Washington 98052)
+a)
+Microsoft
+  365 felhőszolgáltatás nyújtója
+Adattovábbítás történik az USA-ba.
+Adattovábbítás alapja: Standard Contractual Clauses (SCC) az EU
+  95/46/EC Adatvédelmi Irányelve alapján, amelyet az EU 29 cikk szerinti
+  Munkacsoportja jóváhagyott a 2010/87/EU Modell Szerződés alapján, amellyel az
+  adatfeldolgozó biztosítja, hogy a személyes adatokat az EU adatvédelmi
+  előírásainak megfelelően továbbítja és kezeli. Az SCC a Microsoft Online
+  Services Terms-ben érhetők el.
+Mastercard
+  Europe SA
+, cégjegyzékszám: RPR 0448038446, székhely: 198/A, Chaussée
+  de Tervuren, 1410 Waterloo, Belgium
+a)
+az
+  online bankkártyás fizetés lebonyolítása
+Nincs
+  külföldi adattovábbítás.
+Visa
+  Europe Services LLC, bejegyezve az USA-ban
+Delaware államban, eljár
+  a londoni fióktelepe útján (fióktelep száma: BR007632; székhelye: 1 Sheldon
+  Square, London W2 6TT, adószáma: GB 840 111 776)
+a)
+az online bankkártyás fizetés lebonyolítása
+Nincs
+  külföldi adattovábbítás.
+American
+  Express Services Europe Limited
+, székhelye: Belgrave House, 76 Buckingham
+  Palace Road, London SW1W 9AX, Egyesült Királyság, cégjegyzékszáma: 1833139,
+  nyilvántartó hatósága: Companies House.
+a)
+az online bankkártyás fizetés lebonyolítása
+Nincs
+  külföldi adattovábbítás.
+The Rocket Science Group LLC d/b/a MailChimp,
+székhely: Georgia
+675 Ponce De Leon Ave NE, Suite 5000
+Atlanta, Georgia 30308
+a)
+hírlevelek
+  kiküldése, hírlevél adatbázisban e-mail címek tárolása
+b)
+Simple
+  Rendszer működésére és használatára vonatkozó rendszerüzenetek küldése
+c)
+edukációs
+  jellegű, tudatosságnövelő célú üzenetek küldése
+Adattovábbítás történik az USA-ba.
+Adattovábbítás
+  alapja: Standard Contractual Clauses (SCC) az EU 95/46/EC Adatvédelmi
+  Irányelve alapján, amelyet az EU 29 cikk szerinti Munkacsoportja jóváhagyott
+  a 2010/87/EU Modell Szerződés alapján, amellyel az adatfeldolgozó biztosítja,
+  hogy a személyes adatokat az EU adatvédelmi előírásainak megfelelően
+  továbbítja és kezeli.
+A
+  MailChimp SCC a Mailchimp Data Protection Addendumja 3. mellékletében
+  található:
+Mailchimp Data Processing Addendum
+SendGrid, Inc
+. (1801 California Street, Suite 500
+  Denver, Colorado 80202, USA)
+a)
+hírlevelek
+  kiküldése, hírlevél adatbázisban e-mail címek tárolása
+b)
+Simple
+  Rendszer működésére és használatára vonatkozó rendszerüzenetek küldése
+c)
+edukációs
+  jellegű, tudatosságnövelő célú üzenetek küldése.
+Adattovábbítás történik az USA-ba.
+Adattovábbítás
+  alapja: Twilio Standard Contractual Clauses (SCC) az EU 95/46/EC Adatvédelmi
+  Irányelve alapján, amelyet az EU 29 cikk szerinti Munkacsoportja jóváhagyott
+  a 2010/87/EU Modell Szerződés alapján, amellyel az adatfeldolgozó biztosítja,
+  hogy a személyes adatokat az EU adatvédelmi előírásainak megfelelően
+  továbbítja és kezeli.
+A SendGrid-re is vonatkozó Twilio SCC itt érhető el:
+Data
+  Protection Addendum (twilio.com)
+Wyze PFM Korlátolt Felelősségű Társaság
+(székhely:
+  1118 Budapest, Brassó út 144. 1. em. 6.;cégjegyzékszáma: 01-09-291453;
+  adószáma: 25829237-2-43)
+a)
+SimpleBill
+  szolgáltatás informatikai hátterének üzemeltetése, karbantartása,
+  hibaelhárítása, továbbfejlesztése
+Nincs
+  külföldi adattovábbítás.
+Aggreg8 Korlátolt
+  Felelősségű Társaság
+(székhely: 6721 Szeged, Zárda u 8.; cégjegyzékszáma:
+  06-09-023518, adószáma: 25930423-2-06)
+a)
+SimpleBill
+  szolgáltatás szoftveres hátterének fejlesztése, továbbfejlesztése
+Nincs
+  külföldi adattovábbítás.
+KBOSS.hu Kft.,
+(Számlázz.hu, 1034
+  Budapest, Bécsi út 126-128., cégjegyzékszám: 01-09-303201, adószám:
+  13421739-2-41)
+a)
+Interticket
+  jegy vásárlása esetén elektronikus számla kiállítási szolgáltatás
+b)
+Nyugta
+  kiállítás és küldés szolgáltatás, kezelt adatok köre: e-mail cím, pénznem,
+  fizetés típusa, vásárolt szolgáltatás/termék megnevezése, mennyisége, ára
+  (díja), autópálya matrica és parkolójegy vásárlás esetén a gépjármű rendszáma
+Nincs
+  külföldi adattovábbítás.
+N-Ware Kft.
+(Billzone.eu,
+1139 Budapest, Gömb utca 26.,
+Cg.: 01 09 921789   adószám: 14825679-2-41)
+a)
+elektronikus
+  számla kiállítási és küldési szolgáltatás
+Nincs
+  külföldi adattovábbítás.
+Facebook,
+  Inc. (USA)
+a)
+Profilalkotás,
+  hirdetés, analitikai és mérési szolgáltatás, viselkedésalapú reklám
+  megjelenítése
+Adattovábbítás történik az USA-ba.
+Adattovábbítás
+  alapja: A Facebook Adattovábbítási Kiegészítésébe foglalt Standard
+  Contractual Clauses (SCC) az EU 95/46/EC Adatvédelmi Irányelve alapján,
+  amelyet az EU 29 cikk szerinti Munkacsoportja jóváhagyott a 2010/87/EU Modell
+  Szerződés alapján, amellyel az adatfeldolgozó biztosítja, hogy a személyes
+  adatokat az EU adatvédelmi előírásainak megfelelően továbbítja és kezeli.
+A Facebook Adattovábbítási kiegészítése itt érhető el: Facebook.com
+GOOGLE LLC
+(USA - Google Data
+  Protection Office, 1600 Amphitheatre Pkwy
+Mountain View, California 94043)
+a)
+Profilalkotás,
+  hirdetés, analitikai és mérési szolgáltatás, viselkedésalapú reklám
+  megjelenítése
+b)
+Firebase
+  szolgáltatás
+Adattovábbítás történik az USA-ba.
+Adattovábbítás
+  alapja:
+A
+  Google Ads Data Processing Terms részét képező Standard Contractual Clauses
+  (SCC) az EU 95/46/EC Adatvédelmi Irányelve alapján, amelyet az EU 29 cikk
+  szerinti Munkacsoportja jóváhagyott a 2010/87/EU Modell Szerződés alapján,
+  amellyel az adatfeldolgozó biztosítja, hogy a személyes adatokat az EU
+  adatvédelmi előírásainak megfelelően továbbítja és kezeli.
+A
+  Google SCC elérhető itt:
+Google Ads Data Processing Terms:
+  Model Contract Clauses
+A Firebase-re vonatkozó Standard Contractual Clauses (SCC)
+az EU
+  95/46/EC Adatvédelmi Irányelve alapján, amelyet az EU 29 cikk szerinti
+  Munkacsoportja jóváhagyott a 2010/87/EU Modell Szerződés alapján, amellyel az
+  adatfeldolgozó biztosítja, hogy a személyes adatokat az EU adatvédelmi
+  előírásainak megfelelően továbbítja és kezeli, amely elérhető itt:
+Standard Contractual Clauses
+  (google.com)
+Survey Monkey Europe UC
+(2 Shelbourne Buildings,
+  Second Floor, Shelbourne Road, Dublin 4, Írország)
+a)
+nyereményjáték
+  feliratkozáshoz, nyereményjáték kérdésekben történő válaszadáshoz kérdőíves
+  alkalmazás biztosítása, amelyben e-mail cím, név és a kérdésekre adott
+  válaszok mint személyes adatok kerülnek kezelésre
+b)
+Simple
+  Applikáció és Rendszer bétatesztelés során Felhasználói visszajelzések
+  kezelésére és gyűjtésére kérdőívek és felület biztosítása
+Nincs
+  külföldi adattovábbítás.
+Quadron Kibervédelmi
+  Kft.
+(1051
+  Budapest, Sas u. 10-12.; Cg. 01-09-189206)
+Kiberbiztonsági
+  és kibervédelmi szolgáltatás és tanácsadás
+Nincs
+  külföldi adattovábbítás.
+Ondemand Kft.
+(1124 Budapest,
+  Muskátli u. 6. 1. em. 1.; Cg. 01-09-173803)
+Szoftverfejlesztés
+  és támogatás
+Nincs
+  külföldi adattovábbítás.
+Etalon-Informatika Kft.
+(1132 Budapest, Kresz
+  Géza u. 53/b.; Cg. 01-09-668817)
+IT
+  infrastruktúra üzemeltetési támogatás, rendszer karbantartás szakértői
+  támogatása
+Nincs
+  külföldi adattovábbítás.
+HOV-9 Informatikai és
+  Szolgáltató Kft.
+(2310 Szigetszentmiklós, Kéktó köz 9/b.; Cg. 13-09-181701)
+Szoftverfejlesztési
+  támogatási, tesztelési és szoftvertanácsadási szolgáltatás
+Nincs
+  külföldi adattovábbítás.
+Nconnect Hungary Kft.
+(2161 Csomád, Kossuth u.
+  79.; Cg. 13-09-140663)
+IT
+  biztonsági tanácsadás
+Nincs
+  külföldi adattovábbítás.
+Slack
+  Technologies Limited
+(Central Park (Block G), 3rd and 4th FL, No 1, Central Park, Leopardstown,
+  Dublin 18, Ireland)
+Feladat
+  management és belső kommunikációs rendszer az Adatkezelő munkavállalói
+  részére.
+A
+  Slack az adatokat az USA-ban tárolja, így külföldi adattovábbítás történik,
+  amelyet a Slack a Standard Contractual Clauses alapján végez (
+Data Processing Addendum - Legal - Slack (axdraft.com)
+),
+  amely a GDPR 45. Cikk (2) bekezdés c) és d) pontja szerint megfelelő
+  garanciát jelent.
+Az Adatkezelő és a Slack mint
+  adatfeldolgozó között a fenti linken elérhető adatfeldolgozói szerződés jött
+  létre.
+9.
+Ki a
+Simple adatvédelmi tisztviselője és mik az elérhetőségei?
+Sári Zsombor
+Elérhetőségei:
+a)
+Simple
+székhelyén (1138 Budapest, Váci út 135-139. B. ép. 5. em.)
+b)
+e-mail
+címe:
+dpo@otpmobil.com
+c)
+postacíme:
+1138 Budapest, Váci út 135-139. B. ép. 5. em.
+10.
+Kinek
+továbbítjuk a személyes adataidat?
+Személyes adataid a fenti
+adatfeldolgozókon kívül az alábbi önálló adatkezelő címzetteknek továbbítjuk a
+velük megkötött szerződés alapján:
+Adattovábbítás
+  címzettje
+Továbbított adatok
+  kategóriája
+Nemzeti Mobilfizetési Zártkörűen Működő
+  Részvénytársaság
+(1027 Budapest, Kapás utca 6-12. Cg.: 01
+  10 047569; adószám: 24151667-2-4)
+Parkolójegy és
+  autópálya e-matrica vásárlás esetén a következő adatok kerülnek továbbításra:
+  gépjármű rendszáma, országjelzése, parkolás helye, gépjármű típusa,
+  megvásárolt matrica adatai (típus, érvényességi idő)
+Közlekedési
+  mobiljegy vásárlása esetén a következő adatok kerülnek továbbításra:
+  személyazonosító és kedvezményre jogosító okmány típusa és száma, vásárolt
+  Közlekedési mobiljegy típusa és ára, érvényességi idő kezdete, Simple-hez
+  benyújtott panaszban foglalt és a panasszal kapcsolatos, annak elbírálásához
+  szükséges személyes adatok.
+Interticket Kft. (székhely: 1139
+  Budapest, Váci út 99., cégjegyzékszám: 01-09-736766, adószám: 10384709-2-41)
+Jegyvásárlás
+  esetén a megvásárolt jegy adatai, ára, a vásárló Felhasználó e-mail címe
+Delivery Hero Hungary Kft. (1093 Budapest, Czuczor utca 2. 1.
+  em.; Cg.: 01 09 668748)
+iOS IDFA,
+  Android GPS ADID azonosító
+Jegymester Kft. (www.jegy.hu; 1065
+  Budapest, Bajcsy-Zs út 31.; Cg.: 01 09 369537; adószám: 12033791-2-42)
+Jegy
+  szolgáltatásban történő Belépőjegy vásárlás esetén továbbított adatok: név,
+  e-mail cím
+Libri-Bookline Kereskedelmi Zrt. (1066
+  Budapest, Nyugati tér 1.; Cg.: 01 10 044841; adószám: 12921360-2-42)
+Bookline
+  kártyában történő vásárlás esetén továbbított adatok: Bookline ID, e-mail
+  cím, szállítási cím, számlázási név és cím
+Főtaxi Zrt. (1087 Budapest, Kerepesi út
+  15.; Cg.: 01 10 042322; adószám: 10873498-2-42)
+Taxi rendelés
+  esetén továbbított adatok: név, telefonszám, lokáció - ahova a taxit hívja a
+  Felhasználó
+Budapest Film Zrt. (1054 Budapest,
+  Bajcsy-Zsilinszky út 36-38. félemelet; Cg.: 01 10 042453; adószám:
+  10906110-2-41)
+Mozi kártya
+  alatti mozijegy vásárlás esetén továbbított adatok:
+a megvásárolt mozjegy adatai, a
+  mozijegyért fizetett összeg, a fizetési tranzakció időpontja.
+Magyar Moziüzemeltető Kft. (1097
+  Budapest, Könyves Kálmán krt. 12-14.; Cg. 01-09-959700; adószám:
+  23314562-2-43)
+Mozi kártya
+  alatti mozijegy vásárlás esetén továbbított adatok:
+a megvásárolt mozjegy adatai, a
+  mozijegyért fizetett összeg, a fizetési tranzakció időpontja.
+Óbudai Mozi Üzemeltető Kft. (1032
+  Budapest, Bécsi út 154.; Cg. 01-09-970980; adószám: 23491348-2-41)
+Mozi kártya
+  alatti mozijegy vásárlás esetén továbbított adatok:
+a megvásárolt mozjegy adatai, a
+  mozijegyért fizetett összeg, a fizetési tranzakció időpontja.
+Tatabányai Moziüzemeltető Kft. (2800
+  Tatabánya, Győri út 7-9.; Cg. 11-09-019571; adószám: 23535826-2-11)
+Mozi kártya
+  alatti mozijegy vásárlás esetén továbbított adatok:
+a megvásárolt mozjegy adatai, a
+  mozijegyért fizetett összeg, a fizetési tranzakció időpontja.
+Sziget Kulturális Menedzseriroda Zrt.
+  (1033 Budapest, Hajógyári sziget 23796/58.; Cg. 01-10-049598; adószám:
+  26189905-2-41)
+Jegy
+  szolgáltatásban fesztiválra szóló Belépőjegy vásárlás esetén továbbított
+  adatok: e-mail cím
+Volt Produkció Kft. (1033 Budapest,
+  Hajógyári sziget 23796/58; Cg. 01-09-695549; adószám: 12625150-2-4)
+Jegy
+  szolgáltatásban fesztiválra szóló Belépőjegy vásárlás esetén továbbított
+  adatok: e-mail cím
+Kultúrpark Kft. (1095 Budapest,
+  Soroksári út 60.; Cg. 01-09-193625; adószám: 24995670-2-43)
+Jegy
+  szolgáltatásban Budapest Parkba szóló Belépőjegy vásárlás esetén továbbított
+  adatok: e-mail cím
+L-Coffee Kft. (1062 Budapest, Teréz krt.
+  55-57.; Cg. 01-09-959271; adószám: 23305416-2-42 – Costa Coffee)
+Hűségkártya alatti Costa Coffee törzsvásárlói kártya rögzítés,
+  regisztráció és aktiválás esetén továbbított adatok: üzlet azonosító,
+  kártyaszám, e-mail cím, vezeték- és keresztnév, születési dátum,
+  irányítószám, hűségpontok száma
+Magyar Posta Zrt. (
+1138 Budapest, Dunavirág utca 2-6.; Cg.:
+  01-10-042463; adószám: 10901232-2-44)
+Csekkbefizetés szolgáltatásban továbbított adatok a
+  készpénzátutalási megbízás és postai számlabefizetési megbízás Simple
+  Applikáció útján történő teljesítéséhez a Felhasználó tranzakcióval való
+  kapcsolatba hozása és a Felhasználó szolgáltatásteljesítéssel összefüggő
+  tájékoztatása céljából: Felhasználó Simple rendszerben regisztrált e-mail
+  címe, a Csekkbefizetési szolgáltatásban generálódott tranzakció hivatkozási
+  szám.
+Groupama Biztosító Zrt. (székhely: 1146
+  Budapest, Erzsébet királyné útja 1/C; Cg.: 01-10-041071; levelezési cím: 1380
+  Budapest, Pf. 1049.)
+Biztosítás szolgáltatásban a Simple gépjármű asszisztencia
+  biztosításhoz való csatlakozás, biztosító kötelezettségvállalásának
+  létrehozatala, biztosítási szerződés teljesítése, biztosítási esemény
+  bejelentésével kapcsolatos ügyintézés céljából: Felhasználó Simple
+  Rendszerben regisztrált neve, e-mail címe, gépjármű típusa, rendszáma,
+  felségjelzése, életkora, csatlakozás dátuma, biztosítási esemény
+  bekövetkeztekor volt-e biztosítása, kockázatviselés kezdete és vége,
+  biztosítási csomag, biztosítási díj összege, Simple ID, szerződésszám,
+  autóhasználati adatok.
+Diston-line Kft. (2535 Miskolc, Körmöci
+  u. 20., Cg.: 05-09-019809)
+Falatozz.hu ételrendelési szolgáltatás teljesítése. Továbbított
+  adatok köre: e-mail cím, telefonszám, szállítási cím, rendelés adatai,
+  életkor, számlázási név és cím.
+Az adattovábbítás fenti címzettjei a nekik továbbított adatok
+tekintetében önálló adatkezelőknek minősülnek.
+Az iOS Mobilkészülékekről
+igénybe vehető NFC-fizetési funkcióval kapcsolatban a Simple ezúton
+tájékoztatja a Felhasználókat, hogy az iOS Mobilkészülékeken végzett
+Kártyadigitalizáció és a Simple Kártya iOS Mobileszközön NFC funkción keresztül
+történő fizetésre való alkalmassá tétele során a digitalizálásra kerülő
+bankkártya az Apple Distribution International (Hollyhill Industrial Estate,
+Cork, Írország) által üzemeltetett ApplePay szolgáltatásba és az ahhoz tartozó
+Apple Pay Wallet-be is tárolásra kerül, amely során a Simple az OTP Bank Nyrt.
+nevében és megbízásából eljárva az Apple Distribution International írországi
+vállalatnak titkosított és kódolt módon megküldi a digitalizált bankkártya
+kártyaszámát, a kártyán szereplő nevet és a lejárati dátumot. Ezen
+adattovábbításra vonatkozóan további információkat az adatkezelő OTP Bank Nyrt.
+erre vonatkozó adatkezelési tájékoztatója tartalmaz. Az Apple Distribution
+International ezen kártyaadatok tekintetében önálló adatkezelőnek minősül, az általa
+végzett adatkezelésre a saját adatkezelési tájékoztatója és szabályzata
+tartalmaz információkat. A Simple az OTP Bank Nyrt. és az Apple Distribution
+International által végzett adatkezelésekért nem felel.
+11.
+Milyen
+jogaid vannak a személyes adataid kezelésével kapcsolatban és hogyan
+biztosítjuk azok gyakorlását?
+Az érintettek adatvédelmi jogait és
+jogorvoslati lehetőségeit részletesen a GDPR vonatkozó rendelkezései (így
+különösen a GDPR 15., 16., 17., 18., 19., 20., 21., 22., 77., 78., 79., 80. és
+82. cikkei) tartalmazzák. Az alábbi összefoglalás tartalmazza a legfontosabb
+rendelkezéseket, illetve az Adatkezelő ennek megfelelően nyújt tájékoztatást az
+érintettek részére az adatkezeléssel kapcsolatos jogaikról és jogorvoslati
+lehetőségeikről.
+Az információkat írásban vagy más módon –
+ideértve adott esetben az elektronikus utat is – kell megadni. Az érintett
+kérésére szóbeli tájékoztatás is adható, feltéve, hogy más módon igazolták az
+érintett személyazonosságát.
+Az Adatkezelő
+indokolatlan késedelem nélkül, de
+mindenféleképpen az érintett joggyakorlással (lásd: GDPR 15-22. cikkei)
+kapcsolatos kérelmének beérkezésétől számított egy hónapon belül tájékoztatja
+az érintettet a kérelme nyomán hozott intézkedésekről. Szükség esetén,
+figyelembe véve a kérelem összetettségét és a kérelmek számát, ez a határidő
+további két hónappal meghosszabbítható. A határidő meghosszabbításáról az
+Adatkezelő a késedelem okainak megjelölésével a kérelem kézhezvételétől
+számított egy hónapon belül tájékoztatja az érintettet.  Ha az érintett
+elektronikus úton nyújtotta be a kérelmet, a tájékoztatást lehetőség szerint
+elektronikus úton kell megadni, kivéve, ha az érintett azt másként kéri.
+Ha az Adatkezelő nem tesz intézkedéseket
+az érintett kérelme nyomán, késedelem nélkül, de legkésőbb a kérelem
+beérkezésétől számított egy hónapon belül tájékoztatja az érintettet az
+intézkedés elmaradásának okairól, valamint arról, hogy az érintett panaszt
+nyújthat be valamely felügyeleti hatóságnál, és élhet bírósági jogorvoslati
+jogával.
+11.1       Az érintett hozzáférési joga
+(1)
+Az érintett jogosult
+arra, hogy visszajelzést kapjon az Adatkezelőtől arra vonatkozóan, hogy
+személyes adatainak kezelése folyamatban van-e. Ha ilyen adatkezelés
+folyamatban van, az érintett jogosult arra, hogy a személyes adatokhoz és a
+következő információkhoz hozzáférést kapjon:
+a)
+az adatkezelés céljai;
+b)
+az érintett személyes
+adatok kategóriái;
+c)
+azon címzettek vagy
+címzettek kategóriái, akikkel a személyes adatokat az Adatkezelő közölte vagy
+közölni fogja, ideértve különösen a harmadik országbeli címzetteket, illetve a
+nemzetközi szervezeteket;
+d)
+adott esetben a
+személyes adatok tárolásának tervezett időtartama, vagy ha ez nem lehetséges,
+ezen időtartam meghatározásának szempontjai;
+e)
+az érintett arra
+vonatkozó joga, hogy kérelmezheti az Adatkezelőtől a rá vonatkozó személyes
+adatok helyesbítését, törlését vagy kezelésének korlátozását, és tiltakozhat az
+ilyen személyes adatok kezelése ellen;
+f)
+valamely felügyeleti
+hatósághoz címzett panasz benyújtásának joga; és
+g)
+ha az adatokat nem az
+érintettől gyűjtötték, a forrásukra vonatkozó minden elérhető információ;
+h)
+automatizált
+döntéshozatal (GDPR 22. cikk (1) és (4)) ténye, ideértve a profilalkotást is,
+valamint legalább ezekben az esetekben az alkalmazott logikára és arra
+vonatkozó érthető információk, hogy az ilyen adatkezelés milyen jelentőséggel
+bír, és az érintettre nézve milyen várható következményekkel jár.
+(2)
+Ha személyes adatoknak
+harmadik országba történő továbbítására kerül sor, az érintett jogosult arra,
+hogy tájékoztatást kapjon a továbbításra vonatkozóan a megfelelő garanciákról.
+(3)
+Az adatkezelés tárgyát
+képező személyes adatok másolatát az Adatkezelő az érintett rendelkezésére
+bocsátja. Az érintett által kért további másolatokért az Adatkezelő az
+adminisztratív költségeken alapuló, észszerű mértékű díjat számíthat fel. Ha az
+érintett elektronikus úton nyújtotta be a kérelmet, az információkat széles
+körben használt elektronikus formátumban kell rendelkezésre bocsátani, kivéve,
+ha az érintett másként kéri.
+11.2       A helyesbítéshez való jog
+Az érintett jogosult arra, hogy az Adatkezelő az érintett kérésére
+indokolatlan késedelem nélkül helyesbítse a rá vonatkozó pontatlan személyes
+adatokat. Az érintett jogosult továbbá arra, hogy kérje a hiányos személyes
+adatok – egyebek mellett kiegészítő nyilatkozat útján történő – kiegészítését.
+11.3       A törléshez való jog („az elfeledtetéshez való jog”)
+(1)
+Az érintett jogosult
+arra, hogy kérésére az Adatkezelő indokolatlan késedelem nélkül törölje a rá
+vonatkozó személyes adatokat, ha az alábbi indokok valamelyike fennáll:
+a)
+a személyes adatokra
+már nincs szükség abból a célból, amelyből azokat az Adatkezelő gyűjtötte vagy
+más módon kezelte;
+b)
+az érintett
+visszavonja az adatkezelés alapját képező hozzájárulását, és az adatkezelésnek
+nincs más jogalapja;
+c)
+az érintett tiltakozik
+az adatkezelése ellen, és adott esetben nincs elsőbbséget élvező jogszerű ok az
+adatkezelésre;
+d)
+a személyes adatok
+jogellenesen kerültek kezelésre;
+e)
+a személyes adatokat
+az Adatkezelőnek az alkalmazandó uniós vagy tagállami jogban előírt jogi
+kötelezettség teljesítéséhez törölni kell; vagy
+f)
+a személyes adatok
+gyűjtésére információs társadalommal összefüggő szolgáltatások kínálásával
+kapcsolatosan került sor.
+(2)
+Ha az Adatkezelő
+nyilvánosságra hozta a személyes adatot, és a fentebb írtak értelmében azt
+törölni köteles, az elérhető technológia és a megvalósítás költségeinek
+figyelembevételével megtesszi az ésszerűen elvárható lépéseket – ideértve
+technikai intézkedéseket – annak érdekében, hogy tájékoztassa az adatokat
+kezelő adatkezelőket, hogy az érintett kérelmezte a szóban forgó személyes
+adatokra mutató linkek vagy e személyes adatok másolatának, illetve
+másodpéldányának törlését.
+(3)
+Az (1) és (2) bekezdés
+nem alkalmazandó, amennyiben az adatkezelés szükséges, többek között:
+a)
+a véleménynyilvánítás
+szabadságához és a tájékozódáshoz való jog gyakorlása céljából;
+b)
+a személyes adatok
+kezelését előíró, az Adatkezelőre alkalmazandó uniós vagy tagállami jog
+szerinti kötelezettség teljesítése céljából;
+c)
+a közérdekű archiválás
+céljából, tudományos és történelmi kutatási célból vagy statisztikai célból,
+amennyiben az (1) bekezdésben említett jog valószínűsíthetően lehetetlenné
+tenné vagy komolyan veszélyeztetné ezt az adatkezelést; vagy
+d)
+jogi igények előterjesztéséhez,
+érvényesítéséhez, illetve védelméhez.
+11.4       Az adatkezelés korlátozásához való jog
+(1)
+Az érintett jogosult
+arra, hogy kérésére az Adatkezelő korlátozza az adatkezelést, ha az alábbiak
+valamelyike teljesül:
+a)
+az érintett vitatja a
+személyes adatok pontosságát, ez esetben a korlátozás arra az időtartamra
+vonatkozik, amely lehetővé teszi, hogy az Adatkezelő ellenőrizze a személyes
+adatok pontosságát;
+b)
+az adatkezelés
+jogellenes, és az érintett ellenzi az adatok törlését, és ehelyett kéri azok
+felhasználásának korlátozását;
+c)
+az Adatkezelőnek már
+nincs szüksége a személyes adatokra adatkezelés céljából, de az érintett
+igényli azokat jogi igények előterjesztéséhez, érvényesítéséhez vagy
+védelméhez; vagy
+d)
+az érintett
+tiltakozott az adatkezelés ellen; ez esetben a korlátozás arra az időtartamra
+vonatkozik, amíg megállapításra nem kerül, hogy az Adatkezelő jogos indokaink
+elsőbbséget élveznek-e az érintett jogos indokaival szemben.
+(2)
+Ha az adatkezelés az
+(1) bekezdés alapján korlátozás alá esik, az ilyen személyes adatokat a tárolás
+kivételével csak az érintett hozzájárulásával, vagy jogi igények
+előterjesztéséhez, érvényesítéséhez vagy védelméhez, vagy más természetes vagy
+jogi személy jogainak védelme érdekében, vagy az Unió, illetve valamely
+tagállam fontos közérdekéből lehet kezelni.
+(3)
+Az adatkezelés
+korlátozásának feloldásáról az Adatkezelő előzetesen tájékoztatja az érintett,
+akinek kérésére a fentiek alapján korlátozták az adatkezelést.
+11.5    A személyes adatok helyesbítéséhez
+vagy törléséhez, illetve az adatkezelés korlátozásához kapcsolódó értesítési
+kötelezettség
+Az Adatkezelő minden olyan címzettet tájékoztat valamennyi
+helyesbítésről, törlésről vagy adatkezelés-korlátozásról, akivel, illetve
+amellyel a személyes adatot közölte, kivéve, ha ez lehetetlennek bizonyul, vagy
+aránytalanul nagy erőfeszítést igényel. Az érintettet kérésére az Adatkezelő
+tájékoztatja e címzettekről.
+11.6    Az adathordozhatósághoz való jog
+(1)
+Az érintett jogosult
+arra, hogy a rá vonatkozó, általa az Adatkezelő rendelkezésére bocsátott
+személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban
+megkapja, továbbá jogosult arra, hogy ezeket az adatokat egy másik
+adatkezelőnek továbbítsa anélkül, hogy ezt az Adatkezelő akadályozná, ha:
+a)
+az adatkezelés
+hozzájáruláson, vagy szerződésen alapul; és
+b)
+az adatkezelés
+automatizált módon történik.
+(2)
+Az adatok
+hordozhatóságához való jog (1) bekezdés szerinti gyakorlása során az érintett
+jogosult arra, hogy – ha ez technikailag megvalósítható – kérje a személyes
+adatok adatkezelők (így az Adatkezelő és egyéb adatkezelő) közötti közvetlen
+továbbítását.
+(3)
+A fentebb írt jog
+gyakorlása nem sértheti a törléshez való jog („elfeledtetéshez való jog”)
+vonatkozásában írt rendelkezéseket, továbbá e jog nem érintheti hátrányosan
+mások jogait és szabadságait.
+11.7    A tiltakozáshoz való jog
+(1)
+Az érintett jogosult
+arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon
+személyes adatainak jogos érdeken alapuló kezelése ellen. Ebben az esetben a
+személyes adatokat az Adatkezelő nem kezeli tovább, kivéve, ha bizonyítja, hogy
+az adatkezelést olyan kényszerítő erejű jogos okok indokolják, amelyek
+elsőbbséget élveznek az érintett érdekeivel, jogaival és szabadságaival
+szemben, vagy amelyek jogi igények előterjesztéséhez, érvényesítéséhez vagy
+védelméhez kapcsolódnak.
+(2)
+Ha a személyes adatok
+kezelésére tudományos és történelmi kutatási célból vagy statisztikai célból
+kerül sor, az érintett jogosult arra, hogy a saját helyzetével kapcsolatos
+okokból tiltakozhasson az érintettre vonatkozó személyes adatok kezelése ellen,
+kivéve, ha az adatkezelésre közérdekű okból végzett feladat végrehajtása
+érdekében van szükség.
+11.8    A felügyeleti hatóságnál történő
+panasztételhez való jog
+Az érintett jogosult arra, hogy panaszt tegyen egy felügyeleti
+hatóságnál – különösen a szokásos tartózkodási helye, a munkahelye vagy a
+feltételezett jogsértés helye szerinti tagállamban –, ha az érintett megítélése
+szerint az érintettre vonatkozó személyes adatok kezelése megsérti a GDPR
+rendelkezéseit. Magyarországon az illetékes felügyeleti hatóság: Nemzeti
+Adatvédelmi és Információszabadság Hatóság (weboldal:
+http://naih.hu/
+; cím
+: 1055 Budapest,
+Falk Miksa u. 9-11; postacím: 1363 Budapest, Pf.: 9
+.; telefon:
++36-1-391-1400; fax: +36-1-391-1410; e-mail:
+ugyfelszolgalat@naih.hu
+).
+11.9    A felügyeleti hatósággal szembeni
+hatékony bírósági jogorvoslathoz való jog
+(1)
+Az érintett jogosult a
+hatékony bírósági jogorvoslatra a felügyeleti hatóság érintettre vonatkozó,
+jogilag kötelező erejű döntésével szemben.
+(2)
+Az érintett jogosult a
+hatékony bírósági jogorvoslatra, ha az illetékes felügyeleti hatóság nem
+foglalkozik a panasszal, vagy három hónapon belül nem tájékoztatja az
+érintettet a benyújtott panasszal kapcsolatos eljárási fejleményekről vagy
+annak eredményéről.
+(3)
+A felügyeleti
+hatósággal szembeni eljárást a felügyeleti hatóság székhelye szerinti tagállam
+bírósága előtt kell megindítani.
+11.10  Az Adatkezelővel vagy az
+adatfeldolgozóval szembeni hatékony bírósági jogorvoslathoz való jog
+(1)
+Az érintett a rendelkezésre
+álló közigazgatási vagy nem bírósági útra tartozó jogorvoslatok – köztük a
+felügyeleti hatóságnál történő panasztételhez való jog – sérelme nélkül
+hatékony bírósági jogorvoslatra jogosult, ha megítélése szerint a személyes
+adatainak a GDPR-nak nem megfelelő kezelése következtében megsértették a GDPR
+szerinti jogait.
+(2)
+Az Adatkezelővel vagy
+az adatfeldolgozóval szembeni eljárást az Adatkezelő vagy az adatfeldolgozó
+tevékenységi helye szerinti tagállam bírósága előtt kell megindítani. Az ilyen
+eljárás megindítható az érintett szokásos tartózkodási helye szerinti tagállam
+bírósága előtt is. Az ilyen per Magyarországon a törvényszék hatáskörébe
+tartozik. A pert az érintett - választása szerint - a lakóhelye vagy
+tartózkodási helye szerint illetékes törvényszék előtt is megindíthatja. A
+bíróság illetékességéről és elérhetőségeiről az alábbi honlapon tájékozódhat:
+www.birosag.hu
+.
+12.
+Hogyan
+biztosítjuk adataid biztonságát?
+Mindenre kiterjedő részletes információbiztonsági szabályzattal
+rendelkezünk az általunk kezelt adatok, információk biztonságának biztosítása
+érdekében, amely valamennyi munkavállalónkra kötelező, és amelyet valamennyi
+munkavállalónk ismer és alkalmaz.
+A munkavállalóinkat az adat- és információbiztonság követelményeire
+vonatkozóan rendszeresen oktatjuk, képezzük.
+12.1.
+Adatbiztonság
+az IT infrastruktúrában
+A személyes adatokat
+saját központi szerverünkön tároljuk, amelyhez szigorú jogosultságkezelési
+szabályok alapján csak nagyon korlátozott személyi, alkalmazotti kör férhet
+hozzá.  Informatikai rendszereinket időről időre, visszatérően és rendszeresen
+teszteljük és ellenőrizzük az adat- és IT biztonság megteremtése és fenntartása
+érdekében.
+Az adatbiztonsági
+előírásoknak a PCI DSS tanúsítványnak való megfeleléssel teszünk eleget, amely
+a legszigorúbb banki rendszerekre vonatkozó szabályok alkalmazását jelenti az
+általunk kezelt adatok tekintetében.
+Az irodai munkaállomások
+jelszóval védettek, idegen adathordozó használata korlátozott és csak
+biztonságos körülmények között, ellenőrzést követően megengedett.
+A
+Társaság valamennyi rendszerére, rendszerelemére kiterjedő,
+rendszeres és folyamatos kártékony szoftverek elleni védelem biztosított.
+A programok, alkalmazások és eszközök tervezése,
+fejlesztése, tesztelése és üzemeltetése során a biztonsági funkciókat kiemelten
+és elkülönítetten kezeljük.
+Az
+információs rendszer hozzáférési kulcsait (pl. jelszó) titkosítva tároljuk és
+továbbítjuk, a rendszer biztonságát érintő adatok (pl. jelszavak,
+jogosultságok, naplók) védelméről a hozzáférési jogosultságok kiosztásánál
+gondoskodunk.
+12.2.
+Adatbiztonság a kommunikációban
+Az
+elektronikus úton továbbított üzenetek, állományok tekintetében a Kulcs Kezelés
+szabályzatban foglaltaknak megfelelően járunk el. A biztonságos adatcsere
+követelményének teljesítéséhez biztosítjuk az adatok integritását mind a
+(kommunikáció) vezérlő, mind a felhasználói adatokra. Az adatvesztés és sérülés
+elkerülése céljából hibadetektáló és javító eljárásokat alkalmazunk. Az
+alkalmazások tekintetében a jelszavak, a jogosultságok és a biztonsággal
+kapcsolatos más paraméterek, adatok csak titkosítva továbbíthatók. A hálózaton
+alkalmazzuk a végpont-végpont szintű jogosultság ellenőrzés, az
+elszámoltathatóság és auditálhatóság biztosítása védelmi funkciókat.
+Az
+általunk alkalmazott védelem detektálja az illetéktelen módosítás, a
+beékelődés, valamint az ismétlő adás előfordulását. Az adatvesztést és
+-sérülést hibadetektáló és javító eljárásokkal akadályozzuk meg, és
+gondoskodunk a le nem tagadhatóság biztosításáról.
+Az
+adattovábbításra használt hálózat esetében a biztonsági szintnek megfelelő
+módon biztosítjuk az illegális rácsatlakozás és a lehallgatás megakadályozását.
+12.3.
+Adatbiztonság
+a szoftverfejlesztés, programozás során
+A Simple
+Applikáció fejlesztése során már a tervezési folyamatba beépítjük az
+adatvédelem és adatbiztonság követelményeit, amelyet a fejlesztés során
+folyamatosan biztosítunk.
+A
+szoftverfejlesztés során elválasztjuk egymástól a fejlesztői/teszt környezetet
+és az éles környezetet, teszt és éles adatokat, a tesztelés során a személyes
+adatokat lehetőség szerint deperszonalizáljuk.
+A
+programozás során betartjuk a biztonságos kódolás alapvető követelményeit,
+platform- és programnyelv függő technikákat alkalmazunk a jellemző
+sérülékenységek kiküszöbölésére, követjük a legújabb iparági ajánlásokat a
+kódok átvizsgálására (például OWASP Top 10 Guide, SANS CWE Top 25, CERT Secure
+Coding).
+Folyamatos
+követést alkalmazunk az újonnan felfedezett sebezhetőségek azonosítására,
+fejlesztőinket rendszeresen oktatjuk az adatbiztonsági követelményekkel kapcsolatban,
+valamint programozási technikákat standardizálását alkalmazzuk a tipikus hibák
+elkerülésére.
+Az
+elkészült kódok ellenőrzését a biztonságos kódolás alapelvei szerint elvégezzük
+és változáskövetéssel biztosítjuk a megfelelő dokumentálást.
+12.4.
+Adatbiztonság az iratkezelés során
+Az
+iratkezelés során is betartjuk az adatbiztonság követelményeit, amelyet
+iratkezelési szabályzatban rögzítettünk. Az iratkezelést írásban meghatározott
+jogosultsági szintek szerint, az egyes iratok bizalmas jellegéhez mérten
+alkalmazott biztonsági előírások szerint végezzük. Részletes és szigorú
+szabályokkal rendelkezünk az iratok megsemmisítésére, tárolására,
+kiadmányozására vonatkozóan.
+12.5.
+Fizikai adatbiztonság
+A fizikai
+adatbiztonság megteremtése érdekében biztosítjuk nyílászáróink megfelelő
+záródását és védelmét, szigorú látogatási és belépési előírásokat alkalmazunk a
+látogatókra vonatkozóan. Az irodahelyiség őrzés-védelme 7/24-ben biztosított.
+A papír
+alapú, személyes adatokat tartalmazó dokumentumok zárt, tűz- és vagyonvédelmet
+biztosító szekrényben kerülnek elhelyezésre, amelyhez csak meghatározott
+személyzeti kör fér hozzá megfelelő jogosultságkezeléssel.
+Az
+adathordozó eszközök elhelyezésére szolgáló helyiségeket úgy alakítottuk ki,
+hogy elegendő biztonságot nyújtsanak illetéktelen vagy erőszakos behatolás, tűz
+vagy természeti csapás ellen. Az adatátvitelre, valamint mentésre, archiválásra
+használt adathordozók tárolása pedig csak megbízhatóan zárt helyen történhet.
+A mentési
+adathordozókat megbízhatóan zárt helyiségben, minimum 30 perces tűzállóságú
+tárolószekrényben tároljuk.
+13.
+Mit
+teszünk, ha adatvédelmi incidens következik be nálunk?
+A jogszabályoknak
+megfelelően bejelentjük a felügyeleti hatóságnak az adatvédelmi incidenst a tudomásszerzéstől
+számított 72 órán belül, és nyilvántartást is vezetünk az adatvédelmi
+incidensekről. A jogszabály által meghatározott esetekben pedig az érintett
+felhasználókat is tájékoztatjuk róla.
+Mikor és hogyan módosítjuk a
+     jelen adatkezelési tájékoztatót?
+Amennyiben a kezelt
+adatok köre, az adatkezelés többi körülménye változik, a jelen adatkezelési
+tájékoztatót a GDPR előírásainak megfelelően módosítjuk és közzétesszük a
+www.simple.hu
+weboldalon és az applikációban is értesítünk a változásról. Kérjük, hogy minden
+esetben gondosan olvasd el az adatkezelési tájékoztató módosításait, mert
+fontos információkat tartalmaznak személyes adataid kezeléséről.
+ENGLISH

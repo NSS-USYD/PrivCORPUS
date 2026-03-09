@@ -1,0 +1,20 @@
+PaulNadler.com
+Granite Apps Privacy policy
+Granite Apps LLC does not collect personally identifiable information about its
+            users except to the extent required by the features of the app and in providing
+            support for these features. In all other cases data collected by the app is stored
+            on the device only.
+Some features, such as providing severe weather alerts, require the users device to
+            send location information to Granite Apps servers so that it can send the appropriate
+            weather alerts. The information is not used for other purposes and the data is not
+            collected if the user does not enable these features.
+Third Party Services
+This app users third party services which may collect user information in
+            accordance with their privacy polices.
+Google Services
+Google Play Services
+Google Firebase
+Google Analytics for Firebase
+Ad Networks
+Google Admob
+InMobi

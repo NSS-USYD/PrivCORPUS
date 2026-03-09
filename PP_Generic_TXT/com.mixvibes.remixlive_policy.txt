@@ -1,0 +1,166 @@
+Privacy
+Apps
+Remixlive
+Make Music & Beats
+Cross DJ Desktop
+The upgraded DJ experience
+Cross DJ Mobile
+The essential DJ experience
+Remixvideo
+VJ software made easy
+Beat Snap
+Make beats in a snap
+Rap Maker
+Rap & Sing
+Artists
+Packs
+Store
+About
+Help
+Tutorials
+Improve your skills
+Community
+Join our community
+Support
+Weâ€™re here to help!
+Mixvibes' Privacy Policy
+â€
+This privacy policy sets out how Mixvibes uses and protects any information that is collected when you use our website, software or mobile applications (â€œServicesâ€).
+Mixvibes is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using the Services, then you can be assured that it will only be used in accordance with this privacy statement. Mixvibes may change this policy from time to time so we recommend visiting this page regularly to get the updated terms. If you donâ€™t agree with the terms expressed in this privacy policy, and if opting-out of the integrated third-party service(s) is not possible, then we recommend stopping using our Services. Â
+Data collected
+â€
+We may collect the data such as Unique device identifiers to anonymously identify your computer or device. Our Services also integrate third parties that may collect their own data. Please refer to the list of third parties below for more information on the data collected by each partner.
+When available, we also provide information about how to
+opt-out from each integrated third party
+or how to
+prevent your data from being collected
+. Unfortunately, some of the listed third parties do not offer options to opt-out from the user side. In such cases, you may choose to uninstall our apps or stop using our Services in order to prevent data collection.
+Please refer to the corresponding sections for more information about specific cases of data collection such as:
+- Our Newsletter
+- Our Website
+Controlling your personal information
+â€
+You may choose to restrict the collection or use of your personal information in the following ways:
+- Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+- If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at
+info@mixvibes.com
+.
+- You may discard the permissions required when installing our apps (record or access to deviceâ€™s folders) or uninstall our apps.
+- You may opt-out from any third party integrated within our Services. Please refer to each partner's section for more information about how to opt-out.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+Children's information
+â€
+Our Services are not directed to children under 13. If you learn that a child under 13 has provided us with personal information without consent, please contact us.
+Security
+â€
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Data collected in relation to OneSignal
+â€
+Our mobile applications contain a third-party SDK that collects Personally Identifiable Information (PII). This SDK (OneSignal) is used for the purpose of sending push notifications to the end users of our apps. OneSignal also collects user data for their own purpose and may store and share the following information:
+- Your deviceâ€™s Advertising Identifier
+- Some or all of the following information: IP address, device push token, network information, language, timezone, product preferences, and privacy preferences.
+Please note that OneSignal does not collect your email address or your precise geographical location (e.g. GPS-level data) as our apps do not collect such data.
+More information about OneSignalâ€™s use of data collected
+OneSignal uses this data for several purposes, including the personalization of ads served by other third parties: Â â€œ(â€¦) we or a data partner we have engaged may collect and store a unique identifier matched to your mobile device, in order to deliver customized ads or content while you use applications or surf the internet, or to seek to identify you in a unique manner across other devices or browsersâ€. For more information, please visit
+OneSignal privacy policy
+.
+Opting-out of OneSignal data collection
+End-users may opt-out of OneSignal related data collection by modifying the ad tracking settings on their device (identified by â€œ
+Limit Ad Tracking
+â€ on iOS and â€œ
+Opt out of interest based ads
+â€ on Android).
+Opting-out of OneSignal push notification
+End-users may opt-out of OneSignal push notifications at any time by enabling the â€œBlockâ€ option within their Android Settings. This option can be accessed from
+Settings > Sound & notification > App notifications
+.
+iOS users can find more information on push notifications and how to disable them on
+Apple's website
+. Â
+Data collected in relation to Crashlytics
+â€
+Crashlytics is a crash-reporting tool that allows us to analyze errors occurring when using our apps. The purpose of such integration is to improve the stability and quality of our products. Please visit
+Crashlytics Terms of Use
+for more information about their privacy policy.
+Data collected in relation to Facebook
+â€
+Our apps integrate the Facebook SDK for the purpose of serving ads and attributing app installs based on ads previously served by Facebook. Please refer to
+Facebook data policy
+for more information.
+Opting-out of Facebook personalized ads
+Please visit
+Facebook Ad settings
+to change your preferences and prevent Facebook from serving ads based on your interests and usage. Â
+Data collected in relation to Ads served within our apps
+â€
+We serve ads in some of our apps through several ad platforms, which may use interest and app usage data to serve personalized ads.
+Please visit each third party website for more information on their privacy policy:
+-
+MoPub privacy policy
+-
+AdMob privacy policy
+-
+Facebook data policy
+Opting-out of interest-based/personalized ads
+End-users may opt-out of interest-based/personalized ads by modifying the ad tracking settings on their device (identified by â€œ
+Limit Ad Tracking
+â€ on iOS and â€œ
+Opt out of interest based ads
+â€ on Android).
+Data collected in relation to Google Analytics for Firebase.
+â€
+We use Google Analytics for Firebase to collect aggregated data related to user behavior within our apps. This data is processed through Firebase's Analytics feature.
+Data collected in relation to Google Analytics
+â€
+We use Google Analytics to collect behavioral data regarding the use of our website. This includes, among other things, analyzing the pages browsed or the different sources of traffic.
+Opting-out of Google Analytics
+You may opt-out of Google Analytics by installing the
+Google Analytics opt-out browser add-on
+.
+Data collected through our website
+â€
+We collect information for the following reasons:
+â€“ Internal record keeping
+â€“ To improve our products and services
+â€“ Promotional emails about new products, special offers or other information which we think you may find interesting
+â€“ For market research purposes for which we may contact you by email, phone, fax or mail.
+We may use the information to customize the Services according to your interests.
+How do we use cookies
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+Opting-out of cookies
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Links to third-party websites
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+â€
+Data collected as part of Mixvibes' Newsletter
+â€
+Users that opt-in to our Newsletter should know that we collect the following information: name and job title, contact information including email address, demographic information such as postal code, preferences and interests and other information relevant to customer surveys and/or offers.
+Opting-out of Mixvibes Newsletter
+The option to unsubscribe can be found at the bottom of each Newsletter sent. This generally takes the form of a hyperlinked text such as "click here to unsubscribe".
+Apps
+Remixlive
+Cross DJ 4 / Pro
+Cross DJ Free
+Remixvideo
+Beat Snap
+Rap Maker
+Packs
+All packs
+Help
+Tutorials
+Community
+Support
+Hardware
+Company
+News
+About us
+Legal
+Terms of Use
+Privacy
+Follow us,
+stay connected!
+Be the first to know about
+promotions, updates, tips & tricks
+Copyright All Rights Reserved
+Â© Mixvibes 2021

@@ -1,0 +1,215 @@
+Privacy Policy
+Why
+Features
+Pricing
+FAQ
+Contact
+Log In
+Sign Up
+Privacy Policy
+How we use, store, and protect your data.
+1. About Timesheet
+Timesheet is a digital time tracking system. It is available as a web app accessible via the browser and as an Android and iOS app and enables both manual and automated time tracking through the use of Wi-WFi and geofencing technologies, as well as the management of working hours, project and team management, invoicing and the management of expenses and files. (Hereafter referred to as "
+Services
+" or "
+App
+").
+These Services are provided by Timesheet - Mobile Time Tracking OG (hereinafter also referred to as "
+Timesheet
+", "
+we
+" or "
+us
+").
+Please also note our
+terms and conditions
+.
+2. Contact details
+Timesheet - Mobile Time Tracking OG
+FN 535499z, HG Wien
+Untere WeiÃŸgerberstrasse 43 1/2, 1030 Vienna, Austria
+office@timesheet.io
+Please direct any privacy inquiries to
+privacy@timesheet.io
+.
+3. General
+Timesheet respects the privacy of its users and is committed to protecting their personal information. This Privacy Policy explains how Timesheet processes personal information in connection with the use of our Services.
+Our
+Services are exclusively addressed to persons who are at least 14 (fourteen) years old
+. Therefore, in principle, no data of persons under 14 (fourteen) years of age will be processed.
+The terms "
+personal data
+", "
+data subject
+", "
+processing
+", "
+controller
+" and "
+processor
+" used in this Privacy Policy correspond to the definition in the General Data Protection Regulation ("
+GDPR
+").
+This Privacy Policy governs the processing of personal data of
+visitors to the Timesheet website ("
+Website Visitors
+"),
+independent individual users of our Services (such as freelancers or other individuals who register independently of an employer or other organization to use our Services; "
+Individual Customers
+"), and
+companies, organizations, institutions, groups of individuals, or the like that track the time of their employees assigned to their Timesheet account or other individuals for whom they have purchased licenses through the use of our Services ("
+Enterprise Customers
+").
+Individual Customers and Enterprise Customers are hereinafter also collectively referred to as "
+Customers
+".
+Timesheet is the controller of the personal data referred to in section 4.
+The user (Individual Customer) or the person who has acquired a license for this user and on whose behalf the user carries out the time tracking (Enterprise Customer) determines the purposes and means of the processing of the personal data stated in section 5. Hence, Customers are to be regarded as controllers with regard to this personal data.
+The personal data stated in section 5. are thus only processed by Timesheet on behalf of the user.
+This processing on behalf of the Customer is carried out exclusively on the basis of the
+Data Processing Agreement
+, which is concluded by accepting our
+General Terms and Conditions
+, entering into a user agreement, purchasing licenses and generally when using our Services, and which forms an integral part of the contractual relationship between the Customer and Timesheet. For the avoidance of doubt, this Privacy Policy, together with the contents of the Data Processing Agreement, constitutes Customer's complete and final instructions to Timesheet with respect to the processing of personal data.
+If you as the data subject are the end user of the Timesheet Services but the license was acquired by your employer or the like, you are primarily subject to the privacy policy of this Enterprise Customer as the data controller with respect to this data processing, for which we process your data only as a processor. Inquiries regarding the processing itself as well as your rights in connection with the processing by us are therefore primarily to be directed to your employer or the like, who will subsequently contact us if necessary.
+4. Data processed as the controller
+For the purpose of providing and improving the Services, Timesheet processes the following data as a data controller:
+Each time you use the App, we process certain automatically generated technical data to maintain the functionality of the App and to prevent and defend against targeted attacks. This includes, for example, the software and hardware used as well as the IP address of the end device, the time and duration of use as well as error reports and connected devices (together "
+Device Data
+").
+We also process the used and most frequently used functions. We use this information to evaluate and improve our functions.
+Your e-mail address is collected during registration and is then used for user identification during registration and to contact you, for example to reset your password.
+When a profile is created, users are assigned a "Profile ID" and a "User ID". We process these in order to be able to assign datasets to you.
+If you want to receive notifications from our App on your device, device tokens for your device will be created and stored. These device tokens and the message content are transmitted to your respective operating system to enable these notifications.
+To enable subscriptions via our App, we process payment data (see in detail point 9. below) as well as other necessary information for billing in the context of subscriptions (address, VAT, etc.).
+Correspondence, for example for the conclusion of a contract or for support purposes.
+Individual Customers only: Name, profile picture (if provided), language
+Enterprise Customers only: Information on licenses and assigned license users
+The legal basis for this processing is primarily the
+fulfillment of the contract according to Art 6 (1) (b) GDPR
+. Without the provision or collection of this data, we cannot provide our Services or certain functions.
+Voluntary information is processed for the purpose of providing the respective intended functions on the basis of
+consent pursuant to Art 6 (1) (a) GDPR
+, which the user gives by providing the respective data. This consent can be revoked at any time with effect for the future by self-deletion or by sending an e-mail to
+privacy@timesheet.io
+.
+The processing of the Device Data and the functional analysis is also based on our
+legitimate interests pursuant to Art 6 (1) (f) GDPR
+, namely, to optimize and improve the App and the Services, to increase the user-friendliness, to provide useful information about the use of our Services and to ensure and increase the security and stability of the App and to be able to detect and track attacks and abuse.
+5. Data processed as processor on behalf of the Customer
+As a processor, we process the following data on behalf of the Customer:
+Enterprise Customers only: Name, profile picture (if provided) and language of assigned license users.
+All content that is entered, provided, collected or processed in any other form via the Services and the available functions, such as, in particular, tracked time, breaks, teams, projects, tasks, expenses, notes, keywords, rates/hourly rates, invoices, automations, signatures, attachments, images and other uploads, provided that and only to the extent that this data is provided by the Customer. This also includes all data and information made available based on individually configurable App permissions.
+If access to the location of the end device used is permitted, this can be used to automate time tracking. Depending on the individual approvals or permissions granted, entering or leaving a certain area (geofence detection) or connecting or disconnecting to a Wi-Fi network (Wi-Fi detection) or iBeacon detection can start or stop automated time tracking. However, the location is only used if a specific "automation" has been set up or activated in the App. The use of the location data can therefore be stopped at any time by deactivating the corresponding function/automation in the App or via the settings of the operating system.
+Information we receive from user-enabled and connected or integrated third-party applications. You should always review the privacy settings and notices in those third-party services to understand what information may be shared with us or transmitted to our Services.
+In addition, personal data of users may be processed if other users disclose their data within the scope of our Services, for example by entering it in their projects or tasks or as their employer.
+Timesheet processes this data only on behalf of the respective controller, the legal basis of the processing (contract performance, consent, legitimate interests, etc.) is therefore determined individually by the respective controller.
+6. Messaging
+To inform about events within the App, notifications ("push notifications") are sent to the user's device when this function is activated. The authorization of the App with regard to such notifications can be set or deactivated at any time in the settings of your operating system. In case of deactivation, notifications can no longer be sent.
+If you subscribe to our newsletter, for example as part of the settings of the App, or if other legal preconditions apply, we process your e-mail address to send you news and information about Timesheet. By registering, you consent to the processing of your contact data for this purpose and for sending promotional messages. We will continue to process your data until you withdraw your consent.
+If the legal requirements are met, we also process your contact data on the basis of our legitimate interest, namely, to stay in touch with you and maintain contact. In any case, you can refuse further sending by e-mail to
+privacy@timesheet.io
+.
+In order to fulfill the contract, we will also send you messages necessary for this purpose, such as confirming your registration or resetting your password.
+7. Recipients
+We do not sell or otherwise share your personal data with third parties, except as provided in this Privacy Policy or the Data Processing Agreement, or as otherwise required by law or regulation.
+Within the App, depending on your or your organization's settings, your data can be shared with other users, teams, project members, etc.
+Personal data may be transferred to, stored in, or accessed from a location outside the European Economic Area ("EEA") in order for us to provide the Services. A list of the (sub)processors we use is available at
+https://timesheet.io/en/sub-processors
+. You expressly consent to the use of the recipients named in this list and to the transfer, storage and other processing to/by them.
+We undertake to transfer personal data to third countries only if an adequate level of data protection is guaranteed there, standard contractual clauses have been concluded, binding internal data protection regulations exist or other suitable guarantees exist, or you have consented to this transfer.
+8. Payments
+For the payment of subscriptions concluded via the App, we use the payment service provider PayPal or, for payments via credit cards, the payment service provider Stripe.
+For payment processing, the data necessary in each case is transmitted to these payment service providers. This processing and transmission take place for the payment of subscriptions and thus for the
+fulfillment of the contract in accordance with Art 6 (1) (b) GDPR
+and is also based on your
+consent in accordance with Art 6 (1) (a) GDPR
+.
+Stripe and PayPal may also transfer the data outside the EEA if this is necessary to provide the services.
+Further information on the payment providers can be found at
+https://timesheet.io/en/sub-processors
+and the websites stated there.
+9. Sign in via 3rd Party
+You can also register and sign in to our Services via 3rd party ("Sign in with Apple", "Sign in via Google", â€œSign in via Facebookâ€, â€œSign in via Twitterâ€) if you wish to do so and have made the appropriate settings with the third-party services.
+"Google Sign-In" or "Sign in via Google" is a service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland ("Google"). This links your Google account with our Service, and we receive your name, email address and, if applicable, your profile picture from Google. For more information on the processing of your data by Google, please visit https://policies.google.com/privacy.
+"Sign in with Apple" is a service provided by Apple Distribution International Ltd, Hollyhill Industrial Estate Hollyhill, Cork, Ireland ("Apple"). This links your Apple account to our Service, generates an ID for you and provides us with your name and email address. Information on the processing of your data by Apple can be found at https://www.apple.com/privacy. You can determine the form and scope of the data transfer by Apple by making the corresponding settings directly at Apple.
+â€œSign in with Facebookâ€ is a service provided by Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (â€žMetaâ€œ). This links your Facebook account to our Service and provides us with your name, e-mail address, Facebook ID and profile picture. Further information on the processing of your data by Meta can be found at https://www.facebook.com/privacy/explanation/.
+â€œSign in with Twitterâ€ or â€žLog in with Twitterâ€œ is a service provided by Twitter International Unlimited Company, One Cumberland Place, Fenian Street, Dublin 2, Irland (â€žTwitterâ€œ). This links your Twitter account to our Service and provides us with your name, e-mail address and profile picture. Further information on the processing of your data by Twitter can be found at https://twitter.com/de/privacy.
+The processing of your data within the scope of login via 3rd party is based on your
+consent pursuant to Art 6 (1) (a) GDPR
+as well as your legal relationship with the respective provider and the settings made within the scope of the possibilities there. The use of these services is voluntary, you can alternatively create an account directly with us and thus avoid such processing.
+10.	Privacy and security
+We do
+not
+process your data in the context of automated decision-making, including profiling in accordance with Article 22 (1) and (4) of the GDPR, which leads to decisions that have legal effects concerning you or significantly affect you in a similar way.
+By specifying the individual settings or providing your information, you expressly consent to the respective processing and transmission and can revoke or adjust this consent at any time with effect for the future by adapting these settings or deleting individual details.
+We only work with highly trustworthy service providers and data processors. Your data is pseudonymized in our database. We use the Secure Sockets Layer (SSL) protocol, which encrypts all information sent between you and our Services.
+Unfortunately, no data transmission or storage system can be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please contact us immediately at
+privacy@timesheet.io
+. If we discover a data breach, we will contact you as soon as possible.
+11.	Storage period and deletion of the account
+The data mentioned under section 4. will generally be stored for the duration of the existence of your account. Payment data and other data necessary for the fulfillment of our corporate and tax retention obligations (in particular pursuant to UGB and BAO) will be stored by us for as long as we need them for payment processing or for as long as a legal retention obligation provides for this. In addition, longer storage periods may arise due to legal obligations or the necessity of asserting or defending legal claims. The storage period of the other data is based on the specifications of the controller and can be deleted by Customers at any time at
+https://my.timesheet.io/profile
+.
+You can delete your entire account at any time at
+https://my.timesheet.io/profile
+using the "Delete user" function. We understand the deletion of your account as a withdrawal of your consent to the data processing as well as a deletion request according to Art 17 GDPR. Please note, however, that deletion may not be possible immediately for technical reasons, which is why we reserve the right to a reasonable period of time to delete the content.
+Even after deletion of the account, however, it may be necessary for us to retain certain data, in particular if this is necessary due to legal obligations (such as accounting data in accordance with company law and tax law regulations) or an order of a court or administrative authority, if this data must be retained for the defense or assertion of legal claims, or if there is a legitimate interest of third parties or a legitimate interest on our part in its continued storage.
+12.	Cookies (website only)
+Internet pages sometimes use so-called cookies. Cookies do not cause any damage to your computer and do not contain viruses. Cookies serve to make the offer more user-friendly, more effective and safer. Cookies are small text files that are stored on your computer and saved by your browser. Some of the cookies used are so-called "session cookies". They are automatically deleted after the end of your visit. Other cookies remain stored on your terminal for a certain longer duration or until you delete them. These cookies allow us to recognize your browser on your next visit. You can set your browser so that you are informed about the setting of cookies and allow cookies only in individual cases, exclude the acceptance of cookies for certain cases or in general, as well as activate the automatic deletion of cookies when closing the browser. If you deactivate cookies, the functionality of this website may be limited. General information on cookies can also be found at www.allaboutcookies.org.
+The following links also explain how to access cookie settings in different browsers:
+Cookie-Settings in Firefox
+Cookie-Settings in Internet Explorer
+Cookie-Settings in Google Chrome
+Cookie-Settings in Safari (OS X)
+Cookie-Settings in Safari (iOS)
+Cookie-Settings in Android
+For more
+information on the cookies used on this website
+, please refer to the cookie settings below.
+With regard to
+necessary and useful cookies
+, the processing of cookie data is based on a legitimate interest pursuant to Article 6 (1) (f) GDPR, namely to ensure the functionality and security of this website.
+With regard to analysis, reporting and marketing cookies ("non-essential cookies"), processing is based on your consent in the cookie settings at the beginning or during your visit to this website. You can adjust this consent at any time within the framework of the cookie settings, and thus also revoke your consent at any time with effect for the future.
+Cookie Settings
+13.	Your rights
+You have the right at any time to access your stored personal data, information about their origin and recipients and the purpose of data processing and, if the legal requirements are met, the right to rectification, data portability, restriction of processing and blocking or deletion of incorrect or inadmissibly processed data.
+You have the right to withdraw your consent to the processing of your personal data at any time with effect for the future.
+You also have the right to object to the processing of your personal data on the basis of our legitimate interests if grounds for doing so arise from your particular situation. You may object to the processing of your data for direct marketing purposes at any time without giving reasons.
+To exercise your above-mentioned rights, please contact us by e-mail at
+privacy@timesheet.io
+or by postal mail at the address given under section 2. However, you can also exercise some of your rights yourself quite simply, for example by making the appropriate settings as described above and by deleting individual details.
+If you are of the opinion that the processing of your personal data by us violates applicable law or that your data protection rights have been violated in any other way, you have the right to lodge a complaint with the competent supervisory authority. In Austria, this is the data protection authority. However, in order to avoid proceedings, we request that you contact us in advance in all cases.
+Version:
+October 21, 2022
+Take Control Of Your Time
+Integrate Timesheet into your business today. - No extensive set-up or software installation required.
+Get Started For Free
+Contact Us
+Message us at any time, weâ€™d love to hear from you.
+Find us on Social Media
+Stay connected with us on Social Media. You can find us on
+Facebook
+,
+Instagram
+,
+Twitter
+, and
+LinkedIn
+.
+Discover Our Helpful Resources
+Find the answers to your technical questions by taking a look at our documentation. For further assistance, please contact us.
+Want To Know More?
+Weâ€™ll get back to you as soon as possible.
+Name
+Email
+Your Message *
+Send Message
+Documentation
+API
+Blog
+Privacy Policy
+DPA
+Terms of Service
+Legal Notice
+Copyright Â© timesheet.io 2023

@@ -1,0 +1,32 @@
+Javo Melier - Mobile  Games
+Search this site
+Skip to main content
+Skip to navigation
+Javo Melier - Mobile  Games
+Privacy Policy
+This app collects minimal information from users in order to make the game features work. The games of Javo Melier does not collects or sells any personally identifying information through the installation or use of the app. Please continue reading for additional information.
+Game Features
+Google Play presents a list of required permissions for the app, selected from preset categories, with no explanation. This is what the app actually does which requires the flag in the various permissions categories.
+The app checks what device you have and uses that information to determine quality settings and screen resolution. The company does not store this information.
+The app has access to phone status and calls, it is used to pause the game if the user answers a call while playing, and to resume the play session when the call ends. The app does not save or transmit any information about the call or caller.
+The app can modify, delete, and read contents of the user’s device storage. It needs to be able to do this to save and load game progress, preferences, and content. It only uses this for game data, for the purpose of the game.
+The app knows if the user’s device is connected to the internet while the game is in use. This is because there are aspects of the app that require internet access to function correctly, and if there is no access, the app must adjust. The company does nothing else with this information.
+The company does nothing with the device’s location information, but the advertising networks do use it to show ads that have been selected for users in various areas. There will be a list of advertising networks in use below.
+The game is built using the Unity game engine, and this is their policy:
+Unity Privacy Policy
+Customer Support
+If you contact us for customer support, we have any information that you give us as part of your contact. We will ask for relevant information, such as the make and model of the phone, version of the app, version of the OS, and an email address in order to communicate with you. We do maintain records of our customer service contacts in order to better help support the game, but we do not sell any information from these contacts and use it only to support the game. We ask that no children contact us for support, and instead have their parents make any customer service requests. Definitely never send us any kind of login details or credit card information. There is nothing we need that for.
+Advertising Networks
+Here is a list of advertising networks currently used to help support our app. This list will be updated to reflect any changes.
+Google
+AdMob:
+http://www.google.com/policies/privacy/partners/
+Unity Ads:
+http://unity3d.com/legal/privacy-policy
+Unity is the game engines we use, implements an interface on Android to request a device's Android Device ID and the Advertising ID. We don't use these interfaces in our games whatsoever, and have confirmed through tests that the data that could be requested from these interfaces never leaves your device.
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

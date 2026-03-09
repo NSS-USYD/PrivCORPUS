@@ -1,0 +1,47 @@
+Cinema FV-5: Privacy policy (Cinema FV-5 Lite)
+Cinema FV-5
+Home
+User manual
+FAQ
+Languages
+Support
+About
+Camera FV-5
+Cinema FV-5 Lite Privacy Policy
+We take your privacy very seriously, and since we are not lawyers ourselves, we want to keep the privacy policy short and simple, while outlining everything you need to know about the app and the usage it does of your personal data.
+From now on, we refer to â€œCinema FV-5 Liteâ€ as â€œthe appâ€.
+The app needs access to the camera to fulfill its main purpose (recording videos).
+The app needs access to the device storage in order to save the videos you record.
+The app only accesses (reads and writes) files in the directory you tell the app to record your clips to.
+Those directores could be /DCIM, /DCIM/100_CINE, or any other directory in case you instruct the app to record clips to another, custom location.
+The app offers you the possibility to geolocate the clips by embedding your device position into the video container metadata.
+This is
+optional
+, and
+disabled
+by default.
+If enabled, the location of your device is
+not
+shared by the app in any way (directly or indirectly), it stays in your device (unless you decide to actively share geotagged video clips with third party services, in which case you are subject to the privacy policy and terms of service of those third party services).
+We do
+not
+collect your location. In any way.
+The app needs access to the deviceâ€™s built-in microphone in order to be able to record clips with audio from the device without any external microphone. This is required for the app to fulfill its main purpose.
+The app also requests the permission to modify the audio settings in order to control audio properties like the volume, and check the status of the microphone.
+The app requests Bluetooth permission in order to support Bluetooth-based microphones.
+The permission is not used for any other purpose.
+In order to control the Bluetooth microphone and check its status, the app also needs access to the â€œbroadcast stickyâ€ permission.
+The app is offered for free on the Google Play Store.
+There is no purchase required to acquire the app.
+There are
+no
+in-app purchases within the app.
+The app requests Internet permission.
+We need Internet access in order to submit crash reports to a crash reporting system (Crashlytics). Crash reports are completely anonymous, and only data pertaining to the crash location (line of code and position in the program), as well as basic anonymous phone information like model number and Android OS version are sent. The reports contain absolutely no personal information, and we cannot use any of the submitted data to indentify you in any way (even if we wanted or needed to).
+We do not use Internet access for any other purpose other than the ones described above.
+Therefore, any private data produced by the app
+does not
+in any way leave the device (unless you decide to actively share app-generated content with other apps/services other than the app, in which case you are subject to the privacy policy and terms of service of those third party apps/services).
+You should read and accept the terms of this privacy policy in order to use the app.
+Last update: 2017/02/06.
+© FGAE Studios 2013-2023

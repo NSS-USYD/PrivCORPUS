@@ -1,0 +1,131 @@
+App Lock Privacy Policy: App Lock Privacy Policy
+App Lock Privacy Policy
+2016年7月28日星期四
+App Lock Privacy Policy
+This document clarifies how User data and any sensitive information is handled in the App.
+Read Phone State:
+This is used to detect whether the phone is calling when your screen is off, if your phone is calling, the timer of locked apps will not be reset, otherwise, the timer will be reset. (The timer is used to prevent frequently repeated lock of your apps).
+Get Tasks:
+Get the top running apps of your phone and decide lock it or not.
+Package Usage Stats
+Same as Get Tasks. (Get Tasks is not working on newer Android OS, so we have to use Package Usage Stats to get the top running apps).
+Personal Data collected for Advertising
+Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data
+Google Mobile Ads SDK is used to serve ads in the application. Please refer Google Privacy Policy in https://policies.google.com/privacy
+Google may use the advertising ID from your device to generate interests and demographics (for example, 'sports enthusiasts'). Interests, demographics, and other data may be used to serve better targeted ads to you. You can view and edit your interests and demographics, or opt out of personalized ads from https://www.google.com/settings/ads
+发帖者
+anderson
+时间：
+18:27
+通过电子邮件发送
+BlogThis!
+共享给 Twitter
+共享给 Facebook
+分享到Pinterest
+11 条评论:
+Unknown
+2020年1月10日 04:53
+Ssohail
+Sohail
+SohaI
+SohaI
+SohaI
+回复
+删除
+回复
+回复
+rudra singh
+2020年3月2日 02:08
+great post....
+nice apps
+best app lock for android
+回复
+删除
+回复
+回复
+Unknown
+2020年7月2日 19:48
+Lock
+回复
+删除
+回复
+Unknown
+2020年8月28日 17:29
+S
+删除
+回复
+回复
+Unknown
+2020年11月27日 13:18
+Kumari
+删除
+回复
+回复
+回复
+Unknown
+2020年8月28日 17:28
+Sandhu saab lock lagan hi
+回复
+删除
+回复
+Unknown
+2020年12月15日 10:31
+Angela liberata 3
+删除
+回复
+回复
+回复
+Unknown
+2020年10月28日 21:57
+NADEEEM7y
+回复
+删除
+回复
+回复
+Unknown
+2020年11月27日 13:19
+Kumari
+回复
+删除
+回复
+回复
+Unknown
+2021年4月18日 05:43
+bet cepat kirim
+回复
+删除
+回复
+回复
+Unknown
+2021年10月8日 19:45
+thelemaque papito
+回复
+删除
+回复
+回复
+添加评论
+加载更多...
+较新的博文
+主页
+订阅：
+博文评论 (Atom)
+我的简介
+anderson
+查看我的完整个人资料
+博客归档
+►
+2018
+(1)
+►
+九月
+(1)
+▼
+2016
+(1)
+▼
+七月
+(1)
+App Lock Privacy Policy
+“简单”主题背景. 由
+Blogger
+提供支持.

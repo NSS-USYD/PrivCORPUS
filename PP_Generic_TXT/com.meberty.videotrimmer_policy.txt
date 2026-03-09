@@ -1,0 +1,31 @@
+Desa Technology: Privacy Policy
+Desa Technology (â€œDesa Technologyâ€ or â€œweâ€) is dedicated to protecting the privacy rights of our online users (â€œusersâ€ or â€œyouâ€). This Online Privacy Policy (â€œPrivacy Policyâ€) has been crafted to inform you as to the ways we collect, store, use, and manage the information you provide in connection with any Desa Technology game or application (â€œServiceâ€). Please note that the scope of this Privacy Policy is limited to only information collected from Desa Technology through use of the Service.
+By using the Service, you are agreeing to the collection and use of your personal information as outlined in this Privacy Policy. We may amend the Privacy Policy from time to time, and we encourage you to consult the Privacy Policy regularly for changes.
+Purpose of Permission
+Permission READ_PHONE_STATE
+Some of our apps need to get your deviceID to sign up and create an account. By that reason READ_PHONE_STATE is a required permission. We only use this information to create your account and not share it to any other third parties.
+Permission READ - WRITE_CONTACTS
+Some of our apps need to access to your contacts to use for necessary features (such as syncing contacts on multiple devices). By that reason READ - WRITE_CONTACTS is a required permission. We only use this information to use for necessary features and not share it to any other third parties.
+Permission CALL_PHONE
+Some of our apps need to make the call feature. By that reason CALL_PHONE is a required permission. We only make phone calls when you confirm using this feature, and never do it automatically.
+Data collecting
+To create your account, Desa Technology  will need to collect your email and submit this information into our server. This information will be protected and only used for creating an account to access Desa Technology â€˜s app or game. We commit not to share this information to any other third parties.
+Third parties SDKs using
+This page is used to inform you regarding our policies with the collection, use, and disclosure of Personal Information if you use our applications. If you choose to use our mobile games and applications, then you agree to the collection and use of information in relation to this policy. The Personal Information as Cookies and Usage Data that we collect is used for providing and improving the apps. We will not use or share your information with anyone except as described in this Privacy Policy. We use the listed third-party SDKs (Software Development Kits) to offer an improved experience in our mobile applications. We use these SDKs to serve the advertisement in order to improve and support the applications. Here are the privacy information that are related to SDKs of AdMob which we use in our games and applications: AdMob â€“ please visit
+this link
+for more information. They use the devices advertising id to serve personalized advertisement based on the usersâ€™ interests (including collecting and analyzing Usage Data).
+Security
+We have put in place reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to overcome those measures or use your personal information for improper purposes. Also please note that email and messaging systems are not considered.
+---------------------------------------------------------
+Desa Technology: Terms of Service
+These Terms of Service ("Terms") are a legal agreement between Desa Technology ("Desa Technology" or "we") and you ("you"). By using or accessing any Desa Technologyâ€™s game or application ("Service") you agree to be bound by these Terms.
+By accessing or using the Service, you agree that you have read, understood, and accept to be bound by the Terms.
+Desa Technology reserves the right, in its sole discretion, modify or revise these Terms at any time, and you agree to be bound by such modifications or revisions.
+If you do not agree to the Terms, please do not use the Service.
+Users are responsible for periodically viewing the Terms. Your continued use of the Service after a change or update has been made will constitute your acceptance to the revised Terms.
+If you do not agree to the Terms your only remedy is to discontinue your use of the Service and cancel any accounts you have made using the Service.
+If you violate the Terms, Desa Technology reserves the right to issue you a warning regarding the violation or immediately terminate or suspend any or all accounts you have created using the Service.
+You agree that Desa Technology need not provide you notice before terminating or suspending your account(s), but it may do so.
+Desa Technology reserves the right to refuse any user access to the Services without notice for any reason, including, but not limited to, a violation of the Terms.
+You agree that Desa Technology may discontinue the Service or change the content of the Service at any time, for any reason, with or without notice to you, without liability.
+You represent that you are 13 years old or older. If you are between the ages of 13 and 18, you represent that your legal guardian has reviewed and agrees to the Terms.

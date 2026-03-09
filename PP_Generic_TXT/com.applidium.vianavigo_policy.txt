@@ -1,0 +1,600 @@
+Mentions
+    lÃ©gales et Politique de confidentialitÃ©
+Edition
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s et ÃŽle-de-France MobilitÃ©s Lab, ainsi que l'ensemble de ses
+        sous-domaines et rubriques est un service d'ÃŽle-de-France MobilitÃ©s.
+Directeur
+        de publication
+:
+    Laurent PROBST, Directeur GÃ©nÃ©ral
+Responsable
+        de rÃ©daction
+:
+    Xavier GUEPET, Directeur de la communication
+ÃŽle-de-France
+        MobilitÃ©s
+39 bis-41 rue de ChÃ¢teaudun
+75009 Paris
+TÃ©l :
+        01-47-53-28-00
+Mail :
+contact@voyageurs.iledefrance-mobilites.fr
+Description
+        technique
+HÃ©bergement
+Microsoft
+        France
+39 Quai du PrÃ©sident Roosevelt
+92130
+        Issy-les-Moulineaux
+Tel : 09 70 01 90 90
+DÃ©veloppement
+        et intÃ©gration mÃ©dia
+Lâ€™Application
+        mobile ÃŽle-de-France MobilitÃ©s a Ã©tÃ© dÃ©veloppÃ©e par les
+        sociÃ©tÃ©s Instant System (
+www.instant-system.com
+)
+    et Capgemini (
+https://www.capgemini.com/
+).
+Calculateur
+        d'itinÃ©raire
+Le site
+        web et l'application mobile Ile-de-France MobilitÃ©s s'appuient sur la technologie open
+        source Navitia dÃ©veloppÃ©e par
+Kisio
+    Digital
+pour le calcul d'itinÃ©raires, le calcul du prix du trajet, les fiches horaires et la
+    gÃ©olocalisation des arrÃªts de transport Ã  proximitÃ© et des points
+    d'intÃ©rÃªt.
+https://www.navitia.io/
+.
+DonnÃ©es
+        en temps rÃ©el
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s diffuse les informations
+        communiquÃ©es en temps rÃ©el par chacun des opÃ©rateurs de transports
+        franciliens sur les lignes qu'ils exploitent. Ces informations
+        concernent les temps d'attente des prochains passages de trains, RER,
+        mÃ©tros et tramways (sources : RATP et SNCF) ainsi que les
+        messages de perturbations prÃ©vues ou inopinÃ©es survenant sur le
+        rÃ©seau de transport (sources : OPTILE, RATP et SNCF).
+DonnÃ©es
+        vÃ©lo
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s diffuse les solutions de dÃ©placement
+        Ã  vÃ©lo fournies par le service GÃ©ovÃ©lo (
+www.geovelo.fr
+)
+    de la sociÃ©tÃ© La Compagnie des MobilitÃ©s. Elle s'appuie sur les
+    donnÃ©es en Open Data de disponibilitÃ© des vÃ©los en libre-service
+    de source JC Decaux (
+https://developer.jcdecaux.com
+)
+    et Smovengo (
+https://www.smovengo.fr/
+),
+    ainsi que sur les algorithmes de prÃ©dictions de disponibilitÃ©s Ã 
+    venir, conÃ§us par la sociÃ©tÃ© Qucit (
+https://www.qucit.com/
+).
+DonnÃ©es
+        covoiturage
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s diffuse les solutions de dÃ©placement
+        en covoiturage fournies par les services suivants :
+Blablalines :
+https://www.blablalines.com/
+Karos :
+https://www.karos.fr/
+Klaxit
+	:
+https://www.klaxit.com/
+Ouihop
+            :
+https://www.ouihop.com/
+Boogi :
+https://www.boogi.fr/
+Clemâ€™
+	:
+https://clem.mobi/
+Rezo
+            Pouce (dans les Yvelines) :
+https://www.rezopouce.fr/
+Covoitâ€™ici
+            (dans le Vexin) :
+https://covoitici.fr/
+Roulez
+            malin :
+https://roulezmalin.com/
+Cartographies
+Les
+        plans schÃ©matiques des rÃ©seaux de transport ont Ã©tÃ© conÃ§us
+        par la sociÃ©tÃ©
+Latitude
+    CartagÃ¨ne
+(
+www.latitude-cartagene.com
+).
+Les
+    cartographies des plans de quartiers ont Ã©tÃ© conÃ§ues par
+    ÃŽle-de-France MobilitÃ©s. Elles s'appuient sur des donnÃ©es IGN
+    (
+www.ign.fr
+),
+    IAU (
+www.iau-idf.fr/
+),
+    APUR (
+www.apur.org
+)
+    et IDFM.
+AccÃ¨s
+        au numÃ©ro dâ€™urgence 3117
+Le
+        31177 (SMS) ou 3117 (appel) est le numÃ©ro dâ€™alerte accessible
+        24h/24 et 7j/7 sur lâ€™ensemble du rÃ©seau ferrÃ© franÃ§ais et sur le
+        rÃ©seau ferrÃ© RATP pour signaler une situation dangereuse dont vous
+        Ãªtes victime ou tÃ©moin. Lâ€™application mobile ÃŽle-de-France
+        MobilitÃ©s vous permet dâ€™accÃ©der Ã  ce service dâ€™alerte grÃ¢ce
+        au bouton Â« 3117 Â» disponible sur lâ€™Ã©cran
+        dâ€™accueil.
+En
+        cas dâ€™incident ou risque, lâ€™application mobile Alerte 3117 permet
+        une mise en relation instantanÃ©e avec les opÃ©rateurs de transport
+        compÃ©tents, dÃ©tenteurs dâ€™une carte professionnelle dÃ©livrÃ©e par
+        le Conseil National des ActivitÃ©s PrivÃ©es de SÃ©curitÃ©
+        (CNAPS).
+Ce
+        numÃ©ro dâ€™alerte et cette application mobile sont gÃ©rÃ©s par la
+        SNCF. Pour plus dâ€™informations et notamment concernant la collecte
+        de la gÃ©olocalisation et des donnÃ©es Ã  caractÃ¨re personnel,
+        cliquer sur le lien
+www.sncf.com/fr/services/securite/31-17
+ÃŽle-de-France
+        MobilitÃ©s nâ€™est pas responsable de ce service et ne collecte
+        aucune donnÃ©e Ã  caractÃ¨re personnel.
+Navigo
+        Connect
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s s'appuie sur une brique technique
+        dâ€™authentification Navigo Connect qui stocke les donnÃ©es
+        dâ€™authentification et personnelles du client, dÃ©veloppÃ©e et
+        hÃ©bergÃ©e par la sociÃ©tÃ© Worldline (
+www.worldline.com
+).
+        Cette brique dâ€™authentification permet aux usagers des transports
+        en commun Francilien un identifiant unique pour accÃ©der Ã  tous les
+        services dÃ©ployÃ©s par ÃŽle-de-France MobilitÃ©s. Ce service est
+        dÃ©veloppÃ© et hÃ©bergÃ© par Wordline.
+Orchestrateur
+        SAV
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s s'appuie sur une brique technique
+        qui distribue les demandes de SAV aux opÃ©rateurs correspondants,
+        dÃ©veloppÃ©e et hÃ©bergÃ©e par la sociÃ©tÃ© Worldline
+        (
+www.worldline.com
+)
+Description
+        de lâ€™application mobile
+Lâ€™application
+    mobile ÃŽle-de-France MobilitÃ©s est une application dâ€™ÃŽle-de-France
+    MobilitÃ©s qui vous permet de prÃ©parer vos dÃ©placements en
+    Ile-de-France grÃ¢ce aux fonctions de :
+-    
+    Recherche dâ€™itinÃ©raires
+-     Horaires
+    des transports publics
+-     Info
+    trafic
+-     Consultation de plans
+-    
+    Recherche de services de mobilitÃ© Ã  proximitÃ©
+Achat
+            de titres de transport : si votre tÃ©lÃ©phone est Ã©ligible,
+            l'application ÃŽle-de-France MobilitÃ©s vous permet dâ€™acheter vos
+            titres de transport depuis votre tÃ©lÃ©phone et de les charger sur
+            un passe Navigo ou de les stocker directement sur votre tÃ©lÃ©phone.
+Pour
+        accÃ©der et utiliser lâ€™application mobile ÃŽle-de-France MobilitÃ©s,
+        vous devez la tÃ©lÃ©charger Ã  partir des plateformes AppStore et
+        Google Play.
+Lâ€™application mobile ÃŽle-de-France MobilitÃ©s
+        a Ã©tÃ© dÃ©veloppÃ©e pour les tÃ©lÃ©phone mobile sur un systÃ¨me
+        dâ€™exploitation Apple IOS et Android.
+Le
+        service dâ€™achat de titres de transport est disponible sur les
+        tÃ©lÃ©phones Ã©quipÃ©s de la technologie NFC (sans contact) Ã  partir
+        de la version Android 6.
+Si
+        vous disposez d'un tÃ©lÃ©phone SAMSUNG GALAXY compatible, les titres
+        achetÃ©s peuvent Ãªtre stockÃ©s dans votre tÃ©lÃ©phone et vous nâ€™avez
+        plus quâ€™Ã  le passer sur la borne pour valider.
+L'utilisation
+        de lâ€™application mobile signifie l'accord express de l'utilisateur
+        Ã  l'application de la prÃ©sente clause, ainsi quâ€™aux prÃ©sentes
+        conditions gÃ©nÃ©rales.
+ÃŽle-de-France MobilitÃ©s se rÃ©serve
+        le droit de modifier Ã  tout moment les prÃ©sentes conditions
+        gÃ©nÃ©rales et sâ€™engage Ã  en informer les Utilisateurs dans un
+        dÃ©lai raisonnable.
+AccÃ¨s
+        Ã  lâ€™application mobile
+L'accÃ¨s
+        Ã  lâ€™application mobile ÃŽle-de-France MobilitÃ©s et son
+        utilisation sont rÃ©servÃ©s Ã  un usage strictement personnel. Vous
+        vous engagez Ã  ne pas utiliser cette application mobile et les
+        informations ou donnÃ©es qui y figurent Ã  des fins commerciales,
+        politiques, publicitaires et pour toute forme de sollicitation
+        commerciale
+DisponibilitÃ©
+        de lâ€™application mobile
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s est accessible 24 heures sur 24, 7
+        jours sur 7, sauf cas de force majeure ou d'Ã©vÃ©nement hors du
+        contrÃ´le d'ÃŽle-de-France MobilitÃ©s. Toutefois, une interruption
+        pour raison de maintenance technique nÃ©cessaire au bon
+        fonctionnement de lâ€™application mobile et des matÃ©riels affÃ©rents,
+        ou pour toute autre raison, peut Ãªtre dÃ©cidÃ©e par ÃŽle-de-France
+        MobilitÃ©s.
+Protection
+        des donnÃ©es personnelles
+Ã€
+        partir de lâ€™application mobile, ÃŽle-de-France MobilitÃ©s en
+        sa qualitÃ© de responsable de traitement, peut Ãªtre amenÃ©e Ã 
+        collecter et traiter des informations vous identifiant (par exemple :
+        votre nom, vos coordonnÃ©es personnelles, votre adresse IP). Ces
+        informations sont ci-aprÃ¨s dÃ©nommÃ©es Â« DonnÃ©es Ã  caractÃ¨re
+        personnel Â» ou Â« DonnÃ©es Â».
+La
+        protection des DonnÃ©es est essentielle pour construire une
+        relation de confiance. Dans ce but, ÃŽle-de-France
+        MobilitÃ©s veille en permanence au respect des rÃ¨gles lÃ©gales
+        â€” le RÃ¨glement gÃ©nÃ©ral sur la protection des DonnÃ©es 2016/679
+        du 27 avril 2016 et la loi Informatique et libertÃ©s 78-17 du 6
+        janvier 1978 modifiÃ©e â€” sur la protection des DonnÃ©es Ã 
+        caractÃ¨re personnel et entend assurer une gouvernance
+        responsable de ses fichiers informatiques ainsi que la plus grande
+        transparence sur les traitements de DonnÃ©es quâ€™elle
+        opÃ¨re. Ã€ ce titre, ÃŽle-de-France MobilitÃ©s a
+        dÃ©signÃ© un DÃ©lÃ©guÃ© Ã  la Protection des DonnÃ©es
+        Personnelles (ou DPO). Il veille Ã  ce que les traitements des
+        DonnÃ©es Ã  caractÃ¨re personnel mis en Å“uvre par ÃŽle-de-France
+        MobilitÃ©s respectent la rÃ¨glementation applicable.
+Cette
+        notice dâ€™information vous explique pourquoi ÃŽle-de-France
+        MobilitÃ©s peut collecter vos DonnÃ©es, comment vos DonnÃ©es
+        seront utilisÃ©es et protÃ©gÃ©es, combien de temps elles seront
+        conservÃ©es et les droits dont vous disposez.
+Qui
+sont les personnes dont les DonnÃ©es sont collectÃ©es ?
+Les
+        visiteurs de lâ€™application mobile gÃ©rÃ©e par ÃŽle-de-France
+        MobilitÃ©s.
+Quelles
+DonnÃ©es ÃŽle-de-France MobilitÃ©s utilise-t-elle et dâ€™oÃ¹
+viennent-elles ?
+Seules
+        des DonnÃ©es dâ€™identification, de contact, de connexion, de
+        position et dâ€™accÃ¨s aux multimÃ©dias/photos seront recueillies
+        par ÃŽle-de-France MobilitÃ©s dans le cadre des services
+        proposÃ©s sur lâ€™application mobile ÃŽle-de-France MobilitÃ©s.
+        Toutes les DonnÃ©es recueillies seront fournies par les utilisateurs
+        de lâ€™application mobile.
+Ã€
+quelles fins et sur quels fondements vos DonnÃ©es sont-elles
+collectÃ©es et utilisÃ©es ?
+Formulaire
+        de contact
+En
+        remplissant nos formulaires de contact sur lâ€™application mobile
+        ÃŽle-de-France MobilitÃ©s, vous consentez Ã  ce quâ€™ÃŽle-de-France
+        MobilitÃ©s recueille et traite vos DonnÃ©es afin de pouvoir vous
+        identifier et rÃ©pondre Ã  votre demande.
+Souscription
+        aux alertes ÃŽle-de-France MobilitÃ©s (courriels, sms et
+        notifications de lâ€™application mobile)
+En
+        vous abonnant Ã  nos alertes, vous consentez Ã  recevoir par
+        courriel, sms ou notifications mobiles des informations en lien avec
+        ÃŽle-de-France MobilitÃ©s. Vous pourrez vous dÃ©sabonner Ã  tout
+        moment en cliquant sur les liens ou boutons dâ€™action prÃ©vus Ã  cet
+        effet depuis votre espace personnel sur le site internet ou depuis
+        vos favoris sur lâ€™application mobile.
+Politique
+        de confidentialitÃ© des donnÃ©es de gÃ©olocalisation
+En
+        acceptant quâ€™ÃŽle-de-France MobilitÃ©s puisse accÃ©der Ã  votre
+        position gÃ©olocalisÃ©e de votre tÃ©lÃ©phone cela vous permettra
+        dâ€™utiliser votre position comme dÃ©part pour la recherche
+        dâ€™itinÃ©raire et pour le module autour de moi.
+Vous acceptez quâ€™ÃŽle-de-France MobilitÃ©s
+        puisse accÃ©der Ã  l'emplacement de votrearriÃ¨re-plan pour la fonctionnalitÃ© de guidage
+        sachant que, pour des raisons deconfidentialitÃ©, ces donnÃ©es utilisateur sont uniquement
+        utilisÃ©es dans le cadre de cettefonctionnalitÃ© et ne sont pas stockÃ©es par
+        l'application.
+TÃ©lÃ©chargement
+        des plans
+En
+        acceptant quâ€™ÃŽle-de-France MobilitÃ©s puisse accÃ©der aux
+        rÃ©pertoires photos/multimÃ©dias/fichiers cela vous permettra le
+        tÃ©lÃ©chargement des PDF des pages Ã©vÃ©nementielles et le stockage
+        des images du plan schÃ©matique (disponible hors ligne). Les Ã©lÃ©ments
+        sont stockÃ©s dans un rÃ©pertoire propre Ã  lâ€™application mobile
+        ÃŽle-de-France MobilitÃ©s.
+Cookies
+et autres traceurs
+Un
+        Â«
+cookie
+Â»
+        est une suite dâ€™informations, gÃ©nÃ©ralement de petite taille et
+        identifiÃ© par un nom, qui peut Ãªtre transmis Ã  votre navigateur
+        par un site web ou une application mobile sur lesquels vous vous
+        connectez. Votre navigateur web ou votre application mobile le
+        conservera pendant une certaine durÃ©e, et le renverra au serveur web
+        ou Ã  lâ€™application chaque fois que vous vous y re-connecterez.
+        Les
+cookies
+ont
+        de multiples usages : ils peuvent servir Ã  mÃ©moriser votre
+        identifiant client auprÃ¨s dâ€™un site marchand, le contenu courant
+        de votre panier dâ€™achat, un identifiant permettant de tracer votre
+        navigation pour des finalitÃ©s statistiques ou publicitaires,
+etc
+.
+Cookies
+        tiers destinÃ©s Ã  amÃ©liorer lâ€™interactivitÃ© du site
+Lâ€™application
+        mobile ÃŽle-de-France MobilitÃ©s sâ€™appuie sur certains services
+        proposÃ©s par des sites tiers. Il sâ€™agit notamment :
+Des
+            boutons de partage (twitter, Facebook, LinkedIn)
+Des
+            listes de tweets (Twitter)
+Des
+            vidÃ©os diffusÃ©es sur le site (youtube, dailymotion)
+Ces
+        fonctionnalitÃ©s utilisent des cookies tiers directement dÃ©posÃ©s
+        par ces services.
+Qui
+a accÃ¨s Ã  vos DonnÃ©es ?
+ÃŽle-de-France
+        MobilitÃ©s prend toutes les mesures nÃ©cessaires pour garantir la
+        sÃ©curitÃ© des DonnÃ©es quâ€™elle a collectÃ©es mais aussi leur
+        confidentialitÃ©, câ€™est-Ã -dire sâ€™assurer que seules les
+        personnes autorisÃ©es y accÃ¨dent.
+Seules
+        les personnes habilitÃ©es en raison de leurs activitÃ©s au sein des
+        services compÃ©tents dâ€™ÃŽle-de-France MobilitÃ©s, en charge des
+        traitements correspondants, ont accÃ¨s Ã  vos DonnÃ©es dans la limite
+        de leurs habilitations.
+De
+        mÃªme, nos prestataires peuvent avoir accÃ¨s Ã  vos DonnÃ©es en tant
+        que de besoin et de maniÃ¨re sÃ©curisÃ©e dans le cadre de lâ€™exÃ©cution
+        de leur prestation.
+Certaines
+        autoritÃ©s se verront Ã©galement communiquer vos DonnÃ©es,
+        conformÃ©ment aux lois et rÃ©glementations applicables.
+Combien
+de temps sont conservÃ©es vos DonnÃ©es ?
+Vos
+        DonnÃ©es sont conservÃ©es selon les dÃ©lais lÃ©gaux en
+        vigueur.
+Quels
+sont vos droits sur vos DonnÃ©es ?
+Dans
+        les limites et conditions autorisÃ©es par la rÃ©glementation en
+        vigueur, vous pouvez :
+AccÃ©der Ã 
+            lâ€™ensemble de vos DonnÃ©es ;
+Rectifier,
+            mettre Ã  jour et effacer vos DonnÃ©es, sous rÃ©serve de motifs
+            lÃ©gitimes ;
+Vous opposer au
+            traitement de vos DonnÃ©es pour motifs lÃ©gitimes et au traitement
+            de vos DonnÃ©es Ã  des fins de prospection sans aucun
+            motif ;
+Demander
+            la portabilitÃ© de vos DonnÃ©es, pour les traitements reposant
+            sur votre consentement ou sur lâ€™exÃ©cution dâ€™un contrat conclu
+            ou Ã  conclure ;
+Demander
+            une limitation des traitements que nous opÃ©rons relatifs Ã 
+            vos DonnÃ©es ;
+Retirer
+            votre consentement Ã  tout moment (pour tout traitement soumis
+            Ã  votre consentement) ;
+Introduire
+            une rÃ©clamation auprÃ¨s dâ€™une autoritÃ© de contrÃ´le
+            compÃ©tente, Ã  savoir celle du pays de lâ€™Espace Economique
+            EuropÃ©en dans lequel se trouve votre rÃ©sidence habituelle, ou
+            votre lieu de travail ou le lieu oÃ¹ la violation prÃ©sumÃ©e de la
+            rÃ©glementation aurait Ã©tÃ© commise (en France, la
+CNIL
+).
+En
+        outre, vous avez la possibilitÃ© de nous communiquer des directives
+        relatives Ã  la conservation, Ã  lâ€™effacement et Ã  la
+        communication de vos DonnÃ©es aprÃ¨s votre dÃ©cÃ¨s, lesquelles
+        directives peuvent Ãªtre enregistrÃ©es Ã©galement auprÃ¨s Â« dâ€™un
+        tiers de confiance numÃ©rique certifiÃ© Â». Ces directives peuvent
+        dÃ©signer une personne chargÃ©e de leur exÃ©cution. A dÃ©faut, vos
+        hÃ©ritiers seront dÃ©signÃ©s.
+Comment
+exercer vos droits ?
+Pour
+        exercer vos droits, merci de contacter notre DÃ©lÃ©guÃ© Ã  la
+        Protection Des DonnÃ©es par courrier Ã©lectronique ou postal en
+        indiquant, nom, prÃ©nom, coordonnÃ©es de contact et en fournissant
+        une copie de votre piÃ¨ce dâ€™identitÃ©.
+DÃ©lÃ©guÃ©
+        Ã  la Protection Des DonnÃ©es
+Adresse postale : ÃŽle-de-France
+        MobilitÃ©s, 41 rue de ChÃ¢teaudun, 75009 Paris
+Courriel :
+dpo@iledefrance-mobilites.fr
+Droits
+        de propriÃ©tÃ© intellectuelle
+L'ensemble
+        des textes, graphismes, designs, icÃ´nes, photographies, plans,
+        logos, vidÃ©os, sons, marques, textes (â€¦) et plus gÃ©nÃ©ralement
+        l'ensemble des Ã©lÃ©ments composant le lâ€™application mobile
+        elle-mÃªme sont protÃ©gÃ©s par les lois en vigueur au titre de la
+        propriÃ©tÃ© intellectuelle.
+ÃŽle-de-France
+        MobilitÃ©s est titulaire de ces droits ou a acquis les droits
+        nÃ©cessaires permettant leur exploitation.
+L'ensemble
+        de ces Ã©lÃ©ments composant lâ€™application mobile ne peuvent faire
+        l'objet d'une quelconque reprÃ©sentation ou reproduction, intÃ©grale
+        ou partielle, sur quelque support que ce soit, sans l'autorisation
+        Ã©crite expresse et prÃ©alable d'ÃŽle-de-France MobilitÃ©s.
+Le
+        non-respect de cette obligation constitue un acte de contrefaÃ§on
+        pouvant engager la responsabilitÃ© civile ou pÃ©nale de son auteur.
+        ÃŽle-de-France MobilitÃ©s se rÃ©serve le droit d'engager des
+        poursuites judiciaires Ã  l'encontre de toute personne qui aurait
+        commis des actes de contrefaÃ§on.
+Les
+        marques et logos reproduites lâ€™application mobile, et notamment les
+        marques et logos ÃŽle-de-France MobilitÃ©s, Navigo et ÃŽle-de-France
+        MobilitÃ©s, sont des marques dÃ©posÃ©es. Toute reproduction totale ou
+        partielle de ces marques et/ou logos, seules ou associÃ©es, sur
+        quelque support que ce soit, sans l'autorisation prÃ©alable et Ã©crite
+        d'IDFM est interdite.
+Ainsi,
+        pour toutes utilisations, demande de reproduction, reprÃ©sentation,
+        adaptation d'Ã©lÃ©ments contenus dans lâ€™application mobile, non
+        expressÃ©ment autorisÃ©e, merci de nous contacter via le formulaire
+        situÃ© Ã  la rubrique
+Contact
+.
+ResponsabilitÃ©s
+La
+        prÃ©sente application mobile et les donnÃ©es figurant sur
+        lâ€™application mobile sont fournis Ã  titre purement informatif,
+        elles sont non contractuelles et ne sauraient engager la
+        responsabilitÃ© d'ÃŽle-de-France MobilitÃ©s.
+Les
+        informations portant sur les horaires, trajets, trafic, ont Ã©tÃ©
+        fournies Ã  ÃŽle-de-France MobilitÃ©s par les transporteurs
+        Ile-de-France, GÃ©ovÃ©lo, Qucit, Jc Decaux, Smovengo et par les
+        partenaires de covoiturage.
+ÃŽle-de-France
+        MobilitÃ©s ne saurait Ãªtre tenu responsable des erreurs dues Ã  des
+        informations erronÃ©es en provenance : des transporteurs, de GÃ©ovÃ©lo,
+        de Qucit, JC Decaux, Smovengo et des partenaires de covoiturage
+        notamment des horaires des lignes de transport communiquÃ©s Ã 
+        ÃŽle-de-France MobilitÃ©s qui se rÃ©vÃ¨leraient inexacts.
+En
+        consÃ©quence, ÃŽle-de-France MobilitÃ©s ne peut garantir l'exactitude
+        des donnÃ©es fournies Ã  la date mentionnÃ©e.
+ÃŽle-de-France
+        MobilitÃ©s met Ã  jour rÃ©guliÃ¨rement lâ€™application mobile, en
+        fonction des changements d'horaires qui lui sont communiquÃ©s par les
+        transporteurs. Toutefois, la mise Ã  jour de lâ€™application mobile
+        peut prendre un certain temps aprÃ¨s l'application effective des
+        nouveaux horaires.
+ÃŽle-de-France
+        MobilitÃ©s se rÃ©serve Ã©galement le droit, Ã  tout moment et sans
+        prÃ©avis, d'apporter des amÃ©liorations et/ou modifications Ã 
+        lâ€™application mobile.
+La
+        responsabilitÃ© dâ€™ÃŽle-de-France MobilitÃ©s, ne saurait Ãªtre
+        engagÃ©e :
+Pour
+        les dommages de toute nature, directs ou indirects, rÃ©sultant de
+        l'utilisation de lâ€™application mobile et notamment toute perte
+        d'exploitation, perte financiÃ¨re ou commerciale, perte de
+        programmes et/ou de donnÃ©es en particulier dans le systÃ¨me
+        d'information de l'Utilisateur de lâ€™application mobile ;
+Pour
+        les dommages de toute nature, directs, ou indirects, rÃ©sultant du
+        contenu et/ou de l'utilisation des sites internet liÃ©s Ã 
+        lâ€™application mobile ou auxquels les Utilisateurs pourraient avoir
+        accÃ¨s via lâ€™application mobile et qui ne sont pas des sites
+        dâ€™ÃŽle-de-France MobilitÃ©s ;
+En
+        cas de dysfonctionnements imputables Ã  des logiciels de tiers que
+        ceux-ci soient ou non incorporÃ©s dans lâ€™application mobile ou
+        mise en Å“uvre Ã  partir de celle-ci ;
+En
+        cas d'impossibilitÃ© totale ou partielle d'accÃ©der Ã  lâ€™application
+        mobile et Ã  son contenu ;
+En
+        cas d'omissions et/ou erreurs que pourrait contenir lâ€™application
+        mobile.
+Toute
+        dÃ©cision qui pourrait Ãªtre prise par un Utilisateur au vu des
+        donnÃ©es contenues sur lâ€™application mobile, sera de la
+        responsabilitÃ© exclusive de cette personne.
+Les
+        horaires indiquÃ©s sur lâ€™application mobile ne prennent pas en
+        compte les Ã©ventuelles perturbations pouvant survenir, pour quelque
+        cause que ce soit, sur le rÃ©seau des transports publics de la rÃ©gion
+        Ile-de-France. ÃŽle-de-France MobilitÃ©s dÃ©cline toute
+        responsabilitÃ© Ã  cet Ã©gard.
+Utilisateurs
+L'Utilisateur
+        de lâ€™application mobile ÃŽle-de-France MobilitÃ©s est responsable
+        des dommages de toute nature, matÃ©riels ou immatÃ©riels, directs ou
+        indirects, causÃ©s Ã  tout tiers, y compris Ã  ÃŽle-de-France
+        MobilitÃ©s, du fait de l'utilisation ou de l'exploitation illicite de
+        lâ€™application mobile et/ou de l'un de ses Ã©lÃ©ments, quels que
+        soient la cause et le lieu de survenance de ces dommages, et garantit
+        ÃŽle-de-France MobilitÃ©s des consÃ©quences des rÃ©clamations ou
+        actions dont il pourrait, de ce fait, faire l'objet.
+L'Utilisateur
+        de lâ€™application mobile ÃŽle-de-France MobilitÃ©s renonce Ã 
+        exercer tout recours contre ÃŽle-de-France MobilitÃ©s, dans le cas de
+        poursuites diligentÃ©es par un tiers Ã  son encontre du fait de
+        l'utilisation et/ou de l'exploitation illicite de lâ€™application
+        mobile.
+Hyperliens
+ÃŽle-de-France
+        MobilitÃ©s autorise tout site Internet ou tout support Ã  mettre en
+        place un lien hypertexte en direction de la page d'accueil de son
+        Site, Ã  l'exception de ceux diffusant des contenus Ã  caractÃ¨re
+        polÃ©mique, pornographique, xÃ©nophobe, contraire Ã  la dÃ©cence ou
+        aux bonnes mÅ“urs.
+Le
+        lien doit indiquer clairement la nature des contenus, ainsi que
+        l'adresse exacte de la page.
+Toute
+        utilisation de liens vers lâ€™application mobile ÃŽle-de-France
+        MobilitÃ©s Ã  des fins commerciales et publicitaires est interdite.
+ÃŽle-de-France
+        MobilitÃ©s se rÃ©serve le droit d'engager la responsabilitÃ© de tout
+        auteur d'un hyperlien qui :
+n'aurait
+        pas sollicitÃ© l'autorisation prÃ©alable d'ÃŽle-de-France MobilitÃ©s
+        ou serait passÃ© outre le refus exprimÃ© par ce dernier, pour
+        l'Ã©tablissement d'un lien pointant sur une page autre que la page
+        d'accueil de lâ€™application mobile ÃŽle-de-France MobilitÃ©s,
+N'aurait
+        pas respectÃ© les droits de propriÃ©tÃ© intellectuelle affÃ©rents
+        aux Ã©lÃ©ments de lâ€™application mobile ÃŽle-de-France MobilitÃ©s ;
+N'aurait
+        pas identifiÃ© clairement la nature du contenu et l'adresse exacte
+        de la page (source et cible) afin d'Ã©viter toute confusion dans
+        l'esprit des internautes.
+Tout
+        information accessible via un des liens hypertextes renvoyant sur
+        d'autres sites ou autres sources Internet n'est pas sous le contrÃ´le
+        d'ÃŽle-de-France MobilitÃ©s, qui dÃ©cline toute responsabilitÃ© quant
+        Ã  leur contenu, services disponibles sur ou Ã  partir de ces sites
+        ou sources externes.
+Loi
+        applicable
+Les
+        prÃ©sentes conditions gÃ©nÃ©rales, lâ€™application mobile, ainsi que
+        les contenus de lâ€™application mobile, et toutes consÃ©quences de
+        son utilisation ou de sa disponibilitÃ© ou de son indisponibilitÃ©
+        sont rÃ©gis par la loi franÃ§aise.
+L'utilisation
+        de lâ€™application mobile signifie l'accord express de l'Utilisateur
+        Ã  l'application de la prÃ©sente clause.

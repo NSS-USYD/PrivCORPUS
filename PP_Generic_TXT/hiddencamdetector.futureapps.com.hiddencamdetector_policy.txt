@@ -1,0 +1,37 @@
+Privacy Policy
+Skip to content
+futureapps
+Home
+Tech Blogs
+Subscribe
+About us
+Privacy Policy
+Hidden Camera Detector &
+Hidden Camera Detector Gold
+Privacy policy is divided into 3 components.
+1. App permissions 2. Data collection 3. Data collection by third party.
+App Permissions
+App need following permissions:
+Camera Permission
+: Features, namely Lens Detector and Infrared Camera Detector need camera permission to detect lens and infrared camera respectively. However app only need camera permission for the preview and do not capture any photo or video (hence app do not ask for storage permission).
+Bluetooth Permission
+:  Bluetooth permission is required to scan nearby Bluetooth & BLE devices to detect BLE cameras. App do not connect to any Bluetooth device.
+Location Permission
+: Location permission is required to detect wireless camera. Location permission is required to scan nearby WiFi and WiFi Direct devices in Android. iOS version do not ask for this permission. For Android 9+ Devices, it is mandatory, not only to have location permission but also Location (GPS) must be ON to scan nearby W-Fi devices.
+For more information, you can read restrictions section from android
+https://developer.android.com/guide/topics/connectivity/wifi-scan#wifi-scan-restrictions
+Data Collection
+Both the apps do not collect any personally identifiable information. (PII).
+App may collect some information like if the device has magnetic sensor or not but it is only for statistical purpose and we as developers can not identify specific device or user with that information. App do not collect any information about the device except sensor availability.
+App uses Google Firebase analytics for analytical purpose. The data collection by analytics will be covered under data collection by third party section of this page.
+We as developers do not share any analytical information with any third party.
+We do not own any database server to store any user information from this app.
+Data Collection by third party
+App uses Google firebase analytics for the analytical purpose. The information collected by Google with this framework and their privacy policy will be covered under
+this link.
+App uses Google Admob and Startapp for the advertisements. (Except iOS & Gold version). For Google Admob – See
+this link
+and for Startapp – See
+this link
+Want to know about privacy policy? Read 
+3 important things to check for in the privacy policy

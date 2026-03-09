@@ -1,0 +1,185 @@
+LiuZho Soft
+Search this site
+Skip to main content
+Skip to navigation
+LiuZho Soft
+Privacy Policy
+Last update: November 29, 2022
+This privacy policy applies to
+LiuZho Soft
+(
+Products: DevInfo、BD File Manager、Alpha Cleaner、Alpha Launcher etc.
+) and will explain how we collect, use and protect your data.
+If you decide to use the services provided by our products, this agreement is used to inform us how to collect, use and disclose user privacy.
+If you choose to use the services we provide, you agree to the collection and use of information related to this policy. The personal information we collect is used to provide and improve services. Unless otherwise stated in this privacy policy, we will not use or share your information with anyone.
+1. Collect information
+We collect some or all of the information you provide to us, as well as the data about your use of websites and applications, but we will mainly use the collected data to provide you with satisfactory services and improve your experience.
+1.1. Collection of equipment and technical information
+We may collect the data you need to use our application, we can maintain and analyze the functions of the application, and personalize the content of the application.
+We will try to obtain certain information about your device, including:
+IP address, national code, time zone session start/stop time; IDFVs, language; network status (wireless, etc.), browser plug-in type and version; platform, SDK version , Timestamp; technical device information (such as device model and name, operating system name and version, CPU information, storage size, screen size, firmware, application software API key identifier, push notification token, device installed applications List, device MAC address, etc.
+Although this information (such as IDFV, IP address) may uniquely identify your device, this information does not personally identify you. Some legislation (such as the United States) can uniquely identify your device as an individual Information processing of information.
+1.2. Your usage data
+We will collect some data during your use of the application, including but not limited to the following
+Number of uses of in-app functions
+Ad impressions and clicks
+Timestamp of first opening
+The user has installed the application list (package name, name, version and other data)
+Network status
+Firebase_device_id
+Installed applications list
+Advertisers may store or read cookie
+Other behavioral data we may use
+For user data described in 1.1 and 1.2, we will only upload it to a certified third-party data platform: Google Firebase. We may share the above data with our SDK providers (eg "AppLovin", "AdMob"). We will not share or sell data to any third party in any form other than for the purposes described in this agreement, and the data will not be used to enhance product experience, improve advertising effectiveness, or for purposes other than those described in this agreement.
+1.3. Data collected by third-party SDK
+The third-party SDK we use:
+Google Analytics for Firebase
+Google AdMob
+Google Play Services
+Firebase Crashlytics
+AppLovin
+Pangle
+Unity
+Facebook Audience Network
+AdColony
+These SDKs may collect your data, including Google Advertising ID, advertising data (ad impressions, clicks, etc.), data used to combat fraud, cookies, installed apps list, device-related data (device model, region, language, etc.).
+A link to their privacy policy will be listed below in the "Third Party Privacy Policies" section. And you need to read and agree to the agreement of these SDK service providers to use our services.
+2. Use of information
+We will use the collected information for some scenarios and purposes, including but not limited to the following purposes
+2.1. Improve products and enhance user experience
+We use these data to optimize development, improve products, and enhance user experience. This is ultimately for users to have a better experience.
+This includes some or all of the following purposes:
+Provision and maintenance services
+Notify you about changes to our services
+Allow you to participate in the interactive features of our services when you choose
+Provide care and support to customers
+Provide analysis or valuable information so that we can improve our services
+Monitor service usage
+Detect, prevent and solve technical problems
+Provide basic functional services of this application
+Third-party services, such as advertising, error log collection, etc.
+When you access the service through a mobile device, we may automatically collect certain information, including but not limited to the type of mobile device you use, the unique ID of the mobile device, the IP address of the mobile device, the mobile device operating system, and the mobile device you use Internet browser type, unique device identifier and other diagnostic data ("usage data").
+2.2. provide services
+Our applications rely on some data to provide services. For example, we need to obtain a list of application installations before we can provide "application management" services normally.
+2.3. Advertising and marketing activities
+In order to deliver personalized creatives, we may use some of the information we have collected from you, such as: advertising identifier, age, country/region, gender, language and other data.
+We may use third parties to provide advertising services on our behalf, such as Google AdMob, and share this information with them.
+If you download and continue to use our app, you agree to us and our partners to collect and use your data and improve your experience, unless you refuse to accept these terms and stop using it.
+You must read the privacy policy of the third party to understand how the third party collects and uses your data. We are not responsible for the privacy policies of any third parties we use.
+2.4. specific country/region/location
+For all of the above purposes, in accordance with the EU General Data Protection Regulation ("GDPR") or any equivalent legislation (collectively referred to as the "Data Protection Law"), we based our contract with you to process the European Economic Area ("EEA"), Personal information of users in the United Kingdom and Switzerland (collectively referred to as "designated countries/regions").
+3. The permissions we requested
+Depending on your use of our application, I may need some permissions, which will trigger a request when a specific function is used. If you refuse to grant, the function of the application will be flawed, but you can still continue to use us Applications.
+cell phone
+Read phone status and identity
+Photos/media/documents
+Modify or delete the contents of your USB storage device
+Read the contents of your USB storage device
+camera
+Take photos and videos
+Wi-Fi network connection information
+View Wi-Fi connection
+Location
+Approximate location (based on network)
+Precise location (based on GPS and network)
+Device ID and call information
+Read phone status and identity
+Storage
+Modify or delete the contents of your USB storage device
+Read the contents of your USB storage device
+other
+Receive data from the internet
+Change your audio settings
+Pair with Bluetooth devices
+Access Bluetooth settings
+View network connection
+Full network access
+Read Google service configuration
+Wi-Fi connection and disconnection
+Control vibration
+Control the flash
+boot
+Change network connection
+Prevent the device from going to sleep
+4. Legal basis
+We process your data for the purposes and purposes stated in this privacy policy. The legal basis includes: the processing necessary to perform the contract with you (for example, providing you with the services you request and identifying and verifying your identity); the legal requirements that must be complied with (for example, complying with applicable accounting rules and submitting to law enforcement agencies) Mandatory disclosure); necessary for our legitimate interests (for example, managing our relationship with you, ensuring the safety of our services, communicating with you about our products and services); and based on our customers’ consent (for example, placing Certain cookies also share your information with third parties for advertising purposes).
+In some cases, you may need to provide us with personal data for the above processing so that we can provide you with all our services and allow you to use all the functions of our application.
+5. Your rights
+You need to exercise any rights granted by law. You can contact us by email support@liuzhosoft.com, but we may restrict some of your rights due to the following conditions
+Does not meet legal requirements
+Infringe on other people's data
+Protect our rights and property
+The request is meaningless or fragmentary
+5.1. Right to withdraw consent
+You can stop using our service at any time. When you stop using it, we will immediately stop collecting any of your data.
+5.2. Access and correction of personal data
+You can ask us to provide a copy of your personal data (this may incur a certain fee within the scope of the law), or you can ask us to correct your personal information. But if this infringes on the privacy or rights of others, we may reject your request.
+5.3. Restricted rights
+In some cases, you can restrict our processing of your personal data
+Our processing is illegal, you object to our actions and restrict our use of your data
+You question the accuracy of our data processing
+You need to use this information to exercise your legal rights and restrict the use of data
+Other legitimate requests
+5.4. Make a complaint
+If you think we have violated your privacy rights, you can complain to us via email at
+support@liuzhosoft.com
+, and we will remove your doubts. You also have the right to lodge a complaint with the competent authority of the Member State where you are habitually resident.
+5.5. Other undeclared but legal rights
+6. Privacy statement of third-party partners
+When we adopt a new third-party service, we will update it here in time.
+Google Analytics for Firebase
+https://firebase.google.com/policies/analytics
+Google AdMob
+https://support.google.com/admob/answer/6128543?hl=en
+Google Play Services
+https://firebase.google.com/support/privacy/
+Firebase Crashlytics
+https://firebase.google.com/support/privacy/
+AppLovin
+https://www.applovin.com/privacy/
+Pangle
+https://ad.oceanengine.com/union/media/privacy
+Unity
+https://unity3d.com/legal/privacy-policy
+Facebook Audience Network
+https://www.facebook.com/about/privacy
+AdColony
+https://www.adcolony.com/privacy-policy/
+7. The privacy rights of California residents
+This is a separate privacy statement for California users to comply with the California Consumer Privacy Act of 2018 ("CCPA") and other California privacy laws. This statement is intended to supplement the information described in our <Privacy Policy> and only applies to users who live in California ("consumers" or "you" or "users").
+This policy only applies to California users. If you are not a California resident, this policy does not apply to you. Please refer to our main privacy statement.
+7.1. Your right to request information
+According to the requirements of CCPA, you (or your authorized agent) have the right to request that we disclose to you information on how we have collected, used and shared your personal information in the past 12 months. This information includes: our set of personal information categories; the categories of the sources of personal information we collect; the business purposes for which we collect the personal information; and the categories of third parties with which we share personal information.
+7.2. Your right to delete information
+According to CCPA, you (or your authorized agent) have the right to choose not to sell or share your information. You (or your agent) have the right to ask us to delete your specific personal information that we have collected and kept from you, except in the following cases. Such cases include:
+We need your information to detect security incidents and prevent malicious or illegal activities;
+We need your information to identify and repair application errors that damage existing expected functions; we need your information to exercise freedom of speech, ensure that other consumers exercise the right to freedom of speech, or exercise other rights stipulated by law.
+Based on your relationship with us, we need your information for internal use that is reasonably consistent with your expectations; and other circumstances required by CCPA and other California laws.
+7.3. How do you exercise your rights
+To exercise the above rights, please submit a verifiable user request to us via
+support@liuzhosoft.com
+Only you or your authorized agent can make verifiable consumer requests for your personal information. You can only request verifiable consumer information twice in a 12-month period. A verifiable consumer request must: Provide sufficient information to enable us to reasonably verify your identity and to confirm that we have collected personal information about you. Describe your request in sufficient detail so that we can understand and respond to it.
+If we are unable to verify your identity, we will not be able to accurately respond to your request.
+7.4. How do we respond to your request
+We strive to respond to verifiable consumer requests within 45 days of receipt. If we need more time (up to 90 days), we will notify you of the reason and extension by email, phone or other electronic means.
+We will not charge a fee for processing or responding to your verifiable consumer request unless the request is excessive, repetitive, or clearly unfounded. If we determine that the request requires payment, we will tell you why we made the decision, and provide you with a cost estimate before completing your request, and ensure that all of this is within the scope of the law.
+7.5. non-discrimination
+We will not discriminate against you for exercising any of your CCPA rights. Such discrimination includes: refusing to provide you with our services; charging you different prices or rates for our services; providing you with different levels or quality of our services; implying that you may receive different service prices or Rates, or services of different levels or quality.
+7.6. Instructions for collecting data on minors
+These services are not for anyone under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age. If we find that a child under the age of 13 has provided us with personal information, we will immediately delete this information from our servers. If you are a parent or guardian and you know that your child has provided us with personal information, please contact us so that we can take the necessary action. For users aged 13-16, they have the right to choose to join. If you are the parent or guardian of users aged 13-16, you can also contact us.
+8. Data protection
+We are fully aware of the importance of personal data, and we will do our best to protect your data, but please understand that no means can be foolproof, and we cannot guarantee the safety of these data. We recommend that you carefully disclose data to the outside world and ensure that you do your best to protect the security of your data.
+9. Children's privacy
+These services are not for anyone under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age. If we find that a child under the age of 13 has provided us with personal information, we will immediately delete this information from our servers. If you are a parent or guardian and you know that your child has provided us with personal information, please contact us so that we can take the necessary action.
+10. Policy changes
+Any information collected is subject to the policies in effect at the time such information was collected. However, we may modify the policy from time to time. If such changes are made, we will provide you with other forms of modification or update notifications according to the situation. Your continued use of our applications or services after the policy changes will mean that you accept these changes, and the policy update date will be attached to the head of this clause.
+11. Contact us
+If you have any questions or concerns about this policy, you can contact us by
+email:
+support@liuzhosoft.com
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

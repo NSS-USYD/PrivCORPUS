@@ -1,0 +1,196 @@
+Skype Preview Program Terms
+SKYPE PREVIEW AND SKYPE INSIDER PROGRAM TERMS
+Posted: June 2018
+Thank you for participating in the Skype Preview Program and/or Skype Insider Program (collectively and individually, the “program”), which provides you access to certain pre-release Skype software (including any fonts, icons, images, or sound files included with the software, and also including its documentation, updates, supplements, and upgrades) (the “pre-release technologies”). The program allows Skype users to access and use certain pre-release technologies for purposes of providing feedback to Skype. Some pre-release technologies may not be available in your territory or on all platforms.
+Before you get started, there are a few important things for you to know.
+IF YOU LIVE IN THE UNITED STATES, SECTION 12 CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER. IT AFFECTS YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE WITH SKYPE. PLEASE READ IT.
+IMPORTANT NOTICE
+The pre-release technologies:
+include
+experimental and early prerelease software
+. This means that
+you may experience occasional crashes
+.
+automatically collect and transmit data to Skype including personal information. See section 2 and
+Privacy Statement
+for details.
+may stop working or update automatically, without notice; and
+may change before commercial release or may never be commercially released.
+1. PROGRAM BASICS
+a. Acceptance of terms. By accessing and using the pre-release technologies, you acknowledge and agree to these terms which constitute a legal agreement between you and Skype Communications S.à.r.l, 23 – 29 Rives de Clausen, L-2165 Luxembourg (“Skype”).
+b.
+Minors.
+By participating in the program, you represent you have either reached the age of “majority” where you live or have valid parent or legal guardian consent to be bound by the terms of this agreement and participate in the program. If you don't know whether you have reached the age of majority where you live, or don't understand this section, please don't access the pre-release technologies before you have asked your parent or legal guardian. If you are the parent or legal guardian of a minor and you are setting up access to the pre-release technologies for a minor, you accept this agreement on the minor’s behalf and are responsible for all use of the pre-release technologies.
+c.
+Changes to terms.
+Skype may change the program or these terms at any time. You must accept the changes in order to continue to participate in the program. If we do, we will notify you, either by posting a notice on the
+program website
+, through the user interface of the pre-release technologies, in an email notification, instant message, or through other reasonable means. Your use of the pre-release technologies after the date the change becomes effective will be your consent to the changed terms. If you do not agree to the changes, you must stop using the pre-release technologies and follow the termination instructions in section 9. Otherwise, the new terms will apply.
+d.
+Additional terms.
+Your use of pre-release technologies is also subject to the
+Microsoft Services Agreement
+, incorporating the
+Privacy Statement
+,
+http://www.skype.com/go/privacy
+. To the extent there is a conflict between the
+Microsoft Services Agreement
+(including the
+Privacy Statement
+) and these terms, these terms control during the term of the program. Use of the final, generally available Skype software is subject to the
+Microsoft Services Agreement
+.
+e.
+Account Creation.
+You must have a Microsoft account in order to access the pre-release technologies.
+f.
+Expenses.
+There is no charge to you for testing and evaluation of the pre-release technologies, you are responsible for all expenses arising out of your use of the pre-release technologies and participation in this program (e.g., smart phone, cell and data plans, etc.).
+g.
+Assignment:
+Skype may assign, transfer or otherwise dispose of our rights and obligations under these Terms, in whole or in part, at any time without notice.
+2. PRIVACY
+a. The pre-release technologies may automatically collect and provide data to Skype, which may include your personal information. When you use the pre-release technologies, Skype will collect certain information about your use of and how you interact with the pre-release technologies. To help us diagnose problems and improve the pre-release technologies, Skype will collect data about the performance of pre-release technologies and any problems you experience with them. From time to time we may collect logs in connection with feedback you provide or in connection with a problem. These logs may include personal information or other sensitive data included in device memory. For example, a log that contains a snapshot of device memory may include your name or other account IDs, contents of your communications, information about your location or data that you recently submitted to a website. If a log contains personal data, we won't use that data from the logs to identify, contact, or target advertising to you.
+b. If you submit personally identifiable information to us through the pre-release technologies or as part of the program, then Skype will use this personal information to operate, maintain, and provide to you the features and functionality of the pre-release technologies. We may also use this information to communicate with you, as described below. If you submit personal information about any person, other than yourself, you warrant and represent that you have obtained their lawful consent. If you do not agree to these terms or the use of personal information in this way, please do not use the pre-release technologies.
+c. Additionally, we will use any information provided in connection with the program in accordance with any in-app privacy notices and our Privacy Statement:
+http://www.skype.com/go/privacy
+. Please be aware that pre-release versions of features may not include all functionality described in the Privacy Statement. Certain privacy settings and controls may not be available for the pre-release technologies or may be subject to change.
+3. UPDATES AND PRE-RELEASE TECHNOLOGIES
+a.
+Updates.
+You agree that limited or no support will be available for the pre-release technologies. You also agree that we may automatically download updates to the pre-release technologies and that you may be required to update the pre-release technologies in order to continue in the program. You agree to accept such updates subject to these terms unless other terms accompany the updates. If you do not agree, please discontinue use of and uninstall the pre-release technologies.
+b.
+Pre-release Technologies.
+The pre-release technologies are early, experimental versions and may have reduced or different security, privacy, accessibility, availability, and reliability standards relative to commercially provided services and software. We may change or discontinue these standards in subsequent releases and/or the pre-release technologies at any time without notice.
+c.
+Send and receive money:
+By using the send and receive money feature (if available), you acknowledge that Skype uses third parties to provide payment services and affect transfers. Skype does not provide payment services or affect transfers and is not a money services business. Sending and receiving money on Skype may only be available to users who are 18 years old and over, or in accordance with the third parties terms, and who register and are approved for an account with the third party. In order to use the send money feature, you may be required to sign up to the third parties’ terms and conditions and to provide permissions to share data with these third parties for the purposes of providing the service. If Skype receives notice that your use of the send money feature violates a third party’s terms and conditions, Skype may have to take action against your account, such as cancelling or suspending your account. Skype, or Microsoft, will not be liable for payment services provided by third parties or any actions taken under the third party’s terms and conditions. Skype makes no guarantees, representations or warranties that the send and receive money feature will be available or continue to be available.
+4. FEEDBACK
+You may provide content, comments, feedback, suggestions, information, or materials to Skype in connection with the program (“feedback”). By providing feedback, you are irrevocably granting Skype and its affiliated companies the right to use, modify, distribute, and otherwise commercialize the feedback in any way and for any purpose. You also give to third parties, without charge, any patent rights needed for their products, technologies, and services to use or interface with any specific parts of a Skype or Microsoft software or service that includes the feedback. You will not provide feedback that is subject to a license that requires Skype or its affiliates to license its software or documentation to third parties because your feedback is included in them. The rights under this section are granted under all applicable intellectual property rights you own or control and survive termination of this agreement. No compensation will be paid with respect to the use of your feedback. Skype is under no obligation to post or use any feedback. By providing feedback, you warrant that you own or otherwise control all of the rights to your feedback and that your feedback is not subject to any rights of a third party.
+5. COMMUNICATIONS WITH YOU
+When there’s something we need to tell you about the program, including a response to any feedback you’ve provided, we’ll send you program notifications. We may contact you about the program in a variety of ways, such as email, Skype chat notifications, Skype chat messages, Skype Bot messages, or SMS. Data or messaging rates may apply when receiving notifications via SMS. Program notifications may include:
+Questions seeking additional information on issues that you report during your participation in the program;
+Information about new beta opportunities, such as builds and apps, available to you in the program;
+Surveys to get info about your experience or to gauge your interest and qualifications for future beta opportunities
+Updates on program news and changes; and
+Information about special incentives you may receive through your participation in the program.
+You can opt out of these program notifications from Skype by unenrolling from the program.
+Depending on the settings in your Microsoft account profile, you may also receive promotional email, SMS messages, telephone calls and postal mail from Skype or Microsoft. You can always choose whether you wish to receive promotional communications in your account profile.
+6. SOFTWARE
+a.
+Use Rights.
+Subject to these terms, you may install and use any number of copies of the solely for testing and evaluation purposes and to provide feedback to Skype
+b.
+Scope of Rights.
+The pre-release technologies are the copyrighted work of Microsoft and are licensed to you, not sold. Skype and Microsoft reserve all rights (such as rights under intellectual property laws) not expressly granted in this agreement. Unless applicable law gives you more rights despite this limitation, you will not (and have no right to):
+i.
+disclose the results of any benchmark tests to any third party without Skype’s prior written approval;
+ii.
+work around any technical limitations that only allow you to use the pre-release technologies in certain ways;
+iii.
+reverse engineer, decompile, or dissemble the software, or attempt to do so, except and only to the extent permitted by licensing terms governing the use of open-source components that may be included with the software;
+iv.
+publish, copy, rent, lease, transfer or lend the pre-release technologies;
+v.
+remove, minimize, block, or modify any notices of Microsoft, Skype or their suppliers in the pre-release technologies;
+vi.
+use the pre-release technologies in any way that is against the law or to create or propagate malware;
+vii.
+rent, lease or lend the pre-release technologies; or transfer or assign the pre-release technologies or this agreement to any third party;
+viii.
+use features of the pre-release technologies in any way that could interfere with anyone else’s use of them, or to try to gain access to any service, data, account or network, in an unauthorized manner;
+ix.
+use the pre-release in any manner that could damage, disable, overburden, or impair any Skype or Microsoft server, or the network(s) connected to any Skype or Microsoft server.
+7. THIRD PARTY APPLICATIONS, SERVICES AND SOFTWARE
+a.
+The pre-release technologies may include third party applications or software that are licensed to you under this agreement or under their own terms. License terms, notices and acknowledgments, if any, for the third-party applications may be accessible in an accompanying notices file. The pre-release technologies may contain third party copyrighted software licensed under open source licenses with source code availability obligations. Copies of those licenses are included in the third-party notices file or other accompanying notices file. You may obtain the complete corresponding source code from Skype if and as required under the relevant open source license by sending a money order or check for $5.00 to: Source Code Compliance Team, Microsoft Corporation, 1 Microsoft Way, Redmond, WA 98052, USA. Please write "third party source code for Skype" in the memo line of your payment. You may also find a copy of the source at
+http://aka.ms/getsource
+.
+b.
+Using Third-Party Apps and Services. The pre-release technologies may allow you to access or acquire products, services, websites, links, content, material, games or applications from third parties (companies or people who aren’t Microsoft) ("Third-Party Apps and Services"). The Third-Party Apps and Services may present you with a privacy policy or require you to accept additional terms of use before you can install or use the Third-Party App or Service. You should review any additional terms and privacy policies before acquiring or using any Third-Party Apps and Services. Any additional terms do not modify any of these Terms. You are responsible for your dealings with third parties. Neither Skype nor Microsoft licenses any intellectual property to you as part of any Third-Party Apps and Services and is not responsible for information provided by third parties.
+8. CODE OF CONDUCT
+a.
+By agreeing to these Terms, you’re agreeing that, when using the pre-release technologies, you will follow these rules:
+i. Don’t do anything illegal.
+ii. Don’t engage in any activity that exploits, harms, or threatens to harm children.
+iii. Don’t send spam. Spam is unwanted or unsolicited bulk email, postings, contact requests, SMS (text messages), or instant messages.
+iv. Don’t publicly display or use the Services to share inappropriate content or material (involving, for example, nudity, bestiality, pornography, offensive language, graphic violence, or criminal activity).
+v. Don’t engage in activity that is fraudulent, false or misleading (e.g., asking for money under false pretenses, impersonating someone else, manipulating the Services to increase play count, or affect rankings, ratings, or comments).
+vi. Don’t circumvent any restrictions on access to or availability of the Services.
+vii. Don’t engage in activity that is harmful to you, the Services, or others (e.g., transmitting viruses, stalking, posting terrorist content, communicating hate speech, or advocating violence against others).
+viii. Don’t infringe upon the rights of others (e.g., unauthorized sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps, or photographs).
+ix. Don’t engage in activity that violates the privacy of others.
+x. Don’t help others break these rules.
+b.
+Enforcement. If you violate these terms, we may stop providing the pre-release technologies to or we may close your Microsoft account. We may also block delivery of a communication (like email, file sharing or instant message) in an effort to enforce these terms or we may remove or refuse to publish your content for any reason. When investigating alleged violations of these terms, Skype reserves the right to review your content in order to resolve the issue. However, we cannot monitor the entire services and make no attempt to do so.
+9. ENDING THE PROGRAM
+You may terminate your participation in the program at any time by uninstalling and deleting all copies of any pre-release technologies provided in connection with the program. Skype reserves the right to terminate your access to any or all of the pre-release technologies or the program any time, without notice, for any reason whatsoever. You may not continue to access or use the pre-release technologies and program materials after termination of the program, and you must delete copies of the pre-released software provided in connection with the program. Skype may continue to use any data collected prior to termination.
+10. DISCLAIMER OF WARRANTIES
+SKYPE AND ITS RESPECTIVE SUPPLIERS PROVIDE THE PRE-RELEASE TECHNOLOGIES “AS IS,” “WITH ALL FAULTS,” AND “AS AVAILABLE.” YOU BEAR THE RISK OF USING THEM. SKYPE GIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS. YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, SKYPE EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+SKYPE DOES NOT CONTROL, REVIEW, REVISE, ENDORSE, OR ACCEPT RESPONSIBILITY FOR ANY THIRD PARTY CONTENT, INFORMATION, MESSAGES, MATERIALS, OR PROJECTS ACCESSIBLE FROM OR LINKED THROUGH THE PROGRAM, AND, EXCEPT AS WARRANTED IN A SEPARATE AGREEMENT, SKYPE MAKES NO REPRESENTATIONS OR WARRANTIES WHATSOEVER ABOUT AND SHALL NOT BE RESPONSIBLE FOR ANY OF THE FOREGOING. ANY DEALINGS YOU MAY HAVE WITH SUCH THIRD PARTIES ARE AT YOUR OWN RISK.
+IN NO EVENT SHALL SKYPE OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA, OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE PROGRAM, CONTENT, PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR INFORMATION AVAILABLE FROM THE PROGRAM.
+If you have any basis for recovering damages despite the preceding disclaimer of warranty, you can recover from Skype and its suppliers only direct damages up to U.S. $5.00. You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages. This limitation applies to:
+(a) anything related to the pre-release technologies, content (including code) on third party Internet sites, or third party applications, and
+(b) claims for breach of contract, breach of warranty, guarantee, or condition, strict liability, negligence, or other tort; or any other claim; in each case to the extent permitted by applicable law.
+It also applies even if Skype knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your state, province, or country may not allow the exclusion or limitation of incidental, consequential or other damages.
+11. NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to our designated agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE. See Notice and Procedure for Making Claims of Copyright Infringement at
+http://www.microsoft.com/info/cpyrtInfrg.htm
+.
+12. BINDING ARBITRATION AND CLASS ACTION WAIVER IF YOU LIVE IN THE UNITED STATES
+This section applies to any dispute EXCEPT DISPUTES RELATING TO THE ENFORCEMENT OR VALIDITY OF YOUR, SKYPE’S, OR EITHER OF OUR LICENSORS’ INTELLECTUAL PROPERTY RIGHTS. The term “dispute” means any dispute, action, or other controversy between you and Skype concerning the program (including their price) or this agreement, whether in contract, warranty, tort, statute, regulation, ordinance, or any other legal or equitable basis. “Dispute” will be given the broadest possible meaning allowable under law.
+a.
+Notice of Dispute.
+In the event of a dispute, you or Skype must give the other a Notice of Dispute, which is a written statement of the name, address, and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested. You must send any Notice of Dispute by U.S. Mail to Microsoft Corporation, ATTN: LCA ARBITRATION, One Microsoft Way, Redmond, WA 98052-6399, U.S.A. A form is available at
+http://go.microsoft.com/fwlink/?LinkId=245499
+. Skype will send any Notice of Dispute to you by U.S. Mail to your address if we have it, or otherwise to your email address. You and Skype will attempt to resolve any dispute through informal negotiation within 60 days from the date the Notice of Dispute is sent. After 60 days, you or Skype may commence arbitration.
+b.
+Small claims court.
+You may also bring any dispute in small claims court in your county of residence (or if a business, your principal place of business) or King County, Washington, U.S.A., if the dispute meets all requirements to be heard in the small claims court. You may sue in small claims court whether or not you negotiated informally first.
+c.
+Binding arbitration.
+If you and Skype do not resolve any dispute by informal negotiation or in small claims court, any other effort to resolve the dispute will be conducted exclusively by individual binding arbitration governed by the Federal Arbitration Act (“FAA”). Class arbitrations are not permitted. You are giving up the right to sue in court before a judge or jury (or participate in court as a party or class member). Instead, all disputes will be resolved before a neutral arbitrator, whose decision will be final except for a limited right of appeal under the FAA. Any court with jurisdiction over the parties may enforce the arbitrator’s award.
+d.
+Class action waiver.
+Any proceedings to resolve any dispute in any forum will be conducted solely on an individual basis. Neither you nor Skype will seek to have any dispute heard as a class action, private attorney general action, or in any other proceeding in which either party acts or proposes to act in a representative capacity. No arbitration or other proceeding will be combined with another without the prior written consent of all parties to all affected arbitrations or proceedings.
+e.
+Arbitration procedure.
+For US consumers only, any arbitration will be conducted by the American Arbitration Association (the “AAA”) under its Commercial Arbitration Rules (or, if you are an individual and use the Program for personal or household use, or if the value of the dispute is $75,000 USD or less whether or not you are an individual or how you use the Program, its Consumer Arbitration Rules). For more information, see www.adr.org or call 1-800-778-7879. To commence arbitration, submit the form available at
+http://go.microsoft.com/fwlink/?linkid=245497
+to the AAA. You agree to commence arbitration only in your county of residence (or, if a business, your principal place of business) or in King County, Washington, U.S.A. Skype agrees to commence arbitration only in your county of residence (or, if a business, your principal place of business). You may request a telephonic or in-person hearing by following the AAA rules. In a dispute involving $25,000 USD or less, any hearing will be telephonic unless the arbitrator finds good cause to hold an in-person hearing instead. The arbitrator may award the same damages to you individually as a court could. The arbitrator may award declaratory or injunctive relief only to you individually, and only to the extent required to satisfy your individual claim.
+f.
+Arbitration fees and payments.
+i.
+Disputes involving $75,000 USD or less.
+Skype will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and expenses. If you reject Skype’s last written settlement offer made before the arbitrator was appointed (“Skype’s last written offer”), your dispute goes all the way to an arbitrator’s decision (called an “award”), and the arbitrator awards you more than Skype’s last written offer, Skype will: (i) pay the greater of the award or $1,000 USD; (ii) pay your reasonable attorney’s fees, if any; and (iii) reimburse any expenses (including expert witness fees and costs) that your attorney reasonably accrues for investigating, preparing, and pursuing your claim in arbitration. The arbitrator will determine the amount of fees, costs, and expenses unless you and Skype agree on them.
+ii.
+Disputes involving more than $75,000 USD.
+The AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s fees and expenses.
+iii.
+Disputes involving any amount.
+In any arbitration you commence, Skype will seek its AAA or arbitrator’s fees and expenses, or your filing fees it reimbursed, only if the arbitrator finds the arbitration frivolous or brought for an improper purpose. In any arbitration Skype commences, Skype will pay all filing, AAA, and arbitrator’s fees and expenses. Skype will not seek its attorney’s fees or expenses from you in any arbitration. Fees and expenses are not counted in determining how much a dispute involves.
+iv.
+Claims or disputes must be filed within one year.
+To the extent permitted by law, any claim or dispute to which section 10 applies must be filed within one year in small claims court (section 10 b), in arbitration (section 10c), or in court, if section 10 permits the dispute to be filed in court instead of arbitration. The one-year period begins when the claim or dispute first could be filed. If such a claim or dispute is not filed within one year, it is permanently barred.
+v.
+Severability.
+If the class action waiver in section 10d is found to be illegal or unenforceable as to all or some parts of a dispute, then section 10 will not apply to those parts. Instead, those parts will be severed and proceed in a court of law, with the remaining parts proceeding in arbitration. If any other provision of section 10 is found to be illegal or unenforceable, that provision will be severed with the remainder of section 10 remaining in full force and effect.
+vi.
+Conflict with AAA rules.
+This agreement governs to the extent it conflicts with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules.
+g.
+Applicable Law.
+The laws of the state or country/region where you live govern all claims and disputes concerning the program or this agreement, including breach of contract claims and claims under state consumer protection laws, unfair competition laws, implied warranty laws, for unjust enrichment, and in tort, regardless of conflict of law principles, except that the FAA governs all provisions relating to arbitration. If you acquired the program in any other country/region, the laws of that country/region apply. This agreement describes certain legal rights. You may have other rights, including consumer rights, under the laws of your state or country/region. This agreement does not change those other rights if the laws of your state or country/region do not permit it to do so.
+13. LEGAL EFFECT
+This agreement describes certain legal rights. You may have other rights under the laws of your country. You may also have rights with respect to the party from whom you acquired the pre-release technologies. This agreement does not change your rights under the laws of your country if the laws of your country do no permit it to do so.
+14. VIDEO STANDARDS
+The pre-release technologies may include H.264/AVC, VC-1, and MPEG-4 Part 2, and MPEG-2 visual compression technology. If the software includes those visual compression technologies, MPEG LA, L.L.C. requires this notice: THIS PRODUCT IS LICENSED UNDER THE AVC, THE VC-1, THE MPEG-4 PART 2 VISUAL, AND THE MPEG-2 VIDEO PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) AND/OR (ii) DECODE AVC, VC-1, MPEG-4 PART 2 AND MPEG-2 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C SEE
+WWW.MPEGLA.COM
+.
+15. EXPORTING
+You must comply with all domestic and international export laws and regulations that apply to the pre-release technologies which include restrictions on destinations, end users, and end use. For further information, visit
+http://microsoft.com/exporting
+.
+16. ENTIRE AGREEMENT
+This agreement, and any other terms Microsoft may provide for supplements, updates, or third-party applications, is the entire agreement for the pre-release technologies.

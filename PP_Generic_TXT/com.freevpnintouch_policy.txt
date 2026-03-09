@@ -1,0 +1,171 @@
+Privacy Policy – VPN for Windows, Mac, iOS and Android
+Go to Betternet homepage
+Privacy Policy
+Terms of Service
+SECTIONS
+What Information Do We Collect About You?
+How Do We Use Your Information?
+Who Do We Share Your Information With and Why?
+Use of Advertising Services With Free VPN Products
+Security
+International Data Transfers
+Data Retention
+Your Rights
+Your California Privacy Rights
+Technology Licensing
+Age Restrictions
+Privacy Policy Updates
+Contact Us
+Effective date: October 14, 2022
+Betternet Privacy Introduction
+At Betternet, we believe it’s important that everyone, regardless of their situation, can obtain secure and private access to the internet. We always aim to provide this access without compromising the privacy of our customers. Betternet is a division of Intersections, LLC or Pango GmbH, d/ba/ Pango Group (“Pango”, “we”, “us”, or “our”).
+This Privacy Policy describes Pango’s privacy practices across all of our products, services, apps, and websites that link to this policy (we refer to these collectively as our “services”).
+See the Contact Us section below for more information about Pango and contact details.
+Business Customers Some of Pango’s services are offered to businesses. For those services, our customer is a business or other organization who may authorize individual end users to use the services that it has purchased from us. Where an organization is our customer, it may maintain accounts with Pango through which it and its users may submit information (“Customer Data”). That organization typically controls those accounts and may receive some Customer Data in order to maintain the account. In this case, Pango is generally a processor of Customer Data and the organization is the controller. See the ‘How do we share information’ section below for additional details.
+1. What Information Do We Collect About You?
+This section describes the various types of personal data (aka ‘personal information’) we collect from and about you. This information is not collected in all situations, but only in specific product-specific situations. For example, as noted in our VPN Products Privacy Notice, our VPN services only collect a limited amount of personal data, and specifies that the collection of any websites or apps visited during a VPN session are not connected to any individual user, and therefore can not be used for advertising or marketing purposes.
+1.1. Information You Provide to Us
+Account Information. Some services require or allow you to create an account before you can access them. As part of registering for an account, we may collect information such as your name, username, email address, and password.
+Billing and Payment Information. In order to purchase a service, you may need to provide us with details such as billing name, billing contact details (street addresses, email addresses), and payment instrument details.
+Identity or Account Verification Information. Some services, such as Identity Defense, may require you to verify your identity as part of creating an account to access them. Information collected during this process may include;
+Date of Birth
+Social Security Number
+Questions and answers presented by our verification partners, which may include information about your prior residences or accounts. Pango does not receive copies or records associated with these partners’ questions and answers.
+Communications and Submissions. You may choose to provide us with information when you communicate with us (e.g. via email, phone, or chat for support or to inquire about our services), including when you fill out an online form, respond to surveys, provide feedback, post comments to our website, participate in promotions, or submit information through our services.
+1.2. Information collected when you use our services
+Usage information. We collect information about how you interact with our services, including when you visit and use our websites or apps, including which Pango web pages or app features are used , and when and for how long you use our services. We may use cookies and/or other technologies to collect this information. See below for more information.
+Device information. We collect information from and about the device you use to access our services, including about the browsers and Pango apps you use to access our services. For example, we may collect device or mobile advertising identifiers, browser types, device types and settings, operating system versions, mobile, wireless, and other network information (such as internet service provider name, carrier name and signal strength), and application version numbers.We may use cookies and other technologies to collect this information. See below for more information.
+Diagnostic information. We may collect information about the nature of the requests that you make to our servers,such as what is being requested, information about the device and app used to make the request, timestamps, and referring URLs. Location information. Unless otherwise expressly stated or with your consent, we do not collect your location information based on your device’s GPS or other device sensor data. However, we may collect your approximate location by calculating an imprecise latitude and longitude based on your IP address to provide you with better service (e.g. to connect you to the nearest and fastest VPN server).
+VPN-Specific Information. Our VPN products do not log any information that associates your account credentials or identity with your VPN session activity. We do not maintain any records that show what websites you were browsing or apps accessed through a VPN connection. However, we will;
+Record the amount of bandwidth used in a VPN session
+Identify the locations of the VPN servers utilized
+Collect similar diagnostic information as referenced above.
+Ask you to rate your connection and provide some more detailed survey information if you are not satisfied with the service. This information is not tied to a specific user.
+We may also assign your device a ‘hash’, which is a random ID generated when you first launch one of our VPN apps. Device hashes are not linked to VPN browsing activity or user identity, but may be used to measure individual user activity.
+See the VPN Products Privacy Notice for more information.
+1.3. Information Provided to Us by Third Parties
+If you are invited to use a Pango service, the person who invited you may submit your personal data, such as your email address or other contact information.
+Third Party Partners or Services. In order to facilitate certain products, such as with identity or credit monitoring, we may receive information from third parties such as credit bureaus.
+Third Party Accounts. Some services may allow you to register an account using a third party account (such as a Google or Microsoft account). If you do so, that third party may send us some information about you that they have. You may be able to control what information they send us via your privacy settings for that third party account.
+Threat Information. We receive information from reputable members of the security industry who provide information to help us to provide, develop, test, and improve our services (for example, lists of malicious URLs, spam blacklists, phone number blacklists, and sample malware). Some of this information may contain personal data on an incidental basis.
+Business Customers. Organizations that use our business and enterprise products may submit personal data to facilitate account management and invite individuals to use those products.
+2. How Do We Use Your Information?
+We use the information we collect for various purposes described below. For visitors from the European Economic Area (EEA) or U.K., please also note our lawful basis for each processing activity below;
+To provide, maintain, troubleshoot, and support our services. We use your information for this purpose on the basis that it is required to fulfill our contractual obligations to you. Examples include;
+For our VPN products, using information about how much bandwidth you use and how long you use our services in order to provide the services in accordance with a plan to which you have subscribed;
+For our digital threat platform; using threat and device information to determine whether certain items pose a potential security threat; and
+For our identity or credit monitoring services, providing you with alerts and reports as received from our Partners and Service Providers;
+Generally to ensure the proper functioning of our services.
+For billing and payment purposes. We use your information in order to perform billing administration activities and process payments, which are required to fulfill our contractual obligations.
+To communicate with users and prospective users. We use your information to communicate with you, including by responding to your requests, and sending you information and updates about our services. We may do this in order to fulfill our contract with you, because you consented to the communication, or because we have a legitimate interest in providing you with information about our services.
+To improve our services. We want to offer you the best services and user experiences we can, so we have a legitimate interest in continually improving and optimizing our services. To do so, we use your information to understand how users interact with our services. Examples: we analyze certain usage, device, and diagnostic information to understand aggregated usage trends and user engagement with our services (and, for example, invest in technical infrastructure to better serve regions with increasing user demand); we may use device and threat information to conduct spam, threat, and other scientific research to improve our threat detection capabilities; we review customer feedback to understand what we could be doing better.
+To develop new services.We have a legitimate interest in using your information to plan for and develop new services. For example, we may use customer feedback to understand what new services users may want.
+To market and advertise our services. We may use your information to provide, measure, personalize, and enhance our advertising and marketing based on our legitimate interest in offering you services that may be of interest. Examples: we may use information such as who or what referred you to our services to understand how effective our advertising is; we may use information to administer promotional activities such as sweepstakes and referral programs. Note that our VPN products do not use your VPN browsing activity for these purposes and we do not maintain any records that show what you were browsing or accessing through a VPN connection.
+To prevent harm or liability. We may use information for security purposes (such as to investigate security issues or to monitor and prevent fraud) and to prevent abuse. We may do this to comply with our legal obligations, to protect an individual’s vital interests, or because we have a legitimate interest in preventing harm or liability to Pango and our users. For example, we may use account, usage, and device information to determine if an entity is engaging in abusive or unauthorized activity in connection with our services.
+For legal compliance. We may use your information as required by applicable law, legal process, or regulation. We may also be compelled by a contract or court to provide certain information necessary to our business partners in order to fulfill the terms of a business agreement. To learn about our practices regarding sharing your information with third parties for legal compliance purposes, see Section 3.1 below. We also use your information to enforce our legal rights and resolve disputes.
+3. Who Do We Share Your Information With and Why?
+3.1. In General
+We may disclose your information in the following circumstances:
+In accordance with your instructions or consent. For example, some services may allow you to register an account using a third party account (such as a Google or Microsoft account). If you choose to do so, we will share information with the third party account provider.
+To your business organization (for our business services). If a business customer is providing you with access to our services through a business account, others in that organization may be able to see and manage the information necessary to maintain your account and the personal contact information associated with it (such as an administrator). Please note the following details about information shared as a result of these relationships;
+Business organizations do not get access to, or receive any reports from, any network or Internet usage information related to your VPN activity.
+Business organizations do not receive any information our identity products provide to you, such as information associated with your credit report, credit alerts, or other identity-related information unless you provide them with express consent for any such use in each instance of their request.
+For collaborating with others on your behalf. Some services may provide ways for different users to interact or collaborate with each other. Your information will be shared in connection with those activities if you choose to engage in them.
+Vendors and service providers. To help us provide some aspects of our services, we work with trusted third parties and partners (including affiliated companies in the Pango). To protect your data, we enter into appropriate confidentiality and data processing terms with these third parties, review their security practices, and limit information sharing to the scope of what they are helping us with. Examples of activities that third parties help us with include:
+processing customer payments
+providing analytics about our services
+providing sales and customer support
+maintaining the infrastructure required to provide our services
+delivering our marketing and advertising content. However, please see below for more information about the advertising services that support our Free VPN Products.
+providing analytics about our services
+To corporate affiliates of Intersections LLC or Pango GmbH, including other companies within the Aura Group family of companies.
+To a new owner of Pango or any of our assets. If ownership or control of all or part of our services, assets, or business changes, we may transfer your information to the new owner.
+Aggregated or de-identified data. We may use and share aggregated data and data that is de-identified such that it no longer reveals the identity of an individual user for regulatory compliance, research and analysis, our own marketing and advertising activities and other legitimate business purposes.
+To comply with legal process and the law we may share your information if we are required to do so by applicable law; to comply with our legal obligations; to comply with legal process; and to respond to valid law enforcement requests relating to a criminal investigation, or alleged or suspected illegal activity that may expose Pango, you, or any of our other users to legal liability. If we share your information for these purposes, we limit the information shared to what is legally necessary, and challenge information requests that we believe are unlawful, overbroad, or otherwise invalid. To reiterate, our VPN products do not collect information about which websites you visit or apps you use, so this information is not accessible in a law enforcement request.
+To enforce our rights and prevent fraud and abuse.We may share limited amounts of your information to enforce and administer our agreements with customers and users, and to respond to claims asserted against Pango. We may also share your information in order to protect against fraud and abuse against Pango, our affiliates, users and others.
+3.2. Cookies and Other Tracking Technologies
+Pango uses various technologies in our services to help us collect website or app user information. These technologies include:
+Cookies. Cookies enable Pango or third parties that we allow to set cookies on your device to recognize visitors to our websites. For more information on how we use cookies, please review the cookie notice associated with each product website indicated below. We use cookies:
+To provide our services. Some cookies are essential for the proper operation of our services. For example, cookies allow us to authenticate who you are and whether you’re authorized to access a resource.
+To store your preferences. Cookies can store your preferences, such as language preferences or whether to pre-fill your username on sign in forms. We may also use them to optimize the content that we show to you.
+For analytics. Cookies are used to inform us how users interact with our services so we can, as a legitimate interest, improve how they work (such as what screens or webpages you access, and whether our advertising is effective).
+For security. Cookies can enable us and our payment processors to detect certain kinds of fraud.
+For Pango’s advertising-related purposes. We advertise our services online with the help of third parties who show ads and marketing about us on sites around the internet.
+Pixel Tags / Page Tags / Web Beacons / Tracking Links. These tools allow us to determine if you perform a specific action on a web page or email message. When you access a page, ad, or email, or click a link, these items let us know that you have accessed that page, opened an email, or clicked a link. They may also indicate your Internet Protocol (IP) address, which enables Pango to determine your approximate geographic location as assigned by your Internet Service Provider.
+Software Development Kits (SDKs). This mobile app software is provided by our business partners that let our mobile apps interact with the services those partners provide. See below for more information about how we use SDKs with our Free VPN products to provide advertising services.
+Your Choices With Our Use of Cookies
+You have the ability to manage your cookie preferences in your web browser settings, including deleting cookies and blocking cookies from being set on those browsers or devices. Visit the “help” section of your browser to understand what controls it gives you over cookies. Note that deleting or blocking certain cookies could adversely impact the proper operation of our services.
+Industry Advertising Choices: For information on how to opt out of personalized or interest-based advertising, you can visit the following pages:
+U.S: Digital Advertising Alliance opt out page
+EU or UK: Your Online Choices
+For visitors to Pango.co, we currently do not use third party advertising or cookies that enable preferences.
+For more information on each Pango product website’s use of cookies, visit the privacy or cookie-specific notices on their respective websites: Hotspot Shield, BetterNet, VPN in Touch, UltraVPN, Intrusta, IdentityDefense, PassWatch, Roboshield, and PrivacyMate.
+4. Use of Advertising Services With Free VPN Products
+For users of our free VPN products, namely Hotspot Shield, BetterNet and VPN360, we may serve ads through the use of third party advertising services indicated below. As previously noted, neither Pango nor any third party advertising service has access to the VPN browsing information, such as the websites you visit or apps you use while in a VPN session. However, as with any online advertising service, the entities will have access to the information associated with the ad delivery such as which website or app the ad was delivered to, and the device-specific information listed below.
+In order to display ads in our apps, we may utilize third party software development kits (SDKs), which consists of software code provided by a third party and embedded into our apps. These SDKs may collect the following information from your device or use;
+Device or mobile advertising identifiers (controlled by your mobile operating system)
+Internet Protocol (IP) Address, which may reveal your approximate geographic location as determined by your carrier or ISP. However, when using the VPN service, this may replace your actual location with an alternative geographic location.
+Device-specific information such as make, model, OS version, language, time zone and other information.
+The name of the app or website serving the ad.
+As some of the ads may be personalized based on your mobile advertising identifier or IP address, you may see an AdChoices icon on an ad. You can click this icon to learn more about the ad network that provided the ad, its privacy policy, and your choices regarding opting out from any personalized advertising. If you opt out from personalized advertising, you may still see non-personalized ads. While we request you not to use ad blockers to prevent the display of ads because that is how we support our free services, our services are able to continue functioning if you do use ad blockers.
+We use the following advertising services to provide ads with our free VPN products:
+Company
+Privacy Policy or Opt-Out
+Unity Ads
+https://unity3d.com/legal/privacy-policy
+Ironsource
+https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Digital Turbine (f/k/a Adcolony)
+https://www.adcolony.com/privacy-policy/
+InMobi
+https://www.inmobi.com/page/opt-out/
+Kochava
+https://www.kochava.com/opt-out/
+In addition, you may opt-out of interest-based mobile advertising by utilizing the Digital Advertising Alliance (DAA) AppChoices app.
+We use the following advertising services to provide ads with our free VPN products:
+5. Security
+Pango employs a range of administrative, organizational, technical, and physical safeguards designed to protect your data against unauthorized access, loss, or modification. Access to your Account Information and Services Information is restricted to our employees who require such access to perform their job functions. While our controls are strong, no data security measures can guarantee 100% protection.
+6. International Data Transfers
+Pango may transfer your personal data to countries other than the one in which you reside. We do this to facilitate our operations, and transferees include other Pango companies, service providers, and partners. Laws in other countries may be different to those that apply where you reside. For example, personal data collected within the U.K., Switzerland or the European Economic Area (EEA) may be transferred and processed in the United States for purposes described in this policy. However, we put in place appropriate safeguards that help to ensure that such data receives an adequate level of protection, which typically includes Pango and corporate recipients executing the Standard Contractual Clauses (aka ‘Model Contracts’) adopted by the European Commission or UK for such transfers to the U.S. You may contact us if you would like more information about such safeguards.
+If you change your country of residence, the Pango company responsible for your data may change accordingly, and your data may be transferred to that other company.
+For users of our VPN products, if you are a UK or EEA resident and you choose to use our software to route your Internet traffic through servers in countries not deemed ‘adequate’ by the UK or EEA, then you acknowledge that such transfers are executed at your direction and with your unambiguous consent.
+7. Data Retention
+With respect to our VPN products, Pango does not collect or retain data about your browsing activity while you are connected to the VPN Services. Pango generally retains your personal information for as long as is needed to provide the services to you, or for as long as you have an account or subscription with us. We may also retain personal information if required by law, or for our legitimate interests, such as abuse detection and prevention, and defending ourselves from legal claims. Residual copies of personal data may be stored in backup systems for a limited period as a security measure to protect against data loss.
+8. Your Rights
+Depending on your country of residence, you may have certain legal rights in relation to your personal data that we maintain. Subject to exceptions and limitations provided by applicable law, these may include the right to:
+access and receive a copy of your personal data;
+correct your personal data;
+restrict the processing of your personal data;
+object at any time to the processing of your personal data;
+have your personal data erased;
+data portability;
+withdraw any consent you previously gave to the processing of your data (such as opting out to marketing communications);
+lodge a complaint with a data protection authority;
+request that we provide you with the categories of personal data we collect, disclose or sell about you; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal data; and the categories of third parties with whom we share personal data. This information may also be provided in this Privacy Policy.
+You may be able to exercise some of these rights by using the settings and tools provided in our services. For example, you may be able to update your user account details via the relevant account settings screen of our apps. You may also be able to opt out from receiving marketing communications from us by clicking an “opt out” or “unsubscribe” link in such communications.
+Some mobile and web browsers transmit “do-not-track” or “opt-out preference” signals. We currently do not take action in response to these signals. Otherwise, if you wish to exercise any of these rights, you may contact us using the details in the “Contact Us” section below. As permitted by law, we may ask you to verify your identity before taking further action on your request. You may also be permitted to designate an authorized agent to submit certain requests on your behalf. If you do so, you must give the authorized agent written permission to make such requests, or a power of attorney. We may also follow up with you to verify your identity before processing the authorized agent’s request.
+9. Your California Privacy Rights
+The above information includes the categories of personal information Pango collects, processes and shares with service providers and other businesses. If you would like to exercise your rights to receive the specific pieces of information, or other rights indicated above applicable to you, please refer to the ‘Contact Us’ section below.
+Pango does not ‘sell’ personal information for our own monetary benefit. However, as the CCPA defines ‘sell’ broadly, some of the advertising services that support our website, marketing efforts, and mobile applications use third party advertising services that may be deemed a ‘sale’ under California Law. Please see the list of cookies or cookie notices listed above, or app-specific advertising services listed above to indicate your continued preferences to receive such personalized ads.
+10. Technology Licensing
+Pango occasionally licenses its technology to third party partners who may integrate it with applications developed and offered by those partners. Our partners, and not Pango, are responsible for those applications and for determining what data is collected by those applications and how it is processed. Please contact the relevant partner and refer to their Privacy Policy to learn more about how those applications process your personal data.
+11. Age Restrictions
+Our services are not intended for and may not be used by minors. In this context, minors are individuals under the age of 16 except for our identity and credit monitoring services, which are restricted to those under the age of 18. Pango does not knowingly collect personal data from minors or allow them to use our services. If we discover that we have collected personal data from a minor, we may delete such data without notice. Please note that the legal terms under which we make certain services available may require users to be older than 16 years of age.
+12. Privacy Policy Updates
+Pango may update this Privacy Policy from time to time in accordance with this section for reasons such as changes in laws, industry standards, and business practices. Pango will post updates to this page and update the “Last updated” date above. If we make updates that materially alter your privacy rights, we will also provide you with advance notice, such as via email or through the services. If you disagree with such an update to this policy, you may cancel your services account. If you do not cancel your account before the date the update becomes effective, your continued use of our services will be subject to the updated Privacy Policy.
+13. Contact Us
+We expect this Privacy Policy to evolve over time and welcome feedback from our users about our privacy practices. If you would like to exercise your rights, have any questions or complaints about our privacy practices, you can contact us using the following details:
+Intersections, LLC d/b/a Pango Group (“Pango”)
+P.O. Box 222455, Chantilly, VA 20153-2455
+[email protected]
+Pango GmbH
+‍Hansmatt 32, 6370 Stans, Switzerland
+[email protected]
+For visitors from the UK or EEA, the GDPR gives you additional rights to contact our Data Protection Officer (DPO). The Aura Group has appointed Bird & Bird DPO Services SRL as a DPO for Pango and its services, and may be reached:
+by using the following email:
+[email protected]
+by mail at the following address: Bird & Bird DPO Services SRL, Avenue Louise 235 b 1, 1050 Brussels, Belgium
+© Betternet LLC Inc. 2023
+All Rights Reserved.
+Privacy Policy
+Terms of Service

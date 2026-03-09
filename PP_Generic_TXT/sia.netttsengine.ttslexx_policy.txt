@@ -1,0 +1,71 @@
+TTSLexx
+Search this site
+Skip to main content
+Skip to navigation
+TTSLexx
+Privacy Policy
+– The
+TTSLexx
+application does not require the user to provide any personal or confidential information.
+– It does not collect any information during the use of the application.
+– It does not send any data anywhere.
+A Bit of History.
+TTSLexx appeared on Google Play and soon became widely known for its untargeted use. Disabling the call recording announcement was discovered by 4PDA forum members under the nicknames seregga33 and samfednik. They were using my other "widely known in narrow circles" app for it. Since this app is not on Google Play and although the video appeared on YouTube, I knew nothing about it.
+Then about a month later someone discovered that TTSLexx could be used for the same purpose and, importantly, the Russian video on YouTube had subtitles. Almost the same day it was duplicated by bloggers from other countries, and the number of downloads per day was higher than in the previous six months. I couldn't help but pay attention to it. It was only at that moment that I discovered that my app was capable of doing this, even though I hadn't put any effort into it. That is to say, "it's itself".
+F
+requently
+A
+sked
+Q
+uestions
+.
+<>  "Why it is hiding? Why it is not keeped with all apps? Its not displayed in my phone after installed, why??"
+Because TTSLexx is a service and not a regular application. Speech Services by Google ex. Google text-to-speech by the way, too. Try to find it "with all apps".  Once installed, TTSLexx appears in your phone settings. Accessibility > Text to Speech > Preferred Engine. There you will be able to select it.
+<> "
+After installation of app the call recording option is removed..."
+Actually, the record button disappears after resetting Google Phone (it may appear later or have to be updated), and TTSLexx, since you use it not quite as intended, should be installed after resetting, updating and appearance of the button. Most importantly before you press it for the first time.
+<> "It's good but where does the recorded files get saved?"
+I am not in the business of developing the Google Phone app.  TTSLexx  didn't record  the files. You can visit the
+https://support.google.com/phoneapp/answer/9803950?hl=en
+As I understand it, without root - only Share with the file manager.
+<> "
+It's not working. Why?
+"
+TTSlexx, if you read the description, has nothing to do with the recording. Blocking notifications due to replacement of TTS at the first launch is a bug of Google Phone. Whether it works or not depends on the version of Google Phone, your smartphone model and its firmware. And there is nothing I can do about it.
+About Call Recording Pre-Announcement In Google Phone.
+Narender Singh, I am sure, has found the most correct explanation.
+www.techmesto.com/stop-call-recording-announcement-in-google-phone-app/
+As you can read in the description, TTSLexx really does not support output to an audio file.
+The very first time you run Google Phone, it seems to create, using text to speech, a file which is then played with every call.
+By erasing Google Phone data, you delete this file as well.
+The new one, if TTSLexx is used, is created empty and cannot be played.
+Therefore, if you hear a warning on the first call after the reset, then this is only once.
+If the recording icon has disappeared, check your Google Phone version and, if necessary, upgrade to a recording-enabled version. You may have to make a few calls before the icon appears again.
+If the recording icon wasn't there before, TTSLexx won't help you.
+Recording may not be allowed in your country.
+After that you can delete TTSLexx and do not worry about the safety of your data.
+To explain that I don’t need it ("
+your data, credit card, passwords..."
+)  at all, I’m frankly bored.
+The rest was pretty funny, but I think the Google Phone developers will fix it somehow and TSLexx's "five minutes of fame" will expire.
+Of course you can try to reset the
+Google Phone
+again and disallow its updates.
+Perhaps this will work.
+But everything passes.
+About Safety.
+The warning about "personal data such as passwords and credit card numbers", Android shows when you select ANY text-to-speech service, excluding Google's. And for it, too, if there is no Google Play services on smart.
+TTSLexx  does n
+o
+t have permission from Android to access the Internet,
+so even if it gathers somehow (I wish I knew how) some data, how will it send it?
+Any programmer can check the downloaded apk file for such permissions.
+P.S.
+If you use
+TTSLexx
+to block call recording notifications, just uninstall it and forget about safety troubles. The next time you may need it after updating the data of the Google Phone app (changing the language, resetting the smartphone, or something else).  You may never need it if the developers fix future versions of the Google Phone app.
+sia
+Google Sites
+Report abuse
+Google Sites
+Report abuse

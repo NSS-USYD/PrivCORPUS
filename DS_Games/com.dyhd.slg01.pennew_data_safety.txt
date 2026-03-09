@@ -1,0 +1,15 @@
+<d_prac>          No data shared with third parties         
+<d_detl>          The developer says that this app doesn't share user data with other companies or organisations.                     Learn more                    about how developers declare sharing.         
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Personal info                
+<d_attr>               User IDs              
+<d_valu>             App functionality, Account management            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             App functionality, Account management            
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             You can request that data be deleted            
+<s_attr>             The developer provides a way for you to request that your data be deleted            

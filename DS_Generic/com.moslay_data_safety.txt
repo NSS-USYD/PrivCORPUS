@@ -1,0 +1,26 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Location                
+<d_attr>               Precise location              
+<d_valu>             App functionality, Analytics, Advertising or marketing            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Analytics            
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Location                
+<d_attr>               Precise location                          · Optional            
+<d_valu>             App functionality, Analytics, Developer communications, Personalisation, Account management            
+<d_cata>                 Personal info                
+<d_attr>               Email address                          · Optional            
+<d_valu>             App functionality, Account management            
+<d_attr>               User IDs                          · Optional            
+<d_valu>             App functionality            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs                          · Optional            
+<d_valu>             Analytics            
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             You can request that data be deleted            
+<s_attr>             The developer provides a way for you to request that your data be deleted            

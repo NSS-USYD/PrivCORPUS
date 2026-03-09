@@ -1,0 +1,16 @@
+Total Commander - LAN plugin privacy policy
+Privacy Policy  - LAN plugin for Total Commander
+This app connects to Windows or Samba shares via SMB (server mesage blocks).
+It's in the responsibility of the user what data he uploads to these shares
+This plugin will store your user name and/or password for the shares only if
+you enter them in the settings of the connection.
+This plugin does not collect or share any personal information.
+This plugin does not show any ads.
+This plugin does not use any social networking functions.
+This plugin does not link to external web sites.
+This plugin does not allow in-app purchases.
+This plugin does not store or share your location.
+Ghisler Software GmbH
+Huehnerbuehlstr. 45
+Bolligen, CH-3065
+Switzerland

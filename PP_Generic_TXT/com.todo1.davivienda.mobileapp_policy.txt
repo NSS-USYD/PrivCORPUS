@@ -1,0 +1,792 @@
+POLÃTICA DE TRATAMIENTO DE DATOS PERSONALES - BANCO DAVIVIENDA S.A.
+BANCO DAVIVIENDA S.A.
+POLÃTICA DE TRATAMIENTO DE DATOS PERSONALES
+CAPÃTULO I
+ASPECTOS GENERALES
+1.1. INTRODUCCIÃ“N
+El artÃ­culo 15 de la ConstituciÃ³n PolÃ­tica consagra el derecho que tienen todas las personas a conocer,
+        actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o
+        archivos tanto de entidades pÃºblicas como privadas. AsÃ­ mismo, y de acuerdo con la Sentencia
+        C-748 de 2011 de la Corte Constitucional, este derecho comprende otras facultades como las de
+        autorizar el Tratamiento, incluir nuevos datos, excluirlos o suprimirlos de una base de datos o archivo.
+El Banco Davivienda S.A. (en adelante, Davivienda), identificado con el Nit 860.034.313 y con
+        domicilio principal en la ciudad de BogotÃ¡, es un establecimiento de crÃ©dito que en desarrollo de su
+        objeto social recolecta y administra informaciÃ³n personal. Por lo tanto, reconoce la importancia de
+        la seguridad, privacidad y confidencialidad de la informaciÃ³n personal de sus clientes, empleados,
+        candidatos, proveedores, accionistas, aliados y todos los demÃ¡s Titulares en que se ejerza el
+        tratamiento de Datos Personales por parte de Davivienda.
+Por tal motivo, en cumplimiento de las disposiciones constitucionales y legales (Ley 1266 de 2008 y
+        Ley 1581 de 2012), Davivienda adopta la presente
+PolÃ­tica de Tratamiento de Datos Personales
+(en adelante, la PolÃ­tica).
+Davivienda garantizarÃ¡ en todo momento el acceso a esta PolÃ­tica y colocarÃ¡ especial esfuerzo en la
+        atenciÃ³n completa y oportuna de las consultas y reclamos que puedan formular los distintos Titulares.
+1.2. NORMATIVIDAD
+A continuaciÃ³n, se listan a manera de referencia las principales normas vigentes en Colombia en
+        materia de protecciÃ³n de Datos Personales, con cuyo cumplimiento Davivienda estÃ¡ plenamente
+        comprometido y que han sido tomadas en cuenta para efectos del desarrollo de la presente PolÃ­tica:
+ArtÃ­culo 15 de la ConstituciÃ³n PolÃ­tica de Colombia
+Ley Estatutaria 1266 de 2008
+Ley 1273 de 2009
+Ley Estatutaria 1581 de 2012
+Decreto 1377 de 2013
+Decreto 886 de 2014
+Decreto 1074 de 2015
+TÃ­tulo V de la Circular Ãšnica de la Superintendencia de Industria y Comercio
+La Ley 1266 de 2008 estableciÃ³ un rÃ©gimen especial de protecciÃ³n de los Datos Personales
+        relacionado con el tratamiento de datos financieros, crediticios, comerciales, de servicios y los
+        provenientes de terceros paÃ­ses. â€œEl habeas data financieroâ€ se entiende como el derecho que
+        tiene todo individuo a conocer, actualizar y rectificar su informaciÃ³n personal comercial, crediticia,
+        y financiera contenida en centrales de informaciÃ³n pÃºblicas o privadas, que tienen como funciÃ³n
+        recopilar, tratar y circular esos datos con el fin de determinar el nivel de riesgo financiero de su
+        Titular. Esta Ley Especial considera como Titular de la informaciÃ³n tanto a las personas naturales
+        como jurÃ­dicas.
+Davivienda actÃºa en el marco de la Ley 1266 de 2008, â€œLey Especial de Habeas Dataâ€, como
+        Fuente y Usuaria de la InformaciÃ³n.
+La Ley 1581 de 2012 â€œRÃ©gimen General de ProtecciÃ³n de Datosâ€ estableciÃ³ el derecho de Habeas
+        Data, desarrollando los principios constitucionales bajo los cuales toda persona tiene derecho a
+        conocer, actualizar y rectificar la informaciÃ³n personal que repose en bases de datos..
+1.3. OBJETIVO
+La presente PolÃ­tica tiene como objeto proteger el derecho constitucional del Habeas Data que
+        tienen todas las personas para conocer, actualizar, y rectificar la informaciÃ³n que se haya recogido
+        y almacenado en las distintas bases de datos de Davivienda, y en virtud del cumplimiento de dicho
+        derecho solo recolecta y da tratamiento a Datos Personales, cuando asÃ­ haya sido autorizado
+        previamente por su Titular, implementando, para tal efecto, las medidas de seguridad necesarias
+        para proteger los Datos Personales.
+AsÃ­ mismo, detalla los lineamientos que se tienen en cuenta con el fin de proteger los Datos
+        Personales de los Titulares, las finalidades de tratamiento de la informaciÃ³n, el Ã¡rea responsable de
+        atender las quejas y reclamos, y los procedimientos que se deben agotar para conocer actualizar,
+        rectificar y suprimir la informaciÃ³n y los respectivos canales para que estos puedan ejercerlos.
+1.4. ALCANCE
+Davivienda, como Responsable, velarÃ¡ por la seguridad y calidad en el tratamiento de la
+        informaciÃ³n, y el cumplimiento del artÃ­culo 15 de la ConstituciÃ³n PolÃ­tica de Colombia, la normativa
+        vigente referente a la protecciÃ³n de Datos Personales, y en especial lo establecido en la Ley 1581
+        de 2012, los Decretos 1377 de 2013 y las demÃ¡s disposiciones que los modifiquen, adicionen o
+        complementen.
+Sin perjuicio del cumplimiento del deber de reserva bancaria y de la Ley 1266 de 2008 que
+        le corresponde a Davivienda, en su calidad de establecimiento de crÃ©dito, en esta PolÃ­tica se
+        describen los lineamientos que se llevarÃ¡n a cabo para proteger los Datos Personales de los
+        Titulares de la informaciÃ³n y realizar un debido tratamiento de estos.
+El tratamiento que se realice por parte de Davivienda se basarÃ¡ en la autorizaciÃ³n otorgada por el
+        Titular y tomarÃ¡ en cuenta las finalidades previa y expresamente informadas.
+AsÃ­ mismo, Davivienda, en desarrollo de su actividad y gestiÃ³n, y con el fin de brindar colaboraciÃ³n
+        empresarial entre las empresas del Grupo BolÃ­var, durante la ejecuciÃ³n de sus actividades podrÃ¡
+        efectuar el tratamiento de Datos Personales de forma conjunta con las entidades que pertenezcan
+        o llegaren a pertenecer a Davivienda, o a quien represente sus derechos u ostente en el futuro la
+        calidad de acreedor, cesionario, o cualquier otra, frente a los Titulares de la informaciÃ³n.
+Se entenderÃ¡n que son parte de Davivienda y las entidades que pertenezcan o puedan llegar a
+        pertenecer al Grupo BolÃ­var de acuerdo con la ley, sus filiales y/o subsidiarias, o las entidades
+        en las cuales estas, directa o indirectamente, tengan participaciÃ³n accionaria o sean asociados,
+        domiciliadas en Colombia y/o en el exterior.
+La presente PolÃ­tica estÃ¡ dirigida a nuestros clientes y usuarios, empleados, candidatos,
+        proveedores, aliados, accionistas y, en general, a nuestros grupos de interÃ©s, sobre los cuales
+        Davivienda realiza tratamiento de informaciÃ³n personal.
+Esta PolÃ­tica serÃ¡ aplicable a los Datos Personales que se encuentren bajo la administraciÃ³n de
+        Davivienda, o sean susceptibles de ser conocidos por esta en virtud de las relaciones comerciales
+        desarrolladas con las demÃ¡s entidades que hacen parte del Grupo Empresarial al cual pertenece,
+        de alianzas comerciales, de convenios o eventos publicitarios. En el primer caso Davivienda
+        actuarÃ¡ como Responsable; en los demÃ¡s casos podrÃ­a tener la calidad de Encargado o de
+        Responsable, dependiendo de si los recibe de un tercero o si ella misma los recaba.
+Esta polÃ­tica serÃ¡ aplicable cuando el tratamiento de los datos se efectÃºe en territorio colombiano,
+        asÃ­ como cuando el Responsable o el Encargado del tratamiento no resida en Colombia pero, en
+        virtud de normas internacionales o tratados, le sea aplicable la legislaciÃ³n colombiana.
+Davivienda adelantarÃ¡ las campaÃ±as pedagÃ³gicas y de capacitaciÃ³n requeridas, para que las
+        Ã¡reas conozcan la normatividad relacionada con protecciÃ³n de Datos Personales.
+1.5. DEFINICIONES
+Para el entendimiento y claridad de esta polÃ­tica por parte de los Titulares, se tendrÃ¡ en cuenta las
+        siguientes definiciones de la Ley General y de la Ley especial:
+AutorizaciÃ³n:
+Consentimiento previo, expreso e informado del Titular para llevar a cabo el
+        Tratamiento de Datos Personales.
+Base de Datos:
+Conjunto organizado de Datos Personales que sea objeto de Tratamiento,
+        tanto por entidades pÃºblicas como privadas; incluye aquellos depÃ³sitos de datos que constan
+        en documentos y que tienen la calidad de archivos.
+Dato personal:
+Cualquier informaciÃ³n vinculada o que pueda asociarse a una o varias
+        personas naturales determinadas o determinables.
+Dato PÃºblico:
+Dato que la ley o la ConstituciÃ³n determina como tal, asÃ­ como todos aquellos
+        que no sean semiprivados o privados.
+Dato Privado:
+Es aquel dato que por su naturaleza Ã­ntima o reservada solo es relevante para
+        el Titular de la informaciÃ³n.
+Dato Semiprivado:
+Es aquel dato que no tiene naturaleza Ã­ntima, reservada, ni pÃºblica, y cuyo
+        conocimiento o divulgaciÃ³n puede interesar no solo a su Titular sino a cierto sector o grupo de
+        personas.
+Dato Sensible:
+Es el dato que afecta la intimidad del Titular o cuyo uso indebido puede generar
+        su discriminaciÃ³n.
+Encargado del Tratamiento:
+Encargado del Tratamiento: Persona natural o jurÃ­dica, pÃºblica o privada, que por sÃ­ misma o
+        en asocio con otros realice el Tratamiento de Datos Personales por cuenta del Responsable
+        del Tratamiento.
+Responsable del Tratamiento:
+Persona natural o jurÃ­dica, pÃºblica o privada, que por sÃ­ misma
+        o en asocio con otros decida sobre la base de datos y/o el Tratamiento de los datos.
+Titular:
+Persona natural cuyos Datos Personales sean objeto de Tratamiento.
+Transferencia de datos:
+Tiene lugar cuando el Responsable y/o Encargado del tratamiento
+        de Datos Personales, ubicado en Colombia, envÃ­a la informaciÃ³n o los Datos Personales a un
+        receptor, que a su vez es responsable del tratamiento y se encuentra dentro o fuera del paÃ­s.
+TransmisiÃ³n de Datos:
+Tratamiento de Datos Personales que implica la comunicaciÃ³n de
+        los mismos dentro o fuera del territorio de la RepÃºblica de Colombia, con el objeto de que un
+        Encargado realice tratamiento por cuenta del Responsable.
+Tratamiento:
+Cualquier operaciÃ³n o conjunto de operaciones sobre Datos Personales, tales
+        como la recolecciÃ³n, almacenamiento, uso, circulaciÃ³n o supresiÃ³n.
+1.6. DATOS DE CONTACTO DE DAVIVIENDA
+El Responsable del tratamiento de las bases de datos objeto de esta polÃ­tica es Davivienda y sus
+    datos de contacto son los siguientes:
+NIT:
+860.034.313-7
+Domicilio:
+Av. El Dorado No. 68C-61, BogotÃ¡, Colombia
+PÃ¡gina web:
+www.davivienda.com
+CAPÃTULO II
+PRINCIPIOS
+Davivienda en desarrollo, interpretaciÃ³n y aplicaciÃ³n de la presente polÃ­tica, se compromete aplicar de manera
+        armÃ³nica e integral los siguientes principios:
+PRINCIPIO DE LEGALIDAD
+El Tratamiento al que se refieren la Ley 1266 de 2008 y la Ley 1581 de 2012 es una actividad reglada
+        que debe sujetarse a lo establecido en ellas y en las demÃ¡s disposiciones que las desarrollen.
+2.2. PRINCIPIO DE FINALIDAD
+El Tratamiento de los Datos Personales debe obedecer a una finalidad legÃ­tima de acuerdo con la
+        ConstituciÃ³n y la ley, la cual debe ser informada al Titular.
+2.3. PRINCIPIO DE LIBERTAD
+El Tratamiento de los Datos Personales solo puede ejercerse con el consentimiento, previo,
+        expreso e informado del Titular. Los Datos Personales no podrÃ¡n ser obtenidos o divulgados sin
+        previa autorizaciÃ³n, o en ausencia de mandato legal o judicial que releve el consentimiento.
+2.4. PRINCIPIO DE VERACIDAD O CALIDAD
+La informaciÃ³n sujeta a tratamiento debe ser veraz, completa, exacta, actualizada, comprobable
+        y comprensible. Se prohÃ­be el tratamiento de datos parciales, incompletos, fraccionados o que
+        induzcan a error.
+2.5. PRINCIPIO DE TRANSPARENCIA
+En el tratamiento de los Datos Personales se debe garantizar el derecho del Titular a obtener
+        del Responsable o del Encargado del tratamiento, en cualquier momento y sin restricciones,
+        informaciÃ³n acerca de la existencia de datos que le conciernen.
+2.6. PRINCIPIO DE ACCESO Y CIRCULACIÃ“N RESTRINGIDA
+El tratamiento se sujeta a los lÃ­mites que se derivan de la naturaleza de los Datos Personales, de
+        las disposiciones de la Ley 1266 de 2008, la Ley 1581 de 2012 y la ConstituciÃ³n. En este sentido,
+        el tratamiento solo podrÃ¡ hacerse por personas autorizadas por el Titular o por las personas
+        previstas en la ley.
+Con excepciÃ³n de informaciÃ³n pÃºblica, Davivienda no pondrÃ¡ los Datos Personales a disposiciÃ³n en
+        internet u otros medios de divulgaciÃ³n o comunicaciÃ³n masiva, salvo si el acceso es tÃ©cnicamente
+        controlable para brindar un conocimiento restringido solo a los Titulares o terceros autorizados,
+        conforme a la Ley 1581 de 2012.
+2.7. PRINCIPIO DE SEGURIDAD
+La informaciÃ³n sujeta a Tratamiento por el Responsable o Encargado del Tratamiento a que se
+        refieren la Ley 1266 de 2008 y la Ley 1581 de 2012 se deberÃ¡ manejar con las medidas tÃ©cnicas,
+        humanas y administrativas que sean necesarias para otorgar seguridad a los registros evitando
+        su adulteraciÃ³n, pÃ©rdida, consulta, uso o acceso no autorizado o fraudulento.
+2.8. PRINCIPIO DE CONFIDENCIALIDAD
+Todas las personas que intervengan en el Tratamiento de Datos Personales que no tengan la
+        naturaleza de pÃºblicos estÃ¡n obligadas a garantizar la reserva de la informaciÃ³n, inclusive despuÃ©s
+        de finalizada su relaciÃ³n con alguna de las labores que comprende el tratamiento, pudiendo solo
+        realizar suministro o comunicaciÃ³n de Datos Personales cuando ello corresponda al desarrollo de
+        las actividades autorizadas en la Ley 1581 de 2012 y en los tÃ©rminos de esta.
+2.9. PRINCIPIO DE NECESIDAD Y PROPORCIONALIDAD
+Los Datos Personales registrados en una base de datos deben ser los estrictamente necesarios
+        para el cumplimiento de las finalidades del tratamiento, informadas al Titular. En tal sentido, deben
+        ser adecuados, pertinentes y acordes con las finalidades para los cuales fueron recolectados.
+2.10. PRINCIPIO DE TEMPORALIDAD O CADUCIDAD
+El perÃ­odo de conservaciÃ³n de los Datos Personales serÃ¡ el necesario para alcanzar la finalidad
+        para la cual se han recolectado.
+2.11. PRINCIPIO DE INTERPRETACIÃ“N INTEGRAL DE DERECHOS CONSTITUCIONALES
+La Ley 1581 de 2012 se interpretarÃ¡ en el sentido de que se amparen adecuadamente los
+        derechos constitucionales, como son el hÃ¡beas data, el derecho al buen nombre, el derecho a la
+        honra, el derecho a la intimidad y el derecho a la informaciÃ³n. Los derechos de los Titulares se
+        interpretarÃ¡n en armonÃ­a y en un plano de equilibrio con el derecho a la informaciÃ³n previsto en el
+        artÃ­culo 20 de la ConstituciÃ³n y con los demÃ¡s derechos constitucionales aplicables.
+CAPÃTULO III
+AUTORIZACIÃ“N, FINALIDADES Y DURACIÃ“N
+        DEL TRATAMIENTO DE DATOS PERSONALES
+3.1. AUTORIZACIÃ“N
+Davivienda solicitarÃ¡ la autorizaciÃ³n de manera previa, expresa e informada a los Titulares para el
+        tratamiento de sus Datos Personales, la cual deberÃ¡ ser obtenida por cualquier medio que pueda
+        ser objeto de consulta, verificaciÃ³n y trazabilidad posterior.
+La autorizaciÃ³n del Titular no serÃ¡ necesaria cuando se trate de:
+InformaciÃ³n requerida por una entidad pÃºblica o administrativa en ejercicio de sus funciones
+            legales o por orden judicial
+Datos de naturaleza pÃºblica
+Casos de urgencia mÃ©dica o sanitaria
+Tratamiento de informaciÃ³n autorizado por la ley para fines histÃ³ricos, estadÃ­sticos o cientÃ­ficos
+Datos relacionados con el Registro Civil de las personas
+La autorizaciÃ³n tambiÃ©n podrÃ¡ obtenerse a partir de conductas inequÃ­vocas del Titular del dato,
+        las cuales permitan concluir de manera razonable que este otorgÃ³ su consentimiento para el
+        tratamiento de su informaciÃ³n. Dichas conductas deben exteriorizar de manera clara la voluntad
+        de autorizar el tratamiento.
+El consentimiento del Titular se podrÃ¡ obtener por cualquier medio que pueda ser objeto de
+        consulta posterior, tales como, comunicaciÃ³n escrita, verbal, digital o por conductas inequÃ­vocas.
+En virtud de su naturaleza y objeto social, Davivienda recibe, recolecta, registra, conserva,
+        almacena, modifica, reporta, consulta, entrega, transmite, transfiere, comparte y elimina
+        informaciÃ³n personal, para lo cual obtiene previa, expresa e informada autorizaciÃ³n del Titular.
+Davivienda conservarÃ¡ prueba de dichas autorizaciones de manera adecuada, velando y
+        respetando los principios de privacidad y confidencialidad de la informaciÃ³n.
+AsÃ­ mismo, en Davivienda, cuando se trate de informaciÃ³n que se relacione con los siguientes
+        tipos de datos, se tendrÃ¡n las siguientes consideraciones especiales:
+3.1.1. Datos sensibles
+Para el tratamiento de datos sensibles, Davivienda informarÃ¡ al Titular de estos lo siguiente:
+Para el tratamiento de este tipo de informaciÃ³n, el Titular no estÃ¡ obligado a dar su autorizaciÃ³n
+            o consentimiento.
+Se informarÃ¡ de forma explÃ­cita y previa quÃ© tipo de datos sensibles serÃ¡n solicitados.
+Se comunicarÃ¡ el tratamiento y la finalidad que se les darÃ¡ a los datos sensibles.
+La autorizaciÃ³n de los datos sensibles serÃ¡ previa, expresa y clara.
+3.1.2. Datos de niÃ±os, niÃ±as y adolescentes
+Davivienda se asegurarÃ¡ que el tratamiento de este tipo de datos se realice de conformidad
+        con los derechos de los niÃ±os, niÃ±as y adolescentes. En este sentido, se protegerÃ¡ su carÃ¡cter
+        especial y velarÃ¡ por el respeto de sus derechos fundamentales, de acuerdo con lo dispuesto en
+        los artÃ­culos 5, 6 y 7 de la Ley 1581 de 2012, en los artÃ­culos 6 y 12 del Decreto 1377 de 2013 y
+        en las demÃ¡s normas que los modifiquen o adicionen.
+Para efectos de cumplir lo anterior, Davivienda actuarÃ¡ de conformidad con lo siguiente:
+SolicitarÃ¡ autorizaciÃ³n del representante legal del niÃ±o, niÃ±a o adolescente previo ejercicio
+            del menor de su derecho a ser escuchado, opiniÃ³n que serÃ¡ valorada teniendo en cuenta la
+            madurez, autonomÃ­a y capacidad para entender el asunto, a efectos de realizar el tratamiento
+            de sus Datos Personales.
+InformarÃ¡ el carÃ¡cter facultativo de responder preguntas acerca de los datos de los niÃ±os,
+            niÃ±as o adolescentes.
+El tratamiento de los Datos Personales de los niÃ±os, niÃ±as y adolescentes siempre debe
+            responder a un fin superior.
+InformarÃ¡ de forma explÃ­cita y previa cuÃ¡les son los datos y la finalidad del tratamiento.
+En el caso de adquisiciÃ³n por parte del menor adulto de productos y/o servicios financieros por
+        medio de canales digitales, en Davivienda se incluirÃ¡ una declaraciÃ³n en la cual el menor manifieste
+        que ha sido informado, ha sido escuchado, ha entendido y ha comunicado a sus representantes
+        legales su intenciÃ³n de celebrar un contrato financiero, teniendo en cuenta su madurez, autonomÃ­a
+        y capacidad legal para celebrar relaciones contractuales, a efectos de realizar el tratamiento de
+        sus Datos Personales. AdemÃ¡s, se entiende que el tratamiento de sus Datos Personales estarÃ¡
+        limitado a ser usado para cumplir con las obligaciones contractuales derivadas del producto y/o
+        servicio financiero que desee adquirir.
+3.2. FINALIDADES DEL TRATAMIENTO DE DATOS
+A continuaciÃ³n, se seÃ±alan las principales finalidades con las que Davivienda realiza el tratamiento
+        de la informaciÃ³n personal:
+3.2.1. Clientes
+Davivienda tratarÃ¡ los Datos Personales para los fines propios de los contratos financieros y
+        crediticios que se hayan celebrado, todo ello de conformidad con lo previsto en el CÃ³digo de
+        Comercio, el Estatuto OrgÃ¡nico del Sistema Financiero y demÃ¡s normas que regulen de manera
+        especÃ­fica la materia.
+A continuaciÃ³n se detallan las finalidades de tratamiento que Davivienda aplicarÃ¡ para sus clientes:
+Desarrollar los procesos que se requieran para la adecuada prestaciÃ³n de los productos y/o
+            servicios contratados.
+Evaluar, mantener, mejorar y profundizar la relaciÃ³n contractual, incluyendo el envÃ­o de
+            informaciÃ³n de nuevos productos y/o servicios.
+Actualizar los datos suministrados con la informaciÃ³n que se encuentre disponible en los
+            Operadores de InformaciÃ³n o cualquier otra persona, entidad u organizaciÃ³n que maneje o
+            administre bases de datos con los fines legalmente definidos para este tipo de entidades.
+Desarrollar e implementar herramientas de prevenciÃ³n de fraudes.
+Compartir los datos relativos a la informaciÃ³n financiera, lo cual incluye el uso y la actualizaciÃ³n
+            de los datos de contacto, con firmas especializadas en labores de cobranzas para que
+            adelanten la gestiÃ³n de cobro y recaudo de las obligaciones contraÃ­das, y demÃ¡s servicios
+            que se consideren necesarios o complementarios. AsÃ­ como, el manejo de la cartera vencida,
+            utilizando para ello tanto los mecanismos judiciales como tambiÃ©n las vÃ­as extraprocesales
+            permitidas por el ordenamiento jurÃ­dico.
+Evaluar la solvencia del deudor, su comportamiento de pago, el cobro de las cuotas, tasas y
+            cargos correspondientes, tanto de manera prejudicial como judicial, si hubiere lugar a ello.
+Consultar, solicitar y/o verificar el comportamiento comercial, crediticio, financiero, y de
+            servicios en los Operadores de InformaciÃ³n (entendidos estos como los operadores de que
+            trata la Ley 1266 de 2008 y demÃ¡s normas que la complementen, modifiquen, adicionen o
+            sustituyan) o cualquier otra persona, entidad u organizaciÃ³n que maneje o administre bases
+            de datos con los fines legalmente definidos para este tipo de entidades, para los siguientes
+            objetivos:
+Como elemento de anÃ¡lisis para establecer y mantener una relaciÃ³n contractual, cualquiera
+                    que sea su naturaleza.
+Monitoreo del grado de endeudamiento y/o incumplimiento en el sector financiero, comercial,
+                    y de servicios, con el objetivo de evaluar los riesgos derivados de una relaciÃ³n contractual
+                    vigente.
+Como elemento de anÃ¡lisis para hacer estudios de mercado o investigaciones comerciales
+                    o estadÃ­sticas.
+Desarrollo de herramientas que prevengan el fraude, y las acciones o prÃ¡cticas corruptas,
+                    asÃ­ como aquellas que permitan conocer caracterÃ­sticas del comportamiento financiero y
+                    crediticio.
+Para solicitar consultar y obtener informaciÃ³n financiera, datos de seguridad social y parafiscales
+            y/o Datos Personales que se encuentren en centrales u operadores de informaciÃ³n o cualquier
+            entidad autorizada para tratarlos, con el fin de que Davivienda evalÃºe la solicitud de productos
+            y/o servicios financieros, actualice los datos o realice perfilamiento, teniendo en cuenta el comportamiento
+            financiero, comercial, pagos al sistema de seguridad social y parafiscales y/o
+            de servicios que haya adquirido. Lo anterior, sin perjuicio del cumplimiento de la obligaciÃ³n de
+            actualizar anualmente los Datos Personales.
+Hacer estudios estadÃ­sticos o de comportamiento sobre mis gustos y preferencias respecto de
+            los productos y/o servicios contratados.
+Realizar prospecciÃ³n comercial, con el fin de identificar las necesidades y gustos a satisfacer
+            con los productos y/o servicios a ser ofrecidos.
+Suministrar informaciÃ³n sobre nuevos productos y/o servicios, asÃ­ como eventos, novedades,
+            promociones, publicidad y programas de fidelidad, mediante el uso de correo electrÃ³nico,
+            correo postal, telÃ©fono fijo, celular, fax, SMS, MMS, redes sociales o medios similares.
+Medir el nivel de satisfacciÃ³n respecto de los productos y/o servicios contratados.
+Compartir la informaciÃ³n con entidades del Grupo Empresarial BolÃ­var cuya matriz es Grupo
+            BolÃ­var, ubicadas dentro o fuera del territorio de la RepÃºblica de Colombia, las cuales aparecen
+            listadas en el link:
+www.sociedadesbolivar.co/
+                    wps/portal/web/nuestrascompanias/
+que se informa el tipo de actividad que cada una de ellas desarrolla, a efecto de que me sean
+            ofrecidos sus productos o servicios comerciales mediante el uso de correo electrÃ³nico, correo
+            postal, telÃ©fono fijo, celular, fax, SMS, MMS, redes sociales o medios similares, asÃ­ como
+            para desarrollar actividades de conocimiento del cliente, campaÃ±as comerciales, publicitarias
+            y
+marketing
+.
+Compartir la informaciÃ³n con aliados comerciales y estratÃ©gicos, a efecto de realizar el
+            ofrecimiento y desarrollo de ofertas de valor.
+A partir de los datos de geolocalizaciÃ³n activados por el cliente al momento de utilizar los
+            canales digitales habilitados por el Banco, tales como la App, el Banco Davivienda podrÃ¡:
+Informarle sobre puntos de atenciÃ³n cercanos a su ubicaciÃ³n.
+Comunicarle y mantenerlo actualizado sobre nuevos productos, servicios, novedades,
+                    promociones, publicidad, programas de fidelidad y encuestas de satisfacciÃ³n a travÃ©s
+                    del envÃ­o de notificaciones push, tomando como base su punto de ubicaciÃ³n y un tiempo
+                    concreto.
+Identificar tendencias y patrones que permitan realizar estudios estadÃ­sticos para la creaciÃ³n
+                    y mejoramiento de perfiles que utilicen ubicaciones geogrÃ¡ficas determinadas.
+Desarrollar e implementar herramientas que contribuyan a la prevenciÃ³n del fraude y las
+                    acciones y/o prÃ¡cticas corruptas.
+Compartirlos con entidades del Grupo Empresarial BolÃ­var y terceros estratÃ©gicos para que le
+                    sean ofrecidos sus productos y/o servicios comerciales, asÃ­ como para desarrollar actividades
+                    de conocimiento del cliente, campaÃ±as comerciales, publicitarias y
+marketing
+.
+3.2.2. Usuarios
+A continuaciÃ³n se detallan las finalidades de tratamiento que Davivienda aplicarÃ¡ para tratar los
+        Datos Personales de sus usuarios:
+Desarrollar los procesos que se requieran para la adecuada atenciÃ³n de quejas y reclamos.
+Desarrollar e implementar herramientas de prevenciÃ³n de fraudes.
+Compartir los datos proporcionados por el usuario, con los terceros que se requiera para
+            atender las solicitudes presentadas.
+3.2.3. Empleados
+Dar cumplimiento a las leyes como, entre otras, las de derecho laboral, seguridad social, pensiones,
+            riesgos profesionales, cajas de compensaciÃ³n familiar (Sistema Integral de Seguridad
+            Social) e impuestos, y desarrollar la relaciÃ³n precontractual, contractual y poscontractual.
+Manejar internamente la informaciÃ³n en desarrollo del vÃ­nculo laboral existente y cumplir las
+            obligaciones legales derivadas del mismo.
+Cumplir los requerimientos realizados por las autoridades judiciales y/o administrativas
+            competentes.
+Compartir los Datos Personales para ser informado o participar en las actividades de bienestar
+            que desarrolla Davivienda, directamente o a travÃ©s de terceros, quienes deberÃ¡n dar el mismo
+            tratamiento y mantener total reserva sobre los mismos.
+Transmitir y/o transferir a las entidades, que tengan relaciÃ³n contractual con Davivienda tales
+            como proveedores, auditor, colaboradores y fondo de empleados dentro del marco de la
+            correspondiente relaciÃ³n laboral.
+Enviar publicidad sobre los productos y/o servicios ofrecidos por el Banco Davivienda,
+            sus filiales y demÃ¡s entidades pertenecientes al Grupo BolÃ­var, ubicadas dentro o
+            fuera de Colombia, las cuales aparecen listadas en la siguiente direcciÃ³n:
+www.sociedadesbolivar.co/
+                    wps/portal/web/nuestrascompanias/
+,
+            asÃ­ como enviar publicidad
+            sobre los productos y/o servicios ofrecidos por los fondos de empleados o entidades sin
+            Ã¡nimo de lucro del Grupo BolÃ­var.
+Usar los Datos Personales en campaÃ±as de comunicaciones internas del Grupo BolÃ­var,
+            cuando expresa y voluntariamente decida participar.
+Participar en estrategias, campaÃ±as y pruebas pilotos de productos y/o servicios del Banco
+            Davivienda y/o empresas del Grupo BolÃ­var relacionados con temas digitales, mejoras en
+            procesos o nuevos productos.
+Consultar los Datos Personales relacionados con temas de salud, con el propÃ³sito de recibir
+            informaciÃ³n y acceder a los distintos servicios de los centros mÃ©dicos, como: odontologÃ­a,
+            medicina general, especialidades mÃ©dicas y campaÃ±as de promociÃ³n y prevenciÃ³n en salud ocupacional.
+            Asimismo, para gestionar la transcripciÃ³n de incapacidades o generaciÃ³n de
+            reporte ante las ARL, COPASS o todas aquellas que las sustituyan en cumplimiento de la
+            normatividad relacionada con seguridad social y con seguridad y salud en el trabajo.
+Solicitar y acceder a los Datos Personales del empleado con el propÃ³sito de brindarle
+            capacitaciÃ³n en el desarrollo de las funciones que desempeÃ±a en Davivienda.
+3.2.4. Candidatos
+Los datos personales proporcionados por los candidatos en sus hojas de vida en los procesos
+        de selecciÃ³n del Grupo BolÃ­var a travÃ©s del Portal
+www.trabajarendavivienda.com/
+serÃ¡n
+        almacenados en las bases de datos del mismo y utilizados para los siguientes fines:
+Compartir informaciÃ³n de las ofertas laborales de las distintas empresas del Grupo BolÃ­var,
+            sus requisitos y mecanismos de aplicaciÃ³n.
+Evaluar, corroborar y determinar el cumplimiento del candidato con las exigencias del cargo y
+            la compaÃ±Ã­a a la que se postula, de acuerdo a lo establecido en la polÃ­tica y el procedimiento
+            de atracciÃ³n y selecciÃ³n de las compaÃ±Ã­as.
+Compartir la informaciÃ³n de candidatos con terceros para la validaciÃ³n de confiabilidad, es
+            decir visita domiciliaria, examen mÃ©dico, estudio de seguridad y pruebas de integridad.
+Ser insumo para el proceso de vinculaciÃ³n a las compaÃ±Ã­as y alimentar las bases de datos de
+            funcionarios en los casos requeridos.
+Construir mÃ©tricas y anÃ¡lisis de gestiÃ³n y analÃ­tica.
+3.2.5. Proveedores
+Davivienda busca conocer y hacer seguimiento a la idoneidad financiera y al comportamiento
+        comercial de sus proveedores, asÃ­ como hacerlos partÃ­cipes de actividades y campaÃ±as que
+        puedan resultar de su interÃ©s.
+Realizar todas las actividades necesarias para cumplir y desarrollar la relaciÃ³n contractual y/o
+            servicio.
+Enviar publicidad e informaciÃ³n comercial sobre los productos y servicios ofrecidos por
+            Davivienda, sus filiales y demÃ¡s entidades pertenecientes al Grupo BolÃ­var, ubicadas
+            dentro o fuera de Colombia, las cuales aparecen listadas en la siguiente direcciÃ³n:
+grupobolivar.com.co
+Para fines estadÃ­sticos, de control, supervisiÃ³n, que permitan desarrollar herramientas que
+            prevengan el fraude, acciones o prÃ¡cticas corruptas.
+Consultar comportamiento financiero y crediticio en centrales de riesgo.
+3.2.6. Accionistas e Inversionistas
+La informaciÃ³n y los datos de los accionistas e inversionistas, incluida informaciÃ³n personal, de
+        contacto, asÃ­ como la informaciÃ³n y documentaciÃ³n suministrada a travÃ©s de canales virtuales,
+        canal telefÃ³nico, correo electrÃ³nico y actualizaciones de informaciÃ³n serÃ¡n recolectados,
+        consultados, actualizados, modificados y procesados directamente por Davivienda y/o por los
+        terceros designados por este, para los siguientes fines:
+Dar cumplimiento a las obligaciones y derechos derivados de su calidad de Emisor y
+            Depositante, respectivamente.
+Realizar las actividades de administraciÃ³n integral del libro de registro de accionistas.
+Brindar la informaciÃ³n relacionada con trÃ¡mites, quejas y solicitudes de los accionistas.
+Dar acceso a la informaciÃ³n a las autoridades judiciales o administrativas que soliciten dichos
+            datos en ejercicio de sus funciones.
+Administrar el riesgo de Lavado de Activos y FinanciaciÃ³n del Terrorismo y de CorrupciÃ³n.
+Cumplir las actividades y fines necesarios de la relaciÃ³n emisor-accionistas.
+Brindar informaciÃ³n relacionada con la actualidad financiera y no financiera del Banco.
+Realizar reportes mensuales para fines estadÃ­sticos.
+Permitir el acceso a los auditores, revisor fiscal y terceros contratados por Davivienda para
+            llevar a cabo procesos de auditorÃ­a interna o externa.
+Atender consultas relacionadas con la actualidad financiera y no financiera que tengan los
+            accionistas y los inversionistas.
+3.2.7. Cliente de Alianzas
+A continuaciÃ³n se detallan las finalidades de tratamiento que Davivienda aplicarÃ¡ a sus Aliados:
+Recibir informaciÃ³n sobre los productos o servicios ofrecidos por los Responsables y sus
+            aliados a travÃ©s de correo electrÃ³nico, telÃ©fono fijo, celular, redes sociales o cualquier otro
+            medio similar.
+Compartir y actualizar sus Datos Personales con las empresas o aliados, cuando sea necesario
+            para la ejecuciÃ³n de los contratos que respaldan la ejecuciÃ³n de los productos y/o servicios
+            ofrecidos por los Responsables.
+Ser consultados en centrales de informaciÃ³n financiera, asÃ­ como obtener las referencias
+            comerciales necesarias que les permitan a los Responsables tener un conocimiento adecuado sobre su
+            comportamiento en el desarrollo de las relaciones financieras, comerciales y/o de
+            servicios que hayan adquirido.
+Reportar a las centrales de informaciÃ³n financiera y crediticia que operen en Colombia el
+            nacimiento, modificaciÃ³n, extinciÃ³n y cumplimiento de las obligaciones contraÃ­das con los
+            Responsables.
+Compartir los Datos Personales con terceros aliados, ubicados dentro o fuera del territorio de
+            la RepÃºblica de Colombia, cuando sea necesario para la adecuada ejecuciÃ³n de los servicios
+            contratados con los Responsables.
+Hacer estudios estadÃ­sticos o de comportamiento sobre sus gustos y preferencias respecto
+            de los servicios ofrecidos, para realizar prospecciÃ³n comercial, con el fin de identificar las
+            necesidades y gustos a satisfacer con los productos y/o servicios a ser ofrecidos por los
+            Responsables.
+Analizar por el sistema de monitoreo para la prevenciÃ³n del fraude o por personal autorizado
+            y altamente calificado para analizar dicha data y mejorar los estÃ¡ndares de calidad de las
+            transacciones de los servicios ofrecidos por los Responsables.
+Utilizar sus Datos Personales con el fin de compartirlos con terceros aliados ubicados dentro o
+            fuera de Colombia, a efectos de que les sean ofrecidos sus productos o servicios comerciales
+            mediante el uso de correo electrÃ³nico, correo postal, telÃ©fono fijo, celular, SMS, MSM, redes
+            sociales o cualquier otro medio similar, asÃ­ como desarrollar actividades de conocimiento del
+            cliente, campaÃ±as comerciales, publicitarias y marketing.
+Utilizar sus datos con el fin de compartirlos con entidades del Grupo Empresarial BolÃ­var,
+            cuya matriz es GRUPO BOLÃVAR S.A., ubicadas dentro o fuera del territorio de la RepÃºblica
+            de Colombia, las cuales aparecen listadas en el link:
+www.sociedadesbolivar.com.co/
+                    wps/portal/web/nuestrascompanias
+, en el que se informa el tipo de actividad que cada una
+            de ellas desarrolla, a efecto de que les sean ofrecidos sus productos o servicios comerciales
+            mediante el uso de correo electrÃ³nico, correo postal, telÃ©fono fijo, celular, fax, SMS, MSM,
+            redes sociales o medios similares, asÃ­ como para desarrollar actividades de conocimiento del
+            cliente, campaÃ±as comerciales, publicitarias, y
+marketing
+.
+3.3. DURACIÃ“N DEL TRATAMIENTO DE DATOS PERSONALES
+Los datos personales estarÃ¡n sujetos a tratamiento por Davivienda durante el tÃ©rmino contractual
+        en el que el Titular de la informaciÃ³n tenga el producto, servicio, contrato o relaciÃ³n, mÃ¡s el
+        tÃ©rmino que establezca la ley, adicionalmente se conservarÃ¡n de acuerdo con los principios de
+        necesidad y razonabilidad.
+CAPÃTULO IV
+TITULARES
+4.1. DERECHOS
+Dirigirse a Davivienda, a travÃ©s de los canales establecidos en la presente PolÃ­tica con el fin de
+            conocer, actualizar y rectificar los Datos Personales.
+Solicitar prueba de la autorizaciÃ³n otorgada a Davivienda salvo cuando, de acuerdo con la Ley,
+            el tratamiento que se estÃ¡ realizando no lo requiera.
+Ser informado por Davivienda, previa solicitud efectuada a travÃ©s de los canales dispuestos
+            por esta, respecto del uso que esta le ha dado a sus Datos Personales.
+Solicitar la revocatoria de la autorizaciÃ³n y/o la supresiÃ³n del dato personal cuando en el
+            tratamiento no se respeten los principios, derechos y garantÃ­as constitucionales y legales.
+            Dicho derecho no procede cuando exista un deber legal o deber contractual de permanecer en
+            la base de datos.
+Acceder en forma gratuita, a travÃ©s de los canales dispuestos por Davivienda, a sus Datos
+            Personales que hayan sido objeto de Tratamiento.
+Presentar ante la Superintendencia de Industria y Comercio quejas por infracciones a lo
+            dispuesto por la ley en materia de protecciÃ³n de datos y demÃ¡s normas que la modifiquen,
+            adicionen o complementen.
+De conformidad con el artÃ­culo 20 del Decreto 1377 de 2013, el ejercicio de los derechos
+        mencionados podrÃ¡ realizarse por parte de las siguientes personas:
+El Titular, quien deberÃ¡ acreditar su identidad en forma suficiente por los distintos medios que
+            le ponga a disposiciÃ³n el Responsable.
+Sus causahabientes, quienes deberÃ¡n acreditar tal calidad.
+El representante y/o apoderado del Titular, previa acreditaciÃ³n de la representaciÃ³n o
+            apoderamiento.
+Por estipulaciÃ³n a favor de otro o para otro.
+Los derechos de los niÃ±os, niÃ±as o adolescentes se ejercerÃ¡n por las personas que estÃ©n
+            facultadas para representarlo.
+Davivienda, a travÃ©s de su Aviso de Privacidad de Datos, informarÃ¡ acerca de los canales y
+        procedimientos previstos para que el Titular pueda ejercer sus derechos de manera efectiva.
+CAPÃTULO V
+DEBERES DE DAVIVIENDA EN CALIDAD DE RESPONSABLE Y ENCARGADO
+5.1. DAVIVIENDA EN CALIDAD DE RESPONSABLE
+Garantizar, a travÃ©s de los canales de atenciÃ³n establecidos en el numeral 6.3 de este documento,
+            para los Titulares de Datos, el pleno y efectivo ejercicio del derecho de habeas data.
+Solicitar y conservar las autorizaciones otorgadas por los Titulares o prueba de esta.
+Informar al Titular acerca de la finalidad del Tratamiento, los usos de sus Datos Personales y los
+            derechos que le asisten en virtud de la autorizaciÃ³n otorgada.
+Conservar la informaciÃ³n en condiciones de seguridad para prevenir su adulteraciÃ³n, pÃ©rdida,
+            consulta, uso o acceso no autorizado.
+Las medidas de seguridad implementadas se encuentran en los manuales internos que han
+            desarrollado las previsiones propias de la Circular BÃ¡sica JurÃ­dica de la Superintendencia
+            Financiera de Colombia.
+Actualizar y rectificar los Datos Personales cuando sea necesario y procedente.
+Los derechos que le asisten al Titular de la InformaciÃ³n serÃ¡n incluidos en el Aviso de Privacidad
+            de Datos que se publicarÃ¡ en la pÃ¡gina web de Davivienda, y asÃ­ se le indicarÃ¡ al momento de
+            obtener el consentimiento por parte de aquel.
+Garantizar que la informaciÃ³n que se suministre al Encargado del tratamiento sea veraz,
+            completa, exacta, actualizada y comprensible.
+AsÃ­ mismo, los contratos que se celebren con los Encargados del tratamiento establecerÃ¡n
+            mecanismos eficientes de validaciÃ³n de datos, con el fin de procurar en todo momento el uso
+            actualizado y adecuado de la informaciÃ³n.
+Actualizar la informaciÃ³n que tenga algÃºn tercero o encargado respecto de todas las novedades
+            en relaciÃ³n con los datos suministrados y adoptar las medidas necesarias para que la
+            informaciÃ³n estÃ© actualizada. Es importante anotar que la colaboraciÃ³n efectiva y deber de los
+            Titulares respecto de la actualizaciÃ³n de su informaciÃ³n, en los datos que sean conocidos en
+            primera instancia por ellos, serÃ¡ fundamental para el cumplimiento Ã³ptimo de este deber de
+            informar al Encargado acerca de todas las novedades respecto de los datos que le hayan sido
+            suministrados.
+Dar trÃ¡mite a las quejas y reclamos formulados de conformidad con lo previsto en la presente
+            PolÃ­tica y en la ley.
+Informar a la autoridad de protecciÃ³n de datos cuando se presenten violaciones de seguridad y
+            existan riesgos en la administraciÃ³n de la informaciÃ³n de los Titulares.
+Las instrucciones y requerimientos formulados por la Superintendencia de Industria y Comercio
+            estarÃ¡n bajo la supervisiÃ³n del Oficial de ProtecciÃ³n de Datos de Davivienda como responsable
+            del seguimiento en la adopciÃ³n y cumplimiento de esta PolÃ­tica.
+5.2. DAVIVIENDA EN CALIDAD DE ENCARGADO
+En los casos en que Davivienda actuÃ© como Encargado de tratamiento de Datos Personales,
+        deberÃ¡ cumplir las obligaciones establecidas y que coinciden con las seÃ±aladas en la calidad
+        de Responsable; solamente se harÃ¡ referencia expresa en este numeral a las que no quedaron
+        listadas en el numeral 5.1. de esta PolÃ­tica.
+Realizar oportunamente la actualizaciÃ³n, rectificaciÃ³n o supresiÃ³n de los datos.
+Actualizar la informaciÃ³n reportada por los Responsables del Tratamiento dentro de los cinco
+            (5) dÃ­as hÃ¡biles siguientes contados a partir de su recibo.
+Permitir el acceso Ãºnicamente a las personas autorizadas por el Titular o facultadas por la ley
+            para dicho efecto.
+Cumplir las instrucciones y requerimientos que imparta la Superintendencia de Industria y
+            Comercio.
+CAPÃTULO VI
+PROCEDIMIENTO PARA ATENDER CONSULTAS, QUEJAS Y/O RECLAMOS
+En cumplimiento de las normas de protecciÃ³n de Datos Personales, Davivienda establece el
+        presente procedimiento y requisitos a los Titulares de los Datos Personales o causahabientes o
+        cualquier otra persona que pueda tener un interÃ©s legÃ­timo en presentar alguna consulta, reclamo
+        y/o queja en el ejercicio pleno y efectivo de los derechos que le asisten.
+Es indispensable para Davivienda que la persona que realice una consulta, peticiÃ³n, queja o
+        reclamo acredite su identidad cumpliendo con los siguientes requisitos:
+Cliente de Davivienda:
+Se acreditarÃ¡ su identidad mediante los procesos de autenticaciÃ³n
+            internos de Davivienda.
+Usuario:
+Si el Titular de los Datos Personales no es cliente de Davivienda, deberÃ¡ indicar el
+            tipo y nÃºmero de documento de identificaciÃ³n y sus datos de contacto.
+Empleado, exempleado o aspirante:
+En caso de ser empleado de Davivienda, se acreditarÃ¡
+            su identidad mediante los procesos de autenticaciÃ³n internos de Davivienda. Si el Titular de
+            los Datos Personales es exempleado de Davivienda o aspirante, deberÃ¡ adjuntar copia de su
+            documento de identificaciÃ³n e indicar sus datos de contacto.
+Proveedor::
+En caso de ser proveedor, se acreditarÃ¡ su identidad mediante los procesos de
+            autenticaciÃ³n internos de Davivienda.
+Si el Titular de los Datos Personales ya no es proveedor de Davivienda, deberÃ¡ adjuntar copia
+            de su documento de identificaciÃ³n e indicar sus datos de contacto.
+En caso que el causahabiente del Titular de los Datos Personales solicite la consulta o reclamo,
+        deberÃ¡ adjuntar los siguientes documentos e informaciÃ³n:
+Copia del documento de identidad del Titular
+Copia del documento de identidad del causahabiente
+Copia del registro civil de defunciÃ³n del Titular
+Documento que acredite la calidad en que obra o relaciÃ³n de parentesco
+            (registro civil, cuando aplique)
+DirecciÃ³n y datos de contacto del consultante
+Si se trata del representante legal y/o apoderado del Titular de los Datos Personales quien
+        presenta la consulta y/o reclamo, deberÃ¡ anexar los siguientes documentos:
+Copia del documento de identificaciÃ³n del Titular
+Copia del documento de identificaciÃ³n del representante legal y/o apoderado.
+Documento que acredite la calidad en la que obra (poder, certificaciÃ³n)
+En caso de tratarse de una persona jurÃ­dica, certificado de existencia y representaciÃ³n legal
+            con expediciÃ³n no mayor a 30 dÃ­as
+En caso de que el apoderado sea menor de edad, se deberÃ¡ presentar la tarjeta de identidad
+            y/o el registro civil y el documento que acredite la calidad de representante o custodio del
+            menor.
+6.1. CONSULTAS
+Los Titulares, causahabientes o cualquier otra persona con interÃ©s legÃ­timo, podrÃ¡ conocer y
+        consultar la informaciÃ³n que de este repose en las bases de Datos Personales almacenados por
+        Davivienda.
+La consulta serÃ¡ atendida en un tÃ©rmino mÃ¡ximo de diez (10) dÃ­as hÃ¡biles contados a partir de la
+        fecha de recibo de la misma.
+Cuando no sea posible atender la consulta dentro del tÃ©rmino indicado, se informarÃ¡ al Titular,
+        o causahabientes, o cualquier otra persona que pueda tener un interÃ©s legÃ­timo, seÃ±alando los
+        motivos de la demora y la fecha en que se atenderÃ¡ la consulta, la cual no superarÃ¡ los cinco (5)
+        dÃ­as hÃ¡biles siguientes al vencimiento del tÃ©rmino inicial, de conformidad con lo dispuesto en el
+        artÃ­culo 14 de la Ley 1581 de 2012.
+6.2. RECLAMOS
+Los Titulares, causahabientes o cualquier otra persona con interÃ©s legÃ­timo que consideren que
+        la informaciÃ³n contenida en las bases de datos administradas por Davivienda, o las de alguno
+        de sus Encargados, debe ser sujeta a correcciÃ³n, actualizaciÃ³n o supresiÃ³n, o que adviertan un
+        posible incumplimiento frente a la Ley, podrÃ¡n presentar un reclamo en los siguientes tÃ©rminos:
+6.2.1. Requisitos para presentar un reclamo
+El reclamo se formularÃ¡ ante Davivienda, acompaÃ±ado del documento de identificaciÃ³n del
+            Titular. Si es una persona distinta del Titular (causahabientes o cualquier otra persona con
+            interÃ©s legÃ­timo) deberÃ¡ adjuntar los documentos seÃ±alados en el presente capÃ­tulo.
+DescripciÃ³n clara y expresa de los hechos que dan lugar a la queja.
+NÃºmero telefÃ³nico de contacto (nÃºmero de celular o de telÃ©fono fijo).
+DirecciÃ³n donde desea recibir notificaciones, pudiendo ser esta fÃ­sica o electrÃ³nica.
+Adjuntar los documentos que pretenda hacer valer.
+6.2.2. Procedimiento
+Si el reclamo resulta incompleto, se requerirÃ¡ al Titular dentro de los cinco (5) dÃ­as siguientes
+            a la recepciÃ³n del reclamo para que subsane las fallas.
+Si transcurridos dos (2) meses desde la fecha del requerimiento sin que el solicitante presente
+            la informaciÃ³n requerida, se entenderÃ¡ que ha desistido del reclamo.
+Cuando Davivienda, no sea la entidad competente para resolver el reclamo presentado, se
+            darÃ¡ traslado a quien corresponda en un tÃ©rmino mÃ¡ximo de dos (2) dÃ­as hÃ¡biles e informarÃ¡
+            dicha situaciÃ³n al Titular.
+Una vez recibido el reclamo completo, se incluirÃ¡ en la base de datos correspondiente la
+            leyenda â€œReclamo en trÃ¡miteâ€ y el motivo del mismo, en un tÃ©rmino mÃ¡ximo de dos (2) dÃ­as
+            hÃ¡biles. Esta leyenda permanecerÃ¡ hasta que el reclamo sea resuelto y se ajustarÃ¡ de acuerdo
+            con los procedimientos internos.
+El tÃ©rmino mÃ¡ximo para atender el reclamo es de quince (15) dÃ­as hÃ¡biles a partir del dÃ­a
+            siguiente de la fecha de recibo; si no es posible hacerlo en este tÃ©rmino, se informarÃ¡n al Titular
+            los motivos de la demora y la fecha en que este se atenderÃ¡, el cual en ningÃºn caso podrÃ¡
+            exceder los ocho (8) dÃ­as hÃ¡biles siguientes al vencimiento del tÃ©rmino inicial.
+Para los casos de supresiÃ³n total o parcial de la informaciÃ³n personal y los de revocatoria de la
+            autorizaciÃ³n por parte de la Titular, Davivienda analizarÃ¡ la solicitud particular y le comunicarÃ¡
+            su decisiÃ³n. No obstante, los casos de supresiÃ³n total o parcial de la informaciÃ³n y la revocatoria de la
+            autorizaciÃ³n no procederÃ¡n cuando el Titular tenga algÃºn deber legal o contractual de
+            permanecer en la base de datos que administra Davivienda.
+Las consultas y reclamaciones se tramitarÃ¡n de acuerdo con los procesos y procedimientos
+        internos de Davivienda.
+6.3. CANALES DE ATENCIÃ“N DE CONSULTAS Y RECLAMOS
+Davivienda tiene habilitados para los Titulares de los Datos Personales los siguientes canales de
+        atenciÃ³n para el ejercicio de su derecho a conocer, actualizar, rectificar y/o suprimir su informaciÃ³n
+        personal:
+6.3.1. Canales dispuestos para Clientes, Accionistas y Clientes de Alianzas
+Chat:
+www.davivienda.com/
+                            wps/portal/personas/nuevo
+:
+                    Ingreso a clientes / Digite su
+                    nÃºmero de identificaciÃ³n y clave virtual / OpciÃ³n AtenciÃ³n en lÃ­nea / Chat
+El ingreso al Chat por la App se encuentra en la parte inferior de la pantalla: opciÃ³n AtenciÃ³n
+                    en lÃ­nea / Chat
+A travÃ©s del chat no se pueden realizar las siguientes novedades: actualizaciÃ³n de datos,
+                    confirmaciÃ³n de informaciÃ³n de clientes registrados en el sistema y desbloqueo de producto
+                    (excepto el preventivo); para ello, el cliente se puede autogestionar por la App, por Davivienda.
+                    com y/o contactarse con el call center.
+Oficinas a nivel nacional
+Call center:
+LÃ­neas de atenciÃ³n:
+BogotÃ¡: 601-338-3838
+Resto del paÃ­s: 01-8000 123-838
+Celulares Movistar: #338
+Desde Estados Unidos: 18-555 566-820
+Desde EspaÃ±a: 00-8000 338-3838
+AtenciÃ³n Clientes DaviPlata
+Cliente SIM: #688
+Clientes App: botÃ³n â€œÂ¿Necesita ayuda?â€
+Defensor del Consumidor Financiero.
+6.3.2. Canales dispuestos para Usuarios
+Oficinas a nivel nacional.
+Chat Zona PÃºblica:
+www.davivienda.com/
+El Ingreso al Chat por el App se encuentra en la parte inferior de la pantalla: opciÃ³n AtenciÃ³n
+                    en lÃ­nea / Chat.
+6.3.3. Canales dispuestos para Empleados
+El Titular podrÃ¡ ejercer sus derechos mencionados enviando un correo a:
+gestionhumana@davivienda.com
+6.3.4. Canales dispuestos para Candidatos
+El candidato podrÃ¡ ejercer sus derechos mencionados enviando un correo a:
+seleccionpersonal@davivienda.com
+6.3.5. Canales dispuestos para Proveedores
+En caso de necesitar procedimientos de consulta y reclamaciÃ³n relacionados con temas de
+            protecciÃ³n de datos, los proveedores podrÃ¡n hacerlo a travÃ©s del correo electrÃ³nico a:
+registroproveedor@davivienda.com
+6.4. QUEJAS ANTE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+Los Titulares, causahabientes o cualquier otra persona con interÃ©s legÃ­timo, solamente podrÃ¡n
+        presentar quejas ante la Superintendencia de Industria y Comercio (SIC) una vez hayan agotado
+        el procedimiento de consulta, queja y/o reclamo ante Davivienda mencionado en esta PolÃ­tica, de
+        conformidad con lo dispuesto en el artÃ­culo 16 de la Ley 1581 de 2012.
+CAPÃTULO VII
+VIDEO VIGILANCIA
+Davivienda utiliza diversos medios de videovigilancia instalados en diferentes sitios internos y externos
+        de sus instalaciones u oficinas. En razÃ³n a ello, informa al pÃºblico en general sobre la existencia de
+        estos mecanismos mediante la difusiÃ³n en sitios visibles de anuncios de video vigilancia.
+La informaciÃ³n recolectada a travÃ©s de este mecanismo se utiliza para fines de seguridad,
+        mejoramiento de nuestro servicio y la experiencia en las instalaciones de Davivienda, asÃ­ mismo,
+        como prueba en cualquier tipo de proceso ante cualquier autoridad u organizaciÃ³n.
+Davivienda no hace entrega de videograbaciones obtenidas a ningÃºn tercero, salvo que medie orden
+        judicial, de autoridad competente o que la ley lo permita.
+CAPÃTULO VIII
+TRANSFERENCIA Y TRANSMISIÃ“N DE DATOS PERSONALES NACIONAL E INTERNACIONAL
+Davivienda, como responsable de la informaciÃ³n personal almacenada en sus bases de datos y
+        en desarrollo de las finalidades descritas en la presente PolÃ­tica, podrÃ¡ realizar transferencia o
+        transmisiÃ³n nacional o internacional de datos.
+Davivienda verificarÃ¡ que el paÃ­s receptor de la informaciÃ³n personal haya sido incluido en la lista de
+        paÃ­ses que ofrecen un nivel adecuado de protecciÃ³n de datos, seÃ±alados por la Superintendencia
+        de Industria y Comercio o revisarÃ¡ la normativa vigente en el paÃ­s receptor de la informaciÃ³n,
+        para determinar si se cuenta con las condiciones idÃ³neas para garantizar niveles adecuados de
+        seguridad de la informaciÃ³n objeto de transmisiÃ³n o transferencia.
+Adicionalmente, Davivienda celebrarÃ¡ contrato de transmisiÃ³n y/o transferencia u otro instrumento
+        jurÃ­dico que garantice la protecciÃ³n de los Datos Personales objeto de transmisiÃ³n y/o transferencia
+        y, en los casos en que aplique, Davivienda solicitarÃ¡ la declaraciÃ³n de conformidad.
+8.1. RELACIÃ“N CON TERCEROS, ALIADOS ESTRATÃ‰GICOS Y/O COMERCIALES
+        Y ENCARGADOS DE DAVIVIENDA
+Davivienda velarÃ¡ porque los terceros con que se vincule o con los que establezca relaciones
+        comerciales o alianzas cumplan con el rÃ©gimen de protecciÃ³n de Datos Personales en Colombia
+        y con la presente PolÃ­tica.
+Davivienda, sin perjuicio de toda la documentaciÃ³n en materia de protecciÃ³n de datos, podrÃ¡
+        solicitar a terceros y/o Encargados informaciÃ³n idÃ³nea y pertinente para verificar y observar el
+        cumplimiento de las disposiciones contenidas en la presente PolÃ­tica y el rÃ©gimen de protecciÃ³n
+        de Datos Personales en Colombia.
+En caso de utilizar informaciÃ³n de aliados comerciales, Davivienda verificarÃ¡ que el aliado cuenta
+        con las autorizaciones correspondientes y, en el evento de permitir que aliados comerciales
+        puedan conocer Datos Personales de contacto para realizar ofertas, verificarÃ¡ que los Titulares
+        hayan dado su consentimiento para tales fines. En estos casos siempre existirÃ¡ la opciÃ³n clara y
+        disponible de revocar el consentimiento, y los datos serÃ¡n seÃ±alizados con el fin de evitar que se
+        vuelvan a utilizar para realizar ese tipo de ofertas.
+Davivienda podrÃ¡ solicitar a terceros y/o Encargados que acrediten de manera previa, durante o
+        de forma posterior a la relaciÃ³n que los vincule, el cumplimiento de los requisitos del rÃ©gimen de
+        protecciÃ³n de Datos Personales.
+CAPÃTULO IX
+NIVEL DE MEDIDAS DE SEGURIDAD APLICADO AL TRATAMIENTO
+Davivienda cuenta con polÃ­ticas, normas y procedimientos tendientes a mantener la confidencialidad,
+        integridad y disponibilidad de la informaciÃ³n, incluyendo los Datos Personales. Igualmente, ha
+        implementado medidas tÃ©cnicas, humanas y administrativas para preservar la seguridad de la
+        informaciÃ³n y los datos, prevenir su adulteraciÃ³n, pÃ©rdida, consulta, uso o acceso no autorizado
+        o fraudulento.
+Se ha establecido que en los contratos celebrados con los Encargados se incluyan clÃ¡usulas
+        que establezcan de manera clara el deber de estos de garantizar la seguridad y privacidad de la
+        informaciÃ³n del Titular.
+9.1. COOKIES
+Davivienda tiene definida una PolÃ­tica para el uso de cookies en su sitio web corporativo y sus
+        aplicaciones mÃ³viles (Apps), en la cual se establecen los tÃ©rminos de uso de estos archivos y
+        los derechos de los Titulares en relaciÃ³n con la recolecciÃ³n de datos y el uso que se da a esta
+        informaciÃ³n personal.
+Para mayor detalle de esta PolÃ­tica, consulte:
+www.davivienda.com
+CAPÃTULO X
+VIGENCIA Y MODIFICACIÃ“N DE LA POLÃTICA
+Esta polÃ­tica puede ser modificada en cualquier momento con el objeto de adaptarla a nuevas
+        prÃ¡cticas que se desarrollen o novedades legislativas o jurisprudenciales en la materia.
+En caso de cualquier actualizaciÃ³n o modificaciÃ³n, Davivienda lo informarÃ¡ a los Titulares de la
+        informaciÃ³n personal en la pÃ¡gina web
+www.davivienda.com
+o en cualquier otro medio que
+        considere pertinente, indicando la fecha de entrada en vigencia de la correspondiente modificaciÃ³n
+        o actualizaciÃ³n, segÃºn sea el caso.
+VERSIÃ“N
+FECHA
+RESPONSABLE DE LA APROBACIÃ“N
+ASUNTO
+1.0
+Marzo 2013
+Alta Gerencia
+AprobaciÃ³n y publicaciÃ³n de la polÃ­tica
+2.0
+Noviembre 2021
+Junta Directiva
+ActualizaciÃ³n de la polÃ­tica
+3.0
+Diciembre 2022
+Junta Directiva
+ActualizaciÃ³n de la polÃ­tica
+4.0
+Julio 2023
+Junta Directiva
+ActualizaciÃ³n de la polÃ­tica

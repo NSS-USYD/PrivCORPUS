@@ -1,0 +1,28 @@
+Privacy Policy
+Application Privacy Policy (hereinafter the "Current Policy") defines handling of user information of Pascal Inc.'s ("Our", or "Company")
+application ("Application") and the Application's service ("Current Service").
+By downloading and using this Application, customers will be deemed to have agreed to the terms of Our Current Policy.
+ï¼‘ï¼Ž Acquired Information and Purpose
+By using this Application and Current Service, it will acquire the following user information on below automatically for the following purposes.
+ï¼ˆ1ï¼‰ Acquiring the advertisement identifier, for advertisement distribution.
+ï¼’ï¼Ž The use of Information Gathering Module
+Module Nameï¼š Google Play Services SDK / Google Analytics Services SDK
+Informerï¼š Google, Inc.
+Purpose of Useï¼š Using the Information Gathering Module for proper servicing.
+Module Nameï¼š Google Mobile Ads SDK
+Informerï¼š Google, Inc.
+Purpose of Useï¼š Using the Information Gathering Module for proper advertisement distribution.
+Module Nameï¼š Unity Ads SDK
+Informerï¼š Unity Technologies
+Purpose of Useï¼š Using the Information Gathering Module for proper advertisement distribution.
+ï¼“.  Stopping transmission and deletion of user information.
+This application does not transmitting user information automatically.
+ï¼”ï¼Ž Handling of the end of Current Service and information
+The Information that acquired and saved from the customer will be deleted from the terminal.
+ï¼•ï¼Ž Revision of Current Policy
+Current Policy may be revised from time to time. This revision will be applied from the time the
+Company has posted in website or to this Application.
+ï¼–ï¼Ž Inquiry
+If you have inquiries about Current Policy, please go through the procedure from user support's inquiry form.
+END
+Application Privacy Policy Created: February 2, 2017

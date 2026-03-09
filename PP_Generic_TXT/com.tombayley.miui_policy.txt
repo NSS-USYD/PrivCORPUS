@@ -1,0 +1,63 @@
+MIUI-ify - Privacy Policy - Tom Bayley Apps
+Tom Bayley Apps
+Apps
+Volume Styles
+Super Status Bar
+Tile Shortcuts
+Bottom Quick Settings
+MIUI-ify
+Contact
+Translate
+MIUI-ify - Privacy Policy
+MIUI-ify does not collect, use or store your data.
+A list of permissions and the reasons they are required are listed below:
+Accessibility service
+Used for the Handle/Status bar blacklist - to detect the foreground application
+Used to keep the service running - so that the quick setting panel can continue to be displayed after removing the application from the recents menu
+Only information required for the above points is used. Data is not collected, sent or stored.
+Display Over Other Apps
+For the app to be able to display the quick setting panel
+Modify System Settings
+To change the screen brightness and rotation mode
+Read/Write Storage
+Required for creating/restoring a backup of the apps settings.
+Required for taking a screenshot
+Screen Capture
+Required to take a screenshot or to blur the background behind the panel.
+The phone screen is only captured when taking a screenshot or when background blur is enabled and the panel is opened
+Write Secure Settings
+Used to toggle: Mobile Data, NFC, Location, Immersive Mode, Airplane Mode, Invert Colors, Battery Saver
+The above Android settings cannot usually be toggled by 3rd party apps. Granting this permission allows the above settings to be toggled.
+Notification access
+To show notifications above the quick setting panel
+To show notification icons in the status bar
+Do Not Disturb Access
+To be able to switch between Do Not Disturb modes when the Do Not Disturb quick setting tile is tapped
+Access/Change WiFi State
+To detect when WiFi is disconnected/connected and update the WiFi quick setting tile accordingly
+To turn WiFi on/off when the WiFi quick setting tile is tapped
+Location
+The location permission is optional
+Enabling the location permission allows the app to retrieve the WiFi network SSID and display it underneath the WiFi tile icon in the quick setting panel
+Read/Write sync settings
+To be able to detect if Sync is turned on/off and update the Sync quick setting tile accordingly
+To be able to turn Sync on/off when the Sync quick setting tile is tapped
+Bluetooth
+To detect when the device is connected/disconnected to another Bluetooth device and update the Bluetooth quick setting tile accordingly
+To turn Bluetooth on/off when the Bluetooth quick setting tile is tapped
+Access Notification Policy
+To detect the current ringer mode (sound/vibrate/silent)
+Foreground Service
+So the app can stay awake and continue displaying the quick setting panel when the app's main activity is closed
+Start On Boot
+So the app can start at boot if it was running at the last shutdown
+Alarm
+Required on older Android versions to be able to open the alarm tab of the default android clock app
+Phone
+Required to add shortcuts in the quick setting panel for contacts.
+No data is collected, sent or stored. Only a link to the contact is created when adding a shortcut to the panel.
+Camera
+Only required on Android Lollipop to toggle the flashlight
+If any permissions are unclear. Please don't hesitate to contact. Send an email to
+[email protected]
+Follow us on:

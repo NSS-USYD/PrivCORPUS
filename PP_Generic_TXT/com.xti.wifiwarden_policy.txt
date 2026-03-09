@@ -1,0 +1,135 @@
+WiFi Warden
+Search this site
+Skip to main content
+Skip to navigation
+WiFi Warden
+Privacy Policy
+Term of Use
+WiFi Warden
+Privacy Policy
+Term of Use
+More
+Privacy Policy
+Term of Use
+WiFi Warden
+Privacy Policy of WiFi Warden Android Application
+Privacy Policy
+Privacy Policy
+What information does the Application obtain and how is it used?
+Collection of Information
+Use of Information
+Google Analytics for Firebase
+Firebase Crashlytics
+Permissions
+Our Policy Towards Children
+What are my opt-out rights?
+Data Retention
+Changes to This Privacy Policy
+Contact Us
+Last updated: (
+2020-05-15
+)
+This privacy policy governs your use of the software application "WiFi Warden" (
+“Application”, "App"
+) for Android devices that was created by Ramtin Ardeshiri.F and and his subsidiaries and affiliates ("
+we
+", "
+us
+", "
+our
+" ). This page is used to inform App users regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use the App.
+The term “
+you
+” or “
+your
+” as used in this Policy, means any person or entity who accesses or uses the Services.
+PLEASE READ THIS POLICY CAREFULLY. BY USING, ACCESSING OR DOWNLOADING THE APP, YOU ACCEPT AND AGREE TO THE PRACTICES DESCRIBED IN THIS POLICY, ON BEHALF OF YOURSELF AND ALL PERSONS AND BUSINESSES FOR WHOM YOU ARE REPRESENTING.
+The Information that is collected, is used for providing and improving the Services. Your information will not use or share with anyone except as described in this Privacy Policy.
+Please feel free to contact us with any questions or comments about this Policy.
+What information does the Application obtain and how is it used?
+The app does use third-party services that may collect information used to identify you.
+Link to privacy policy of third-party service providers used by WiFi Warden:
+AdMob
+Google Play Services
+Google Analytics for Firebase
+Firebase Authentication
+Firebase Crashlytics
+Please Note:
+If you are in European Economic Area (EEA), In order to comply with GDPR, you may see a consent page for ads personalization while working with the app. You can choose whether see related ads based on third-party services providers’ information that is collected from you or not. Also, you can see a list of ad technology providers and their privacy policy. Please note that the privacy policies of those ad technology providers are not included on this page and are only available in the consent page that you will see in the app. You can change your choice anytime by the "Ad Preferences" option inside the "Help" menu (You must be connected to the Internet and be in EEA in order to see this option ). If you do not see consent page and you are not in EEA, it means that personalized ads will be displayed for you.
+Collection of Information
+We receive and store information about you such as:
+Information you provide to us:
+We collect information you provide to us which includes:
+your name, email address, payment method(s), and telephone number.
+information when you choose to provide ratings or otherwise provide information to us through our service or elsewhere.
+Information we collect automatically:
+In addition, the Application may collect certain information automatically, including, but not limited to:
+IP-address of the device;
+information about the device, such as: device ID, model and device type, name and version of the operating system, settings and language of the device;
+version and functionality of the application;
+time of failure.
+Use of Information
+Determine your general geographic location, provide localized content.
+Analyze and understand our audience, improve our service (including our user interface experiences).
+Communicate with you concerning our service so that we can send you news about WiFi Warden, details about new features and content available on WiFi Warden, special offers, promotional announcements, consumer surveys, and to assist you with operational requests such as password reset requests. These communications may be by various methods, such as email, push notifications , text message, online messaging channels, and matched identifier communications.
+Analytics Technologies: We may use tools or third party analytical software to automatically collect certain information from you and/or your device which may be considered personal information under applicable data protection laws .
+We may use analytics tools to develop and analyze use of the Services. Analytics companies may access anonymous data (such as your IP address, device vendor ID, and/or device advertising ID) to help us understand how Services are used. Analytics tools we may use include:
+Google Analytics for Firebase
+If you wish to find out more information on Google Analytics for Firebase, please follow this link:
+https://www.firebase.com/terms/privacy-policy.html
+Analytics data collection does not include personally identifying information. We do not merge the non-personally identifying analytics data that we collect with personally identifying information from any other source.
+Our legal basis for this collection and processing is to protect our legitimate business interests and therefore do not seek consent to collect your information for these purposes.
+We may use your personal information for the following purposes:
+To track game installs
+To understand you, your preferences and user traffic to enhance your experience
+To conduct research
+To receive error messages about any issues you/your device encounters with our Services to enable us to fix bugs and interoperability issues
+To detect and prevent illegal activities (e.g. hacking or cheating)
+Firebase Crashlytics
+If you wish to find out more information on Google Analytics for Firebase, please follow this link:
+https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms/
+The application is using a crash reporting tool, Firebase Crashlytics, a business division of Google Inc., to send our developers information about bugs and crashes that users experience.
+The Services automatically collect certain information that does not personally identify End Users who access or use mobile applications that use the Services.
+This information includes, but is not limited to, device state information, unique device identifiers, device hardware and OS information,
+information relating to how an application functions, and the physical location of a device at the time of a crash.
+_____________________________________________________
+Our legal basis for collecting and using the personal information described in this Privacy Statement will depend on the personal information concerned and the specific context in which we collect and use it. We will normally collect personal information from you where we need the personal information to perform a contract with you (for example, to provide our services to you), where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms (for example, our direct marketing activities in accordance with your preferences), or where we have your consent to do so (for example, for you to participate in certain consumer insights activities like specific surveys and focus groups). In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person (for example, to prevent payment fraud or confirm your identity). For questions about our use of your personal information (including legal bases and transfer mechanisms we rely on), cookies or similar technologies, please contact
+wifiwarden@outlook.com
+.
+You may contact
+wifiwarden@outlook.com
+if you have additional questions about these use cases.
+Permissions
+Location Permission:
+WiFi Warden Uses "
+ACCESS_COARSE_LOCATION
+" permission to make the application able to search for available WiFi networks around you.
+The  reason you need to allow location permission is because of Android 6.0 (and higher versions) limitations and the new Google policy. This permission will not be used by the developer of WiFi Warden to find your precise location in any way.
+Please note that third-party partners may use this permission to display relevant ads.
+Root Permission
+:
+If your phone is rooted, you can give root access to the app. This access is used to recover stored Wi-Fi passwords on your device and connection with WPS (Root-method).
+Our Policy Towards Children
+The App is intended for general audiences and is NOT directed to children. We do not knowingly collect, use or disclose personal information about users under age 18.
+If you are between the ages of 13 and 18 (or the relevant age in your jurisdiction where you are considered a minor), your parent or guardian must agree to these Terms (both for themselves and on your behalf) before you can use our services.
+In the case we discover that a child under age 18 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us via email (information below) so that we will be able to do necessary actions.
+What are my opt-out rights?
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. To opt-out from third-party service providers, you must visit their privacy policy page.
+Data Retention
+We will try to limit the storage of your personal information to the time necessary to serve the purpose(s) for which your personal information was processed, to enforce our agreement, policies or terms, to resolve disputes, or as otherwise required or permitted by law.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or de-identify it, or, if this is not possible – for example, because your personal information has been stored on a backup server – then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+If you request, we will delete or anonymise your personal data so that it no longer identifies you, unless, we are legally allowed or required to maintain certain personal data, including situations such as the following:
+Where necessary for our legitimate business interests such as fraud prevention or to maintain the security of our users.
+Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time for any reason. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately after they are posted on this page. Please note that new changes to the privacy policies of third-party service providers must be pursued through them. We are solely responsible for changing our privacy policy.
+Contact Us
+If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact us via
+wifiwarden@outlook.com
+.
+Facebook:
+Facebook.com/wifiwarden
+Twitter:
+Twitter.com/wifiwarden
+Report abuse
+Google Sites
+Report abuse

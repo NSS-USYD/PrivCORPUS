@@ -1,0 +1,79 @@
+Privacy Policy
+Apps
+Sweat Wallet (Coming Soon)
+Sweatcoin
+Token
+Litepaper
+Sweat Hero
+& NFT
+Blog
+Help
+Get Sweat Wallet
+Get the app
+Privacy Policy
+The Sweat Foundation Ltd is a British Virgin Islands business company (registration number 2081818) (hereafter referred to as the â€œSweat Foundationâ€, â€œweâ€ or â€œusâ€ as the context may require). This Privacy Policy applies to your creation of a SWEAT Wallet via the SweatCoin mobile application (the â€œSweatcoin Appâ€), any website operated by the Sweat Foundation (the â€œSweat Foundation Website(s)â€) the Sweat Token mobile application (the â€œSweat Token Appâ€ and together with the Sweatcoin App, the â€œAppsâ€) and the services we provide that are accessible via any of them (the â€œServicesâ€). This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be stored and processed by us. Please note that you must be aged 18 years or older to use the Services. Please do not use the Services or provide us with any personal information if you are under 18 years of age.
+INFORMATION WE MAY COLLECT FROM YOU
+From time to time, we may collect or ask you to provide personal information including (without limitation) the following: your name, mobile phone number, email address, password, IP address, unique device identifiers and other identification credentials, biographical details, photographs and/or payment information.
+Please note that, with your consent, we will collect information about your location and physical movements in order for the Apps to function properly and monitor and verify forms of eligible movement. You may turn location monitoring on and off from time to time using the settings of your operating system of your mobile device but, if you disable this functionality, we will not be able to collect information relating to your step-count and GPS/Cell-ID location which will prevent tracking and/or conversion of your movement into sweat tokens (â€œSWEATâ€).
+We work with third parties from time to time (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies) who may provide to us information about you. This may include your purchase history from business partners who supply you with rewards made available via the Apps.
+HOW AND WHY WE USE YOUR PERSONAL DATA
+We only use your data where we have a proper reason to do so such as:
+where you have given your consent for us to do so;
+to rely with our legal and regulatory obligations;
+for the performance of a contract with you or to take steps at your request before entering into a contract; or
+or for our legitimate interests or those of a third party.
+A legitimate interest is when we have a business or commercial reason to use your personal data, so long as this is not overridden by your own rights and interests. We will carry out an assessment when relying on legitimate interests, to balance our interests against your own.
+USES MADE OF YOUR PERSONAL DATA
+We may use your personal data to:
+provide the Services (using our own systems and those of appropriate third party service providers);
+verify your physical movement and location and issue SWEAT on the basis of this verified data;
+analyse the usage of, and improve, the Services;
+communicate with you, including without limitation to inform you of updates to the Apps, Sweat Foundation Website(s), our Terms of Use and/or this Privacy Policy;
+perform market and customer research;
+market our services to you;
+correct errors and problems with the Services;
+investigate and/or prevent suspected fraud or other criminal activities;
+create daily leaderboards of users, comprising all users or users meeting particular criteria as ranked by the number of steps completed or using other criteria;
+operate the SWEAT Marketplace; and/or
+investigate disputes between users.
+the developer requests permission to read and write heath data from the Health App.
+SWEAT does not use HealthKit data for advertising purposes and will not sell HealthKit data.
+Additionally, we and/or our trusted partners may contact you from time to time with offers that may interest you and/or to inform you of other products and services. Certain of your personal data may be shared with other users of the Apps as part of the normal operation of the Services (for example your uploaded profile picture and biographical information will be accessible to all users, and we may publish your total verified steps, or other movement, during a particular period to other users from time to time). Further, we may, from time to time, expand or reduce our business which may involve the transfer of certain divisions or assets of our company to other parties, and the data we store and use, where relevant, may be transferred to such third parties. We are located in the British Virgin Islands and by submitting your data to us, if you are located in the United Kingdom or the European Economic Area, you are transferring your data outside of the European Economic Area. From time to time we may transfer data we store and use in the UK or the European Economic Area to locations outside the European Economic Area, some of which may have different data protection laws to the UK or the EU, or no data protection laws. In all such cases, we transmit such information only to entities that comply with this policy and applicable law.
+Your personal data will be kept only for as long as is necessary. We take reasonable industry-standard care in keeping all our data secure and in preventing any unauthorised access or unlawful use of it. All personal data we store and process is handled strictly in accordance with applicable data protection legislation.
+DATA ON THE BLOCKCHAIN
+In order to provide the Service, the minting of SWEAT requires certain data to be included in the data shown on the blockchain relating to the SWEAT at the time it is minted. We take steps to anonymise that data and no contact details or other personal information identifying you is included in that information. The information following is included:
+The number of verified steps taken that caused the minting transaction to occur;
+The amount of SWEAT received by the recipient as a result of the minting transaction caused by those verified steps;
+The date and time on which those verified steps were converted into SWEAT by the minting transaction (but not the date and time on which those steps were actually taken);
+The public key (unique, anonymous crypto reference) of the Wallet that received the SWEAT at the minting transaction.
+Although this data is anonymous, your public key could be used to personally identify you if you provide it to a third party as any third party can read the information included in the blockchain. Neither the Sweat Foundation nor any of its affiliates control the blockchain. you should therefore assume that this data will be available publicly in perpetuity. You should therefore either avoid using the Service or avoid sharing your public key if you do not wish for people to link this information with you personally.
+You may opt out of this information being included in the blockchain but in order for you to continue receiving SWEAT you must give and maintain your consent to The Sweat Foundation and its affiliates processing your data in accordance with this policy. This will not affect any historic SWEAT minting transactions. The data relating to those shall remain on the blockchain indefinitely.
+For more information about blockchains and SWEAT please review our FAQs
+here
+.
+COOKIES
+We use cookies to distinguish you from other users of the Apps and Sweat Foundation Website(s) and obtain certain information about your usage and behaviour. A cookie is a small file of letters and numbers that we put on your computer when you use the Apps or Sweat Foundation Website(s). This helps us to provide you with a better experience when you use the Apps or browse the Sweat Foundation Website(s) and also allows us to improve the Services. We will use both persistent cookies, which could remain on your device until their expiration (which, in some cases, is up to 10 years), and session cookies, which are temporary files removed from your device once your browser is closed.
+The types of cookies we may use include:
+Analytical/Tracking Cookies, which allow us to recognise and count the number of visitors and analyse use of the Services, as well as to verify transactions; and
+Advertising and Retargeting Cookies, which allow us to generate appropriate advertising directed to you on the Sweat Foundation Website(s) as well as on the Apps and other third party websites.
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. You may block cookies by activating the appropriate setting on your browser but, if you do so, you may not be able to use all functionalities of the Services.
+The types of cookWe use a number of industry-standard data analytics tools, such as Google Analytics and Facebook Analytics. These collect certain information about you, such as your deviceâ€™s IP address and browsing and usage behaviour, and are used to allow us to track and monitor the traffic visiting the Apps and the Sweat Foundation Website(s).ies we may use include:
+YOUR RIGHTS
+You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing (i.e. â€œopt outâ€) by clicking â€˜unsubscribeâ€™ at the bottom of our marketing emails or by emailing
+[email protected]
+, with the subject â€˜unsubscribeâ€™.
+You have the right to change your personal information we hold about you. You can exercise your right by accessing your Account information in our app (Open SWEAT app â†’ Your Account Screen â†’ Edit (on Android) or Pencil icon (on iPhone) â†’ Change your details â†’ Save)
+You have the right to ask us about the personal information we hold about you and to request a copy of your personal information. You can exercise your right to access this information by emailing
+[email protected]
+, with the subject â€˜data access requestâ€™.
+You have the right to delete your account and any personal information we hold on you. You can exercise your right to delete your SWEAT Wallet and the personal information attached to it yourself, by triggering an account deletion via the Help section within the SWEAT app (Open SWEAT app â†’ Your Account Screen â†’ Settings â†’ Help â†’ Contact us â†’ Choose your problem = Delete Account)
+CHANGES TO THIS PRIVACY POLICY
+We reserve the right to change this Privacy Policy at any time. Any such changes we may make to this Privacy Policy will be posted on the Apps and Sweat Foundation Website(s), and may be emailed to you. Please check the Privacy Policy available on the Apps and Sweat Foundation Website(s) from time to time. In the event of any such change, by continuing to use the Apps or Sweat Foundation Website(s) you agree to the relevant change.
+CONTACT
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to
+[email protected]
+with subject line â€œenquiryâ€.
+Copyright 2022-2023 Sweat Economy
+Privacy Policy
+T&C
+Grow Terms

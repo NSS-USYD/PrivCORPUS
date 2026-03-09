@@ -1,0 +1,93 @@
+Privacy Policy
+Privacy Policy
+V380 Pro(Developer: Macro-video Technologies Co.,Ltd.) respect your concerns about privacy. We pay great attention to our users’ privacy.Related information will be collected and adopted from you when using our products and services and we hope to give you a clear declaration through this that how we collect,use,store and protect these information and the way how to access,update,control and protect them when you enjoy our service.
+This statement is closely related to our services,please make sure to read it carefully.
+1、Collected information
+1.1 Information we need
+E.g.personal information will be needed when you register a new account,such as e-mail address,phone number which are to be saved under your account name or you may provide other information such as the third-party account and photo when you use our sharing by third party or logging functions.
+1.2 Information acquired when using the service
+We will collect some service information including:
+Log Information
+We will collect the information automatically and saved it to server log or written them into phones’ outer saving devices,such as:
+Error produced or abnormity when using app
+breakdown occurs when processing,we will put the wrong logs into outer saving device and users could choose whether to send it out to us or not.
+Local-storage
+User’s screenshot or recording files will be stored in phones’ outer saving devices.
+Data cache and users’ data will be stored in Database for local storage when processing.
+Get the location information of the device
+It is used to realize functions such as quick connection to the device, discovery of nearby devices, and Wi-Fi list.
+Optimize the network connection request between the SDK and Jiguang server to ensure the stability and continuity of the service; realize the function of regional push.
+Get mobile device information
+Used to identify unique users and ensure accurate delivery of message pushes
+2、How do we use the collected information
+Reset the route of out-dialing phone numbers
+Some special devices can call out phone(user),this application needs to sense phone’s status of incoming call or calling out when sending the video request out and hang up the video request.
+Pictures/video taken and recording
+Once app is requested for video call from other devices,data will be needed to send out which is collected from camera and microphone.
+Support some devices such as NVR when adding and it’s for scanning QR Code to add networking new devices and we can get the date back by camera.
+Read ,revise and delete the content if USB storage
+It allows users to do the screenshot and save it in saving device when watch the camera data.Saving contents can be checked in APP.
+Check/alter network connection and completely internet access permission
+It needs to read the internet information when app is configuring the network for camera and provide users with limited account systematic function.
+Allow to receive multicast for WLAN
+Other cameras can be found under the same LAN and exchange the data by WLAN multicast and camera not added.
+Revise system settings
+Some setting options will be provided for user’s options such as starting up automatically and mute when video monitoring and etc.
+Notice information for software updating
+Join us for researching our products and services
+We will integrate Jiguang SDK to implement message push (or other) functions.
+Types of personal information collected by Jiguang Push SDK:
+Device information:
+(1)Device identifier (IMEI, IDFA, Android ID, MAC, OAID ,IMSI and other related information)
+(2)application information (application crash information, notification switch status, software list and other related information)
+(3)device parameters and system Information (device type, device model,operating system and hardware related information)
+Used to identify unique users and ensure accurate delivery of message pushes; to optimize push channel resources, we will integrate message push channel resources according to the active status of different apps on the device to increase the message delivery rate for developers; Developers provide smart labels and display business statistics services;
+Network information:
+IP address, WiFi information, base station information and other related information
+Location information
+Network information and location information: Optimize the network connection request between the SDK and Jiguang server to ensure the stability and continuity of the service; realize the function of regional push.
+To learn about the companies, organizations and individuals currently involved in this situation, please click here. [https://www.jiguang.cn/license/privacy]
+We may share your personal information externally in accordance with laws and regulations, or mandatory requirements of government authorities.
+We will integrate BeiZi SDK to implement message push (or other) functions.
+Types of personal information collected by BeiZi SDK:
+Device information:
+As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.
+(1)Device attributes:
+information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+(2)Device operations:
+information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+(3)Identifiers:
+unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Facebook Company Products associated with the same device or account).
+(4)Device signals:
+Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers. Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+(5)Network and connections:
+information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you stream a video from your phone to your TV.
+(6)Cookie data:
+data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the Facebook Cookies Policy and Instagram Cookies Policy.
+(7)Identifiers:
+unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Facebook Company Products associated with the same device or account).
+(8)Device signals:
+Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+(9)Data from device settings:
+information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+(10)Network and connections:
+information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you stream a video from your phone to your TV.
+(11)Cookie data:
+data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the Facebook Cookies Policy and Instagram Cookies Policy.
+Your location information:Your location can be determined with varying degrees of accuracy by:
+(1)GPS
+(2)IP address
+(3)Sensor data from your device
+(4)Information about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
+We will integrate the Alipay SDK to integrate the payment function provided by Alipay in the App application.
+Types of personal information collected by Alipay SDK:
+Privacy Policy of Alipay SDK
+We will use the login function of WeChat, you can use your WeChat account to log in and register our account.
+Types of personal information collected by Wechat SDK:
+Privacy Policy of Wechat
+We will use the login function of Twitter, you can use your Twitter account to log in and register our account.
+Types of personal information collected by Twitter SDK:
+Privacy Policy of Twitter
+3、Information Security
+Your personal information will be only reserved in required time and for legal requirements within limited time under this Privacy Policy.
+All kinds of secure technologies and procedures are used for information being lost,improper used,read or disclosure without authority.For example,we utilize encryption technology (SSL)to protect your personal information under some services.But please do understand there is no completely security as there is some technology limit and hostile means existed in internet industry even though we try our best.

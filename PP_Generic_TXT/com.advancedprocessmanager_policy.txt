@@ -1,0 +1,52 @@
+Privacy Policy
+Privacy Policy
+If you choose to use this app, then you agree to the collection and use of information in relation to this policy. The Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
+Personal Information.
+Personal information is data that can be used to identify or contact a single person. We do not collect Personal Information.  So we may not use your personal information in any way.
+Non-Personal Information.
+We may collect non-personal identification information about Users whenever they interact with our apps. Non-personal identification information may include the type of your phone and technical information about Users means of connection to our apps, such as the versions of phone model and other similar information.The Non-Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Advertising ID.
+Google Advertising ID by Google Play Service for advertising is used in the third-party advertising network to prevent inappropriate advertisement content for you.
+App Usage Data.
+We collect usage data to analyze and improve the user experience. We promise that we will never disclose your privacy to any person or third party interest information.
+Storage
+This permission is used to File Mange, System Clear, Backup & Restore.
+Accessibility
+This permission is used to close apps by user. This is only used to speed up user devices and no relative information will be uploaded.
+Do Not Disturb access
+This permission is used to set Ringtone in the Tools.
+ACCESS_NETWORK_STATE
+INTERNET
+These permission is used to access the device’s network in the Tools.
+BLUETOOTH_ADMIN
+BLUETOOTH
+These permission is used to view Bluetooth connections and turned on or off in the Tools.
+WRITE_SETTINGS
+This permission is used to change sleep and brightness in the Tools.
+ACCESS_WIFI_STATE
+This permission is used to view Wi-Fi connections in the Tools.
+CHANGE_NETWORK_STATE
+This permission is used to change network connectivity in the Tools.
+CHANGE_WIFI_STATE
+This permission is used to connect and disconnect from Wi-Fi in the Tools.
+CLEAR_APP_CACHE
+GET_PACKAGE_SIZE
+PACKAGE_USAGE_STATS
+These permission is used to delete cache files
+KILL_BACKGROUND_PROCESSES
+This permission is used to close other apps and boost your phone.
+READ_EXTERNAL_STORAGE
+This permission is used to view files stored on their SD card. We promise that we will never disclose your privacy to any person or third party interest information.
+READ_SYNC_SETTINGS
+This permission is used to get sync state in the Tools.
+RECEIVE_BOOT_COMPLETED
+This permission is used to Show Notification Icon and Show Startup .
+WRITE_EXTERNAL_STORAGE
+This permission is used to delete files stored on their SD card. We promise that we will never disclose your privacy to any person or third party interest information.
+WRITE_SYNC_SETTINGS
+This permission is used to set sync state in the Tools.
+REQUEST_INSTALL_PACKAGES
+These permission is used to help users install apps easily.
+Accessibility permission
+These permission is used to help users kill apps and clear cache.
+If you have any questions, please contact crazymobile.wind@gmail.com.

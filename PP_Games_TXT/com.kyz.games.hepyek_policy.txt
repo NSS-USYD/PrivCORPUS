@@ -1,0 +1,53 @@
+Privacy
+Search this site
+Skip to main content
+Skip to navigation
+Home
+Privacy
+Privacy Policy
+Thank you for choosing our games.
+We do respect your privacy and with this policy we would like to express how we collect the data and how we use it in a simple and clear way.
+Information We Collect and How We Use It
+We don’t collect and store any personal data within our servers however we use following third party services which automatically access your data to give you a better experience:
+Google Play Game Services
+Our games use Google Play Game Services for signing in and keeping the leaderboard of scores to make the game more challenging so that you can compare your score with the other players.
+On signing in with Google, our game accesses your data on Google; player name, player avatar URL, player score and the player id. When your score is posted to leaderboard, other players can see your player name, player avatar and your game score on public leaderboards.
+Please see the privacy policy of Google Play Game Services on:
+https://policies.google.com/privacy
+https://firebase.google.com/support/privacy/
+Google Analytics (Google Analytics for Firebase)
+To have a better understanding of how our game is performing and making improvements; we use Google Analytics to have statistical analysis without identifying the individuals.
+Google Analytics reports the trends for the app usage, it records your game engagement which includes your session length, number of times you used the game and how you interact with it:  your device brand, your device’s various capabilities & features, the country and the city you are in, your language, your internet service provider, your device’s screen size & operating system, your device’s CPU & RAM, your IP address, your device’s identifier (including Identifier for Advertising). We use this information to understand how our application is performing in various geographies with various types of devices.
+It also tracks your interaction with the game, like the buttons you pressed. We use this information to understand how our players interact with the user interface and to decide if there is any room for improvement.
+We do check and report anonymously if our users have Google Play Game Services enabled on their devices to understand how many users can benefit from the feature that Google Play Game Services provide.
+Please see the privacy policy of Google Analytics on:
+https://policies.google.com/privacy
+https://firebase.google.com/support/privacy/
+Google AdMob
+For advertising purposes, our games use Google AdMob product. Google AdMob uses your device ID and also uses other technologies like cookies, web beacons and pixels to be able to show you personalised and targeted ads. To serve ads for interested products, it also uses demographic information.
+Please see the privacy policy of Google AdMob on:
+https://policies.google.com/privacy
+https://firebase.google.com/support/privacy/
+Your Rights and Options
+Opting Out:
+Personalised Ads
+You can change your device settings to opt-out personalised ads:
+Go to settings (Based on device, it can be Settings or Google Settings)
+Select Google
+Tap Ads
+Opt out for “Ads Personalisation”
+Access and Correct the Data
+You have the right to access and correct the data if we can identify you and the third party supports it.
+International Transfer
+Your data may be stored anywhere in the world by our systems or the third party services we use.
+Collecting Information From Minors
+Our games are not targeted to children and we don’t knowingly collect and store the data of children.
+Contact Us:
+You can contact us via
+toughpixelsinfo@gmail.com
+.
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

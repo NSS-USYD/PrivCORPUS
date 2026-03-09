@@ -1,0 +1,92 @@
+Privacy Policy
+MySejahtera
+Home
+MySejahtera Check-In
+Media
+Download
+FAQ
+Contact Us
+BM
+|
+EN
+BM
+|
+EN
+MySejahtera Privacy Policy
+MySejahtera Application (hereinafter referred to as "App"), is an application developed to
+assist in managing the COVID-19 outbreaks
+in Malaysia. It allows you (hereinafter referred to as "User") to perform a self-health assessment, monitor their health status and share it with the Ministry of Health (MOH) to enable immediate actions in providing treatments if required.
+MySejahtera is owned and operated by the Government of Malaysia. It is administrated by the Ministry of Health (MOH) and assisted by the National Security Council (NSC) and the Malaysian Administrative Modernisation and Management Planning Unit (MAMPU). The Government assures that the collection of your personal information is align with Personal Data Protection Act 2010 (Act 709).
+Personal Information
+The app will not record user's Personal Data except with the permission and voluntarily provided by the user. Information collected are used for monitoring and enforcement purposes by Government authorities in dealing with the COVID-19 pandemic. This information is not shared with other organizations for other purposes unless specifically stated.
+Data Collected
+This app collects data with the consent of the user and is done voluntarily through, but not limited to, registration process, adding dependent information, answering health assessments, checking in at the premises using a QR code scan and contacting app support via email or technical support form.
+Data are also collected automatically â€“ for example, location data from check-in via scanning of QR code and your health risk status resulted from answering the health assessment.
+Location data will only be collected once the permission to access device location services is granted and allowed by the user.
+Data collected varies according to the purpose (based on the use of functions / modules of the app used by the user), the Personal Data that are usually collected are as follows:
+User Registration
+Name
+Address
+Identity Card Number / Passport Number
+Phone number
+Date of birth
+Email address
+Gender
+Check-in
+Name
+Phone number
+Location
+Complaints
+Name
+Location
+Photos (uploaded on the complaint form)
+Travel
+Name
+Phone number
+Identity Card Number / Passport Number
+Citizens
+Ship Number
+Seating Number
+Departure Destination
+Arrival Destination
+District
+Permissions Summary
+We would ask for the following permissions while using respective features in the app to give you a better experience
+Camera:
+To allow you to scan check-in QR codes for contact tracing purposes, or set up your profile picture
+Location:
+To identify your location to use our built-in location-based features (E.g. Hotspot tracker, location assessment, locate health facility). To allow for proximity notification service using Bluetooth LE in the background.
+Phone:
+To allow you to directly dial the COVID-19 or Vaccination hotline via the app
+Files, Photos, Audio & Video:
+To allow you to set up your profile picture and download infographic announcements in the app
+Bluetooth:
+To allow you to setup proximity notification
+The purpose of data collection is as follows:
+To assess your risk of being infected by COVID-19 based on the information you provide on your health condition and history of travel, mass gathering or close contact with a confirmed case.
+To communicate with you in case your condition requires a follow up from healthcare personnel.
+To respond to you about any comment or enquiry you have submitted.
+To suggest the nearest medical/screening facility to your location.
+To help you identify if your current location is a hotspot area (area with a reported positive COVID-19 case).
+To trace the place youâ€™ve been in case of positive COVID-19 case reported in that location
+To ensure the compliance to all Movement Control Order (MCO) rules and Standard Operating Procedures (SOP) issued under the Prevention and Control of Infectious Diseases Act 1988.
+Your personal information might be shared with enforcement authority for follow-up and resolution of any complaints you submitted via this App.
+The Personal Data collected will not be used for any purpose other than those mentioned above, unless if required in order to comply with any legal obligation.
+No Personal Data collected by this App will be disclosed to any third party or transferred to a place outside of Malaysia for commercial purposes.
+Effect If Personal Data Is Not Sufficient
+If the Personal Data provided is insufficient or unsatisfactory, then the User's application or request for any of the above purposes may not be accepted; or action taken or use of the services offered by the App may be rejected or affected.
+Data Confidentiality
+Personal Data collected by the App will be kept confidential in accordance with this Privacy Policy in accordance with any applicable laws which may take effect from time to time.
+For Check-In data, userâ€™s data is only stored for a period of 90 days and would be purged thereafter.
+Data Security
+This App implements security features which adheres to global standards to protect the confidentiality and security of Userâ€™s information. Data in transit are encrypted, while data at rest is stored in a highly secured server.
+Anonymised data
+This App collects anonymised data about your device and OS (e.g. device model, OS version) to help us improve the App and provide a better user experience.
+Changes To The Privacy Policy
+If this privacy policy changes in any way, it will be updated on this page.
+Privacy Policy
+|
+Disclaimer
+© 2021
+Government Of Malaysia
+. All Rights Reserved

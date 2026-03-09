@@ -1,0 +1,25 @@
+Distance and Area Measurement privacy policy
+Distance and Area Measurement privacy policy
+Introduction
+Distance and Area Measurement is an application devloped and released by Second Tech AB.
+			This document describes what data may be collected when you use Distance and Area Measurement and for what purpose this data is collected.
+What data we collect
+Distance and Area Measurement does not collect any personal data directly.
+			However, trusted third party services are used to collect data required to display advertisement, process payments, and provide usage statistics.
+			See the "list of privacy policies for third party services" below for links to privacy policies detailing what data is collected by these services.
+Legal basis for collecting data
+To use the application the user must first accept the privacy policy.
+List of privacy policies for third party services
+Google Play Services
+AdMob
+Firebase Analytics
+User rights
+Distance and Area Measurement does not itself collect or store any personal information.
+			For inquires about, and request for removal of, any personal information stored by third parties, plaease send a mail to kristofer.bjornson@second-tech.com titled "Personal information".
+Access to sensitive services
+Distance and Area Measurement requires access to the device storage to save data.
+			Access is also required to the GPS, but the GPS data never leaves the phone.
+Change of privacy policy
+Updates to the privacy policy will be anounced through application updates.
+Effective date of privacy policy
+This is the Distance and Area Measurement privacy policy 1.1, effective as of the 25th of June 2022.

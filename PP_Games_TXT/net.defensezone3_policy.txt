@@ -1,0 +1,40 @@
+Private Policies
+Privacy policy
+Information that is collected by Application (often automatically), including:
+Device Information: including various unique identifiers, such as IDFA, Android Ad ID, IDFV, MAC address, when, for example:
+You access games provided by Developers that are developed with Unity Software;
+You access games in which the Developer employs Unity Analytics or deltaDNA to understand the use of their games and improve the player experience
+You receive ads delivered by Unity Ads or mediated by Unity Mediation;
+You play games provided by Developers that utilize Unity’s Multiplayer Service;
+You access games provided by Developers that offer Unity’s game replay Service; and
+Location information: Our systems (like most used on the web) automatically collect an IP address when Users access the Service. IP addresses can be used to learn about the general location (e.g. city, state and country) of the User’s point of access to the web.
+Game play activity and actions: When you play a game that uses Unity Analytics, deltaDNA, or other Unity Game Services, certain game activities such as play session information and monetization events are collected. Session information and monetization events may also be collected if certain features of Unity Ads are enabled.
+Log information: When you access our website(s), Services or products that use an aspect of our Service, we may log a variety of technical information (“Log Info”), including:
+IP address;
+Device identifiers generated from data events including, in some cases session or installation information, device information, including device name and IDs, hardware model, operating system and version, and mobile network information;
+Browser information;
+Cookie information;
+Login data;
+Language preferences;
+Linking information and click stream data;
+Date/time of access and time zone setting;
+Search engine(s) and keywords used to find our website(s);
+Pages viewed within our website(s) and/ or website log files;
+Requested page(s); and
+Referring page(s).
+User device information: When you play a game built with Unity Software, Unity may collect some or all of the following information when you use the game:
+Device identifiers generated from data evetns including, in some cases, session or installation information or the device MAC/IMEI/MEID, which we alter to limit the ability to identify the relevant device in the future;
+An advertising ID, such as the Apple IDFA or the Android Ad ID;
+IP address;
+Device manufacturer and model;
+The operating system and version running on your system or device;
+Browser type;
+Language;
+The make of the CPU, and number of CPUs present;
+The graphics card information, such as type, vendor and driver name, version and graphics API;
+Amount of system and video RAM present;
+Current screen resolution;
+Unity Player and Unity Editor versions;
+Operating system identifier (e.g., Mac, Windows, etc.);
+A checksum of all the data that gets sent to verify that it did transmit correctly; and
+App ID of the game installed.

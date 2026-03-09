@@ -1,0 +1,72 @@
+Privacy Policy
+Application Privacy Policy
+Regarding information collected by this application, Ateam Entertainment Inc., in addition to its own privacy policy separately specified (https://www.ateam-entertainment.com/en/privacypolicy/) and in association with providing this application, prescribes the purposes of use and other matters regarding information collected from users as follows.
+Mainly, this policy explains:
+･The content of user information processed by our company and the purpose of such processing
+･How our company uses user information
+･The rights that users have
+1. User information collected by our company
+Our company, as part of this application, collects and uses the following user information.  Please note that if you cannot provide information contained in a to e below, you may not be able to use all or a part of this application.
+a. Information related to your device such as a smart phone
+･Information regarding your device’s OS version
+･Information about your device
+･Language settings of your OS
+･Regional settings of your OS (this only includes information on a country-level basis as set by the user in the OS.  Location information of greater detail is not collected)
+･Registration ID (Google Android) and Device token (Apple iOS)
+b. Information related to the game
+･User ID (this ID is automatically given to users by our company upon installing this application)
+･Play data (information regarding in-game progress and other data regarding communication with other users)
+･In-app billing history (this only includes the user’s billing history for this application and our company does not retain the user’s credit card number)
+c. Information regarding transmission
+･IP address
+d. Information other than the above
+Our company will collect the following information when users perform each of the acts described in the parenthesis.
+･E-mail address (when a user wishes to restore play data or make an inquiry to customer support)
+･Ateam ID (when a user wishes to restore play data)
+･Information about a user’s inquiry (when a user contacts customer support)
+･Other information provided by the user (when a user wishes to identify and restore a lost account)
+e. Information described in 4 and 5 below
+2. Purpose of processing user information
+Our company mainly uses user information to provide users with an enjoyable game experience through this application.  In addition, we will also use user information for the following purposes.
+For the operation of this application and improvement of the user’s game experience.  This includes the following:
+･to conduct analysis, investigations, optimization and trend monitoring of user’s experiences related to this application
+･to improve and enhance this application
+･to identify and correct bugs and errors in this application
+･to prevent use in violation of the End User License Agreement of this application
+･to develop and improve other applications
+To provide support to users and reply to inquiries from users.  Our company may seek users’ individual confirmation when necessary.
+To provide personalized communication to users.  This includes the following:
+･to provide reward-based advertisement to users
+･to deliver advertisements tailored to the user’s interests and profile
+･to measure the effectiveness of advertising
+･to provide guidance to users regarding this application
+･to send push notifications to users (only if permitted by users)
+3. Rationale for processing (regarding users in the EEA)
+Our company processes the above user information based on Art. 6(1)(a) GDPR (users’ consent), Art. 6(1)(b) GDPR (in cases where it is necessary to execute a use of services contract with the user based on this application) and Art. 6(1)(f) GDPR (legitimate interests of our company). Our legitimate interests include providing, improving and protecting our service.
+4. Provision of user information to partner companies
+In order to fulfil the purposes of use, our company may provide user information to entities such as our subsidiaries, affiliates, and contractors as well as partners and other companies as necessary, and use the services provided by such companies.  Such services include analysis, advertising, marketing support and customer service.
+5. Marketing and advertising
+Our company uses user information to conduct marketing activities toward users regarding this application and our company’s other services.  Such marketing activities include sending email, providing advertisements within the service and providing advertisements on websites, etc., operated by third parties.
+In addition, we may use user information to provide advertisements to users within this application regarding third party products or services.
+Our company may cooperate with partner companies for such marketing and advertising activities and provide user information to such partner companies.
+This application collects the advertising ID generated by the user’s OS for the purpose of personalized marketing and advertisement to the user.  Users can reject the collection of the advertising ID by this application through changing their OS settings.  For information on how to change OS settings, please refer to the information provided by Apple for iOS (IDFA) and Google for Android (AAID)
+Additionally, users residing in the US, Europe or Canada may visit http://www.aboutads.info/choices/ (for American users), http://www.youronlinechoices.com/ (for European users) or http://youradchoices.ca/choices (for Canadian users) to opt out of collection of their user information by all or part of our affiliated advertising companies registered with the Digital Advertising Alliance.
+6. Information security
+Our company takes appropriate security measures to protect user information.
+7. Cross-border transfer of information
+The server for this application resides in Japan and the partner companies concerning this application are spread across the world.  Therefore, user information may be transferred to Japan or other territories where users are not living.  Some of the territories where information may be transferred may include countries with levels of personal data protection that differ from those in the user’s country of residence.  However, our company will protect user information in accordance with this policy.
+8. Regarding the retention period for collected information
+Our company will save and retain collected information until it is no longer necessary for the purposes of use.  Information that is no longer necessary for the purposes of use will be promptly deleted or have all identifying aspects removed.
+9. Regarding the rights of the users
+Based on Japanese law, or the law applicable to each user, users may have the right to, among other rights, access, correct, delete, impose use restrictions and enact data portability regarding their user information.  In addition, users can withdraw their consent by uninstalling this application at any time.
+If users wish to exercise their various rights related to the collected information or make various requests or inquiries, they may contact us through the following method.  Upon confirming the content of the communication our company will respond appropriately.
+･How to contact our company:  Please navigate to [Menu] > [Other] > [Inquiries] > [Inquiries Regarding Errors/Game Adjustments] from inside this application.
+10. Handling of children’s information
+Persons over the age at which consent to disclose user information can be individually given (this means 13 years or older for those in America, and between 13 and 16 in the EU, depending on the member country.  Additionally, for those outside America or the EU, this shall mean the age at which such country recognizes individual consent to disclose personal information) may use this application. In the unlikely event that you believe that there is a possibility that our company possesses a child’s information without having taken the appropriate procedures, please contact us through the above inquiry method.
+11. Appeals to the regulatory authority
+Users who are dissatisfied with the processing of user information by our company can issue their complaint to the appropriate regulatory authority according to applicable law.
+12. Revisions
+Our company may revise all or part of this application privacy policy.  When there is an important change, our company will announce the content of such change.
+13. Supplementary provision
+For items not stipulated in this application privacy policy, our company’s privacy policy, which is separately issued by our company, shall apply.
+Last revised: March 28, 2019

@@ -1,0 +1,157 @@
+Mobile translators PROMT and Online-Translator.com for business, education, and travel
+for mobile devices
+请向下滚动查看中文版本。中文版在英文版之后。
+Please refer to our data acquisition policy. If you do not agree with our data acquisition policy, please do not use our application. You may also restrict the data acquisition the way that is described in our policy.
+Privacy policy in regard to PROMT applications for mobile devices
+PROMT (hereinafter referred to as PROMT, Company, we), by all means appreciates your confidentiality and provides for its protection.
+Hereby we would like you to know how and why we collect and use your personal data.
+What personal data do we collect about you?
+Any information we use of one piece only and not single out individual  users. Using applications for Android and iOS we collect the following data:
+IP addresses,
+date and time of       application usage,
+version and type of your       device operating system,
+manufacturer and model of       your device,
+version of our application,
+mobile advertising       identifiers such as Apple IDFA and Android advertising identifier,
+statistics of usage of       different functions of application. For example, we record data on time       you use and last time used our application, what actions you carried out       in applications.
+Additionally for PROMT.One (Online-Translator.com) application
+we collect and store texts  and words which you have translated in online-translator.com, as well as  results of translation.
+We took organizational and technical measures to de-identify this data  (translated texts, words and translation results) that we save. For example, in  a random way we select a text for machine learning of translation system and  delete any numbers and other personal data found out in the sample. In order to  perform the push notification function in applications for Android, iOS, as  well as macOS we collect the following data:
+information on items       bought in application if this functionality has been handled therein,       information on your interaction via our application with other       applications and web sites,
+information on your       device (for example, smart phone, tablet), type and version of operating       system, network information, installed browser, network state type (for       example, Wi-Fi), language preferences, time zone,
+mobile advertising       identifiers such as Apple IDFA and Android advertising identifier (only       applications for Android and iOS),
+fine location,
+network information.
+This information is needed for implementation of push notification sending  function by service OneSignal (2194 Esperança Avenue, Santa Clara, CA 95054)  and transferred to this company. More detailed information on OneSignal Privacy  Policy can be obtained at
+https://onesignal.com/privacy_policy
+.
+You may:
+elect not to receive push       notifications browsing to your device setup section and disable receipt       for one or several applications.
+elect not to use mobile       advertising identifiers to view interest-based ads (on Apple in the       section “confidentiality” you have to apply ads limit, on Android in       Google settings you have to select ads and then a function of cancellation       of interest-based ads).
+How can we obtain your personal data?
+Any personal data about you which we process are provided by you while  using PROMT applications.
+How do we use your personal data?
+Your data is collected exclusively for the following purposes:
+further improvement of       applications (enhancement of functionality and user-friendliness,       detection and error correction in applications) by acquisition of       anonymized statistics on use of different functions of our applications,
+provision of ads,       including personalized ones (relevant only to application PROMT.One       (Online-Translator.com)),
+improvement of automatic       translation quality and correction of translation errors through       computerized analysis of texts and words which you have translated via PROMT.One       (Online-Translator.com),
+provision of push       notifications service,
+acquisition of       statistical information to promote our applications. For example, using       mobile identifiers we can find out a source of installation of our       application for iOS and Android.
+We never link obtained data with you and use them only in anonymized form  for the above mentioned purposes.
+How long will we store your data?
+We store your data for a period within which you use our applications. A  maximum data storage period is equal to the period of technical support of our  product (5 years from the time of release of the first version of the relevant  application).
+Who do we share your data with?
+Your personal data will be accessible to our employees as well as our  authorized suppliers that is:
+Google
+(we use the service       Google Analytics for collection of statistics and also for ad view in       application PROMT.One (Online-Translator.com)),
+YANDEX LLC
+(we use the service       Yandex. Metrics for collection of statistics and also for ad view in       application PROMT.One (Online-Translator.com)),
+OneSignal
+(used for push       notification uploading)
+Transmission of your data beyond this country
+Your personal data can be transferred to the following countries:
+Russia, as applications       are developed in Russia,
+The USA, as we use       services of data suppliers located within the US territory (Google.com,  OneSignal,).
+Protection of your personal data
+We may transfer your personal data to our suppliers in accordance with the  written agreements which lay our suppliers under obligation to provide the  proper guarantees in respect to processing of your personal data including  maintenance of confidentiality and accomplishment of all security measures.
+We also take legal, organizational and technical measures to protect your  data in compliance with applicable confidentiality and data security laws.
+Your rights
+You have a right to:
+request information on       processing of your personal data including provision of a copy of your       data,
+request correction and/or       deletion of your data or raise an objection against processing of your       personal data,
+request restriction of       processing of your personal data, withdraw your consent on which basis       processing was carried out,
+request provision of your       personal data in structured, normally used and machine-readable format as       well as request transfer to the other designated person,
+lodge complaint with your       local agency for protection of personal data, or take legal action if your       rights to data protection are broken. You can claim compensation for       losses incurred in connection of illegal processing of your personal data.
+If you wish to use any of your rights, please inform us using the contact  points below.
+Contact us
+If you have any questions or requests concerning processing of your  personal data, or you want to receive any additional information, do not  hesitate to contact us:
+e-mail
+: privacy@promt.com
+Specific features of data processing when using  the application PROMT.One (Online-Translator.com)
+on a paid subscription basis, and also together with the Service www.online-translator.com
+If you use the mobile application PROMT.One (Online-Translator.com), you  may synchronize your favorite translations between the application and the  Service www.online-translator.com In this case we save your favorite  translations over the whole period of your usage of the application. At any  moment you may remove saved translations.
+To be able to synchronize favorite translations, please sign up putting  your name (nickname) and e-mail address. This information will be used for  synchronization of your favorite translations between the application and the  Service online-translator.com. If you use the mobile application PROMT.One (Online-Translator.com)  on a paid subscription basis, we will additionally use the data of your  registration to verify validity of your paid license.
+请参阅我们的数据获取政策。
+如果您不同意我们的数据获取政策，请不要使用我们的应用程序。
+您还可以按照我们的政策中描述的方式限制数据获取。
+关于移动设备PROMT应用程序的隐私政策
+PROMT（以下简称PROMT、公司、我们）会尽一切努力为您保密并提供保护。
+特此，我们希望您了解我们如何以及为何收集和使用您的个人数据。
+我们收集关于您的哪些个人数据？
+任何我们使用的信息都只使用一条，不挑出个别用户。我们使用适用于Android和iOS的应用程序收集以下数据：
+IP地址，
+应用程序使用的日期和时间，
+您的设备操作系统的版本和类型，
+您设备的制造商和型号，
+我们应用程序的版本，
+Apple IDFA和Android广告标识符等移动广告标识符，
+应用程序不同功能的使用情况统计。例如，我们会记录您使用和上次使用我们应用程序的时间、您在应用程序中执行的操作等数据。
+此外，对于
+PROMT.One
+（
+Online-Translator.com
+）
+应用程序，
+我们收集并存储您在online-translator.com中翻译的文本和单词，以及翻译结果。
+我们采取了组织和技术措施来对我们保存的这些数据（翻译文本、单词和翻译结果）进行去标识化处理。例如，我们以随机方式选择一个文本用于翻译系统的机器学习，并删除样本中发现的任何数字和其他个人数据。为了在Android、iOS和macOS应用程序中执行推送通知功能，我们收集了以下数据：
+如果在应用程序中处理了此功能，则有关在应用程序中购买的物品的信息，有关您通过我们的应用程序与其他应用程序和网站进行交互的信息，
+有关您的设备（例如智能手机、平板电脑）的信息、操作系统的类型和版本、网络信息、安装的浏览器、网络状态类型（例如Wi-Fi）、语言偏好、时区，
+移动广告标识符，例如 Apple IDFA 和       Android 广告标识符（仅适用于       Android 和 iOS 的应用程序），
+文件位置，
+网络信息。
+这些信息是OneSignal服务（2194  Esperança Avenue, Santa Clara, CA 95054）实现推送通知发送功能所必需的，并已传输至该公司。在
+https://onesignal.com/privacy_policy
+可以获得有关OneSignal隐私政策的更多详细信息。
+您可以：
+选择不接收推送通知浏览到您的设备设置部分并禁用一个或多个应用程序的接收。
+选择不使用移动广告标识符来查看基于兴趣的广告（在Apple上，您必须在“保密”部分应用广告限制，在Android上，您必须在Google设置中选择广告，然后取消基于兴趣的功能广告）。
+我们如何获取您的个人数据？
+我们处理的关于您的任何个人数据都是您在使用PROMT应用程序时提供的。
+我们如何使用您的个人数据？
+仅出于以下目的收集您的数据：
+通过获取有关我们应用程序不同功能使用情况的匿名统计数据，进一步改进应用程序（增强功能和用户友好性、应用程序中的检测和错误纠正），
+提供广告，包括个性化广告（仅与PROMT.One       (Online-Translator.com)应用程序相关），
+通过对您通过PROMT.One(Online-Translator.com)翻译的文本和单词进行计算机化分析，提高自动翻译质量并纠正翻译错误，
+提供推送通知服务，
+获取统计信息以推广我们的应用程序。例如，使用移动标识符，我们可以找到iOS和Android应用程序的安装来源。
+我们绝不会将获得的数据与您联系起来，并且仅将它们以匿名形式用于上述目的。
+我们会将您的数据存储多长时间？
+我们会在您使用我们的应用程序期间存储您的数据。  最长数据存储期限等于我们产品的技术支持期限（从相关应用程序的第一个版本发布之日起5年。
+我们与谁共享您的数据？
+您的个人数据将可供我们的员工以及我们的授权供应商访问，即：
+Google
+（我们使用Google Analytics服务来收集统计数据以及在PROMT.One       (Online-Translator.com）应用程序中查看广告），
+YANDEX LLC
+（我们使用Yandex.Metrics服务来收集统计数据，并在PROMT.One       (Online-Translator.com）应用程序中查看广告），
+OneSignal
+（用于推送通知上传）
+将您的数据传输到该国家
+/
+地区之外
+您的个人数据可能会传输到以下国家/地区：
+俄罗斯，因为应用程序是在俄罗斯开发的，
+美国，因为我们使用位于美国境内的数据供应商的服务（Google.com、OneSignal）。
+保护您的个人数据
+我们可能会根据书面协议将您的个人数据传输给我们的供应商，这些协议规定我们的供应商有义务就您的个人数据的处理提供适当的保证，包括维护机密性和完成所有安全措施。
+我们还根据适用的保密和数据安全法律采取法律、组织和技术措施来保护您的数据。
+您的权利
+您有权：
+请求有关处理您的个人数据的信息，包括提供您的数据副本，
+请求更正和/或删除您的数据或对处理您的个人数据提出异议，
+请求限制处理您的个人数据，撤回您对处理所依据的同意，
+请求以结构化、常用和机器可读的格式提供您的个人数据，并请求传输给其他指定人员，
+向您当地的个人数据保护机构提出投诉，或者如果您的数据保护权受到侵犯，则采取法律行动。 对于因非法处理您的个人数据而造成的损失，您可以要求赔偿。
+如果您想使用您的任何权利，请通过以下联系方式通知我们。
+联系我们
+如果您对处理您的个人数据有任何疑问或要求，或者您想收到任何其他信息，请随时联系我们：
+电子邮件：
+privacy@promt.com
+在付费订阅的基础上使用
+PROMT.One  (Online-Translator.com
+)
+应用程序以及与服务
+www.online-translator.com
+一起使用时数据处理的具体特征
+如果您使用PROMT.One  (Online-Translator.com)移动应用程序，您可以在应用程序和服务www.online-translator.com之间同步您最喜欢的翻译。在这种情况下，我们会在您的整个期间保存您最喜欢的翻译  应用程序的使用。您可以随时删除保存的翻译。
+为了能够同步最喜欢的翻译，请注册并输入您的姓名（昵称）和电子邮件地址。此信息将用于在应用程序和服务online-translator.com之间同步您喜欢的翻译。如果您在付费订阅的基础上使用PROMT.One  (Online-Translator.com)移动应用程序，我们将另外使用您的注册数据来验证您的付费许可证的有效性。
+© PROMT, 2003–2023

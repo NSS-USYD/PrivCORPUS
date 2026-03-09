@@ -1,0 +1,132 @@
+Privacyverklaring
+ | MijnOverheid
+Zet JavaScript aan
+Om alle functies van MijnOverheid te gebruiken moet JavaScript aan staan. U kunt dit zelf doen in het instellingenmenu van uw browser.
+Naar hoofdinhoud
+MijnOverheid
+MijnOverheid
+Gebruikersmenu
+Inloggen met DigiD
+Inloggen
+Kruimelpad
+Home
+Privacyverklaring
+Privacyverklaring
+Download Privacyverklaring (.pdf, 98 kB)
+(Opent in nieuw venster)
+Deze verklaring beschrijft in het kort het volgende:
+Wie verantwoordelijk is voor de verwerking van persoonsgegevens voor MijnOverheid.
+Waarom persoonsgegevens worden verwerkt.
+Wat de grondslag is voor het verwerken van persoonsgegevens.
+Welke persoonsgegevens van de gebruiker van MijnOverheid worden verwerkt.
+Hoe wordt omgegaan met cookies en statistische informatie.
+Aan wie de persoonsgegevens verstrekt kunnen worden.
+Welke bewaartermijnen gelden.
+Wat de rechten zijn van de gebruiker.
+Welke beveiligingsmaatregelen genomen zijn.
+Dat de privacyverklaring gewijzigd kan worden.
+In het Besluit verwerking persoonsgegevens generieke digitale infrastructuur wordt de verwerking van persoonsgegevens uitvoerig beschreven (vindplaats: Staatsblad 2016, 195)
+1. Wie is verantwoordelijk voor de verwerking van de persoonsgegevens?
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties is verantwoordelijk voor het verwerken van persoonsgegevens voor MijnOverheid. Het beheer van MijnOverheid wordt uitgevoerd door
+Logius
+. Logius is onderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en beheert overheidsbrede ICT-voorzieningen.
+2. Waarom worden persoonsgegevens verwerkt?
+MijnOverheid verwerkt persoonsgegevens voor meerdere functies:
+Berichtenbox: Een persoonlijke postbus voor het ontvangen van digitale post van de overheid. De Berichtenbox functionaliteit is toegankelijk via MijnOverheid en beschikbaar als app voor smartphones en tablets.
+Lopende Zaken: Een functie binnen MijnOverheid waar een gebruiker inzage heeft in de voortgang van zaken die lopen bij organisaties die hierop aangesloten zijn.
+Persoonlijke Gegevens: Een functie binnen MijnOverheid waar een gebruiker inzage heeft in de gegevens die geregistreerd staan bij organisaties die hierop aangesloten zijn.
+MijnOverheid verwerkt daarbij persoonsgegevens voor de volgende doeleinden:
+de inrichting, beschikbaarstelling, instandhouding en (adequate) werking van MijnOverheid;
+het weergeven van de website van MijnOverheid;
+het aanmaken van MijnOverheid-accounts;
+het personaliseren van MijnOverheid-accounts;
+het gebruik van de hierboven vermelde functies van MijnOverheid;
+het verstrekken van persoonsgegevens aan aangesloten (overheids-)organisaties met een publieke taak;
+het zorgen voor de (informatie)beveiliging en betrouwbaarheid van MijnOverheid en de analyse van (beveiligings-) incidenten;
+gebruikersondersteuning inclusief het afhandelen van vragen en klachten van gebruikers;
+bezoekersstatistieken, trendanalyse en usability onderzoek inzake MijnOverheid;
+bij het verstrekken van persoonsgegevens ingevolge een wettelijke verplichting.
+3. Grondslag voor het verwerken van persoonsgegevens
+De grondslag voor het verwerken van persoonsgegevens is het Besluit verwerking persoonsgegevens generieke digitale infrastructuur, dat gebaseerd is op de Wet elektronisch berichtenverkeer Belastingdienst.
+4. Welke persoonsgegevens worden verwerkt?
+Bij een bezoek aan de website van MijnOverheid, zonder in te loggen met een MijnOverheid-account, worden de volgende persoonsgegevens verwerkt:
+IP-adres en kenmerken van de gebruikte software en hardware van het apparaat waarmee de bezoeker de website bezoekt.
+Bij het gebruik van MijnOverheid worden de volgende persoonsgegevens van de gebruiker verwerkt:
+het burgerservicenummer;
+naam, adres, geboortedatum, eventuele datum van overlijden, nationaliteit, en gegevens om vast te kunnen stellen of iemand in aanmerking komt voor een MijnOverheid-account;
+indien van toepassing: voorvoegsel en achternaam van (ex)partner(s);
+indien van toepassing: datum beëindiging huwelijk(en) en/of datum beëindiging geregistreerd partnerschap(pen);
+gegevens over het aanmaken of wijzigen van een MijnOverheid-account;
+berichtvoorkeur (van welke afnemers wil een gebruiker berichten ontvangen);
+IP-adres en kenmerken van de gebruikte software en hardware van het apparaat waarmee de gebruiker inlogt;
+e-mailadres (niet verplicht);
+inloghistorie zoals het tijdstip van begin en einde sessie;
+gegevens over navigatie en handelingen van de gebruiker;
+gegevens over het opvragen, tonen of wijzigen van gegevens of het falen van functies;
+gegevens over de verzending van e-mailnotificaties en het eventueel falen daarvan;
+gegevens over een eventueel gemachtigde in MijnOverheid, zoals handelingen van de gemachtigde, of het falen van functies;
+vragen, klachten en contactgegevens (zoals naam, e- mailadres en/of telefoonnummer) van personen die contact opnemen met de Helpdesk van MijnOverheid.
+5. Cookies en statistische informatie
+MijnOverheid verzamelt statistieken in een systeem voor analysedoeleinden. Dit wordt gedaan om MijnOverheid nog beter af te stemmen op de gebruiker.
+Voor het maken van de statistieken wordt gebruik gemaakt van een cookie met een anoniem visitor-id. Deze visitor-id is niet herleidbaar tot een persoon, maar kan wel worden gebruikt bij terugkerende bezoeken. Tevens wordt het IP-adres van het netwerk waarbinnen MijnOverheid gebruikt wordt, verwerkt. Om zo min mogelijk inbreuk te maken op de privacy van de bezoeker of gebruiker, heeft MijnOverheid maatregelen genomen om de herleidbaarheid naar het oorspronkelijk IP-adres zoveel mogelijk te beperken. De laatste twee groepjes van 8 bits (twee octetten) van elk IP-adres worden verwijderd, voordat deze wordt toegevoegd aan de werkbestanden. Het IP-adres is hiermee geanonimiseerd, waardoor er geen sprake meer is van persoonsgegevens.
+MijnOverheid maakt gebruik van een zogenaamde sessie-cookie. Deze wordt aangemaakt als u inlogt en verdwijnt weer als u uitlogt. Een sessie- cookie bevat geen persoonsgegevens en wordt ook niet op een PC, smartphone of tablet opgeslagen.
+MijnOverheid maakt ook gebruik van een permanente cookie. Deze wordt onder meer aangemaakt als de smartbanner, waarmee MijnOverheid de BerichtenBox App onder de aandacht brengt, wordt weggeklikt. Dit dient om te voorkomen dat de smartbanner in de eerste 30 dagen na het weg klikken nog een keer getoond wordt. Deze cookie bevat geen persoonsgegevens.
+6. Aan wie worden persoonsgegevens verstrekt?
+Aan (overheids)organisaties die aangesloten zijn op de Berichtenbox van MijnOverheid, verstrekt MijnOverheid het burgerservicenummer en de berichtvoorkeur (wil de gebruiker van deze afnemers berichten ontvangen). Deze worden verstrekt, zodat de (overheids)instelling op basis hiervan berichten kan aanleveren bij MijnOverheid en MijnOverheid de aflevering van deze berichten aan deze (overheids)instelling kan bevestigen. Aan (overheids)organisaties, die de Berichtenbox als verplicht kanaal voor elektronisch berichtenverkeer hebben aangewezen, verstrekt MijnOverheid informatie of een gebruiker zijn MijnOverheid-account wel of niet heeft geactiveerd.
+Logius gebruikt voor haar gebruikersondersteuning een private partij, die de zogenaamde “eerstelijns ondersteuning” op zich neemt. Daarnaast maakt Logius gebruik van de diensten van een private partij voor het houden van klanttevredenheidsonderzoek.
+Deze partijen verwerken ten behoeve van Logius persoonsgegevens van gebruikers die contact opnemen met de Helpdesk van MijnOverheid. Met deze partijen zijn verwerkersovereenkomsten gesloten. Wanneer u contact opneemt met de Helpdesk van MijnOverheid, worden persoonsgegevens ook verwerkt door deze verwerkers.
+Verder worden er geen persoonsgegevens aan derden verstrekt zonder voorafgaande ondubbelzinnige toestemming van de gebruiker. Uitzonderingen hierop zijn een wettelijke verplichting om gegevens te verstrekken (zoals de wettelijke plicht om op verzoek gegevens te verstrekken aan opsporingsdiensten), of het verstrekken van gegevens aan een overheidsorgaan of rechtspersoon met een wettelijke taak die noodzakelijk is voor de borging van de beveiliging en betrouwbaarheid van MijnOverheid.
+7. Bewaren van persoonsgegevens
+Persoonsgegevens worden bewaard op computerservers die zich bevinden op Nederlands grondgebied en die worden beheerd door Logius. Uw persoonsgegevens worden niet doorgegeven aan landen buiten de EU.
+De gegevens die ten behoeve van MijnOverheid verwerkt worden, moeten bewaard worden volgens de geldende wettelijke bewaartermijnen. Deze termijnen zijn gesteld om burgers bepaalde informatie te kunnen geven als zij hier om vragen, en om te voldoen aan de zorgplicht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties om beveiliging en betrouwbaarheid van deze voorzieningen te garanderen.
+De voorgeschreven bewaartermijn kan per persoonsgegeven verschillen, omdat hier andere veiligheidsaspecten voor gelden. De bewaartermijnen voor MijnOverheid variëren tussen maximaal 18 maanden en maximaal 5 jaar. De precieze bewaartermijnen zijn vastgelegd in artikel 13 van het Besluit verwerking persoonsgegevens generieke digitale infrastructuur.
+8. Uw rechten ten aanzien van uw persoonsgegevens
+Wij verwerken uw persoonsgegevens in verband met de hiervoor omschreven doeleinden. Ten aanzien van deze verwerking kunt u de volgende rechten uitoefenen, door uw verzoek hiertoe te richten aan MijnOverheid:
+Recht om te weten te komen of wij persoonsgegevens van u verwerken en het recht op inzage in uw persoonsgegevens.
+Recht om uw persoonsgegevens te verbeteren, aan te vullen of de verwerking ervan te beperken, rekening houdende met de hiervoor omschreven doeleinden.
+Recht om uw persoonsgegevens te verwijderen, bijvoorbeeld als deze gegevens niet langer nodig zijn voor de hiervoor omschreven doeleinden.
+Recht op bezwaar tegen de verwerking van uw persoonsgegevens wegens met uw specifieke situatie verband houdende redenen.
+Als gebruiker van MijnOverheid is uw gebruikersnaam, burgerservicenummer, e-mailadres en gebruiksgeschiedenis in te zien door in te loggen op de website van MijnOverheid. Het e-mailadres kunt u zelf wijzigen.
+U kunt een verzoek indienen door een e-mail (aan
+info@mijn.overheid.nl
+)of een brief te sturen (MijnOverheid - Postbus 96810 - 2509 JE Den Haag, onder vermelding van: persoonsgegevens). Om te kunnen voldoen aan het verzoek wordt u gevraagd zich te identificeren.
+Na ontvangst van uw verzoek, zullen wij u via e-mail zo snel mogelijk, en uiterlijk binnen één maand, informeren of aan dit verzoek zal worden voldaan. Indien uw verzoek wordt geweigerd, zullen wij de redenen hiervoor schriftelijk aan u mededelen.
+Bent u het niet eens met de reactie op een verzoek of heeft u een klacht met betrekking tot de verwerking van uw persoonsgegevens, dan kunt u dit soort klachten indienen bij de Autoriteit Persoonsgegevens, of een rechtszaak starten bij de rechter. Meer over een klacht indienen bij de Autoriteit Persoonsgegevens leest u hier:
+https://autoriteitpersoonsgegevens.nl/nl/zelf-doen/privacyrechten/klacht-indienen-bij-de-ap
+9. Beveiliging van uw persoonsgegevens
+Wij treffen passende technische en organisatorische maatregelen, opdat uw persoonsgegevens adequaat beveiligd zijn. Deze maatregelen zijn beschreven in de Regeling voorzieningen GDI en dienen om inbreuken op en aantastingen van de beveiliging en de processen van MijnOverheid te voorkomen.
+10. Wijziging privacyverklaring
+Wij kunnen deze privacyverklaring altijd wijzigen. In dat geval zullen wij de gewijzigde privacyverklaring op onze website
+https://mijn.overheid.nl
+publiceren waarna deze privacyverklaring direct van kracht is.
+Veelgestelde vragen
+Welke gegevens legt MijnOverheid vast?
+Lees hier meer over in de Privacyverklaring,
+https://mijn.overheid.nl/privacy
+.
+Wie heeft toegang tot mijn gegevens in MijnOverheid?
+U bent de enige die hier toegang toe heeft.
+Heeft u iemand gemachtigd? Dan kan deze persoon gemachtigde berichten uit uw Berichtenbox lezen. Deze persoon heeft geen toegang tot andere gegevens in uw MijnOverheid-account.
+Gebruikt MijnOverheid cookies?
+Ja, MijnOverheid maakt gebruik van een zogenaamde sessie-cookie. Dit is een cookie die wordt aangemaakt als u inlogt. Logt u uit? Dan verdwijnt deze cookie. Een sessie-cookie bevat geen inhoudelijke gegevens en wordt niet op uw apparaat (bijvoorbeeld uw pc, tablet of smartphone) opgeslagen.
+Hiernaast wordt voor het maken van de statistieken gebruik gemaakt van een cookie met anoniem visitor-id. Deze visitor-id is niet herleidbaar tot een persoon, maar kan wel worden gebruikt bij terugkerende bezoeken.
+Bekijk alle veelgestelde vragen
+Over deze site
+Wat is MijnOverheid
+Toegankelijkheid
+Sitemap
+Gegevensverwerking
+Veiligheid
+Privacyverklaring
+Wet- en regelgeving
+Service
+Mededelingen
+Herken oplichting
+Veelgestelde vragen
+Contact
+Ik heb een klacht
+Partners
+Aangesloten organisaties
+Overheid.nl
+Rijksoverheid.nl
+Meldpunt Fouten in Overheidsregistraties

@@ -1,0 +1,317 @@
+Privacy Policy
+Toggle Navigation
+Home
+about
+games
+support
+careers
+PRIVACY POLICY
+SIMPLIFIED PRIVACY & DATA POLICY FOR MINORS
+PRIVACY AND DATA POLICY
+ISSUED BY FIRST TOUCH GAMES LIMITED
+Last Updated: 15 May 2024
+1. INTRODUCTION AND GENERAL TERMS
+These terms apply to the use of games and other products developed by First Touch Games Limited (â€˜
+FTG
+â€™ / â€˜
+we
+â€™ / â€˜
+us
+â€™). Our registered office is at 264 Banbury Road, Oxford, OX2 7DY. We are a company registered in England, with company number 07638595.
+This privacy and data policy (â€œ
+Privacy Policy
+â€) applies and has effect in respect of all games, related online services (including online network play connectivity and interactivity) and other software and products made available by us (together the "
+Game(s)
+"), as well as any other online features relating to the Games including our
+website
+(the â€œ
+Website
+â€), our online
+forums
+(the â€œ
+Forums
+â€) and
+User Support Centre
+(the â€œ
+Support Centre
+").  Together the Game(s), the Website, the Forums and Support Centre are referred to as the â€œ
+Online Services
+â€.
+If you have any questions or comments about this Privacy Policy, please contact us at
+support@ftgames.com
+We are committed to protecting and respecting your privacy.  The Privacy Policy explains the basis on which personal information we collect from you will be processed by us or on our behalf. Where we decide the purpose or means for which personal data you supply through these Online Services is processed, we are the â€œcontrollerâ€. We will comply with all applicable data protection laws, including the General Data Protection Regulation 2016/679 and California Consumer Privacy Act 2018 (â€œCCPAâ€).
+Please read this Privacy Policy carefully as it contains important information about the following:
+What information we may collect about you;
+How we will use information we collect about you;
+Whether we will disclose your details to anyone else; and
+Your choices and rights regarding the personal information you have provided to us.
+This Privacy Policy forms a part of and should be read in conjunction with our terms of use. These are linked below:
+In respect of the
+Game(s):
+In respect of the
+Support Centre:
+The Online Services may contain hyperlinks to services owned and operated by third parties. These third party services may have their own privacy policies and we recommend that you review them.  They will govern the use of personal information that you submit or which is collected by cookies and other tracking technologies whilst using these services.  We do not accept any responsibility or liability for the privacy practices of such third party services and your use of these is at your own risk.
+We may make changes to this Privacy Policy in future, which will be posted on this page. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of changes through the Games.
+2. INFORMATION WE MAY COLLECT ABOUT YOU
+We collect and process the following information which may include your personal data.
+a) Information provided by you when using the Games
+(â€œBasic Informationâ€)
+We will collect the following information from you when you play our Games:
+your mobile deviceâ€™s unique device ID (Device ID) and device name;
+your user preferences; and
+Core information related to your gameplay, such as your overall progression  to a particular level or stage, your virtual currency stores or the completion  of certain  activities during your gameplay session (for example, completing a tutorial, passing a level, making a purchase or viewing a video ad) (â€œ
+Gameplay Statistics
+â€).
+b) Contact information provided by you when using the Forums or Support Centre
+(â€œContact Informationâ€)
+We may ask you for, or you may submit, certain contact information to us whenever you contact us through the Forums or Support Centre.
+This may include:
+your avatar/profile picture (Forums only);
+your username (Forums only);
+your email address;
+your name (Forums only), and
+your password (Forums only).
+c)	Information used for the purposes of serving advertisements
+(â€œAdvertising Dataâ€)
+Through our third party advertising network partners, we may gather information about your devices when you install or play our Games, depending on the permissions youâ€™ve granted. This may include:
+the make, model and operating system of your device;
+properties of your device, such as screen size and orientation, audio volume and battery;
+the mobile network operator linked to your device;
+the Games played;
+the country, time zone and locale settings on your device (i.e. country and preferred language);
+network connection type and speed;
+IP Address;
+internet browser used to access the Games; and
+the advertiser ID, which is an identifier unique to you if you use an Apple or Android device, but which doesnâ€™t reveal your name, if you allow it to be collected.
+d)	Information collected for the purposes of providing analytics
+(â€œAnalyticsâ€)
+We may collect technical information about your use of the Online Services through the use of tracking technologies and analytics.
+Personal data we may collect includes the following:
+your Device ID;
+your user ID (which is generated by us and allocated to you when you first play our games);
+your device operating system & version;
+your device make and model;
+game play attempts, progression and results;
+session game time start, end and duration;
+purchase transaction types and spend you have made using virtual items in the Games;
+the coarse location of your Device when playing our Games;
+the local time zone of your Device when playing our Games;
+the time, date and install source of your first download (e.g. from a clicked advertisement);
+advertisements viewed and clicked; and
+identification of crashes and defects.
+For the small number of users that continue to play some of our legacy games which are no longer available for sale, the management of the Analytics is provided by Amazon Pinpoint, part of Amazon Web Services. If you would like to find out more about the way Amazon Web Services collects and processes this information this is likely to be set out in their privacy policies and/or terms and conditions. Please refer to
+https://aws.amazon.com/legal/
+e)	Information about you collected from third parties
+(â€œThird Party Log In Informationâ€)
+When you access the Games via a third party social media provider such as Facebook, we may collect and store personal and non-personal information which is available on that third party social media provider, such as your Facebook name, your profile picture or its URL, your Facebook ID and other public data of your friends, provided that you have expressly agreed to the use of Facebook within the Games. We will also receive technical data in order to ensure the Games connect to the correct Facebook account.
+f)	Content created by our users which we host and display on the Forums and in the Support Centre
+(â€œUser Contentâ€)
+When users submit their own User Content to the Forums or Support Centre, this content may contain personal and non-personal information. This could include information in or about the User Content, such as the location of a photo or the date a file was created, or anything else a user decides to communicate using these parts of our Online Services.
+3. COOKIES
+The collection of this information may include the use of cookies and similar technologies (for example, which are used on the Website). A cookie is a string of information that a website stores on a visitorâ€™s computer, and that the visitorâ€™s browser provides to the website each time the visitor returns. Cookies are widely used in order to make websites work, to provide functionality, to make them more efficient and to provide website owners with information about how the website is being used and who's using it. We use a limited number of cookies on our website.
+The following cookies are used on our Website:
+Cookie
+Description
+Link to third party terms
+Twitter cookies
+(including cookies named: __ncuid, _ga, _gid, ads_prefs, auth_token, csrf_same_site_set, dnt, eu_cn, guest_id, kdt, personalization_id, remember_checked_on,syndication_guest_id, tfw_exp, twid, lang) Cookie Duration: No longer than 30 days
+We integrate these cookies into the Website to provide an enhanced user experience with Twitter functionality (e.g. official, authenticated Twitter widgets / embedded information). These cookies allow, for example, you to see Twitter content on the website and for you to more easily share content on Twitter. Where you are logged into your Twitter account while visiting our website, Twitter may receive information or your activity on our website.
+You can visit the following links for more information about Twitterâ€™s cookies:
+https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy
+https://help.twitter.com/en/rules-and-policies/twitter-cookies
+Google / YouTube cookies
+(including cookies named: APISID, CONSENT, HSID, LOGIN_INFO, PREF, SAPISID, SID, SSID, VISITOR_INFO1_LIVE, YSC, _ga, _gcl_au) Cookie Duration: No longer than 18 months
+We integrate these cookies into the Website to provide an enhanced user experience with YouTube functionality and to understand and maintain the integrity of video viewership statistics. We also use these cookies to help prevent fraud and to improve security. When you view a Youtube video on our website, Youtube may receive information to enable the video to play and to collect analytics data such as how long a viewer has watched the video and the type of video watched.
+You can visit the following links for more information about Googleâ€™s / YouTubeâ€™s cookies:
+https://support.google.com/analytics/answer/6004245
+https://support.google.com/youtube/answer/171780?hl=en-GB
+To opt-out of being tracked by Google Analytics across all websites, visit
+here
+Most web browsers allow you to control cookies through your browser settings. To find out more about cookies generally and how to manage or delete them, you can visit
+here
+Find out how to manage cookies on popular browsers:
+Google Chrome
+(here)
+Microsoft Edge
+(here)
+Mozilla Firefox
+(here)
+Microsoft Internet Explorer
+(here)
+Opera
+(here)
+Apple Safari
+(here)
+To find information relating to other browsers, visit the browser developer's website.
+4. WHY WE COLLECT INFORMATION ABOUT YOU
+a) To provide our Online Services to you
+We will use information about you (including Basic Information, Third Party Log In Information, Analytics and User Content) for delivering our Games to you under the terms of use agreed between us. The processing of information in this way is necessary for us to record your progress and current status within a Game, and to ensure the Games deliver the features promised and function properly, so that you have the best experience when playing any one of our Games.
+We will use information about you (including your Contact Information, User Content and Third Party Log In Information) to provide you with the Forums under the terms of use agreed between us. The processing of information in this way is necessary for us to provide you with the Forumsâ€™ functionality and to ensure that you have the best experience when using the Forums.
+In relation to certain Games, we will use your Gameplay Statistics to enable you to: (i) access certain statistics and information relating to your gameplay performance and the gameplay performance of other users; and (ii) share statistics and information relating to your gameplay performance with other users (the â€œ
+Gameplay Statistics Service
+â€). The processing of information in this way is necessary for us to provide you with the Gameplay Statistics Service in accordance with the terms of use agreed between us.
+b) To help us improve the Online Services and fix any problems
+We may process information about you (including Basic Information, User Content and Analytics) so that we can analyse and improve our Online Services.
+This processing is also necessary for us to pursue our legitimate interests of (i) ensuring that our Online Services function properly so that you and other users have the best experience when playing any of our Game(s) and using the other Online Services; (ii) improving the quality of our Online Services, and providing a better experience to our users; (iii) identifying and correcting any bugs in the Online Services; and iv) understanding the effectiveness of our marketing to attract new users and re-engage our current users at an aggregated level.
+c) To respond to your enquiries and requests for support
+We may process Contact Information and Analytics so that we are able to properly respond to your enquiries and support requests either via the Support Centre or Forums or through
+support@ftgames.com
+d) To acquire new users
+We use various forms of marketing to acquire new users, working with a variety of third party user acquisition partners to deliver our marketing campaigns on external websites and apps. As part of this we may process your Basic Information, Analytics and Advertising Data to pursue our legitimate interest to offer you relevant marketing and acquire new users for our Games. Your Advertiser ID and Analytics may be shared with our 3rd party marketing analytics partner called â€˜Adjustâ€™ and with our 3rd party user acquisition partners to improve our marketing effectiveness.
+Adjust and our user acquisition partners may collect analytics and advertising data on our behalf and in accordance with our instructions, and its applicable privacy notice.
+We work with the following approved third party User Acquisition partners:
+Facebook
+(https://www.facebook.com/privacy/explanation)
+Google
+(https://policies.google.com/technologies/partner-sites))
+Snapchat
+(https://www.snap.com/en-GB/privacy/privacy-policy/)
+Unity
+(https://unity3d.com/legal/privacy-policy)
+Applovin
+(https://www.applovin.com/privacy/)
+TikTok
+(https://www.tiktok.com/legal/privacy-policy)
+If you would like to find out more about the way these third parties collect and process your information please refer to their respective privacy policies and/or terms and conditions by clicking on the links provided above.
+If you would like to find out more about the way Adjust collects and processes this information this is likely to be set out in their privacy policies and/or terms and conditions. Please refer to
+(https://www.adjust.com/terms/)
+and
+(https://www.adjust.com/privacy-policy/).
+e) To improve the monetisation of the Games via in-app purchases
+We may process information (including Basic Information, User Content, Advertising Data and Analytics) to understand how users use our Games, and to compile statistical reports regarding that activity, as well as understanding how users progress, and their current status within a Game. This processing is necessary for us to pursue our legitimate interests of improving the Games and increasing the amount of revenue generated via in-app purchases. This may include segmenting and analysing users according to various relevant factors, such as geography,  gameplay progression and playing behaviour so that we can offer personalised and temporary promotional discounts and offers.
+We do not segment users who have confirmed to us as under the age of 16.
+f) For advertising purposes
+We may process Advertising Data to show you advertisements for third party services; including advertising that may reward you with benefits during your use of the Games.
+The information we collect about you may be used to understand how advertisements placed in our Games have performed or how many people have viewed certain advertisements. We aggregate this information so that it does not personally identify you or permit you to be treated individually.
+We may also use this information to reward users with benefits that can be used for further enjoyment of the Games from the viewing of certain advertising placed in our Games.
+We will not pass or process your information for the purposes of marketing by third parties unless you give your consent should we ask for it. After you have given your consent, you may withdraw it at any time.
+We may use the information we collect about you to serve you targeted advertisements in our Games.  We do this to provide you with more relevant advertising content.  We work with the following third party advertising networks :
+Facebook -
+https://www.facebook.com/privacy/explanation
+Unity -
+https://unity3d.com/legal/privacy-policy
+Admob -
+https://policies.google.com/technologies/partner-sites
+Applovin -
+https://www.applovin.com/privacy/
+Lift Off -
+https://liftoff.io/privacy-policy/
+Mintegral -
+https://www.mintegral.com/en/privacy
+If you would like to find out more about the way these third parties collect and process your information please refer to their respective privacy policies and/or terms and conditions by clicking on the links provided above.
+g)	To prevent fraud and illegal activity
+We process personal data for our legitimate interests of ensuring that any use of the Online Services is lawful and non-fraudulent, does not disrupt the operation of our services, does not harass our staff or other individuals, to enforce our legal rights and also in order to comply with our legal obligations.
+Where we reasonably believe that you are or may be in breach of any applicable laws or our terms of use, we may use your personal information to inform relevant third parties such as your law enforcement agencies about the content.
+We reserve the right to disclose your identity to any third party who is claiming that any User Content posted by you constitutes a violation of their intellectual property rights, or of their right to privacy. You may not copy, download, or embed any User Content without the express written permission of the content owner. You may not use any User Content for any commercial purposes, or any public performances.
+We work with Apple and Google to assist us with fraud prevention and the detection of any illegal activity (e.g. to verify in-app purchases made through iTunes and Google Play).
+5. DATA SHARING
+We will share your information with third parties only in the ways that are described in this Privacy Policy
+Other users:
+In relation to certain Games, we may disclose your Gameplay Statistics to other users of the Game in order to provide the Gameplay Statistics Service, which allows users to access certain statistics and information relating to their own gameplay performance, as well as the gameplay performance of other users.
+Group members, personnel, suppliers or subcontractors:
+We keep your information confidential, but may disclose it to any member of our group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006), our personnel, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the basis that they do not make independent use of the information, and have agreed to safeguard it.
+Merger or acquisition:
+If we are involved in a merger, acquisition, or sale of all or a portion of its assets, any third party to which we sell or transfer our assets to will have the right to continue to use the personal and other information that you provide us in the manner set out in this Privacy Policy.
+Required by law:
+In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
+Enforcement:
+We may also disclose your personal information to third parties in order to enforce or apply the terms of agreements, to investigate potential breaches, or to protect the rights, property or safety of FTG, our customers, or others.
+Digital Content Stores:
+Where the Games are downloaded though Google Play, iTunes and/or Amazon Appstore, we may disclose your personal information to Google, Apple and/or Amazon respectively for the purposes of facilitating any in-Game payments made through these platforms.
+Marketing Analytics & User Acquisition Partners:
+We may share your Advertiser ID and Analytics to our marketing analytics partner â€˜Adjustâ€™ and our approved User Acquisition partners for the purpose of understanding and improving our marketing effectiveness.  However we do not share to our User Acquisition partners for this purpose any data for users who have confirmed as under the age of 16 or who have not allowed tracking on their device.
+Diagnostics, Crash and Error monitoring:
+We may share your Basic Information and Analytics to Google Firebase for the purposes of understanding where and how crashes and errors occur.  All information held on Firebase for this purpose is deleted after 90 days.  Please refer to
+https://firebase.google.com/support/privacy
+if you would like to find out more about the way Firebase processes your information.
+Support Centre
+: We use a third party platform provider called Zendesk to manage any support requests, queries and issues raised by users via the Support Centre or sent to
+support@ftgames.com
+. Further details about the way in which Zendesk may collect and process your information can be found in their terms
+here
+.
+6. AUTOMATED DECISION MAKING
+We use automated decision making methods which do not involve human involvement to process your information only in the ways that are described in this Privacy Policy
+We process your personal information via automated decision making methods in order to identify users who are suspected of cheating in the Games. Our automated decision making methods are designed to detect cheating by looking out for (i) excessive currency stores against actual completed gameplay; and (ii) excessive content against actual purchases made and completed gameplay.
+If users are determined to be or suspected of cheating the following actions may be taken and which will be unknown to the user:
+an increase in the number of advertisements displayed within the Games; and
+an increase in the frequency of suspected cheats playing against other suspected cheats.
+We may block users from the Games and/or the Online Services who are determined to be cheating following an automated decision process. In this scenario the user will be notified of the outcome and will have the right to obtain human intervention to express his or her point of view and to contest the decision to block access to the Games and/or the Online Services.
+7. CONSUMER CONTROL AND OPT-OUT OPTIONS
+You can opt-out targeted advertising or receive personalised notifications by changing the Privacy settings on your device or by changing the relevant Options settings as offered directly in our Games.  By opting out of targeted advertising, your Advertiser ID cannot be shared.
+You can opt-out of personalised promotions by changing the relevant Options setting offered directly in the Games.
+You can opt-out from analytics performed by Adjust
+here
+.
+8. YOUR RIGHTS IN RELATION TO PERSONAL DATA WHICH WE PROCESS RELATING TO YOU
+You have the following rights over the way we process personal data relating to you, as set out in the table below.  We aim to comply without undue delay, and within one month at the latest.
+To make a request, please let our Data Protection Officer know by sending an email to
+support@ftgames.com
+.
+a)	Ask for a copy of data we are processing about you and have inaccuracies corrected
+You have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected.
+We will use reasonable efforts to the extent required by law to supply, correct or delete personal information held about you on our files (and with any third parties to whom it has been disclosed to).
+b) Object to us processing data about you
+You can ask us to restrict, stop processing, or to delete your personal data if:
+you consented to our processing the personal data, and have withdrawn that consent;
+we no longer need to process that personal data for the reason it was collected;
+we are processing that personal data because it is in the public interest or it is in order to pursue a legitimate interest of FTG or a third party, you donâ€™t agree with that processing, and there is no overriding legitimate interest for us to continue processing it;
+the personal data was unlawfully processed;
+you need the personal data to be deleted in order to comply with legal obligations;
+the personal data is processed in relation to the offer of a service to a child.
+c) Obtain a machine readable copy of your personal data, which you can use with another service provider
+If we are processing data in order to perform our obligations to you, or because you consented, or if that processing is carried out by automated means, we will help you to move, copy or transfer your personal data to other IT systems.
+If you request, we will supply you with the relevant personal data in CSV format.  Where it is technically feasible, you can ask us to send this information directly to another IT system provider if you prefer.
+d)	Make a complaint to a Supervisory Authority
+If you are unhappy with the way we are processing your personal data, please let us know by contacting us via the support services.
+If you do not agree with the way we have processed your data or responded to your concerns, an alternative is to submit a complaint to a Data Protection Supervisory Authority.
+9. DATA RETENTION
+We will hold your personal information on our systems for as long as is necessary for the relevant service, or as otherwise described in this Privacy Policy.
+10. CHILDREN
+We do not use our Online Services to knowingly solicit information from or market to children under the age of 13. Our terms of use prohibit users aged under 13 years from accessing our Online Services.  In the event that we learn that we have collected personal information from a child under 13 years of age we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age please contact us at
+support@ftgames.com
+11. SECURITY
+We will take all reasonable technical and organisational precautions to prevent the loss misuse or alteration of your personal information.  For example, our databases are password protected and limited to essential employees only (such as FTG management or employees whose main role requires system access).
+Please be aware that, although we endeavour to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+12. INTERNATIONAL DATA TRANSFERS
+Where you make in-Game purchases via iTunes or Googleâ€™s Play store, the confirmation that your purchase is valid as required by Apple or Google for such purchases will be processed using servers hosted in Singapore in the event that there is a problem with the servers hosted in Ireland.  The servers we use for this purpose are hosted by Amazon Web Services.
+Basic Information used for Matchmaking services, where users may play against other users, may be processed using servers based in Singapore or US in addition to Ireland and Germany, reflecting the global player base of the Games.  The servers we use for this purpose are hosted by Amazon Web Services.
+It is possible that your personal information may be transferred outside of the EEA by Ad Networks, Adjust, or Zendesk. We recommend that you refer to the privacy policies and/or terms and conditions of these third parties if you are concerned about your data being transferred outside the EEA.
+Where we transfer your information outside of the EEA, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission to ensure that appropriate safeguards are in place to protect your personal data.  If you would like to find out more about these safeguards, please let us know by writing to
+support@ftgames.com
+13. CALIFORNIA RESIDENTS & CCPA
+If you are a California resident, as defined in Section 17014 of Title 18 of the California Code of Regulations, you have certain rights in respect of the personal information we hold about you.
+If you have questions or concerns about our privacy policies and practices, please contact us at the details set out at the end of this Policy.
+Please see above for:
+the date on which this Policy was last updated (at the top of this Policy)
+categories of personal information collected about you in the last 12 months (see paragraph 2)
+categories of sources from which the personal information was collected (see paragraph 2 and 3)
+purposes for collecting personal information (see paragraph 4)
+categories of third parties with whom we share  personal information (see paragraph 5)
+categories of personal information we have disclosed within the last 12 months (see paragraphs 2 and 5)
+categories of personal information we have sold within the last 12 months (see paragraph 2c and 4f)
+We have disclosed and sold personal information to third parties within the last 12 months to our third-party advertising networks (see paragraph 4f). We do not sell the personal information of minors under 16 years of age without affirmative authorisation.
+You can designate an authorised agent to make a request under the CCPA on your behalf. The authorized agent must submit proof that they have been authorized by you to act on your behalf and proof of their own identity.
+You have the right to:
+request access to your personal information;
+request deletion of your personal information;
+opt-out of the sale of your personal information (see paragraph 7 above or email us at
+support@ftgames.com
+);
+not be discriminated against for exercising any of your rights under the California Consumer Privacy Act of 2018 (CCPA).
+To make a verifiable consumer request of access or deletion, please contact us by email at
+support@ftgames.com
+or by mail to First Touch Games Ltd, 264 Banbury Rd, Oxford, OX2 7DY, UK. We may verify your request by asking for proof of identity such as your device ID and/or User ID.
+CONTACT INFORMATION
+All questions, comments or enquiries should be directed to FTG at
+support@ftgames.com
+.  We will endeavour to respond to any query or questions within three business days.
+Â© 2024 First Touch Games Limited. All trade marks are the property of the relevant owners. All rights reserved.
+Copyright Â© 2011-2024 First Touch Games. All rights reserved.
+Terms of Use
+Privacy Policy
+This website includes cookies to provide you with a better experience. Most browsers allow you to manage your cookies, and you can read more about the cookies we use in our
+Privacy Policy
+. By clicking â€˜OKâ€™ or any link on the site, you agree to this use.
+More information
+OK

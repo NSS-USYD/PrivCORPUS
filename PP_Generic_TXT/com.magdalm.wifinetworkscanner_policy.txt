@@ -1,0 +1,47 @@
+Privacy policy
+Privacy policy
+Who's on my wifi
+com.magdalm.wifinetworkscanner
+When downloading or using the app, these policies will apply.
+The privacy policy details what types of information we collect, use, share and secure the information.
+It is not allowed to copy, modify or extract the source code of the application.
+We are committed to ensuring that the application is as efficient as possible. For that reason, we can make changes to the application.
+Use and security
+We make sure to implement the necessary security measures, however we are not responsible for any loss, direct or indirect.
+It is your responsibility to keep your phone and access to the application safe. We advise you not to root your phone as it could make this app not work properly.
+If you are using the application without a Wi-Fi connection, you should check the terms of the agreement with your mobile network provider so that no charges are applied due to data usage. Charges may also apply if you use the app outside your home territory (i.e. region or country) without turning off data roaming. If you are not the owner of the line of the device on which you are using the application, please note that we assume that you have received the owner's permission to use the application.
+Data transmissions
+All data transmissions is encrypted in transit using the Transport Layer Security (TLS) protocol.
+What kind of file and data storage do we use?
+We use preferences and a database to store information for the operation of the application and personalization by the user. This data is stored in a private area of the application and is not collected or shared. As an additional security measure, when the user uninstalls the application, the device deletes this data.
+How do we use location permission?
+The location permission is used only in the foreground, that is, while the application is in use.
+While using this permission, we display the name of the Wi-Fi and store the networks.
+This information is not collected or shared.
+How do we recognize the name of the device manufacturer?
+A part of the MAC address is collected to recognize the manufacturer of the device. For greater security, once the service has been performed, this data will be deleted.
+Children's privacy
+We do not collect or share personal information from children under the age of 16.
+Links, third-party advertising or service provider entities
+By default, the Google Mobile Ads SDK collects and shares the following data types automatically for advertising, analytics, and fraud prevention purposes.
+Collects device\'s IP address, which may be used to estimate the general location of a device.
+Collects user product interactions and interaction information, including app launch, taps, and video views.
+Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+Collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
+By default, the User Messaging Platform (UMP) collects and shares the following data types automatically for the app functionality to determine which user messages should be shown.
+Collects device\'s IP address, which may be used to estimate the general location of a device.
+Collects Android advertising (ad) ID, which may be used to determine if the consent message should be shown.
+This application may contain links, services or advertisements from third parties. If you choose to click on any of these other sites or online services, please note that any information you provide will be subject to the privacy policy and other terms and conditions of the site or service and not these policies.
+Before providing information to any third-party site or service, we recommend that you review the privacy policy.
+* Google privacy policy
+* Google Admob privacy policy
+Financial data
+If you make a payment, the data related to your payment method will be stored and managed by the Google payment processor.
+* Google Payments privacy policy
+You agree that Magdalm will not be responsible for any matter related to a third party website or service that you provide information to, including collection and handling of such information.
+Changes
+These policies can be modified, we recommend that you check this page for future updates.
+Contact
+If you have questions about our policies while using this app or have questions about our practices, please contact us at magdalmsoft@gmail.com
+Last update november 2022
+Privacy policy

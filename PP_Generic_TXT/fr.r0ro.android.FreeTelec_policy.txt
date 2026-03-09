@@ -1,0 +1,14 @@
+Politique de Confidentialité
+L'application FreeTéléc inclus de la publicité dans sa version gratuite.
+Afin de fournir des annonces ciblées, l'application FreeTéléc communique avec
+  des services tiers, et peut être ammenée à partager certaines informations dont:
+Le nom de l'application utilisée
+Des informations sur le modèle d'appareil utilisé (marque, modèle, caractéristiques techniques)
+Des informations sur le système d'exploitation utilisé (éditeur, version)
+L'identifiant mobile publicitaire (Google AAID / Apple IDFA)
+Vous avez la possibilité de refuser le partage de ces informations dans l'application. Dans ce cas
+  des publicités affichées ne seront pas personnalisées.
+Les données communiquées aux services tiers ne sont pas conservées par FreeTéléc
+Vous pouvez consulter la politique de confidentialité des services tiers utilisés par FreeTéléc:
+AdInCube
+AdMob

@@ -1,0 +1,20 @@
+Privacy Policy
+Mobile tracker for Android app is fully secured and we are committed to ensuring that your privacy is protected. We will only use the information that we collect about you lawfully in accordance with The EU's General Data Protection Regulation (GDPR).
+All data that we collect is used solely for providing a service to you
+We do not sell, share or otherwise disclose your data to anyone.
+We do not mine your data for patterns.
+We do not use your data to target ads.
+We do not access your location data without your permission.
+Your data not share with any other database.
+Permission Details:
+Foreground Location Permission
+To show your current location on Map is required foreground location permission.
+Background Location Permission
+Share your location with your devices  "while app is closed" required background location permission, and also for lost device tracking function required this permission.
+Other Permission
+Our Application uses permission to read phone state, to get the cellular network information and a list of any PhoneAccounts registered on the device. This App would not use the information for any other purposes
+Our Application uses permission to access coarse location and access fine location, which allows an app to access approximate location and precise location, to display location in the app. This App would not use the location information for any other purposes and no one can see any user location information.
+Terms and Conditions of Service
+As mentioned in permission details we are not storing any user details in server. We are using only location permission and read phone state permission to get related details with user permissions to display to the individual user, who using this app in his/her mobile.
+
+If You have any questions or concerns about this Privacy Policy or its implementation, You may contact us on the Developer e-mail ID on Play Store.

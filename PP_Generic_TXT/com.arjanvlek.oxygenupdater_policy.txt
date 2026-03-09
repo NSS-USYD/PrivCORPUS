@@ -1,0 +1,69 @@
+Privacy • Oxygen Updater
+Oxygen Updater
+News
+FAQ
+Download
+Privacy Policy (v5.1)
+Last updated:
+10/10/2022, 3:58:16 pm
+Oxygen Updater is a small team of individuals who deeply care about privacy. The data we collect & process is the bare minimum that's required for you to use the
+application
+and this website, and for us to maintain a high quality of service. Since the application is completely
+open-source
+, you can easily see what goes on under-the-hood.
+Items marked with an asterisk (*) are required for proper functioning. Anything else is optional and can be disabled or worked-around.
+Changelog
+v5.1 — adjusted “Directly collected/processed” for newer app versions
+OS information
+: added “build fingerprint”
+OTA filenames
+: clarified that the feature was present only from app v2.7.0 — v5.8.3
+Directly collected/processed
+IP address *
+When the app communicates with our backend, your IP is used to establish a connection. We log the IP address as well as the API endpoint requested by you, so that we can secure our backend better, as well as monitor for errors. Both the website and the application communicate only over fully-encrypted connections with trusted certificates, and we leverage Cloudflare to protect & improve our servers. Their
+privacy policy
+pertaining to “End Users” also applies.
+OS information *
+To correctly detect your device and deliver OTA updates to you, the app needs to send certain information to our backend — specifically, the build fingerprint, OxygenOS version, OTA version, OS type (i.e. stable/beta/alpha), and whether your OS is an EU-specific build or not.
+None of this information is
+personally-identifiable
+.
+Download error metadata *
+In the rare case of a download failure, the app automatically sends some information to us: the OS & OTA version of the failed download, the URL & filename, the HTTP code & message, the app version you're on, and the name of your device. This is so that we can fix any issues (if they're at our end) as quickly as possible. The app informs you when this happens, and allows you to try downloading it yourself via a browser.
+None of this information is
+personally-identifiable
+.
+OTA filenames
+In older OxygenOS versions (11 and below), the built-in system updater on some OnePlus devices uses the
+.Ota
+directory to store OTA ZIPs it downloads. These filenames can be used to figure out the complete download URL, and that's exactly what the app used to do (v2.7.0 — v5.8.3) — it had a “become a contributor” feature which scanned this directory every 15 minutes and submitted filenames to us. Users were always notified on a successful submit, so they could know exactly when they indirectly helped all other users. The feature could be disabled either in the first-launch setup, or later on in the app app's settings. App v5.9.0+ removed this feature entirely because it was no longer useful.
+None of this information is
+personally-identifiable
+.
+Email address
+When you send us an email at
+[email protected]
+, we can see your email address of course. We use your email address only (1) to able to reply back to you; (2) to look up in-app purchases made by you if you've reached out to us for refund concerns. Emails are stored permanently, though you can request a deletion. If you don't wish to reveal your email address but still want to get in touch with us, you can join our
+Discord server
+instead (in which case their
+privacy policy
+also applies).
+Indirectly collected/processed
+Website cookies *
+Since we use Google Ads to monetize this website & its articles, Google and other third parties may place & read cookies or beacons on your browsers to facilitate serving ads. See Google's
+data usage policy
+for more information. You can opt-out of personalized ads by visiting Google's
+Ad Settings
+page.
+Usage data & logs
+We use Firebase Analytics for monitoring usage metrics and Firebase Crashlytics for error logs, which helps improve the app over time. If you don't wish to share this data, you can turn it off in the app's settings — make sure to restart the app. We also use Firebase Cloud Messaging to deliver push notifications, but don't store any FCM-exposed data. However, Google still processes your data in accordance with their
+Firebase data policy
+.
+Privacy Policy
+©
+Adhiraj S. Chauhan
+• All rights reserved
+OnePlus, OxygenOS and the respective logos are registered trademarks of
+OnePlus Technology (Shenzhen) Co., Ltd.
+AdMob™, AdSense™, Android™, Google Play and the Google Play logo are registered trademarks of
+Google LLC

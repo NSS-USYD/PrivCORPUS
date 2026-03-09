@@ -1,0 +1,36 @@
+Privacy Policy
+Privacy Policy
+This privacy policy applies to the following apps by keuwlsoft:
+Bluetooth Electronics
+This app uses the (android.permission.BLUETOOTH and BLUETOOTH_ADMIN)
+    permissions in order to use the Bluetooth 
+    functionality of your device.
+In order to discover bluetooth devices in newer versions 
+    of Android, the ACCESS_FINE_LOCATION permission is required.
+In order to be able to save and load your panels the WRITE_EXTERNAL_STORAGE permission is required.
+This app also uses the internet (android.permission.INTERNET) permission so that we can serve ads and generate a little revenue.
+This app uses the (android.permission.BLUETOOTH and BLUETOOTH_ADMIN)
+    permissions in order to use the Bluetooth functionality of your device.
+In order to discover bluetooth devices, the ACCESS_FINE_LOCATION permission is required.
+This app also uses the internet (android.permission.INTERNET) permission so that we can serve ads and generate a little revenue.
+In order to deliver the ads, we use the AdMob SDK from Google.
+    Please see their terms and
+privacy policy
+for information on any data they might collect or share.
+    Also see
+https://policies.google.com/technologies/partner-sites
+for a good explanation of how Google uses information from Apps.
+Personalised ads may or may not be served, depending on your region.  With regards to GDPR, if consenting to personalised ads in the EEU/UK, 
+      AdMob has been configured to source the ads from Google, or one of these Google-certified ad networks, each partner having their own privacy policies:
+InMobi
+Chartboost
+ironSource Mobile
+Facebook
+Vungle
+Ad Colony
+Otherwise, AdMob will serve ads from any of the Google-certified ad networks.
+Whilst keuwlsoft does not directly collect or store any of your personal or non-personal information, 
+    some anonymous analytical data (e.g. app usage and ad effectiveness data) is available to us through AdMob.
+Note that for an older version of this app, we used an SDK from Appbrain,  
+    please see their terms and privacy policy for information on any data they might collect or share.
+Appbrain privacy policy link

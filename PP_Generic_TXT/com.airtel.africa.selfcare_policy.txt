@@ -1,0 +1,5 @@
+airtel: Prepaid | Postpaid | 4G
+{{loaderInfo.firstText}}
+{{loaderInfo.secondText}}
+Loading…
+Please Wait.

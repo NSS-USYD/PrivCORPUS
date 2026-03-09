@@ -1,0 +1,78 @@
+Post-it® App Privacy Policy
+Post-it® App Privacy Policy
+Effective Date: April 12, 2021
+3M understands that privacy is important to you. Please read the following to learn more about how we use and disclose information collected through the Post-it® App (“App”), including personal information. By using the App, you consent to the collection, use, and sharing of information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the Post-it® App End User License Agreement.
+What information does the App collect, and what does 3M do with it?
+The App collects the following types of information:
+Technical data. Technical data, such as information about your usage of the App (e.g., features used, content viewed, dates and times of interactions) and technical data about your device, such as operating system, model, etc. The App collects this technical data automatically when you download the App and as you use it. We use this data to evaluate the usefulness of App features to users and to make improvements to the App.
+Location information. Location information, meaning precise real-time location information collected using your device's GPS technology. The App uses location information to provide you with a record of addresses of locations where you captured physical Post-it® Notes with the App. This address information is displayed in the App, and included in export formats such as PowerPoint® and PDF. Please note that we will NOT access precise location information from your device unless you grant the App permission to do so; if you do not grant the App permission to access precise location information, your captures will not be stored with address information and no address information will be added to exported formats.
+Images. The App provides an optional Handwriting Recognition (“OCR”) feature to recognize and transcribe handwriting on your notes. If you use the OCR feature, then the App will send copies of images you select to be transcribed to a third party service provider to be converted to digital text, after which the third party service provider will return the transcribed text to your device and then discard the copies of your notes. The transcribed text is stored with your notes in the App. Neither 3M nor the third-party provider collects any information about the contents or text of your notes.
+Shared notes. The App includes an optional Brainstorming Session feature where you can opt to share selected notes with the host of a remote workshop, such as a brainstorm. If you use the Brainstorming Session feature, i.e. participate in a session, the notes that you select will be temporarily uploaded to the Post-it® Cloud servers so that the session host may download them. Participants enter a display name to connect to a session. The display name is associated with notes that participants choose to share with the host. Shared notes are deleted from the Post-it® Cloud servers and from participants’ devices at the conclusion of the session and are not retained afterwards. After deletion, shared notes are only stored locally on the host’s device.
+We may also collect information from you directly outside of the App if you provide it to us, for example, based on an inquiry you make associated with the App. In addition, we may collect information about you from third parties and combine it with the information we have collected from you.
+3M uses third-party analytics services to collect the technical data above, including services provided by Flurry, Inc., a subsidiary of Oath (Americas) Inc. (“Flurry”). 3M’s third-party analytics services may collect your IP address, device identifiers, and information on how you use the App. Please use the following link for more information about how Flurry collects and uses data when you visit their partners’ websites or apps:
+https://policies.oath.com/xw/en/oath/privacy/intl/index.html
+These third parties may collect information about your online activities over time and across third-party websites. More information on how these analytics providers may collect and use your data, including options for opting out, can be found in the section
+Other Tracking Technologies
+, below.
+Will 3M share any of the information it receives?
+In addition to any sharing described elsewhere in this Privacy Policy, 3M may share any information it collects with:
+Service providers or business partners who work on our behalf or partner with 3M to provide or improve the App or related products, services, or events, provided that such service providers or business partners may not use any personal information we share with them for their own independent purposes (except on an aggregated, deidentified basis).
+Our affiliates and subsidiaries.
+Other entities, to the extent that 3M has a good faith belief that such disclosure is necessary to (a) comply with law, regulatory requirement, judicial proceeding, court order, or other legal process served on us, (b) protect the safety, rights, or property of 3M, you, others or public welfare, or (c) detect, prevent, or respond to fraud, intellectual property infringement, violations of our End User License Agreement.
+We may also otherwise share information we collect with your permission.
+We may also sell, assign, lease, exchange, or publish your information in conjunction with a corporate sale, merger, dissolution, or acquisition of all or part of our assets, in which case, a surviving or acquiring company will be authorized to use your personal information subject to their own privacy policy.
+Other Tracking Technologies
+We use analytics providers that through technologies such as software development kits, device identifiers, and statistical IDs, are able to capture and remember certain information related to your use of the App. We use these tracking technologies to help us understand our users’ usage patterns on the App so that we can tailor new product features for our users’ benefit to offer better App experiences and tools in the future.
+This functionality may be disabled by opting out. To opt out, perform the following steps inside the app on the device where you wish to opt out.
+Go to the “Settings” view in the app.
+Pick “About the App” and then “Analytics Data”.
+Deselect “Share information with Post-it®”.
+The same screen also allows you as a user to view and delete the information that has been gathered by our analytics providers.
+How does 3M secure my information?
+We implement a variety of security measures to protect the safety of your information when you enter, submit, or access information in the App.
+While we take reasonable measures to protect the information you submit via the App against loss, theft, and unauthorized use, disclosure, or modification, we cannot guarantee its absolute security.  No internet, email, or mobile application transmission is ever fully secure or error free.  Email or other messages sent through the App may not be secure.  You should use caution whenever submitting information through the App and take special care in deciding which information you provide us.
+Given the nature of communications and information processing technology, we cannot guarantee that your information during transmission through the Internet or while stored on our systems or otherwise in our care will be absolutely safe from intrusion by others. You agree that we are not liable for disclosure of your information due to transmission errors, third-party access, or other reasons beyond our control.
+Where is this information processed?
+All information collected by the App will be processed in and subject to the laws of the United States, which, if you are not located in the United States, may not provide the same level of protection for your information as your home country. This information may be available to the United States government or its agencies under a lawful order made in the United States. In addition, we may transfer your information outside the United States to our affiliates, business partners, and service providers located in other countries. By using the App and providing us your information, you consent to such transfer of your information to, and processing of your information in, the United States and these other countries.
+What choices do I have?
+You may choose not to install the App. You may choose not to provide certain information requested by the App. Please keep in mind that withholding this information may prevent the App from providing full functionality, as described above. You may choose to receive or stop push notifications at any time. "Push notifications" are messages that are sent to your mobile device to alert you about, for example, customer surveys, or to remind you to take certain actions. You can choose to turn push notifications on or off in the Settings of your device.
+Through the App, you may access, and in some cases, edit or delete certain information stored locally in the App. The information you can view and update may change as the App undergoes further development. If you have any questions about viewing or updating your information, please contact us using one of the methods on the App support page at
+post-it.com/app
+.
+If you no longer wish to receive marketing communications from us, you may opt out of receiving marketing emails by using the unsubscribe information available in any marketing email, or you may submit a request using one of the methods on the App support page at
+post-it.com/app
+. Please note that you may not opt-out of receiving non-promotional email messages regarding programs or events you have registered for or certain administrative, technical, or safety notices about the App or our products or services.
+For more information about the rights you may have with respect to your personal information, please see 3M’s
+Global Privacy Policy
+.
+Children’s Information
+This App is not directed to or intended for use by children under the age of 13. We will not knowingly collect information from children under the age of 13. If you become aware that a child under your care has provided us with information without your consent, please contact us using one of the methods on the App support page at
+post-it.com/app
+.
+Links to Other Websites or Third-Party Services
+The App may contain links to and integrations with external websites or third-party services (such as retailer websites and cloud storage providers). We are not responsible for the privacy policies and/or practices on websites or third-party services that may be accessed through these links and integrations. When following a link to or using an integration with another website or third-party service, you should read the privacy policy for that website or service. This includes, for example, if you instruct the App to export your content within the App to a third-party app, website or external service.
+Data Retention and Deletion
+We will retain your information for our legitimate business purposes, such as to maintain your account and to comply with our legal obligations, resolve disputes, and enforce our agreements. We also may retain and use any aggregate or de-identified information (i.e., information that does not identify you personally) for any purpose. Please note that some or all of the information we have collected may be required in order for the App to function properly.
+If you no longer wish to use the App and wish to deactivate or delete your account, please delete the App and contact us using one of the methods on the App support page at
+post-it.com/app
+.
+Changes to this Privacy Policy
+When we make changes to the Privacy Policy, we will post an updated Policy on this page and change the effective date listed in the Policy. We may notify you by email or other channels in some circumstances.
+Additional Information for California Residents.  If you are a verified California resident, you may have, pursuant to the California Consumer Privacy Act, rights with respect to your personal information with 3M, which apply differently in different circumstances: right to access, right to information, and the right to deletion. 3M does not and will not sell personal information. Most of these rights are not absolute.  For more information on these rights and methods for exercising, please visit 3M’s Global Privacy Policy at available at
+https://www.3m.com/3M/en_US/company-us/privacy-policy/
+or by contacting us toll free at
+1-833-256-1792
+.
+Additional Information for California Residents.  If you are a verified California resident, you may have, pursuant to the California Consumer Privacy Act, rights with respect to your personal information with 3M, which apply differently in different circumstances: right to access, right to information, and the right to deletion. 3M does not and will not sell personal information. Most of these rights are not absolute.  For more information on these rights and methods for exercising, please visit 3M’s Global Privacy Policy at available at
+https://www.3m.com/3M/en_US/company-us/privacy-policy/
+or by contacting us toll free at
+1-833-256-1792
+.
+Questions or Concerns?
+If you have any questions or concerns regarding the topics addressed in this Privacy Policy, please contact us using one of the methods on the App support page at
+post-it.com/app
+. For more information about how 3M uses personal information and rights you may have with respect to your personal information, please see 3M’s
+Global Privacy Policy
+.
+Chat with Us
+Chat is Unavailable

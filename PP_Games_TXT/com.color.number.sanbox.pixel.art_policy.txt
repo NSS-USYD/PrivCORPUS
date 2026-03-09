@@ -1,0 +1,120 @@
+Commandoo Jsc: Privacy Policy
+Commandoo Jsc
+Monday, August 30, 2021
+Privacy Policy
+Commandoo Game Studio
+(hereinafter referred to as "we") fully respects the privacy of our users (hereinafter referred to as "you") and is committed to protecting your privacy by abiding by this policy and applicable laws and regulations. Please read this privacy policy carefully as the method that we use to collect and use your information and how you can control the above-said information are of great importance to you. Please be reminded: If you DO NOT agree with the method, described in this privacy policy, that we use to process your personal information, please DO NOT provide your information when asked during gameplay and stop using that game service. By using this game and/or its related services, you are consenting to the rules concerning your personal information described in this privacy policy.
+You may contact our data protection officer via provided information should you have any questions regarding our services or requests concerning the deletion of personal data. We will contact you within 15 business days.
+This privacy policy will help you understand the following content:
+1. The Collection and Use of Information
+1.1 The information you initiatively provide
+1.1.1 When using our product and/or services, you can choose to register an account to log in or enter without an account. When you register an account, you can use an account from a third party, such as Facebook and Google, to log in to our product. In doing so, you are required to provide us with your third party account's avatar, username, account ID, and other information. You can also choose to directly enter our product as a guest.
+1.1.2 The information you initiatively send to us includes personal information, which includes and is not limited to your account, E-mail address, phone number, device ID, system language, APP version, which you may be required to send to us in situations where you desire to provide us with feedback concerning various problems, such as account management and payment in the course of using our products and/or services. Your act of providing us with such information indicates your consent to our collecting, using, managing, and storing your information in accordance with this privacy policy.
+Please be reminded that all information we collect will be anonymized and de-identified.
+1.2 The information we collect and use and permissions we request for
+1.2.1 To ensure that you can normally use our products and services while realizing the analysis and statistics of product data and enhancing your device account's security, we or the third parties we cooperate with will collect your device ID, device name, device type, and version, system version, IP address, application ID, network connection status, network access method and type after your consent is obtained. Refusing to grant permissions to us or the third parties we cooperate with to acquire the above said information might affect your normal usage of our App or bring corresponding restrictions while you are using our App. Please be reminded that we might collect your[IMEI, IMSI, MAC address] if the system version of your android device is below 6.0. Therefore, we strongly advise you to update it to 6.0 or a higher version.
+1.2.2 In order to save players' game data, images, and other information required for using our feedback feature, we might request permission for external device storage (access application and write to APP external storage space). But we will ask for your separate consent when exercising this permission.
+1.2.3 When you are using our services, we need to check your network connection status to send alerts to you on data usage for the purpose of saving your data.
+1.3 The information third parties we cooperate with collect and use and permissions they request for
+1.3.1 You can acquire virtual products (used for below-said products only) related to our products and related services, including game items, and in-game Ads-Free via purchasing. The above said payment service is provided by Google. We will only receive result verification information confirming that you have completed the payment process from the Google payment service provider, then provide corresponding products and services to you. If you wish to learn the specific rules as to how Google service provider collects personal information, please read Google's privacy policy.
+1.3.2 In order to provide you with better products or services, we have integrated third party services (They include but are not limited to data analysis, third party payment, and advertisement.) into our products. The third parties we cooperate with and their respective privacy policies are listed below. Please read them carefully. We encourage you to read their privacy policies to learn more information as to how they process data.
+SDK
+Privacy Policy
+Bugly Bug Report
+https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+Adjust
+https://www.adjust.com/terms/privacy-policy/
+Firebase Remote Configuration SDK
+https://policies.google.cn/privacy
+Firebase Remote Promotion SDK
+Firebase Push Message SDK
+Admob AD SDK
+https://policies.google.com/privacy?hl=en
+Facebook AD SDK
+https://www.facebook.com/about/privacy/update
+Unity AD SDK
+https://unity3d.com/legal/privacy-policy
+Applovin AD SDK
+https://www.applovin.com/privacy/
+Vungle AD SDK
+http://vungle.com/privacy/
+Ironsource AD SDK
+https://www.is.com/privacy-policy/
+Inmobi AD SDK
+https://www.inmobi.com/privacy-policy-for-eea/
+Fyber AD SDK
+https://www.fyber.com/website-privacy-policy/
+Tapjoy AD SDK
+https://www.tapjoy.com/legal/advertisers/#privacy-policy
+Chatboost AD SDK
+https://answers.chartboost.com/en-us/articles/200780269
+TTAd AD SDK
+https://www.pangle.cn/privacy
+Mintegral AD SDK
+https://www.mintegral.com/en/privacy/
+Google payment SDK
+https://policies.google.com/privacy
+2. How Do We Store and Protect Your Personal Information?
+2.1 How do we store your personal information?
+2.1.1  In order to protect your personal information, the information that we collect will be stored according to relevant privacy laws and regulations in related countries. We will also store collected personal information inside or outside of the country or region where we operate within the permitted confines of local laws and regulations.
+2.1.2 If we cease to provide services or operate, we and the third parties we cooperate with will stop collecting your personal information in time and shall abide by relevant laws and regulations to inform you in advance and delete or anonymize your personal data after we cease to operate or provide services unless there are laws, regulations or regulatory authority that demand otherwise.
+2.2 How do we protect your personal information?
+2.2.1 We will apply every measure reasonably possible to ensure that we do not collect personal information unrelated to our services.
+2.2.2 We will use strict security systems and standard security technologies and programs in the industry to ensure that your personal data will not be lost, leaked, damaged, or abused.
+2.2.3 We apply encryption technologies normally required in the industry, anonymization, and other reasonable measures to encrypt and store your personal information and segment it. We will also use strict data access permission control to protect your personal data from unauthorized usage.
+2.2.4 We are enhancing our employees' security consciousness and recognition of the importance of protecting information by establishing data security management practices and applying strict data access controls.
+2.2.5 We will only allow necessary personnel to access personal information and have set strict access control and monitoring mechanisms. We also require all personnel that might access your personal information to respect corresponding obligations to be discrete, failing of which might cause legal responsibilities or terminate his/her relation with us.
+2.2.6 The internet environment is not 100% safe. We will try our best to protect your personal information. When your personal information is leaked, damaged, lost, or involved in other security events, we will, in accordance with laws and regulations, inform you in time of the basic situation of the security event and its possible repercussions, the measures we have taken or will take, advice for you to independently prevent and decrease risks, and remediation measures suitable for you. We will also inform you of information related to this event via notifications. When it is difficult to inform all involved users, we shall choose a reasonable and effective way to make an announcement.
+3. How Do We Share, Reveal or Transfer Your Personal Information?
+When sharing, transferring, and revealing your personal information, we stick to three principles, minimum, necessary, and legal. Under no normal circumstances will we share, transfer, sell or reveal your personal information to outsiders. But, within the confines of applicable laws and regulations, we might share, transfer and reveal your personal information under the following circumstances:
+3.1 We will reveal it to consultants, law enforcement agencies, and judicial and regulatory authorities to protect the legal rights and interests of you or other users or other individuals' lives, property, and other legal rights within the confines of laws and regulations.
+3.2 We are under a legal obligation or this is a mandatory requirement from relevant departments.
+3.3 When you obtain virtual products related to our products via purchasing, the transaction will take place via a third party payment service provider. You will then inevitably disclose to this provider or a potential transaction provider your information, including contact information, bank account, or email address. Please protect your information by providing it to others only when it is necessary.
+3.4 When structural changes, including M&A and reorganization, take place, we may need to transfer your personal information to the third parties who acquire or inherit part or all our assets or stocks. If the changed entity needs to change the purpose of using your personal information, we will require it to solicit your explicit consent first.
+3.5 If we discover that you are utilizing our applications, services, and their related information for fraud or illegal activities, we will take suitable measures which include but are not limited to suspending or terminating your access to our application or services.
+4. How Do We Manage Your Personal Information?
+4.1 Access, update, and deletion of personal information
+We think very highly of your right to manage your personal information. But if you choose to delete this information, certain features that require this kind of information to function may become unavailable. Please contact us if you wish to check, edit or delete your personal profile. We will take reasonable measures after your identity is verified and your specific requirements are made clear.
+4.2 Account Deletion
+You can directly contact us via the contact information provided in this privacy policy if you wish to delete your product account. Pleased be reminded that, once deleted, you account will be unrecoverable. User caution is advised.
+5. How Do We Process Personal Information Of Minors?
+5.1 According to relevant laws and regulations, minors under the age of 16 should read this privacy policy in the company of parents or legal guardians. Under no circumstances are minors allowed to use our services without parents' or legal guardians' consent to this privacy policy. Please contact us if you have questions.
+5.2  Please be reminded that we will not intentionally collect or solicit personal data about minors under the age of 16, or direct them to interest-based advertisements, or intentionally allow such people to use our services. If you are a minor under the age of 16, please do not send us any personal data about you, including your name, address, phone number, or email address. Minors under the age of 16 cannot provide any personal data. If we learn that we have collected any personal data about minors under the age of 16, we will apply every reasonable method to delete that data. Please contact us if you believe that we might have data from or related to minors under the age of 16.
+5.3 Please be reminded that the definition of a minor varies in different nations. In order to make sure that minors' information is properly and safely protected, we have set the age limit at 16 according to laws and regulations in relevant nations. Please contact us if you have questions.
+Special Notification for residents in California, U.S.
+If you are a resident in the state of California and wish to know related privacy information, you may contact us via the contact information provided in this privacy policy. You need to explicitly express in your request that you require a copy of "California Privacy Right Statement" and wait at least 30 business days to receive our feedback.
+If you are a registered user of our service and a California resident under the age of 18 and wish to delete the content or information you have published on our service/product or stored on our servers, please contact us via the contact information provided in this privacy policy and provide us with the necessary information for us to correctly find the content or information you wish to delete.
+Please be reminded that we do not need to delete or remove this content or information in other methods under the following circumstances:
+A. Other state or federal laws require us or third parties to keep this content or information.
+B. This content or information is posted, stored, or reposted by another user.
+C. This content or information is anonymized and cannot be identified whether it is posted by or belongs to a minor.
+D. The minor didn't abide by the rules and instructions published in this privacy policy regarding requesting the deletion of this kind of content or information.
+E. The minor is compensated for providing this content.
+In addition, any content in this clause cannot be construed as restrictions preventing law enforcement agencies from acquiring this kind of content or information.
+Special Notification for residents in the E.U.
+When transmitting personal information out from E.U., we will apply both technical and physical measures to protect your personal information in strict accordance with related laws and regulations in the E.U.. Please contact us if you have any questions regarding the mechanism that we use to transmit your personal information. We will only collect, use or store your personal information under the following circumstances:
+A. You willingly and initiatively provide us with information.
+B. It is collected for the purpose of providing the service(s) you demand.
+C. Protect your or others' vital interest(s).
+If you are a resident of the above-said country or region, you can contact us via the contact information provided in this privacy policy and provide us with the necessary information for us to correctly find the content or information you wish to delete. But if we have a right cause to keep your personal information for, take a hypothetical example, preventing fraud, we are not required to delete your personal information. Please also be reminded that there are circumstances where laws forbid us to execute your requirements, including
+A. We cannot ascertain your identity.
+B. What you request is deemed excessive.
+C. What you request has a detrimental influence on others' rights or liberty.
+6. Cookies and similar technologies
+We use Cookie and similar technologies for the purpose of providing you with better products and/or services. With the help of these advanced technologies, we are able to track your game progress and learn about your game info so as to provide you with a smooth and high-quality user experience. We shall not apply the above-said technology for any other purpose that is not listed in this policy. Please understand that certain services can only be achieved with these above-said technologies. If your device or related program permits, you can turn off or delete the above-said technologies by changing settings or visiting those technology providers' websites. But this might affect your experience with our products/services.
+7. Updates and Notifications of Privacy Policy
+We reserve the right to change this Privacy Policy at any time in order to provide you with better service. We will notify users on this page or possibly in this application and/or by any available means where technically and legally feasible. It is strongly recommended that you check this page frequently and refer to the last modification date listed in this privacy policy. Please contact us at
+master@commandoo.com
+if you have any questions.
+at
+August 30, 2021
+Email This
+BlogThis!
+Share to Twitter
+Share to Facebook
+Share to Pinterest
+Newer Post
+Home
+Commandoo Jsc. Powered by
+Blogger
+.

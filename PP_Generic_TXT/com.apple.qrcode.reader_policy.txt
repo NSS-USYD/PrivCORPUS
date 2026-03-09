@@ -1,0 +1,23 @@
+QR code reader
+Search this site
+Skip to main content
+Skip to navigation
+QR code reader
+QR code reader Privacy policy
+Personal information
+Qr code reader with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not use your camera.
+Permission requests:
+In Qr code reader, the app requests some sensitive permissions to make functions of application work properly:
+permission CAMERA: T
+o take picture to decode QR code and barcode, this is main feature of the app.
+permission READ_CONTACTS, LOCATION :
+To make/generator a QR code for your contact, location.
+permission PHOTO:
+Get photo to read QR code from your device.
+The App
+DOES NOT
+collect your any information.
+Google Sites
+Report abuse
+Google Sites
+Report abuse

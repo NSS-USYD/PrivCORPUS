@@ -1,0 +1,136 @@
+ï»¿
+RoboBot Studio - PRIVACY POLICY
+RoboBot Studio -
+Your fun is our goal!
+Privacy
+Terms of Use
+PRIVACY POLICTY
+Effective Date: Jan 06, 2021
+Thank you for using and playing our apps and games! This Privacy Policy describes:
+-	The ways we collect personal data about you and why we do so
+-	How we use your personal data, and
+-	The choices you have about your personal data.
+This Privacy Policy applies to RoboBot Studio di Andrea Testa's  apps, games, websites and related services, which we here collectively call the Service. Remember that your use of RoboBot Studio's Services is at all times subject to the
+Terms of Use
+, which incorporates this Privacy Policy.
+2) CONTACT US
+If you have questions about data protection, or if you have any requests for resolving issues with your personal data, we encourage you to primarily contact us through the support features within each RoboBot Studio app, so we can reply to you more quickly.
+Alternatively, you may contact:
+Name of the controller:
+RoboBot Studio di Andrea Testa
+Address: RoboBot Studio, Via Giacomo Leopardi n.25, 24020 Ranica (BG), ITALY
+Privacy email:
+privacy@robobotstudio.com
+3) THE DATA WE COLLECT
+The categories of personal data we collect depend on the Services you use, and the requirements of applicable law.
+3.1) Data you provide us directly
+3.1.1) Contact information (optional)
+We receive and store any information you knowingly provide to us. For example, if you email us at support@robobotstudio.com, we may collect Personal Information that you provide to us in connection with such email communication (such as email address and name). Note, however, that while we will receive your email address if you email us at support@robobotstudio.com, you do not need to provide your first or last name or any other Personal Information when you contact us, and we will not store your Personal Information for longer than required to address your issues or concerns.
+3.1.2) Account Registration (optional)
+In some of our apps we provide the ability to register an account in the app settings. The information required to create an account is minimal, you need a valid email address and a password. The password chosen when creating the account is automatically encrypted and is not visible to us. We do not share this information with anyone and we do not use your email for any commercial, marketing or other purposes.
+The account is mainly used to allow you to synchronize purchases made, or upgrades earned while using our apps, in your different devices where you may want to use the app.
+Unused accounts are deleted after two years. If you wish to cancel your account immediately, you can delete the account in the app settings or you can contact us and require your account deletion.
+3.1.3) Nickname Ranking Leaderboard (optional)
+In some of our games and apps, it is possible to compete against other players in a game with leaderboard. If you get a score that is placed on the leaderboard, you are prompted to choose a nickname that will appear on the leaderboard along with your country code. Your real name is not required but simply a nickname of your choice.
+3.1.4) Name and date of birth (optional)
+In some of our games and apps, you can enter your date of birth and name to customize the services offered by the app. These informations are stored exclusively within the app and are not saved in our systems or shared with third parties.
+3.1.5) Data specific to an app or game
+App 'AgeBot: How old am I?
+- Face recognition services: using this app you can upload a photo to discover an estimation of your age. Face detection functionality is offered using Microsoft Cognitive Services. We do not save in our system users faces photos or share it with others.
+You can read more about Microsoft Cognitive Services here:
+Microsoft Cognitive Services Info
+App 'DataBot assistant'
+- Location Information (Optional): using this app you can share your current position with us to make certain services work, for example, to know the places of interest around you for which DataBot can create a multimedia presentation. Your current position is not saved on our servers nor shared with third parties.
+- Music Device Folders (Optional): using this app some services, such as the vocal music player, require permission to scan the folders of your device for MP3 music. This permission is optional and you can decide not to give permission to Databot to search for your music. However, if permission is not granted, the vocal music player would not be usable. We do not save the information contained in your device nor share it with third parties.
+3.2) Data we collect automatically
+- Your mobile device identifiers (such as your device or advertising ID)
+- Data about your device, such as device name and operating system, browser type and language, internet service provider, and mobile carrier
+- Data we collect with cookies and similar technologies (see more below)
+- Data about your use of the Service, such as most used functionality and frequence.
+3.3) Data we collect from our partners
+We also use third-party partners, such as data analytics providers and advertising networks to supplement information we have about you, such as:
+- Demographic data (such as to determine the coarse location of your IP address)
+- Data to fight fraud (such as refund abuse in games/apps or click fraud in advertising)
+- Data from platforms that the apps/games run on (such as to verify payment)
+- Data for advertising and analytics purposes, so we can provide you a better Service
+4) WHY DO WE COLLECT YOUR DATA
+We use your data for a variety of business purposes.
+4.1) To make the Service more suitable for our users
+4.2) To provide a great Service to our users
+We have a legitimate interest to collect and process necessary data to:
+- develop and improve the Service and user experience
+- manage our relationship with you
+- customize your Service experience
+- respond to your comments and questions and provide user support
+4.3) To show personalized advertisements
+To show you personalized advertisements in the Service we have a legitimate interest to process necessary data to:>
+- Track the content you access in connection with the Service and your online behavior
+- Deliver, target and improve our advertising and the Service
+For iOS devices
+, we have embraced the policy promoted by Apple and have decided not to use the device identifier (IDFA) to show personalized advertising. We use SKAdNetwork developed by Apple, an API that measures the success of marketing campaigns and allows users to retain their privacy.
+For Android devices
+, our advertising partner uses device identifiers and other information to display advertising tailored to the interest of the user installing the app. At the first installation of the app, we give European users the possibility to express their consent on the display of personalized advertising in compliance with the GDPR. If the user declines, we show non-personalized advertising.
+For Windows 10 devices
+, we currently don't show any ads. Consequently, we do not track the device identifier for this purpose.
+4.4) To analyze, profile, and segment.
+In all of the above cases and purposes, we may analyze, profile and segment all collected data.
+5) WHO CAN SEE YOUR DATA
+Apart from RoboBot Studio, your data can be accessed by others in the following situations:
+5.1) OUR SERVICE PROVIDERS
+RoboBot Studio has vendors to us provide the Services. These vendors process your data only at and according to RoboBot StudioÂ´s instructions to provide the Service, and perform tasks such as hosting, player support, advertising, analytics and fraud prevention.
+5.1.1) App distribution providers
+Providers that allow us to distribute our apps and games in their app stores and access some statistical data (e.g. number of installations, uninstallations)
+- Apple for apps available in the App Store.
+- Google for apps available in the Play Store.
+- Microsoft for apps available in the Microsoft Store.
+- Huawei for apps available in the Huawei App Gallery.
+5.1.2) Advertising providers
+- Admob (Google) for advertising displayed in apps available in the Play Store, App Store and Huawei App Gallery.
+- Facebook Audience Network for advertising displayed in apps available in the Play Store and Huawei App Gallery.
+5.1.3) Data analysis providers
+Providers of analytical data whose services we use in our Android and iOS apps in order to improve the experience offered and which allow us to see data such as, for example, frequency and time of use of an app, product interaction, uasge data, crash data, performance data.
+These services are used within each app for Android and iOS and do not track user's identity information. We do not save any personal data in our servers.
+We use the analytics services of the following partners anonymously to improve our apps and games:
+- Flurry Analytics. It's used to track analytical data like session lengths, retention rate, bug fixing
+- Firebase. It's used to track in-app events (examples: game level up, game score, purchases, etc ), session lengths, retention rate, bug fixing
+- AppsFlayer. It's used to understand LTV (Life time value) checking in-app purchases and ad revenue, track in-app events (examples: game level up, game score, purchases, etc ), session lengths, retention rate
+5.1.4) IT infrastructure providers
+Our databases and APIs designed to manage accounts, rankings and other services available in our apps and games, were built in Microsoft Windows Azure.
+5.2) OTHER COMPANIES AND PUBLIC AUTHORITIES
+In order to combat fraud and illegal activity, we may process and disclose data with other companies and organizations and provide it to public authorities in response to lawful requests.
+We may also disclose your data based on your consent, to comply with the law or to protect the rights, property or safety of us, our players or others.
+5.3) OTHER USERS
+The other users can only see your nickname and country code in the leaderboard inside the games where a ranking system is available when they check the leaderboard.
+6) YOUR RIGHTS AND OPTIONS
+6.1) Push Notifications
+We may send you push notifications through our mobile applications. You may at any time opt-out from receiving these types of communications by changing the settings on your mobile device.
+6.2) Opt-out of targeted advertising
+-
+For Android devices
+, at the first installation of the app, we give European users the possibility to express their consent on the display of personalized advertising in compliance with the GDPR. If the user declines, we show non-personalized advertising. You can also opt out from personalized ads through the options provided in the privacy settings within each app.
+-
+For iOS devices
+, there isnt an option to opt-out because we have embraced the policy promoted by Apple and have decided not to use the device identifier (IDFA) to show personalized advertising. We use SKAdNetwork, an API developed by Apple that measures the success of marketing campaigns and allows users to retain their privacy.
+-
+For Windows 10 devices
+, we currently don't show any ads. Consequently, we do not track the device identifier for this purpose.
+6.3) Opt-out from data analysis
+With the exception of Windows 10 devices where we do not use this service, by default, we do not collect this data through our analytics partner Flurry without your explicit consent. When you install the app or in the privacy settings you have the opportunity to express your opinion on it.
+6.4) Opt-out from personal data (account)
+In some of our apps you can register and create an account in the app settings to sync and restore your purchases and experience points(XP). If you request, we will provide you a copy of your personal data in an electronic format in case you registered an account with us.
+You can also delete your account in the app settings after you created it.
+7) COOKIES
+We do not use cookies in our company and app sites.
+8) HOW DO WE PROTECT YOUR DATA
+8.1) Security Safeguards
+In order to help ensure a secure and safe user experience, we are continuously developing and implementing administrative, technical and physical security measures to protect your data from unauthorized access or against loss, misuse or alteration.
+8.2) Data retention
+We retain your data for as long as your account is active or as needed to provide you the Service. We may for example periodically de-identify unused app accounts, and we may regularly review and de-identify unnecessary data.
+9) CHILDREN
+Protecting childrenâ€™s privacy online is very important to us. Generally, our Services are not directed to children under 13 (or other age as required by local law), and the Services do not knowingly collect personal data from children, except as described in the following paragraph.
+For apps and games that are not directed at children but nonetheless may appeal to them, we take additional steps to limit access to these Services based on the playerâ€™s age. For these Services, when a user indicates they are under 13 (or the applicable age in their territory), we will limit their access to certain features, such as account registration, as well as certain types of notification alerts. We also limit the processing of personal data to only what is necessary to support the internal operations of our Services.
+If you are a parent or guardian and wish to review personal data collected from your child, or have that information modified or deleted, you may contact us as described above. If we become aware that a child has provided us with personal data contrary to the above, we will delete any personal data we have collected, unless we have a legal obligation to keep it, and terminate the childâ€™s account and/or revert them to the underage experience, as applicable.
+10) FOR CALIFORNIA RESIDENTS
+The California Consumer Privacy Act of 2018 (CCPA) permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has collected, shared with, and/or sold to third parties for a business or commercial purpose during the immediately preceding calendar year.
+As a Californian consumer, you also have the right, at any time, to opt out of any type of selling of your personal information.
+Please note that we do not sell your personal information to provide the SERVICE described in this Privacy Policy. Our partners and providers who work with us may have access to your personal information in order to provide you with the app services within the limits and throughout the duration of our agreement, but they canâ€™t reuse your personal information for any other purposes. Our contracts are strictly drafted to protect your personal information and your privacy rights.

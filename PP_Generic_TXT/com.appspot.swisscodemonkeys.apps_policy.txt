@@ -1,0 +1,75 @@
+AppTornado app discovery apps Terms of Service
+AppBrain
+|
+Apps
+Apps
+Apps being viewed right now
+Hot apps today
+Most downloaded apps recently
+Most all-time downloaded apps
+Top rated apps
+Statistics
+Docs
+Developers
+Sign up
+Log in
+AppTornado app discovery apps Privacy Policy and terms
+Version: March 2nd, 2021
+This document applies to the apps "Find Awesome Games", "Hot Apps", "Price Drop App", and "AppBrain App Market".
+PRIVACY
+OPT-IN
+Our apps have an opt-in screen at the start. If you don't opt-in, we won't collect
+any information about installed apps on your device and recommendations won't work.
+DATA COLLECTED
+When you opt in, our app will collect the package name of apps you install and uninstall. This
+data is sent to AppTornado servers over a secure connection. With the data in the request we can
+also see your IP address. We also collect non-personal data, such as the country you're most likely in,
+what kind of Android device you are using and what OS version is on it and other technical details.
+When you load the "recommended apps", our app will send a list of all currently installed package names
+on your device to retrieve the apps that you most likely will be interested in.
+DATA RETENTION
+The installed app data is deleted after at most 30 days. It's processed only for the purpose creating aggregated reports for popularity of apps and analyzing user behavior to improve our products. No personal profiles are built.
+TERMS OF SERVICE
+USE OF APPLICATION
+AppBrain grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use.
+- You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party's use and enjoyment of the Application (or servers or networks connected to the Application).
+- You agree that you are solely responsible for (and that AppBrain has no responsibility to you or to any third party for) your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which AppBrain may suffer) of any such breach.
+PROPRIETARY RIGHTS
+You acknowledge that (a) the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws, and (b) AppBrain and/or third parties own all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. "Intellectual Property Rights" means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not, and will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application, (iii) use the Application to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter AppBrain's or any third party’s copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application.
+TERMINATION
+These Terms and Conditions will continue to apply until terminated by either you or AppBrain as set forth below. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device in its entirety. Your rights automatically and immediately terminate without notice from AppBrain or any Third Party if you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately delete the Application.
+INDEMNITY
+To the maximum extent permitted by law, you agree to defend, indemnify and hold harmless AppBrain, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions.
+DISCLAIMER OF WARRANTIES
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTY OF ANY KIND.
+- YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
+- AppBrain FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE APPLICATION.
+- THE APPLICATION IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER ACTIVITIES IN WHICH THE FAILURE OF THE APPLICATION COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE OR HARM TO LITTLE KITTENS.
+LIMITATION OF LIABILITY
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT AppBrain, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS ARE NOT LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR USE OF THE APPLICATION, INCLUDING ANY LOSS OF DATA OR DAMAGE TO YOUR MOBILE DEVICE, WHETHER OR NOT AppBrain OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+MISCELLANEOUS
+These Terms and Conditions constitute the entire Agreement between you and AppBrain relating to the Application and govern your use of the Application, and completely replace any prior or contemporaneous agreements between you and AppBrain regarding the Application.
+- The failure of AppBrain to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to AppBrain.
+- If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable.
+- The rights granted in these Terms and Conditions may not be assigned or transferred by either you or AppBrain without the prior written approval of the other party. Neither you nor AppBrain are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party.
+- This agreement shall be governed by the laws of the canton of Zürich, Switzerland, and any conflict arising from it shall be adjudicated in Zürich, Switzerland.
+Definitions
+In this agreement, “we”, “AppBrain”, “APPBRAIN“ means AppTornado GmbH, a limited liability company, Stallikerstrasse 29, 8142 Uitikon, Switzerland.
+More apps
+Top Android apps being viewed
+KnitBirds- Yarn Shopping App
+Luxury Logo Maker: Logo Design
+Feel Fantasy
+Android Statistics
+Android statistics
+Google Play Developer stats
+Trending Android Apps
+All-time Popular Apps
+About AppBrain
+Contact
+Blog
+Privacy
+Documentation
+Articles
+Android App Marketing: Learn how to better market your Android app
+© 2010-2023 - AppBrain

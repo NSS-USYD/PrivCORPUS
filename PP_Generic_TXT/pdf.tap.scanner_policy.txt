@@ -1,0 +1,334 @@
+Privacy Policy – Tap Mobile – Tap Mobile
+Skip to content
+Products
+Join our team
+Privacy Policy – Tap Mobile
+Privacy Policy
+Effective as of December 03, 2020
+Last updated March 20, 2022
+This Privacy Policy describes the privacy practices of our app in connection with the app mobile application (the
+“App”
+) and tap.pm website (the
+“Site”
+).
+If you decide not to read this entire Privacy Policy, we want you to walk away with a few key points about Tap’s privacy practices:
+We use third-party cloud providers – specifically, Google Cloud Platform and Amazon Web Services – to process and edit photographs (Neural networks based editing) and extract text from documents (OCR).
+The App only uploads to the cloud the images that you specifically select for processing.
+Photos are temporarily cached on the cloud servers during the editing process, and encrypted using a key stored locally on your mobile device.
+Photos remain in the cloud for a limited period of 24-48 hours after you have last edited the photograph, so that you can return to the image and make additional changes if you so choose.
+We do not use the photographs you provide when you use the App for any reason other than to provide you with the portrait editing functionality of the App.
+Videos are edited locally on your device, so you don’t provide us with videos when you use the App, and we don’t collect, use and share your video information.
+If you have any questions about our privacy practices, please email
+[email protected]
+Here’s more on our privacy practices. Individuals located in the
+European Economic Area
+should also read our Notice to European Users
+below
+.
+PERSONAL INFORMATION WE COLLECT
+When you use the App, we may collect information about you, including:
+Photographs and\or documents you provide when you use the App
+, via your camera or camera roll (if you have granted us permission to access your camera or camera roll), the in-App internet search functionality, or your social media account (if you choose to connect your social media account). We obtain only the specific images you chose to modify using the App; we do not collect your photo albums even if you grant us your access to them. We encrypt each photograph that you upload using the App. The encryption key is stored locally on your device. This means that the only device that can view the photo is the device from which the photograph was uploaded using the App – the user’s device. Please note that while we do not require or request any metadata attached to the photographs you upload, metadata (including, for example, geotags) may be associated with your photographs by default. We take steps to delete any metadata that may be associated with a photograph you provide when you use the App.
+App usage information
+, such as information about how you use the App and interact with us, including your preferred language, the date and time when you first installed the App and the date and time you last used the App.
+Purchase history
+, if you choose to purchase an App subscription, such as confirmation that you are a paid subscriber to the App.
+Social media information
+, if you choose to login to the App via a third-party platform or social media network (for example, Facebook), or otherwise connect your account on the third-party platform or network to the App. We may collect information from that platform or network, such as your social media alias, first and last name, number of “friends” on the social media platform and, if depending on your Facebook or other network settings, a list of your friends or connections (though we do not use or store this information). Our collection and processing of the information we obtain from social media platforms is governed by the requirements these social media platforms impose on us in their relevant terms and conditions.
+Device data
+, such as your computer and mobile device operating system type and version number, manufacturer and model, device ID, push tokens, Google Advertising ID, Apple ID for Advertising, browser type, screen resolution, IP address (and the associated country in which you are located), the website you visited before visiting our Site; and other information about the device you are using to visit the App.
+Online activity data
+, such as information about your use of and actions on the App and the Sites, including pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and length of access. Our service providers and certain third parties (e.g., online advertising networks and their clients) also may collect this type of information over time and across third-party websites and mobile applications. This information may be collected on our Site using cookies, browser web storage (also known as locally stored objects, or
+“LSOs”
+), web beacons, and similar technologies. We may collect this information directly or through our use of third-party software development kits (
+“SDKs”
+). SDKs may enable third parties to collect information directly from our App.
+Device permissions for Personal Data access
+Depending on the User’s specific device, this Application may request certain permissions that allow it to access the User’s device Data as described below.
+By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
+The exact procedure for controlling app permissions may be dependent on the User’s device and software.
+Please note that the revoking of such permissions might impact the proper functioning of this Application.
+If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
+Camera permission
+Used for accessing the camera or capturing images and video from the device.
+Photo Library permission
+Allows access to the User’s Photo Library.
+Face recognition technologies
+We use face recognition technologies In order to provide our Services, we use this technology to recognize people in images and camera experiences. We may detect and use facial marks to provide face recognition contents and facial manipulation features.
+The information we collect cannot be used for identifying a specific person, and is used to provide the mentioned features only. When the content inference is done or upon the closing of the application, the facial mapping information is discarded, We will neither use the results for other purposes. This data and information is not shared with any third party and no one but you have access to it.
+Write-only Photo Library permission
+Allows write-only access to the User’s photo library.
+HOW WE USE YOUR PERSONAL INFORMATION
+We do not use the photographs you provide when you use the App for any reason other than to provide you with the editing functionality of the App. We may use information other than photographs for the following purposes:
+To operate and improve the App:
+Enable you to use the App’s features;
+Establish and maintain your account, if you choose to login to the App using your social media account;
+Communicate with you about the App, including by sending you announcements, updates, and security alerts, which we may send through a push notification, and responding to your requests, questions and feedback;
+Provide technical support and maintenance for the App; and
+Perform statistical analysis about use of the App (including throught the use of
+Google Analytics
+).
+To send you marketing and promotional communications.
+We may send you marketing communications as permitted by law. You will have the ability to opt-out of our marketing and promotional communications as described in the Opt out of marketing section below.
+To display advertisements to you.
+If you use the free version of the App, we work with advertising partners to display advertisements within the App. These advertisements are delivered by our advertising partners and may be targeted based on your use of the App or your activity elsewhere online. To learn more about your choices in connection with advertisements, please see the section below titled
+“Targeted online advertising.”
+For compliance, fraud prevention, and safety.
+We may use your personal information and disclose it to law enforcement, government authorities, and private parties as we believe necessary or Appropriate to: (a) protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims); (b) enforce the terms and conditions that govern the Service; and (c) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
+With your consent.
+In some cases, we may specifically ask for your consent to collect, use or share your personal information like photos you process, in order to improve our AI models and features in the app and in other photo-related apps provided by us, and offer a better service for editing and enhancing your images (for example, by using your images to train and validate our AI algorithms in the app and in other similar mobile and web apps provided by us, and by examining and labelling your images to improve the performance of our enhancement features). The legal basis for the processing is your consent (art. 6(1)(a) of the GDPR). If you have an account and upon your consent, we will receive images, videos and audio-recordings uploaded by you.
+To create anonymous, aggregated or de-identified data.
+We may create anonymous, aggregated or de-identified data from your personal information and other individuals whose personal information we collect. We make personal information into anonymous, aggregated or de-identified data by removing information that makes the data personally identifiable to you. We may use this anonymous, aggregated or de-identified data and share it with third parties for our lawful business purposes.
+HOW WE SHARE YOUR PERSONAL INFORMATION
+We do not disclose user photographs or videos to third parties (with the exception of uploading an encrypted image to our cloud providers Google Cloud Platform and Amazon Web Services to provide the photo editing features of the App). We may share your non-photograph and non-video information in the following circumstances:
+Affiliates.
+We may share App usage information with our subsidiaries and affiliates, for purposes consistent with this Privacy Policy.
+Service providers.
+We may share your personal information with services providers that perform services on our behalf or help us operate the App (such as customer support, hosting, analytics, email delivery, marketing, and database management services). These third parties may use your personal information only as directed or authorized by us and in a manner consistent with this Privacy Policy, and are prohibited from using or disclosing your information for any other purpose.
+Advertising partners.
+When we use third-party cookies and other tracking tools, our advertising partners may collect information from your device to help us analyze use of the Site and the App, display advertisements on the App and advertise the Site and App (and related content) elsewhere online.
+Third-party platforms and social media networks.
+If you have enabled features or functionality that connect the App to a third-party platform or social media network (such as by logging into the app using your account with the third-party, providing your API key or similar access token for the App to a third-party, or otherwise linking your account with the App to a third-party’s services), we may disclose the personal information that you authorized us to share (such as when you elect to upload a photograph or video to your social media account). We do not control the third-party platforms’ use of your personal information, which is governed by that third party’s privacy policy and terms and conditions.
+Professional advisors.
+We may disclose your personal information to professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to us.
+For compliance, fraud prevention and safety.
+We may share your personal information for the compliance, fraud prevention and safety purposes described above.
+Business transfers.
+We may sell, transfer or otherwise share some or all of our business or assets, including your personal information, in connection with a business transaction (or potential business transaction) such as a corporate divestiture, merger, consolidation, acquisition, reorganization or sale of assets, or in the event of bankruptcy or dissolution.
+Entity name
+Services performed
+Entity location
+Link to Privacy Policy
+Adjust GmbH
+Analytics service provider
+Germany
+https://www.adjust.com/terms/privacy-policy/
+Amazon.com, Inc.
+Cloud storage provider / ad management service provider
+U.S.A.
+https://services.amazon.com/privacy-policy.html
+Amplitude
+Analytics service provider
+U.S.A.
+https://amplitude.com/privacy/
+Apple Inc.
+Cloud storage provider (for iOs devices)
+U.S.A.
+https://www.apple.com/lae/privacy/
+AppsFlyer Inc.
+Analytics service provider
+U.S.A.
+https://www.appsflyer.com/legal/privacy-policy/
+https://www.appsflyer.com/legal/services-privacy-policy/
+Firebase (Google LLC)
+Analytics service provider
+U.S.A.
+https://firebase.google.com/support/privacy
+Facebook Inc.
+Analytics / ad management service provider
+U.S.A.
+https://www.facebook.com/privacy/explanation
+Google LLC
+Cloud storage (for Android devices) / analytics service provider
+U.S.A.
+https://policies.google.com/privacy?hl=en
+Microsoft Corp.
+Cloud storage provider
+U.S.A.
+https://privacy.microsoft.com/en-US/
+MoPub
+*
+Ad mediator
+U.S.A.
+https://www.mopub.com/legal/privacy/
+Twitter Inc.
+Analytics / ad management service provider
+U.S.A.
+https://twitter.com/en/privacy
+Yandex LLC
+Cloud storage / analytics service provider
+Russia
+https://yandex.com/legal/privacy/
+COMPLIANCE WITH LAW
+We may be required to use and share your personal information to comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities.
+YOUR CHOICES
+Users may exercise certain rights regarding their Data processed by the Owner.
+In particular, Users have the right to do the following:
+Withdraw their consent at any time.
+Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+Object to processing of their Data.
+Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+Access their Data.
+Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+Verify and seek rectification.
+Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+Restrict the processing of their Data.
+Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+Have their Personal Data deleted or otherwise removed.
+Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+Receive their Data and have it transferred to another controller.
+Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User’s consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+Lodge a complaint.
+Users have the right to bring a claim before their competent data protection authority.
+Details about the right to object to processing
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
+How to exercise these rights
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+Third-party platforms or social media networks.
+If you choose to connect to the App via a third-party platform or social media network, such as by using Facebook login, you may have the ability to limit the information that we may obtain from the third-party at the time you login to the App using the third-party’s authentication service or otherwise connect your account. Subsequently, you may be able to control your settings through the third-party’s platform or service. For example, you may access and change your settings through the Facebook
+settings page
+for Apps and Websites. If you withdraw our ability to access certain information from a third-party platform or social media network, that choice will not apply to information that we have already received from that third party.
+OTHER SITES, MOBILE APPLICATIONS AND SERVICES
+The App may contain links to other websites, mobile applications, and other online services operated by third parties. These links are not an endorsement of, or representation that we are affiliated with, any third party. In addition, our content may be included on web pages or in mobile applications or online services that are not associated with us. We do not control third party websites, mobile applications or online services, and we are not responsible for their actions. Other websites, mobile applications and online services follow different rules regarding the collection, use and sharing of your personal information. We encourage you to read the privacy policies of the other websites, mobile applications and online services you use.
+SECURITY PRACTICES
+We use commercially reasonable security practices to help keep the information collected through the App secure and take reasonable steps to verify your identity before granting you access to your account (if you have an account with us). However, the app cannot ensure the security of any information you transmit to Tap or guarantee that information on the App may not be accessed, disclosed, altered, or destroyed.
+Please do your part to help us. You are responsible for maintaining the confidentiality of your login information and device identifiers, and for controlling access to communications between you and the app, at all times. Your privacy settings may also be affected by changes the social media services you connect to the app make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.
+RETENTION
+We configure Google Cloud Platform and Amazon Web Services to delete photographs, and the information associated with the photographs within 24-48 hours after the photograph was last edited using the App. This allows you to revisit the image for additional modifications during that time.
+With respect to non-photograph information that we may collect, we will retain such information in a personally identifiable format only for as long as necessary to fulfill the purposes we have set out in this Privacy Policy. You may also ask that we delete your information using the
+“Request cloud data removal”
+button as described above or by contacting us.
+CROSS-BORDER DATA TRANSFERS
+We store the information we collect in connection with the App on Amazon Web Services and Google Cloud Platform. For Amazon Web Services, we specify the US as the data storage location, for Google Cloud Platform, we specify data storage at an available location closest to you when you use the App. Your personal information may be accessed by our service providers in other locations outside of your state, province, or country. Your device ID (and general App usage information) may also be accessed by the Company’s technical support team in other locations outside of your state, province, or country. We rely on the Privacy Shield, as described below, for transfers of data from the EU and Switzerland to the app in the United States.
+CHILDREN
+The App is not directed at children under the age of 13, and our Terms of Use do not allow children under 13 years of age to use the App. If we learn that we have collected personal information of a child under the age of 13, we will delete it. We encourage parents with concerns to contact us.
+CHANGES TO THE PRIVACY POLICY
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the App. We may, and if required by law, will, provide notification of changes in another way that we believe is reasonably likely to reach you, such as through the App.
+Any modifications to this Privacy Policy will be effective upon our posting the new terms and/or upon implementation of the new changes on the App (or as otherwise indicated at the time of posting). In all cases, your continued use of the App after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+HOW TO CONTACT US
+Please direct any questions or comments about this Policy or privacy practices to
+[email protected]
+You may also write to us via postal mail at:
+Smart media internet marketing ltd.
+Attn: Legal – Privacy
+Hagoren 6 Omer, Israel
+NOTICE TO EUROPEAN USERS
+The information provided in this
+“Notice to European Users”
+section applies only to individuals who reside in Europe.
+Personal information.
+References to
+“personal information”
+in this Privacy Policy are equivalent to
+“personal data”
+governed by European data protection legislation.
+Legal bases for processing.
+We use your personal information only as permitted by law. Our legal bases for processing the personal information described in this Privacy Policy are described in the table below.
+Processing purpose
+Details regarding each processing purpose listed below are provided in the section above titled
+“How we use your personal information”
+.
+Legal basis
+To operate and improve the App
+Processing is necessary to perform the contract governing our provision of services in connection with the App, or to take steps that you request prior to signing up for the App. If we have not entered into a contract with you, we process your personal information based on our legitimate interest in providing the services you access and request in connection with the App.
+To send you marketing and promotional communications
+To display advertisements to you
+For compliance, fraud prevention and safety
+To create anonymous, aggregated or de-identified data
+These activities constitute our legitimate interests. We do not use your personal information for these activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+Compliance with Law
+Processing is necessary to comply with our legal obligations.
+With your consent
+Processing is based on your consent. Where we rely on your consent you have the right to withdraw it any time in the manner indicated when you consent or in the App.
+YOUR RIGHTS
+European data protection laws give you certain rights regarding your personal information. If you are located within the European Union, you may ask us to take the following actions in relation to your personal information that we hold:
+Access.
+Provide you with information about our processing of your personal information and give you access to your personal information.
+Correct.
+Update or correct inaccuracies in your personal information.
+Delete.
+Delete your personal information.
+Transfer.
+Transfer a machine-readable copy of your personal information to you or a third party of your choice.
+Restrict.
+Restrict the processing of your personal information.
+Object.
+Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.
+You may submit these requests by email to
+[email protected]
+or our postal address provided above.
+If you would like to submit a complaint about our use of your personal information or our response to your requests regarding your personal information, you may contact us or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator
+here
+.
+NOTICE TO CALIFORNIA RESIDENTS
+We are required by the California Consumer Privacy Act of 2018 (
+“CCPA”
+) to provide to California residents an explanation of how we collect, use and share their personal information, and of the rights and choices we offer California residents regarding our handling of their personal information.
+We do not sell personal information. As we explain in this Privacy Policy, we use cookies and other tracking technologies to analyze Site and App traffic and use, and to facilitate advertising. If you would like to opt out of our (and our third party advertising partners’) use of cookies and other tracking technologies, please review the instructions provided in the Online Tracking Opt-out Guide.
+In addition to disclosures of personal information to our service providers and professional advisors, for compliance, fraud prevention and safety, and in connection with a business transfer, as described in the “How We Share Your Personal Information” section of the Privacy Policy, the following chart further describes our privacy practices with respect to the personal information of our California consumers.
+Personal information we collect
+CCPA-defined
+categories
+Sources of personal information
+Purposes for which we may collect and use the personal information
+Data Sharing
+Photographs
+Physical description
+You
+To operate and improve the App
+Shared with third-party platforms (e.g., social media networks) at your direction
+Shared with cloud service providers (i.e., Google Cloud Platform and Amazon Web Services)
+App usage information
+Online identifiers
+Internet or network information
+Inferences
+You
+Automatic collection
+To operate and improve the App
+To send you marketing and promotional communications
+Shared with affiliates that provide services to us
+Purchase history
+Commercial information
+Online identifiers
+The app store provider through which you purchased your subscription (i.e., Google or Apple)
+To operate and improve the App
+None
+Social media information
+Identifiers
+Online identifiers
+Third-party platforms
+To operate and improve the App
+Shared with third-party platforms (e.g., social media networks) at your direction
+Device data
+Online activity data
+Online identifiers
+Internet or network information
+Inferences
+You
+Automatic collection
+To display advertisements to you
+Collected directly by advertising partners
+CALIFORNIA RESIDENTS’ PRIVACY RIGHTS
+Except as excluded from the scope of this notice above, the CCPA grants California residents the following rights.
+Information.
+You can request information about how we have collected, used and shared and used your personal information during the past 12 months. We have made this this information available to California residents without having to request it by including it in this notice, in the above chart.
+Access.
+You can request a copy of the personal information that we maintain about you.
+Deletion.
+You can ask us to delete the personal information that we collected or maintain about you.
+Please note that the CCPA limits these rights by, for example, prohibiting us from providing certain sensitive information in response to an access request and limiting the circumstances in which we must comply with a deletion request. If we deny your request, we will communicate our decision to you.
+You are entitled to exercise the rights described above free from discrimination.
+HOW TO SUBMIT A REQUEST
+To request access to or deletion of personal information:
+visit
+tap.pm/contact-us
+email
+[email protected]
+Identity verification.
+The CCPA requires us to verify the identity of the individual submitting a request to access or delete personal information before providing a substantive response to the request. We may attempt to verify your identity by asking you to confirm information that we have on file about you or your interactions with us. Where we ask for additional personal information to verify your identity, we will only use it to verify your identity or your authority to make the request on behalf of another consumer.
+Authorized agents.
+California residents can empower an
+“authorized agent”
+to submit requests on their behalf. We will require the authorized agent to have written authorization confirming such authority.
+Toggle Navigation
+Privacy Policy
+Terms of Service
+Contact us
+Careers
+Our apps
+Toggle Navigation
+Privacy Policy
+Terms of Service
+Page load link
+Go to Top

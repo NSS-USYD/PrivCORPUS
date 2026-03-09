@@ -1,0 +1,108 @@
+IP Camera Adapter
+IP Webcam Privacy Policy
+Privacy Policy
+IP Webcam ("
+Free App
+") and IP Webcam Pro ("
+Paid App
+"), together "
+Programs
+", developed by Pavel Khlebovich ("
+Author
+"), collect your personal information according to this privacy policy (
+Privacy Policy
+).
+Data collected by
+Programs
+Data collected by the
+Programs
+falls into several categories:
+(
+Free App
+and
+Paid App
+) Personally identifiable information (such as email), when voluntarily provided, is shared with cloud streaming provider (cloud streaming provider, see Limited data sharing) for the purpose of providing a video streaming service.
+(
+Free App
+only) Non-personally identifiable information collected and shared with third parties (see Limited data sharing) for monetization and serving ads.
+(
+Paid App
+only) Device ID is collected and shared with a single third party for the sole purpose of performing a license check.
+(
+Free App
+and
+Paid App
+) Video, audio and other sensor data in form that might contain personally identifiable information (
+Service Data
+), is protected by user-defined credentials, and is transferred over the local network only, subject to network infrastructure and network firewall rules. Neither mentioned user-deviced credentials, nor mentioned video, audio or sensor data is ever knowlingly shared with third parties, with the exception of optional and voluntarily requested cloud streaming, where the data is shared with cloud streaming provider.
+(
+Free App
+and
+Paid App
+) Non-personally identifiable information, such as device information, when voluntarily provided by the end user, can be shared with the
+Author
+for the purpose of troubleshooting and making improvements of
+Programs
+.
+How personal information is collected
+No personal data is knowlingly collected outside of active states of
+Programs
+, such as settings pages or video server started by the user in foreground or background.
+Where personal data is stored
+Programs
+do not use external services controlled by
+Author
+that store personal data. All personal data mentioned in this
+Privacy Policy
+is either stored on the device where either of the
+Programs
+are installed, and/or transfered directly to third parties mentioned under Limited data sharing section.
+Limited data sharing
+Data is shared with these third parties:
+Video and audio data is shared with cloud streaming provider on user request, and is used according to its privacy policy:
+link to Ivideon Privacy Policy
+(
+Free App
+only) Non-personally identifiable information is shared with AdMob (
+link to Admob Privacy Policy
+), Google Play Services (
+link to Google Play Privacy Policy
+), IronSource (
+link to IronSource Privacy Policy
+) and Crashlytics (
+link to Crashlytics Privacy Policy
+)
+(
+Paid App
+only) Personally-identifiable information is shared with Google Play Services (
+link to Google Play Privacy Policy
+) for performing license checks.
+Third-party clients
+This
+Privacy Policy
+also applies to any extensions of the
+Programs
+(Plug-Ins) that are cryptographycally signed by the
+Author
+. Unsigned Plug-Ins received from third parties are not covered by this
+Privacy Policy
+, neither are any third-party clients that use
+Service Data
+. It's an end-user responsibility to ensure the safety of the network where
+Programs
+operate (including, but not limited to WiFi encryption methods and firewall rules) and to hold user-defined credentials safe to avoid unintended use of potentially sensitive data.
+No error-free performance
+Programs
+does not guarantee error-free performance under this
+Privacy Policy
+.
+Programs
+may not always catch an unintended privacy issue, despite
+Author
+'s efforts to do so. Your feedback regarding any privacy concerns that you may have is welcome.
+Author
+will use reasonable efforts to comply with this
+Privacy Policy
+and will take prompt action when he learns of any failure to comply with it. If you have any questions or comments about this policy, please contact
+pas.anddev@gmail.com
+.

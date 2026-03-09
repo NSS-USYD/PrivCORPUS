@@ -1,0 +1,150 @@
+Last updated:
+06 June 2023
+This Privacy Policy explains how your personal data is collected and processed by ASQTeam when you use ASQTeam mobile apps and games. In this document, we call our mobile apps and games MApps.
+The MApps is a free to play game (with optional in-game-purchases), and in order to maintain the high quality and a great game experience we process information from and about you in particular to improve the entire experience in the MApps and to support internal operations.
+We update this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy. We encourage you to review the Privacy Policy whenever you access the MApps to stay informed about how we process your personal data and how you can protect your privacy.
+Table of contents:
+1/ Collection of information
+2/ Social sharing features
+3/ Children’s privacy
+4/ Security
+5/ Your rights
+6/ Californian privacy notice
+7/ How to contact us
+1/ Collection of information
+1.1. Information we collect automatically through the app
+When you access or use the MApps, we automatically collect general information about you, including:
+• Log Information: we log information about your usage of the MApps, including the type of device you use, and the features you use.
+• Device Information: we collect information about the device you use to access the MApps, including information about the device’s software and hardware, unique device identifiers (i.e. Device ID and advertising ID), mobile network information and time zone.
+• Usage Information: we collect information relating to your use of the MApps, including your game progress, scores, and achievements.
+• Google Game Service log Information: we collect information about your Google Game Service to access the MApps. Including information about users’ login, including how many times they play the App or Game balance, etc.
+1.2. Use of information – purpose and legal basis
+We use information about you for the following purposes in accordance with the legal bases for each type of personal data as described below:
+Log-, device-, usage-, and consumption information- are being processed:
+a. to provide and deliver the products and services you request and send you related information as requested by you / as agreed with you;
+1 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+b. to provide and maintain the MApps experience
+Our processing for the above purposes is necessary for the performance of a contract to which you are party in order to support the operation of the MApps, facilitate the delivery of requested products and services and enable maintenance and update of the MApps, see Article 6(1)(b) of the GDPR.
+c. to personalize and improve the MApps and provide tailored content and features;
+d. to monitor and analyze trends, usage and activities in connection with the MApps; and
+e. to provide children (as this term is construed under GDPR in EU, COPPA in the US and relevant applicable legislation in other jurisdictions) with reasonable contextual advertisements in the MApps.
+Our processing for the above purposes is justified by our legitimate interests in providing advertisements and content of interest to you and improving our services in accordance with Article 6(1)(f) of the GDPR (also known as "the balancing-of-interest rule").
+f. to provide non-child users that have given us consent to share their advertising IDs with our ad network partners (as further specified under Sharing of Information) for the purpose of serving them with personalized advertisement in the MApps(behavioral advertising).
+Our processing for the above purpose is justified by our legitimate interests in providing advertisements and content of interest to you in accordance with Article 6(1)(f) of the GDPR. The disclosure of your advertising ID to third parties for the purposes of behavioral advertising is based on your consent in accordance with Article 6(1)(a) of the GDPR (see more below under Sharing of Information).
+We only process your information to the extent that is necessary to achieve the purposes for which the information has been collected.
+1.3. Storage of information
+ASQTeam will store your personal data for as long as necessary in order to provide you with the App or otherwise fulfill the purposes as described above, unless further storage is required in order to establish, exercise or defend a legal claim or to comply with applicable law, including accounting rules.
+Your personal data are deleted or anonymized as soon as it no longer serves one of the above mentioned purposes and in any event no later than three (3) years after your interaction with ASQTeam has ceased.
+1.3. Sharing of information
+We disclose information about you to the following categories of recipients based on the legal bases in Sections 6(1)(b), 6(1)(c) and 6(1)(f) of the GDPR (see a description of the legal bases above):
+• Social networks, see more under "Social Sharing features";
+• Third parties if we are required to disclose your personal data by applicable law, rule, regulation, legal process or in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+• The authorities if we believe your actions are inconsistent with the spirit or language of our policies or if the disclosure is necessary to protect the rights, property and safety of ASQTeam or others;
+• Other players in order to provide certain in-app features, such as leaderboards, if you log into the App using a third-party service, such as Google Game Service;
+• Advertising network companies in order to serve contextual advertisements (the data include your IP-address, Device ID and advertising ID).
+Furthermore, if you have given your consent in accordance with Section 6(1)(a) of the GDPR, we share your advertising ID to advertising network companies for the purpose of them serving behavioral advertisements to you within the App. We use or may use the following advertising network companies:
+• Facebook Ads
+https://www.facebook.com/about/privacy/
+• IronSource
+https://www.ironsrc.com/privacy-policy/
+• Tapjoy
+https://home.tapjoy.com/legal/#privacy-policy
+• AdMob
+https://policies.google.com/privacy?hl=en
+• Unity
+https://unity3d.com/kr/legal/privacy-policy
+• APPLOVIN
+https://www.applovin.com/privacy/
+• Google Analytics
+https://policies.google.com/technologies/partner-sites?hl=en
+The recipients' use of the disclosed information will not be covered by this Privacy Policy. If you have questions concerning the processing carried out by such third parties, you should review their privacy policy.
+In connection with our processing, we use data processors such as server hosting providers, technical service providers for supporting internal operations, user login services and analytics service providers.
+2/ Social sharing features
+The MApps offers social sharing features and other integrated tools (such as the standard Android Share function), which let you share actions you take in the MApps with other media. You must be over the minimum age limit that is prescribed by the legislation in the individual jurisdictions to use any social sharing features integrated in the MApps. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.
+The MApps has social features from the Google Game Service.
+For more information about the processing carried out by the respective third parties in connection with social sharing features, please visit the privacy policies of the entities that provide these features, which can be found here:
+https://policies.google.com/privacy?hl=en
+3/
+Children’s Privacy
+If the MApps is targeted for children under 6 years old, it will not show commercial Ads from advertising network companies (Facebook Ads, IronSource, Tapjoy, AdMob, Unity, APPLOVIN).
+We encourage parents and guardians to teach their children about privacy and how their information may be used on the Internet. Children should never disclose their name, address or phone number, or any personal information, without their parents’ or guardian's prior permission.
+We consider a user to be a child if they are under the age of 13, unless more stringent regulation applies in their state of residence.
+If we consider that any of our Services are directed at users under the minimum legal age required in their country of residence, we can block such users from using the Services or from providing information and/or limit the collection of information from such users as described below in more detail.
+No personal information should be submitted to ASQTeam by users under the minimum legal age required in their state of residence. We apply the following limitations to personal information collection for a user that is not of the minimum legal age required in their state of residence. Such a user cannot:
+Display their real name or any information in the games
+Access the chat, leaderboard
+Use any other feature where users could appear under their real names
+Based on MApps target age information and your device settings, ASQTeam does not process personal data of children under the minimum age limit that is prescribed by the legislation in the individual jurisdictions for behavioral advertisement. If such personal data have been processed without ASQTeam’s knowledge, ASQTeam will, after having become aware of the incident, immediately take reasonable measures to stop such processing and promptly delete any such data from ASQTeam’s records.
+If you have additional questions about ASQTeam’s privacy practices related to children under the applicable minimum age, please contact us at
+asqteam.mobile@gmail.com
+or
+creativejoygames@gmail.com
+4/ Security
+ASQTeam takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+We have implemented security measures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the personal information collected through the Services.
+We take, and force applicable third parties to take, reasonable precautions to protect your personal information against loss, misuse, unauthorized disclosure, alteration, and destruction. However, please remember that no transmission of data over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your information, we cannot guarantee the security of your information and do not assume any responsibility for the unauthorized use of, or access to, your information that is under our control.
+When we use third parties to assist us in processing your personal information or credit card information, we take reasonable steps to ensure that they comply with this Privacy Policy and otherwise protect your personal information (including any credit card information).
+If there is a breach of security involving your personal information, including credit card information, from our Services, we will inform you immediately according to your local regulations relating to the notification of information Breaches, and take commercially reasonable steps to rectify such breach.
+If you believe your personal information is being improperly used by us or any third party, please immediately notify us via email at
+asqteam.mobile@gmail.com
+or
+creativejoygames@gmail.com
+.
+5/ Your rights
+If you wish to use any of the rights described below, you may contact us at any time by emailing us at
+asqteam.mobile@gmail.com
+or
+creativejoygames@gmail.com
+We process and answer your requests without undue delay and in any event within one month of our receipt of the request unless a longer period is required due to the complexity of the request. In this case, our response time can be up to three months in total as permitted by Article 12 of the GDPR.
+Right to request access
+You have the right to request access into the data that we are processing on you, see Article 15 of the GDPR, including information about:
+• the purposes of the processing
+• the categories of personal data concerned
+• the recipients or categories of recipient to whom the personal data have been or will be disclosed
+• the envisaged period for which the personal data will be stored
+Furthermore, you have the right to obtain a copy of the personal data undergoing processing. Please note that the access may be restricted due to intellectual property or trade secrets.
+The right to object
+You have the right to object to our processing of your personal data on grounds relating to your particular situation when the data are processed based on the balancing-ofinterest rule in Section 6(1)(f) of the GDPR, see Article 21 of the GDPR. In this case, we will cease the processing unless there are compelling legitimate grounds for the processing which override your interests, rights and freedoms or if the processing is necessary for the establishment, exercise or defense of legal claims.
+You have the right to object to our processing of your personal data for direct marketing purposes at any time. We will cease the processing of your personal data for this purpose after the objection. Please note that if you exercise this right, your user license to use the App will cease automatically. Right to rectification and erasure
+Right to rectification and erasure
+You have the right to have inaccurate personal data rectified, see Article 16 of the GDPR.
+Furthermore, you have the right to have your personal data erased where one of the following grounds applies, see Article 17 of the GDPR:
+• the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed,
+• if you have withdrawn your consent and there are no other legal grounds for the processing,
+• if you have objected to the processing and there are no overriding legitimate grounds for the processing,
+• the personal data have to be erased for compliance with a legal obligation in Union or Member State law,
+• the personal data have been unlawfully processed or
+• the personal data have been collected in relation to the offer of information society services.
+Please note that your right to erasure may be limited if the data are necessary for compliance with a legal obligation or for the establishment, exercise or defense of legal claims.
+The right to restriction
+You have the right to obtain restriction of processing in certain circumstances, see Article 18 of the GDPR. If you have the right to restriction, we will only process your data with your consent or for the establishment, exercise or defense of a legal claim or to protect a person or important grounds of public interest
+The right to withdraw consent
+If we have asked for your consent to our processing of your data, you have the right to withdraw your consent at any time, see Article 7 of the GDPR.
+If you withdraw your consent, we will cease processing of the data for which you have withdrawn consent, unless we have a legal obligation to keep some or parts of your data.
+Please note that if you withdraw your consent, your user license to use the App will cease automatically.
+The withdrawal of your consent does not affect the lawfulness of processing based on your consent before its withdrawal.
+The right to data portability
+You have the right to receive the personal data you have provided us with which we process in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller if the processing is based on consent or contract performance, see Article 20 of the GDPR.
+6/ CALIFORNIAN PRIVACY NOTICE
+The California Consumer Privacy Act 2018 (the “CCPA”), Privacy Rights for California Minors in a Digital World and the California Shine the Light law provide California residents with certain rights regarding the processing of their personal data.
+Your California Privacy Rights
+California Civil Code Section 1798.83 (“Shine the Light”) permits our customers who are California residents to request, once per calendar year, the following information from us:  (i) a list of the kinds of personal information that we have disclosed to third parties for direct marketing purposes during the preceding calendar year; and (ii) the names and addresses of all of the third parties that received personal information from us for direct marketing purposes during the preceding calendar year. For inquiries regarding our disclosure policy, please contact us as described below in Section 10 “Your questions and how to contact us”. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code.
+California Business and Professions Code Section 22581 (“California Privacy Rights for Minor Users”) permits you, if you are a California resident under the age of 18, to view, correct or remove information provided by you or publicly posted by you. For inquiries regarding our disclosure policy, please contact us as described below in Section 10 “Your questions and how to contact us”. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Any enquiries from underage users will be deleted upon completion.
+YOUR RIGHTS UNDER THE CALIFORNIA CONSUMER PRIVACY ACT (THE “CCPA”)
+Our customers who are California residents have the following rights under the CCPA:
+The right to request the deletion of their personal information;
+With respect to the collection of personal information, the right to request, not more than twice in any twelve (12) month period, the following: (i) categories of personal information we have collected about that consumer; (ii) categories of sources from which the personal information is collected; (iii) business or commercial purpose for collecting or selling personal information; (iv) categories of third parties with whom we share personal information; and (v) specific pieces of personal information we have collected about you;
+With respect to the sale and/or disclosure of personal information, the right to request, not more than twice in any twelve (12) month period, the following: (i) categories of personal information that we have  collected about the consumer; (ii) categories of personal information that we have sold about the consumer and the categories of third parties to whom the personal information was sold, by category or categories of personal information for each third party to whom the personal information was sold; and (iii) categories of personal information that we have disclosed about the consumer for a business purpose;
+The right to opt-out of the sale of personal information; and
+The right to not be discriminated against for exercising any of the above described rights.
+7
+/
+How to contact us
+If you have any questions, comments or concerns about our Privacy Policy and/or practices, please contact us via:
+Address:
+14/1/2 Van Chung,Ward 13, Tan Binh District, HCM City, Vietnam
+E-mail:
+asqteam.mobile@gmail.com
+or
+creativejoygames@gmail.com
+If you wish to make a complaint over the processing of your personal data, please feel free to contact us via email.

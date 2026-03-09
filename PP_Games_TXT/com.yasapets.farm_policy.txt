@@ -1,0 +1,71 @@
+Privacy Policy – Yasa Pets
+Privacy Policy
+Home
+/
+Privacy Policy
+About us
+We are Yasa Ltd, a Dublin based Company who develop Yasa Pets Games.
+This privacy policy is meant to comply with your rights under law, and to ensure that you receive adequate information about how your information is collected, processed, conveyed and deleted.
+Children’s Privacy
+Yasa Pets apps do not actively collect any information from children. All apps are COPPA and GDPR compliant. Technical information which does not specifically identify a user but supports the operation of the app may be collected.
+We work exclusively with Unity Analytics and Unity Ads to enhance the experience we provide our users.
+1 – Unity Analytics
+We use Unity Analytics for anonymised usage statistics. We collect this information for internal use only and it can’t be used to identify a user. This third party is prohibited from sharing any data.
+Unity may collect some or all of the following information when you use the game:
+Unique device identifier generated from the device MAC/IMEI/MEID, which we alter to limit the ability to identify the relevant device in the future;
+An advertising ID, such as the Apple IDFA or the Android Ad ID;
+IP address;
+Device manufacturer and model;
+The operating system and version running on your system or device;
+Browser type;
+Language;
+The make of the CPU, and number of CPUs present;
+The graphics card information, such as type, vendor and driver name, version and graphics API;
+Amount of system and video RAM present;
+Current screen resolution;
+Unity Player and Unity Editor versions;
+Operating system identifier (e.g., Mac, Windows, etc.);
+A checksum of all the data that gets sent to verify that it did transmit correctly; and
+App ID of the game installed.
+2 – Unity Ads
+We use Unity Ads to serve contextual ads in the Yasa Pets apps. This network is part of the Google Play certified ad network program. This network restricts from tracking users and serving behavioural ads. For more:
+https://unity3d.com/legal/privacy-policy
+GDPR Compliance
+In May of 2018, the General Data Protection Regulation (
+GDPR
+) took effect in the European Economic Area (EEA), and Unity Ads is compliant. Unity automatically presents affected users with an opportunity to click an information button to manage their privacy choices.
+Please visit Unity’s legal site for more information on
+Unity’s approach to GDPR
+.
+CCPA compliance
+In January of 2019, the California Consumer Privacy Act (
+CCPA
+) took effect in California, and Unity Ads is compliant, automatically presenting affected users with an age-gated consent flow for advertising management.
+Please visit Unity’s legal site for more information on
+Unity’s approach to CCPA
+.
+General Privacy
+What Kind of Information is Collected?
+We do not collect any personally identifiable information that identifies a user as an individual. Yasa Ltd. may collect non personal data which doesn’t directly identify an individual or which may have been personal information but has had the personally identifiable information removed. Yasa Ltd. may collect non personal information about the use of the website and apps to help us improve our services.
+How Do We Collect and process your information?
+We understand the importance of our users’ personal information, and more importantly the information pertaining to children under 13 years of age. We do not collect or require users to enter their personal information when using our Products. We do not collect any personal information from children with our apps.
+We may receive your non-personal data indirectly from our analytics and advertising partner. This third party does not share your user data. For more information: https://unity3d.com/legal/privacy-policy
+Why Are Children So Special?
+Your children are special and important. The law provides them with greater protections than adults, which includes their right not to have their personal data used for marketing purposes, and that they may delete this data at any time. It also grants them the right to not be subject to data collection without their specific consent. While under some jurisdictions, the collection of a child’s personal data is not conditioned on consent, we take the harsher approach and apply this condition to all jurisdictions.
+How Do We Collect Information?
+We collect information when a user plays the game or makes an IAP purchase. All this information is collected and stored on our Unity Analytics database.
+A Word About What We Might Disclose
+As you can see, we only collect non-personal data for internal use only or in conjunction with third parties to help us operate, analyse, and improve our apps and services. In addition, we may disclose your non-personal information to additional parties if we believe we are required to by law, by a judicial proceeding, to protect Yasa Ltd.’s rights and properties, or to investigate fraud, intellectual property, infringement, and any other conduct that might be illegal or expose Yasa Ltd. or a user of its services to legal liability. In addition, Yasa Ltd. may disclose information collected from a parent in the event of a change or proposed change in the ownership of the company; for example, a sale, a merger, or bankruptcy.
+Links
+We may include links to third parties from our website or services. Yasa Ltd. isn’t responsible for these companies and including a link to them doesn’t mean that Yasa Ltd. endorse them. So be sure to check their privacy policies if you decide to visit them. And remember, your use of Yasa Pet’s site may also be subject to the terms and conditions and privacy policies of other services that Yasa Ltd. doesn’t control such as mobile application stores, mobile software platforms, online social media sites, or payment processors.
+Security
+We use generally accepted security measures and safeguards in an attempt to keep the data we collect secure and require that the third parties we work with agree to do the same. The measures and safeguards include limiting access to the data to those persons who need it to complete their work for Yasa Ltd. and storing non-personal information in secure operating environments. That said, Yasa Ltd. cannot and does not guarantee and does not accept liability for unintentional disclosure.
+Data Retention
+User data is retained as long as it is necessary to provide the service. Data is deleted from our records when it is no longer needed within a reasonable timeframe.
+We may make changes to the policy from time to time so please be sure to check regularly.
+If you have any questions about our collection and use please contact us at support@yasapets.com
+Contact Us
+We're not around right now. But you can send us an email and we'll get back to you, asap.
+Not readable? Change text.
+Send
+Start typing and press Enter to search

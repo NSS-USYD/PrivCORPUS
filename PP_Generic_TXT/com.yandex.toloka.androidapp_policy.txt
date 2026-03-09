@@ -1,0 +1,717 @@
+Toloka: Data solutions to drive AI
+Toloka logo
+Menu
+Products
+Data Labeling Platform
+Unlimited flexibility to handle
+the most complex labeling needs
+Adaptive AutoML
+New
+Human-in-the-loop workflows
+with ML models
+ML Platform
+New
+Tune better models faster.
+Deploy in a few clicks
+LLM & Solutions
+Large Language Models
+New
+Bring your Language Models
+to the next level with human input
+AI Solutions with Human Insight
+Leverage human-labeled data and AI
+technologies to tackle business
+challenges in your industry
+Success Stories
+10+ years of industry experience
+solving real-world problems
+AI DOMAINS
+E-commerce Services
+Search Relevance
+Content Moderation
+Computer Vision
+NLP & Others
+Field Data Collection
+Pricing
+Resources
+Events
+Join us at leading business and
+science conferences
+Blog
+Explore our updates, case studies,
+technology articles and insights
+Success Stories
+10+ years of industry experience
+solving real-world problems
+Docs
+Get Started
+Tutorials
+Code Recipes
+API Reference
+Python SDK
+Toloka on Github
+Knowledge Base
+Crowdsourcing Concepts
+Toloka Crash Course
+What's new
+Impact on AI
+In the Industry
+Responsible AI
+Opensource
+Public Datasets
+Community
+CSA Certification
+In Science
+Toloka Research
+Education Partnerships
+Toloka Grant Program
+Social Sciences
+Impact on AI
+Advancing the global AI community
+by empowering professional growth
+and putting humanity at the center of
+technology
+Company
+About us
+Partnerships
+Security
+In the Media
+Careers
+Contact
+En
+English
+Русский
+Türkçe
+Bahasa Indonesia
+Français
+Tiếng Việt Nam
+Oʻzbek
+Español
+Deutsch
+Italiano
+Polski
+Português
+日本語
+हिन्दी
+中文
+한국어
+Products
+Data Labeling Platform
+Unlimited flexibility to handle
+the most complex labeling needs
+Adaptive AutoML
+New
+Human-in-the-loop workflows
+with ML models
+ML Platform
+New
+Tune better models faster.
+Deploy in a few clicks
+LLM & Solutions
+Large Language Models
+New
+Bring your Language Models
+to the next level with human input
+AI Solutions with Human Insight
+Leverage human-labeled data and AI
+technologies to tackle business
+challenges in your industry
+Success Stories
+10+ years of industry experience
+solving real-world problems
+AI DOMAINS
+E-commerce Services
+Search Relevance
+Content Moderation
+Computer Vision
+NLP & Others
+Field Data Collection
+Pricing
+Resources
+Events
+Join us at leading business and
+science conferences
+Blog
+Explore our updates, case studies,
+technology articles and insights
+Success Stories
+10+ years of industry experience
+solving real-world problems
+Docs
+Get Started
+Tutorials
+Code Recipes
+API Reference
+Python SDK
+Toloka on Github
+Knowledge Base
+Crowdsourcing Concepts
+Toloka Crash Course
+What's new
+Impact on AI
+In the Industry
+Responsible AI
+Opensource
+Public Datasets
+Community
+CSA Certification
+In Science
+Toloka Research
+Education Partnerships
+Toloka Grant Program
+Social Sciences
+Impact on AI
+Advancing the global AI community
+by empowering professional growth
+and putting humanity at the center of
+technology
+Company
+About us
+Partnerships
+Security
+In the Media
+Careers
+Contact
+En
+English
+Русский
+Türkçe
+Bahasa Indonesia
+Français
+Tiếng Việt Nam
+Oʻzbek
+Español
+Deutsch
+Italiano
+Polski
+Português
+日本語
+हिन्दी
+中文
+한국어
+Request a demo
+Log in
+Privacy Notice
+Date of effect:
+November 27, 2022
+Last updated:
+November 17, 2022
+This Privacy Notice (
+"Privacy Notice"
+) is designed to provide data subjects (individuals) (
+"You"
+) with information on the processing of Your personal data (any information relating to them) when You interact with Intertech Services AG (Werftestrasse 4, 6005 Luzern, Switzerland) (
+"Toloka"
+) in the context of the use of Toloka Platform under the User Agreement available at:
+https://join.toloka.ai/legal/user-agreement/
+(
+"Agreement"
+).
+PLEASE BE AWARE THAT IF YOU ARE RUSSIAN RESIDENT THE PRIVACY NOTICE, THAT IS APPLICABLE TO YOU, IS PUBLISHED AT:
+https://toloka.ai/legal/confidential/
+. PLEASE, READ IT CAREFULLY BEFORE YOU CONTINUE RENDERING THE SERVICES WITH THE USE OF THE TOLOKA WEB SITE.
+After you carefully review this Privacy Notice, please make sure to check the country-specific provisions in the end of the Privacy Notice, which may be applicable to the processing of Your data in the country of Your residence. Such country-specific provisions supplement this Privacy Notice or, if the law requires, may prevail over contradicting parts of the Privacy Notice.
+This Privacy Notice refers to provisions of the
+General Data Protection Regulation (GDPR)
+, Swiss Law on Personal Data (
+Federal Act of 19 June 1992 on Data Protection (FADP)
+) and US privacy legislation (including but not limited to
+California Consumer Privacy Act (CCPA)
+,
+California Online Privacy Protection Act (COPPA)
+,
+Health Insurance Portability and Accountability Act (HIPAA)
+,
+Virginia Consumer Data Protection Act
+,
+Colorado Privacy Act
+,
+Nevada SB 220
+) as in force on the date of the last update of this Privacy Notice.
+1. Controller
+Toloka is a controller of personal data processed under this Privacy Notice. It means that Toloka determines the purposes and means of the processing of these personal data.
+You can contact Toloka on any questions relating to the processing of Your personal data by either of the following methods:
+Email:
+privacy@toloka.ai
+Postal address: Werftestrasse 4, 6005 Luzern, Switzerland
+2. Categories of personal data processed by Toloka
+The tables below set out the categories of personal data Toloka collects and processes. Toloka collects personal data primarily from the data subjects themselves (e.g., Your contact requests through the Toloka Platform). In addition, personal data may also be obtained from third parties as listed in the table below.
+Purpose of Processing
+Data Subjects/ Categories of Data
+Source of data collection
+Storage Period
+Grounds
+The role of Toloka
+Third parties
+The role of the Third parties
+Sending marketing e-newsletters
+Our Tolokers (Users)
+,
+Customers:
+User ID;
+Email address
+Email
+Before unsubscribing from newsletters
+Consent
+Controller
+Salesforce INC, Yandex Group of companies
+Processor
+Behavioral analytics of website users
+Our website users:
+Internet Protocol address (IP address);
+Browser type and language;
+Information about the Internet service provider, sending and exiting pages;
+Information about the operating system, date and time stamps;
+Information about visits
+Personally from the subject
+Limited by the validity period of cookies
+Consent
+Controller
+Yandex.Metrica;
+Google Analytics (for non-EEA users);
+Twitter, INC;
+Meta Platforms INC;
+LinkedIN Corporation;
+Yandex Group of compaines
+Processor
+Tracking fraudulent activities
+Our Tolokers (Users):
+User ID;
+User's device ID;
+Information about mouse movement, scrolls;
+Screen recording
+Personally from the subject
+3 years from the date of receipt of personal data
+Legitimate interest
+Controller
+Yandex Group of companies
+Processor
+User Registration
+Our Tolokers (Users):
+Full name;
+Email;
+Native language;
+Date of birth;
+Username
+Personally from the subject
+3 years from the date of account deletion
+Contract
+Controller
+Yandex Group of companies
+Processor
+Customer Registration
+Our Customers:
+Full name;
+Email;
+Phone number;
+Native language;
+Date of birth;
+Username;
+Company information
+Personally from the subject
+3 years from the date of receipt of personal data
+Contract
+Controller
+Yandex Group of companies
+Processor
+Payment of remuneration to Users by Toloka
+Our Tolokers (Users):
+User ID
+Personally from the subject
+3 years from the date of receipt of personal data
+Contract
+Controller
+Yandex Group of companies
+Processor
+Withdrawal of payments by Tolokers (Users) from the wallet
+Our Tolokers (Users):
+Email;
+Phone number;
+Wallet number
+Personally from the subject
+3 years from the date of receipt of personal data
+Contract
+Controller
+Yandex Group of companies;
+PayPal Holdings INC;
+Payoneer INC;
+Papara Elektronik Para A.Ş.;
+Skrill USA INC;
+Kiwi (LALIRA DMCC)
+Processor
+Authorization in Toloka Platform
+Our Tolokers (Users) and our customers:
+Username
+Personally from the subject
+3 years from the date of receipt of personal data
+Contract
+Controller
+Yandex Group of companies
+Joint controller
+Provision of technical support
+Our Tolokers (Users) and our customers:
+Email;
+Username;
+User's device ID
+Personally from the subject
+3 years from the date of receipt of personal data
+Contract
+Controller
+Yandex Group of companies
+Processor
+Sending notifications to Users about actions within the Toloka (Platform)
+Our Tolokers (Users):
+User ID
+Personally from the subject
+3 years from the date of receipt of personal data
+Contract
+Controller
+Yandex Group of companies
+Processor
+Verification of Users required to withdraw large amounts of payments
+Our Tolokers (Users):
+Full name;
+Address of the place of residence;
+Passport (ID) photo;
+Photo of the INN (taxpayer's ID);
+Photo of the User showing the generated number and the User's face;
+Photo of the User with the passport (ID) uncovered and face
+Personally from the subject
+3 years from the date of receipt of personal data
+Contract
+Controller
+Federal Tax Service (for Russian self-service tolokers); Yandex Group of companies
+Processor
+Checking the fairness in the completion of tasks by Users
+Our Tolokers (Users):
+User ID;
+Assessment of the task completion
+Personally from the subject
+3 years from the date of receipt of personal data
+Legitimate interest
+Controller
+Yandex Group of companies
+Processor
+Assigning skill assessments to Users based on the results of passing test tasks
+Our Tolokers (Users):
+Actions in the system (logs);
+User ID;
+Device ID
+Personally from the subject
+3 years from the date of receipt of personal data
+Legitimate interest
+Controller
+Yandex Group of companies
+Processor
+Providing access to Toloka (Platform) to contractors for the integration of services offered
+Our contractors' representatives:
+Full name;
+Email;
+Username;
+Company information
+Personally from the subject
+Within the term of a contract
+Legitimate interest
+Controller
+Google Inc;
+Microsoft Corporation;
+Salesforce Inc;
+Yandex Group of companies
+Processor
+Sending SMS to Tolokers (Users)
+Our Tolokers (Users):
+Phone numbers
+Personally from the subject
+3 years from the date of receipt of personal data
+Consent
+Controller
+Mitto AG
+Processor
+Registration for Toloka Crash Course
+Our website visitors:
+Name;
+Company;
+Team in the company;
+Sandbox login;
+Work email;
+Knowledge and experience level
+Personally from the subject
+3 years from the date of receipt of personal data
+Consent
+Controller
+Yandex Group of companies
+Processor
+Performing tasks by Users
+Our Tolokers (Users):
+User ID
+Personally from the subject
+Before the acceptance of the result by the Customer
+Contract
+Processor
+Yandex Group of companies
+Processor
+Performing tasks by Tolokers (Users) that may contain Personal Data at the request of the Customer
+Our Tolokers (Users):
+User ID;
+The categories of personal data are determined by the controller
+Personally from the subject
+Before the acceptance of the result by the Customer
+Contract
+Processor
+Yandex Group of companies
+Processor
+Communication between the Customer and Toloker (User) when Toloker performs tasks for this Customer
+Our Tolokers (Users):
+User ID
+Personally from the subject
+Before the account deletion
+Contract
+Processor
+Yandex Group of companies
+Processor
+Legitimate Interest.
+When Toloka (or a third party) has an interest in using Your personal data in a certain way, which is necessary and justified considering any possible risks to You. We conduct a Legitimate Interest Assessment (LIA) to protect your personal data. LIA is a type of light-touch risk assessment based on the specific context and circumstances of the processing. Conducting an LIA helps us ensure that processing is lawful. It helps us to think clearly and sensibly about us processing and the impact it could have on the individual.
+Consent.
+When Toloka has requested You to actively indicate Your consent to Toloka's processing of Your personal data for certain purposes. The presence of the consent does not affect the right to use the Service, because you have to agree to the terms of the Offer to be able to use the Toloka Service.
+Toloka does not further process Your personal data for other purposes than those described in this Privacy Notice.
+You can get more information on a specific justification by sending a written request to the contact details specified in section 1 of this Privacy Notice.
+Toloka may also be required to share Your personal data with competent authorities in accordance with legislation concerning the processing of personal data.
+3. Transfers to third countries
+Toloka transfers personal data to countries which are considered as countries that does not provide for sufficient level of protection of data subjects’ rights under the GDPR or the Swiss law (
+"Third countries"
+).
+For the transfer of Your personal data to Third countries Toloka uses different tools to:
+make sure the personal data transfer complies with applicable law;
+help to give Your personal data the same level of protection as it has in the European Union, Switzerland or USA;
+whether the transfer is based on an adequacy decision;
+Whether the transfer is subject to appropriate safeguards (GDPR
+Article 46 tools
+) such as binding corporate rules or standard contractual clauses (SCCs);
+whether public authorities of the third country may seek access to the data with or without the data importer's knowledge either via legislation, practice, or reported precedent;
+whether public authorities of the third country may be able to access the data through the telecommunication providers or communication channels in light of legislation, legal powers, technical, financial, and human resources at their disposal and of reported precedent.
+Toloka uses a variety of protections which are appropriate for each data transfer to Third countries, namely:
+Standard Contractual Clauses adopted by the European Commission; and
+technical protections, such as access control, cryptography, controls against malware, security events monitoring, management of technical vulnerabilities, network security controls, incident management, technical compliance review.
+Data subjects can get more information on the mechanisms of transfers to third countries by Toloka by sending a request to the contact details specified in section 1 of this Privacy Notice.
+4. Storage periods and deletion of personal data
+Toloka processes Your personal data only as long as necessary to perform obligations under the Agreement and for Toloka's legitimate interests, such as:
+maintaining the performance of the Toloka Platform;
+making data-driven business decisions about new features;
+complying with our legal obligations;
+resolving disputes.
+Upon achieving data processing purposes, upon the termination of the Agreement, or upon Your request, Toloka will delete or anonymise Your personal data so it no longer identifies You, unless Toloka is required to keep some data or Toloka needs to use it for a legally justifiable reason, such as:
+if there's an unresolved issue relating to Your account, such as an outstanding credit earned for performing tasks or unresolved claim or dispute;
+for Toloka's legal, tax, audit and accounting obligations;
+where necessary and to the extent permitted by applicable law, for our legitimate interests such as fraud prevention or to maintain information security.
+5. Your basic personal data rights
+Please see Your rights and their descriptions in this table.
+Right
+Description
+Access
+You can ask Toloka to confirm whether or not Toloka processes Your personal data. If so, You can access these personal data and can ask Toloka to explain certain details of the processing
+Rectification
+You can ask Toloka to correct inaccurate personal data concerning You. You can ask Toloka to rectify incomplete or inaccurate personal data.
+Erasure ('right to be forgotten')
+You can ask Toloka to erase personal data concerning You. For example, this applies if (1) the personal data are no longer necessary in relation to the purposes for which they were processed; (2) You withdraw consent to the processing and there is no other legal ground for the processing; (3) the personal data have been unlawfully processed
+Restriction on processing
+You can ask Toloka to mark the stored personal data with the aim to limit their processing in the future under applicable law. This applies if (1) You contest the accuracy of the personal data; (2) You ask to restrict the use of the personal data when their processing is unlawful; (3) You need personal data to protect their rights when Toloka no longer needs the personal data; (4) You have objected the processing based on the legitimate interests pursued by Toloka or by a third party
+Objection to processing
+You can object, on grounds relating to Your particular situation, at any time to processing of Your personal data which is based on the legitimate interests pursued by Toloka or by a third party or when personal data is processed for direct marketing purposes. Toloka shall no longer process the personal data unless Toloka demonstrates compelling legitimate grounds for the processing which override Your interests, rights and freedoms or for the establishment, exercise or defense of legal claims
+Portability
+When the processing is based on Your consent or on the Agreement with You, You can receive Your personal data, which You have provided to Toloka, in a structured, commonly used and machine-readable format and can freely transmit those data to another controller. Where technically feasible, the data subject can also ask Toloka to transmit the personal data directly to another controller
+We send marketing notices only with your consent. This consent can be withdrawn by sending the request at
+privacy@toloka.ai
+or the support team at
+tolokercare@toloka.ai
+or
+customercare@toloka.ai
+or unsubscribe from the link provided at the bottom of each email in the newsletter or you can withdraw your consent at any time by using the links available in our Privacy Notice.
+To exercise Your rights, You can contact Toloka by using the contact details specified in section 1 of this Privacy Notice. Toloka may ask You to specify Your request in writing and to verify Your identity before processing the request. Toloka may also refuse to fulfil Your request on grounds set out in applicable data protection legislation.
+6. Children's Privacy
+We do not knowingly or intentionally collect personal data through Toloka from children under eighteen (18) years of age. If You are under eighteen (18) years of age, do not attempt to register on Toloka Platform and do not provide us any personal data about Yourself unless You have the requisite parental consent. If You are a parent or guardian and You are aware that Your child has violated this Privacy Notice and provided us personal data, please contact with the use of contact details specified in the section 1 of this Privacy Notice.
+Pursuant to 47 U.S.C. Section 230(d), Toloka notifies You that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist You in limiting access to minors. Information regarding providers of such protections may be found on the Internet by searching “parental control protection” or similar terms.
+7. Withdrawal of consent
+Where processing is based on consent (or explicit consent), You have the right to withdraw consent at any time. The withdrawal of consent does not affect the lawfulness of the processing based on consent before its withdrawal. To withdraw consent, You can contact Toloka by using the contact details specified in section 1 of this Privacy Notice.
+8. Profiling and automated decision-making
+Toloka may, as a part of the personal data processing activities, perform automated profiling of data subjects and automated decision-making to monitor users' behavior on the Toloka platform to prevent and detect fraud.
+Profiling and automated decision-making takes place by Toloka's anti-fraud system, and it is based on the information collected via user's activities on the Toloka platform, such as features, factors and statistics calculated from the user activity. If fraudulent activity is detected, the anti-fraud system may immediately restrict the user's access to task submission and agreements related to tasks may be terminated, or in case the fraudulent activity is detected from the task requester's account, access to Toloka may be restricted. In Anti-Fraud analysis such factors are used including but not limiting to user task submission logs, user actions in Toloka interface, cookies, CAPTCHA inputs, mobile device hardware and software info such as camera type.
+You have, at all times, the right to object to profiling and automated decision-making and ask further information about the logic involved and the envisaged consequences of the profiling and automated decision-making by contacting Toloka by using the contact details specified in section 1 of this Privacy Notice. Toloka may ask You to specify Your request in writing and to verify Your identity before processing the request.
+You may, at all times, demand human intervention in the processing, obtain an explanation of the decision made, express Your own view and challenge the decision offered to You by contacting Toloka by using the contact details specified in section 1 of this Privacy Notice. Toloka may ask You to specify Your request in writing and to verify Your identity. If the detected fraudulent activity is not severe and Your identity has been successfully verified, access to Toloka may be regranted to You. In case severe fraudulent activity is detected or You are unable to verify Your identity, Your access to Toloka may remain restricted.
+Toloka reviews the algorithms and processed personal data irregularly based on anomalies detection in Anti-Fraud metrics in order to ensure that the decision-making process is functioning as intended and to ensure that the method of processing is fair, efficient and equal.
+9. Right to lodge a complaint with a supervisory authority
+You have the right to lodge a complaint with the supervisory authority, in particular in the member state of the European Union of Your habitual residence or, respectively, Switzerland, place of work or place of an alleged infringement of applicable law.
+If You reside in a different location, you have the right to lodge a complaint with a supervisory authority in the area of data protection in the country of your residence.
+10. Principles of data security
+Toloka respects the confidentiality of Your personal data. We have implemented Information Security Management System (ISMS) compliant with international standard “ISO/IEC 27001:2013 Information technology — Security techniques — Information security management systems — Requirements” and Privacy Information Management System (PIMS) compliant with the requirements of the international standard «ISO/IEC 27701:2019 Security techniques — Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management — Requirements and guidelines». Toloka annually passes an audit performed by the independent external auditor to support continuous improvement of approaches and measures used to keep Your data secured.
+Personal data may only be accessed by persons within our organization, or third parties identified in the Section 2 as set forth in this Notice.
+11. Cookies
+Toloka also collects cookies data from all Toloka users based on their contracts with our company that stipulate that Toloka has to provide them with specified features of the Toloka service.
+Toloka Web Site users or Toloka users can turn cookies off in the settings of their web browser or mobile device. However, certain Toloka features may become unavailable to Toloka users.
+Toloka may share this data with other services to better analyze it and improve our website and service.
+More detailed information about cookie processing can be found in the
+Cookie list
+and in the
+Cookie Notice
+.
+12. Changes to this Privacy Notice
+Toloka may change this Privacy Notice from time to time at its sole discretion. If so, Toloka endeavors to carry out reasonable means to notify You about these changes and their effects by an appropriate method and in due time beforehand.
+Toloka advises You to review this Privacy Notice located at
+https://toloka.ai/legal/confidential/
+periodically and always after becoming aware of changes regarding the Privacy Notice. Any changes we make will be reflected in an update to the Privacy Notice and by revising the “last updated” date at the top of this Privacy Notice. Changes to this Privacy Notice are effective on the “Date of Effect”, which is not sooner than the date the changes were posted on this page.
+In case of discrepancies between the English text of this Privacy Notice and its translations into other languages, the English text shall prevail.
+13. This Privacy Notice and Links to Other Sites
+Our Privacy Notice is designed to advise You about how Toloka collects, uses, protects, and discloses the personal data. However, Toloka may contain links to other sites that are not operated by us. Please note that this Privacy Notice does not govern the practices by any third parties. Information collected from You by others, such as third-party websites that You access through links on Toloka Platform, are governed by those entities' privacy policies. If you click a third-party link, you will be directed to that third party's site. We strongly advise You to review privacy policies of every site You visit.
+WE HAVE NO CONTROL OVER AND ASSUME NO RESPONSIBILITY FOR THE CONTENT, PRIVACY POLICIES OR PRACTICES OF ANY THIRD-PARTY SITES AND SERVICES.
+14. Difficulty accessing this Privacy Notice
+Individuals with disabilities who are unable to usefully access our Privacy Notice online may contact us at the above-listed contact information to inquire how they can obtain a copy of our notice in another, more easily readable format. Under no circumstances, we will collect or otherwise process information about your health or other sensitive data about You in connection with such request.
+STATE/COUNTRY SPECIFIC PRIVACY POLICIES AND NOTIFICATIONS
+United States of America
+A. Privacy Information for California Residents
+This section of the Privacy Notice applies only with regard to California residents. If You are California resident, this section shall prevail over all other parts of the Privacy Notice in case of discrepancies.
+Personal Information Collected over the Last 12 Months
+Personal information we collected directly from you:
+Categories of Data Collected
+Data collected from you and why it was collected
+Identifiers
+Full name; Email; Phone number; Native language; Date of birth; Username; User ID; Company information.
+Characteristic of protected classifications under California or Federal law.
+We do not intentionally collect any information on Your protected classifications, but we may learn your protected classifications inadvertently (e.g. Your age).
+Commercial information
+Record of services with Toloka
+Geolocation Data
+None.
+Financial Information
+E-Wallet number. Note that we use third party payment processors as set forth in Section 2 to facilitate Your payments and do not store Your payment card information.
+Biometric Data
+None.
+Audio, electronic, visual, thermal, olfactory, or similar information
+None.
+Internet/Network Activity
+Internet Protocol address (IP address), browser type and language, information about the Internet service provider, sending and exiting pages, information about the operating system, date and time stamps, information about visits; information about mouse movement, scrolls; screen recording; actions in the system (logs).
+Professional or Employment-related Information
+Area of activities or occupation
+Education Information
+Highest degree or level of education
+Device Information
+User's device ID.
+Categories of Personal Information Sold in the last 12 months
+We do not sell Your personal information to third parties.
+Categories of Personal Information Disclosed over the last 12 months
+Categories of Data Disclosed
+Types of Entities to which Data was Disclosed
+Reason for Disclosure of Data
+Categories of Recipients
+Identifiers, Commercial information, Financial information,  Internet/Network Activity Professional or Employment-related Information, Education information, Device Information.
+Please see section 2 with the detailed description.
+Please see section 2 with the detailed description.
+Please see section 2 with the detailed description.
+Information we sell
+We do not sell Your personal information to third parties. Please note that “sale” of personal information does not include those instances when such information is part of a merger, acquisition, or other transaction involving all or part of Toloka business. If we sell all or part of Toloka business, make a sale or transfer of assets, or are otherwise involved in a merger or other business transaction, we may transfer Your personal information to a third party as part of that transaction. If such transaction materially affects the manner in which Your personal information is processed, we will notify you of such change prior to its implementation.
+Your California Privacy Rights
+We have in place policies and procedures to facilitate the exercise of privacy rights available to California residents under applicable law. If you are a California resident, You are entitled to the rights as described in the Section 6 of this Privacy Notice. In addition, You may be entitled to the following:
+Disclosure of Direct Marketers:
+to have access upon simple request, and free of charge, the categories and names/addresses of third parties that have received personal information for direct marketing purposes. Toloka does not share your personal information with third parties for their direct marketing purposes.
+Right to Information About Collecting, Selling, Sharing, or Disclosing Personal Information:
+upon receipt of a verifiable request, you may obtain a list of:
+The specific pieces of your personal information Toloka holds;
+The categories of personal information collected about You, sold to third parties, or disclosed to third parties for business purposes;
+The categories of personal information sold within the last 12 months;
+The categories of sources from which personal information is collected;
+The business or commercial purpose for collecting or selling personal information; and
+The categories of third parties with whom personal information is shared, sold, or disclosed for a business purpose.
+Right to Opt-Out of the Sale of Personal Information:
+California residents have the right to opt-out of the sale of their personal information under certain circumstances.
+Right to Non-Discrimination
+As defined under relevant law, You have a right to non-discrimination in Toloka services or quality of services You receive from us for exercising your rights.
+Please contact with the use of contact details specified in section 1 of this Privacy Notice in relation to exercising these rights. Note that we may ask you to verify your identity - such as by requiring you to provide information about yourself - before responding to such requests.
+Submitting a Verifiable Request under the CCPA
+California residents have certain rights regarding their personal information under the California Consumer Privacy Act of 2018 (
+"CCPA"
+). Toloka will respond to an individual's "verifiable request" to exercise his or her rights under the CCPA - that is, where Toloka has received a request purporting to be from a particular individual, and Toloka has been able to verify the individual's identity. The need to verify an individual's identity is critical to protecting your information, and to ensuring that your information is not shared with anyone pretending to be you or someone who is not authorized to act on your behalf.
+You may submit a verifiable request with the use of contact details specified in section 1 of this Privacy Notice. We will ask you to provide information about yourself so that we can verify your identity as part of this process. This information may include your name, address, whether you have an account with Toloka, and other information deemed necessary by us to reasonably verify your identity. Once we have your submission, we will compare the information you provided to the information we have about you to verify your identity. If necessary, we may ask for additional information if we have difficulty confirming your identity. We will not share your information or honor other requests in those situations where we are unable to confirm that a request for your information is a "verifiable request". We will not be able process your request if we cannot verify your identity.
+Submitting a request through an authorized agent.
+Under California law a California resident can appoint an “authorized agent” to make certain verifiable requests upon their behalf, such as the right to know what information we collect about the consumer or to request deletion of the consumer's information. An authorized agent may submit a request by following the steps outlined above. An authorized agent must identify the consumer he or she is submitting a request on behalf of, and provide the information requested by Toloka to verify the consumer's identity. We will also require the purported authorized agent to submit proof that he or she has been authorized by the consumer to act on the consumer's behalf.
+Because the security and privacy of your information is paramount, we will ask that you identify and provide permission in writing for such persons to act as your authorized agent and exercise your applicable rights under California law in such situations. This may require us to contact you directly and alert you that an individual has claimed to be your agent and is attempting to access or delete your information. We will also independently verify your identity to ensure that an unauthorized person is not attempting to impersonate you and exercise your rights without authorization. We will not share your information or honor any other requests in those situations where you cannot or do not grant permission in writing for an identified authorized agent to act on your behalf, or where we cannot independently verify your identity.
+Submitting a Request for Removal of Minor Information.
+To request the removal of information about a minor by Toloka, parents or guardians may submit a request with the subject line "Removal of Minor Information". Such requests must come from the minor's parents or guardian; minors may not submit information to us via email. Your submission should include the following information:
+the nature of your request;
+the identity of the content or information to be removed;
+whether such content or information is found on Toloka Platform;
+the location on content or information on Toloka Platform (e.g., providing the URL for the specific web page the content or information is found on);
+that the request is related to the “Removal of Minor Information”; and
+your name, street address, city, state, zip code, and e-mail address.
+If we become aware that a minor has provided us personal data or otherwise used Toloka Platform in violation of the Privacy Notice, we will take steps to remove that information.
+Our Policy on "Do Not Track" Signals under the California Online Protection Act
+We do not support Do Not Track. Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable "Do Not Track" by visiting the "Preferences" or "Settings" page of your web browser.
+Third parties may collect data that relates to you. We cannot control third parties' responses to do-not-track signals or other such mechanisms. Third parties' use of data relating to you and responsiveness to do-not-track signals is governed by their respective privacy policies.
+B. Privacy Information for Residents of Colorado, Utah, Virginia, and Nevada:
+Unless that contradicts to the law of the state of your residence, provisions of the Chapter A "Privacy Information for California Residents" will apply to the processing of your data. Please contact us whenever you have questions related to your rights or any other questions under this Privacy Notice by either of the methods set forth in the Section 1.
+Previous versions of the document:
+https://toloka.ai/legal/confidential/22022022
+https://yandex.ru/legal/confidential/21062021
+https://yandex.ru/legal/confidential/19102020
+https://yandex.ru/legal/confidential/15082019
+https://yandex.ru/legal/confidential/15072019
+https://yandex.ru/legal/confidential/24052018
+https://yandex.ru/legal/confidential/11042018
+https://yandex.ru/legal/confidential/20032018
+https://yandex.ru/legal/confidential/08122017
+https://yandex.ru/legal/confidential/18112016
+https://yandex.ru/legal/confidential/17082016
+https://yandex.ru/legal/confidential/01032016
+https://yandex.ru/legal/confidential/30012015
+https://yandex.ru/legal/confidential/14082013
+https://yandex.ru/legal/confidential/15112011
+https://yandex.ru/legal/confidential/31032011
+Toloka logo
+Designed by engineers
+for engineers
+Subscribe to updates
+Subscribe
+PRODUCTS
+Data Labeling Platform
+Adaptive AutoML
+ML platform
+Solutions
+E-commerce
+Search Relevance
+Content Moderation
+Computer Vision
+NPL & Others
+Field Data Collection
+Why Toloka
+Technologies
+Global Crowd
+Easy Integration
+Security
+Explore
+Success Stories
+What’s new
+Docs
+Blog
+Events
+Community
+ML Terminology
+Impact on AI
+Toloka Research
+Public Datasets
+Open Source
+Responsible AI
+Education Partnerships
+Impact on AI
+COMPANY
+About us
+Partnerships
+In the Media
+Careers
+Contact
+Brand Guidelines
+Manage cookies
+Privacy Notice
+Terms of Use
+Media icon
+Media icon
+Media icon
+Media icon
+Media icon
+© 2014–2023 Intertech Services AG

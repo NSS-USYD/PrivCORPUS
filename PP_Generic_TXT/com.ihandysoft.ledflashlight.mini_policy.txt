@@ -1,0 +1,106 @@
+Privacy Policy
+This Privacy Policy applies beginning Nov 21, 2019.
+Â
+Â
+Your privacy is a top priority to us and we appreciate that you put your trust in us. We are committed to the responsible management, use and protection of personal information.
+Â
+This Privacy Policy (the "Policy") explains how your information is collected, used, stored and shared by us with respect to your access and use of our services. By using or accessing our App or our Service, you agree to the privacy policies outlined below.
+Â
+What information do we collect?
+Non-Personal Information
+We Use but Never Collect your non-personal information.
+Â
+We may need to access these data or features to provide flashlight and compass, but we never collect or store those information.
+CAMERA
+LOCATION
+The `CAMERA` permission is used up to Android 6 for accessing the camera, which on some devices is required for toggling the flashlight itself.
+The â€˜LOCATIONâ€™ permission is used to open the map when you use compass.
+Device Information
+We collect your device and network connection information for analytical purpose only when you use our App. This information includes your device brand, the model of your device, your network status, etc. The device information that we collect does not contain any user sensitive information, such as device ID or anything that can be used to permanently identify a user or device.
+Â
+Information collected by Third-Party SDKs from our Monetization Partners
+Some of the third-party monetization SDKs integrated in our app may access your information for the purpose of ad optimization.
+Â
+Such information includes GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on iOS devices), region (defined as the location where a given language is used), location information and IP address. This Policy does not govern our third party monetization partners, as they have their own privacy policies which can be viewed on their websites. We have no access to or control over such third parties. However, we have a routine procedure to scan all third party SDKs to detect if they collect sensitive user information. The partners we select to work with include but are not limited to Google AdMob, DoubleClick Ad Exchange, DoubleClick for Publishers, Facebook Audience Network, MoPub, Amazon, Fyber, Smaato, etc.
+Â
+Â
+Information collected by Third-Party Analytical Tools
+Our app integrates SDKs from several analytical service providers for app optimization purpose. These third-party SDKs may also collect your information such as GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on iOS devices), region (defined as the location where a given language is used), location information and IP address. This Policy does not govern our third party analytical tools. You can find their privacy policy on their websites. The partners we select to work with include but are not limited to Flurry, AppsFlyer and Firebase, etc. The information they provide to us is aggregated analytical data.
+Â
+How do we use this information?
+To improve our product
+As mentioned above, we collect your information for analytical purpose. This analytical data is only for app optimization. Some third-party monetization partners such as Facebook and Google may use the information they collected to optimize advertisement experience. Their use of information is governed by their privacy policy. We donâ€™t have access to any such information they collected.
+How is your information stored?
+For the information we collect, some is only stored on your device locally and some is stored safely in our servers located in AWS. We have strict policies to control access and usage of such data. If you would like to have your information deleted, please contact us.
+Â
+Â
+How is your information shared?
+We never share your information with third parties. All the information we collect is only for the purpose of optimizing our product and is safely stored in our server in an encrypted format. The information will not be disclosed to any third parties.
+Read phone status and identity?
+The only purpose using this permission is to identify different users. Phone status and identity are not read for any other purposes.
+California Privacy Notice
+Â
+Last Updated
+ï¼š
+December 27, 2019
+Effective: January 1, 2020
+Â
+This California Privacy Notice ("Notice") is for California residents and supplements our Privacy Policy. It explains how we collect, use, and share your Personal Information and how to exercise your rights under the California Consumer Privacy Act of 2018 ("CCPA").
+We Don't Sell Your Data
+Â
+We do not sell your Personal Information, and never will. You share your information as you use and communicate through our Services, and we share your information for business purposes to help us operate, provide, improve, understand, customize, support, and market our Services.
+Â
+Â
+Your rights under the CCPA
+For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the following requests.
+1. Right to know what personal information we collect. You have the right to request details on the specific personal information we've collected about you. We provide this information in our Privacy Policy, but you can also get this information by contacting us by email in the privacy policy.
+Â
+2. Right to deletion. You have the right to request the deletion of your data by contacting us by email in the privacy policy.
+3. Non-Discrimination. You have the right to be free from any discrimination for exercising your rights to access or delete your Personal Information. We will not discriminate against you for exercising any of these rights.
+Â
+Changes to the Policy
+Any information that is collected is subject to the Policy in effect at the time such information is collected. We may, however, modify the Policy from time to time. If we make changes to our Privacy Policy, we will provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of our App or Services following the posting of changes will mean you accept those changes.
+Â
+Â
+The following is a list of the third-party monetization partners we currently use in our services and links to their privacy policies:
+Facebook, Inc.
+1601 Willow Road
+Menlo Park, CA 94025
+https://www.facebook.com/help/contact/861937627253138
+https://www.facebook.com/policy.php
+Google AdMob, DoubleClick Ad Exchange, DoubleClick for Publishers
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+https://www.google.com/contact/
+https://www.google.com/intl/en/policies/privacy/
+AppLovin Corporation
+849 High St.
+Palo Alto, CA 94301
+care@applovin.com
+https://www.applovin.com/privacy
+Inmobi
+6th, 7th and 8th Floor, Block Delta (Block B), Embassy Tech Square, Kadubeesanahalli Village Outer Ring Road, Varthur Hobli, Bangalore | India
+https://www.inmobi.com/company/contact/
+https://www.inmobi.com/privacy-policy/
+Smaato
+240 Stockton St, 10th Floor
+San Francisco, CA 94108
+https://www.smaato.com/contact/
+https://www.smaato.com/privacy/
+MoPub
+1355 Market Street
+Suite 900
+San Francisco, CA 94103
+https://www.mopub.com/contact/
+https://www.mopub.com/legal/privacy/
+AdCaffe
+https://ge.appcloudbox.net/adcaffe/AdCaffeAdChoice.html
+Amazon Advertising
+https://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=468496&ref=a20m_us_fnav_prvcy
+Criteo
+https://www.criteo.com/privacy/
+Children policy
+Our Services are intended for use only by those aged 13 and over. We do not knowingly collect personal information from children under 13 years of age. If you are under the age of 13, please do not provide us with information of any kind.
+If we become aware that a child under 13 has provided us with Personal Information, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us.
+Contact Us
+If you have any questions about this Policy, you can contact us at email: support@ihandysoft.com

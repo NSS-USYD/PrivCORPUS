@@ -1,0 +1,77 @@
+Privacy Policy
+Privacy Policy
+PLAYit("Our", "We" or "Us") respects your privacy and is dedicated to protecting the privacy of those persons using ("User(s)" or "You") PLAYit products, services and websites. This Privacy Policy helps You to understand what personal information/data ("Personal Information") and non-personal information We collect, and how We use it.
+1. SCOPE OF THIS PRIVACY POLICY
+This Privacy Policy applies only to personal information submitted and collected through the Services. By installing, using, registering to or otherwise accessing the Services, you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not install, use, register to or otherwise access the Services. PLAYit reserves the right to modify this Privacy Policy at reasonable times, so please review it frequently. Your continued used of the Services will signify your acceptance to the changes to this Privacy Policy.
+2. INFORMATION COLLECTED
+Personal Information The information we collect can be generally placed in two categories:
+1) data on how the user uses our Services;
+2) aggregate data on content the user engages with.
+We may use this information to personalize and improve our services, to fulfill your requests for certain products and services, and to analyze how you use the Services. We may provide this information to our partners, so that they, too, can provide you with an optimal experience, but we never disclose information to a partner in a manner that would identify you personally. Non-Personal Information For purposes of this Privacy Policy, "Non-Personal Information" means information that does not directly identify you. PLAYit may use tools or third party analytical software to automatically collect and use certain Non-Personal Information that does not directly enable PLAYit to identify you. The types of Non-Personal Information PLAYit may collect and use include, but are not limited to:
+(i) device properties, including, but not limited to IP address,
+Basic Service Set Identifier, Service Set Identifier,
+unique device identifier or other persistent or non-persistent device identifier ("Device ID");
+(ii) device software platform and firmware;
+(iii) mobile phone carrier;
+(iv) image, audio or video files (uploaded by users with consent in the feedback module);
+(v) other Non-Personal Information as reasonably required by PLAYit to enhance the Services and other PLAYit products and services.
+(vi)
+Cookies
+.
+PLAYit treats information collected by cookies and similar technologies as non-personal information. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies do not include people's names, email addresses, or other information that is personally identifiable; they are typically used to quickly identify a user's computer and to "remember" things about the user's visit. You can disable cookies or set your browser to alert you when cookies are being sent to your computer.
+3. DISCLOSING AND HOSTING INFORMATION
+We may share your personal information in the following circumstances.
+Third-Party Service Providers
+We will share your information with the following selected third parties:
+C
+loud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we enter into with you;
+Analytics and search engine providers that assist us in the optimisation and improvement of the Platform; and
+IT service providers;
+Our data center and the servers of our host providers.
+Merger, Acquisition, or Other Business Transaction
+T
+hird-party SDKs: Our product features the integration of third-party SDKs or comparable technologies. By using these third-party services on our platform, you agree to their methods of directly collecting and processing your data, which might include techniques like code insertion or widget implementation. These third-party entities operate under their own privacy policies, distinct from our own. We diligently assess these third parties for their adherence to legal and secure standards, striving to ensure compliance. To maximize the protection of your personal data, we strongly encourage you to review the privacy policies of these third-party SDKs before using them. If you identify any potential risks with these SDKs or related applications, we recommend that you stop using them immediately and inform us. You can find a list of the third-party SDKs we utilize at this link:
+[
+https://www.playit2019.com/sdklist.html
+]
+.
+Merger, Acquisition, or Other Business Transaction
+We may disclose and transfer your personal information to a subsequent owner, co-owner, or operator of our Apps or Services, or in connection with a contemplated or agreed upon merger, acquisition, consolidation, restructuring, or the sale of substantially all our interests and/or assets (i.e., a bankruptcy proceeding). We shall require the subsequent owner, co-owner, or operator in possession of your personal information to continue to be subject to this Privacy Policy; otherwise, we shall request that they provide any necessary notice and/or obtain consent from you.
+Legal Obligations and Safety
+We may disclose your personal information if it is reasonably necessary to:
+Comply with a valid legal process (e.g., subpoenas, warrants, court orders, etc.);
+Comply with valid requests or investigations by public authorities;
+Comply with applicable laws or regulations;
+Enforce our policies, agreements, and terms, whether in litigation, other disputes, or otherwise;
+Protect our legitimate interests, including legal interests;
+Protect the security or integrity of the Services; or
+Protect the rights, property, or safety of you, other users, employees, partners and affiliates, or other natural persons.
+4. COLLECTION AND USE OF CHILDREN'S PERSONAL INFORMATION
+The Services comply with the Children's Online Privacy Protection Act ("COPPA"). PLAYit does not knowingly collect personal information from children under the age of 13 through the Services. In addition, in the event that a user identifies himself or herself as a child under the age of 13 within the Services or in connection with any Content or Software, PLAYit will not collect, store or use any personal information of such user. Further, in the event that PLAYit receives personal information that PLAYit discovers was provided by a child under the age of 13, PLAYit will promptly delete such personal information in a secure manner.
+5. SAFEGUARDS
+PLAYit maintains appropriate safeguards that ensure the security, integrity, and privacy of the personal information we collect and store about our account holders, including children under 13. Personal information collected by PLAYit is stored in secure operating environments that are not available to the public and that are only accessible by authorized employees. We also have security measures in place to protect the loss, misuse, and alteration of the information under our control (i.e., maintain data quality).
+6. LINKS TO THIRD PARTY SITES OR SERVICES
+You should be aware that the Services may from time to time contain links to third-party sites, products or services. PLAYit is not responsible for the privacy practices or the content of such sites or services. If you are concerned about the privacy policy of a certain third party, we recommend that you read the privacy policy of the site or service to which you link before you submit any personal information.
+Google User Data (PLAYit - ios)
+In order for the application to be able to play, download and upload video, audio files on Google Drive, you need to grant the application access to Google Drive files. Application access to files is limited to certain audio type file extensions (mp3, mp4, flac, etc.).
+When you connect Google Drive within the application, we will use the Google Drive API and access some user data from your Google profile and/or Google Account Identifier (“account Id”).
+“PLAYit” use and transfer of information received from Google APIs to any other app will adhere to
+Google API Services User Data Policy
+, including the Limited Use requirements.”
+1) Accessing Google User Data
+PLAYit accesses Google resources from the device where you use PLAYit. Your device communicates directly with the Google APIs.
+PLAYit sends users to https://accounts.google.com/o/oauth2/auth for authorization and does not directly access or collect user data used by Google Auth.
+2) Using Google User Data
+PLAYit includes functions that you can execute in order to read or modify your own data (or data shared with you). This can only happen after you provide a token, which requires that you authenticate yourself as a specific Google user and authorize these actions.
+3) Collecting Google User Data
+userinfo.email (view your email address), userinfo.profile (see your personal info. including any personal info you've made publicly available), and openid (authenticate using OpenID Connect) are required to be used by Google Auth.
+PLAYit allows you to manage your Google Drive files and therefore the default scopes also include drive (read/write access to your Google Drive) and drive.appdata (manage configuration folder in your Google Drive).
+However, PLAYit never receives your data or the permission to access your data in your Google Drive account. The owners of the project can only see anonymous, aggregated information about usage of tokens obtained through its OAuth client, such as which APIs and endpoints are being used.
+4) Sharing Google User Data
+PLAYit only communicates with Google APIs. No user data is shared with the owners of PLAYit, Iterative or any other party.
+• Notice:
+If you experience a crash while using PLAYit, the crash report sent to our servers may contain some information about the operating system you are using.
+7. CHANGES TO THE PRIVACY POLICY
+PLAYit may change this Privacy Policy from time to time, and at PLAYit's sole discretion. All changes hereto will be made available on this website, which is why PLAYit encourages Users to frequently check this page for any changes to this Privacy Policy. Changes hereto will not prejudice Users' rights without their consent.
+8. QUESTIONS OR CONCERNS
+If you have any questions or concerns regarding our privacy policies, please Email us at feedback@playit.app

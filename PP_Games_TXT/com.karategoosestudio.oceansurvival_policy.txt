@@ -1,0 +1,388 @@
+KarateGooseStudio,
+Privacy Policy, Terms and Conditions
+Privacy
+Policy
+Last Updated: July 09, 2021
+Welcome! This Privacy Policy explains how Karate Goose
+Studio ("Karate Goose Studio" or "we") collects, uses, and
+shares your personal information while you play Karate Goose Studio's games
+("Games") and/or use Karate Goose Studio's websites that link to this
+Privacy Policy ("Websites"
+).We
+may make
+changes to this Privacy Policy from time to time. If we make any material
+changes to this Privacy Policy, we will notify you via email if we have your
+email address on record, or via a notice on the Websites and/or Games.
+1. What kind of personal information does Karate Goose
+Studio collect?
+We don’t collect any kind of your personal
+information, but we are using third-party services from Unity (in-App
+Purchasing). We locked access to hardware statistics to Unity in our
+application.
+Also
+we are using Firebase Analytics from
+Google to view anonymous statistics on the use of the application, such as the
+number of players per day, average game time, possible errors within the
+application. We do not have access to personal data of users, including
+personal data of children.
+Link to privacy policy of
+third party
+service
+providers used by the app
+<![if !supportLists]>
+o
+<![endif]>
+Firebase
+Analytics
+<![if !supportLists]>
+o
+<![endif]>
+Unity3D
+Does Karate Goose Studio Collect My Financial Information When I Make
+In-App Purchases?
+When you make in-app purchases in the Games, we do not
+collect or have any access to your name and billing information. This
+information is collected and stored by your platform (
+e.g.
+Apple's Game Store or Android's Google Play) or your platform's payment
+processor.
+2. Do third parties have access to my personal
+information?
+Yes. Like most companies, we use tools from service
+provider (Unity) to help us with various parts of our business ("Service
+Provider"). We contractually require Service Provider to treat your
+personal information as confidential information and to only use it for the
+services we need. However, we locked access to hardware statistics to Unity in
+our application.
+3. How long will Karate Goose Studio keep my personal
+information?
+We don’t collect and keep your personal information.
+4. How is my personal information used for analytics?
+We don’t collect and keep your personal information.
+However, we locked access to hardware statistics to Unity in our application.
+5. How is my personal information used for advertising?
+We don’t collect and keep your personal information.
+However, we locked access to hardware statistics to Unity in our application.
+We don’t have any advertisements in our application.
+6. Children's personal information.
+We don’t collect and keep your personal information.
+We locked access to hardware statistics to Unity in our application. We do not
+knowingly collect children's personal information without parental consent,
+except as permitted under applicable laws such as the U.S. Children's Online
+Privacy Protection Act (COPPA) and the EU General Data Protection Regulation
+(GDPR). In the case we discover that a child under 13 has provided us with
+personal information, we immediately delete this from our servers. Please
+contact us at karategoosestudio@gmail.com if you believe we are collecting a
+child's personal information in violation of COPPA or the GDPR.
+7. Third-parties and their privacy policies.
+You can read privacy policy of our Service Provider
+(Unity) at
+https://unity3d.com/legal/privacy-policy
+8. Is my personal information secure?
+The security of your personal information served by
+our Service Provider as we don’t collect any kind of your personal information.
+You can also read about it on
+https://unity3d.com/legal/privacy-policy
+9. Push notifications.
+We don’t use push notifications right now but we can
+turn it on in the future. If it will happen, we will change Privacy Policy
+according to it.
+10. How do
+i
+access, manage,
+or update my personal information?
+We don’t collect and keep your personal information.
+However, we locked access to hardware statistics to Unity in our application.
+11. For users in the
+european
+union.
+A.
+Legal Basis for Processing.
+Our legal basis for collecting, using, and
+sharing your personal information will depend on the purpose for which we use
+your personal information. Typically, we will rely on the following legal bases
+for processing your personal information: (
+i
+) your
+consent; (ii) where our processing is in our legitimate interest or in the
+legitimate interest of our Service Providers; or (iii) where our processing is
+necessary to perform a contract with you (
+e.g.
+to make
+the Games accessible to you). If we rely on your consent to process your
+personal information, you have the right to withdraw your consent at any time.
+B.
+Transfer of Personal
+Information Outside of the EU.
+Because our Service Providers are located in countries outside of the European
+Union, your personal information may be transferred to other countries that may
+not offer the same level of data protection as the laws of your country of
+residence. We rely on model contractual clauses and/or the Privacy Shield certification
+for such transfers.
+C.
+How to File Complaints.
+If you believe your rights under the GDPR have
+been violated, you may lodge a complaint with the supervisory authority of your
+country of residence. For contact information for your supervisory authority,
+please
+visit here
+.
+12. Karate Goose Studio's contact information.
+If you have any questions about our Privacy Policy or
+about our use of your personal information, then you may contact us at:
+karategoosestudio@gmail.com
+Terms and Conditions
+(Terms of Use, EULA)
+Last Modified:
+July
+09, 2021
+IMPORTANT - READ CAREFULLY: This Terms of Use ("
+Terms
+")
+is a legal agreement between you and Karate Goose Studio and governs the use by
+"you" of Karate Goose Studio’s website, services, games and
+applications (collectively, the "
+Services
+"). By using the
+Services
+you agree to these Terms. If you do not agree to these Terms, do not purchase
+or use the Services.
+BY USING THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT
+AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+PLEASE REVIEW KARATE GOOSE STUDIO’S
+PRIVACY POLICY
+, WHICH IS INCORPORATED INTO THESE TERMS BY REFERENCE
+1. LICENSE AND RESTRICTIONS.
+Subject to these Terms, Karate Goose Studio grants you a non-exclusive,
+limited, revocable, non-transferable license to use the Services for your
+personal, non-commercial use. You may not: (a) modify, translate,
+reverse-engineer, reverse-compile or decompile, disassemble, create derivative
+works of, or use data gathering or extraction tools in connection with the
+Services; (b) reproduce, duplicate, copy, sell, resell, or otherwise exploit
+the Services, in whole or in part, for any purpose without Karate Goose
+Studio’s express written consent; (c) use any data mining tools or automation
+tools such as spiders, crawlers, scripts, bots, or any automated method of
+recording information; (d) engage in any conduct in connection with the
+Services that may be considered illegal or tortious including, without limitation,
+“hacking” the Services, or infringing the intellectual property or other
+proprietary rights of Karate Goose Studio or third-parties.
+Additionally, where the Services are a downloadable game and/or
+application (“
+App
+”), Karate Goose Studio grants you a
+non-exclusive, non-transferable, revocable, limited license to use the App for
+your personal, non-commercial use on authorized devices, unless otherwise
+specified. The App may not be copied, resold, or sublicensed. These Terms apply
+to all versions and updates to the App, including, without limitation, free and
+paid versions.
+The App may include measures to control access to the App (including age
+controls), prevent unauthorized copies, or otherwise attempt to prevent anyone
+from exceeding the limited rights and licenses granted under these Terms. You
+may not take any action to circumvent or defeat such security features. If you
+disable or otherwise tamper with the technical protection measures, your
+license to use the App or other Services shall be considered automatically
+revoked.
+2. THIRD-PARTY PRODUCT, SERVICES AND LINKS.
+Karate Goose Studio may offer third-party products through the Services.
+You assume all risks and liabilities associated with the use of any such
+third-party products. Additionally, your rights and obligations regarding such
+products or services will be governed by the separate terms of use and privacy
+policies of the applicable third-party provider.
+The Services may include hyperlinks to other websites over which Karate
+Goose Studio has no control. Karate Goose Studio is not responsible for the
+availability of such external sites or resources and will not be responsible or
+liable for any content, advertising, products, or other materials on or
+available from such third-party websites or resources.
+3. ACCESS TO THE SERVICES.
+By using the Services, you affirm that you are at least 18 years of age
+(or have reached the age of majority if that is not 18 years of age where you
+live) or that you have reviewed these Terms with your parent or guardian and he
+or she assents to these Terms on your behalf and takes full responsibility for
+your compliance with them. If you are under the age of 13, you must have
+permission from your parent or guardian in order to use the Services. If you do
+not have permission from your parent of guardian, certain features and
+functionality of the Services may be disabled. Information regarding use of
+your personal information can be found in Karate Goose Studio’s
+Privacy Policy
+or in the privacy policy specific to the Service you are using.
+Karate Goose Studio reserves the right to immediately terminate your
+access to the Services or your Account if you breach these Terms or otherwise
+violate any applicable law, rule, or regulation in your jurisdiction.
+By using the Services and providing us with your contact information,
+you explicitly consent to receive communications from us. If you would not like
+to receive such communications, please review Karate Goose Studio’s
+Privacy Policy
+and opt-out procedures.
+4. IN-GAME VIRTUAL CURRENCY AND VIRTUAL ITEMS. IN-GAME SUBSCRIPTIONS.
+The Service may include an opportunity for you to earn, buy or otherwise
+obtain in-game currency ("
+Virtual
+Currency
+") to access
+virtual, in-game digital goods or items ("
+Virtual Items
+"). Methods of obtaining Virtual Currency are at Karate Goose
+Studio’s sole discretion. Virtual Currency and Virtual Items are not real
+currency, do not have monetary value, and may not be redeemed for legal
+currency, or items of value outside of the Services.
+Virtual Currency and Virtual Items obtained via the Service are provided
+to you under a limited, personal, revocable, non-transferable, non-
+sublicenseable
+license to use within the Service. You have
+no property interest, right or title in or to any Virtual Currency or Virtual
+Items appearing or originating in the Service, and they may not be transferred
+or resold in any manner, including, without limitation, by means of any direct
+sale or auction service.
+You agree that all sales of Virtual Currency and Virtual Items are
+final. No refunds will be given, except in Karate Goose Studio’s sole and
+absolute discretion. Karate Goose Studio has no liability for hacking or loss
+of your Virtual Currency or Virtual Items or any goods or services obtained via
+Virtual Currency. Karate Goose Studio has no obligation to, and will not,
+reimburse you for any Virtual Currency or Virtual Items obtained via Virtual
+Currency. Karate Goose Studio reserves the right, in its sole discretion and
+without prior notification, to change or limit the price, availability, or
+order quantity of any Virtual Currency or Virtual Items and to refuse to
+provide you with any Virtual Currency or Virtual Items.
+Virtual Currency may have an expiration date. If your Virtual Currency
+or Virtual Items expire and you still have an active Account, Karate Goose
+Studio may offer conversion of such Virtual Currency into Virtual Items for you
+in its sole discretion, however Karate Goose Studio is under no obligation to
+do so. Virtual Currency and Virtual Items may be forfeited if: (a) your Account
+or access to the Services is terminated or suspended for any reason; (b) you
+breach these Terms; (c) Karate Goose Studio discontinues availability of the
+Service; or (d) you disassociate from the Service.
+Certain
+Karate Goose Studio
+Apps on the Apple App Store and
+Google Play Store will allow you to obtain the benefit of the application on a
+subscription basis. Payment for such a subscription (which may be for example
+daily, weekly, monthly, tri-monthly or yearly) may be processed in the
+application, by third parties who act on our behalf or directly by the mobile
+platform owner (
+e.g.
+Apple or Google). Free trial
+subscriptions may be cancelled at any point up to 24 hours before the expiry of
+the free trial (Apple) or at any time before the end of the trial period
+(Google). You can cancel a subscription service at any time during the
+subscription period via the subscription settings in your iTunes or Android
+account. The cancellation will take effect after the last day in the relevant
+subscription period.
+Please note: your free-trial
+subscription will automatically renew as a paid subscription unless auto-renew
+is turned off at least 24 hours before the end of the free-trial subscription
+period (Apple) or you cancel before the end of the trial period (Google).
+5. TITLE.
+Unless otherwise specified in these Terms, any and all title, ownership,
+rights, and intellectual property rights in and to the Services including all
+content therein (collectively the “Karate Goose Studio Content”) shall remain
+in Karate Goose Studio and/or its suppliers, and are protected by the copyright
+laws of the United Kingdom, the United States and other jurisdictions around
+the world via international copyright treaties. The names and logos, and other
+graphics, icons, and service names associated with the Karate Goose Studio
+Content are trademarks of Karate Goose Studio or its licensors. You may not use,
+copy, transmit, modify, distribute, or create any derivative works from the
+Services or the Karate Goose Studio Content without prior written consent from
+Karate Goose Studio.
+The Services may allow you to create content (“
+Your Content
+”) that incorporates the Karate Goose Studio Content, including, but
+not limited, to photos incorporating elements or graphics from games,
+screenshots or a video of your game play. Karate Goose Studio retains all
+rights, title and interest in and to the Karate Goose Studio Content. You
+retain all rights to Your Content; provided, however, that Karate Goose Studio
+shall have an exclusive, perpetual, irrevocable, fully transferable and
+sub-licensable worldwide right and license to Your Content for any purpose,
+including, but not limited to, the rights to reproduce, copy, adapt, modify,
+perform, display, publish, broadcast, transmit, or otherwise communicate to the
+public by any means whether now known or unknown and distribute Your Content
+without any further notice or compensation to you. Except where prohibited by
+law, you hereby waive any moral rights of paternity, publication, reputation,
+or attribution with respect to Karate Goose Studio's use of Your Content.
+6. DISCLAIMER OF WARRANTY AND LIMIT OF LIABILITY.
+KARATE GOOSE STUDIO MAKES NO REPRESENTATION, WARRANTY, AND/OR GUARANTEE
+OF THE SUITABILITY OF THE SERVICES FOR YOUR PURPOSES, OR THAT THE USE OF THE
+SAME WILL BE SECURE, UNINTERRUPTED, ERROR-FREE, FREE OF VIRUSES OR OTHER
+HARMFUL COMPONENTS, OR FUNCTION PROPERLY IN COMBINATION WITH ANY THIRD-PARTY
+TECHNOLOGY, HARDWARE, SOFTWARE, SYSTEMS OR DATA.
+THE SERVICES ARE PROVIDED “AS IS" AND ALL CONDITIONS,
+REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR
+OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF
+MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT
+ARE HEREBY DISCLAIMED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+FURTHER, KARATE GOOSE STUDIO MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND,
+EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE SAME, OR TO THE INFORMATION,
+CONTENT, COMMUNICATIONS, MATERIALS, OR PRODUCTS AND SERVICE CONTAINED THEREIN.
+YOUR USE OF THE KARATE GOOSE STUDIO SERVICES IS AT YOUR SOLE RISK.
+KARATE GOOSE STUDIO WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND
+ARISING FROM YOUR USE OF THE SERVICES, INCLUDING, WITHOUT LIMITATION, DIRECT,
+INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES. CERTAIN REGIONAL LAWS
+DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION
+OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE
+DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE
+ADDITIONAL RIGHTS.
+YOU FURTHER ACKNOWLEDGE THAT KARATE GOOSE STUDIO IS NOT LIABLE, AND YOU
+AGREE NOT TO HOLD KARATE GOOSE STUDIO LIABLE, FOR THE CONDUCT OF THIRD-PARTIES,
+INCLUDING OTHER USERS OF THE SERVICES AND OTHER THIRD-PARTY SITES, AND THAT THE
+RISK OF USING OR ACCESSING THE SERVICES, AND OF INJURY FROM THE FOREGOING,
+RESTS ENTIRELY WITH YOU.
+7. TERMINATION.
+These Terms will automatically terminate if you fail to comply with any
+term hereof. You and Karate Goose Studio have the right to terminate or cancel
+your Account, at any time for any reason and without notice. Upon termination
+you shall immediately discontinue use of the Services.
+8. NO ASSIGNMENT.
+These Terms and the licenses granted to you herein are personal to you,
+and may not be assigned prior to obtaining Karate Goose Studio's express
+written consent.
+9. INFRINGEMENT NOTIFICATION.
+Any claims related to the Services should be addressed to:
+Karate Goose Studio
+Email: karategoosestudio@gmail.com
+10. FEEDBACK.
+Karate Goose Studio does not accept unsolicited feedback, suggestions or
+other information about the Services or other aspects of its business. If you
+provide Karate Goose Studio with feedback or other ideas, you agree that Karate
+Goose Studio is free to use any feedback provided by you for any purpose
+(without compensation to you), including, without limitation, improving its
+products and services and creating derivative products.
+11. GENERAL.
+These Terms, along with the
+Privacy Policy
+, and any other privacy policy applicable to the specific Services you
+are using, constitute the complete and final agreement between Karate Goose
+Studio and you with respect to your use of the Services and may not be modified
+by you except in a writing duly signed by you and an authorized representative
+of Karate Goose Studio. You agree that your breach of these Terms will cause
+Karate Goose Studio immediate and irreparable harm and Karate Goose Studio will
+be entitled, notwithstanding the arbitration clause, to seek injunctive relief
+without the necessity of posting bond. Karate Goose Studio and you are
+independent parties and nothing in these Terms creates an employment or agent
+relationship. If any provision herein is held to be unenforceable, such
+provision shall be reformed in that matter only to the extent necessary to make
+it enforceable, and shall not affect the enforceability of the remaining
+provisions. The failure of either party to enforce any right or provision in
+these Terms will not constitute a waiver of such right or provision.
+Karate Goose Studio may make changes to the Services, these Terms, or
+its
+Privacy Policy
+from time to time. Karate Goose Studio will use reasonable efforts to
+provide you with notice of any material changes. All such changes will become
+effective immediately upon notice and/or posting. If any of these changes are
+deemed invalid, void, or for any reason unenforceable, that change will be
+deemed severable and will not affect the validity and enforceability of any
+unchanged portions of the Services, these Terms, or the
+Privacy Policy
+. Karate Goose Studio may transfer or assign the Services, these Terms,
+or the
+Privacy Policy
+, in whole or in part, to any third-party of Karate Goose Studio’s
+choosing. These Terms will inure to the benefit of and be binding upon Karate
+Goose Studio’s respective successors and assigns.
+CONTACT US. If you have questions regarding these Terms, please contact
+us at:
+Karate Goose Studio
+Attn
+: Terms of Use
+E-mail
+:
+karategoosestudio@gmail.com

@@ -1,0 +1,1140 @@
+TERMO DE USO E POLÍTICA DE PRIVACIDADE
+Quais
+	informações estão presentes no Termo de Uso e na Política de
+	Privacidade?
+Neste
+Termo de Uso, serão apresentadas informações sobre: o
+funcionamento do serviço
+gov.br
+e as regras aplicáveis ao seu uso; o arcabouço legal relacionado à
+prestação do serviço; as responsabilidades do usuário ao utilizar
+o serviço; as responsabilidades da administração pública ao
+prover o serviço; informações para contato, caso exista alguma
+dúvida; os direitos autorais e a propriedade intelectual; e o foro
+responsável por eventuais reclamações caso se entenda que as
+cláusulas deste Termo de Uso tenham sido violadas.
+Nesta
+Política de Privacidade, serão apresentadas informações sobre:
+qual o tratamento dos dados pessoais realizados, de forma
+automatizada ou não, e a sua finalidade; os dados pessoais dos
+cidadãos que são necessários para a prestação do serviço; a
+forma como eles são coletados; se há o compartilhamento de dados
+com terceiros; e quais medidas de segurança são implementadas para
+proteger os dados dos cidadãos.
+Ciência do Termo de Uso e da Política de
+	Privacidade
+Ao
+utilizar o serviço gov.br o cidadão confirma que leu e compreendeu
+as regras do Termo de Uso e da Política de Privacidade e concordou
+em ficar vinculado a eles.
+Definições
+Para
+melhor compreensão deste documento, neste Termo de Uso e Política
+de Privacidade, consideram-se:
+Acesso.gov.br
+(Login Único): plataforma de autenticação do governo que fornece a
+identificação de cada cidadão que deseja acessar os serviços
+digitais do governo por meio de uma conta única.
+Agente
+público: Todo aquele que exerce, ainda que transitoriamente ou sem
+remuneração, por eleição, nomeação, designação, contratação
+ou qualquer outra forma de investidura ou vínculo, mandato, cargo,
+emprego ou função nos órgãos e entidades da Administração
+Pública, direta e indireta.
+Agentes
+de Estado: inclui órgãos e entidades da Administração pública
+além dos seus agentes públicos. Agentes de tratamento: o
+controlador e o operador.
+Autoridade
+Nacional de Proteção de Dados (ANPD): órgão da administração
+pública responsável por zelar, implementar e fiscalizar o
+cumprimento da Lei Geral de Proteção de Dados -LGPD em todo o
+território nacional.
+Cadastro
+Base do Cidadão - informação de referência, íntegra e precisa,
+centralizada ou descentralizada, oriunda de uma ou mais fontes, sobre
+elementos fundamentais para a prestação de serviços e para a
+gestão de políticas públicas, tais como pessoas, empresas,
+veículos, licenças e locais.
+Códigos
+maliciosos: qualquer programa de computador, ou parte de um programa,
+construído com a intenção de provocar danos, obter informações
+não autorizadas ou interromper o funcionamento de sistemas e/ou
+redes de computadores.
+Controlador:
+pessoa natural ou jurídica, de direito público ou privado, a quem
+competem as decisões referentes ao tratamento de dados pessoais.
+Dado
+pessoal: informação relacionada a pessoa natural identificada ou
+identificável.
+Identificação
+Civil Nacional (ICN): identificação que possui como objetivo
+identificar o brasileiro em suas relações com a sociedade e com os
+órgãos e entidades governamentais e privados.
+Internet:
+o sistema constituído do conjunto de protocolos lógicos,
+estruturado em escala mundial para uso público e irrestrito, com a
+finalidade de possibilitar a comunicação de dados entre terminais
+por meio de diferentes redes.
+Lei
+Geral de Proteção de Dados (LGPD): Lei Federal n. 13.709, de 14 de
+agosto de 2018, que dispõe sobre o tratamento de dados pessoais,
+inclusive nos meios digitais, por pessoa natural ou por pessoa
+jurídica de direito público ou privado, com o objetivo de proteger
+os direitos fundamentais de liberdade e de privacidade e o livre
+desenvolvimento da personalidade da pessoa natural.
+Operador:
+pessoa natural ou jurídica, de direito público ou privado, que
+realiza o tratamento de dados pessoais em nome do controlador.
+Sítios
+e aplicativos: sítios e aplicativos por meio dos quais o usuário
+acessa os serviços e conteúdos disponibilizados no
+gov.br
+.
+Terceiro:
+pessoa ou entidade que não participa diretamente em um contrato, em
+um ato jurídico ou em um negócio, ou que, para além das partes
+envolvidas, pode ter interesse num processo jurídico.
+Cidadão
+(titular na LGPD): pessoa natural a quem se referem os dados pessoais
+que são objeto de tratamento.
+Tratamento:
+toda operação realizada com dados pessoais, como as que se referem
+a coleta, produção, recepção,
+classificação,
+utilização, acesso, reprodução, transmissão, distribuição,
+processamento, arquivamento, armazenamento, eliminação, avaliação
+ou controle da informação, modificação, comunicação,
+transferência, difusão ou extração.
+Uso
+compartilhado de dados: comunicação, difusão, transferência
+internacional, interconexão de dados pessoais ou tratamento
+compartilhado de bancos de dados pessoais por órgãos e entidades
+públicos no cumprimento de suas competências legais, ou entre esses
+e entes privados, reciprocamente, com autorização específica, para
+uma ou mais modalidades de tratamento permitidas por esses entes
+públicos, ou entre entes privados.
+Cidadãos
+(ou "Cidadão", quando individualmente considerado): todas
+as pessoas naturais que utilizarem o serviço disponibilizado pelo
+gov.br
+.
+Validação
+biográfica - confirmação da identidade da pessoa natural mediante
+comparação de fatos da sua vida, tais como nome civil ou social,
+data de nascimento, filiação, naturalidade, nacionalidade, sexo,
+estado civil, grupo familiar, endereço e vínculos profissionais,
+com o objetivo de identificá-la unicamente com médio grau de
+segurança.
+Validação
+biométrica - confirmação da identidade da pessoa natural mediante
+aplicação de método de comparação estatístico de medição
+biológica das características físicas de um indivíduo com
+objetivo de identificá-lo unicamente com alto grau de segurança;
+Violação
+de dados pessoais: é uma violação de segurança que provoque, de
+modo acidental ou ilícito, a destruição, a perda, a alteração, a
+divulgação ou o acesso não autorizado a dados pessoais
+transmitidos, conservados ou sujeitos a qualquer outro tipo de
+tratamento.
+O que é
+gov.br
+?
+O
+gov.br
+é a identificação digital do cidadão. Ao utilizar, tem-se acesso
+à carteira digital que armazena de forma centralizada e organizada
+os documentos do cidadão. Dessa forma, ao invés de ter que possuir
+os documentos físicos, o cidadão poderá ter acesso a seus
+documentos em formato digital.
+Além
+disso, existe o aplicativo
+gov.br
+que é integrado com o serviço
+a
+cesso.gov.br
+,
+que é um autenticador único de governo, ou seja, com uma única
+senha, o cidadão poderá se identificar a todos os serviços
+públicos que utilizam o
+a
+cesso.gov.br
+de forma simplificada.
+Para
+fornecer maior segurança na identificação, o aplicativo
+gov.br
+também permite que se realize a identificação por biometria
+facial. O aplicativo captura uma foto do cidadão pela câmera do
+dispositivo no qual ele está instalado e compara na base ICN do
+Tribunal Superior Eleitoral, com um elevado grau de confiança, a
+imagem capturada com a imagem armazenada digitalmente (se o CPF
+procurado não constar na base da ICN, o aplicativo realizará a
+consulta na base da Secretaria Nacional de Trânsito - Senatran).
+Caso elas sejam semelhantes, o cidadão comprova sua identidade de
+forma rápida e segura. A validação biométrica do aplicativo
+gov.br
+também pode ser usada pelo cidadão para criar uma conta no serviço
+a
+cesso.gov.br
+,
+para recuperar a sua conta (caso ele tenha esquecido a senha), e
+qualificar a conta (obtenção do selo de confiança para a sua
+conta). Além disso, o aplicativo
+gov.br
+pode também ser usado para agregar mais segurança à conta do
+cidadão no acesso.gov.br. Ao ativar o segundo fator de autenticação,
+o cidadão deverá informar, além de sua senha, um código que será
+enviado pelo aplicativo
+gov.br
+ao seu dispositivo. Como mais uma etapa para realizar a autenticação
+é adicionada, a conta se torna mais segura.
+Por fim,
+a validação biométrica é utilizada também pelo Instituto
+Nacional do Seguro Social (INSS) e pelo SIGEPE para realizar a prova
+de vida do cidadão e dos servidores e pensionistas em seus
+respectivos serviços.
+Quais são os
+	direitos do usuário do serviço?
+O
+cidadão ao usar os serviços possui os seguintes direitos,
+conferidos pela Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei
+de Proteção de Dados Pessoais - LGPD):
+Direito
+		de confirmação e acesso (Art. 18, I e II):
+direito
+		de obter do serviço a confirmação de que os dados pessoais que
+		lhe digam respeito são ou não objeto de tratamento e, se for esse
+		o caso, o direito de acessar os seus dados pessoais tratados.
+Direito
+		de retificação (Art. 18, III)
+:
+		direito de solicitar a correção de dados incompletos, inexatos ou
+		desatualizados.
+Direito
+		à limitação do tratamento dos dados (Art. 18, IV):
+direito
+		de limitar o tratamento de seus dados pessoais, podendo exigir a
+		eliminação de dados desnecessários, excessivos ou tratados em
+		desconformidade com o disposto na Lei Federal n. 13.709, de 14 de
+		agosto de 2018 (Lei de Proteção de Dados Pessoais - LGPD).
+Direito
+		de oposição (Art. 18, § 2º):
+direito
+		de, a qualquer momento, se opor ao tratamento de dados por motivos
+		relacionados com a sua situação particular, com fundamento em uma
+		das hipóteses de dispensa de consentimento ou em caso de
+		descumprimento ao disposto na Lei Federal n. 13.709, de 14 de
+		agosto de 2018 (Lei de Proteção de Dados Pessoais - LGPD).
+A aplicabilidade deste direito acarretará a incompatibilidade do
+		serviço proposto e o consequente desfazimento da relação do
+		cidadão com o Estado.
+Direito
+		de não ser submetido a decisões automatizadas (Art. 20):
+direito
+		de solicitar a revisão de decisões tomadas unicamente com base em
+		tratamento automatizado de dados pessoais que afetem seus
+		interesses, incluídas as decisões destinadas a definir o seu
+		perfil pessoal, profissional, de consumo e de crédito ou os
+		aspectos de sua personalidade.
+Quais são as obrigações dos usuários que
+	utilizam o serviço?
+O
+cidadão se responsabiliza pela precisão e veracidade dos dados
+informados e reconhece que a inconsistência destes poderá implicar
+a impossibilidade de se utilizar serviços públicos por meio do
+gov.br
+.
+Os
+serviços não devem ser utilizados indevidamente. É apenas
+permitido ao cidadão fazer uso do que lhe é disponibilizado, e
+dentro das normas previstas legalmente no Brasil.
+Durante
+a utilização do serviço, a fim de resguardar e proteger os
+direitos de terceiros, o cidadão se compromete a fornecer somente
+seus dados pessoais, e não os de terceiros, e utilizar os serviços
+disponíveis de maneira responsável.
+O login
+e senha só poderão ser utilizados pelo cidadão cadastrado. Ele se
+compromete a manter o sigilo da senha, que é pessoal e
+intransferível, não sendo possível, em qualquer hipótese, a
+alegação de uso indevido, após o ato de compartilhamento.
+O
+cidadão é responsável pela atualização das suas informações
+pessoais e consequências na omissão ou erros nas informações
+pessoais cadastradas.
+http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/termodeusoeprivacidade.html
+O
+cidadão é responsável por toda e qualquer ação feita em sua
+conta, e concorda em não alienar, ceder ou transferir a sua conta,
+nome e seus dados, ou quaisquer direitos a outra pessoa.
+O
+cidadão se compromete a não utilizar os serviços
+gov.br
+para qualquer finalidade ilegal ou não autorizada, sendo ele
+responsável pela reparação de todos e quaisquer danos, diretos ou
+indiretos (inclusive decorrentes de violação de quaisquer direitos
+de outros cidadãos, de terceiros, inclusive direitos de propriedade
+intelectual, de sigilo e de personalidade), que sejam causados à
+Administração Pública, a qualquer outro
+c
+idadão,
+ou, ainda, a qualquer terceiro, inclusive em virtude do
+descumprimento do disposto nestes Termos de Uso e Política de
+Privacidade.
+O
+cidadão é o único responsável por sua conduta e por quaisquer
+dados, textos, imagens, informações, nomes, fotos e outros
+conteúdos ou materiais que enviar por meio do
+gov.br
+.
+A
+Administração Pública Federal não poderá ser responsabilizada
+pelos seguintes fatos:
+Dispositivo
+	do usuário infectado ou invadido por atacantes;
+Dispositivo
+	do usuário avariado no momento do consumo de serviços;
+Proteção
+	do dispositivo pelo qual o
+gov.br
+é utilizado;
+Proteção
+	das informações baseadas nos dispositivos do cidadão;
+Abuso
+	de uso dos dispositivos do cidadão;
+Monitoração
+	clandestina dos dispositivos do cidadão;
+Vulnerabilidades
+	ou instabilidades existentes nos sistemas do cidadão;
+Perímetro
+	inseguro.
+Em
+nenhuma hipótese, a Administração Pública Federal será
+responsável pela instalação, no equipamento do cidadão ou de
+terceiros, de códigos maliciosos (vírus,
+trojans
+,
+malware
+,
+worm
+,
+bot
+,
+backdoor
+,
+spyware
+,
+rootkit
+,
+ou de quaisquer outros que venham a ser criados), em decorrência da
+navegação na Internet pelo cidadão.
+O
+cidadão não deve interferir, comprometer, ou interromper o serviço,
+ou os servidores ou redes conectadas ao serviço, inclusive por meio
+da transmissão de qualquer
+malware
+,
+worm
+,
+vírus,
+spyware
+,
+ou qualquer outro código de natureza destrutiva ou perturbadora. O
+cidadão não pode inserir conteúdo ou códigos, ou, de outra forma,
+alterar ou interferir na maneira como a página do serviço é
+exibida ou processada no dispositivo.
+Em
+hipótese alguma, o
+gov.br
+e seus colaboradores responsabilizam-se por eventuais danos diretos,
+indiretos, emergentes, especiais, imprevistos ou multas causadas, em
+qualquer matéria de responsabilidade, seja contratual, objetiva ou
+civil (inclusive negligência ou outras), decorrentes de qualquer
+forma de uso deste, mesmo que advertida a possibilidade de tais
+danos.
+Tendo em
+vista que o
+gov.br
+lida com informações pessoais, o cidadão concorda que não usará
+robôs, sistemas de varredura e armazenamento de dados (como
+spiders
+ou
+scrapers
+),
+links escondidos ou qualquer outro recurso escuso, ferramenta,
+programa, algoritmo ou método coletor/extrator de dados automático
+para acessar, adquirir, copiar ou monitorar o
+gov.br
+,
+sem permissão expressa por escrito do Ministério da Economia.
+Incluem-se nos acessos os realizados através de serviços de
+hospedagem (hostings), pois devido a uma política interna foram
+considerados inviáveis para prestação deste serviço público.
+A
+comercialização desse serviço é expressamente proibida. Ao
+concordar com o Termo de Uso e a Política de Privacidade e utilizar
+o serviço
+gov.br
+,
+o cidadão receberá permissão do Ministério da Economia para uso
+não comercial dos serviços oferecidos, o que, em nenhuma hipótese,
+fará dele proprietário do
+gov.br
+.
+Caso o
+cidadão descumpra o Termo de Uso ou a Política de Privacidade, ou
+seja, investigado em razão de má conduta, o Ministério da Economia
+poderá restringir seu acesso. O cidadão também deverá responder
+legalmente por tal conduta.
+Quais são as responsabilidades da
+	administração pública com os meus dados?
+A
+Administração Pública se compromete a cumprir todas as legislações
+inerentes ao uso correto dos dados pessoais do cidadão de forma a
+preservar a privacidade dos dados utilizados no serviço, bem como a
+garantir todos os direitos e garantias legais dos cidadãos. Ela
+também se obriga a promover, independentemente de requerimentos, a
+divulgação em local de fácil acesso, no âmbito de suas
+competências, de informações de interesse coletivo ou geral por
+ela produzidas ou custodiadas. É de responsabilidade da
+Administração Pública implementar controles de segurança para
+proteção dos dados pessoais dos cidadãos.
+A
+Administração Pública poderá, quanto às ordens judiciais de
+pedido das informações, compartilhar informações necessárias
+para investigações ou tomar medidas relacionadas a atividades
+ilegais, suspeitas de fraude ou ameaças potenciais contra pessoas,
+bens ou sistemas que sustentam o Serviço ou de outra forma
+necessária para cumprir com as obrigações legais. Caso ocorra, a
+Administração Pública notificará o referido cidadão, salvo
+quando o processo estiver sob segredo de justiça.
+A
+Administração Pública Federal se compromete a:
+Manter
+		o ambiente virtual seguro, salvo por ato destrutivo de terceiro que
+		vá além dos esforços empenhados, hipótese que não se
+		responsabilizará por danos oriundos dessa prática danosa;
+Preservar
+		a funcionalidade, utilizando layout que respeite a usabilidade e
+		navegabilidade, facilitando a navegação sempre que possível;
+Exibir
+		as funcionalidades de maneira clara, completa, precisa e suficiente
+		de modo que exista a exata percepção das operações realizadas.
+Mudanças no Termo de Uso e/ou na Política
+	de Privacidade
+A
+presente versão do Termo de Uso e da Política de Privacidade foi
+atualizada pela última vez em:
+19
+/0
+9
+/2021.
+O
+gov.br
+se reserva o direito de modificar, a qualquer momento, as presentes
+cláusulas, especialmente para adaptá-las às evoluções do
+serviço, seja pela disponibilização de novas funcionalidades, seja
+pela supressão ou modificação daquelas já existentes.
+O
+cidadão será notificado pelo
+gov.br
+caso existam alterações no Termo de Uso e/ou na Política de
+Privacidade.
+Informações para contato - qual o contato pelo qual o usuário do
+	serviço pode tirar suas dúvidas ou corrigir algum dado pessoal
+	inconsistente?
+Assuntos
+		referentes às funcionalidades, ao Termo de Uso e à Política de
+		Privacidade, favor entrar em contato pelo e-mail:
+despd@economia.gov.br
+Assuntos
+		referentes às dúvidas ou reclamações sobre seus dados pessoais,
+		favor entrar em contato com a encarregada pelo tratamento de dados
+		pessoais (Marta Juvina de Medeiros) por meio de solicitação a ser
+		feita pelo Fala.BR (
+https://falabr.cgu.gov.br/
+)
+Foro
+Este
+Termo será regido pela legislação brasileira. Qualquer reclamação
+ou controvérsia com base neste Termo será dirimida exclusivamente
+pela Justiça Federal, na seção judiciária do domicílio do
+cidadão, por previsão do artigo 109, §§ 1º, 2º e 3º, da
+Constituição Federal.
+Sem
+prejuízo de qualquer outra via de recurso administrativo ou
+judicial, todos os cidadãos têm direito a apresentar petição
+contra o controlador (Ministério da Economia), referente a seus
+dados pessoais, à Autoridade Nacional de Proteção de Dados (ANPD)
+- Art. 18, § 1º, da Lei nº 13.709, de 14 de agosto de 2018 (Lei
+Geral de Proteção de Dados - LGPD) - e desde que tenha havido
+reclamação formal anterior não solucionada no prazo pelo
+controlador (Ministério da Economia) – Art. 55-J, V, Lei Geral de
+Proteção de Dados – LGPD.
+POLÍTICA DE PRIVACIDADE
+Esta
+Política de Privacidade foi elaborada em conformidade com a Lei
+Federal n. 12.965 de 23 de abril de 2014 (Marco Civil da Internet) e
+com a Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei de Proteção
+de Dados Pessoais - LGPD).
+A
+Política de Privacidade do
+gov.br
+inclui assegurar que seus dados pessoais não serão divulgados a
+terceiros
+sem o
+conhecimento e a aprovação consciente do cidadão.
+O
+gov.br
+se compromete a cumprir as normas previstas na Lei Federal n. 13.709,
+de 14 de agosto de 2018 (Lei Geral de Proteção de Dados - LGPD), e
+respeitar os princípios dispostos em seu Art. 6º:
+-
+	finalidade
+:
+	realização do tratamento para propósitos legítimos, específicos,
+	explícitos e informados ao cidadão, sem possibilidade de
+	tratamento posterior de forma incompatível com essas finalidades;
+-
+	adequação
+:
+	compatibilidade do tratamento com as finalidades informadas ao
+	cidadão, de acordo com o contexto do tratamento;
+-
+	necessidade
+:
+	limitação do tratamento ao mínimo necessário para a realização
+	de suas finalidades, com abrangência dos dados pertinentes,
+	proporcionais e não excessivos em relação às finalidades do
+	tratamento de dados;
+-
+	livre acesso
+:
+	garantia, ao cidadão, de consulta facilitada e gratuita sobre a
+	forma e a duração do tratamento, bem como sobre a integralidade de
+	seus dados pessoais;
+-
+	qualidade dos dados
+:
+	garantia, ao cidadão, de exatidão, clareza, relevância e
+	atualização dos dados, de acordo com a necessidade e para o
+	cumprimento da finalidade de seu tratamento;
+-
+	transparência
+:
+	garantia, ao cidadão, de informações claras, precisas e
+	facilmente acessíveis sobre a realização do tratamento e os
+	respectivos agentes de tratamento, observados os segredos comercial
+	e industrial;
+-
+	segurança
+:
+	utilização de medidas técnicas e administrativas aptas a proteger
+	os dados pessoais de acessos não autorizados e de situações
+	acidentais ou ilícitas de destruição, perda, alteração,
+	comunicação ou difusão;
+-
+	prevenção
+:
+	adoção de medidas para prevenir a ocorrência de danos em virtude
+	do tratamento de dados pessoais;
+-
+	não discriminação
+:
+	impossibilidade de realização do tratamento para fins
+	discriminatórios ilícitos ou abusivos;
+X
+-
+responsabilização e prestação de contas
+:
+demonstração, pelo agente, da adoção de medidas eficazes e
+capazes de comprovar a observância e o cumprimento das normas de
+proteção de dados pessoais e, inclusive, da eficácia dessas
+medidas.
+Quem é o controlador responsável pelo
+gov.br
+, ou seja, a
+	quem compete as decisões referentes ao tratamento de dados pessoais
+	realizado?
+A Lei
+Geral de Proteção de Dados define como controlador, em seu artigo
+5º:
+Art. 5º, VI –
+controlador: pessoa natural ou jurídica, de direito público ou
+privado, a quem competem as decisões referentes ao tratamento de
+dados pessoais;
+Para o
+gov.br
+,
+as decisões referentes ao tratamento de dados pessoais são de
+responsabilidade do Ministério da Economia, localizado na Esplanada
+dos Ministérios – Bloco P, Brasília, DF.
+Quem é o operador do
+gov.br
+, ou
+	seja, quem realiza o tratamento de dados pessoais?
+A Lei
+Geral de Proteção de Dados define como operador, em seu artigo 5º:
+Art. 5º, VII - operador:
+pessoa natural ou jurídica, de direito público ou privado, que
+realiza o tratamento de dados pessoais em nome do controlador;
+Para o
+gov.br
+,
+a realização do tratamento de dados é realizada pelo Serviço
+Federal de Processamento de Dados (Serpro) - SGAN
+,
+Quadra
+601 Módulo "V", Brasília-DF.
+Quem é a pessoa responsável por atuar como canal de comunicação
+	entre o cidadão que utiliza o
+gov.br
+e o Ministério da
+	Economia?
+A Lei
+Geral de Proteção de Dados define como encarregado, em seu artigo
+5º:
+Art. 5º,
+VIII - encarregado: pessoa indicada pelo controlador e operador para
+atuar como canal de comunicação entre o controlador, os titulares
+dos dados e a Autoridade Nacional de Proteção de Dados (ANPD).
+Assuntos
+referentes às dúvidas ou reclamações sobre seus dados pessoais,
+favor entrar em contato com a encarregada pelo tratamento de dados
+pessoais (Marta Juvina de Medeiros) por meio de solicitação a ser
+feita pelo Fala.BR (
+https://falabr.cgu.gov.br/
+)
+Quais
+	são as leis e normativos aplicáveis a esse serviço?
+Lei nº 12.965, de 23 de
+			abril de 2014
+Marco Civil da Internet –
+			Estabelece princípios, garantias,
+direitos e deveres para o
+			uso da Internet no Brasil.
+Lei nº 12.527, de 18 de
+			novembro de 2011
+Lei de Acesso à Informação
+			– Regula o acesso a informações
+previsto na Constituição
+			Federal.
+Lei nº 13.460, de 26 de
+			junho de 2017
+Dispõe sobre participação,
+			proteção e defesa dos direitos do
+usuário dos serviços
+			públicos da administração pública.
+Lei nº 13.709, de 14 de
+			agosto de 2018
+Dispõe sobre a proteção
+			de dados pessoais.
+Decreto nº 10.046, de 9 de
+			outubro de 2019
+Dispõe sobre a governança
+			no compartilhamento de dados no âmbito da administração pública
+			federal e institui o Cadastro Base do Cidadão e o Comitê Central
+			de
+Governança de Dados.
+Decreto nº 8.777, de 11 de
+			maio de 2016
+Institui a Política de
+			Dados Abertos do Poder Executivo
+federal.
+Decreto nº 9.637, de 26 de
+			dezembro de 2018
+Institui a Política
+			Nacional de Segurança da Informação, dispõe sobre a governança
+			da segurança da informação, e altera o Decreto nº 2.295, de 4
+			de agosto de 1997, que regulamenta o disposto no art. 24, caput,
+			inciso IX, da Lei nº 8.666, de 21 de junho de 1993, e dispõe
+			sobre a dispensa de licitação nos casos que possam comprometer a
+			segurança
+nacional.
+Decreto nº 7.724, de 16 de
+			maio de 2012
+Regulamenta a Lei no
+			12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação),
+			que dispõe sobre o acesso a
+informações previstas na
+			Constituição
+Decreto nº 10.332, de 28
+			de abril de 2020
+Institui a Estratégia de
+			Governo Digital para o período de 2020 a 2022, no âmbito dos
+			órgãos e das entidades da administração pública federal
+			direta, autárquica e
+fundacional e dá outras
+			providências.
+Lei nº 13.444, de 11 de
+			maio de 2017
+Dispõe sobre a
+			Identificação Civil Nacional (ICN), que possui o objetivo de
+identificar o
+			brasileiro em suas relações com a sociedade e com os
+órgãos e entidades
+			governamentais e privados.
+Decreto 8.936, de 19 de
+			dezembro de 2016
+Institui a Plataforma de
+			Cidadania Digital e dispõe sobre a oferta dos serviços públicos
+			digitais, no âmbito dos órgãos e das entidades da administração
+			pública federal direta,
+autárquica e fundacional.
+Quais
+	bases legais para tratamento dos dados pessoais?
+O
+gov.br
+está respaldado nas competências estabelecidas ao Ministério da
+Economia pelo Decreto nº 9.745, de 08 de abril de 2019 e do Decreto
+nº 10.072, de 18 de outubro de 2019, e posteriores alterações com
+a conversão da MP na Lei nº 13.844, de 18 de junho de 2019.
+Pelo
+Decreto 9.745, compete especificamente à Secretaria de Governo
+Digital (SGD):
+Art. 132. À Secretaria de
+Governo Digital compete:
+-
+	prestar apoio à governança de tecnologia da informação e
+	comunicação no âmbito da administração pública federal direta,
+	autárquica e fundacional;
+-
+	ofertar plataformas e serviços compartilhados de tecnologia da
+	informação e comunicação e governo digital, no âmbito da
+	administração pública federal direta, autárquica e fundacional;
+-
+	apoiar ações de fomento a segurança da informação e proteção
+	a dados pessoais no âmbito da administração pública federal, em
+	articulação com os órgãos responsáveis por essas políticas;
+-
+	buscar novas tecnologias que aprimorem as ações finalísticas dos
+	órgãos e das entidades da administração pública federal direta,
+	autárquica e fundacional;
+-
+	promover a prospecção, o desenho e as melhorias de arquiteturas,
+	metodologias, processos, aplicações, plataformas e bases
+	tecnológicas a serem adotadas pelos órgãos integrantes do Sisp;
+-
+	definir diretrizes, estabelecer normas e coordenar projetos, no
+	âmbito dos órgãos e das entidades da administração pública
+	federal direta, autárquica e fundacional, em articulação com a
+	Secretaria Especial de Modernização do Estado da Secretaria Geral
+	da Presidência da República, nos seguintes temas:
+simplificação
+	de serviços e políticas públicas;
+transformação
+	digital de serviços públicos;
+governança
+	e compartilhamento de dados; e
+utilização
+	de canais digitais;
+-
+	editar a Estratégia de Governança Digital da administração
+	pública federal;
+-
+	apoiar a elaboração e acompanhar a execução do orçamento de
+	tecnologia da informação e comunicação no âmbito do Sisp, em
+	articulação com a Secretaria de Orçamento Federal, e propor ações
+	para o aumento da eficiência do gasto público com tecnologia da
+	informação e comunicação;
+O tratamento dos
+dados pessoais pelo
+gov.br
+encontra respaldo na Lei Federal nº 13.709, de 14 de agosto de 2018
+(Lei de Proteção de Dados Pessoais - LGPD) em sua base legal
+Políticas Públicas - art. 7º, III.
+Art. 7º O tratamento de
+dados pessoais somente poderá ser realizado nas seguintes hipóteses:
+III - pela administração
+pública, para o tratamento e uso compartilhado de dados necessários
+à execução de políticas públicas previstas em leis e
+regulamentos ou respaldadas em contratos, convênios ou instrumentos
+congêneres, observadas as disposições do Capítulo IV desta Lei;
+Quais dados pessoais
+	são tratados pelo serviço?
+A
+utilização, pelo cidadão, das funcionalidades do serviço
+dependerá, no mínimo, do tratamento dos seguintes dados pessoais
+abaixo, além de outros que sejam disponibilizados em documentos
+oficiais conforme apresentado nos itens 15 e 16 desta Política de
+Privacidade.
+Dados
+biográficos e biométricos de identificação pessoal
+Número
+		de inscrição no CPF;
+Nome
+		completo;
+E-mail;
+Telefone;
+Endereço;
+Foto
+digital da face;
+Data
+		de nascimento;
+Nome
+		da m
+ã
+e.
+Com
+exceção da
+foto
+digital da face
+,
+que será armazenada, não serão coletados outros dados pessoais
+sensíveis do cidadão, assim entendidos aqueles definidos no artigo
+5º, inciso II, da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral
+de Proteção de Dados - LGPD). Logo não haverá coleta de:
+Dados
+		que revelem a origem racial ou étnica, as opiniões políticas, as
+		convicções religiosas, a filiação sindical ou organização de
+		caráter religioso, filosófico ou político;
+Dados
+		genéticos;
+Dados
+		relativos à saúde;
+Dados
+		relativos à vida sexual;
+Dados
+		relacionados a condenações penais ou a infrações ou com medidas
+		de segurança conexas.
+Os dados
+pessoais do cidadão serão armazenados durante o período desejado
+pelo cidadão
+,
+pois este detém a liberdade de removê-los da base de dados,
+mediante solicitação à Encarregada de Dados Pessoais do Ministério
+da Economia a qualquer tempo,
+conforme o disposto no inciso I do artigo 15 da Lei 13.709, de 14 de
+agosto de 2018 (Lei Geral de Proteção de Dados – LGPD).
+Como os dados são coletados?
+Os dados
+tratados são obtidos de acordo com o disposto na tabela abaixo.
+Dados
+Forma de obtenção
+Número
+			de inscrição no CPF, Nome completo, Nome da m
+ã
+e
+			e Data de nascimento
+Base de dados da Receita
+			Federal do Brasil
+Telefone, Endereço e
+			E-mail
+Titular de dados pessoais
+Foto digital
+da
+			face
+Capturada pelo aplicativo
+			para realizar a validação biométrica facial
+com a base
+			ICN do Tribunal Superior Eleitoral (TSE) ou com a base de dados da
+			Senatran
+Cadastro de Pessoa Física
+			- CPF
+Base de dados da Receita
+			Federal do Brasil
+Carteira Nacional de
+			Habilitação - CNH
+Base de dados da Senatran
+Para que fins utilizamos os seus dados
+	pessoais?
+Os dados
+pessoais são tratados de acordo com as finalidades expostas no
+quadro abaixo.
+Dados
+Finalidade
+Dados biográficos e
+			biométricos de identificação pessoal
+Autenticar e identificar de
+			forma segura o cidadão que utilizará os serviços públicos,
+			permitindo acesso a recursos exclusivos para cidadãos
+			autenticados e reduzir o risco de fraudes. O aplicativo
+gov.br
+utiliza o serviço acesso.gov.br para autenticar o cidadão que
+			utiliza o aplicativo. Para mais informações, acessar o Termo de
+			Uso do
+acesso.gov.br
+em:
+http://faq-loginunico.servicos.gov.br/en/latest/_perguntasdafaq/termodeusoeprivacidade.html
+Documentos digitais
+Fornecer o acesso a esses
+			documentos em uma carteira de documentos digitais, com a
+			finalidade de facilitar o acesso e agregar, em um só lugar, todos
+			os documentos digitais do cidadão.
+Foto
+Permitir
+			que o aplicativo faça validação biométrica, fornecendo assim
+			mais confiabilidade e segurança. A foto coletada pelo aplicativo
+é
+armazenada e processada pelo operador SERPRO (Serviço Federal de
+			Processamento de Dados), exclusivamente, para possibilitar
+			identificação única e segura cujo objetivo é a prevenção à
+			fraude e à segurança do cidadão, conforme preconizado no Art.
+			11, II, alínea "g" da Lei 13.709. O serviço
+acesso.gov.br
+utiliza a validação facial do aplicativo
+gov.br
+para permitir que o cidadão crie, recupere e qualifique a conta
+			(obtenção do selo de confiança). O INSS utiliza a validação
+			biométrica em seus serviços para realizar a prova de vida do
+			cidadão
+O
+tratamento de dados pessoais para finalidades não previstas nesta
+Política de Privacidade somente ocorrerá mediante comunicação e
+autorização prévia do cidadão, de modo que os direitos e
+obrigações aqui previstos permanecem aplicáveis.
+Os dados pessoais utilizados no serviço são
+	compartilhados?
+Os dados
+pessoais de identificação do cidadão são compartilhados entre o
+acesso.gov.br
+e o aplicativo
+gov.br
+,
+para que o cidadão seja identificado no aplicativo
+gov.br
+por meio de sua conta única.
+Os
+documentos que venham a compor a carteira digital de cada cidadão
+serão compartilhados por seus respectivos órgãos de origem, a
+exemplo: CPF compartilhado pela Receita Federal do Brasil
+,
+Carteira
+Nacional de Habilitação (CNH) compartilhada pela Secretaria
+Nacional de Trânsito (Senatran).
+O
+compartilhamento dos dados pessoais utilizados no
+gov.br
+também tem respaldo no Decreto nº 10.046, de 9 de outubro de 2019,
+que dispõe sobre a governança no compartilhamento de dados no
+âmbito da administração pública federal e institui o Cadastro
+Base do Cidadão e o Comitê Central de Governança de Dados.
+Além
+disso, existe a possibilidade de
+compartilhamento,
+a depende da base legal utilizada pelo terceiro, de
+dados
+pessoais pelo próprio cidadão quando
+,
+de
+sua própria e livre vontade
+,
+aceitar que seus dados pessoais sejam compartilhados com terceiros
+via facilidade disponível no
+gov.br
+.
+Tal compartilhamento pessoal poderá ser revogado a qualquer tempo
+pelo próprio cidadão.
+Todas as bases
+utilizadas estão sob o domínio do Serpro, operador responsável
+pelo tratamento dos dados do
+gov.br
+.
+Segurança no
+	tratamento dos dados pessoais do cidadão
+O
+gov.br
+se compromete a aplicar as medidas de segurança aptas a proteger os
+dados pessoais de acessos não autorizados e de situações de
+destruição, perda, alteração, comunicação ou difusão de tais
+dados de forma indevida. Com o objetivo de prevenir fraudes e
+possíveis vulnerabilidades, as funcionalidades fornecidas são
+testadas e as falhas encontradas são corrigidas à medida que são
+identificadas. Além disso, as vulnerabilidades das tecnologias
+utilizadas também são corrigidas à medida que são reportadas.
+Para
+garantir a segurança, serão adotadas soluções que levem em
+consideração: as técnicas e a tecnologia adequadas
+,
+a
+natureza, o âmbito, o contexto e as finalidades do tratamento
+,
+a
+criticidade e sensibilidade dos dados tratados
+e
+os riscos para os direitos e liberdades do cidadão.
+O
+gov.br
+utiliza criptografia para que os dados sejam transmitidos de forma
+segura e confidencial, de maneira que a transmissão dos dados entre
+o servidor e o cidadão ocorra de maneira totalmente cifrada ou
+encriptada.
+No
+entanto, ressalta-se que o
+gov.br
+se exime de responsabilidade por culpa exclusiva de terceiros, como
+em caso de ataque de hackers ao dispositivo do cidadão, ou culpa
+exclusiva do cidadão, como no caso em que ele mesmo transfere seus
+dados a terceiro.
+O
+gov.br
+se compromete, ainda, a comunicar o cidadão em prazo adequado caso
+ocorra algum tipo de violação da segurança de seus dados pessoais
+que possa lhe causar um alto risco para seus direitos e liberdades
+pessoais, conforme previsto na Lei Geral de Proteção de Dados
+Pessoais - LGPD.
+Cookies
+Os
+cookies são arquivos de texto enviados pelos sites que contêm
+informações para fazer com que o serviço disponibilizado funcione
+de forma correta ou traga informações a fim de melhorar a
+qualidade, dividindo-se em duas categorias, nesta Política de
+Privacidade: necessária e desempenho.
+Categoria:
+necessária
+Ajudam a
+tornar um site utilizável, permitindo funções básicas como
+navegação de página e acesso a áreas seguras do site.
+O
+site pode não funcionar corretamente sem esses cookies e por isso
+não podem ser desabilitados.
+Domínio:
+sso.acesso.gov.br
+Proprietário:
+SERPRO
+Tempo
+de
+vida: sessão do navegador
+Session_Gov_Br_Prod:
+identificar a sessão sem armazenar dados sensíveis do cidadão
+INGRESSCOOKIE:
+registrar qual grupo de servidores é disponibilizado que em contexto
+com balanceamento de carga otimizando a experiência do cidadão.
+Domínio:
+contas.acesso.gov.br
+Proprietário:
+SERPRO
+Tempo de
+vida: sessão do navegador
+Session:
+armazenar a sessão do cidadão com tempo de expiração
+Session-Attr*: conter informações criptografadas do acesso
+XSRF-TOKEN: impedir ataques de solicitação falsa entre sites
+Domínio:
+consentimento.acesso.gov.br
+Proprietário:
+SERPRO
+Tempo de
+vida: sessão do navegador
+Session:
+armazenar a sessão do cidadão com tempo de expiração
+Session-Attr*: conter informações criptografadas do acesso
+XSRF-TOKEN; impedir ataques de solicitação falsa entre sites
+Domínio:
+confiabilidades.acesso.gov.br
+Proprietário:
+SERPRO
+Tempo de
+vida: sessão do navegador
+Reliabilities-Session:
+armazenar a sessão do cidadão com tempo de expiração
+Reliabilities-Session-Attr*: conter informações criptografadas do
+acesso XSRF-TOKEN: impedir ataques de solicitação falsa entre sites
+Domínio:
+empresas.acesso.gov.br
+Proprietário:
+SERPRO
+Tempo de
+vida: sessão do navegador
+Sid-Govbr-Emp:
+conter o XSRF criptografado do lado do cidadão
+Tempo
+de vida: 1 hora
+Govbr-Emp-SessionSession:
+armazenar a sessão do cidadão com tempo de expiração
+Govbr-Emp-SessionU-Ssn: conter informações criptografadas do acesso
+Govbr-Emp-SessionXsrf:
+conter o XSRF criptografado no servidor
+Domínio:
+gestao.acesso.gov.br
+Proprietário:
+SERPRO
+Tempo de
+vida: sessão do navegador
+Sid-Govbr-Gestao:
+conter o XSRF criptografado do lado do cidadão
+Tempo de
+vida: 1 hora
+Ges_Prod_Session:
+armazenar a sessão do cidadão com tempo de expiração
+Ges_Prod_U-Ssn: conter informações criptografadas do acesso
+Ges_Prod_Xsrf:
+conter o XSRF criptografado do lado do servidor
+Categoria: desempenho
+Ajudam a
+melhorar o site ao analisar o modo como o cidadão utiliza os
+recursos disponibilizados. Esses cookies são desabilitados por
+padrão, mas podem ser habilitados pelo cidadão de livre e
+espontânea vontade.
+As
+informações que envolvam dados pessoais como IP serão
+anonimizadas quando de sua transferência
+ao Google.
+Domínio:
+acesso.gov.br
+Proprietário:
+Google
+Inc.
+Tempo de
+vida: 2 anos
+_ga:
+registra um ID único que é usado para gerar dados estatísticos
+sobre como o visitante usa o site.
+_ga_#:
+usado pelo
+Google
+Analytics
+para coletar dados sobre o número de vezes que um usuário visitou o
+site, bem como as datas da primeira e a visita mais recente.
+Tempo de
+vida: 1 dia
+_gat:
+usado pelo
+Google
+Analytics
+para controlar a taxa de solicitação.
+_gid:
+registra um ID único que é usado para gerar dados estatísticos
+sobre como o visitante usa o site.
+A quem pertence
+	os direitos autorais e a propriedade intelectual?
+O uso
+comercial das expressões, como marca, nome empresarial ou nome de
+domínio, além dos conteúdos das telas do Portal, assim como os
+programas, bancos de dados, redes, arquivos que permitem que o
+cidadão acesse sua conta são de propriedade da União e estão
+protegidos pelas leis e tratados internacionais de direito autoral,
+marcas, patentes, modelos e desenhos industriais.
+Ao
+acessar o
+gov.br
+,
+o cidadão declara que irá respeitar todos os direitos de
+propriedade intelectual e os decorrentes da proteção de marcas,
+patentes e/ou desenhos industriais, depositados ou registrados em
+nome da União, bem como todos os direitos referentes a terceiros que
+porventura estejam, ou estiverem de alguma forma, disponíveis no
+gov.br
+.
+O simples acesso não confere quaisquer direitos ao uso dos nomes,
+títulos, palavras, frases, marcas, patentes, imagens, dados e
+informações, dentre outras, que nele estejam ou estiverem
+disponíveis.
+A
+reprodução de conteúdo descritos anteriormente está proibida,
+salvo com prévia autorização por escrito da União ou caso se
+destinem ao uso exclusivamente pessoal e sem que em nenhuma
+circunstância os visitantes e cidadãos adquiram qualquer direito
+sobre eles.
+É vedada a utilização do
+gov.br
+para finalidades comerciais, publicitárias ou qualquer outra que
+contrarie a finalidade para a qual foi concebido, conforme definido
+neste documento, sob pena de sujeição às sanções cabíveis na
+Lei nº 9.610/1998, que protege os direitos autorais no Brasil.
+O cidadão assume toda e
+qualquer responsabilidade, de caráter civil e/ou criminal, pela
+utilização indevida das informações, textos, gráficos, marcas,
+imagens, enfim, todo e qualquer direito de propriedade intelectual ou
+industrial.
+4

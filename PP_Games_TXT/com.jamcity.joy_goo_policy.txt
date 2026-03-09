@@ -1,0 +1,126 @@
+WEMADE PLAY
+COMPANY
+GAMES
+SUPPORT
+한국어로 보기
+COMPANY
+GAMES
+SUPPORT
+한국어로 보기
+Privacy Policy
+English
+|
+Français
+|
+Deutsch
+|
+Español
+|
+Português
+|
+Pусский
+|
+日本語
+|
+中文
+|
+繁體中文
+Terms of Service
+|
+Privacy Policy
+|
+Service Policy
+Privacy Policy
+Effective Date: 02. 11. 2022
+This privacy policy applies to services provided by Wemade Play and contains the following information. This privacy policy will describe how Wemade Play collects and uses the personal information of users and what actions Wemade Play takes to protect personal information. Users may withdraw consent at any time if they do not want their personal information collected, used, provided, or destroyed. However, if users withdraw, they may be unable to use all or part of the service. Also, the information collected is the minimum information required to provide the service.
+1. Collection of Information
+2. Use of Information Collected
+3. Shared Information
+4. Information Security
+5. Updating and Deleting Information
+6. Cooperation with Regulations and Regulatory Agencies
+7. Privacy Policy Applicability & Changes
+8. California Privacy Rights
+9. Help Center
+1. Collection of Information
+Wemade Play collects various data to provide better services to users, including basic information such as users' mobile devices and records of service use and, more specifically, information is collected as follows.
+Information from platform provider.
+To optimize the service, Wemade Play receives the user's member numbers, and/or social media account, nickname, profile, and friend information used in the platform provider's service from the platform provider (
+www.Facebook.com
+, etc.) or appstore provider when the user downloads the application and uses the service.
+Information collected when you use the service.
+Information on service usage methods, including the device used, service usage time, usage records, type and price of content purchased, and event participation may be collected during service use. This includes the following data.
+-
+Device information:
+Mobile device model and operating system version, device identifier (universally unique identifier), locale information, mobile network information (excluding cell phone number) and other device data.
+-
+Log information:
+Time connected to the service, Internet Protocol addresses, and service usage records are automatically collected when the service is used.
+-
+Purchase information
+: If the user purchases content via in-app purchases through Apple or Google, the content purchase time, content type, price, settlement currency, payment method, and order number are automatically recorded.
+-
+Local storage:
+Mechanisms such as the application data cache are used to collect data and save it locally on the user's device.
+If the user does not register as a member on the platform provider or does not use a social media account for the service but rather uses a guest account to access the service, Wemade Play cannot identify the user solely through data collected while using the service and can only identify users with an account on the platform provider's service or a social media account.
+2. Use of Information Collected
+Wemade Play uses information provided by the platform provider or collected or recorded while using the service for the purposes of service provision, maintenance, security, updates, and development and provision of new services. Data is also used to provide more relevant customized services (including advertisements) to users.
+Wemade Play may display on the service the user nicknames, profiles, and friend information provided by the platform provider and users may change the display of this information at any time by using the application's feature enabling users to change the display on the platform provider and/or social media website.
+If users make service-related inquiries via telephone or email, Wemade Play may keep records of communication with users to provide answers to those inquiries. Furthermore, Wemade Play may use user emails to provide users with information relevant to service usage. Moreover, Wemade Play may use information collected(excluding information of EEA user’s) or provided to update the service environment or quality for users, and Wemade Play automated system may analyze users' records of service usage and/or payments to provide individual users with valuable features such as targeted advertisements.
+If Wemade Play uses collected or provided user data for purposes other than those declared in the Privacy Policy, it will declare these purposes to users in advance and receive prior consent.
+Data collected or provided by Wemade Play is processed by Amazon Web Services (AWS region: Frankfurt, Germany and California, USA) with safety measures certified as appropriate in accordance with the EU-US Privacy Shield Framework, and user data may be processed at the other AWS region(Seoul, South Korea) to provide better service or implement the service contract to users.
+3. Shared Information
+Wemade Play does not share data with companies or people outside Wemade Play with the following exceptions. This data may be shared in the following cases.
+If the user agrees.
+Wemade Play may share data with companies or people other than Wemade Play with user consent. However, if such data must be shared, prior consent shall be obtained from users.
+When external processing is required.
+Wemade Play
+may entrust data processing to its partners or reliable companies in compliance with physical and technical frameworks that follow internal policies (self-regulatory frameworks). In such cases, Wemade Play bears all liability for the companies to which data processing is entrusted.
+If required by law.
+If Wemade Play deems it necessary to access, use, store, or publish information for the following purposes, Wemade Play will share information with external companies, organizations, or individuals.
+- If data is requested through legal proceedings, regulations, or relevant laws, or by an investigative or regulatory agency with legal power
+- If needed to detect, prevent, or resolve fraud, technical, or security problems
+- If needed to protect users or the public from elements threatening user or public rights, assets, or public safety
+Wemade Play may share anonymous data or data that does not allow users to be identified with its partners. Furthermore, if Wemade Play is subject to acquisition, merger, or sale of assets (collectively referred to as "M&A" below), it may transfer data to the company undertaking the M&A while maintaining the confidentiality of the information, and in such cases, it will notify users before user data is transferred to the company undertaking the M&A.
+4. Information Security
+Wemade Play information security management system has been certified safe and reliable by the Korean government and works to protect the data in Wemade Play possession from illegal access, modification, release, or deletion. In particular, Wemade Play periodically reviews the privacy lifecycle and continuously makes necessary updates by applying the latest technology to collect, store, and use personal data to ensure users can safely access the system. This includes using SSL (secure socket layer) and taking physical and technical protective measures to detect unauthorized access to the service system. Furthermore, access authority is limited to the minimum number of employees necessary according to internal policies (self-regulatory frameworks).
+5. Updating and Deleting Information
+Updating information provided by the platform provider.
+Users may request updates of their own data from the platform provider at any time while using the service. Users who are nationals of EU member nations may additionally request access, rectification, adaptation or alteration, transfer or movement of their data, and may restrict or oppose processing or profiling (collectively referred to as "processing", below).
+Wemade Play has no authority to process data provided to the platform provider by the user. Therefore, if users request processing of their own data provided to Wemade Play by the platform provider, Wemade Play will inform users that it has no authority to process user data and instruct them to request data processing from the platform provider and/or social media provider
+Updating information collected while using the service.
+Users may request updating or processing of their own data from Wemade Play while using the service (restricted to nationals of EU member nations) and, unless data must be kept for reasonable business purposes or legal purposes, Wemade Play will attempt to fulfill this processing request without delay. Furthermore, this requested user data processing will be provided free of charge so long as it does not require excessive effort to comply, and Wemade Play may request verification of user identity before updating or processing the data.
+However, the user request may be denied if it is unreasonably repeated, if it requires excessive technical effort to comply (e.g. if a new system must be developed or existing practices must be fundamentally changed), if the request impinges upon others' rights or freedoms, or if the request is extremely impractical. In such cases, the user may lodge an objection or file a civil complaint with the privacy protection agency in the user's country of residence in accordance with Wemade Play CS procedure for rejection of processing.
+Information Delete:
+Users may directly request the company to delete their personal information that were collected.
+(Click here for more information)
+However, to protect user data from accidental or malicious deletion and for maintenance and management of the service, copies of user data may not be immediately deleted from service servers even after a user deletes his or her data from the service. Furthermore, data may not be deleted from backup systems for a certain period of time to comply with laws in the user's country of residence and/or the country of Wemade Play business jurisdiction. In such cases, this data will be deleted without delay once the storage period required by relevant laws has elapsed.
+6. Cooperation with Regulations and Regulatory Agencies
+Wemade Play periodically reviews compliance with its Privacy Policy in accordance with internal policies (self-regulatory frameworks) and strives to protect user data by applying the latest technology. It complies with several regulatory frameworks including EU and American privacy shield frameworks.
+Should a complaint be raised through Wemade Play user CS procedure, the user will be contacted and further steps taken. Users from EU member nations may also request details regarding execution of the Privacy Policy from the representative listed below. Furthermore, should Wemade Play be unable to resolve any issue related to processing of user data with the user directly, it will cooperate with the privacy protection authority of the country of jurisdiction to resolve this problem.
+[EU Representative]
+- Representative : v. Keussler Consulting GbR, partnership
+- Address : Schepp Allee 47, 64295 Darmstadt, Germany
+- Phone : +49 6151 39177-0
+- E-mail : datenschutz@keussler.com
+7. Privacy Policy Applicability & Changes
+The Privacy Policy does not apply to other sites (including advertisements) linked to the service or sites that may be included in the service.
+Furthermore, the Privacy Policy is subject to occasional change. If changes are made to the Privacy Policy, these changes will be announced to users beforehand, and if these changes are significant, they will be announced via email or push notifications etc.
+8. California Privacy Rights
+California Residents’ Rights : If you are a California resident, you may have certain additional privacy rights. California consumers have a right to knowledge, access, and deletion of their personal information under the California Consumer Privacy Act(CCPA). California consumers also have a right to opt out of the sale of their personal information by a business and a right not to be discriminated against for exercising one of their California privacy rights. We do not sell your personal information and does not discriminate in response to privacy rights requests. Visit our Your
+California Privacy Rights
+page for more information.
+9. Help Center
+Wemade Play does its utmost to protect and safeguard user data. If you have any questions about our Privacy Policy or use of user data or would like to know more, please contact our Help Center indicated below.
+[Help Center]
+- Address: 9F Bundang Square Bldg, 42 Hwangsaeul-ro 360 beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
+- Phone: +82-2-1800-6855
+- Email: helpcenter@wemadeplay.com
+Back To Top
+partnership@sundaytoz.com
+Terms of Service
+|
+Privacy Policy
+|
+Service Policy
+© Wemade Play Corp.

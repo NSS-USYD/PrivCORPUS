@@ -1,0 +1,93 @@
+Mini Muffin
+Toggle navigation
+About Us
+Contact
+Privacy Policy
+This is Mini Muffin's Privacy Policy.
+Overview
+We care about protecting your privacy. Your privacy is taken very seriously and therefore we aim to comply with all privacy regulations worldwide especially with the Childrenâ€™s Online Privacy Protection Act (COPPA). This Privacy Policy describes the information collected by Mini Muffin through mobile applications and how we use that information.
+Our apps are developed for iOS and Android. We publish them on App Store and Google Play. Apps and data collected differ from one platform to another. Therefore this privacy policy is described in two parts - one for iOS and App Store and the other for Android and Google Play.
+iOS - App Store
+Our apps published on App Store are free, contain no ads and do not use any third-party analytics. Therefore we do not collect any user information from apps on iOS.
+Android - Google Play
+Apps we publish on Google Play are free and contain ads.
+We donâ€™t collect any personal information. But some Non-personally identifiable information may be gathered while you use our apps. Non-personally identifiable information is general, non-identifiable and anonymous information that is gathered for analytical purposes such as the improvement of our apps.
+To achieve the best experience in our apps, we work with third party service providers. We also work with ad networks AdMob (Google) and Unity Ads (Unity) to serve ads in our apps. These networks are restricted from tracking users and serving behavioral ads.
+Additionally, these networks are part of the Google Play certified ad network program. For more information about this program please visit the Google Play website:
+https://play.google.com/about/monetization-ads/ad-network/
+These ad networks also participate in the Family Ads program, which validates ads safe for kids.
+https://support.google.com/googleplay/android-developer/answer/9283445?hl=en
+Our third party partners, and their privacy policies are as follows:
+Firebase:
+https://www.firebase.com/terms/privacy-policy.html
+AdMob (Google) Privacy Policy:
+https://policies.google.com/privacy?hl=en
+Unity Ads (Unity) Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+Our apps are built with Unity and use the Unity In-App Purchases service which requires Unity Analytics to run. Unity Analytics does not share user data.
+Unity Analytics Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+We use Firebase analytics to track installs, in-app purchases and the number of ads watched. Firebase does not collect any personal information in order to provide us with this information.
+Firebase Privacy Policy:
+https://firebase.google.com/support/privacy
+Ad networks
+Ad networks in our apps include:
+Admob (Google)
+Privacy Policy:
+https://policies.google.com/privacy?hl=en
+Unity Ads
+Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+Our third-pary data controllers and processors
+AdMob by Google (Google Inc.)
+AdMob is a mobile advertising platform which allows developers to monetize their apps by displaying in-app ads from other advertisers. AdMob supports configuration of TFUA (Tag for Users under the Age of Consent in Europe) flag on ad requests. All ad requests that include TFUA flag disable ads personalization for users under the age of consent and collection of data by third party partners. Admob uses Personal and Non-Personal Data only for internal purposes.
+Legal foundation for data processing: legitimate interests (support for internal operations).
+Place of processing: US
+Privacy Policy:
+https://policies.google.com/privacy?hl=en
+Address: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+Contact:
+https://support.google.com/policies/troubleshooter/7575787?visit_id=636888632405295138-51672301&hl=en&rd=2
+Unity Technologies ApS
+Unity Ads is an advertising service provided by Unity Technologies ApS. Unity Ads uses Personal and Non-Personal Data only for internal purposes.
+Legal foundation for data processing: legitimate interests (support for internal operations).
+Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+Address: Unity Technologies Finland OY, Kaivokatu 8 B, 00100 Helsinki, Finland
+Contact:
+[email protected]
+Unity Analytics (Unity Technologies)
+Unity Analytics is a data platform that provides analytics. Unity Analytics uses Personal and Non-Personal Data only for internal purposes.
+Legal foundation for data processing: legitimate interests (support for internal operations).
+Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+Address: 30 3rd Street, San Francisco, CA 94103, United States
+Contact:
+[email protected]
+Firebase by Google (Google Inc.)
+Firebase is a mobile analytics tool which allows developers to analyze retention. Firebase uses Personal and Non-Personal Data only for internal purposes.
+Legal foundation for data processing: legitimate interests (support for internal operations).
+Place of processing: US
+Privacy Policy:
+https://policies.google.com/privacy?hl=en
+Address: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+Contact:
+https://firebase.google.com/support/troubleshooter/contact/
+Advertising
+When you use our Apps we may display contextual advertisements to you. In order to enable advertising we allow our advertising partners to collect online identifiers (such as Advertising ID on Android) that might be considered as personal information under some legislations, but they should use it solely for the purposes of contextual advertising. For any other purposes they should use the information solely on anonymized and aggregated basis.
+Children's privacy
+Our content is family friendly, however we have decided to voluntarily implement higher child protection standards such as age-verification mechanism. We do not knowingly collect personal information from children under 13 other than persistent identifiers as described below. If we learn that we have collected personal information of a child under the age of 13, we will proceed to delete the information as soon as possible. Please contact us, if you become aware that your child has provided us with personal information without your consent.
+The only personal information we collect from users who have identified themselves as below the age of 13 are persistent identifiers (such as device ID, advertising ID, IP address). Such persistent identifiers are used and shared with third parties solely for providing support for the internal operations meaning to place contextual advertisement, to analyze the functioning of the apps, to prevent fraudulent activity, to ensure legal or regulatory compliance.
+When using the persistent identifiers we will not display behavioral advertising to users under the age of 13, nor do any user tracking or profiling. Additionally, we only work with advertising partners that adhere to the same standards for the collection, usage and disclosure of childrenâ€™s personal information as we do. However, we can not be responsible if they breach the commitments they gave to us regarding the collection of information. In case of such breaches you agree that our liability is limited to the amounts we are able to receive as indemnification for the breaches from our advertising partner.
+Links
+Our website or services may include links to third parties. Including a link to third parties doesnâ€™t mean that Mini Muffin endorses them. We are not responsible for these companies, therefore be sure to check their privacy policies if you decide to visit them. All links in our apps are protected with Age Verification window, that insures your children are safe and can not open links without parentâ€™s approval.
+Changes to this Privacy Policy
+We may change or update the Privacy Policy from time to time when we add new or different features, or as the law changes. Thus, you are advised to review this page frequently for any changes. If you donâ€™t agree with this Privacy Policy you should not use Mini Muffinâ€™s services.
+Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please send us an email at
+[email protected]
+Our Privacy Policy was last updated on October 8th, 2020.
+Contact us:
+[email protected]
+Mini Muffin Â© 2022 Read our
+Privacy Policy

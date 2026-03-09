@@ -1,0 +1,33 @@
+Privacy Policy
+Private Notepad
+Main
+License Agreement
+Private Notepad Privacy Policy
+Last updated: April 25, 2022
+This privacy policy is designed to provide transparency to your use of the Private Notepad application for Android devices. This application allows you to write and manage notes.
+User provided information
+If you request information or technical support, your personal data (such as your email address) is used only to respond to specific inquiry. The other information such as application version, device and Android version is required only for the application improving.
+Information gathering and usage
+Private Notepad also collects aggregated, anonymous user data regarding app usage. The user data we collect is used to improve Private Notepad and the quality of our service. This may include the device's Internet Protocol (IP) address, locale preferences, identification numbers associated with your devices, your mobile carrier, date and time stamps, system configuration information, and other interactions with the application.
+Your data
+Your data can be synchronized with your Private Notepad cloud account. This cloud storage is based on Google Firestore. Your data is always stored in encrypted form. The encryption algorithm is AES. We will never share your personal data (including your account email, your notes and any other information) with a 3rd party without your prior authorization, and we will never sell data to 3rd parties. All data and information transmitted between client devices and the cloud is secured by SSL protocol. Note that your free cloud account may be deleted with all the data after three (3) years of inactivity.
+Private Notepad prior to 5.0.0 version uploads user's data to Google Drive. The data is uploaded to Google Drive through Google Play Services and is stored in a private folder which can be accessed only by the Private Notepad application.
+Advertising
+Private Notepad may display ads, which may lead you to some external website. We are not responsible for the content of the external website.
+To display the personalized ads Private Notepad may use your advertising ID from the device on which it is installed, device's IP address, cookie files and information about the clicks on ads. Users can reset their advertising ID or opt out of interest-based ads at any time from the Google Settings app. Their preferences apply across all ad companies that use the advertising ID.
+Ads won't be displayed after purchasing Private Notepad Premium.
+Required permissions
+Private Notepad app requires the following permissions:
+Camera: required for taking pictures of intruders
+Contacts: required to authenticate access to your Google Drive due to synchronization purposes
+Storage: required for the data backup / restore purposes
+Network access, Internet and View network connections: required for synchronization with cloud servers and for the ads loading
+Google Play billing service: required for purchasing Premium version
+Fingerprint hardware: required for the fingerprint access
+Prevent phone from sleeping: required for disabling the sleep mode in some situations
+Control vibration: required for enabling vibration
+Run at startup: required for updating reminders after the phone is restart
+Policy changes
+This privacy policy may be updated from time to time for any reason. We will notify you of any changes to Private Notepad Privacy Policy by posting the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes.
+If you have any questions about Private Notepad Privacy Policy please contact us via email at
+support@privatenotepad.com

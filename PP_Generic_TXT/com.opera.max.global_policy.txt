@@ -1,0 +1,24 @@
+Privacy Policy
+Max Service Description and Privacy Policy
+Samsung's proxy servers fetch and compress or optimize HTTP and HTTPS web content requested by your applications (including videos), then deliver the smaller-sized content package back to your device. The servers log the URLs of these requests, not the content. We also log your IP address, details about your device's make and model, and a randomly generated identifier associated with your instance of Max Service. We use this data to debug and improve our services and may store our server logs for up to six months.
+The Max Service app may log how you use your device, including unique identifiers, information about the software you've installed, device characteristics, information about your location and mobile carrier, the type of network you use to access web content, how much data you use, and the URLs you visit. We use this data to debug the Max Service app and to improve the user experience. We anonymize and/or aggregate this data and may allow our business partners access to it.
+This app contains a unique ID that is linked to your device. We use this ID to auto-update your app and any extensions. We may also use this ID to collect information about the features you use and how often you use the app. We aggregate and anonymize this data to debug and improve the app and our services, and measure marketing campaigns.
+If your Max Service app crashes, we collect a log that includes some information about the version of your app, your operating system, the device you use and some memory data. We collect this data with the sole purpose of improving our products and services.
+For More General Information on Samsungâ€™s Privacy Policies please visit this page here:
+https://account.samsung.com/membership/pp
+Third Party Components in Max Service:
+We use Google Analytics in our apps to measure usage and marketing campaigns. You can find more information about Google's privacy policies and how to opt-out at
+https://www.google.com/policies/privacy
+.
+We use Facebook Audience Network mobile advertising network to serve mobile advertising to Samsung Max users. You can find more information about Facebook's privacy policies at
+https://www.facebook.com/policy.php
+. 
+You can adjust Facebook's advertising settings at
+https://www.facebook.com/about/ads
+.
+We use Googleâ€™s Admob mobile advertising network to serve mobile advertising to Samsung Max users. You can find more information about Googleâ€™s privacy policied at:
+https://www.google.com/policies/technologies/ads/
+.
+You can adjust Googleâ€™s advertising settings at:
+https://adssettings.google.com/authenticated
+[15/12/2017]

@@ -1,0 +1,60 @@
+Privacy Policy
+About
+Team
+Contribute
+Community
+Blog
+Documentation
+Download
+Support Forum
+About
+Team
+Contribute
+Community
+Blog
+Documentation
+Download
+Support Forum
+© 2023 K9-Mail
+Privacy Policy
+K-9 Mail is an email client for Android that uses the user's email provider to send and
+      retrieve messages. The app requests the following privacy-relevant Android permissions:
+Read/modify your Contacts
+The names and email addresses in the user's address book (contacts) are used to provide
+      suggestions and auto-complete recipients when composing a message.
+For more information on the permissions K-9 Mail requires see:
+Permissions
+.
+Sensitive user information is only used to perform the basic functionality of the app,
+      sending and receiving email. K-9 Mail does not automatically collect and send data to the developers of the app or
+      any third party. Sensitive information is also not included in application logs unless this is enabled by the
+      user.
+K-9 Mail's use and transfer to any other app of information received from Google APIs
+      will adhere to
+Google API Services User Data Policy
+,
+      including the Limited Use requirements.
+Please note that Google APIs will only be used in case a Google/Gmail account is added to K-9 Mail.
+K-9 Mail
+Documentation
+Overview
+Contribute
+Users
+Developers
+Documentation
+Donate
+Download
+Play Store
+F-Droid
+GitHub
+Amazon
+Information
+About
+Team
+Contribute
+Community
+Social
+© 2023 K-9
+                    Mail
+|
+Privacy Policy

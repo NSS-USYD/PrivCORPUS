@@ -1,0 +1,70 @@
+Launcher iOS 15 - Privacy Policy
+Search this site
+Skip to main content
+Skip to navigation
+Launcher iOS 15 - Privacy Policy
+Launcher iOS 15
+Privacy Policy
+Privacy Policy for "iLauncher for Android" application
+Link download:
+https://play.google.com/store/apps/details?id=com.launcheros15.ilauncher
+Application Privacy Statement This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+WHAT PERSONAL INFORMATION DOES APPROIDS TECHNOLOGIES COLLECT?
+We do not collect any information from user and save it on our server or database.
+CAN CHILDREN USE THE APPLICATION?
+This Applications can be used by any one as it does not contain any nudity or spams.
+CHANGES TO THIS PRIVACY STATEMENT.
+We may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Site or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Application after such changes have been first posted.
+LINK TO PRIVACY POLICY OF THIRD PARTY SERVICE PROVIDERS USED BY THE APP:
+Google Play Services
+AdMob
+Firebase Analytics
+ironSource mobile ltd
+ADVERTISING:
+We use Admob, Facebook, IronSource as Ads Provider. Admob, Facebook, IronSource  may collect some information to improve your ads, show ads that relevant to you.
+ANALYTICS:
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+Google Analytics:
+Google Analytics is a analytics service offered by Google that tracks and reports user traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+SECURITY:
+The security of your data is very very important to us and we ensure your information we use in the applications will not be sent to anyone with internet, all your information are stored in your device storage.
+PERMISSIONS:
+- Permission android.permission.
+READ_CONTACTS
+only read favorite contacts for user quickly to dialer.
+- Permission android.permission.
+ACCESS_FINE_LOCATION
+,
+ACCESS_COARSE_LOCATION
+only listen location of device to weather forecast function.
+- Permission android.permission.
+READ_EXTERNAL_STORAGE
+only use for access device wallpaper to blur widget, folder, hot seat.
+- Permission android.permission.
+WRITE_EXTERNAL_STORAGE
+only use for save device wallpaper.
+- Permission android:name=android.permission.
+READ_CALENDAR
+to build Calendar widget.
+- Permission android.permission.
+BIND_NOTIFICATION_LISTENER_SERVICE
+only listen notifications to show for users.
+- Permission android.permission.
+BIND_ACCESSIBILITY_SERVICE
+to allow apps to draw on phone's lock screen and status bar.
+ACCESSIBILITY
+The application commits not to collect or share any user information about this accessibility right.
+Apps need accessibility permission for the following purposes:
+To use functions: go home, recent apps, go back, lock screen...
+Set up the lock screen and display the Control Center.
+Listen to the open application to use the "Animation App" function.
+CONTACT US:
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at
+bluesky.encode@gmail.com
+THANK YOU SO MUCH!
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

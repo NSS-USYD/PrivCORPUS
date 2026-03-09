@@ -1,0 +1,17 @@
+Home
+Search this site
+Skip to main content
+Skip to navigation
+Privacy policy
+Personal information
+Made this App with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address and location .  Also application is using Admob network to display ads. Application free to use and does not ask you to create login.
+Permission requests
+Following sensitive permissions are require to make application work properly:
+1. STORAGE access : to save/read files on storage (internal and external).
+2. Location Access (ACCESS_FINE_LOCATION  and
+ACCESS_COARSE_LOCATION
+) : This is required to open map and highlight  your current location. This is used when you calculate area using GPS. You can still access application without providing these permissions.
+Google Sites
+Report abuse
+Google Sites
+Report abuse

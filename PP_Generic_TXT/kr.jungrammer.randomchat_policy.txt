@@ -1,0 +1,46 @@
+Privacy Policy
+Privacy Policy
+This privacy policy is in compliance with the Telecommunications Privacy Act, Telecommunications Business Act, Act on Promotion of Information and Communications Network Utilization and Information Protection, etc. We adhere to the privacy regulations required by law for information and communication service providers and establish a privacy policy to protect the rights and interests of users ("members").
+[Purpose and Use of Personal Information Collection]
+gaga.chat, Gaga&Talk, stranger.chat (hereinafter referred to as "the Company") collects the minimum necessary information as mandatory or optional to acquire necessary information for the provision of various services, exchange services among members, and provide convenient and beneficial personalized information to our members.
+(Mandatory) Gender, IP address: Automatically collected upon membership registration.
+(Optional) Phone number: Added as a means of authentication to ensure safe usage by minors, in accordance with [Ministry of Gender Equality and Family Notice No. 2020â€“36]. The phone number is managed with strict security and encryption and is not used for any purpose other than the legal requirements.
+(Optional) Chat logs: Collected only when members use the chat feature. It is never shared or disclosed outside of [Provision and Sharing of Personal Information].
+[Items of Personal Information Collection and Retention/Usage Period]
+Personal information is destroyed when the purpose of its processing is achieved, and not used when the app is deleted. Members' personal information is retained by the Company as long as they receive services from the Company. However, if a member's personal information achieves its collection purpose or upon the member's withdrawal request or if the member's eligibility is limited or suspended due to reasons stated in the Company's terms and conditions, such personal information will be deleted by irreversible technical methods and will not be viewed or used for any purpose. However, if required by the provisions of the Commercial Law and other related laws, it will be retained for a certain period for the verification of rights and obligations related to transactions.
+Chat records: Stored for up to 3 months.
+Records on contract or withdrawal of subscription: 1 year.
+[Data Collection, Sharing, and Handling Procedures of the App]
+Collection and Use of Location Information
+The Company collects location information to enhance services and provide customized services to users, which is solely used for service improvement within the app. Location information is collected only with the explicit consent of the user and is used for the following purposes:
+To provide optimized services to users through location-based information.
+To provide customized services based on the user's location when specific features are executed.
+Location information is processed in a form that does not allow personal identification and is not disclosed under any circumstances.
+Users can withdraw their consent at any time, and upon withdrawal of consent, collected location information is immediately destroyed and no longer used or provided. The purpose and scope of the collection, use, and provision of location information are in accordance with this privacy policy.
+Shared Data
+Data logs of app crashes are shared for improving the appâ€™s information and performance.
+Collected Data
+Phone numbers are collected only for users in Korea as per [Ministry of Gender Equality and Family Notice No. 2020-36]. In-app messages are collected for a certain period for the app's functionality. Media files (photos, videos, audio) are collected for a certain period for the app's functionality. Device IDs unique to this app are collected for the app's functionality.
+Security Practices
+Data in transit is encrypted. Users can request data deletion using the app's withdrawal feature.
+Media Collection and Use
+The application includes features for users to upload images, videos, and audio messages for use as profile pictures or to share with other users.
+Image Collection: When uploading images for use as profile pictures or for sharing in chats, those images are collected and stored.
+Image Use: Uploaded images are used only as intended by the user. Images uploaded as profile pictures are displayed on the user's profile, and images shared in chats are shown to the message recipients.
+Video and Audio Message Collection: Video and audio messages sent for communication between users are collected and stored.
+Automatic Media Deletion: Profile images, shared images, videos, and audio messages are automatically deleted from servers within 2-3 days for privacy protection. Profile images are also automatically deleted upon user deletion or withdrawal.
+[Provision and Sharing of Personal Information]
+As a principle, the Company does not disclose members' personal information to unrelated companies or institutions outside of the service-related apps (random chat apps of the same company). However, personal information may be provided without consent in the following exceptional cases:
+If it is deemed necessary to disclose personal information for legal actions against individuals who violate the Company's terms of service or use the Company's services to cause harm to others or to public morals and order.
+When required by law or for investigative purposes, in accordance with the procedures and methods outlined in the law upon request from investigative authorities.
+[Access, Correction, and Withdrawal of Personal Information]
+Members can access, correct, or delete their personal information entered at the time of membership registration by selecting the "Withdrawal" menu. Furthermore, personal information collected for service provision (device identifier values) is immediately destroyed once the purpose of use has been achieved.
+[Management of Personal IDs and Passwords]
+The ID used by members, represented by the device identifier value, is intended for use by the member only. The Company is not responsible for any problems arising from the theft or use of the member's device identifier by others, in the absence of the Company's intent or negligence. Special care should be taken during log-on sessions to prevent the disclosure of personal information to others.
+[Personal Information Management Officer]
+The Company designates the following management officer in accordance with the personal information protection guidelines set by the Ministry of Information and Communication:
+Personal Information Management Officer: Administrator
+Email address: developer@strangerchat.io
+Announcement Date: November 18, 2017
+Effective Date: November 18, 2017
+í•œêµ­ì–´ ë²„ì „ ë³´ê¸°

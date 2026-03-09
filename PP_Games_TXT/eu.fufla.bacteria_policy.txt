@@ -1,0 +1,50 @@
+SIA FUFLA privacy policy
+SIA FUFLA privacy policy
+Updated: Jan 2022
+This Privacy Policy (“Policy”) describes the ways SIA Fufla (“Fufla”, “us”, “our” or “we”) collect, store, use, and manage the information, including personal information, and data that you (hereinafter referred as “you” or “user(s)”) provide or we collect in connection with our websites (the “Site”, “Sites”) or any SIA Fufla games (collectively, the “Service(s)”).
+We only collect and process personal data to such an extent that is necessary for our business operations and for providing and developing our mobile game applications and websites.
+We use your data to provide our Services, to communicate with you, to provide customer support, and for game development purposes. This helps us to understand our customers better and to create better experiences for you in the future. We also send some of your data to third parties when you choose to watch an advert in our games. These third parties may use it for marketing purposes, including targeted advertising. Working with advertising networks in this manner allows us to continue to offer our games to you free of charge.
+Typically, we collect your data when you first use our Services (i.e. when you install a mobile game application); when you play the game (e.g. in-game event analytics and personalized gameplay experiences); and when you interact directly with us (e.g. customer service correspondence).
+By using the Service, you are expressing your agreement to this Policy and the processing of your information and data, including your personal information, in the manner provided in this Policy.
+If you have questions about our Privacy Policy, please contact us at privacy@fufla.eu
+What personal data do we collect, and why do we collect it?
+SERVICE PROVISION
+your IDFV (device identifier for vendors). This is an internal identifier used to save game progress and to sync your specific Game with your device. This identifier is not shared with third parties, and can not be attributed to you outside of SIA Fufla.
+your IDFA (device identifier for advertisers). This can be matched to you and is used for marketing. It is shared with third parties who may use it for personalized marketing. Allowing third parties to advertise in our games allows us to offer our Services to you for free.
+You can reset your IDFA in your mobile device’s Settings. Resetting your IDFA erases all data previously associated with it, meaning you will no longer receive personalized adverts.
+Personal Data That You Share with Us Directly
+You can also choose to connect to Facebook, Apple and Google Play services when you use our games. By connecting to Facebook or Google in the game you will be agreeing to their Terms and Conditions and Privacy Policy. When you connect to Facebook, we receive information such as your public profile and friends list if you allow. We can use this information to display your profile in the game. We receive your user ID number (like your Facebook ID number), which may be linked to other information like your name and profile photo, and your friends’ identifiers.
+Email address to set up your account if you choose this log in method
+When you use our Service, you may also have an option to modify a profile that other players can see. In your profile, you may be able to include information like a profile photo, player username.
+Details about your gameplay (like your game progression or rewards earned).
+When you play our games, you generate certain information, such as information about game sessions (words played, players won), progress in the game (e.g, level and achievements), items collected, collaborations, and other choices you make in the game (like the way you interact with certain features or pop-ups).
+Most of Fufla’s games store your game progress and encourage you to use social networks. If you play through a social network or connect to a social network (for example, Facebook), your social network friends who also play this game will see your name, photo, player profile (which may include the information described above in Information About You That You Share With Us Directly), and descriptions of your in-game activity (including any statistics from previously played games).
+In most Fufla’s games, other players, regardless of whether they are your social network friends, will be able to see your player profile (as described above); view descriptions of your in-game activity; communicate with you within our Services, and send you game requests or friend requests through our Services or the related social network.
+THIRD PARTIES
+Our Services may contain third-party tracking and data collection and analytics tools from our service providers, examples of which include Unity, OneSignal, Facebook, Ironsrcs, and Google Play. Such third parties may use cookies, APIs, and SDKs in our Services to enable them to collect and analyze user and device-related data and information on our behalf.
+Our Services use built-in advertising run by third-party advertising networks that you can choose to initiate to enhance the in-game experience. Such advertisements allow us to offer you our Services for free.
+When you view an advert in the game, the advertising network receives and processes your unique Identification for Advertising (IDFA). Advertising networks use this to send you advertising. A list of the advertising networks we typically work with is below.
+AppLovin
+Admob
+Facebook Audience Network
+Ironsource
+Unity Ads
+To better understand how you use our websites (listed below), we collect cookies via third parties like Google Analytics. Cookies are small amounts of data generated by a website and saved by your web browser. They help us to understand how people use the website.
+We see your email address when you contact our customer service team on help@puzzlywords.com, and we may reply to that email address to contact you about the question asked.
+Deactivating personalized advertising.
+You can deactivate personalized advertising on mobile applications by withdrawing your consent in the Privacy Policy section of the application or checking the privacy settings of your Android or iOS device and selecting “limit ad tracking” (Apple iOS) or “opt-out of interest based ads” (Android).
+REMOVING THE DATA WE HOLD FOR YOU
+You have the right to be forgotten and can request your data to be permanently removed at any time. Once your data is removed you will lose all of your progress in our games, including access to in-game purchases you may have made. If you would like your data to be removed please send an email to help@puzzlywords.com with userID for that game.
+RETENTION
+Any Personal Information that we keep will be held only for as long as it remains necessary for the identified purpose, or as required by law, which may extend beyond the termination of our relationship with you. We may retain particular data where necessary to prevent fraud, future abuse, or for legitimate business purposes such as analysis of aggregated, non-personally-identifiable data, account recovery, and where required by law. All retained Personal Information will remain subject to the terms of this Privacy Policy.
+OUR POLICY REGARDING CHILDREN
+If you are a child under the age of 13, you must obtain parental consent before using our Services. The Company will not knowingly contact or engage with children under the age of 13 without said parental consent. If you have reason to believe that a child has provided us with their Personally identifiable information, please contact us at the address given below and we will endeavor to delete that Personally identifiable information from our databases.
+AMENDMENT OF THIS POLICY
+We reserve the right to change this Privacy Policy at any time. Your continued use of the Services signifies your acceptance of any changes.
+ACCESS
+You have the right to access the Personal Information we hold about you to verify the Personal Information we have collected concerning you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information. In certain circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user.
+CONTACT US
+Email: support@fubla.lv
+Ciekurkalna 1. linija 84,
+LV-1026, Riga
+LATVIA

@@ -1,0 +1,242 @@
+SuperTestç”¨æˆ·éšç§åè®®
+SuperTestéžå¸¸é‡è§†ä½ çš„éšç§ã€‚SuperTestè‡´åŠ›äºŽä¿æŠ¤ä½ çš„éšç§ï¼Œè¯¥éšç§æ”¿ç­–å‘ä½ è¯´æ˜Žæˆ‘ä»¬ä¿¡æ¯é‡‡é›†ï¼Œä½¿ç”¨å’Œå‘å¸ƒçš„å…·ä½“åšæ³•ã€‚
+
+    æœ¬æ”¿ç­–åŒ…å«ä»¥ä¸‹æ–¹é¢çš„å†…å®¹ï¼šé‡è¦ä¿¡æ¯ä»¥åŠå…³äºŽæˆ‘ä»¬çš„ä»‹ç» æˆ‘ä»¬æ”¶é›†çš„ä¸ªäººæ•°æ® æˆ‘ä»¬æ”¶é›†å’Œä½¿ç”¨ä½ çš„ä¸ªäººæ•°æ®çš„æ–¹å¼å’ŒåŽŸå›  æˆ‘ä»¬è®¿é—®ä½ çš„ä¸ªäººæ•°æ®çš„åŽŸå›  ä½ åœ¨ä¸ªäººæ•°æ®æ–¹é¢æ‹¥æœ‰çš„æƒåˆ©å’Œé€‰æ‹© æˆ‘ä»¬ä½¿ç”¨ Cookie çš„åŽŸå›  æˆ‘ä»¬ä¸ºä¿æŠ¤ä½ ä¿¡æ¯çš„å®‰å…¨æ€§å’Œæœºå¯†æ€§è€Œé‡‡å–çš„æ­¥éª¤ æˆ‘ä»¬ä¿ç•™ä½ çš„ä¿¡æ¯çš„æœŸé™ ä½ çš„åˆæ³•æƒåˆ©
+    
+    1. é‡è¦ä¿¡æ¯ä»¥åŠå…³äºŽæˆ‘ä»¬çš„ä»‹ç»
+    SuperTestæŒ‰ç…§æœ¬ã€ŠæœåŠ¡ä½¿ç”¨åè®®ã€‹åŠä»¥ä¸‹ã€Šç”¨æˆ·éšç§åè®®ã€‹çš„è§„å®šä¸ºä½ æä¾›æœåŠ¡ï¼ˆâ€œæœåŠ¡â€ï¼‰ã€‚æˆ‘ä»¬å¯èƒ½ä¼šä¸æ—¶åœ°æ›´æ–°æœ¬ã€Šç”¨æˆ·éšç§åè®®ã€‹ã€‚ä½ åœ¨ç›¸å…³æ¡æ¬¾å’Œæ”¿ç­–å‘ç”Ÿä»»ä½•æ›´æ”¹åŽç»§ç»­ä½¿ç”¨æˆ‘ä»¬çš„æœåŠ¡ï¼Œå³è¡¨ç¤ºä½ æŽ¥å—æ–°çš„ã€Šç”¨æˆ·éšç§åè®®ã€‹ã€‚
+    
+    2. æˆ‘ä»¬åœ¨APPå‰å°çŠ¶æ€\åŽå°çŠ¶æ€\é™é»˜çŠ¶æ€ä¼šæ”¶é›†å’ŒæŽ¥æ”¶çš„ä¿¡æ¯
+    SuperTestæ”¯æŒæ‰‹æœºå·ã€é‚®ç®±åœ°å€ã€ä»¥åŠç¬¬ä¸‰æ–¹ç™»å½•çš„æ–¹å¼ã€‚å¦‚æžœæ‚¨é€‰æ‹©æ‰‹æœºæˆ–è€…é‚®ç®±åœ°å€çš„ç™»å½•æ–¹å¼æ—¶ï¼Œæ‚¨éœ€å‘æˆ‘ä»¬æä¾›æ‚¨çš„æ‰‹æœºå·ç æˆ–è€…é‚®ç®±åœ°å€ï¼Œæˆ‘ä»¬æ”¶é›†è¿™ä¸€ä¿¡æ¯æ˜¯ä¸ºäº†è¯†åˆ«å’ŒéªŒè¯æ‚¨çš„èº«ä»½ã€‚å½“æ‚¨é€‰æ‹©é€šè¿‡Googleã€Facebookã€lineã€naverã€Apple idã€å¾®ä¿¡ã€VKç­‰ç¬¬ä¸‰æ–¹è´¦æˆ·ç™»å½•SuperTestäº§å“æ—¶ï¼Œæ‚¨åŒæ„æˆ‘ä»¬ä»ŽGoogleã€Facebookã€lineã€naverã€Apple idã€å¾®ä¿¡ã€VKç­‰ç¬¬ä¸‰æ–¹èŽ·å–æ‚¨æŽˆæƒå…±äº«çš„ä¿¡æ¯ï¼ˆåŒ…æ‹¬æ‰‹æœºå·ã€æ˜µç§°ã€å¤´åƒã€å¥½å‹åˆ—è¡¨ç­‰ï¼‰ï¼Œ å¹¶ä¸”æ‚¨åŒæ„å°†æ‚¨çš„ç¬¬ä¸‰æ–¹è´¦æˆ·ä¸Žæ‚¨çš„SuperTestäº§å“è´¦å·ç»‘å®šï¼Œä½¿æ‚¨å¯ä»¥é€šè¿‡ç¬¬ä¸‰æ–¹è´¦æˆ·ç›´æŽ¥ç™»å½•å¹¶ä½¿ç”¨SuperTestäº§å“ï¼Œå¹¶å€ŸåŠ©è¯¥è´¦æˆ·å®žçŽ°æ•°æ®åœ¨ä¸åŒè®¾å¤‡ä¹‹é—´çš„åŒæ­¥ã€‚ æˆ‘ä»¬ä¼šä¾æ®ä¸Žç¬¬ä¸‰æ–¹çš„çº¦å®šï¼Œå¹¶åœ¨ç¬¦åˆç›¸å…³æ³•å¾‹æ³•è§„çš„å‰æä¸‹ï¼Œä½¿ç”¨æ‚¨æŽˆæƒå…±äº«çš„ä¸ªäººä¿¡æ¯ã€‚å¦‚æžœæ‚¨æ‹’ç»åŒæ„SuperTestä»Žç¬¬ä¸‰æ–¹èŽ·å–æ‚¨æŽˆæƒå…±äº«çš„ä¿¡æ¯ï¼Œæ‚¨å°†æ— æ³•é€šè¿‡Googleã€Facebookã€lineã€naverã€Apple idã€å¾®ä¿¡ã€VKç­‰ç¬¬ä¸‰æ–¹è´¦æˆ·çš„æ–¹å¼æ³¨å†Œè´¦å·å¹¶ç™»å½•ï¼Œä¹Ÿæ— æ³•å€ŸåŠ©è¯¥ç¬¬ä¸‰æ–¹è´¦æˆ·å®žçŽ°æ•°æ®çš„åŒæ­¥ã€‚
+    
+    å®ŒæˆSuperTestå¸æˆ·æ³¨å†ŒåŽï¼ŒSuperTestå°†ä¼šé‡‡é›†ä½ çš„ä¸ªäººä¿¡æ¯ï¼Œå¦‚ä½ çš„ç”¨æˆ·åï¼Œç”µå­é‚®ä»¶åœ°å€ï¼Œæ‰‹æœºå·ç ã€èŒä¸šã€å­¦ä¹ è¯­è¨€çš„åŽŸå› ï¼Œæ‰€è¯´æ‰€å­¦è¯­è¨€ä»¥åŠä½ è‡ªæ„¿åœ¨ç³»ç»Ÿæä¾›çš„ä»»ä½•ä¸ªäººä¿¡æ¯ï¼ŒåŒ…æ‹¬ä½ çš„ä¸ªäººèµ„æ–™çš„ç…§ç‰‡ã€‚
+    SuperTestè¿˜ä¼šè‡ªåŠ¨æ”¶é›†å¹¶ç”Ÿæˆå¤šç§å…¶ä»–é¢†åŸŸçš„ä½¿ç”¨æƒ…å†µä¿¡æ¯ï¼Œå…¶ä¸­åŒ…æ‹¬ï¼šæœåŠ¡å…ƒæ•°æ®ã€æ—¥å¿—æ•°æ®ã€IPåœ°å€ã€ç¬¬ä¸‰æ–¹æ•°æ®å’Œ Cookie ä¿¡æ¯ä»¥åŠè®¾å¤‡ä¿¡æ¯ï¼ˆè®¾å¤‡åç§°ã€ è®¾å¤‡åž‹å·ã€ç¡¬ä»¶åºåˆ—å·ã€æ“ä½œç³»ç»Ÿå’Œåº”ç”¨ç¨‹åºç‰ˆæœ¬åŠç±»åž‹ã€è¯­è¨€è®¾ç½®ã€åˆ†è¾¨çŽ‡ã€ç§»åŠ¨ç»ˆç«¯éšæœºå­˜å‚¨å†…å­˜ã€æŽ¥å…¥ç½‘ç»œçš„æ–¹å¼ã€ç½‘ç»œè´¨é‡æ•°æ®ã€ ç§»åŠ¨ç½‘ç»œä¿¡æ¯ï¼‰ã€‚
+    æˆ‘ä»¬è¿˜æ”¶é›†ã€ä½¿ç”¨å’Œå…±äº«å„ç§æ±‡æ€»æ•°æ®ï¼Œä¾‹å¦‚ä»»ä½•ç”¨é€”çš„ç»Ÿè®¡æ•°æ®æˆ–å—ä¼—ç‰¹å¾æ•°æ®ã€‚æ±‡æ€»æ•°æ®å¯èƒ½æ˜¯ç”±ä½ çš„ä¸ªäººæ•°æ®è¡ç”Ÿè€Œæ¥ï¼Œä½†ä¾ç…§æ³•å¾‹ï¼Œæ­¤ç±»æ•°æ®ä¸åº”è§†ä¸ºä¸ªäººæ•°æ®ï¼Œå› ä¸ºå®ƒä»¬å¹¶ä¸ä¼šç›´æŽ¥æˆ–é—´æŽ¥æŠ«éœ²ä½ çš„èº«ä»½ã€‚ä¾‹å¦‚ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šæ±‡æ€»ä½ çš„ä½¿ç”¨æƒ…å†µæ•°æ®ä»¥è®¡ç®—è®¿é—®ç‰¹å®šç½‘ç«™åŠŸèƒ½çš„ç”¨æˆ·æ‰€å çš„ç™¾åˆ†æ¯”ã€‚ä¸è¿‡ï¼Œå¦‚æžœæˆ‘ä»¬å°†æ±‡æ€»æ•°æ®ä¸Žä½ çš„ä¸ªäººæ•°æ®ç›¸ç»„åˆæˆ–ç›¸å…³è”ï¼Œä½¿å…¶èƒ½å¤Ÿç›´æŽ¥æˆ–é—´æŽ¥è¯†åˆ«ä½ çš„èº«ä»½ï¼Œé‚£ä¹ˆæˆ‘ä»¬ä¾¿ä¼šå°†ç›¸åº”çš„ç»„åˆæ•°æ®è§†ä¸ºä¸ªäººæ•°æ®ï¼Œå¹¶æ ¹æ®æœ¬ã€Šç”¨æˆ·éšç§åè®®ã€‹åŠ ä»¥ä½¿ç”¨ã€‚ æˆ‘ä»¬ä¸ä¼šæ”¶é›†ä¸Žä½ æœ‰å…³çš„ä»»ä½•ç‰¹æ®Šç±»åˆ«çš„ä¸ªäººæ•°æ®ï¼ˆå…¶ä¸­åŒ…æ‹¬ä¸Žä½ çš„ç§æ—æˆ–æ°‘æ—ã€å®—æ•™æˆ–å“²å­¦ä¿¡ä»°ã€æ€§å–å‘ã€æ”¿æ²»è§‚ç‚¹ã€å·¥ä¼šæˆå‘˜èº«ä»½æœ‰å…³çš„è¯¦ç»†ä¿¡æ¯ï¼Œä¸Žä½ çš„å¥åº·çŠ¶å†µæœ‰å…³çš„ä¿¡æ¯ï¼Œä»¥åŠé—ä¼ å’Œç”Ÿç‰©è¯†åˆ«æ•°æ®ï¼‰ã€‚æˆ‘ä»¬ä¹Ÿä¸ä¼šæ”¶é›†ä»»ä½•ä¸Žåˆ‘äº‹åˆ¤å†³å’Œç½ªè¡Œæœ‰å…³çš„ä¿¡æ¯ã€‚
+    åœ¨ä½¿ç”¨æˆ‘ä»¬çš„æœåŠ¡æ—¶ï¼Œä½ å¯ä»¥è®¾ç½®ä¸ªäººèµ„æ–™ã€å»ºç«‹å…³ç³»ã€æ”¶å‘ä¿¡æ¯ã€è¿›è¡Œæœç´¢å’ŒæŸ¥è¯¢ã€æ³¨å†Œå‚åŠ å„ç±»è¯¾ç¨‹ï¼Œå¹¶é€šè¿‡å„ç§æ¸ é“ä¼ è¾“ä¿¡æ¯ã€‚
+    å¹¶æ²¡æœ‰æ³•å®šæˆ–åˆçº¦ä¹‰åŠ¡è¦æ±‚ä½ æä¾›è¿™äº›æ•°æ®ï¼Œä¸è¿‡è‹¥ä¸æä¾›æ•°æ®ï¼Œæˆ‘ä»¬ä¾¿æ— æ³•æä¾›ç›¸åº”æœåŠ¡ã€‚
+    ä¸ºæå‡SuperTestäº§å“çš„ä½¿ç”¨ä½“éªŒï¼ŒSuperTestå¯èƒ½ä¼šé€šè¿‡è°ƒç”¨è®¾å¤‡æƒé™çš„æ–¹å¼æ”¶é›†æ‚¨çš„å¦‚ä¸‹ä¸ªäººä¿¡æ¯ã€‚å¦‚æžœæ‚¨ä¸åŒæ„æä¾›è¿™äº›ä¸ªäººä¿¡æ¯ï¼Œ æ‚¨å¯èƒ½æ— æ³•ä½¿ç”¨ä¸Žæå‡ç”¨æˆ·ä½“éªŒç›¸å…³çš„åŠŸèƒ½ã€‚
+    â€¢ è‹¥æ‚¨å¸Œæœ›å‘SuperTestä¸Šä¼ æ‚¨çš„å¤´åƒåŠ/æˆ–å…¶ä»–å›¾ç‰‡ä¿¡æ¯ï¼Œæ‚¨å¯ä»¥é€‰æ‹©æŽˆæƒSuperTestè°ƒç”¨æ‚¨æ‰€ä½¿ç”¨è®¾å¤‡ä¸­çš„æ‘„åƒå¤´æˆ–è€…ç›¸å†Œæƒé™ã€‚
+    â€¢ è‹¥æ‚¨åŒæ„å‘SuperTestä¸Šä¼ æ‚¨çš„å½•éŸ³èµ„æ–™ï¼Œæ‚¨å¯ä»¥é€‰æ‹©æŽˆæƒSuperTestè°ƒç”¨æ‚¨æ‰€ä½¿ç”¨è®¾å¤‡çš„éº¦å…‹é£Žæƒé™ã€‚
+    â€¢ è‹¥æ‚¨åŒæ„å‘SuperTestè°ƒç”¨æ‚¨çš„ä½ç½®æƒé™ï¼Œå¯¹ä¸åŒåœ°åŒºç”¨æˆ·æŽ¨é€æ›´åˆé€‚çš„å­¦ä¹ å†…å®¹ï¼Œæ‚¨å¯ä»¥é€‰æ‹©æŽˆæƒSuperTestè°ƒç”¨æ‚¨æ‰€ä½¿ç”¨è®¾å¤‡çš„ä½ç½®æƒé™ã€‚
+    â€¢ è‹¥æ‚¨åŒæ„å‘SuperTestä¸‹è½½è¯¾ç¨‹æ•°æ®(é¢˜ç›®ã€éŸ³é¢‘ã€è§†é¢‘å†…å®¹)è‡³æœ¬åœ°ï¼Œä»¥èŽ·å–ç¦»çº¿è¯¾ç¨‹ä½“éªŒï¼Œæ‚¨å¯ä»¥é€‰æ‹©æŽˆæƒSuperTestè°ƒç”¨æ‚¨æ‰€ä½¿ç”¨è®¾å¤‡çš„å­˜å‚¨æƒé™ã€‚
+    ç¬¬ä¸‰æ–¹å¹¿å‘ŠæŽ¨é€ç­‰æœåŠ¡æä¾›å•†æ”¶é›†ç›¸å…³ä¸ªäººä¿¡æ¯
+    
+    SuperTestå¯èƒ½ä¼šä¸Žç¬¬ä¸‰æ–¹æœåŠ¡æä¾›å•†åˆä½œï¼Œåœ¨SuperTestçš„äº§å“åŠ/æˆ–æœåŠ¡ä¸­æŽ¥å…¥ç¬¬ä¸‰æ–¹æœåŠ¡ï¼ˆä¾‹å¦‚æŠ•æ”¾å¹¿å‘Šã€é“¾æŽ¥æˆ–è€…å…¶å®ƒå½¢å¼çš„æŽ¨å¹¿å†…å®¹ï¼‰ã€‚é™¤ä¸‹è¿°æ˜Žç¡®æåŠçš„ç¬¬ä¸‰æ–¹å¤–ï¼ŒSuperTestä¸ä¼šå°†æ‚¨æä¾›ç»™SuperTestæˆ–è€… SuperTestæ”¶é›†çš„æ‚¨çš„ä¸ªäººä¿¡æ¯ å¦‚æ‰‹æœºå·ç ã€æ˜µç§°ã€å¤´åƒã€å¥½å‹åˆ—è¡¨ç­‰ï¼‰ ä¸Žç¬¬ä¸‰æ–¹æœåŠ¡å•†å…±äº«ï¼Œä¹Ÿä¸ä¼šä»£è¡¨ç¬¬ä¸‰æ–¹æœåŠ¡å•†ä¸ºå…¶æ”¶é›†æ‚¨çš„ä¸ªäººä¿¡æ¯ã€‚é€šè¿‡SuperTestäº§å“åŠ/æˆ–æœåŠ¡æŽ¥å…¥çš„ç¬¬ä¸‰æ–¹æœåŠ¡å•†å¯èƒ½æœ‰è‡ªå·±çš„éšç§æ”¿ç­–ï¼Œå…¶ä¸å—æœ¬ã€Šéšç§æ”¿ç­–ã€‹çš„çº¦æŸã€‚ ç¬¬ä¸‰æ–¹æœåŠ¡æä¾›å•†å¯èƒ½ä¼šæ ¹æ®å…¶è‡ªå·±çš„éšç§æ”¿ç­–æ”¶é›†ä¸ºæ‚¨æä¾›æœåŠ¡æ‰€éœ€çš„ä¸ªäººä¿¡æ¯ã€‚SuperTestå°†å°½åˆç†çš„åŠªåŠ›è¦æ±‚ç¬¬ä¸‰æ–¹æœåŠ¡å•†åœ¨å¤„ç†æ‚¨çš„ä¸ªäººä¿¡æ¯æ—¶éµå®ˆç›¸å…³æ³•å¾‹ æ³•è§„ï¼Œå°½åŠ›è¦æ±‚å…¶é‡‡å–ç›¸å…³çš„ä¿å¯†å’Œå®‰å…¨æŽªæ–½ï¼Œä½†SuperTestæ— æ³•ä¿è¯å…¶ä¸€å®šä¼šæŒ‰ç…§æˆ‘ä»¬æå‡ºçš„è¦æ±‚é‡‡å–ç›¸åº”æŽªæ–½ã€‚
+    
+    æˆ‘ä»¬ä¸Žå…³è”å’Œéžå…³è”æœåŠ¡æä¾›å•†å…±äº«ä¸ªäººä¿¡æ¯ï¼Œä»¥å¸®åŠ©æˆ‘ä»¬å¼€å±•ä¸šåŠ¡ï¼Œä¾‹å¦‚é€šè¿‡åº”ç”¨ç¨‹åºæŽ¥å£ï¼ˆApplication Programming Interfaceï¼Œç®€ç§°â€œAPIâ€ï¼‰ä¸Žæˆ‘ä»¬çš„æœåŠ¡è¿›è¡Œé›†æˆæä¾›æˆ–æ”¯æŒéƒ¨åˆ†æœåŠ¡ã€‚æ­¤ç­‰æœåŠ¡æä¾›å•†éœ€è¦è®¿é—®è¯»å–æ‚¨çš„å¿…è¦ä¸ªäººä¿¡æ¯æ¥æ‰§è¡Œè¿™äº›ä»»åŠ¡ï¼Œå¹¶æœ‰ä¹‰åŠ¡ä¿æŠ¤æ‚¨çš„ä¸ªäººä¿¡æ¯ã€‚
+
+    æˆ‘ä»¬æŸäº›ç»„æˆéƒ¨åˆ†å¯èƒ½ä¼šä¸Žæˆ‘ä»¬ä¸æ‹¥æœ‰æˆ–ä¸æŽ§åˆ¶çš„ç¬¬ä¸‰æ–¹æœåŠ¡ç›¸å…³è”ï¼Œä¾‹å¦‚æˆ‘ä»¬çš„æœåŠ¡ä¸ºæä¾›ç‰¹å®šæœåŠ¡æˆ–å®žçŽ°ç‰¹å®šåŠŸèƒ½è€Œé›†æˆçš„ç¬¬ä¸‰æ–¹è½¯ä»¶å¼€å‘å·¥å…·åŒ…ï¼ˆSoftware Development Kitï¼Œç®€ç§°â€œSDKâ€ï¼‰æˆ–ç¬¬ä¸‰æ–¹APIã€‚å…¶ä¸­æœ‰äº›ç¬¬ä¸‰æ–¹æœåŠ¡å¯èƒ½è¿˜éœ€è¦æ‚¨çš„ä¸ªäººä¿¡æ¯ï¼Œä¾‹å¦‚æ‚¨çš„ä½ç½®æˆ–è®¾å¤‡ä¿¡æ¯ï¼Œä»¥å‘æ‚¨æä¾›ä»–ä»¬çš„æœåŠ¡ã€‚æ‚¨ä½¿ç”¨è¯¥ç±»ç¬¬ä¸‰æ–¹çš„æœåŠ¡æ—¶éœ€éµå®ˆä»–ä»¬çš„æœåŠ¡æ¡æ¬¾ï¼Œä¹Ÿå°†é€‚ç”¨ä»–ä»¬çš„éšç§æ”¿ç­–ã€‚
+
+    æˆ‘ä»¬ä¼šä¸æ—¶å¯¹è¯¥ç­‰åˆä½œä¼™ä¼´æˆ–æœåŠ¡æä¾›å•†æä¾›çš„SDKæˆ–APIè¿›è¡ŒæŠ€æœ¯æ£€æµ‹å’Œè¡Œä¸ºå®¡è®¡ï¼Œå¹¶è¦æ±‚å…¶éµå¾ªé€‚ç”¨çš„æ³•å¾‹ã€æ³•è§„ä»¥åŠåè®®ï¼Œä»¥ç¡®ä¿å…¶ä¾æ³•ã€ä¾è§„ã€ä¾çº¦æ”¶é›†å’Œä½¿ç”¨æ•°æ®ã€‚
+
+    æˆ‘ä»¬çš„æœåŠ¡æŽ¥å…¥ç¬¬ä¸‰æ–¹SDK/APIå…·ä½“æƒ…å½¢å¦‚ä¸‹ã€‚è¯·æ³¨æ„ï¼Œç¬¬ä¸‰æ–¹SDK/APIå¯èƒ½å› ä¸ºå…¶ç‰ˆæœ¬å‡çº§ã€ç­–ç•¥è°ƒæ•´ç­‰åŽŸå› å¯¼è‡´æ•°æ®å¤„ç†ç±»åž‹å­˜åœ¨ä¸€å®šå˜åŒ–ï¼Œæ‚¨å¯æŸ¥çœ‹å…¶å®˜ç½‘äº†è§£å…·ä½“è¯¦æƒ…ï¼š
+
+    1ï¼‰ç”¨äºŽæŽ¨é€é€šçŸ¥SDKï¼Œå¦‚æžå…‰æŽ¨é€ï¼ˆJPushSDKï¼‰,FCM googleæŽ¨é€æœåŠ¡ï¼ŒåŽä¸ºæŽ¨é€
+      æŽ¨é€é€šçŸ¥æœåŠ¡ä¸ºAPPèµ‹äºˆæ¶ˆæ¯å’Œé€šçŸ¥çš„æŽ¨é€èƒ½åŠ›ã€‚é›†æˆæžå…‰æŽ¨é€SDKåŽï¼ŒæŽ¨é€SDKä¼šæ”¶é›†ä½¿ç”¨å®žçŽ°æœåŠ¡æ‰€å¿…é¡»çš„ä¸ªäººä¿¡æ¯ï¼Œé€šè¿‡åŠ å¯†çš„é€šé“å°†æ¶ˆæ¯å’Œé€šçŸ¥æŽ¨é€ç»™ç”¨æˆ·ã€‚æŽ¨é€SDKæ”¶é›†ä½¿ç”¨çš„ä¸ªäººä¿¡æ¯åŒ…æ‹¬ï¼šâ‘ è®¾å¤‡ä¿¡æ¯ï¼šç”¨äºŽè¯†åˆ«å”¯ä¸€ç”¨æˆ·ï¼Œä¿è¯æ¶ˆæ¯æŽ¨é€çš„ç²¾å‡†é€è¾¾ï¼›ä¼˜åŒ–æŽ¨é€é€šé“èµ„æºï¼Œæˆ‘ä»¬ä¼šæ ¹æ®è®¾å¤‡ä¸Šä¸åŒAPPçš„æ´»è·ƒæƒ…å†µï¼Œæ•´åˆæ¶ˆæ¯æŽ¨é€çš„é€šé“èµ„æºï¼Œæé«˜æ¶ˆæ¯é€è¾¾çŽ‡ï¼›â‘¡ç½‘ç»œä¿¡æ¯ä¸Žä½ç½®ä¿¡æ¯ï¼šä¼˜åŒ–SDKä¸ŽæŽ¨é€æœåŠ¡å™¨çš„ç½‘ç»œè¿žæŽ¥è¯·æ±‚ï¼Œä¿è¯æœåŠ¡çš„ç¨³å®šæ€§å’Œè¿žç»­æ€§ï¼›å®žçŽ°åŒºåŸŸæŽ¨é€çš„åŠŸèƒ½ã€‚ä¸ºäº†æ‚¨èƒ½å¤ŸæŽ¥æ”¶ä¿¡æ¯æŽ¨é€åŠŸèƒ½ï¼Œæˆ‘ä»¬é€šè¿‡é›†æˆçš„æŽ¨é€SDKå‘ç”¨æˆ·æŽ¨é€ä¼˜æƒ æ´»åŠ¨ã€å­¦ä¹ æé†’ã€å’ŒæœåŠ¡äºŽæˆ‘ä»¬åº”ç”¨ä¸šåŠ¡çš„ä¿¡æ¯ã€‚æŽ¨é€ç›¸å…³SDKå¯èƒ½ä¼šè¯»å–æ‚¨çš„è®¾å¤‡ä¿¡æ¯ï¼ˆå¯èƒ½åŒ…æ‹¬è¿žæŽ¥çš„æ— çº¿ç½‘ç»œè®¾å¤‡MACã€æ— çº¿ç½‘ç»œåˆ—è¡¨ã€IMEIã€è®¾å¤‡MACåœ°å€ã€ç½‘ç»œç±»åž‹ã€æ‰‹æœºåž‹å·ã€æ‰‹æœºåºåˆ—å·ã€æ— çº¿ç½‘ç»œåç§°ï¼‰å’Œä½ç½®ä¿¡æ¯ï¼Œè°ƒç”¨çš„æ”¶é›†ä¸ªäººä¿¡æ¯çš„å®‰å“æƒé™å¯èƒ½åŒ…æ‹¬ï¼š
+      READ_PHONE_STATE; WRITE_EXTERNAL_STORAGE; ACCESS_NETWORK_STATE; ACCESS_WIFI_STATE; ACCESS_COARSE_LOCATION; ACCESS_FINE_LOCATION; GET_TASKS; READ_EXTERNAL_STORAGE;
+      é€šè¿‡ä»¥ä¸Šæ”¶é›†åˆ°çš„ä¿¡æ¯å’Œæƒé™æ¥å®žçŽ°æ¶ˆæ¯æŽ¨é€ï¼Œè¯·æ‚¨æ³¨æ„é’ˆå¯¹æŽ¨é€ç±»SDKï¼Œåªæœ‰æ‚¨åœ¨ä½¿ç”¨å¯¹åº”å“ç‰Œçš„ç§»åŠ¨è®¾å¤‡æ—¶æ‰ä¼šåˆå§‹åŒ–å’Œç”Ÿæ•ˆã€‚
+
+    2ï¼‰ç”¨äºŽæ‰‹æœºå´©æºƒæ—¥å¿—å’Œç»Ÿè®¡é¡µé¢è®¿é—®å’Œç‚¹å‡»äº‹ä»¶çš„SDKï¼Œå¦‚Firebaseã€AppsFlyer
+      Firebaeä¸»è¦ç”¨äºŽç»Ÿè®¡ç”¨æˆ·åœ¨æˆ‘ä»¬åº”ç”¨å†…çš„ä½¿ç”¨æƒ…å†µï¼Œå¸®åŠ©æˆ‘ä»¬æ”¹è¿›æœåŠ¡ï¼Œæˆ‘ä»¬å°†ä¼šé‡‡é›†å¸¸ç”¨è®¾å¤‡ä¿¡æ¯ï¼ˆå¦‚IMEI/IMSIã€SIMå¡åºåˆ—å·/MACåœ°å€ã€android_idã€è®¾å¤‡åž‹å·ã€æ“ä½œç³»ç»Ÿç‰ˆæœ¬ï¼‰ã€ç½‘ç»œä¿¡æ¯ï¼Œè¿™äº›ä¿¡æ¯å¸®åŠ©æˆ‘ä»¬åƒä¸åŒç”¨æˆ·ç ”å‘æ›´ç¬¦åˆå½“åœ°çš„å­¦ä¹ å†…å®¹ï¼Œå¸®åŠ©æˆ‘ä»¬æŸ¥æ‰¾å’Œå¤„ç†å´©æºƒé—®é¢˜ã€‚
+      AppsFlyerä¸»è¦ç”¨äºŽåˆ†æžåº”ç”¨å½’å› ï¼Œå¸®åŠ©åº”ç”¨åšå‡ºæ›´å¥½çš„è¥é”€å†³ç­–ï¼Œä¼šé‡‡é›†è®¾å¤‡å¸¸ç”¨ä¿¡æ¯ï¼Œå¦‚IMEI/IMSIã€SIMå¡åºåˆ—å·/MACåœ°å€ã€android_idã€è®¾å¤‡åž‹å·ã€æ“ä½œç³»ç»Ÿç‰ˆæœ¬ã€ç½‘ç»œä¿¡æ¯ç­‰
+
+    3ï¼‰ç”¨äºŽç¬¬ä¸‰æ–¹æ”¯ä»˜çš„SDKï¼Œå¦‚å¾®ä¿¡æ”¯ä»˜ï¼Œæ”¯ä»˜å®ï¼ŒPayPalï¼ŒAppleå†…è´­ï¼ŒGoogleå†…è´­
+      æˆ‘ä»¬å°†ä¼šé‡‡é›†å¸¸ç”¨è®¾å¤‡ä¿¡æ¯ï¼ˆå¦‚IMEI/IMSIã€SIMå¡åºåˆ—å·/MACåœ°å€ã€android_idï¼‰ã€ç½‘ç»œä¿¡æ¯ã€GPSä¿¡æ¯ï¼Œç”¨äºŽç”¨æˆ·ç™»å½•è´¦æˆ·å’Œæ”¯ä»˜è¿‡ç¨‹ä¸­çš„å®‰å…¨é£ŽæŽ§ã€‚
+    
+    4ï¼‰ç”¨äºŽå”¯ä¸€æ ‡è¯†è®¾å¤‡çš„SDKï¼Œé˜¿é‡Œè®¾å¤‡æ ‡è¯†SDK,ä¼šæ”¶é›†çš„è®¾å¤‡ä¿¡æ¯åŒ…æ‹¬IMEI/IMSIã€SIMå¡åºåˆ—å·/MACåœ°å€ã€Android IDï¼‰ã€ç½‘ç»œä¿¡æ¯ï¼Œç”¨äºŽç”¨æˆ·ç™»å½•è´¦æˆ·å’Œæ”¯ä»˜è¿‡ç¨‹ä¸­çš„å®‰å…¨é£ŽæŽ§ã€‚  
+
+    3. ä¿¡æ¯ä½¿ç”¨
+    SuperTestä¼šå‡ºäºŽä»¥ä¸‹å¸¸è§„ç›®çš„ï¼Œå°†ä½ çš„ä¸ªäººæ•°æ®ç”¨äºŽä¿ƒè¿›æˆ‘ä»¬çš„åˆæ³•æƒç›Š:
+    (i) æä¾›ã€æ›´æ–°ã€ç»´æŠ¤å’Œä¿æŠ¤æˆ‘ä»¬çš„æœåŠ¡ã€ç½‘ç«™ã€åº”ç”¨å’Œä¸šåŠ¡
+    (ii) æ ¹æ®ç›¸å…³æ³•å¾‹ã€å¸æ³•ç¨‹åºæˆ–æ³•è§„çš„è¦æ±‚
+    (iii) å›žå¤ä½ çš„é—®é¢˜å’Œè¯„è®º
+    (iv) å‘é€å…³äºŽè¯¥æœåŠ¡çš„è¥é”€å’Œäº¤æ˜“èµ„è®¯ï¼ŒåŒ…æ‹¬ä½†ä¸é™äºŽç”µå­é‚®ä»¶ã€æŽ¨é€é€šçŸ¥ã€çŸ­ä¿¡å’Œåº”ç”¨å†…æ¶ˆæ¯
+    (v) ç»Ÿè®¡ç›®çš„
+    (vi) ç»“ç®—ã€å¸æˆ·ç®¡ç†åŠå…¶ä»–è¡Œæ”¿äº‹é¡¹
+    (vii) è°ƒæŸ¥å’Œå¸®åŠ©é˜²æ­¢å®‰å…¨é—®é¢˜å’Œæ»¥ç”¨è¡Œä¸º
+    (viii) åœ¨æ”¶é›†æ—¶å‘ä½ ä»‹ç»çš„å…¶ä»–ç›®çš„
+    SuperTestä½¿ç”¨æ­¤ç±»ä¿¡æ¯æ»¡è¶³ä½ çš„äº§å“å’ŒæœåŠ¡è¦æ±‚ã€æ”¹è¿›æˆ‘ä»¬ä¸ºä½ æä¾›çš„æœåŠ¡ã€‚å¦‚æžœä½ é€‰æ‹©ä¸Žæœ‹å‹åˆ†äº«SuperTesté‚€è¯·é“¾æŽ¥ï¼Œåˆ™å½“ä»–ä»¬ç‚¹å‡»è¯¥é“¾æŽ¥ä¹‹åŽï¼Œä¼šåœ¨SuperTestå†…çš„ç€é™†é¡µä¸Šçœ‹åˆ°ä½ çš„ä¸ªäººèµ„æ–™å›¾ç‰‡ï¼ˆå¦‚æžœä½ å·²åˆ›å»ºï¼‰å’Œå§“åã€‚ä½ å¯ä»¥éšæ—¶åœ¨ä½ çš„ä¸ªäººèµ„æ–™è®¾ç½®ä¸­åˆ é™¤å’Œæ›´æ”¹è¿™äº›æ•°æ®ã€‚å…¶ä»–æ‰€æœ‰ä¿¡æ¯å‡ä¸ä¼šæ˜¾ç¤ºã€‚
+    è¯·æ³¨æ„ï¼šåœ¨æ‚¨è´­ä¹°æœ‰å¿æœåŠ¡ï¼ˆåŒ…æ‹¬VIPä¼šå‘˜èµ„æ ¼ï¼‰æ—¶å¦‚æžœè¾“å…¥æ”¯ä»˜ä¿¡æ¯ï¼ŒSuperTestå¹¶ä¸æŽ¥æ”¶æˆ–å­˜å‚¨ä»¥ä¸Šæ”¯ä»˜ä¿¡æ¯ï¼Œä»¥ä¸Šä¿¡æ¯ç”±æˆ‘ä»¬çš„æ”¯ä»˜æœåŠ¡ä¾›åº”å•†ä¸ºå®Œæˆäº¤æ˜“è€ŒæŽ¥æ”¶ï¼Œå­˜å‚¨ï¼Œä½¿ç”¨ã€‚
+    â€¢ å¯¹äºŽä½¿ç”¨ç”µå­é‚®ä»¶åœ°å€æ³¨å†Œçš„ç”¨æˆ·ï¼Œä½ çš„ç”µå­é‚®ä»¶æ•°æ®å·²ç”±ç›¸åº”æ•°æ®æŽ§åˆ¶æ–¹æä¾›ç»™æˆ‘ä»¬ã€‚åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œä½ å°†ä¼šæ”¶åˆ°ä»‹ç»æ³¨å†Œæ–¹å¼çš„é€šä¿¡ã€‚ä½ å¯ä»¥éšæ—¶é€šè¿‡è¿™äº›é€šä¿¡å–æ¶ˆè®¢é˜…ã€‚
+    
+    4. ä¿ç•™
+    SuperTestä¼šæ ¹æ®éœ€è¦å°½å¯èƒ½é•¿æœŸä¿ç•™ä½ çš„ä¸ªäººæ•°æ®ï¼Œä»¥ä¾¿æ»¡è¶³åˆæ³•çš„ä¸šåŠ¡åˆ©ç›Šã€è¿›è¡Œå®¡è®¡ã€éµä»Žï¼ˆåŠè¯æ˜Žéµä»Žï¼‰æ³•å¾‹ä¹‰åŠ¡ã€è§£å†³çº çº·ä»¥åŠæ‰§è¡Œæˆ‘ä»¬çš„åè®®ã€‚ä¸ºäº†ç¡®å®šåˆç†çš„ä¸ªäººæ•°æ®ä¿ç•™æœŸé™ï¼Œæˆ‘ä»¬ä¼šè€ƒè™‘ä¸ªäººæ•°æ®çš„æ•°é‡ã€æ€§è´¨å’Œæ•æ„Ÿæ€§ï¼Œæœªç»æŽˆæƒè€Œä½¿ç”¨æˆ–æŠ«éœ²ä¸ªäººæ•°æ®çš„è¡Œä¸ºé€ æˆä¼¤å®³çš„é£Žé™©ï¼Œæˆ‘ä»¬å¤„ç†ä¸ªäººæ•°æ®çš„ç›®çš„ï¼Œæˆ‘ä»¬æ˜¯å¦å¯é€šè¿‡å…¶ä»–æ–¹å¼å®žçŽ°åŒæ ·çš„ç›®çš„ï¼Œä»¥åŠç›¸å…³çš„æ³•å¾‹è¦æ±‚ã€‚ ä½ æœ‰æƒåˆ é™¤ä½ çš„ä¸ªäººæ•°æ®ï¼Œåªéœ€å‘é€ç”µå­é‚®ä»¶è‡³â€‚
+feedback@hskonline.com
+è¯·æ±‚åˆ é™¤å³å¯ã€‚è¯·æ³¨æ„ï¼Œåœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæˆ‘ä»¬ä¼šæ ¹æ®å½“åœ°æ³•å¾‹ä¿ç•™ç›¸å…³è´¢åŠ¡ä¿¡æ¯ã€‚
+    
+    5. COOKIESï¼ˆç™»å½•è®°å½•ç¼“å†²æ–‡ä»¶ï¼‰
+    COOKIESï¼ˆæ•°ç å­˜æ ¹ï¼‰æ˜¯ä¸€ä»½å®¹é‡è¾ƒå°çš„èµ„æ–™ï¼Œä¸€èˆ¬åŒ…å«ä»ŽæŸç½‘å€ç”µè„‘å‘é€åˆ°ä½ çš„æµè§ˆå™¨å¹¶å­˜å‚¨åœ¨ä½ ç”µè„‘ç¡¬ç›˜ä¸­çš„ä¸€ä¸ªä¸çŸ¥åçš„è¯†åˆ«ç ã€‚ä½ å¯ä»¥é€šè¿‡è®¾ç½®æµè§ˆå™¨æ¥æŽ¥å—ï¼Œæ‹’æ”¶æˆ–è€…é€‰æ‹©è®¾ç½®cookiesé€šçŸ¥ã€‚å¦‚æžœä½ æƒ³åˆ é™¤å·²ç»åœ¨ä½ ç”µè„‘é‡Œçš„cookiesï¼Œè¯·é€šè¿‡ä½ çš„æµè§ˆå™¨çš„æŒ‡ç¤ºæ‰¾åˆ°cookiesçš„æ–‡ä»¶æˆ–ä¿å­˜åœ°æ–¹ã€‚å¦‚æžœä½ é€‰æ‹©æ‹’æ”¶æ‰€æœ‰çš„æ•°ç å­˜æ ¹ï¼Œä½ å¯èƒ½æ— æ³•ä½¿ç”¨ç½‘ç«™çš„ä¸€äº›åŠŸèƒ½ã€‚ 
+    
+    6. å…¬å¸ƒä¸ªäººä¿¡æ¯
+    æˆ‘ä»¬å‘åœ¨ç½‘ç«™æµè§ˆæ‰¾å¯»å¥½å‹çš„äººæ˜¾ç¤ºä½ çš„æ¡£æ¡ˆä¿¡æ¯ï¼ˆé™¤äº†ä½ çš„ç”µå­é‚®ç®±å’Œå¯†ç ï¼‰ã€‚SuperTestä¼šå‘ç¬¬ä¸‰æ–¹å‡ºç§Ÿï¼Œå‡ºå”®æˆ–æ˜¯å…±äº«ä½ çš„ä¸ªäººä¿¡æ¯ï¼Œé™¤éžæ˜¯åœ¨ç»è¿‡ä½ çš„å…è®¸ï¼ŒæŒ‰ç…§ä½ çš„è¦æ±‚æä¾›äº§å“å’ŒæœåŠ¡çš„æƒ…å†µä¸‹ï¼Œæˆ–æ˜¯ä»¥ä¸‹æƒ…å†µï¼š
+    â€¢ å½“SuperTestå¯¹ä¼ ç¥¨ï¼Œæ³•é™¢é¢ä»¤ï¼Œæ³•å¾‹ç¨‹åºä½œå‡ºå›žåº”ï¼Œæˆ–è€…å»ºç«‹ï¼Œè¡Œä½¿æˆ‘ä»¬çš„åˆæ³•æƒåˆ©æ—¶æˆ–å¯¹ä¿æŠ¤è‡ªå·±å…å—æ³•å¾‹ç´¢èµ”æ—¶ï¼›
+    â€¢ å½“SuperTestç›¸ä¿¡æœ‰å¿…è¦åœ¨æ¶‰åŠåˆ°éžæ³•è¡Œä¸ºã€è¯ˆéª—æ¡ˆä»¥åŠå¯¹ä»–äººäººèº«å®‰å…¨é€ æˆæ½œåœ¨å¨èƒï¼Œè¿åç½‘ç«™æœåŠ¡æ¡æ¬¾æˆ–å…¶å®ƒæ³•å¾‹è¦æ±‚çš„æƒ…å†µä¸‹æä¾›æœ‰åŠ©äºŽè°ƒæŸ¥ï¼Œé˜»æ­¢æˆ–é‡‡å–è¡ŒåŠ¨çš„ä¿¡æ¯ã€‚
+    â€¢ å½“ä½ æ­£åœ¨ä»¥å­¦ç”Ÿæˆ–å‘˜å·¥çš„èº«ä»½ä½¿ç”¨ä»˜è´¹æœåŠ¡ï¼ˆåŒ…æ‹¬VIPä¼šå‘˜èµ„æ ¼ï¼‰ï¼Œåˆ™åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šä¸Žç›¸åº”æ•™è‚²æœºæž„æˆ–é›‡ä¸»ï¼ˆè§†æƒ…å†µè€Œå®šï¼‰å…±äº«ä½ çš„ä¸ªäººä¿¡æ¯ï¼Œä»¥ä¾¿å…¶å¯ä»¥ç›‘ç£ä½ ä½¿ç”¨ä»˜è´¹æœåŠ¡çš„æƒ…å†µï¼›
+    â€¢ å¦‚æžœSuperTestè¢«æ”¶è´­æˆ–å…¼å¹¶ï¼Œä¼šå°†ä½ çš„ç›¸å…³ä¿¡æ¯ç§»äº¤ã€‚åœ¨è¿™ç§æƒ…å†µä¸‹ï¼ŒSuperTestä¼šäº‹å…ˆå‘ŠçŸ¥ç§»äº¤ä»¥åŠä¿¡æ¯ä½¿ç”¨å°†å—é™äºŽæ–°çš„éšç§æ”¿ç­–çš„ä¿¡æ¯ã€‚
+    æˆ‘ä»¬å¯èƒ½ä¼šä¸Ž Facebookã€Google ç­‰å…¶ä»–æ•°æ®å¤„ç†æ–¹åˆ†äº«ä½ çš„æ•°æ®ï¼ˆåŒ…æ‹¬ç”µå­é‚®ä»¶åœ°å€ï¼‰ï¼Œä»¥ä¾¿æä¾›å…·æœ‰é’ˆå¯¹æ€§çš„å¹¿å‘Šã€‚ å¯¹äºŽæ‹¥æœ‰å•ä½èµžåŠ©çš„ VIP ä¼šå‘˜èµ„æ ¼çš„ç”¨æˆ·ï¼Œæˆ‘ä»¬ä¸ä¼šå‡ºäºŽå¹¿å‘Šç›®çš„æ¥åˆ†äº«ä½ çš„æ•°æ®ã€‚ 
+    æˆ‘ä»¬è¦æ±‚æ‰€æœ‰ç¬¬ä¸‰æ–¹å°Šé‡ä¸ªäººæ•°æ®çš„å®‰å…¨æ€§ï¼Œå¹¶ä¾æ³•å¯¹å¾…ä¸ªäººæ•°æ®ã€‚æˆ‘ä»¬ä¸å…è®¸ç¬¬ä¸‰æ–¹æä¾›å•†å‡ºäºŽè‡ªèº«ç›®çš„è€Œä½¿ç”¨ä½ çš„ä¸ªäººæ•°æ®ï¼Œå¹¶ä»…å…è®¸å®ƒä»¬æŒ‰ç…§æˆ‘ä»¬çš„è¯´æ˜Žä¸ºæŒ‡å®šç›®çš„è€Œå¤„ç†ä½ çš„ä¸ªäººæ•°æ®ã€‚
+    è¯·è®°ä½åªè¦ä½ åœ¨ç½‘ä¸Šä¸»åŠ¨å…¬å¸ƒçš„ä¸ªäººä¿¡æ¯ï¼Œä½ çš„ä¿¡æ¯æœ‰å¯èƒ½è¢«ä»–äººé‡‡é›†åˆ©ç”¨ã€‚å¦‚æžœåœ¨é¢å‘å…¬ä¼—çš„äº’è”ç½‘ä¸Šå‘å¸–å…¬å¸ƒä¸ªäººä¿¡æ¯ï¼Œä½ å¯èƒ½ä¼šæ”¶åˆ°ä¸è¯·è‡ªæ¥çš„å›žå¤ã€‚
+    
+    7. ä¿å¯†ä¸Žå®‰å…¨
+    æˆ‘ä»¬å°†é‡‡å–æŽªæ–½ä½¿ç”¨åˆç†çš„ç¬¦åˆè¡Œä¸šæ ‡å‡†çš„å®‰å…¨ä¿éšœå·¥å…·æ¥ä¿æŠ¤ä¸ªäººæ•°æ®ä¿¡æ¯å…é­ä¸¢å¤±ï¼Œè¢«ç›—ï¼Œæœªç»æŽˆæƒçš„è®¿é—®ï¼Œæ³„éœ²ï¼Œå¤åˆ¶ï¼Œä¸å½“ä½¿ç”¨æˆ–ä¿®æ”¹ã€‚
+    ä½ çš„ä¸ªäººæ•°æ®å—å¯†ç ä¿æŠ¤ï¼Œé™¤éžåœ¨éšç§æ”¿ç­–ä¸­å¦æœ‰è¯´æ˜Žï¼Œåªæœ‰ä½ å’Œæˆ‘ä»¬èƒ½å¤Ÿçœ‹è§ã€‚ä½ åŒæ„ä¿å¯†ä½ çš„å¯†ç ï¼Œä¸é€éœ²ç»™ä»–äººï¼Œä¸è¢«ä»–äººèŽ·å¾—ã€‚
+    SuperTesté™åˆ¶å‘˜å·¥æŽ¥è§¦åˆ°ä½ çš„ä¸ªäººä¿¡æ¯ï¼Œè€Œæˆ‘ä»¬çš„å‘˜å·¥åªä¼šåœ¨æœ‰è¶³å¤Ÿç†ç”±ï¼Œä¾‹å¦‚ä»¥ä¾¿å‘ä½ æä¾›äº§å“æˆ–æœåŠ¡ï¼Œæˆ–æ˜¯ä¸ºäº†å®Œæˆä»–ä»¬çš„ä»»åŠ¡æ—¶æ‰ä¼šæŽ¥è§¦åˆ°è¿™äº›ä¿¡æ¯
+    SuperTesté…æœ‰å®žé™…æ„ä¹‰ä¸Šçš„ï¼Œç”µå­çš„ä»¥åŠç¨‹åºæ€§çš„é˜²æŠ¤è£…ç½®ï¼Œé˜²æŠ¤è£…ç½®ç¬¦åˆä¿æŠ¤ä½ çš„ä¸ªäººä¿¡æ¯çš„è§„å®šã€‚ç„¶è€Œï¼Œåœ¨äº’è”ç½‘ä¼ é€’ä¿¡æ¯ä¸å¯èƒ½100%å®‰å…¨ã€‚å› æ­¤ï¼ŒSuperTestæ— æ³•ä¿è¯ä½ å‘ç½‘ç«™æ‰€ä¼ é€’ä¿¡æ¯çš„å®‰å…¨æ€§ã€‚å°¤å…¶æ˜¯ï¼Œä½ åœ¨ç™»å½•å¹¶ä½¿ç”¨ç½‘ç«™æœåŠ¡æ—¶é£Žé™©ç”±ä½ æœ¬äººæ‰¿æ‹…ï¼Œä½ éœ€è¦é™åˆ¶ä»–äººå¯¹ä½ ç”µè„‘çš„ä½¿ç”¨ï¼Œç¡®ä¿ç”µè„‘èƒ½å¤Ÿé˜²èŒƒå„ç§æ¶æ„ä»£ç ï¼Œé—´è°è½¯ä»¶ï¼Œç—…æ¯’ï¼Œæœ¨é©¬ç­‰å¯ä»¥è¿½è¸ªä½ æ‰€è¾“å…¥ä¿¡æ¯ï¼ˆåŒ…æ‹¬ç”µé‚®åœ°å€ï¼Œæ”¯ä»˜ç›¸å…³ä¿¡æ¯ï¼‰çš„è½¯ä»¶å·¥å…·ã€‚
+    ä½†æ˜¯ï¼Œå½“ä½ è®¢è´­ä¸€é¡¹æœ‰å¿æœåŠ¡æ—¶ï¼ŒSuperTestä¼šä½¿ç”¨å®‰å…¨çš„æ”¯ä»˜æœåŠ¡ä¾›åº”å•†æ¥ç¡®ä¿ä½ å®‰å…¨æ”¯ä»˜ã€‚
+    SuperTestéµå¾ª Google éšç§æƒæ”¿ç­– åŠ æœåŠ¡æ¡æ¬¾ã€‚
+    
+    8. ç¬¬ä¸‰æ–¹ç½‘å€
+    è¯¥ç½‘å€é“¾æŽ¥åˆ°çš„ç½‘ç«™ä¸åœ¨æœ¬éšç§æ”¿ç­–é™åˆ¶èŒƒå›´ä¹‹åˆ—ã€‚å»ºè®®ä½ ä»”ç»†é˜…è¯»é‚£äº›ç½‘å€çš„éšç§å£°æ˜Žï¼Œä»¥äº†è§£å®ƒä»¬æ”¶é›†ï¼Œä½¿ç”¨ï¼Œå…¬å¸ƒä¸ªäººä¿¡æ¯çš„ç¨‹åºã€‚
+    
+    9. ä½ çš„åˆæ³•æƒåˆ©
+    ä½ æœ‰æƒï¼š
+    è¯·æ±‚è®¿é—® ä½ çš„ä¸ªäººæ•°æ®ï¼ˆé€šå¸¸ç§°ä¸ºâ€œæ•°æ®ä¸»ä½“è®¿é—®æƒé™è¯·æ±‚â€ï¼‰ã€‚é€šè¿‡è¯¥è¯·æ±‚ï¼Œä½ å¯ä»¥èŽ·å–æˆ‘ä»¬ä¿ç•™çš„ä¸Žä½ æœ‰å…³çš„ä¸ªäººæ•°æ®çš„å‰¯æœ¬ï¼Œå¹¶æ£€æŸ¥æˆ‘ä»¬å¯¹è¿™äº›æ•°æ®çš„å¤„ç†æ˜¯å¦åˆæ³•ã€‚
+    è¯·æ±‚ä¿®æ­£ æˆ‘ä»¬ä¿ç•™çš„ä¸Žä½ æœ‰å…³çš„ä¸ªäººæ•°æ®ã€‚é€šè¿‡è¯¥è¯·æ±‚ï¼Œä½ å¯ä»¥ä¿®æ­£æˆ‘ä»¬ä¿ç•™çš„ä¸Žä½ æœ‰å…³çš„ä»»ä½•ä¸å®Œæ•´æˆ–ä¸å‡†ç¡®æ•°æ®ï¼Œä¸è¿‡æˆ‘ä»¬å¯èƒ½éœ€è¦éªŒè¯ä½ ä¸ºæˆ‘ä»¬æä¾›çš„æ–°æ•°æ®çš„å‡†ç¡®æ€§ã€‚
+    è¯·æ±‚æ¸…ç©º ä½ çš„ä¸ªäººæ•°æ®ã€‚é€šè¿‡è¯¥è¯·æ±‚ï¼Œä½ å¯ä»¥åœ¨æˆ‘ä»¬æ²¡æœ‰åˆç†ç†ç”±ç»§ç»­å¤„ç†ä½ çš„ä¸ªäººæ•°æ®æ—¶è¦æ±‚æˆ‘ä»¬åˆ é™¤æˆ–ç§»é™¤ä¸ªäººæ•°æ®ã€‚åœ¨ä»¥ä¸‹æƒ…å†µä¸‹ï¼Œä½ ä¹Ÿæœ‰æƒè¦æ±‚æˆ‘ä»¬åˆ é™¤æˆ–ç§»é™¤ä½ çš„ä¸ªäººæ•°æ®ï¼šä½ æˆåŠŸè¡Œä½¿äº†åå¯¹æˆ‘ä»¬å¤„ç†ä¸ªäººæ•°æ®çš„æƒåˆ©ï¼ˆå‚è§ä¸‹æ–‡ï¼‰ï¼›æˆ‘ä»¬å¯èƒ½ä»¥ä¸åˆæ³•çš„æ–¹å¼å¤„ç†äº†ä½ çš„ä¿¡æ¯ï¼›æˆ–è€…æˆ‘ä»¬å¿…é¡»æ¸…ç©ºä½ çš„ä¸ªäººæ•°æ®ä»¥éµå®ˆå½“åœ°æ³•å¾‹ã€‚ä¸è¿‡è¯·æ³¨æ„ï¼Œåœ¨ä½ æäº¤è¯·æ±‚æ—¶ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šç”±äºŽç‰¹å®šçš„æ³•å¾‹åŽŸå› ï¼ˆæˆ‘ä»¬ä¼šé€šçŸ¥ä½ å…·ä½“åŽŸå› ï¼‰è€Œæ— æ³•éµä»Žä½ çš„æ¸…ç©ºè¯·æ±‚ã€‚
+    åå¯¹å¤„ç† ä½ çš„ä¸ªäººæ•°æ®ï¼Œå‰ææ˜¯æˆ‘ä»¬æœ‰åˆæ³•æƒç›Šï¼ˆæˆ–ç¬¬ä¸‰æ–¹çš„åˆæ³•æƒç›Šï¼‰å¯ä¾ï¼Œä½†ä¸Žä½ çš„ç‰¹å®šå¤„å¢ƒæœ‰å…³çš„äº‹ä»¶å¯¼è‡´ä½ æƒ³è¦åå¯¹æˆ‘ä»¬åœ¨æ­¤åŸºç¡€ä¸Šå¤„ç†ä½ çš„ä¸ªäººæ•°æ®ï¼Œå› ä¸ºä½ è®¤ä¸ºè¿™æ ·åšä¼šå½±å“ä½ çš„åŸºæœ¬æƒåˆ©å’Œè‡ªç”±ã€‚å½“æˆ‘ä»¬ä¸ºç›´æŽ¥çš„è¥é”€ç›®çš„è€Œå¤„ç†ä½ çš„ä¸ªäººæ•°æ®æ—¶ï¼Œä½ ä¹Ÿæœ‰æƒæå‡ºåå¯¹ã€‚åœ¨æŸäº›æƒ…å†µä¸‹ï¼Œæˆ‘ä»¬ä¼šè¯æ˜Žæˆ‘ä»¬æ‹¥æœ‰å¯ä»¥å¦å†³ä½ çš„æƒåˆ©å’Œè‡ªç”±çš„ä¸å¯æŠ—æ‹’çš„åˆæ³•ç†ç”±æ¥å¤„ç†ä½ çš„ä¿¡æ¯ã€‚
+    è¯·æ±‚é™åˆ¶å¤„ç† ä½ çš„ä¸ªäººæ•°æ®ã€‚é€šè¿‡è¯¥è¯·æ±‚ï¼Œä½ å¯ä»¥è¦æ±‚æˆ‘ä»¬åœ¨ä»¥ä¸‹æƒ…å†µä¸‹æš‚åœå¤„ç†ä½ çš„ä¸ªäººæ•°æ®ï¼š
+    (a) ä½ å¸Œæœ›æˆ‘ä»¬ç¡®ç«‹æ•°æ®å‡†ç¡®æ€§ï¼›
+    (b) æˆ‘ä»¬å¯¹æ•°æ®çš„ä½¿ç”¨ä¸åˆæ³•ï¼Œä½†ä½ ä¸å¸Œæœ›æˆ‘ä»¬æ¸…ç©ºç›¸å…³æ•°æ®ï¼›
+    (c) ä½ éœ€è¦æˆ‘ä»¬ä¿ç•™æ•°æ®ï¼Œå³ä½¿æˆ‘ä»¬ä¸å†éœ€è¦ä¹Ÿæ˜¯å¦‚æ­¤ï¼Œå› ä¸ºä½ éœ€è¦åˆ©ç”¨ç›¸å…³æ•°æ®æ¥ç¡®ç«‹ã€è¡Œä½¿æˆ–æå«åˆæ³•è¦æ±‚ï¼›æˆ–è€… 
+    (d) ä½ åå¯¹è¿‡æˆ‘ä»¬ä½¿ç”¨ä½ çš„æ•°æ®ï¼Œä½†æˆ‘ä»¬éœ€è¦éªŒè¯æˆ‘ä»¬æ˜¯å¦æ‹¥æœ‰å¯å¦å†³ä½ çš„åå¯¹è¯·æ±‚çš„åˆæ³•ç†ç”±æ¥ä½¿ç”¨ç›¸å…³æ•°æ®ã€‚
+    è¯·æ±‚å°†ä½ çš„ä¸ªäººæ•°æ®ä¼ è¾“ ç»™ä½ æˆ–ç¬¬ä¸‰æ–¹ã€‚æˆ‘ä»¬ä¼šä»¥ç»“æž„åŒ–çš„ã€é€šç”¨çš„ã€æœºå™¨å¯è¯»å–çš„æ ¼å¼å°†ä½ çš„ä¸ªäººæ•°æ®æä¾›ç»™ä½ æˆ–ä½ é€‰æ‹©çš„ç¬¬ä¸‰æ–¹ã€‚è¯·æ³¨æ„ï¼Œè¿™é¡¹æƒåˆ©ä»…é€‚ç”¨äºŽä½ æœ€åˆæä¾›ä¸”åŒæ„æˆ‘ä»¬ä½¿ç”¨ï¼Œæˆ–æˆ‘ä»¬å¯ä»¥ä¸ºä¸Žä½ è¾¾æˆåè®®ä¹‹ç›®çš„è€Œä½¿ç”¨çš„è‡ªåŠ¨åŒ–ä¿¡æ¯ã€‚
+    éšæ—¶æ’¤é”€åŒæ„ ï¼ˆæˆ‘ä»¬æ ¹æ®æ­¤åŒæ„æ¥å¤„ç†ä½ çš„ä¸ªäººæ•°æ®ï¼‰ã€‚ä¸è¿‡ï¼Œè¿™ä¸ä¼šå½±å“åœ¨ä½ æ’¤é”€åŒæ„ä¹‹å‰æ‰§è¡Œçš„ä»»ä½•åˆæ³•å¤„ç†è¡Œä¸ºã€‚å¦‚æžœä½ æ’¤é”€åŒæ„ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šæ— æ³•ä¸ºä½ æä¾›ç‰¹å®šçš„äº§å“æˆ–æœåŠ¡ã€‚å¦‚æžœåœ¨ä½ æ’¤é”€åŒæ„æ—¶é¢ä¸´è¿™ç§æƒ…å†µï¼Œæˆ‘ä»¬ä¼šä¸ºä½ æä¾›ç›¸å…³é€šçŸ¥ã€‚ å¦‚æžœä½ å¸Œæœ›è¡Œä½¿ä¸Šè¿°ä»»ä½•æƒåŠ›ï¼Œè¯·æŒ‰ç…§ä¸‹é¢ä»‹ç»çš„æ–¹å¼ä¸Žæˆ‘ä»¬è”ç³»ã€‚
+    ä½ æ— éœ€ä»˜è´¹å³å¯è®¿é—®ä½ çš„ä¸ªäººæ•°æ®ï¼ˆæˆ–è¡Œä½¿ä»»ä½•å…¶ä»–æƒåˆ©ï¼‰ã€‚ä¸è¿‡ï¼Œå¦‚æžœä½ çš„è¯·æ±‚æ˜Žæ˜¾æ˜¯æ¯«æ— æ ¹æ®ã€é‡å¤æˆ–è¿‡åˆ†çš„ï¼Œåˆ™æˆ‘ä»¬å¯èƒ½ä¼šæ”¶å–åˆç†çš„è´¹ç”¨ã€‚åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæˆ‘ä»¬ä¹Ÿå¯èƒ½ä¼šæ‹’ç»éµä»Žä½ çš„è¯·æ±‚ã€‚æˆ‘ä»¬å¯èƒ½éœ€è¦å‘ä½ ç´¢å–ç‰¹å®šä¿¡æ¯ï¼Œä»¥å¸®åŠ©æˆ‘ä»¬ç¡®è®¤ä½ çš„èº«ä»½ï¼Œå¹¶æå«ä½ è®¿é—®è‡ªå·±çš„ä¸ªäººæ•°æ®ï¼ˆæˆ–è¡Œä½¿ä½ çš„ä»»ä½•å…¶ä»–æƒåˆ©ï¼‰çš„æƒåˆ©ã€‚è¿™æ˜¯ä¸€é¡¹å®‰å…¨æŽªæ–½ï¼Œæ—¨åœ¨ç¡®ä¿ä¸ªäººæ•°æ®ä¸ä¼šæŠ«éœ²ç»™ä»»ä½•æ— æƒèŽ·å–çš„äººå‘˜ã€‚æˆ‘ä»¬è¿˜å¯èƒ½ä¼šä¸Žä½ è”ç³»ï¼Œè¦æ±‚ä½ æä¾›ä¸Žç›¸åº”è¯·æ±‚æœ‰å…³çš„è¯¦ç»†ä¿¡æ¯ï¼Œä»Žè€Œæ›´å¿«é€Ÿåœ°ä½œå‡ºå›žå¤ã€‚æˆ‘ä»¬ä¼šå°è¯•åœ¨ 1 ä¸ªæœˆå†…å›žå¤æ‰€æœ‰åˆæ³•è¯·æ±‚ã€‚æœ‰æ—¶ï¼Œå¦‚æžœä½ çš„è¯·æ±‚ç‰¹åˆ«å¤æ‚æˆ–ä½ æäº¤äº†å¤šä¸ªè¯·æ±‚ï¼Œåˆ™å¯èƒ½éœ€è¦è¶…è¿‡ 1 ä¸ªæœˆçš„æ—¶é—´ã€‚åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæˆ‘ä»¬ä¼šé€šçŸ¥ä½ ç›¸å…³æƒ…å†µå¹¶åŠæ—¶ä¸ºä½ æä¾›æœ€æ–°åŠ¨æ€ã€‚
+    
+    10. è”ç³»SuperTest
+    SuperTestæ˜¯ç”±ä¸Šæµ·è¯­è½©ä¿¡æ¯ç§‘æŠ€æœ‰é™å…¬å¸æ‰€ç®¡ç†ã€‚
+    åœ°å€ï¼šä¸­å›½ä¸Šæµ·å¸‚æµ¦ä¸œæ–°åŒºé‡‘ç§‘è·¯2966å·å—æ¥¼311å®¤ã€‚
+    ç”µè¯ï¼š+86-21-36696690
+    ä½ å¯ä»¥èŽ·å¾—ä½ é€šè¿‡æˆ‘ä»¬ç½‘ç«™æä¾›çš„ä¸Žä½ æœ‰å…³çš„ä¸ªäººæ•°æ®çš„å‰¯æœ¬ï¼Œæˆ–é€šè¿‡å‘é€ç”µå­é‚®ä»¶è‡³
+feedback@hskonline.com
+æ¥è¯·æ±‚SuperTestå¯¹ä½ çš„ä¸ªäººä¿¡æ¯è¿›è¡Œæ›´æ–°ã€æ›´æ”¹æˆ–åˆ é™¤ã€‚å¦‚æžœä½ å¯¹æˆ‘ä»¬çš„ã€Šç”¨æˆ·éšç§åè®®ã€‹æœ‰ä½•ç–‘é—®æˆ–å»ºè®®ï¼Œè¯·å‘é€ç”µå­é‚®ä»¶è‡³
+feedback@hskonline.com
+â€‚ä¸ŽSuperTestè”ç³»ã€‚
+    æœ€åŽæ›´æ–°æ—¶é—´ï¼š2022å¹´ 7æœˆ 12æ—¥
+SuperTest takes your privacy very seriously. SuperTest is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices.
+
+This policy covers:
+â€¢ important information and who we are 
+â€¢ the personal data we collect 
+â€¢ how and why we collect and use your personal data 
+â€¢ why we process your personal data 
+â€¢ the rights and choices you have when it comes to your personal data 
+â€¢ why we use cookies 
+â€¢ the steps we take to ensure your information is kept secure and confidential 
+â€¢ how long we will hold your information for 
+â€¢ your legal rights 
+  
+1. IMPORTANT INFORMATION AND WHO WE ARE
+SuperTest provides its service (the "Service") to you subject to the Terms of Service, and the following Privacy Policy. We may update this Privacy Policy from time to time. Your continued use of the Service after any such changes have been made constitutes your acceptance of the new Privacy Policy. 
+
+2. INFORMATION WE COLLECT AND RECEIVE
+SuperTest supports phone number, email address, and third-party login. If you choose the login method of phone number or email address, you will need to provide us with your phone number or email address, and we collect this information to identify and verify your identity. When you choose to log in to SuperTest through a third-party account such as Google, Facebook, Line, Naver, Apple ID, WeChat, VK, etc., you agree that we can obtain the information (including mobile phone number, username, profile picture, friends list, etc.) from Google, Facebook, Line, Naver, Apple ID, WeChat, VK, etc. that you are authorized to share. You also agree to bind your third-party account with your SuperTest account so that you can directly log in and use SuperTest through a third-party account and synchronize data between different devices. We will use your personal information you have authorized to share in accordance with the agreement with the third party and in compliance with relevant laws and regulations. If you refuse to agree to SuperTest obtaining the information you have authorized to share from a third party, you will not be able to register and log in through a third-party account such as Google, Facebook, Line, Naver, Apple ID, WeChat, and VK, etc., and you will not be able to synchronize data with your third-party account.
+
+After completing your SuperTest account registration, SuperTest will collect your personal data that you submit, such as your username, email address, phone number, occupation, the reason for studying the language, spoken and studied languages and any other personal or preference information that you optionally enter into the Service, as well as your personal profile and profile picture.
+
+SuperTest also automatically collects and generates other areas of usage information, including: service metadata, log data, IP addresses, third-party data and cookie information, device information (device name, device model, hardware serial number, operating system and application version and type, language settings, resolution, mobile device random storage memory, method of access to the network, network quality data, mobile network information).
+
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific Service feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data, which will be used in accordance with this privacy notice. We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+When you use the Service, you may set up your personal profile, form relationships, send and receive messages, perform searches and queries, enrol in courses, and transmit information through various channels.
+
+There is no statutory or contractual obligation to provide this data, however, where the data is not provided, we will be unable to provide the service.
+
+To improve your user experience, SuperTest may collect the following personal information from you by requesting permission on your device. If you do not agree to provide the following personal information, you may not be able to use the full Service.
+
+â€¢ If you agree to upload your profile picture and/or other image information on SuperTest, you may allow access to the camera or photo album on the device you are using. 
+â€¢ If you agree to upload your audio recordings to SuperTest, you may allow access to the microphone on the device you are using. 
+â€¢ If you agree SuperTest to use your current location information to provide you with better learning content, you may allow access to location services of the device you are using. 
+â€¢ If you agree to download the learning content (topics, audio, video etc.,) from SuperTest to your device's storage for an offline course experience, you may allow storage permission of the device you are using. 
+Collection of personal information by third-party service providers for ads delivery)
+SuperTest may cooperate with third-party service providers to include third-party services in SuperTest's products and/or services (for example, by placing advertisements, links or other forms of promotional content). SuperTest does not share your personal information (such as cell phone number, user name, avatar, friends list, etc.) that you provide to SuperTest or that SuperTest collects from you with, or on behalf of, third-party service providers, except for the third parties explicitly mentioned below. Third-party service providers accessed through SuperTest's products and/or services may have their privacy policies, which are not governed by this Privacy Policy. SuperTest will make efforts to require third-party service providers to comply with relevant laws and regulations when handling your personal information and to make every effort to require them to take relevant confidentiality and security measures, but SuperTest cannot guarantee that they will take the appropriate measures to comply with our requests.
+The following is a detailed description of the main third party SDKs we use and the content of the information they collect and the purposes for which they are used. We also recommend that you read the privacy policies of the relevant third parties to understand their specific practices concerning data security and privacy protection.
+In order for you to receive push functions, our applications embed software tool development kits (SDKs) or similar applications from authorized partners, and we use these SDKs by way of interface calls provided by the operating system. The names, providers, purposes and categories of personal information collected by these third-party SDKs are:
+If you use Huawei / Xiaomi / Meizu / OPPO / VIVO mobile devices,
+OPPO Push (OPPO Guangdong Mobile Communication Co., Ltd.); Xiaomi Push (Xiaomi Technology Co., Ltd.); Vivo Push (Guangdong BBK Electronics Industry Co., Ltd.); Huawei Push (Huawei Technologies Co., Ltd.); Meizu Push (Meizu Technology Co., Ltd.) may read your device information (which may include MAC of connected wireless network devices, wireless network list, IMEIã€device MAC address, network type, phone model, phone serial number, wireless network name) and location information, and the Android permissions invoked to collect personal information may include: 
+READ_PHONE_STATE; WRITE_EXTERNAL_STORAGE; ACCESS_NETWORK_STATE; ACCESS_WIFI_STATE; ACCESS_COARSE_LOCATION; ACCESS_FINE_LOCATION; GET_ TASKS;READ_EXTERNAL_STORAGE;
+With the above collected information and permissions to implement the message push, please note that for the push SDK, it will only be initialized and take effect when you are using the corresponding brand of the mobile device.
+  
+3. INFORMATION USE
+SuperTest will use your personal data in furtherance of our legitimate interests for the following general purposes:
+
+(i) to provide, update, maintain and protect our services, websites, apps and business
+(ii) as required by applicable law, legal process or regulation
+(iii) to respond to your questions and comments
+(iv) to send marketing and transactional communications, including but not limited to email, push notifications, SMS, and in-app messages, about the Service
+(v) statistical purposes
+(vi) for billing, account management and other administrative matters
+(vii) to investigate and help prevent security issues and abuse
+(viii) other purposes as described to you at the point of collection
+
+SuperTest uses such information to fulfil your requests for products and services, and improve our Service to you. If you choose share a SuperTest invite link with a friend and they click the link they will see your profile image (if you have created one) and name on a landing page within SuperTest. You can delete and change this data at any time within your profile settings. No other information is visible.
+
+Please note that if you enter payment details into the Service when purchasing a Paid Service (including any Premium membership), SuperTest itself does not receive or store such payment information, and as such information is received, it is stored and used by our payment service providers for the purpose of completing the purchase.
+
+For users registered through an email address, your email data would have been provided to us by that data controller. In this case you will have received a communication showing how to sign up. You can unsubscribe from these communications at any time.
+  
+4. RETENTION
+SuperTest will retain your personal data for as long as we need to in order to fulfil legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. You have the right to delete your personal data by sending an email requesting so to
+feedback@hskonline.com.
+Please note in this case any financial information will be kept in accordance with local laws.
+  
+5. COOKIES
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you want to delete any cookies that are already on your computer, please refer to the instructions for your browser to locate the file or directory that stores cookies. If you reject all cookies, you may not be able to use some features of the Service.
+  
+6. DISCLOSURE OF PERSONAL INFORMATION
+We display your Profile information (except for your email address and password) to people browsing for friends. SuperTest does not rent, sell, or share personal information about you with third parties except to provide products or services you've requested, when we have your permission, or in the following circumstances:
+â€¢ where SuperTest is responding to a subpoena, court order, or legal process, or to establish or exercise our legal rights or to defend ourselves against legal claims; 
+â€¢ where SuperTest believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SuperTest's Terms of Service, or as otherwise required by law; 
+â€¢ where you are using a Paid Service (including a Premium membership) in your capacity as a student or an employee or other third party using the Paid Service, we may in such circumstances share your personal information with your educational establishment, your employer or any third party paying for the Service on your behalf (as the case may be) to allow them to monitor your use of the Paid Service; 
+â€¢ where SuperTest transfers information about you if SuperTest is acquired by or merged with another company. If this happens, SuperTest will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+
+We may share your data including email addresses with other data processors such as Facebook, Google to provide targeted advertising. For users with a Premium membership sponsored through an organisation we will not share your data for advertising purposes. 
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+Please remember that whenever you disclose personal information online, that information can be collected and used by others. By posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties as a result.
+  
+7. CONFIDENTIALITY AND SECURITY
+We shall take measures to protect personal data using reasonable and industry standard security safeguards against loss or theft, as well as unauthorised access, disclosure, copying, improper use or modification.
+
+Your personal data is password protected and, other as set out in this Privacy Policy, can only be seen by you and us. You agree to keep your password(s) confidential and not to disclose them to anyone else, or allow them to be disclosed.
+
+SuperTest limits access to personal information about you to employees who SuperTest reasonably believes need to come into contact with that information, to provide products or the Service to you, or in order to do their jobs.
+
+SuperTest has physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you. However, data transmissions over the internet cannot be guaranteed to be 100% secure. Consequently, SuperTest cannot ensure or warrant the security of information you transmit to SuperTest. In particular, by accessing and using the Service, you do so at your sole risk and you are responsible for restricting access to your computer and ensuring that your computer is free from all types of malicious code, spyware, viruses, Trojans, etc. that may track any data you enter into the Service, including email address and payment related information. We are not responsible for any loss or damage arising from the userâ€™s failure to comply with this paragraph.
+
+However, when you pay for a Paid Service, SuperTest uses secure payment service providers to make sure that your payments are secure.
+
+SuperTest is subject to the Google Privacy Policy and Terms of Service.
+  
+8. THIRD-PARTY WEBSITES
+Where the Site, or any other part of the Service, links to other websites, such other websites do not operate under this Privacy Policy. SuperTest recommends that you examine the privacy statements posted on such other websites to understand their procedures for collecting, using, and disclosing personal data.
+
+9. YOUR LEGAL RIGHTS
+You have the right to:
+Request access to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us to continue to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to form a contract with you.
+
+Withdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+If you wish to exercise any of the rights set out above, please contact us as detailed below. You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
+
+10. CONTACT SuperTest
+SuperTest is managed by Shanghai Yuxuan Information Technology Co.
+Address: Room 311, South Building, No. 2966, Jinke Road, Pudong New Area, Shanghai, China
+Tel: +86-21-36696690
+
+You may obtain a copy of the personal data held about you that you provide through the Site or otherwise request that SuperTest updates, make changes or deletes personal information by sending an email to
+feedback@hskonline.com.
+If you have any questions or suggestions regarding our Privacy Policy, you can contact SuperTest by email at
+feedback@hskonline.com.
+Last Updatedï¼šJuly 28, 2021

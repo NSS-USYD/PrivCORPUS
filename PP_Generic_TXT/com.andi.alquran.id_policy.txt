@@ -1,0 +1,38 @@
+Kebijakan Privasi | Quran Android
+Kebijakan Privasi
+Saat Anda menggunakan aplikasi kami, Anda mempercayai kami dengan informasi Anda. Karena kami sangat fokus dengan privasi Anda, maka Kebijakan Privasi ini dimaksudkan untuk membantu Anda memahami data apa yang kami kumpulkan dan mengapa kami memerlukannya. Ini penting; Kami harap Anda meluangkan waktu untuk membacanya dengan saksama. Kami akan menjelaskannya dengan sesederhana mungkin.
+Mengumpulkan Informasi Perangkat
+Aplikasi Al-Qur'an Indonesia ini menggunakan
+Google Firebase Analytics
+(salah satu produk milik Google)
+									untuk mengumpulkan informasi, seperti: model perangkat, versi sistem operasi dan fitur apa saja yang sering dibuka pada aplikasi ini. Informasi ini kami gunakan agar
+									kami mengetahui pengalaman pengguna di aplikasi ini, supaya aplikasi ini bisa menjadi lebih baik lagi pada update berikutnya. 
+									Anda harus tahu, hampir seluruh aplikasi yang ada di Google Play Store dan Apple Store menggunakan Google Firebase Analytics.
+Mengumpulkan Email
+Aplikasi Al-Qur'an Indonesia ini menggunakan
+Google Firebase Authentication
+untuk "Sign-In" di aplikasi kami, sehingga kami dapat mengidentifikasikan
+									data Terakhir Baca dan Bookmark milik Anda pada saat menggunakan fitur otomatis menyimpan data tersebut ke Server kami.
+									Jadi secara tidak langsung alamat Gmail Anda akan tersimpan ke
+									dashboard Firebase dan Server kami.
+									Anda harus tahu, Firebase adalah salah satu produk milik Google, Google tidak akan
+									mengizinkan seluruh developer (termasuk kami) untuk mengetahui kata sandi (password) Anda dengan cara apa pun,
+									jadi tidak perlu khawatir takut akan kehilangan akun Gmail Anda karena "Sign-In" di aplikasi kami, kami hanya
+									mengumpulkan alamat Gmail saja untuk mempermudah identifikasi data Terakhir Baca dan Bookmark milik
+									Anda, kami juga tidak akan membagikan alamat Gmail Anda kepada siapa pun untuk tujuan apa pun.
+Memerlukan Informasi Lokasi
+Aplikasi Al-Qur'an Indonesia ini memerlukan GPS untuk dihidupkan saat membuka fitur Jadwal Sholat agar fiturnya bekerja dengan baik. 
+									Hal ini diperlukan untuk mendapatkan titik koordinat dari lokasi Anda berada agar aplikasi ini dapat mengkalkulasi Jadwal Sholat dengan tepat. 
+									Anda harus tahu, kami tidak mengumpulkan informasi titik koordinat lokasi Anda ke server kami, titik koordinat Anda hanya kami simpan di perangkat Anda. 
+									Kami hanya mengumpulkan lokasi umum Anda (nama kota) ke Google Firebase Analytics, seperti yang dijelaskan pada poin pertama.
+Memerlukan Akses Penyimpanan
+Aplikasi Al-Qur'an Indonesia ini memerlukan akses ke penyimpanan di perangkat Anda, sehingga salah satu fitur bekerja dengan baik. Hal ini diperlukan agar Anda bisa mendownload file audio murottal dari server kami ke tempat penyimpanan Anda. Sehingga audio murottal bisa diakses secara offline. Anda harus tahu, kami tidak akan dan niat untuk mencuri data dari tempat penyimpanan Anda ke server kami.
+Informasi Keamanan
+Kami telah menerapkan pengamanan administratif dan teknis yang diyakini sangat
+advance
+untuk melindungi data dan privasi Anda.
+Terakhir direvisi pada 9 Juni 2022.
+Copyright © 2023
+Mobile Apps by Andi Unpam
+|
+Kebijakan Privasi

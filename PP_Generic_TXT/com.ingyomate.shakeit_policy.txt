@@ -1,0 +1,54 @@
+Privacy Policy
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+We do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.
+Service Providers
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Analytics
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+Google Analytics
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page:http://www.google.com/intl/en/policies/privacy/
+Firebase
+Firebase is analytics service provided by Google Inc.
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: http://www.google.com/intl/en/policies/privacy/
+We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245. For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/
+Advertising
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+AdMob by Google
+AdMob by Google is provided by Google Inc.
+You can opt-out from AdMob by Google service by following the instructions described by Google:https://support.google.com/ads/answer/2662922?hl=en
+For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page:http://www.google.com/policies/privacy/partners/or visit the Privacy Policy of Google:http://www.google.com/policies/privacy/
+MoPub
+MoPub is provided by MobPub, Inc.
+You can opt-out from MobPub service by following the instructions on MoPub Opt-out page:http://www.mopub.com/optout/
+For more information on what information MobPub collects and how it's used, please read MoPub Privacy Policy:http://www.mopub.com/legal/privacy/
+AppLovin
+AppLovin is provided by the AppLovin Corporation.
+If you'd like to opt-out from AppLovin service, please visit the AppLovin Opt-out page:https://www.applovin.com/optout
+If you'd like to learn more about AppLovin, please visit the Privacy Policy page of AppLovin:https://www.applovin.com/privacy
+Unity Ads
+​
+Unity Ads is provided by Unity Technologies.
+You can opt-out from Unity Ads service by following the instructions as described by Unity Technologies on their Privacy Policy page: https://unity3d.com/legal/privacy-policy
+​
+For more information about Unity Technologies, please visit Unity Technologies Privacy Policy: https://unity3d.com/legal/privacy-policy
+Payments
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+The payment processors we work with are:
+
+Google Play In-App Payments
+Their Privacy Policy can be viewed athttps://www.google.com/policies/privacy/
+Permissions
+Required Permission 
+-None
+
+Optional Permission
+- Service can be available without the  Optional Access Agreement.
+- Storage (READ_EXTERNAL_STORAGE) : It is needed for importing alarm tones from the phone storage.
+- Microphone (RECORD_AUDIO) : It is needed to turn off the alarm during “Shouting” function.
+- Display Over the Apps (SYSTEM_ALERT_WINDOW) : It is needed for keeping the strong alarm, even if home button is clicked.
+- Physical activity : It is needed to step counter function.
+- Notifications - Alarm status, Allow Notifications is required to display the informations in the notification bar.

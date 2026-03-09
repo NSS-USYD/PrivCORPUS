@@ -1,0 +1,44 @@
+Privacy Policy
+1. Introduction
+Your privacy is important.
+At
+LT Software
+, Our main priorities is the privacy of our apps users.
+This privacy policy describes and covers how Bit's Apps or 'we' or 'us' the use of any application that was created and published on our store,
+By downloading and using any of the Bit's Apps published on our Store , you are accepting and consenting to the practices described in our Privacy Policy.
+2. DATA and information
+Note that LT Software has no access or control to any personal Data and information, Our apps does not collect or send us back any type of Data or information.
+2.1
+All the permissions on our apps are for our users personal use only and applications performance.
+2.2
+At LT Software, we do not collect or ask for information, like your username, password, e-mail address or phone number.
+2.3
+LT Software does not knowingly collect any type of Personal Identifiable Information from children under the age of 13.
+3. Permissions
+1 Internet & Network
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+Our apps uses Admob ads, In addition to server Banner & intertitial ads our apps will need these two permissions.
+Note: Internet is used exclusively to display ads on our apps.
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CAMERA
+Our apps uses image in gallery or camera to set avatar user.!
+4. ADMOB
+For a better user experience Bit's Apps have admob as a partner to server ads for our audience, admob is globally known for it user friendly ads, to do so admob uses cookies to serve ads is our apps.
+For more information about admob's carefully read their Privacy policy here :
+https://support.google.com/admob/answer/6128543.
+5. Cookies
+Admob may use cookies to serve targeted and valuable ads.
+Do we collect real time location information of the device?
+LT Software doesn't collect or share any type of personal data as real time location information.
+5. California Online Privacy Protection Act
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy.
+The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.
+According to CalOPPA we agree to the following: Users can use our app anonymously.
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found within our apps Users will be notified of any privacy policy changes.
+We are committed conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected.
+Bit's Apps may change this privacy policy from time to time at Bit's Apps's sole discretion.
+CONTACT
+If you have any questions regarding our Privacy Policy, please contact our email at:
+Email:
+LT Software

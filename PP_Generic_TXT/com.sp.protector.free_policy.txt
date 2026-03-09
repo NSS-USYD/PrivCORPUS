@@ -1,0 +1,30 @@
+AppLock - Privacy Policy
+Your privacy is important to AppLock. Sometimes we need information to provide services that you request, this privacy statement applies to AppLock.
+Personal Information
+The app uses user's Google Account(Email Address) in the following circumstances :
+Â· when requesting confirmation that you are an existing paid version user
+Â· when requesting password reset using Email Authentication
+(during Email Authentication, the user's email address is temporarily stored on the email server and deleted after a certain period)
+Except for the above circumstances, We DO NOT collect, store or use any personal information while you visit, download or upgrade our products.
+Non-Personal Information
+We may collect and use non-personal information in the following circumstances. To have a better understanding in user's behavior, solve problems in products and services, improve our products, services and advertising
+The main Permission used by AppLock are described below.
+Camera & Recording Audio
+Used to take pictures and videos when an external user unsuccessfully tries to unlock after unsuccessful attempts.
+Get your account
+Used to identify users who have purchased an existing paid version.
+Fine/Coarse Location Background Access
+Used to get Wi-Fi SSID for automatically enabling/disabling lock service. Location data is not sent and collected on the server.
+Read phone state
+Used to lock incoming calls to prevent others from receiving them.
+Repository Access
+Used to get the background of the lock screen, or to store backup files and so on.
+Device Administrator
+Used to prevent AppLock being uninstalled and does not use any other Device Administrator functions.
+Accessibility Service
+Used to lock/unlock apps for users with disabilities and reduce battery usage. AppLock does not use any other Accessibility features and never collects user personal data.
+Gmail Send Access
+Used to send unlock failure log using user's gmail.(Observer feature)
+Contact Us
+If you have any questions regarding this Privacy Policy, you may contact us at sputnik@spsoftmobile.com
+Privacy Policy | â“’ Spsoft.

@@ -1,0 +1,98 @@
+Privacy Policy – DigiHUD Speedometer
+Android's favourite speedometer...
+DigiHUD Speedometer – an Android app.
+Frequently Answered Questions
+About
+Using DigiHUD
+Troubleshooting
+Features by app version
+Latest posts
+Contact form
+Search
+Recent Posts
+DigiHUD (free) Release notes, v1.5.5 (03/08/2020)
+DigiHUD (free) Release notes, v1.5.4 (29/07/2020)
+DigiHUD (free) Release notes, v1.5.3.1 (05/07/2020)
+DigiHUD Pro Release notes, v1.1.16.2 (updated 05/07/2020)
+Privacy Policy
+What you’ve been saying
+James Moss
+on
+What is the satellite icon for?
+Sdp
+on
+What is the satellite icon for?
+James Moss
+on
+What is Window Mode?
+GrungeGuitarist
+on
+What is Window Mode?
+James Moss
+on
+What is Window Mode?
+Categories
+About DigiHUD
+Coding Hell
+DigiHUD (Free)
+DigiHUD (Pro)
+Display
+GPS
+HUD
+Release Notes
+Video
+Bookmarks
+DigiHUD on Facebook
+DigiHUD Pro on Google Play™
+DigiHUD on Twitter
+DigiHUD on Google Play™
+Archives
+August 2020
+July 2020
+June 2020
+December 2018
+November 2018
+December 2017
+January 2017
+October 2016
+September 2016
+May 2016
+April 2016
+March 2016
+January 2016
+September 2015
+July 2015
+June 2015
+May 2015
+Meta
+Log in
+Entries feed
+Comments feed
+WordPress.org
+Privacy Policy
+8th December 2018
+by
+James Moss
+·
+Comments Off
+on Privacy Policy
+DigiHUD Speedometer mobile app for Android accesses location data from the device GPS sensor for the purpose of displaying various speed and distance statistics on your device. Location data is stored on the device and is not transmitted to other devices or systems. This data is only accessible by the DigiHUD Speedometer app.
+In order for the app to provide its core functions it requires your permission to access the device location.
+When using the app’s Window Mode the app can continue to run when the screen is off or the app is not being used by means of a foreground Service. A persistent notification will be displayed when running in Window Mode to allow the app to be returned to focus. Window mode requires that the ‘Display over other apps’ Android setting is enabled on your device for DigiHUD Speedometer.
+About
+James Moss
+Software developer in the travel industry by day, sim gamer and occasional app developer by night.
+View all posts by James Moss
+→
+Post navigation
+Previous
+Previous post:
+It broke, my bad.
+Next
+Next post:
+DigiHUD Pro Release notes, v1.1.16.2 (updated 05/07/2020)
+Proudly powered by WordPress
+.
+					Theme: Flat 1.7.11 by
+Themeisle
+.

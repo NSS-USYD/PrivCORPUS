@@ -1,0 +1,28 @@
+MEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTION
+MEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTION
+We attach great importance to protecting your privacy. Before using the Memorize Quran application, please read carefully the following statements.
+In order to provide more accurate and well-targeted services, we may use some anonymous information regarding your device metrics such as screen resolution, device brand and model name. By using this application you agree to provide those anonymous information. We do not collect any personal information in the Memorize Quran application.
+Permissions use the application for the following reasons:
+Phone
+read phone status and identity:
+This permission is needed  to pause the recication upon receiving a phone call.
+Photos/Media/Files
+read the contents of your USB storage:
+This permission is needed to read and open downloaded recitation files.
+modify or delete the contents of your USB storage:
+This permission is needed  to download qiraat recitation files to your device.
+Storage
+read the contents of your USB storage:
+This permission is needed to read and open downloaded recitation files.
+modify or delete the contents of your USB storage:
+This permission is needed  to download qiraat recitation files to your device.
+Device ID & call information
+read phone status and identity:
+This permission is needed to pause the recication upon receiving a phone call.
+Other
+view network connections, change network connectivity:
+This permission is needed to check your Internet connection & type to provide the best method to download recitation files.
+full network access:
+This permission is needed  to be able to download recitation files.
+prevent device from sleeping:
+This permission is needed to prevent your device from sleeping during the recitation.

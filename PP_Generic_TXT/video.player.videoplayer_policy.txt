@@ -1,0 +1,122 @@
+Privacy Policy
+Privacy Policy
+Effective Date: November 24, 2022
+Video Player All Format - XPlayer ("XPlayer") is a video player application provided by InShot Inc. XPlayer respects and protects usersâ€™ personal privacy. Please put more emphasis on the bolded terms in this policy, which have a significant relationship with your rights and interests (possibly). Before using or continuing to use our products and services, please read carefully and fully understand this policy.
+This policy stipulates the personal information of minors in Article 9. If you are the legal guardian of the relevant minor user, please read carefully the terms on the protection of minor information and choose whether to agree to this policy. At the same time, please teach minors to enhance their personal information protection awareness and ability, and do not provide any personal information to any product and service provider without your consent; If you are a relevant minor user, please read this policy carefully with the accompany and help of your parents or guardians, and use our products and services or provide us with information with the consent of your parents or guardians.
+To give you an overview, this Privacy Policy is structured as follows:
+1. How We Collect and Use Your Personal Information
+2. How We Use Cookies
+3. Why We Collect Your Personal Information
+4. How We Share, Transfer, and Publicly Disclose Your Personal Information
+5. Your Rights
+6. How We Store and Protect Your Personal Information
+7. To California Residents
+8. To EU Users
+9. Children Under 13
+10. Contact Us
+11. Changes to This Privacy Policy
+1. How We Collect and Use Your Personal Information
+Provide you with products and/or servicesï¼š
+1)
+Storage permission:
+To perform the main features of our app,
+we need permission to access your local media to read the storage and modify the videos and music stored in your local device.
+This permission is only for the features mentioned above. We will not obtain any data from your device, nor will we modify or automatically delete the content in your local media storage.
+2. How We Use Cookies
+Cookies are text files created on your device by the web server. In order to provide a better service, we may use related technologies to send one or more cookies to your device to collect and store information about the use of this product. The specific usage is as follows:
+Help you simplify the visit experience
+Cookies can help you call up information during subsequent visits, simplify the process of recording and filling in personal information, and allow you to have a more relaxed visit experience.
+Personalized display
+Admob, Mopub, as advertisers of XPlayer, may collect information generated during your use of our products and services, extract your preferences, and use them to show you ads that are more in line with your individual needs. We will use technical means to anonymize the data, and the anonymized information will not be able to identify the subject. If you are not interested in personalized display, you may turn off the display of personalized content through our App services or the setting on your mobile device.
+Please note that you may still see ads after turning off this option, but the relevance of ads will be reduced.
+3. Why We Collect Your Personal Information
+In order to improve our service;
+Other purposes related to our business;
+To comply with laws and regulations.
+4. How We Share, Transfer, and Publicly Disclose Your Personal Information
+Share
+We promise to keep your personal information confidential. Except for the scenarios stipulated in this policy, we only share your necessary information with third parties in the following situations:
+1) Have obtained your explicit consent or authorization;
+2) When it is required to be provided in response to instructions from state agencies, authority, or administrative or judicial requirements;
+3) When achieving the purposes described in the section "How We Collect and Use Your Personal Information";
+4) Share with advertising service and technical support partners.
+In order to provide you with more complete and high-quality products and services, we may share some of your personal information with our partners. Please note that we will only share your personal information for legal, legitimate, necessary, specific, and clear purposes. At the same time, we require third parties to deal with shared information with confidentiality and security measures no less than those required by this policy. Once we discover any violation of dealing with the personal information, we will terminate the partnership immediately and pursue legal responsibility.
+Directory of third-party SDKs that may be accessed
+Category
+Function
+Types of information collected
+Remark
+Firebase SDK
+Data statistical analysis service
+Application software list
+https://policies.google.com/privacy
+Admob Ads SDK
+Get and display ads
+Unique device identification code (Android ID)
+https://policies.google.com/privacy
+Mopub Ads SDK
+Get and display ads
+Device location information, unique device identification code (Android ID)
+https://www.mopub.com/en/legal/privacy
+Transfer
+Except for the requirements of laws and regulations, mandatory administrative law enforcement, judicial or regulatory requirements, we will not transfer your personal information to any company, organization or individual.
+Publicly disclose
+We only disclose your personal information in the following situations:
+1) According to your needs, disclose your designated personal information in a disclosure method that you explicitly agree to;
+2) According to the requirements of laws, regulations, mandatory administrative law enforcement, judicial or regulatory agencies, where it is necessary to provide your personal information, we may publicly disclose your personal information based on the type of personal information requested and the method of disclosure.
+5. Your Rights
+Under applicable laws of your jurisdiction, you may have one or more of the rights to your personal information. These rights may include (if relevant):
+1) Provide you with information we collect about you;
+2) Device permissions.
+You may revoke any permissions you have granted to us before, such as permission to access your camera or camera roll;
+3) Delete;
+4) Opt out.
+You have the right to 'opt out' of receiving personalized ads.
+You can exercise your rights above by contacting us at xplayer.feedback@gmail.com or you may do it by yourself through our App services or the setting on your mobile device. If you are a California resident, please refer to the "To California Residents" section.Â And if you are an EU user, please refer to the "To EU Users" section.
+6. How We Store and Protect Your Personal Information
+XPlayer won't store your personal information. All transferred files will be stored in your local device directly.
+We will work hard to provide protection for users' information security to prevent information loss, improper use, being hacked or disclosure. And use various security protection measures within a reasonable security level to ensure the security of information. For example, anonymize your personal information.
+We will work hard to protect your personal information,
+but please understand that there is no "perfect security measure" on the Internet. We will provide corresponding security measures to protect your information according to existing technology and provide reasonable security guarantees. We will do our best to prevent your information from being leaked, damaged, or lost.
+7. To California Residents
+Under the applicable California Consumer Privacy Act ("CCPA"), you have certain rights with respect to your personal information collected by us for business purposes. Please note that this section applies only to people who live in California. Your rights include:
+1) The right to know
+about the personal information a business collects about you how it is used and shared;
+2) The right to delete
+the information collected from you;
+3) The right to opt-out
+of receiving personalized ads;
+4) The right to non-discrimination
+for exercising your CCPA rights.
+8. To EU Users
+Under the applicable General Data Protection Regulation ("GDPR"), you have certain rights with respect to your personal information collected by us for business purposes. Please note that this section applies only to people who live in EU. Your rights include:
+1) The right to obtain certain information
+about our processing, including: the purposes of processing the data; the categories of personal data processed; the recipients who receive your personal data; how long we store your personal data;
+2) The right to receive a copy
+of any personal data which we process about you, in a commonly used and machine-readable format;
+3) The right to delete;
+4) The right to restrict data processing
+of your personal data;
+5) The right to object to the processing
+of your personal data;
+6) The right to withdraw your consent
+you have granted to us;
+7) The right to raise a complaint
+with the relevant data protection authority, if you think that any of your rights have been infringed by us;
+8) The right not to be subject to automated decision-making
+in relation to your personal data. We can confirm that we do not use automated decision-making;
+9) The right to be notified
+in the event of a personal data breach which is likely to result in a high risk to your rights.
+If you don't want to receive the personalize ads, please click "I DON'T AGREE". You may still see ads, but the relevance of ads will be reduced.
+I AGREE
+I DON'T AGREE
+9. Children Under 13
+XPlayer mainly provides its products and services to people over 13 years old (or the prescribed age in your country/region). If you are the guardian of a child user under the age of 13 (or the prescribed age in your country/region), we remind you to properly perform guardianship duties to protect the safety of children's personal information. In addition, please guide and help the children under your supervision during the use of our products and services.
+If you are a child user under the age of 13 (or the prescribed age in your country/region), please read this policy carefully with the assistance and assistance of your parents or guardians before using our products and services, and use our services or provide us with information with the consent of your parents or guardians. If we learn that our products have accidentally collected childrenâ€™s personal information, we will delete the relevant information as soon as possible.
+10. Contact Us
+If you have any suggestions or requests, please feel free to contact us via "Settings"-"Feedback" in the application or by sending an email to xplayer.feedback@gmail.com .
+11. Changes to This Privacy Policy
+According to XPlayer's operational needs or the promulgation of relevant laws and regulations, we need to update or revise our privacy policy from time to time.
+These updates and amendments will also form part of this policy and have the same effect as this policy. When there are major changes to the terms of this policy, for example, changes of the purpose, method, and scope of personal information collection, we will remind you by means of pop-up notifications
+so that you can keep abreast of any changes made to this policy.
+Please note that your use or continued use of the products and/or services we provide means that you fully understand and agree to the entire content of this privacy policy (including updated versions).

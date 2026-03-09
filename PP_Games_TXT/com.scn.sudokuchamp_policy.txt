@@ -1,0 +1,50 @@
+PRIVACY POLICY
+This Privacy Policy applies to Sudoku by ScieNext.
+Our Services are designed to avoid collecting information such as your name, address, email address or other similar contact data unless you provide such data to us.
+Information we collect:
+We do NOT collect any information if you download and play our Game.
+We may collect non-personal identification, such as device-specific information, including your operating system version, system language. All of these are for serving you better.
+How we use information we collect:
+Personal information - Since we do not collect Personal Information, we may not use your personal information in any way.
+Non-Personal Information - We may use your Non-Personal Information to personalize user experience, or to help improve our products.
+Advertisement serving technologies:
+We and our advertising networks and their partners may use cookies and similar technologies to provide and personalize our Services and provide targeted advertisements. Some of these technologies can synchronize behavior across different mobile apps, devices, and websites so that advertisements can be tailored to your interests. This process is called personalized advertisement experience.
+For further information on advertising networks go to ‘APPENDIX A - Advertising networks and their partners’ below and for further information on analytics service provides go to ‘APPENDIX B - Analytics service providers’ below.
+Information security:
+We are very concerned about safeguarding the confidentiality of your information. We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
+Changes:
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page and within the app. These changes are effective immediately after they are posted on this page.
+Contact us:
+If you have questions or concerns about our privacy practices, please contact us via email at
+scienext@live.com
+APPENDIX A - Advertising networks and their partners:
+Below, you can find a list with all third-party advertising networks and their partners, with whom we work to provide you with a personalized advertisement experience within our apps.
+In order to provide personalized advertisements to our users, those listed below use device information that include personal and non-personal information, such as advertising (or ad) identifiers, IP address regarding the delivery of advertisements and your interaction with them and/or other tracking technologies to enable and optimize this advertising procedure.
+Our Game uses third party services that may collect information that can be used to identify you.
+Make sure our Game does not collect/use user’s information such as Name, Age, Sex, Phone Number, Address, email address etc.
+The third party Software’s/SDK’s have been mentioned below and linked to their respective Privacy Policies. By agreeing to the Terms & Conditions/ Privacy Policy of Sudoku by ScieNext, you acknowledge to use the services and agree to the privacy policies of the below mentioned SDK’s. Your installation and use of this product involves the collection and use of certain data by third parties, according to the terms set forth on the following third-party privacy policies.
+Link to privacy policy of third party service providers used by the app :
+AdMob by Google:
+AdMob by Google is provided by Google Inc. (US)
+For more information on how AdMob uses the collected information,
+please visit the Privacy Policy of Google:
+http://www.google.com/policies/privacy/
+Unity Ads:
+Unity Ads is an advertising service provided by Unity Ads Inc. (US)
+Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+Audience Network by Facebook:
+Audience Network by Facebook is provided by Meta. (US)
+For more information on how facebook uses the collected information,
+please visit the Privacy Policy of Facebook by Meta:
+https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy/
+APPENDIX B - Analytics service providers:
+We want to inform the users of this Service that these third parties have access to the data that is fetched by Sudoku ScieNext. The reason behind the collection and processing of this data is to perform the tasks assigned to them on our behalf such as advertisements, performance analysis, usage statistics, crash analytics to improve app performance. In order to learn about how your information is used by our analytics service providers, you can follow the hyperlinks in the list below to each provider’s privacy notice.
+Fabric:
+Fabric is analytics service provided by Google Inc. (US)
+Privacy Policy:
+https://docs.fabric.io/android/fabric/data-privacy.html
+Firebase:
+Firebase is analytics service provided by Google Inc. (US)
+Privacy Policy:
+https://firebase.google.com/support/privacy

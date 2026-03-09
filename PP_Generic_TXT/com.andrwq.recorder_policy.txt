@@ -1,0 +1,47 @@
+Privacy Policy - SmartMob Support
+SmartMob Support
+Toggle Navigation
+Contact
+Contact
+Privacy Policy
+This document applies to Smart Recorder, the mobile app developed by SmartMob. We've tried to keep text simple, so we hope you take the time to read it carefully.
+Personal information
+We made Smart Recorder with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address, or precise geographic location.
+Usage analytics
+We want to make our product more useful for you, so we added Firebase Analytics to the Smart Recorder app. It collects user behavior information in an anonymous form and transmits it to Google's Firebase servers. That means only app usage data is collected, no personally identifiable information. Then we can use Firebase Analytics to create reports of how our app being used. For example, a percentage of users that use certain features, or most popular Android versions and screen sizes among our users. We use these reports to understand how to spend our development resources more efficiently and make our app better. Sometimes we might share these reports with third parties. To learn more check out
+Google's privacy policy
+.
+Crash reporting
+To make Smart Recorder more reliable tool, we integrated Firebase Crashlytics service. In case of a crash, the app sends certain information to Google's Firebase servers. This information consists of the device type, Android and app versions, certain hardware information about your mobile device, time of the crash, the state of the application at that time, and stack traces. We use it then to find underlying problems and bugs that have to be fixed. To learn more about how this information stored check out
+Google's privacy policy
+.
+Advertising
+We use ads to keep Smart Recorder free for you. All ads in our app served by Google's AdMob network. AdMob may use and collect anonymous data about your interests to customize advertising in our app as well as other sites and apps. To do that AdMob using unique user-resettable Advertising ID, provided by Google Play services. Interest and location data may be linked to your device, but is not linked to your identity. To learn more about AdMob privacy policies and opt-out choices, check out
+Google's privacy policy
+.
+Changes
+We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice. If you have any questions or concerns about our privacy policies, please use a contact form on this page.
+Did this answer your question?
+Thanks for the feedback
+There was a problem submitting your feedback. Please try again later.
+Yes
+No
+Still need help?
+Contact Us
+Contact Us
+Last updated on January 12, 2021
+Toggle Search
+Categories
+Issues and suggestions
+Legal documents
+Purchases and ads
+Finding lost recordings
+Share, export, import
+No results found
+©
+    
+        SmartMob
+    
+    2023.
+Powered by
+Help Scout

@@ -1,0 +1,127 @@
+Privacy Policy
+Privacy Policy
+Effective date July 23th, 2018
+This Privacy Policy explains how personal information is collected and shared when you are using mobile games and applications (together "apps") that were developed and published by Bjoern Bartels ("we").
+Our apps are made available via the Apple App Store and Google Play Store. By downloading and using our apps you agree to this Privacy Policy and consent to the processing of your personal information as explained in this document.
+We may update this Privacy Policy from time to time. If there are any changes we will revise the date at the top of this document. In some cases we may also provide you with an additional notification.
+General
+We avoid collection of personal information as much as possible. However, for advertising and analytics purposes your device needs to be recognized. Therefore some device-related identifiers (e.g. IP address or Advertising-ID) need to be collected, which are considered personal information.
+We do NOT allow our advertising partners to use your information for personalized advertising.
+You will find a detailed explanation of what information we collect and how this information is handled in the following paragraphs.
+Collection of information
+Information you provide voluntarily
+If you contact us via email (e.g. for support inquiries) you provide personal information like your name, email address and information regarding your inquiry to us.
+Information we collect automatically
+When you are using our apps, we may collect the following kind of information automatically.
+IP address and device identifiers
+We and our partners may collect your IP address and device identifiers like the Advertising-ID or other device related IDs.
+On iOS the Advertising-ID is called
+Apple Identifier for Advertisers
+("IDFA"), on Android
+Google Advertising Identity
+("GAID"). These IDs are used to identify your device across different apps. You can reset them in your device's settings.
+General information about your device
+We may collect information about your device like the type, brand, operating system or language settings.
+Usage information
+We may collect general usage information like how often and how long you use our apps as well as preferred app settings.
+In games we also collect some information on your game progress like your level or score.
+Information we obtain from third parties
+In some situations we receive data concerning you from our partners or other third parties, as explained below.
+Social networks
+Some of our apps allow you to connect to Apple Game Center on iOS and Google Play Games Service on Android. When using those services we may receive information like your username and the usernames of your friends playing the same game. Please refer to the Privacy Policy of those services if you have any questions.
+Analytics partners
+Based on your Advertising-ID our analytics partners may provide us with additional information about you like gender, age-range, categories of interests and location on a city level. That information is only accessible in a way that you cannot be identified.
+Advertising partners
+Based on your Advertising-ID we may receive information from our advertising partners, e.g. if you clicked on an advertisement for one of our apps in a third-party app.
+Information we do NOT collect
+For the purpose of clarification we also want to point out some categories of data that are NOT collected or processed by us.
+Personal app data
+In some of our apps (especially My Love) you can enter personal information like your name or a picture of you. This information is only stored local on your device and not collected, transmitted or shared by us. Please note that this data is not encrypted on your device and that by using local or cloud-based backup mechanisms (e.g. iCloud Backup on iOS devices) you might transfer this data to other locations.
+Precise location information
+Some of our apps need your precise location for its functionality (e.g. Thunderstorm Pro). This information is only processed local on your device. We do not transmit or share this information. In general our apps cannot access your precise location without asking you for permission. All apps that do not need your precise location for their functionality will never access this information.
+Payment information
+Some of our apps available on the Apple App Store offer In-App-Purchases. We do not process the payments of those purchases. We also do not have access to payment information like credit card information. The payment process is completely controlled by Apple. Please refer to Apples Privacy Policy and Terms of Service if you have any questions.
+Usage of your information
+Purposes
+We use and share the collected data for the following purposes:
+Showing advertisements
+In order to show advertisements in our apps, our advertising partners need to identify your device using the Advertising-ID. This is required e.g. for frequency capping and to prevent misuse. However, we tell our partners to show only non-personalized contextual advertisements.
+Improving our apps
+We use analytics and usage data to improve the user experience and stability of our apps.
+Measuring marketing activities and fraud prevention
+Collection of analytics data regarding marketing activities is necessary for us to measure our marketing activities and to prevent fraud.
+Legal basis
+We only collect data that is necessary for us to provide the service, improve the user experience, prevent fraud and run our business. Therefore we rely on our legitimate interest as legal basis for collecting the data.
+Sharing of your information
+We work with different partners that provide analytics and advertising services. We may share collected data (especially device identifiers) with those partners.
+Analytics partners
+We use the analytics services Firebase Analytics and Google Analytics for Firebase provided by Google.
+Advertising partners
+We work with the following advertising partners and may share data like device identifiers with them:
+Google
+Information on data collection:
+https://policies.google.com/
+technologies/partner-sites
+Privacy Policy:
+https://policies.google.com/privacy
+Opt-out
+You can use privacy settings of your device to prevent collection of your Advertising-ID.
+iOS
+Open the
+Settings
+app of your device, then tap on
+Privacy
+, then on
+Tracking
+and disable
+Allow Apps to Request to Track
+.
+Android
+Open the
+Google Settings
+of your device, then tap on
+Ads
+and enable
+Opt out of Ads Personalization
+.
+Please be aware that some analytics and usage data will still be collected, as this is necessary for us to provide the service. When you do not want data to be collected as explained in this document please stop using our apps.
+Transfer to third countries
+As we have partners in the United States of America ("U.S.") your data might be transferred to servers in the U.S., which are considered an unsafe third country by the European Commission.
+In general we only transfer personal data to entities in third countries that have provided appropriate safeguards to ensure protection of your personal data. Therefore we will only transfer your personal data to an entity in a third country if
+the entity is certified under the US-EU Privacy Shield Framework
+(see
+https://www.privacyshield.gov
+)
+â€“ or â€“
+we have entered into a contractual agreement implementing the standard contractual clauses by the European Commission with the entity.
+Security
+We take appropriate measures to protect your personal data. However, please be aware that no technical system or data transmission is absolutely safe.
+Retention
+We store your information only as long as necessary for the specific purpose for which the data was collected. If we keep information longer it will be in an aggregated form, so that you cannot be identified.
+Your rights
+If you are an EEA-based user you have the following rights regarding your personal information. Please contact us if you want to exercise those rights.
+Right of access
+(in accordance with Art. 15 GDPR)
+You have the right to know whether or not we have collected any personal data from you. Furthermore, you have the right to receive a copy of your collected personal data.
+Right to rectification
+(in accordance with Art. 16 GDPR)
+You have the right to have your data corrected.
+Right to erasure
+(in accordance with Art. 17 GDPR)
+Apart from some exceptions, you have the right to have your collected data deleted.
+Right to restriction of processing
+(in accordance with Art. 18 GDPR)
+Under some circumstances, you have the right to have the processing of your data restricted.
+Right to portability
+(in accordance with Art. 20 GDPR)
+You have the right to get a copy of your data in a structured, commonly used and machine-readable format.
+Right to object
+(in accordance with Art. 21 GDPR)
+You have the right to object to processing of personal data concerning you.
+Right to send complaints
+(in accordance with Art. 77 (1) f GDPR)
+You have the right to lodge a complaint with a supervisory authority.
+Children
+Our apps are not directed at children under the age of 16 and we do not knowingly collect personal information from children younger than 16. In the case we discover that a child under 16 has provided us with personal information, we will delete that data as soon as possible. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+Contact
+If you have any questions regarding our Privacy Policy, please contact us at contact@bjoernbartels.com.

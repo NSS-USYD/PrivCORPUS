@@ -1,0 +1,171 @@
+Política de Privacidad App TransmiSitp - MoviliXa | Aplicativos móviles de uso masivo
+Skip to content
+Inicio
+Nuestras Apps
+Contacto
+Transmilenio y Sitp
+– Política de Privacidad
+Última actualización: 24 de febrero de 2023
+MoviliXa SAS (“MoviliXa”, “nosotros”, “Transmilenio y Sitp”, “nuestra app”, “la aplicación”) le agradece por preferir nuestra app que le facilita a los usuarios realizar viajes en transporte público masivo.
+Al utilizar la aplicación y/o servicios proporcionadas por ésta, en adelante “
+APP
+”, desarrollada por MoviliXa SAS en adelante “
+DEVELOPER
+”, aceptará automáticamente esta política de privacidad a la que llamaremos “
+POLÍTICA
+”. Asegúrese de leerla atentamente antes de utilizar la
+APP
+. Si no está de acuerdo con la
+POLÍTICA
+absténgase de realizar uso de nuestra
+APP
+.
+La descarga y uso de la
+APP
+le atribuye la condición de usuario de la misma (en adelante, el “
+USUARIO
+”) e implica la lectura, entendimiento y aceptación de la presente
+POLÍTICA
+.
+Al aceptar la
+POLÍTICA
+, el
+USUARIO
+declara que toda y cualquier información que nos proporcione a través de la
+APP
+es verdadera y precisa. La provisión de cualquier información falsa o fraudulenta está estrictamente prohibida.
+El
+USUARIO
+acepta recibir comunicaciones electrónicas de nosotros. Podemos comunicarnos con el usuario de diversas maneras, como por correo electrónico y notificaciones push en la aplicación. El
+USUARIO
+puede revocar su consentimiento a cualquier comunicación dirigida individualmente en cualquier momento informándonos por medio de la
+APP
+.
+Adicional el
+USUARIO
+acepta que la información proporcionada por la
+APP
+, así como los servicios que se prestan en ella, son proporcionados únicamente para fines informativos. Por ello, el
+DEVELOPER
+no asume ninguna responsabilidad por las decisiones que los
+USUARIOS
+tomen, como fundamento en la información publicada en la
+APP.
+El
+USUARIO
+también acepta que el uso que haga de la
+APP
+queda bajo su responsabilidad.
+1. QUIENES SOMOS.
+MOVILIXA SAS es una empresa legalmente constituida en Colombia domiciliada en la Cra 72b # 5b – 93 Oficina 401 de Bogotá, Colombia.
+2. INFORMACIÓN USADA, RECOLECTADA Y DONDE LA ALMACENAMOS.
+La información que ofrecemos en nuestra aplicación proviene de dos fuentes principales. En primer lugar, utilizamos información pública (datos abiertos) proporcionados por
+Transmilenio S.A.
+a través de formatos como GTFS, entre otros. Además, también utilizamos los reportes de nuestros usuarios, los cuales son validados internamente para asegurarnos de ofrecer información actualizada y relevante acerca del estado del sistema de transporte.
+Cuentas de usuario:
+Para crear una cuenta en la
+APP
+se debe hacer a través de proveedores como Facebook, Google, iTunes o Firebase “
+CUENTA DE USUARIO
+”. La creación de una
+CUENTA DE USUARIO
+no es necesaria para el uso de la
+APP
+, pero puede ser necesario para disfrutar de características específicas de los servicios.
+La creación de la
+CUENTA DE USUARIO
+con proveedores terceros como Facebook, Google o iTunes solicitará datos de identificador en el servicio, nombre del usuario y correo electrónico. El identificador se usa para poder almacenar los datos en el perfil, el nombre se usará para poder ofrecer una experiencia personalizada en la
+APP
+y el correo electrónico se usa para crear solo una cuenta de correo por usuario sin importar el proveedor de autenticación. Los datos de nombre del usuario y correo electrónico se muestran en la información del perfil del usuario.
+Los datos de usuario relacionados con el perfil son almacenados en servidores de Google.
+Usted es el único responsable de mantener la confidencialidad de su cuenta. Usted acepta responsabilidad de todas las actividades que ocurran bajo su cuenta.
+Compras y suscripciones:
+Para gestionar y verificar sus compras y suscripciones en varios dispositivos, recopilamos sus recibos de compra digitales de Google/Apple junto con un identificador de dispositivo único. Los recibos de compra digitales solo incluyen información sobre el tipo y la hora de una compra. No vemos ninguna información de contacto o de pago. Tampoco tenemos acceso a su ID de Google/Apple. Usamos un identificador único con seudónimo que se almacena dentro de su cuenta y solo es accesible para nuestra aplicación. Además de la información básica de compra, recopilamos datos sobre los códigos promocionales y de prueba canjeados.
+Los recibos de compra digital, así como los códigos promocionales o de prueba canjeados, se almacenan en su perfil de Google Play Store para sincronizar sus compras en la aplicación entre sus dispositivos Android y en CloudKit de Apple para sincronizar sus datos de suscripción entre sus dispositivos Apple. No tenemos acceso directo a ningún dato almacenado en sus cuentas.
+Datos de uso de la APP:
+La
+APP
+usa Google Analytics para realizar estadísticas de uso de la
+APP
+pero no recolecta datos personales del usuario.
+Esta información se almacena en servidores de Google en la plataforma de Google Analytics.
+Datos de ubicación:
+La
+APP
+recopila datos de ubicación para
+permitir el seguimiento de viajes y poder brindar notificaciones acerca de intercambio de servicios o llegada a destino, incluso cuando la aplicación
+está cerrada o no está en uso. Estos datos de ubicación en segundo plano se usan exclusivamente con este fin.
+Datos de diagnóstico:
+Para ayudar a identificar y resolver problemas específicos con nuestros productos y servicios usamos Crashlytics de Google y ocasionalmente solicitamos informes de diagnóstico y otros informes de solución de problemas, errores y fallas de los clientes.
+Esta información se almacena en servidores de Google en la plataforma de Google firebase.
+Boletines por email:
+Para informar a nuestros usuarios sobre nuevas funciones, lanzamientos y publicaciones de blog, proporcionamos un boletín al que puede suscribirse con su dirección de correo electrónico.
+Usamos SendGrid para administrar nuestro boletín y otras listas de correo electrónico. SendGrid nos proporciona datos sobre su actividad de correo electrónico, es decir, el lugar, la fecha y la hora en que abre nuestros mensajes, el tipo de dispositivo que está utilizando y sus interacciones con nuestros mensajes, como hacer clic en un enlace.
+Puede darse de baja de nuestro boletín haciendo clic en el enlace para darse de baja que se proporciona al final del boletín.
+Datos para anuncios publicitarios:
+El
+USUARIO
+reconoce y acepta que la aplicación utiliza anuncios proporcionados por Admob y AdManager de Google, Wortise, Media.net, OpenX, PubMatic, Rubicon, Smaato, Smart AdServer, Facebook y utiliza Analytics de Google. Las políticas se pueden consultar en los siguientes links:
+https://policies.google.com/privacy?hl=es
+,
+https://wortise.com/politica-de-privacidad/
+,
+https://www.media.net/privacy-policy/
+,
+https://community.openx.com/s/terms
+,
+https://pubmatic.com/legal/privacy/
+,
+https://www.magnite.com/legal/website-privacy-policy/
+,
+h
+ttps://www.smaato.com/privacy/
+,
+https://smartadserver.com/end-user-privacy-policy/
+,
+https://www.facebook.com/policies_cen
+ter
+y con la presente política el usuario acepta las políticas de las plataformas integradas.
+3. SOLICITUDES SOBRE EL MANEJO DE SUS DATOS.
+Puede realizar solicitudes de modificación, corrección o eliminación de sus datos de la
+APP
+por medio de la sección de contacto de la
+APP
+, desde la pantalla de su perfíl de usuario desde la
+APP
+,  escribiéndonos al correo
+info@movilixa.com
+o a nuestro formulario de contacto indicando la
+APP
+y los datos que desea modificar, corregir o eliminar.
+4. MODIFICACIONES A NUESTRAS POLÍTICAS.
+El
+DEVELOPER
+puede cambiar las
+POLÍTICAS
+de vez en cuando, a su sola discreción. Los cambios sustanciales de estos
+POLÍTICAS
+serán accesibles dentro de la
+APP
+. Dichos cambios sustanciales surtirán efecto siete (7) días después de que se haya dado aviso sobre cualquiera de los métodos antes mencionados. De lo contrario, todos los demás cambios a estas
+POLÍTICAS
+son efectivos a partir de la fecha “Actualizado” y su uso continuado de la
+APP
+después de la última fecha actualizada y constituirá la aceptación y el acuerdo de estar sujeto a dichos cambios. Tenga en cuenta que en caso de que se modifiquen las
+POLÍTICAS
+para cumplir con los requisitos legales, dichas enmiendas pueden tener efecto inmediatamente y sin previo aviso, según lo requiera la ley.
+5. CONTACTO.
+Si tiene alguna pregunta o comentario sobre las
+POLÍTICAS
+o la
+APP
+, puede enviarnos un correo electrónico a la siguiente dirección y haremos un esfuerzo para responder dentro de un plazo razonable:
+info@movilixa.com
+Esperamos que nuestra
+APP
+le sea de utilidad.
+Enlaces de interés:
+Nuestras Apps
+Nosotros
+Nuestras redes:
+© 2022 MoviliXa | Apps de transporte, salud y de propósito general

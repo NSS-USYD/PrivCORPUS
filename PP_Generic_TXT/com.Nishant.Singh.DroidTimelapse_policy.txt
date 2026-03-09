@@ -1,0 +1,60 @@
+Framelapse - Privacy
+Search this site
+Skip to main content
+Skip to navigation
+Framelapse
+Home
+Guide
+FAQ
+Storage
+Videos
+Privacy
+Framelapse
+Home
+Guide
+FAQ
+Storage
+Videos
+Privacy
+More
+Home
+Guide
+FAQ
+Storage
+Videos
+Privacy
+Privacy Policy
+Base permissions
+Framelapse App has
+two
+variants, latest one called "Framelapse" (contains all legacy pro features too) and older "Framelapse Pro (legacy)" .
+Both versions might request following as per need:
+Camera
+- To capture time lapse footage.
+Storage
+- To store recorded time lapse videos on users device.
+Framelapse: Timelapse Camera
+(Latest Version)
+R
+equests
+both
+base permissions
+till Android 10.
+For Android 11+
+only camera
+is requested
+, storage permission not needed as it only writes to own app folder (visible in Gallery)
+.
+No
+internet
+permission requested
+and thus,
+no user data is collected by the app itself. The app is designed taking absolute user privacy in mind.
+Framelapse Pro
+(Legacy)
+requests only the base permissions
+for all Android versions.
+© Neximo Labs
+Report abuse
+Google Sites
+Report abuse

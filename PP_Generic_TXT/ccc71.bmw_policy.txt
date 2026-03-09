@@ -1,0 +1,81 @@
+Privacy Policy | 3C portal
+Skip to main content
+Skip to search
+Applications and Tools for Android
+toggle
+Main menu
+Home
+3C All-in-One Toolbox
+3C Battery Stats
+3C Sensitive Backups
+3C Companion App
+Other Apps
+Forums
+You are here
+Home
+»
+Forums
+»
+Frequently Asked Questions
+»
+Privacy Policy
+by Dr. Radut
+Main menu
+Home
+3C All-in-One Toolbox
+3C Battery Stats
+3C Sensitive Backups
+3C Companion App
+Other Apps
+Forums
+Navigation
+Forums
+Popular content
+Recent content
+Privacy Policy
+Submitted by
+3c
+on Thu, 09/27/2012 - 15:30
+Forums:
+Frequently Asked Questions
+Privacy Policy
+None of your data will ever be collected by
+any apps developped by 3C or KevLeGik
+.
+Google Drive access
+You may grant my apps (3C Toolbox, 3C Explorer or 3C Sensitive Backups) access to your personal Google Drive content as part of the explorer feature or to allow the app to backup/restore your device's data (apps, sms/mms, call-logs).
+None of your data will ever be collected or disclosed by those apps.
+The apps Toolbox and Explorer allow you to move your data to/from Google Drive (and other cloud storage like WebDav, FTP(S), Samba) at your own discretion, without ever collecting any of those.
+The apps Toolbox and Sensitive Backups allow you to backup/restore your personnal data to/from Google Drive (and other cloud storage) at your own discretion, without ever collecting any of those.
+Advertisements and Cookies
+This web site, nor any of my apps use cookies directly, however Google ads may use cookies to show ads more relevant to you. In Europe you can opt-out of this particular usage.
+More information here
+.
+What information do 3C apps collect or disclose?
+None whatsoever.
+Device/user information may be used to display advertisements through cookies as detailed above.
+What information can you send manually?
+When using the 'support request' feature included in apps settings, you actually send technical information about your phone's setup, but
+nothing personnal
+.
+All my apps send basic app and system information (versions, type, root, as so on).
+You can always review the content of a 'support request' before sending it.
+Battery Monitor Widget app also sends:
+Battery technical details as available on device
+Battery history recorded (last 100 records)
+3C Toolbox also sends:
+Battery technical details as available on device
+Battery history recorded (last 100 records)
+CPU technical details as available on device
+SD mount points (to help identify unsupported SD locations)
+Previous visible and internal crash reports (to help fix bugs)
+Process running (to help identify possible conflicts)
+Even though the information received does not contain private or personnal data, it is treated the same way: never disclosed and trashed after a month (delay may vary).
+Should you have further questions, feel free to write to
+3c@3c71.com
+.
+Log in
+to post comments
+Search
+Search this site
+.

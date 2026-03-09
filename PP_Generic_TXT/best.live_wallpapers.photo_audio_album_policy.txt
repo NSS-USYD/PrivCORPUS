@@ -1,0 +1,152 @@
+Galaxy Launcher - PRIVACY POLICY
+Search this site
+Skip to main content
+Skip to navigation
+Galaxy Launcher
+Home
+PRIVACY POLICY
+Galaxy Launcher
+Home
+PRIVACY POLICY
+More
+Home
+PRIVACY POLICY
+Galaxy Launcher
+PRIVACY POLICY
+GALAXYLAUNCHER-TERMS AND CONDITIONS
+:
+Welcome to Galaxy Launcher privacy policy!. we tend to area unit registered in,India. This terms and conditions create a legal agreement between a user & Galaxy Launcher. You agree that victimization our Services,you're agreeing to the present terms and conditions of our Privacy Policy. In your use of our games, applications,services, we tend to might collect bound knowledge as printed below. By victimization the Services you conform to observe and be sure by this Privacy Policy and you consent to the process, collection, use and revealing of your info and knowledge in accordance with its terms. Please don't use the Services if you are doing not conform to this Privacy Policy.
+What type of information is collected?
+Personal information & non personal information
+Personal information is a data that can be used to uniquely identify or contact a person.(For e.g.Name,age email address)
+When personal information is collected?
+when you create a user account, send an error report or participate in online surveys. we don’t collect, store or use any personal information while you visit, download or upgrade our products.
+Non personal information:
+we may collect non personal identification information about installed application, application usage information and device information, phone model,etc.,.To have better understanding in user's behavior, solve problems in services. When you view and interact with our content, how you use them and which services you use.
+How we use the collected information?
+--Help us to develop,
+--Deliver and improve our products and services
+--To promote more relevant ads for you
+--customize our product
+How your Information may be disclosed?
+--By the applicable of Law within or outside your country of residency.
+--Your prior permission.
+--By request from public and governmental authorities.
+--To protect our legal rights and interests.
+--to our Trusted parties who shall comply with this privacy policy
+Recognize incoming/out going calls/Messages:
+we may use this permission to allows apps to recognize an incoming call and message and while if someone is ringing/pinging you the name will be announced without you looking at your screen.
+Access to Gallery/Calendar events:
+we  may use this permission to Allows to access photos, videos and also calendar events in order to notify with you events with our apps. We don’t save/upload your photos/videos/events.
+Location information:
+when you use a location enabled Galaxy Launcher service, we may collect and process about your actual location, like GPS signals to recommend you popular apps based on your location.
+Bluetooth:
+we may use this permission to connect the paired bluetooth devices, Bluetooth_Admin permission to discover and pair bluetooth devices and Bluethooth privileged
+permission to
+pair bluetooth devices without user interaction, and to allow or disallow phonebook access or message access.we dont save and share information.
+Internet:
+we may use this permission to  Allows applications to open network sockets.In Our Apps We are Using INTERNET Permission to use the Internet only.we dont collect or trasnfer network information.
+Read Gservices:
+we if we are using  (parts of) the Google Services Framework, it must declare the READ_GSERVICES permission.This information is untraceable.
+Access Coarse Location:
+we may use this permission to access approximate location derived from network location sources such as cell towers and Wi-Fi.This information is untraceable.
+Access Fine Location:
+we may use this permission to access precise location derived from network location.This information is untraceable
+.
+Vibrate:
+we may use this permission to allow vibration state after conforming the settings has been turned on.
+Wake Lock:
+we may use this permission to access PowerManager WakeLocks to keep processor from sleeping or screen from dimming.
+Receive Boot Completed:
+we may use this permission to allow alarm , Background services etc.. after booting has been completed.
+Set Alarm:
+we may use this permission to access alarm from devices and sets.
+Set Wallpaper:
+we may use this permission to set an selected image as wallpaper. Set_Wallpaper_Hints permission  to adjust and resize selected wallpaper size.
+Write secure settings:
+we may use this permission to access device secure settings.we dont collect or share information
+.
+Write Settings:
+we may use this permission to switch or adjust system settings such as ringtone, vibration and brightness of the screen etc.
+Camera:
+we may use this permission to take photos / videos and turn ON/OFF Camera Flash. We do not save or upload your photos/videos.
+FlashLight:
+we may use this permission to turn ON/OFF Camera Flash.
+Disable Keyguard:
+we may use this permission to access our application functionality after the screen turned off
+Record Audio:
+we may use this permission to record an audio sound when you request. we dont collect or share the information
+.
+Modify Audio Settings:
+we may use this permission to to modify global audio settings as your request.
+Battery Stats:
+we may use this permission to access battery information such as percentage,capacity etc.
+Get Accounts:
+we may use this permission to detects whether users have a Google accounts or not.And to confirm the state of Google Services, provide users with particular application download and update methods.we dont share or save your account information in any manner.it is highly securable.
+System Alert Window:
+we may use this permission to create windows and shown on top all other application.
+Read Calender:
+we may use this permission to read CALENDER info. we dont share and save this information.
+Read CallLog and WriteCallLog:
+we may use this permission to display call logs from devices. we don't collect, save or share your call info.this is highly securable
+.
+Clear App Cache:
+we may use this permission to clear all the caches from all installed applications.
+Kill Background Process:
+we may use this permission to clear all the background process from your device.
+Get Package Size:
+we may use this permission to find out the space of used application.
+Mount Unmount Filesystems:
+we may use this permission to inserting and removing file systems for external storage.
+Read Sync Settings and Write Sync Settings:
+we may use this permission to allow SYNC settings for battery power saving
+.
+Restart Packages:
+we may use this permission to kill Background Processes.it allows them to break other applications by removing their alarms, stopping their services, etc.
+Access/Modify/Delete USB Storage:
+we may use this permission to  Allows to read and modify or delete images/text or audio stored on their sd card. Clock widget: Allows access to set an alarm.
+Recognize Accounts on device:
+we may use this permission to Allows to access permissions to check the accounts/Google accounts linked with their device to provide with appropriate application download and any relevant advertising services with updates.
+Network Connectivity:
+we may use this permission to access network connections/wi-fi connections to view the connectivity and connect the device to receive notifications regarding updates.
+App Settings/Home Settings:
+Startup-Users are provided with Launcher service to customize your screens.
+Home settings allows to maintain users preferences like shortcuts.
+Draw over other app allows to swipe to other app.
+Background apps-This allows the background apps to disable to enhance the fastness of the mobile.
+Sync settings
+:
+we may use this permission to allows to recognize sync settings on/off and to synchronize with user's sync settings in power save mode.
+App history:Allows to access the history in order clean up your device RAM to boost the speed.
+Display:
+we may use this permission to allows users to select our app wallpaper and re size to set as screen image.
+Sounds:
+we may use this permission to  access or adjust ringtones vibrate modes and brightness.
+Storage space:
+we may use this permission to  estimate the amount storage used by our app.
+unique application numbers:
+Number and information such as about your installation like, operating system type may be sent to app when you install/uninstall our service or for automatic updates to run by the servers.
+Ad networks and cross promotion ads :
+Users sometimes find advertisements appearing on our sites by our advertising partners. These advertisements are authorized by us to be displayed.We display ads to cross promote apps and games provided by us.They may use cookies to collect data,incase users clicks the ads, in order to enable the provision of more relevant ads to display.
+Do we disclose your personal information to third parties?
+we do not disclose personal information to the third parties.Some content may link to our sites.We don't control the contents or links that appear on our sites.These links may have their own privacy policy which is independent from our website app.
+push notifications:
+We may occasionally send you push notifications through our mobile applications and games for app/game updates,high score,new graphics and other serviced related notifications.
+Children's policy:
+We understand the importance of taking precautions to protect the privacy and safety of children while using our apps.we don’t collect, use or disclose any personal information of children under 13.Many of our games/Apps are intended for general audiences.
+If you are a parent of a child of 13 years of age and you think your child has provided us with personal information, please contact with us at galaxylaunchers@gmail.com
+Content sharing:
+You understand and agree that all content that you have to be sent using our services whether publicly or privately sent is the sole responsibility of the person that sent the content.i.e,you are responsible to the content download/upload.
+Security:
+If non personal information combined with personal information. we treat it commonly as Personal information.
+we take precautions to safeguard your personal information against loss or theft or misuse and against unauthorized access or destruction.We ensure and communicate our security guidelines to all our employees to strictly enforce privacy safeguards within the company.
+Changes to Privacy policy:
+As a part of privacy measures our Privacy policy may vary from time to time. we will update with any changes to privacy policy so please review periodically New updates are displayed at the top of the page as Last modified.
+If you have any questions or queries or comments about our privacy policy ,please contact us at galaxylaunchers@gmail.com
+Comments:
+You do not have permission to add comments.
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

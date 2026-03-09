@@ -1,0 +1,70 @@
+Privacy Policy
+Privacy Policy
+Updated: December 31, 2021
+This Privacy Policy describes our practices concerning the collection, use, and sharing of your personal information. By using our app, you consent and agree to the collection, use, and disclosure of your personal information and the privacy practices outlined in this policy. You must read thoroughly and fully understand this policy before using or continuing to use our products and services.
+FotoPlay Video Maker
+expressly reserves the right to change this Privacy Policy at any time.
+Content
+1. Your Rights
+2. How We Collect and Use Your Personal Information
+3. How We Disclose and Share Your Personal Information
+4. Third-Party Partners Privacy Policy
+5. Child Protection
+6. Permission Application and Use
+7. How to Contact Us
+8. protect the rights regarding your personal information.
+1. Your Rights
+1）FotoPlay does not need registration, so we cannot provide you with a path to access, correct, or delete your personal information.
+2）You may email us your request to change or withdraw your authorization through Section 7 of this policy, which will result in some or all of the features being unavailable. Also, your decision to change or withdraw your authorization will not affect our previous processing of personal information based on your permission.
+3）Contact us to manage your order information. You can check your historical order details with us through the contact email listed in Section 7.
+4）We take the concern about your personal information very seriously and will do our best to protect the rights regarding your personal information.
+2. How We Collect and Use Your Personal Information
+1）Services for you
+When you use the editing function: we need to access your local media to select videos or   pictures. When you save a finished video, you need to access the local media storage to save the video and modify the storage path. This access is only for you to edit and save videos or pictures,  otherwise, we will not access any content on your device.
+When you use the recording function: we need to get your microphone access for recording audio, and this access will only be used when you are recording video. Also, your audio will be stored in the FotoPlay Draft and on your device. If you delete it from the Draft or your device, FotoPlay will not reserve any related audio material.
+2）Customer Service
+When you give feedback through email, we will collect your email address and email to communicate with you in time to solve your problems.
+3）Subscription
+After you decide to subscribe, we will collect your account number, order details, and related orders. If you do not agree to authorize the account, we can't provide you with the subscription services.
+4）Certain usage related to information about your device and interaction with the device
+For example, the time and way you use, the products and advertisements you view and use, the way you use and how you react, the frequency you use, the type of device, the physical size, the operating system version, the crash information (such as defects) and unique IDs. We do not allow third-party online advertisements to freely collect any information about your use of our services for use on other websites, applications, or services.
+3. How We Disclose and Share Your Personal Information
+1）Disclosure
+We only disclose your personal information in the following circumstances.
+To disclose your personal information by the form of your consent, where you have expressly consented.
+We may disclose your personal information in the manner requested if we are required by law or regulation to provide your personal information.
+2）Share
+We do not sell any personal information to third parties.
+We may share some of your personal information with our third parties to provide you with better products and services except the scenarios outlined in this Privacy Policy. Please note that we will only share your personal information for lawful, legitimate, necessary, specific, and explicit purposes.
+We also require our third-party partners (as described in Section 4 of this Privacy Policy) to deal with the information with confidentiality and security measures required by this Policy. If they are found to be dealing with personal information in violation of this Policy, we will immediately cease cooperation and hold them legally responsible.
+4. Third-Party Partners Privacy Policy
+1）Advertising Services
+Our app uses Facebook and Admob as advertising providers.
+Facebook
+https://www.facebook.com/privacy/explanation
+Admob
+https://support.google.com/admob/answer/6128543?hl=en
+Advertising providers may use your personal information to enhance the advertising experience with your permission.
+2）Services
+* Google Firebase Analytics
+Using Firebase as our background data analysis application
+https://policies.google.com/privacy
+* Facebook GIPHY
+Using Giphy as our getting Gif image service
+https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy
+The service provider may use the relevant device list and identification number for background data analysis with your permission.
+5. Child Protection
+FotoPlay mainly provides products and services for people over 13 years old. If you are the guardian of a user under 13 years old, you're responsible for supervising the child to use our products or services.If you are a user under the age of 13, please read this Policy carefully with a parent or guardian and obtain the consent of your parent or guardian before using FotoPlay's products and services or providing information to us.
+If you are a parent or guardian and believe that FotoPlay has collected information from users under 13, you may contact us through Section 7 of this Policy. We will verify and respond to you. If our products inadvertently collect relevant personal information, we will delete it as soon as possible.
+6. Permission Application and Use
+We request some permissions to make the application functional：
+* Permission.READ_EXTERNAL_STORAGE：
+Allows our app to read photos, videos, and files to create videos.
+* Permission.WRITE_EXTERNAL_STORAGE：
+Allows our app to write, save, modify, and delete photos, files, and crash logs.
+* Permission.RECORD_AUDIO：
+Use the microphone to record audio. Otherwise, it may not be possible to record audio.
+7. How to Contact Us
+If you have any questions about this Privacy Policy or any comments and suggestions about the product, email us at connect.fotoplay@outlook.com. We will respond to you within two business days by receiving your email.
+8. How We Update the Privacy Policy
+We may revise our Privacy Policy irregularly under policy requirements and legal documents. Please note that by using our app and services, you are fully aware of the terms of our Privacy Policy and understand and agree to all the contents. We encourage you to periodically review this page for the latest information on our Privacy Policy. When we collect additional personal information from you or use or disclose your personal information for new purposes, we will ask for your permission again as required by law.

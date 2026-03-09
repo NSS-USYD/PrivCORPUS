@@ -1,0 +1,56 @@
+MyBible for Android – privacy policy and permissions asked – MyBible
+Skip to content
+Goals
+Android app
+Description
+Download
+Extra module registries
+History of releases
+Privacy policy
+Blog
+Android help
+Usage tips
+Too much of everything!
+Modules
+Short lessons from Oleg Safonov (Russian)
+Search possibilities
+Night mode
+Appearance themes
+Synchronization
+Auto-hyperlinks in MyBible
+Commentaries support in MyBible
+iOS app
+Description
+History of releases
+Privacy policy
+Blog
+iOS help
+User’s data
+About us
+Team
+Contacts
+On PC?
+On Mac?
+For doers
+Русский
+MyBible for Android – privacy policy and permissions asked
+The MyBible for Android app
+does not collect any personal data
+.
+Android permission MyBible asks for:
+Storage
+Asked upon the first launch, on Android 10 and older.
+The purpose is to store app’s files in the /MyBible directory at the root of the device’s built-in memory, so that
+MyBible’s files directory can be easily found, and additional custom-made modules can be placed there
+MyBible’s data are not deleted upon deleting of the app itself
+If the user does not give or revokes this permission, MyBible will simply look for its files in /Android/data/ua,mybible/files/MyBible directory, and its files will be deleted upon deleting of the app itself.
+Microphone
+Asked upon accessing the “Voice correction” exercise of the “Memorize” functionality.
+MyBible does not record voice data, which automatically means that it does not store them and does not send them anywhere.
+Without this permission the above exercise is not available.
+Phone
+(for MyBible 5.5.0 and older versions)
+Asked upon the first accessing the Text to Speech (TTS) functionality.
+The purpose is to automatically pause an active TTS for incoming and outgoing phone calls. MyBible does not access any data related to phone calls.
+If the user does not give or revokes this permission, MyBible will simply continue an active TTS during phone calls.
+MyBible team contacts

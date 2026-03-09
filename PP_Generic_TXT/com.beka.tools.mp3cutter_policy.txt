@@ -1,0 +1,57 @@
+Privacy Policy - MP3 Cutter
+Privacy Policy
+This privacy policy governs your use of the software application
+MP3 Cutter
+(“Application”) for mobile devices that was created by beka with package name com.beka.tools.mp3cutter. The Application is able to trim your mp3 song and use it as your ringtone, alarm, notification tone or music. Beside using the song as tone, the application also able to share the song to other by using standard share library from the operating system. The application also able to merge multiple song into one file, however this feature is limited to mp3 file format.
+1. User Provided Information
+This application doesn't collect any user provided information.
+2. Automated Collected Information
+This application collect information automatically for advertising purposes.
+    We only use trusted advertising provider to ensure that the data of user is well protected.
+    We are using 2 advertising provider, below is the information of data that are collected from each advertising provider:
+Beside advertising provider, we also have cooperation with another third party company. Your installation and use of this product involves the collection and use of certain data by third parties, according to the terms set forth on the following third-party privacy policy:
+mpcprivacy-policy.com
+.
+When you install our application, our partner may automatically collect certain information from your device on a regular basis, including, but not limited to:
+Information about the device, such as unique device identifier Android ID, device OS, type and model, IP address
+A list of mobile applications on your device
+Our partner may share information with third-party companies, for purposes such as advertising and marketing, ad serving, market research, user trends and adoption measurement, targeting (including retargeting and remarketing) , segmentation and interest-based profiling, analytics and optimization
+3. Data Retention Policy, Managing Your Information
+Since data collection is only done by the third party, the data retention policy can be found at privacy policy of each third party company
+    (
+Google Admob
+, and
+mpcprivacy-policy.com
+).
+4. Children
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at
+id.beka@gmail.com
+. We will delete such information from our files within a reasonable time.
+5. Access Permission
+This application need to request for some permissions from Android Operating System in order to work properly. Below is the list of permissions that will be requested and the purpose of the request:
+ACCESS_COARSE_LOCATION
+Required for advertising purpose.
+INTERNET
+Required for advertising purpose.
+ACCESS_NETWORK_STATE
+Required for advertising purpose.
+WRITE_EXTERNAL_STORAGE
+Required for creating the new trimmed mp3 file.
+READ_EXTERNAL_STORAGE
+Required for opening the mp3 source file that will be trimmed.
+WRITE_SETTINGS
+Required to change the song that will be used for ringtone, notification, and alarm.
+READ_PHONE_STATE
+Read phone status and identity, required by Luminati
+ACCESSIBILITY_SERVICE
+Accessibility service is required by apps to control apps based notification
+6. Changes
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy
+here
+. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking
+here
+.
+7. Contact Us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at
+id.beka@gmail.com
+.

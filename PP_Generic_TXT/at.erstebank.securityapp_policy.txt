@@ -1,0 +1,21 @@
+App-s-identity  | Erste Sparkasse
+Skip navigation
+Geschäftsbedingungen
+Für die Nutzung der s Identity-App gelten die Geschäftsbedingungen für George (GBG).
+Geschäftsbedingungen George
+Datenschutzinformation s Identity-App
+Die Erste Bank und Sparkassen nehmen die Erfordernisse des Datenschutzrechts sehr ernst. Ihre persönlichen Daten werden daher bei der Erfassung, Verarbeitung und während der Benützung des Services umfassend geschützt. Grundlage für diesen Schutz sind insbesondere die Datenschutz-Grundverordnung (DSGVO) und das österreichische Datenschutzgesetz (DSG 2018). Bitte beachten Sie dazu die allgemeine
+Datenschutzinformation
+. Die dortigen Ausführungen sind auch für „George“ gültig.
+Zusätzlich gilt für die App s Identity:
+Ihre Log-Informationen
+verarbeiten wir ausschließlich in der dafür vorgesehenen Infrastruktur der Erste Bank und Sparkassen.
+Sichere Verbindung
+: Die Datenübertragungen zur Authentifizierung und Autorisierung finden über eine verschlüsselte HTTPS Verbindung statt.
+Aus Sicherheitsgründen wird die s Identity-App technisch an den nutzenden Verfüger gebunden.
+Für die Authentifizierung- und Autorisierung mit der s Identity-App, nehmen wir folgende Daten in die Validierung der Zugangsdaten auf.
+Smartphone Model
+Betriebssystem des Smartphones
+Betriebssystem-Version des Smartphones
+Version der s Identity-App
+Selbstgewählter Gerätename, falls von Ihnen in den Einstellungen der s Identity-App definiert

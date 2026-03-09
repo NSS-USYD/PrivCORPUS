@@ -1,0 +1,91 @@
+Privacy policy – Lonely Cat Games
+Skip to content
+Lonely Cat Games
+Documentation
+X-plore
+Privacy policy
+Be careful about your data
+Copying files
+Multi-selection
+Hiding files
+Sorting
+Creating Zip
+Extracting from Zip
+Batch rename
+Bookmarks and favorites
+WiFi file sharing
+X-plore in Web browser
+WiFi sharing with Tasker
+FTP sharing server
+SSH Protocol
+Root mode
+Donations
+Restore purchase
+Disk Map
+Writing to external storage
+Image viewer
+Music player
+Recycle bin
+App manager
+Home screen shortcuts
+Setting default application
+USB OTG
+NTFS/HFS+ Paragon plugin
+PDF viewer
+Startup security
+Vault
+Experiments
+Known problems
+No access to Android/data on Android 11
+Not keeping file time after copying
+Can’t write to external storage
+Rooted device doesn’t see all folders
+File sync
+Home
+Docs
+X-plore
+Privacy policy
+Privacy policy
+X-plore privacy policy
+X-plore does not collect user’s private information, such as Google username, accounts, etc, except of for functionality provided by application.
+X-plore does not show ads.
+X-plore does not access or use device location.
+X-plore can:
+read/write/delete in device’s internal or external memory
+send or receive data over Internet (as result of user interaction with the app)
+play music or video
+and provide all the functions as described on
+X-plore website
+Login details to network services
+Since X-plore allows connecting to various Interned services such as FTP, Google Drive, etc, the app may ask user for login details (username and password).
+For services where this is possible, X-plore uses OAuth method of logging, where service’s own web page is used to get access token, and X-plore doesn’t keep login details at all.
+For services where this is not possible (such as FTP), X-plore stores login details in its private configuration file (not accessible by other apps) in encrypted form, so that password is not readable even on rooted device.
+Explanation of needed permissions
+X-plore requests following permissions for given purpose:
+Internet
+– access to network file servers, and other network-related functionality
+Access/change WiFi state
+– for providing WiFi sharing function
+Read/write external storage
+– for file management
+In-app purchases
+– to allow
+donations
+Identity
+– to get Google accounts for Google services (Google Drive)
+Prevent device from sleeping
+– for proper work of long-lasting operations
+Crash reports
+When X-plore crashes, it sends crash report to
+crashlytics
+, which is a development tool from Google for improving applications and make them crash-free.
+Crash report contain anonymous data:
+date of posting
+app version
+details about device (model, make, android version, etc)
+stack trace – actual information about the crash, describing locations into app’s source code where the crash happened; this information doesn’t store anything personal
+Crash reports are sent automatically when app crashes, and don’t contain any personal information.
+Updated on November 1, 2021
+Doc navigation
+Be careful about your data →
+© Lonely Cat Games

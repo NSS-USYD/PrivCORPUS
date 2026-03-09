@@ -1,0 +1,20 @@
+Password Manager SafeInCloud for Android, iOS, Windows, and Mac
+License Agreement & Privacy Policy
+Application
+Password Manager SafeInCloud (the Application) is a cross-platform application for storing passwords and other secret data in an encrypted database.
+All rights to the Application belongs to its developer, Andrei Shcherbakov,
+info@safe-in-cloud.com
+(the Developer).
+License Terms
+You can use the Application for any private or business purposes according this License Agreement and to a license agreement provided by an application store, where the Application was purchased.
+Desktop versions of the Application, which are available for download at
+www.safe-in-cloud.com
+website, can be used free of charge.
+User Data
+All user data are stored only on userâ€™s own devices and in a cloud account configured by the user. The data are always being stored and transferred via the Internet in an encrypted form. The Application does not send user data to anyone else.
+A user password is not stored anywhere and thus cannot be restored. If the password is lost, then itâ€™s impossible to access the encrypted data.
+Privacy
+The Application does not collect any personal information and does not transfer any personal information to any 3rd party.
+The Application may transfer anonymous usage statistics and crash logs to the Developer. This transfer can be switched off in the Applicationâ€™s settings (About > Privacy).
+Warranty
+The Developer does not provide any warranty and is not responsible for any losses or damages, which can be related to the Applicationâ€™s usage. You take a whole responsibility yourself by using the Application.

@@ -1,0 +1,67 @@
+Privacy policy
+Everything about World of Tanks in your pocket, install «Knowledge Base for WoT» from Google play.
+X
+Русский
+English
+Personal missions
+|
+Knowledge base
+|
+"Knowledge base for WoT" for Android
+Login
+LOGIN
+Home page
+Download
+Privacy policy
+X
+Выберите регион, для авторизации.
+Select your region to log in.
+Russian region
+North-american region
+European region
+Asia region
+Korean region
+General
+Application
+"Knowledge base for WoT"
+is comliant with «Wargaming Developer Partner Program»
+http://eu.wargaming.net/developers/documentation/rules/rules/
+Authrization using Wargaming API for client applications - user enters his auth data on special page of game publisher World of Tanks.
+Application does not store or transmit user auth data, as well as auth token, to our or other services. Auth token stored on user device till moment it expires.
+Application does not transmit any data to our or other servers, which can identify user.
+Collecting anonymous data Google Analytics
+Application is collecting anonymous Google Analytics data. Information is anonymous and can not be linked with particular user.
+Data which can be collected with Google Analytics:
+Usage statistics: startup, close, frequency and duration of usage
+Popularity of application sections
+User interactions with application - clicks on interface elements, menu
+Usage of different application versions
+User country
+User system language and application language
+Application working speed
+If user don't want Google Analytics data to be collected,
+he can disable this feature in application settings.
+Collection of anonymous data Google Play developer console
+Application is using linked Google play developer account and Google Analytics.
+This means, this data can be transmitted to Google Analytics:
+Application usage on different Android versions
+Device names on which application is used
+Number of displays of application in Google Play Market
+Traffic sources
+Number of views of description page
+Number of installs, downloads and first launches
+User application ratings and dynamic of their change
+Usage of anonymous data
+All data collecting in application are used only by developers of application
+"Knowledge base for WoT"
+for analasys user behavior, interface interaction, popularity of different functions, and doesnt transmitted to third-parties.
+In-app advertisements
+Application
+"Knowledge base for WoT"
+is using targeted advertisements Google AdMob
+https://www.google.com/admob/
+.
+You can find more info about data used by ads network here:
+https://www.google.com/intl/ru/policies/privacy/
+Last privacy policy upadte: February 2015.
+Legal notice. The images contained within are copyrighted by Wargaming.Net LLP and tank stats are intellectual property of Wargaming.Net : Copyright © 1998 - 2013 Wargaming.net ®, All rights reserved. World of Tanks, WoT are trademarks or registered trademarks of Wargaming.net.

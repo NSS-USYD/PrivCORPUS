@@ -1,0 +1,30 @@
+0km apps
+Privacy Policy
+The "0km Apps" development studio knows that you care about how your personal information is used and passed on to third parties. We take your privacy seriously.
+This privacy policy is current on March 23, 2018 and may be updated in the future.
+So please watch for the changes.
+All software products of the "0km Apps" studio do not operate in any way with any personal data identifying a particular user.
+We do not collect, do not use and do not share such personal data as contact list, media files, email, any user id., user age, gender, IMEI etc.
+Information we collect and use:
+Out apps collect data, send to server and store in server. This data no way that does not identify a specific user.
+These are the following types of data:
+* Data for anonymous analysis of statistics of user activity (device screen resolution, Android OS version code, total game play time);
+* Data for analysis causes after app crashed (error code, device name, Android OS version, free memory size). All fault data is collected using the ACRA library;
+* Data for improve the game balance of our gaming applications (duration of a gaming sessions, user game progress, number of wins and fails);
+* Data for implementation of social functionality (game score, generated installation id, etc.);
+* Data for increase the list languages for UI localisation and improve the quality of supported language translation (selected UI language from list os supported languages, Android OS locale code).
+When transferring any data to the server, we use only secure data transmission channels (HTTPS).
+Advertisements:
+Our products use the Admob (AdMob Google Inc.) library for presenting adverts.
+AdMob is an advertising service provided by AdMob Google Inc.
+In order to understand Google's use of Data, consult Google's partner policy (
+https://www.google.com/policies/privacy/partners/
+).
+Contacting Us:
+If you have any questions about this Privacy Policy, please contact us at 0km.mobi@gmail.com.
+E-mail address
+If you contact us - we will only use your e-mail address to reply to your question.
+Contact information
+E-mail:
+0km.mobi@gmail.com
+Last updated: 2016-10-18

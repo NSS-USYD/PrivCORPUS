@@ -1,0 +1,15 @@
+NetGuard - Privacy
+NetGuard - Privacy
+NetGuard does not collect any information.
+NetGuard forwards traffic of allowed connections directly to its destination and does not use a remote VPN server.
+			For more detailed information about this, please see
+the FAQ, question 6
+.
+NetGuard does not require unnecessary permissions.
+			For more detailed information about this, please see
+the FAQ, question 42
+.
+NetGuard is
+100% open source
+.
+Copyright © 2015-2023 Marcel Bokhorst (M66B)

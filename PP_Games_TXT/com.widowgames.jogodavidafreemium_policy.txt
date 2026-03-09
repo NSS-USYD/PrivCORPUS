@@ -1,0 +1,511 @@
+PolÃ­tica de Privacidade do serviÃ§o Genius da Estrela / Banco ImobiliÃ¡rio ClÃ¡ssico / Batalha Naval / Cilada / Jogo da Velha / Jogo da Vida / La Scopa / Lig4 / QI / Sudoku ClÃ¡ssico / War Strategy / Jogo de Damas / 21 Blackjack / Memoquest / MauMau / Ludo_Adventure / Rouba Monte / Chinchon
+PolÃ­tica de Privacidade do serviÃ§o
+Genius da Estrela / Banco ImobiliÃ¡rio ClÃ¡ssico / Batalha Naval / Cilada / Jogo da Velha / Jogo da Vida / La Scopa / Lig4 / QI / Sudoku ClÃ¡ssico / War Strategy / Jogo de Damas / 21 Blackjack / Memoquest / MauMau / Ludo_Adventure / Rouba Monte / Chinchon
+Este Aplicativo recolhe alguns Dados Pessoais dos UsuÃ¡rios.
+Este documento contÃ©m
+uma seÃ§Ã£o dedicada a UsuÃ¡rios brasileiros e seus direitos de privacidade
+.
+Este documento pode ser impresso para fins de consulta, atravÃ©s do comando imprimir nas configuraÃ§Ãµes de seu navegador.
+Resumo da PolÃ­tica de privacidade
+Os Dados Pessoais sÃ£o processados para os seguintes propÃ³sitos e usando os seguintes serviÃ§os:
+Acesso a contas de serviÃ§os de terceiros
+Acesso Ã  conta Facebook
+PermissÃ£o: Contato de e-mail; Lista de Amigos
+EstatÃ­sticas
+Facebook Analytics for Apps e Unity Analytics
+Dados Pessoais: Dados de uso; vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o
+Rastreamento de conversÃµes do Facebook Ads (pixel do Facebook), GameAnalytics e AWStats
+Dados Pessoais: Cookies; Dados de uso
+Google Analytics for Firebase
+Dados Pessoais: aberturas do Aplicativo; atualizaÃ§Ãµes do Aplicativo; compras no Aplicativo; Cookies; Dados de uso; duraÃ§Ã£o da sessÃ£o; geografia; identificaÃ§Ã£o do dispositivo exclusivo para publicidade (ID ou IDFA do Google Advertiser, por exemplo); informaÃ§Ãµes do dispositivo; nÃºmero de sessÃµes; nÃºmero de UsuÃ¡rios; primeiras inicializaÃ§Ãµes; sistemas operacionais
+Hospedagem e infraestrutura de backend
+Amazon Web Services (AWS)
+Dados Pessoais: vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o
+Processamento de pagamentos
+Google Pay
+Dados Pessoais: vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o
+Apple Pay e Android Pay
+Dados Pessoais: Rastreador
+Publicidade
+AdMob
+Dados Pessoais: Cookies; Dados de uso; identificaÃ§Ã£o do dispositivo exclusivo para publicidade (ID ou IDFA do Google Advertiser, por exemplo)
+Registro e autenticaÃ§Ã£o
+Facebook Authentication e Google OAuth
+Dados Pessoais: vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o
+Iniciar sessÃ£o com a Apple
+Dados Pessoais: e-mail
+PermissÃµes do Gmail para acessar Dados do UsuÃ¡rio (adiÃ§Ã£o de OAuth)
+Dados Pessoais: Gerenciamento de configuraÃ§Ãµes bÃ¡sicas
+Remarketing e objetivo comportamental
+PÃºblico Personalizado do Facebook
+Dados Pessoais: e-mail; Rastreador
+Facebook Remarketing, Google Ad Manager Audience Extension e Remarketing do Google Ads
+Dados Pessoais: Dados de uso; Rastreador
+Testes Beta
+Google Play Beta Testing
+Dados Pessoais: Cookies; informaÃ§Ãµes do dispositivo; paÃ­s; Todos Dados que partilha durante o uso do serviÃ§o
+TestFlight
+Dados Pessoais: informaÃ§Ãµes do aplicativo   ; informaÃ§Ãµes do dispositivo; paÃ­s; registros do dispositivo; Todos Dados que partilha durante o uso do serviÃ§o
+Visualizar conteÃºdo de plataformas externas
+Google Maps widget
+Dados Pessoais: Cookies; Dados de uso
+InformaÃ§Ãµes sobre como optar por nÃ£o receber anÃºncios com base em interesses
+AlÃ©m do recurso de cancelamento (â€œopt-outâ€) disponibilizado pelos serviÃ§os listados neste documento, os UsuÃ¡rios
+poderÃ£o seguir as instruÃ§Ãµes fornecidas pela
+YourOnlineChoices
+(UE),
+Network Advertising Initiative
+(EUA) e
+Digital Advertising Alliance
+(EUA),
+DAAC
+(CanadÃ¡),
+DDAI
+(JapÃ£o) ou outras iniciativas similares. Tais iniciativas permitem que os UsuÃ¡rios selecionem suas preferÃªncias
+relacionadas ao rastreamento na maioria das ferramentas de publicidade. Assim, o ProprietÃ¡rio recomenda que os
+UsuÃ¡rios faÃ§am uso destes recursos, alÃ©m das informaÃ§Ãµes fornecidas neste documento.
+A Digital Advertising Alliance oferece um aplicativo chamado
+AppChoices
+que ajuda os UsuÃ¡rios a controlar, em
+aplicativos mÃ³veis, anÃºncios com base em interesses.
+Os UsuÃ¡rios tambÃ©m poderÃ£o optar por nÃ£o usar determinados recursos de publicidade atravÃ©s das respectivas
+configuraÃ§Ãµes em seus dispositivos, como as configuraÃ§Ãµes de publicidade de telefones celulares ou configuraÃ§Ãµes
+para anÃºncios em geral.
+InformaÃ§Ãµes adicionais sobre o processamento de Dados Pessoais
+NotificaÃ§Ãµes push
+Este Aplicativo poderÃ¡ enviar notificaÃ§Ãµes de push ao usuÃ¡rio a fim de alcanÃ§ar os objetivos descritos nesta polÃ­tica de privacidade.
+Na maioria dos casos, os UsuÃ¡rios poderÃ£o optar por nÃ£o receber notificaÃ§Ãµes de push, entrando nas configuraÃ§Ãµes de seu dispositivo, como configuraÃ§Ãµes de notificaÃ§Ã£o em telefones celulares, e entÃ£o alterar as configuraÃ§Ãµes relativas a este Aplicativo ou a todos os aplicativos no dispositivo especÃ­fico.
+Os UsuÃ¡rios deverÃ£o estar cientes de que desabilitar notificaÃ§Ãµes de push pode prejudicar a utilidade deste serviÃ§o (este Aplicativo).
+InformaÃ§Ã£o de contato
+ProprietÃ¡rio e Controlador de Dados
+DELKIPORT S.A.
+Brandzen 1956 Apt 801
+11800 â€“ Montevideo
+Uruguay
+E-mail de contato do ProprietÃ¡rio:
+support@widowgames.com
+PolÃ­tica de privacidade completa
+ProprietÃ¡rio e Controlador de Dados
+DELKIPORT S.A.
+Brandzen 1956 Apt 801
+11800 â€“ Montevideo
+Uruguay
+E-mail de contato do ProprietÃ¡rio:
+support@widowgames.com
+Tipos de Dados coletados
+Entre os tipos de Dados Pessoais que este Aplicativo coleta, por si mesmo ou atravÃ©s de terceiros, existem:
+      Cookies; Dados de uso; identificaÃ§Ã£o do dispositivo exclusivo para publicidade (ID ou IDFA do Google Advertiser, por exemplo); informaÃ§Ãµes do dispositivo; geografia; nÃºmero de UsuÃ¡rios; nÃºmero de sessÃµes; duraÃ§Ã£o da sessÃ£o; compras no Aplicativo; aberturas do Aplicativo; atualizaÃ§Ãµes do Aplicativo; primeiras inicializaÃ§Ãµes; sistemas operacionais; paÃ­s; Todos Dados que partilha durante o uso do serviÃ§o; informaÃ§Ãµes do aplicativo   ; registros do dispositivo; e-mail; Gerenciamento de configuraÃ§Ãµes bÃ¡sicas.
+Detalhes completos sobre cada tipo de Dados Pessoais coletados sÃ£o fornecidos nas seÃ§Ãµes dedicadas desta polÃ­tica de privacidade ou por textos explicativos especÃ­ficos exibidos antes da coleta de Dados.
+Os Dados Pessoais poderÃ£o ser fornecidos livremente pelo UsuÃ¡rio, ou, no caso dos Dados de UtilizaÃ§Ã£o, coletados automaticamente ao se utilizar este Aplicativo.
+A menos que especificado diferentemente todos os Dados solicitados por este Aplicativo sÃ£o obrigatÃ³rios e a falta de fornecimento destes Dados poderÃ¡ impossibilitar este Aplicativo de fornecer os seus ServiÃ§os. Nos casos em que este Aplicativo afirmar especificamente que alguns Dados nÃ£o forem obrigatÃ³rios, os UsuÃ¡rios ficam livres para deixarem de comunicar estes Dados sem nenhuma consequÃªncia para a disponibilidade ou o funcionamento do ServiÃ§o.
+Os UsuÃ¡rios que tiverem dÃºvidas a respeito de quais Dados Pessoais sÃ£o obrigatÃ³rios estÃ£o convidados a entrar em contato com o ProprietÃ¡rio.
+Quaisquer usos de cookies â€“ ou de outras ferramentas de rastreamento â€“ por este Aplicativo ou pelos proprietÃ¡rios de serviÃ§os terceiros utilizados por este Aplicativo serÃ£o para a finalidade de fornecer os ServiÃ§os solicitados pelo UsuÃ¡rio, alÃ©m das demais finalidades descritas no presente documento.
+Os UsuÃ¡rios ficam responsÃ¡veis por quaisquer Dados Pessoais de terceiros que forem obtidos, publicados ou compartilhados atravÃ©s deste ServiÃ§o (este Aplicativo).
+Modo e local de processamento dos Dados
+MÃ©todo de processamento
+O ProprietÃ¡rio tomarÃ¡ as medidas de seguranÃ§a adequadas para impedir o acesso nÃ£o autorizado, divulgaÃ§Ã£o, alteraÃ§Ã£o ou destruiÃ§Ã£o nÃ£o autorizada dos Dados.
+O processamento dos Dados Ã© realizado utilizando computadores e /ou ferramentas de TI habilitadas, seguindo procedimentos organizacionais e meios estritamente relacionados com os fins indicados. AlÃ©m do ProprietÃ¡rio, em alguns casos, os Dados podem ser acessados por certos tipos de pessoas encarregadas, envolvidas com a operaÃ§Ã£o deste ServiÃ§o (este Aplicativo) (administraÃ§Ã£o, vendas, marketing, administraÃ§Ã£o legal do sistema) ou pessoas externas (como fornecedores terceirizados de serviÃ§os tÃ©cnicos, carteiros, provedores de hospedagem, empresas de TI, agÃªncias de comunicaÃ§Ã£o) nomeadas, quando necessÃ¡rio, como Processadores de Dados por parte do ProprietÃ¡rio. A lista atualizada destas partes pode ser solicitada ao ProprietÃ¡rio a qualquer momento.
+Lugar
+Os dados sÃ£o processados â€‹â€‹nas sedes de operaÃ§Ã£o dos ProprietÃ¡rios, e em quaisquer outros lugares onde as partes envolvidas com o processamento estiverem localizadas.
+Dependendo da localizaÃ§Ã£o do UsuÃ¡rio as transferÃªncias de dados poderÃ£o envolver a transferÃªncia dos Dados do UsuÃ¡rio para outro paÃ­s que nÃ£o seja o seu. Para descobrirem mais sobre o local de processamento de tais Dados transferidos os UsuÃ¡rios poderÃ£o verificar a seÃ§Ã£o contendo os detalhes sobre o processamento de Dados Pessoais.
+PerÃ­odo de conservaÃ§Ã£o
+Salvo especificaÃ§Ã£o em contrÃ¡rio neste documento, os Dados Pessoais serÃ£o tratados e armazenados pelo tempo necessÃ¡rio para as finalidades para as quais foram coletados, e poderÃ£o ser retidos por mais tempo em razÃ£o de qualquer obrigaÃ§Ã£o legal aplicÃ¡vel ou com base no consentimento dos UsuÃ¡rios.
+As finalidades do processamento
+Os Dados relativos ao UsuÃ¡rio sÃ£o coletados para permitir que o ProprietÃ¡rio preste seu ServiÃ§o, cumpra suas obrigaÃ§Ãµes legais, responda a solicitaÃ§Ãµes de execuÃ§Ã£o, proteja seus direitos e interesses (ou aqueles de seus UsuÃ¡rios ou terceiros), detecte qualquer atividade maliciosa ou fraudulenta, assim como:
+        Acesso a contas de serviÃ§os de terceiros, Publicidade, EstatÃ­sticas, Testes Beta , Visualizar conteÃºdo de plataformas externas, Processamento de pagamentos, Hospedagem e infraestrutura de backend, Registro e autenticaÃ§Ã£o e Remarketing e objetivo comportamental.
+Para obter informaÃ§Ãµes especÃ­ficas sobre os Dados Pessoais utilizados para cada finalidade, o UsuÃ¡rio poderÃ¡ consultar a seÃ§Ã£o "InformaÃ§Ãµes detalhadas sobre o processamento de Dados Pessoais".
+PermissÃµes do Facebook solicitadas por este Aplicativo
+Este Aplicativo pode pedir algumas permissÃµes no Facebook que permitem realizar aÃ§Ãµes com a conta do usuÃ¡rio no Facebook e para recuperar as informaÃ§Ãµes, incluindo dados pessoais. Este serviÃ§o permite que este Aplicativo se conecte com a conta do UsuÃ¡rio na rede social Facebook, fornecido pelo Facebook Inc.
+Para mais informaÃ§Ãµes sobre as seguintes permissÃµes, consulte a
+documentaÃ§Ã£o de permissÃµes Facebook
+e a
+polÃ­tica de privacidade do Facebook
+.
+As permissÃµes solicitadas sÃ£o as seguintes:
+        Contato de e-mail, InformaÃ§Ãµes bÃ¡sicas e Lista de Amigos.
+InformaÃ§Ãµes detalhadas sobre o processamento de Dados Pessoais
+Os Dados Pessoais sÃ£o recolhidos para os seguintes fins e utilizando os seguintes serviÃ§os:
+Acesso a contas de serviÃ§os de terceiros
+Este tipo de serviÃ§o permite a este serviÃ§o (este Aplicativo) acessar os Dados da sua conta com um serviÃ§o terceiro e realizar aÃ§Ãµes com os mesmos.
+Estes serviÃ§os nÃ£o sÃ£o ativados automaticamente, precisam de autorizaÃ§Ã£o explÃ­cita do UsuÃ¡rio.
+Acesso Ã  conta Facebook (este Aplicativo)
+Este serviÃ§o permite que este Aplicativo se conecte com a conta do UsuÃ¡rio na rede social Facebook, fornecido pelo Facebook, Inc.
+Pedido de PermissÃ£o: Contato de e-mail; Lista de Amigos.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+EstatÃ­sticas
+Os serviÃ§os contidos nesta seÃ§Ã£o habilitam o ProprietÃ¡rio a monitorar e analisar o trÃ¡fego da web e podem ser usados para rastrear o comportamento do UsuÃ¡rio.
+Facebook Analytics for Apps (Facebook, Inc.)
+Facebook Analytics for Apps Ã© um serviÃ§o de anÃ¡lise fornecido pelo Facebook, Inc.
+Dados Pessoais processados: Dados de uso; vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Rastreamento de conversÃµes do Facebook Ads (pixel do Facebook) (Facebook, Inc.)
+Acompanhamento de conversÃµes do Facebook Ads (pixel do Facebook) Ã© um serviÃ§o de anÃ¡lise fornecido pela Facebook, Inc. que conecta os dados da rede de publicidade do Facebook com as aÃ§Ãµes realizadas neste serviÃ§o (este Aplicativo). O pixel do Facebook rastreia conversÃµes relacionadas Ã s plataformas do Facebook, do Instagram e do Audience Network.
+Dados Pessoais processados: Cookies; Dados de uso.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+GameAnalytics (GameAnalytics ApS)
+GameAnalytics Ã© um serviÃ§o de anÃ¡lise fornecido pelo GameAnalytics ApS.
+Dados Pessoais processados: Cookies; Dados de uso.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+–
+Opt Out
+.
+Google Analytics for Firebase (Google LLC)
+O Google Analytics para Firebase ou Firebase Analytics Ã© um serviÃ§o de analÃ­tica fornecido pela Google LLC.
+Para poder compreender a utilizaÃ§Ã£o de Dados pelo Google, consulte a
+polÃ­tica de parceiros do Google
+.
+O Firebase Analytics poderÃ¡ compartilhar Dados com outras ferramentas fornecidas pelo Firebase, tais como o Crash Reporting, Authentication, Remote Config ou Notifications. O UsuÃ¡rio poderÃ¡ verificar a polÃ­tica de privacidade para encontrar uma explicaÃ§Ã£o detalhada sobre as outras ferramentas utilizadas pelo ProprietÃ¡rio.
+Este Aplicativo utiliza identificadores para dispositivos mÃ³veis e tecnologias semelhantes aos cookies para fazer funcionar o serviÃ§o Firebase Analytics.
+Os UsuÃ¡rios podem escolher nÃ£o participar de determinados recursos do Firebase atravÃ©s das configuraÃ§Ãµes aplicÃ¡veis de dispositivos, tais como as configuraÃ§Ãµes de publicidade dos dispositivos para telefones celulares ou seguindo as instruÃ§Ãµes em outras seÃ§Ãµes relacionadas com o Firebase desta polÃ­tica de privacidade, se estiverem disponÃ­veis.
+Dados Pessoais processados: aberturas do Aplicativo; atualizaÃ§Ãµes do Aplicativo; compras no Aplicativo; Cookies; Dados de uso; duraÃ§Ã£o da sessÃ£o; geografia; identificaÃ§Ã£o do dispositivo exclusivo para publicidade (ID ou IDFA do Google Advertiser, por exemplo); informaÃ§Ãµes do dispositivo; nÃºmero de sessÃµes; nÃºmero de UsuÃ¡rios; primeiras inicializaÃ§Ãµes; sistemas operacionais.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Unity Analytics (Unity Technologies ApS)
+Unity Analytics Ã© um serviÃ§o de anÃ¡lise fornecido pela Unity Technologies ApS.
+Dados Pessoais processados: Dados de uso; vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o.
+Lugar de processamento:  Dinamarca –
+PolÃ­tica de Privacidade
+.
+AWStats (este Aplicativo)
+AWStats Ã¨ um software usado pela este Aplicativo para analisar Dados diretamente sem a ajuda de terceiros.
+O UsuÃ¡rio pode desabilitar a coleta dessas informaÃ§Ãµes estatÃ­sticas desativando o JavaScript no seu navegador da Web. Contudo, essa aÃ§Ã£o pode afetar negativamente a experiÃªncia de navegaÃ§Ã£o do UsuÃ¡rio neste ServiÃ§o (este Aplicativo), bem como em outros aplicativos.
+Dados Pessoais processados: Cookies; Dados de uso.
+Hospedagem e infraestrutura de backend
+Estes tipos de serviÃ§os tÃªm a finalidade de hospedagem de Dados e arquivos que permitem que este Aplicativo seja executado e distribuÃ­do, bem com para fornecer infraestrutura para executar recursos ou partes deste serviÃ§o (este Aplicativo).
+Alguns serviÃ§os entre os listados abaixo, se houver, podem funcionar atravÃ©s de servidores distribuÃ­dos geograficamente, tornando difÃ­cil determinar a localizaÃ§Ã£o real onde os Dados Pessoais sÃ£o armazenados.
+Amazon Web Services (AWS) (Amazon Web Services, Inc.)
+Amazon Web Services (AWS) Ã© um serviÃ§o de hospedagem e backend fornecido pela Amazon Web Services, Inc.
+Dados Pessoais processados: vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o.
+Lugar de processamento:  Brasil –
+PolÃ­tica de Privacidade
+.
+Processamento de pagamentos
+A menos que seja especificado de outra forma, este Aplicativo processarÃ¡ quaisquer pagamentos via cartÃ£o de crÃ©dito, transferÃªncia bancÃ¡ria ou outros meios atravÃ©s de prestadores terceirizados de serviÃ§os de pagamento. De maneira geral e a menos que seja especificado de outra forma, os UsuÃ¡rios serÃ£o solicitados a fornecer seus dados de pagamento e informaÃ§Ãµes pessoais para estes prestadores terceirizados de serviÃ§os de pagamento.  Este Aplicativo nÃ£o tem envolvimento na coleta e processamento de tais informaÃ§Ãµes: em vez disso, receberÃ¡ apenas uma notificaÃ§Ã£o do respectivo prestador de serviÃ§os de pagamento informando se o pagamento foi concluÃ­do com sucesso.
+Google Pay (Google LLC)
+Google Pay Ã© um serviÃ§o de pagamento fornecido pelo Google LLC, que permite aos usuÃ¡rios fazer pagamentos online usando suas credenciais de Google.
+Dados Pessoais processados: vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Apple Pay (Apple Inc.)
+Apple Pay Ã© um serviÃ§o de pagamento fornecido por Apple Inc., que permite aos usuÃ¡rios fazer pagamentos usando seus telefones celulares.
+Dados Pessoais processados: Rastreador.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Android Pay (Google LLC)
+Android Pay Ã© um serviÃ§o de pagamento fornecido por Google LLC, que permite aos usuÃ¡rios fazer pagamentos usando seus telefones celulares.
+Dados Pessoais processados: Rastreador.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Publicidade
+Este tipo de serviÃ§o permite que Dados do UsuÃ¡rio sejam utilizados para fins de comunicaÃ§Ã£o de publicidade. Estas comunicaÃ§Ãµes sÃ£o exibidas na forma de banners e outros anÃºncios neste serviÃ§o (este Aplicativo), possivelmente com base nos interesses do UsuÃ¡rio.
+Isso nÃ£o significa que todos os Dados Pessoais serÃ£o usados para esta finalidade. As informaÃ§Ãµes e condiÃ§Ãµes de uso estÃ£o descritas abaixo.
+Alguns dos serviÃ§os listados abaixo podem usar Rastreadore para identificar os UsuÃ¡rios ou podem usar tÃ©cnica de redirecionamento comportamental, ou seja, a exibiÃ§Ã£o de anÃºncios personalizados para os interesses e comportamento do UsuÃ¡rio, incluindo os detectados fora deste Aplicativo. Para obter mais informaÃ§Ãµes verifique as polÃ­ticas de privacidade dos serviÃ§os relevantes, por favor.
+ServiÃ§os deste tipo geralmente oferecem a possibilidade de optar pelo nÃ£o rastreamento. AlÃ©m de qualquer recurso de cancelamento (â€œopt-outâ€) oferecido por qualquer um dos serviÃ§os abaixo, os UsuÃ¡rios podem saber mais sobre como optar de forma geral por nÃ£o usar anÃºncios personalizados para os interesses dentro da seÃ§Ã£o dedicada â€œComo optar por nÃ£o receber anÃºncios com base em interessesâ€ neste documento.
+AdMob (Google LLC)
+O AdMob Ã© um serviÃ§o de publicidade fornecido pela Google LLC.
+Para poder compreender a utilizaÃ§Ã£o de Dados pelo Google, consulte a
+polÃ­tica de parceiros do Google
+.
+Dados Pessoais processados: Cookies; Dados de uso; identificaÃ§Ã£o do dispositivo exclusivo para publicidade (ID ou IDFA do Google Advertiser, por exemplo).
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+–
+Opt Out
+.
+Registro e autenticaÃ§Ã£o
+Ao se registrar ou autenticar, os UsuÃ¡rios permitem a este serviÃ§o (este Aplicativo) identificÃ¡-los e dar-lhes o acesso a serviÃ§os dedicados.
+Dependendo do que estiver descrito abaixo, os serviÃ§os de registro e autenticaÃ§Ã£o podem ser fornecidos por terceiros. Neste caso, este Aplicativo poderÃ¡ acessar alguns Dados armazenados por estes serviÃ§os de terceiros para fins de registro ou identificaÃ§Ã£o.
+Alguns dos serviÃ§os listados abaixo tambÃ©m podem coletar Dados Pessoais para fins de direcionamento e perfil; para saber mais, consulte a descriÃ§Ã£o de cada serviÃ§o.
+Facebook Authentication (Facebook, Inc.)
+O Facebook Authentication Ã© um serviÃ§o de registro e autenticaÃ§Ã£o fornecido pelo Facebook, Inc. e estÃ¡ conectado Ã  rede social Facebook.
+Dados Pessoais processados: vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Google OAuth (Google LLC)
+O Google OAuth Ã© um serviÃ§o de registro e autenticaÃ§Ã£o fornecido pelo Google LLC e estÃ¡ conectado Ã  rede Google.
+Dados Pessoais processados: vÃ¡rios tipos de Dados como especificados na polÃ­tica de privacidade do serviÃ§o.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Iniciar sessÃ£o com a Apple (Apple Inc.)
+0 Iniciar sessÃ£o com a Apple Ã© um serviÃ§o de registro e autenticaÃ§Ã£o fornecido pela Apple Inc. Nos casos em que os UsuÃ¡rios forem obrigados a fornecer seu endereÃ§o de e-mail, Iniciar sessÃ£o com a Apple poderÃ¡ gerar um endereÃ§o de encaminhamento privado em nome dos UsuÃ¡rios, que automaticamente encaminharÃ¡ as mensagens para sua conta de e-mail pessoal verificada â€“ ocultando assim seu endereÃ§o de e-mail real do ProprietÃ¡rio.
+Dados Pessoais processados: e-mail.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+PermissÃµes do Gmail para acessar Dados do UsuÃ¡rio (adiÃ§Ã£o de OAuth) (Google Ireland Limited)
+Para prestar este serviÃ§o, este Aplicativo utiliza escopos restritos do Gmail, que permitem o acesso a Dados do UsuÃ¡rio relacionados a este serviÃ§o da Google (conforme indicado abaixo). Este acesso Ã© fornecido por Google Ireland Limited
+mediante termos restritos
+. Eis o que isto significa para estes Dados do UsuÃ¡rio:
+O uso de Dados do UsuÃ¡rio Ã© limitado a fornecer ou melhorar recursos para o UsuÃ¡rio. Os Dados do UsuÃ¡rio nÃ£o serÃ£o usados para gerar anÃºncios, incluindo anÃºncios de redirecionamento, personalizados ou baseados em interesses.
+Os Dados do UsuÃ¡rio serÃ£o transferidos para terceiros somente se necessÃ¡rio, para fornecer ou melhorar recursos para o UsuÃ¡rio, e conforme for necessÃ¡rio para cumprir com a lei aplicÃ¡vel ou como parte de uma fusÃ£o, aquisiÃ§Ã£o ou venda de ativos com aviso aos UsuÃ¡rios.
+Pessoas nÃ£o lerÃ£o os Dados a menos que:
+o ProprietÃ¡rio tenha obtida a concordÃ¢ncia positiva do UsuÃ¡rio para mensagens especÃ­ficas;
+seja necessÃ¡rio, para fins de seguranÃ§a e/ou para cumprir com a legislaÃ§Ã£o aplicÃ¡vel, ou;
+o uso seja limitado a operaÃ§Ãµes internas e os Dados (incluindo suas derivaÃ§Ãµes) tenham sido agregados e tornados anÃ´nimos.
+Dados Pessoais processados: Gerenciamento de configuraÃ§Ãµes bÃ¡sicas.
+Lugar de processamento:  Irlanda –
+PolÃ­tica de Privacidade
+.
+Remarketing e objetivo comportamental
+Esses tipos de serviÃ§os permitem que este serviÃ§o (este Aplicativo) e seus parceiros possam informar, otimizar e fornecer publicidade baseada no uso anterior deste serviÃ§o (este Aplicativo) pelo UsuÃ¡rio.
+Esta atividade Ã© promovida por meio do rastreamento de Dados do UsuÃ¡rio e uso de Rastreadores, a fim de coletar informaÃ§Ãµes que sÃ£o entÃ£o transferidas para os parceiros que gerenciam a atividade de direcionamento comportamental e Remarketing.
+Alguns serviÃ§os oferecem uma opÃ§Ã£o de remarketing com base em listas de endereÃ§o de email.
+AlÃ©m de qualquer recurso de cancelamento ("opt-out") oferecido por qualquer um dos serviÃ§os abaixo, os UsuÃ¡rios poderÃ£o optar pelo cancelamento, visitando a
+pÃ¡gina de opÃ§Ã£o de cancelamento da Iniciativa de Publicidade de Rede
+.
+Os UsuÃ¡rios tambÃ©m poderÃ£o optar por nÃ£o usar determinados recursos de publicidade atravÃ©s das respectivas configuraÃ§Ãµes em seus dispositivos, como as configuraÃ§Ãµes de publicidade de telefones celulares ou configuraÃ§Ãµes para anÃºncios em geral
+.
+PÃºblico Personalizado do Facebook (Facebook Ireland Ltd)
+O PÃºblico Personalizado do Facebook Ã© um serviÃ§o de direcionamento comportamental e de Remarketing prestado por PÃºblico Personalizado do Facebook, que conecta a atividade deste serviÃ§o (este Aplicativo) com a rede de publicidade do Facebook.
+Os UsuÃ¡rios podem optar por nÃ£o aceitar o uso de cookies pelo Facebook para personalizaÃ§Ã£o de anÃºncios, entrando nesta
+pÃ¡gina de opÃ§Ã£o de cancelamento
+.
+Dados Pessoais processados: e-mail; Rastreador.
+Lugar de processamento:  Irlanda –
+PolÃ­tica de Privacidade
+–
+Opt Out
+.
+Facebook Remarketing (Facebook Ireland Ltd)
+O Facebook Remarketing Ã© um serviÃ§o de remarketing e objetivo comportamental prestado pela Facebook Ireland Ltd que conecta a atividade deste serviÃ§o (este Aplicativo) com a rede de publicidade Facebook.
+Dados Pessoais processados: Dados de uso; Rastreador.
+Lugar de processamento:  Irlanda –
+PolÃ­tica de Privacidade
+–
+Opt Out
+.
+Google Ad Manager Audience Extension (Google Ireland Limited)
+O Google Ad Manager Audience Extension Ã© um serviÃ§o de remarketing e alvo de comportamento fornecido pelo Google Ireland Limited que rastreia os visitantes do este Aplicativo e permite que parceiros publicitÃ¡rios selecionados a exibirem anÃºncios direcionados a eles em toda a web.
+Dados Pessoais processados: Dados de uso; Rastreador.
+Lugar de processamento:  Irlanda –
+PolÃ­tica de Privacidade
+–
+Opt Out
+.
+Remarketing do Google Ads (Google Ireland Limited)
+O Remarketing do Google Ads Ã© um serviÃ§o de direcionamento comportamental e de Remarketing prestado por Remarketing do Google Ads, que conecta a atividade deste serviÃ§o (este Aplicativo) com a rede de publicidade do Google Ads e o Cookie DoubleClick.
+Os UsuÃ¡rios podem optar por nÃ£o aceitar o uso de cookies para personalizaÃ§Ã£o de anÃºncios, entrando em
+ConfiguraÃ§Ãµes de AnÃºncios da Google
+.
+Dados Pessoais processados: Dados de uso; Rastreador.
+Lugar de processamento:  Irlanda –
+PolÃ­tica de Privacidade
+–
+Opt Out
+.
+Testes Beta
+Este tipo de serviÃ§o possibilita o gerenciamento do acesso dos UsuÃ¡rios deste ServiÃ§o (este Aplicativo), ou partes do mesmo, com a finalidade de testar um determinado recurso ou o Aplicativo inteiro.
+O provedor do serviÃ§o poderÃ¡ coletar automaticamente dados relacionados a falhas ou estatÃ­sticas relacionadas Ã  utilizaÃ§Ã£o pelo UsuÃ¡rio deste ServiÃ§o (este Aplicativo), numa forma identificÃ¡vel pessoalmente.
+Google Play Beta Testing (Google LLC)
+Google Play Beta Testing Ã© um serviÃ§o de testes beta fornecido pela Google LLC.
+Dados Pessoais processados: Cookies; informaÃ§Ãµes do dispositivo; paÃ­s; Todos Dados que partilha durante o uso do serviÃ§o.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+TestFlight (Apple Inc.)
+TestFlight Ã© um serviÃ§o de testes beta fornecido pela Apple Inc.
+Dados Pessoais processados: informaÃ§Ãµes do aplicativo   ; informaÃ§Ãµes do dispositivo; paÃ­s; registros do dispositivo; Todos Dados que partilha durante o uso do serviÃ§o.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+Visualizar conteÃºdo de plataformas externas
+Estes tipos de serviÃ§os permitem que vocÃª visualize e interaja com o conteÃºdo hospedado em plataformas externas diretamente a partir das pÃ¡ginas deste serviÃ§o (este Aplicativo) e interaja com estes.
+Este tipo de serviÃ§o poderÃ¡ ainda coletar dados de trÃ¡fego da web para as pÃ¡ginas onde o serviÃ§o estiver instalado, mesmo quando os usuÃ¡rios nÃ£o os estiverem utilizando.
+Google Maps widget (Google LLC)
+Google Maps Ã© um serviÃ§o de visualizaÃ§Ã£o de mapas fornecido pelo Google LLC que permite este Aplicativo para incorporar o conteÃºdo deste tipo em suas pÃ¡ginas.
+Dados Pessoais processados: Cookies; Dados de uso.
+Lugar de processamento:  EUA –
+PolÃ­tica de Privacidade
+.
+InformaÃ§Ãµes sobre como optar por nÃ£o receber anÃºncios com base em interesses
+AlÃ©m do recurso de cancelamento (â€œopt-outâ€) disponibilizado pelos serviÃ§os listados neste documento, os UsuÃ¡rios
+poderÃ£o seguir as instruÃ§Ãµes fornecidas pela
+YourOnlineChoices
+(UE),
+Network Advertising Initiative
+(EUA) e
+Digital Advertising Alliance
+(EUA),
+DAAC
+(CanadÃ¡),
+DDAI
+(JapÃ£o) ou outras iniciativas similares. Tais iniciativas permitem que os UsuÃ¡rios selecionem suas preferÃªncias
+relacionadas ao rastreamento na maioria das ferramentas de publicidade. Assim, o ProprietÃ¡rio recomenda que os
+UsuÃ¡rios faÃ§am uso destes recursos, alÃ©m das informaÃ§Ãµes fornecidas neste documento.
+A Digital Advertising Alliance oferece um aplicativo chamado
+AppChoices
+que ajuda os UsuÃ¡rios a controlar, em
+aplicativos mÃ³veis, anÃºncios com base em interesses.
+Os UsuÃ¡rios tambÃ©m poderÃ£o optar por nÃ£o usar determinados recursos de publicidade atravÃ©s das respectivas
+configuraÃ§Ãµes em seus dispositivos, como as configuraÃ§Ãµes de publicidade de telefones celulares ou configuraÃ§Ãµes
+para anÃºncios em geral.
+InformaÃ§Ãµes adicionais sobre o processamento de Dados Pessoais
+NotificaÃ§Ãµes push
+Este Aplicativo poderÃ¡ enviar notificaÃ§Ãµes de push ao usuÃ¡rio a fim de alcanÃ§ar os objetivos descritos nesta polÃ­tica de privacidade.
+Na maioria dos casos, os UsuÃ¡rios poderÃ£o optar por nÃ£o receber notificaÃ§Ãµes de push, entrando nas configuraÃ§Ãµes de seu dispositivo, como configuraÃ§Ãµes de notificaÃ§Ã£o em telefones celulares, e entÃ£o alterar as configuraÃ§Ãµes relativas a este Aplicativo ou a todos os aplicativos no dispositivo especÃ­fico.
+Os UsuÃ¡rios deverÃ£o estar cientes de que desabilitar notificaÃ§Ãµes de push pode prejudicar a utilidade deste serviÃ§o (este Aplicativo).
+InformaÃ§Ãµes adicionais para usuÃ¡rios
+Base jurÃ­dica para o processamento
+O ProprietÃ¡rio poderÃ¡ processar os Dados Pessoais relacionados ao UsuÃ¡rio se uma das hipÃ³teses a seguir se aplicar:
+os UsuÃ¡rios tenham dado a sua anuÃªncia para uma ou mais finalidades especÃ­ficas; ObservaÃ§Ã£o: De acordo com algumas legislaÃ§Ãµes o ProprietÃ¡rio poderÃ¡ ter a permissÃ£o para processar os Dados Pessoais ATÃ‰ QUE O UsuÃ¡rio faÃ§a objeÃ§Ã£o a isto (â€œopt-outâ€), sem ter que se basear em anuÃªncia ou em quaisquer outras bases jurÃ­dicas a seguir. Isto contudo nÃ£o se aplica sempre que o processamento de Dados Pessoais estiver sujeito Ã  legislaÃ§Ã£o europeia de proteÃ§Ã£o de dados;
+o fornecimento dos Dados for necessÃ¡rio para o cumprimento de um contrato com o UsuÃ¡rio e/ou quaisquer obrigaÃ§Ãµes prÃ©-contratuais do mesmo;
+o processamento for necessÃ¡rio para o cumprimento de uma obrigaÃ§Ã£o jurÃ­dica Ã  qual o ProprietÃ¡rio estiver sujeito;
+o processamento estiver relacionado a uma tarefa que for executada no interesse pÃºblico ou no exercÃ­cio de uma autorizaÃ§Ã£o oficial na qual o ProprietÃ¡rio estiver investido;
+o processamento for necessÃ¡rio para a finalidade de interesses legÃ­timos perseguidos pelo ProprietÃ¡rio ou por um terceiro;
+Em qualquer caso, o ProprietÃ¡rio colaborarÃ¡ de bom grado para esclarecer qual a base jurÃ­dica que se aplica ao processamento, e em especial se o fornecimento de Dados for um requisito obrigatÃ³rio por forÃ§a de lei ou contratual, ou uma exigÃªncia necessÃ¡ria para celebrar um contrato.
+Mais informaÃ§Ãµes sobre o tempo de retenÃ§Ã£o
+Salvo especificaÃ§Ã£o em contrÃ¡rio neste documento, os Dados Pessoais serÃ£o tratados e armazenados pelo tempo necessÃ¡rio para as finalidades para as quais foram coletados, e poderÃ£o ser retidos por mais tempo em razÃ£o de qualquer obrigaÃ§Ã£o legal aplicÃ¡vel ou com base no consentimento dos UsuÃ¡rios.
+Portanto:
+Os Dados Pessoais coletados para as finalidades relacionadas com a execuÃ§Ã£o de um contrato entre o ProprietÃ¡rio e o UsuÃ¡rio serÃ£o conservados atÃ© que tal contrato tenha sido completamente cumprido.
+Os Dados Pessoais coletados para as finalidades relacionadas com os legÃ­timos interesses do ProprietÃ¡rio serÃ£o conservados pelo tempo que for necessÃ¡rio para cumprir tais finalidades. Os UsuÃ¡rios poderÃ£o obter informaÃ§Ãµes especÃ­ficas sobre os interesses legÃ­timos perseguidos pelo ProprietÃ¡rio dentro das seÃ§Ãµes pertinentes deste documento ou entrando em contato com o ProprietÃ¡rio.
+O ProprietÃ¡rio poderÃ¡ ter a permissÃ£o de conservar os Dados Pessoais por um prazo maior sempre que o UsuÃ¡rio tiver dado a sua autorizaÃ§Ã£o para tal processamento, enquanto tal autorizaÃ§Ã£o nÃ£o tiver sido retirada. AlÃ©m disso, o ProprietÃ¡rio poderÃ¡ ficar obrigado a conservar os Dados Pessoais por um prazo maior em todas as ocasiÃµes em que estiver obrigado a fazÃª-lo para o cumprimento de uma obrigaÃ§Ã£o jurÃ­dica ou em cumprimento de um mandado de uma autoridade.
+Assim que o prazo de conservaÃ§Ã£o vencer os Dados Pessoais serÃ£o apagados. Desta forma o direito de acessar, o direito de apagar, o direito de corrigir e o direito Ã  portabilidade dos dados nÃ£o poderÃ£o ter o seu cumprimento exigido apÃ³s o vencimento do prazo de conservaÃ§Ã£o.
+Os direitos dos UsuÃ¡rios com base no Regulamento Geral de ProteÃ§Ã£o de Dados (GDPR)
+Os UsuÃ¡rios poderÃ£o exercer determinados direitos a respeito dos seus Dados processados pelo ProprietÃ¡rio.
+Em especial, os UsuÃ¡rios possuem os direitos a fazer o seguinte, dentro dos limites permitidos por lei:
+Retirar a sua anuÃªncia a qualquer momento.
+Os UsuÃ¡rios possuem o direito de retirar a sua anuÃªncia nos casos em que tenham dado a sua anuÃªncia anteriormente para o processamento dos seus Dados Pessoais.
+Objetar o processamento dos seus Dados.
+Os UsuÃ¡rios possuem o direito de objetar o processamento dos seus Dados se o processamento for executado sobre outra base jurÃ­dica que nÃ£o a anuÃªncia.
+Acessar os seus Dados.
+Os UsuÃ¡rios possuem o direito de saber se os seus Dados estÃ£o sendo tratados pelo ProprietÃ¡rio, obter revelaÃ§Ãµes sobre determinados aspectos do tratamento e conseguir uma cÃ³pia dos Dados que estiverem sendo tratados.
+Verificar e pedir retificaÃ§Ã£o.
+Os UsuÃ¡rios possuem o direito de verificar a exatidÃ£o dos seus Dados e de pedir que os mesmos sejam atualizados ou corrigidos.
+Restringir o processamento dos seus Dados.
+Os UsuÃ¡rios possuem o direito de restringir o processamento dos seus Dados para qualquer outra finalidade que nÃ£o seja o armazenamento dos mesmos.
+Ter os seus Dados Pessoais apagados ou retirados de outra maneira.
+Os UsuÃ¡rios possuem o direito de obter a eliminaÃ§Ã£o dos seus Dados do ProprietÃ¡rio.
+Receber os seus Dados e ter os mesmos transferidos para outro controlador.
+Os UsuÃ¡rios possuem o direito de receber os seus Dados em um formato estruturado, utilizado comumente e apto a ser lido por mÃ¡quinas e, se for viÃ¡vel tecnicamente, fazer com que estes sejam transmitidos para outro controlador sem nenhum empecilho.
+Registrar uma reclamaÃ§Ã£o.
+Os UsuÃ¡rios possuem o direito de apresentar reclamaÃ§Ã£o perante a sua autoridade de proteÃ§Ã£o de dados competente.
+Os UsuÃ¡rios tambÃ©m possuem o direito de serem informados sobre a base jurÃ­dica das transferÃªncias de Dados para o exterior, incluindo quaisquer organizaÃ§Ãµes internacionais regidas pelo direito internacional pÃºblico ou formadas por dois ou mais paÃ­ses, como a ONU, e sobre as medidas de seguranÃ§a tomadas pelo ProprietÃ¡rio para proteger seus Dados.
+Detalhes sobre o direito de objetar ao processamento
+Nos casos em que os Dados Pessoais forem processados por um interesse pÃºblico, no exercÃ­cio de uma autorizaÃ§Ã£o oficial na qual o ProprietÃ¡rio estiver investido ou para finalidades dos interesses legÃ­timos perseguidos pelo ProprietÃ¡rio, os UsuÃ¡rios poderÃ£o objetar tal processamento atravÃ©s do fornecimento de um motivo relacionado com a sua situaÃ§Ã£o em especial para justificar a objeÃ§Ã£o.
+Os UsuÃ¡rios devem saber, entretanto, que caso os seus Dados Pessoais sejam processados para finalidades de marketing direto, eles podem objetar tal processamento a qualquer momento de forma gratuita e sem fornecer qualquer justificativa. Quando o UsuÃ¡rio se opuser ao processamento para fins de marketing direto, os Dados Pessoais nÃ£o serÃ£o mais processados para esses fins. Para saber se o ProprietÃ¡rio estÃ¡ processando Dados Pessoais para fins de marketing direto, os UsuÃ¡rios podem consultar as seÃ§Ãµes respectivas deste documento.
+Como exercer estes direitos
+Quaisquer pedidos para exercer os direitos dos UsuÃ¡rios podem ser direcionados ao ProprietÃ¡rio atravÃ©s dos dados de contato fornecidos neste documento. Tais pedidos sÃ£o gratuitos e serÃ£o atendidos pelo ProprietÃ¡rio com a maior brevidade possÃ­vel e sempre no prazo de um mÃªs, fornecendo aos UsuÃ¡rios as informaÃ§Ãµes exigidas por lei. Qualquer retificaÃ§Ã£o ou exclusÃ£o de Dados Pessoais ou restriÃ§Ã£o de processamento serÃ¡ comunicada pelo ProprietÃ¡rio a cada destinatÃ¡rio, se houver, a quem os Dados Pessoais foram divulgados, a menos que isso seja impossÃ­vel ou implique um trabalho desproporcional. A pedido dos UsuÃ¡rios, o ProprietÃ¡rio os informarÃ¡ sobre tais destinatÃ¡rios.
+InformaÃ§Ãµes adicionais para UsuÃ¡rios
+  no Brasil
+Esta seÃ§Ã£o do documento se integra e complementa as informaÃ§Ãµes contidas no resto desta polÃ­tica de privacidade e Ã© fornecida pela entidade que opera este Aplicativo e, conforme for o caso, suas controladoras, subsidiÃ¡rias e afiliadas (para fins desta seÃ§Ã£o, doravante coletivamente denominadas "nÃ³s", "nos", "nosso" e "conosco").
+Esta seÃ§Ã£o se aplica a todos os UsuÃ¡rios do Brasil (os UsuÃ¡rios sÃ£o denominados abaixo simplesmente como â€œvocÃªâ€, â€œseuâ€, â€œseuâ€), de acordo com a "Lei Geral de ProteÃ§Ã£o de Dados" (a "LGPD"), e, para desses UsuÃ¡rios, substitui qualquer outra informaÃ§Ã£o possivelmente divergente ou conflitante contida na polÃ­tica de privacidade.
+Esta parte do documento usa o termo "informaÃ§Ãµes pessoais", conforme definido na
+LGPD
+.
+Em que nos embasamos para processar suas informaÃ§Ãµes pessoais
+Podemos processar suas informaÃ§Ãµes pessoais somente se tivermos uma base legal para tal processamento. As bases legais sÃ£o as seguintes:
+sua anuÃªncia com as respectivas atividades de processamento;
+conformidade com uma obrigaÃ§Ã£o legal ou regulamentar imposta a nÃ³s;
+o cumprimento de polÃ­ticas pÃºblicas dispostas em leis ou regulamentaÃ§Ãµes ou com base em contratos, acordos e instrumentos legais semelhantes;
+estudos conduzidos por entidades de pesquisa, preferivelmente realizados sobre informaÃ§Ãµes pessoais anÃ´nimas;
+a execuÃ§Ã£o de um contrato e seus procedimentos preliminares, nos casos em que vocÃª for parte do contrato;
+o exercÃ­cio de nossos direitos em processos judiciais, administrativos ou de arbitragem;
+proteÃ§Ã£o ou seguranÃ§a fÃ­sica de vocÃª ou de um terceiro;
+a proteÃ§Ã£o da saÃºde â€“ em procedimentos realizados por entidades ou profissionais da saÃºde;
+nossos interesses legÃ­timos, desde que seus direitos e liberdades fundamentais nÃ£o prevaleÃ§am sobre tais interesses; e
+proteÃ§Ã£o ao crÃ©dito.
+Para saber mais sobre as bases legais, vocÃª pode entrar em contato conosco a qualquer momento atravÃ©s dos dados de contato fornecidos neste documento.
+Categorias de informaÃ§Ãµes pessoais processadas
+Para saber que categorias de suas informaÃ§Ãµes pessoais sÃ£o processadas, vocÃª poderÃ¡ ler a seÃ§Ã£o intitulada "InformaÃ§Ãµes detalhadas sobre o processamento de Dados Pessoais" neste documento.
+Por que processamos suas informaÃ§Ãµes pessoais
+Para saber por que processamos suas informaÃ§Ãµes pessoais, vocÃª poderÃ¡ ler sobre as seÃ§Ãµes intituladas "InformaÃ§Ãµes detalhadas sobre o processamento de Dados Pessoais" e "As finalidades do processamento" neste documento.
+Seus direitos de privacidade como brasileiro, como enviar uma solicitaÃ§Ã£o e nossas respostas a suas solicitaÃ§Ãµes
+Seus direitos de privacidade como brasileiro
+VocÃª tem o direito de:
+obter confirmaÃ§Ã£o sobre a existÃªncia de atividades de tratamento de suas informaÃ§Ãµes pessoais;
+acesso a suas informaÃ§Ãµes pessoais;
+fazer com que suas informaÃ§Ãµes pessoais incompletas, inexatas ou desatualizadas sejam corrigidas;
+obter o anonimato, bloqueio ou eliminaÃ§Ã£o de suas informaÃ§Ãµes pessoais desnecessÃ¡rias ou em excesso, ou de informaÃ§Ãµes que nÃ£o estejam sendo processadas de acordo com a LGPD;
+obter informaÃ§Ãµes sobre a possibilidade de fornecer ou recusar sua anuÃªncia e as respectivas consequÃªncias;
+obter informaÃ§Ãµes sobre os terceiros com quem compartilhamos suas informaÃ§Ãµes pessoais;
+obter, mediante sua solicitaÃ§Ã£o expressa, a portabilidade de suas informaÃ§Ãµes pessoais (exceto informaÃ§Ãµes anÃ´nimas) para outro fornecedor de produtos ou serviÃ§os, desde que nossos segredos comerciais e industriais continuem protegidos;
+obter a exclusÃ£o de suas informaÃ§Ãµes pessoais tratadas, se o tratamento teve base em sua anuÃªncia, a menos que se apliquem uma ou mais exceÃ§Ãµes daquelas dispostas no art. 16 da LGPD;
+retirar sua anuÃªncia a qualquer momento;
+registrar uma reclamaÃ§Ã£o com relaÃ§Ã£o a suas informaÃ§Ãµes pessoais Ã  ANPD (Autoridade Nacional de ProteÃ§Ã£o de Dados) ou aos Ã³rgÃ£os de proteÃ§Ã£o ao consumidor;
+opor-se a uma atividade de tratamento nos casos em que o tratamento nÃ£o for realizado em conformidade com as disposiÃ§Ãµes da lei;
+solicitar informaÃ§Ãµes claras e adequadas a respeito dos critÃ©rios e procedimentos usados para uma decisÃ£o automatizada; e
+solicitar a revisÃ£o de decisÃµes tomadas exclusivamente com base no tratamento automatizado de suas informaÃ§Ãµes pessoais, que afetem seus interesses. Nisto estÃ£o incluÃ­das decisÃµes para definir seu perfil pessoal, profissional, de consumidor e de crÃ©dito ou aspectos de sua personalidade.
+VocÃª nunca serÃ¡ discriminado ou sofrerÃ¡ qualquer tipo de prejuÃ­zo se exercer seus direitos.
+Como registrar sua solicitaÃ§Ã£o
+VocÃª poderÃ¡ registrar sua solicitaÃ§Ã£o expressa de exercer seus direitos gratuitamente , em qualquer momento, usando os dados de contato fornecidos neste documento ou atravÃ©s de seu representante legal.
+Como e quando nÃ³s responderemos a sua solicitaÃ§Ã£o
+Faremos o possÃ­vel para responder imediatamente a suas solicitaÃ§Ãµes.
+Em qualquer caso, caso seja impossÃ­vel, faremos questÃ£o de comunicar a vocÃª os motivos de fato ou de direito que nos impeÃ§am de atender imediatamente, ou de qualquer outra forma, cumprir suas solicitaÃ§Ãµes. Nos casos em que nÃ£o estivermos processando suas informaÃ§Ãµes pessoais, indicaremos a pessoa fÃ­sica ou jurÃ­dica a quem vocÃª deve encaminhar suas solicitaÃ§Ãµes, se estivermos na posiÃ§Ã£o de fazÃª-lo.
+Caso vocÃª registre uma solicitaÃ§Ã£o de
+acesso
+ou de
+confirmaÃ§Ã£o de processamento
+de informaÃ§Ãµes pessoais, certifique-se de especificar se deseja que suas informaÃ§Ãµes pessoais sejam entregues em formato eletrÃ´nico ou impresso.
+VocÃª tambÃ©m precisarÃ¡ nos informar se deseja que respondamos sua solicitaÃ§Ã£o imediatamente, sendo que neste caso responderemos de maneira simplificada ou se vocÃª precisa de uma resposta completa.
+Neste Ãºltimo caso, responderemos no prazo de 15 dias a contar do momento de sua solicitaÃ§Ã£o, fornecendo todas as informaÃ§Ãµes sobre a origem de suas informaÃ§Ãµes pessoais, confirmaÃ§Ã£o da existÃªncia ou nÃ£o de registros, quaisquer critÃ©rios utilizados para o processamento e as finalidades do processamento, mantendo protegidos nossos segredos comerciais e industriais.
+Caso vocÃª solicite uma
+retificaÃ§Ã£o, exclusÃ£o, anonimato ou bloqueio de informaÃ§Ãµes pessoais
+, comunicaremos imediatamente sua solicitaÃ§Ã£o a outras partes com quem compartilhamos suas informaÃ§Ãµes pessoais, a fim de permitir que estes terceiros tambÃ©m cumpram sua solicitaÃ§Ã£o â€“ exceto nos casos em que tal comunicaÃ§Ã£o se provar impossÃ­vel ou envolver um esforÃ§o desproporcional de nosso lado.
+TransferÃªncia de informaÃ§Ãµes pessoais para fora do Brasil permitida por lei
+Temos permissÃ£o para transferir suas informaÃ§Ãµes pessoais para fora do territÃ³rio brasileiro nos seguintes casos:
+quando a transferÃªncia for necessÃ¡ria para fins de cooperaÃ§Ã£o jurÃ­dica internacional entre Ã³rgÃ£os pÃºblicos de inteligÃªncia, investigaÃ§Ã£o e MinistÃ©rio PÃºblico, de acordo com os meios legais dispostos no direito internacional;
+quando a transferÃªncia for necessÃ¡ria para proteger sua vida ou seguranÃ§a fÃ­sica ou de terceiros;
+quando a transferÃªncia for autorizada pela ANPD;
+quando a transferÃªncia decorrer de um compromisso assumido em um acordo de cooperaÃ§Ã£o internacional;
+quando a transferÃªncia for necessÃ¡ria para a execuÃ§Ã£o de uma polÃ­tica pÃºblica ou atribuiÃ§Ã£o legal de serviÃ§o pÃºblico;
+quando a transferÃªncia for necessÃ¡ria para o cumprimento de uma obrigaÃ§Ã£o legal ou regulamentar, a execuÃ§Ã£o de um contrato ou procedimentos preliminares relacionados a um contrato ou o exercÃ­cio regular de direitos em processos judiciais, administrativos ou de arbitragem.
+InformaÃ§Ãµes adicionais sobre a coleta e processamento de Dados
+AÃ§Ã£o jurÃ­dica
+Os Dados Pessoais dos UsuÃ¡rios podem ser utilizados para fins jurÃ­dicos pelo ProprietÃ¡rio em juÃ­zo ou nas etapas conducentes Ã  possÃ­vel aÃ§Ã£o jurÃ­dica decorrente de uso indevido deste ServiÃ§o (este Aplicativo) ou dos ServiÃ§os relacionados.
+O UsuÃ¡rio declara estar ciente de que o ProprietÃ¡rio poderÃ¡ ser obrigado a revelar os Dados Pessoais mediante solicitaÃ§Ã£o das autoridades governamentais.
+InformaÃ§Ãµes adicionais sobre os Dados Pessoais do UsuÃ¡rio
+AlÃ©m das informaÃ§Ãµes contidas nesta polÃ­tica de privacidade, este Aplicativo poderÃ¡ fornecer ao UsuÃ¡rio informaÃ§Ãµes adicionais e contextuais sobre os serviÃ§os especÃ­ficos ou a coleta e processamento de Dados Pessoais mediante solicitaÃ§Ã£o.
+Logs do sistema e manutenÃ§Ã£o
+Para fins de operaÃ§Ã£o e manutenÃ§Ã£o, este Aplicativo e quaisquer serviÃ§os de terceiros poderÃ£o coletar arquivos que  gravam a interaÃ§Ã£o com este Aplicativo (logs do sistema) ou usar  outros Dados Pessoais (tais como endereÃ§o IP) para esta finalidade.
+As informaÃ§Ãµes nÃ£o contidas nesta polÃ­tica
+Mais detalhes sobre a coleta ou processamento de Dados Pessoais podem ser solicitados ao ProprietÃ¡rio, a qualquer momento. Favor ver as informaÃ§Ãµes de contato no inÃ­cio deste documento.
+MudanÃ§as nesta polÃ­tica de privacidade
+O ProprietÃ¡rio se reserva o direito de fazer alteraÃ§Ãµes nesta polÃ­tica de privacidade a qualquer momento, atravÃ©s de notificaÃ§Ã£o a seus UsuÃ¡rios nesta pÃ¡gina e possivelmente dentro deste ServiÃ§o (este Aplicativo) e/ou â€“ na medida em que for tÃ©cnica e juridicamente viÃ¡vel â€“ enviando um aviso para os UsuÃ¡rios atravÃ©s de quaisquer informaÃ§Ãµes de contato disponÃ­veis para o ProprietÃ¡rio. Ã‰ altamente recomendÃ¡vel checar esta pÃ¡gina regularmente, consultando a data da Ãºltima modificaÃ§Ã£o informada na parte inferior.
+Caso as mudanÃ§as afetem as atividades de processamento realizadas com base na anuÃªncia do UsuÃ¡rio, o ProprietÃ¡rio coletarÃ¡ nova anuÃªncia do UsuÃ¡rio, onde for exigida.
+DefiniÃ§Ãµes e referÃªncias jurÃ­dicas
+Dados Pessoais (ou Dados)
+Quaisquer informaÃ§Ãµes que diretamente, indiretamente ou em relaÃ§Ã£o com outras informaÃ§Ãµes â€“ incluindo um nÃºmero de identificaÃ§Ã£o pessoal â€“ permitam a identificaÃ§Ã£o ou identificabilidade de uma pessoa fÃ­sica.
+Dados de Uso
+As informaÃ§Ãµes coletadas automaticamente atravÃ©s deste este Aplicativo (ou serviÃ§os de terceiros contratados neste ServiÃ§o (este Aplicativo)),  que podem incluir: os endereÃ§os IP ou nomes de domÃ­nio dos computadores utilizados pelos UsuÃ¡rios que utilizam este Aplicativo, os endereÃ§os URI (Identificador Uniforme de Recurso), a data e hora do pedido, o mÃ©todo utilizado para submeter o pedido ao servidor, o tamanho do arquivo recebido em resposta, o cÃ³digo numÃ©rico que indica o status do servidor de resposta (resultado positivo, erro , etc.), o paÃ­s de origem, as caracterÃ­sticas do navegador e do sistema operacional utilizado pelo UsuÃ¡rio, os vÃ¡rios detalhes de tempo por visita (por exemplo, o tempo gasto em cada pÃ¡gina dentro do aplicativo) e os detalhes sobre o caminho seguido dentro da aplicaÃ§Ã£o, com especial referÃªncia Ã  sequÃªncia de pÃ¡ginas visitadas e outros parÃ¢metros sobre o sistema operacional do dispositivo e/ou ambiente de TI do UsuÃ¡rio.
+UsuÃ¡rio
+A pessoa que usa este Aplicativo que, a menos que especificado diferentemente, coincida com o Titular dos Dados.
+Titular dos Dados
+A pessoa fÃ­sica a quem os Dados Pessoais se referem.
+Processador de Dados (ou Subcontratante)
+A pessoa fÃ­sica ou jurÃ­dica, administraÃ§Ã£o pÃºblica, agÃªncia ou outro Ã³rgÃ£o que processe os Dados Pessoais em nome do Controlador conforme descrito nesta polÃ­tica de privacidade.
+Controlador de Dados (ou ProprietÃ¡rio)
+A pessoa fÃ­sica ou jurÃ­dica, administraÃ§Ã£o pÃºblica, agÃªncia ou outro Ã³rgÃ£o que, isoladamente ou em conjunto com outros determinar as finalidades e os meios de processamento dos Dados Pessoais, incluindo medidas de seguranÃ§a relativas ao funcionamento e ao uso deste ServiÃ§o (este Aplicativo).  O Controlador de Dados, a menos que seja especificado de outra forma, Ã© o ProprietÃ¡rio deste ServiÃ§o (este Aplicativo).
+Este Aplicativo
+O meio pelo qual os Dados Pessoais do UsuÃ¡rio sÃ£o coletados e processados.
+ServiÃ§o
+O serviÃ§o fornecido por este Aplicativo conforme descrito nos termos relativos (se disponÃ­veis) e neste site/aplicativo.
+UniÃ£o Europeia (ou UE)
+A menos que especificado diferentemente, todas as referÃªncias feitas neste documento Ã  UniÃ£o Europeia incluem todos os atuais estados membros da UniÃ£o Europeia e do EspaÃ§o EconÃ´mico Europeu.
+Cookie
+Cookies sÃ£o Rastreadores compostos por pequenos conjuntos de dados armazenados no navegador do UsuÃ¡rio.
+Rastreador
+O termo Rastreador indica qualquer tecnologia â€“ como Cookies, identificadores Ãºnicos, web beacons, scripts embutidos, e-tags e fingerprinting â€“ que permita o rastreamento de UsuÃ¡rios, por exemplo, acessando ou a armazenando informaÃ§Ãµes no dispositivo do UsuÃ¡rio.
+Gerenciamento de configuraÃ§Ãµes bÃ¡sicas
+Gerenciar configuraÃ§Ãµes bÃ¡sicas de correio.
+InformaÃ§Ã£o jurÃ­dica
+Esta declaraÃ§Ã£o de privacidade foi preparada com base em determinaÃ§Ãµes de mÃºltiplas legislaÃ§Ãµes.
+Esta polÃ­tica de privacidade se refere somente a este Aplicativo, se nÃ£o afirmado diferentemente neste documento.
+Ãšltima atualizaÃ§Ã£o:  4 de junho de 2021
+A
+iubenda
+hospeda este conteÃºdo e apenas coleta
+Dados Pessoais estritamente necessÃ¡rios
+para o fornecimento do mesmo.

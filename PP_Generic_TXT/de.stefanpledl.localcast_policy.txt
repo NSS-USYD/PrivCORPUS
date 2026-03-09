@@ -1,0 +1,39 @@
+LocalCast – Works with your device
+Navigation umschalten
+Download
+FAQ
+Contact
+Imprint
+Privacy Policy
+LocalCast
+100% free. Works with your device
+Download now
+Follow me on twitter and grab a promo code for the
+AD FREE
+version:
+5000km free supercharging for you. Order your new Tesla with this link:
+https://t.co/RKATKgU44f
+— Dr. Stefan🔥LocalCast (@stefan_pledl)
+March 28, 2023
+Works with your device
+Amazon Fire TV and Stick, Android TV, Apple TV, Bravia SmartTVs, Chromecast 1 + 2 + Audio, DLNA Renderers, Google Cast for Audio, Google Cast enabled TVs, Nexus Player, Nvidia Shield, LG SmartTVs, Panasonic SmartTVs, Samsung SmartTVs, SmartTVs, Sonos, Sony SmartTVs, Xbox 360, Xbox One
+And much more!
+Streams everything
+From Other Apps like Kodi, Internal Storage, NAS, DLNA Servers, Samba Servers, Plex, Serviio, Universal Media Server, Google Drive, Dropbox, Webpages, Windows DLNA Server, …
+Subtitles
+If you use a Chromecast or Apple TV4, you can easily add subtitles. You can download them easily inside the app from Opensubtitles.org. Subtitles in the same folder will be added automatically. You can set a dedicated subtitle folder which will be searched when you start a video.
+Subtitle timing, font, background and color can be changed. You can change the subtitle encoding in the settings, e.g. for arabic subtitles choose UTF-8 Internal subtitles which are inside the video container don’t work YET
+Kodi
+LocalCast features a seamless Kodi integration. From the Settings(-> Kodi) you can easily write a file which tells Kodi to use LocalCast. You can then enjoy all your media on the TV.
+Wireless headphones (Android only, beta)
+Touch „Route audio to phone“ on the „Now playing“ screen, to listen to what you are watching on your phone. This feature is in beta: it might work most of the time.
+Video formats & codecs
+Please be aware that the Chromecast only supports a couple of formats. It can read containers like mp4, mkv, 3gp and m4v, but all these containers can use different codecs. If you can’t hear the audio of a video, then the audio codec is not supported. If you can’t see the video but hear the audio, then the video codec is not supported.
+Contact
+FAQ
+Imprint
+LocalCast
+LocalCast App Download
+Privacy Policy & Cookie Richtlinie
+Hestia | Entwickelt von
+ThemeIsle

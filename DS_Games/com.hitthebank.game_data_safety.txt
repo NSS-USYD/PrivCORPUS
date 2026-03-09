@@ -1,0 +1,21 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 App activity                
+<d_attr>               App interactions              
+<d_valu>             Analytics, Advertising or marketing, Fraud prevention, security and compliance            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Analytics, Advertising or marketing, Fraud prevention, security and compliance            
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 App activity                
+<d_attr>               App interactions                          · Optional            
+<d_valu>             Analytics, Advertising or marketing, Fraud prevention, security and compliance            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs                          · Optional            
+<d_valu>             Analytics, Advertising or marketing, Fraud prevention, security and compliance            
+<d_prac>          Security practices         
+<s_cata>             Data isn’t encrypted            
+<s_attr>             Your data isn’t transferred over a secure connection            
+<s_cata>             Data can’t be deleted            
+<s_attr>             The developer doesn’t provide a way for you to request that your data be deleted            

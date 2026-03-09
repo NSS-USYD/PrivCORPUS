@@ -1,0 +1,61 @@
+Privacy Policy: Mini Metro - Dinosaur Polo Club
+Dinosaur Polo Club
+Menu
+Homepage
+Games
+About
+News
+Careers
+Press
+Support
+Contact
+Twitter
+Facebook
+YouTube
+Instagram
+Privacy Policy: Mini Metro
+Leaderboards
+If you run the game through Steam or GOG Galaxy, we use their leaderboard systems. If you got the game from Humble or any other storefront, we use Facebook’s authentication to log you on to our external leaderboard system, GameSparks.
+To do so we store your Facebook authentication token in our database, and send it securely to GameSparks. They use this to match each submitted score to a user, and to display each user’s name on the leaderboard.
+We do not store any personal information or location-based data. We do not share any information that we have access to with anyone except GameSparks.
+Web requests
+All editions of the game (with the exception of the Steam and GOG edition) perform a version check on startup by making a request to http://api.dinopoloclub.com/1/minimetro/version/<edition>.json. This creates a log on the webserver which contains your IP address and the time of the request, but no other personally-identifying information.
+When starting up the game a request is made to http://api.dinopoloclub.com/1/minimetro/challenge.json to request the current daily challenge. This creates a log on the webserver which contains your IP address and the time of the request, but no other personally-identifying information.
+Crash reporting
+In the event of a crash, the game transmits information about the crash, and anonymous data about your system, to Unity’s exception reporting database. We use this information to help find and fix bugs in the game. This information contains your IP address and the time of the crash, but no other personally-identifying information.
+Questions?
+If you have any questions about how we handle your data, please email us at support@dinopoloclub.com.
+Dinosaur Polo Club
+Social:
+Twitter
+Facebook
+YouTube
+Instagram
+Newsletter:
+English
+Français
+Deutsch
+简体中文
+Email
+HP
+View our email policy
+Marketing permission
+: I give my consent for you to be in touch with me via email using the information I have provided in this form for the purpose of news, updates and marketing.
+What to expect
+: If you wish to withdraw your consent and stop hearing from us, simply click the unsubscribe link at the bottom of every email we send or contact us at
+info@dinopoloclub.com
+. We value and respect your personal data and privacy. To view our privacy policy, please visit our website. By submitting this form, you agree that we may process your information in accordance with these terms.
+Homepage
+Games
+About
+News
+Careers
+Press
+Support
+Contact
+Privacy
+©2023 Dinosaur Polo Club. All rights reserved.
+Site design by
+Fully Illustrated
+Build by
+Dekiru

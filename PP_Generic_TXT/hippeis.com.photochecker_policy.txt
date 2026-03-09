@@ -1,0 +1,87 @@
+Privacy Policy
+Privacy Policy
+This privacy policy will explain how we use the data we collect from you when you use our Photo Sherlock
+        application (Service).
+If you choose to use our Service, then you agree to the collection and use of information in relation
+        to this policy. The Personal Information that we collect is used for providing and improving the
+        Service.
+What data do we collect?
+We collect the following data in mobile app:
+Image files. You upload image you want to search by to our Service. We use Microsoft Bing Visual Search to 
+            provide search by image functionality. The images you upload may be used to improve Bing image processing services.
+Approximate or precise location - physical location of your device. This data is collected for analytics,
+            advertising or marketing, fraud prevention, security, and compliance.
+App interactions - some details about how you interact with the app, for example the name of a screen you
+            visit, how often do you visit it, the time you spend in the app. This data is collected for analytics,
+            advertising or marketing, fraud prevention, security, and compliance.
+App and device diagnostics - app performance data and device details, such as app launch speed, device brand
+            and model, free RAM and Storage, and other technical details. This data is collected for analytics,
+            advertising or marketing, fraud prevention, security, and compliance. Data may include information such as
+            your device Internet Protocol (â€œIPâ€) address, device name, operating system version, the configuration of
+            the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Device or other IDs - data that identifies an individual device or app, such as Firebase installation ID or
+            advertising identifier. This data is collected for analytics, advertising or marketing, fraud prevention,
+            security, and compliance.
+Crash logs - data that represents the details of the crash such as stack trace, date and time of the crash,
+            operating system, and other details. This data is collected for analytics.
+How do we collect your data?
+You directly provide us with image files, we collect and process this data when you do search by image.
+We also receive your data in mobile app indirectly using third-party analytics services such as Google Analytics
+        for Firebase, Firebase Crashlytics. Third-party services are used due to the following reasons:
+To facilitate our Service;
+To perform Service-related services;
+To assist us in analyzing how our Service is used.
+How will we use your data?
+Image files you send us are used to provide you the possibility to search by photo. The images you upload may be used to 
+        improve Microsoft Bing image processing services. To learn more about how Microsoft processes your data you can use the 
+        following link:
+Microsoft Privacy Statement
+.
+Data collected indirectly in the mobile app by third-party services is used for analytics, advertising, fraud
+        prevention, security, and compliance. For these purposes your data is shared with third-party services such as
+        Google Analytics for Firebase, Firebase Crashlytics, Google AdMob.
+To learn more about data collection of third-party services you can use the following links:
+https://policies.google.com/privacy
+https://policies.google.com/technologies/ads
+https://policies.google.com/technologies/partner-sites
+How do we store your data?
+We value your trust in providing us your Personal Information, thus we are striving
+        to use commercially acceptable means of protecting it. But remember that no method of transmission over
+        the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee
+        its absolute security.
+Cookies
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent
+        to your browser from the website that you visit and are stored on your device internal memory. When you visit
+        our website, we may collect information from you automatically through cookies or similar technology.
+How do we use cookies?
+Third party vendors, including Google, use cookies
+        to serve ads based on your prior visits to our website or other websites. Google's use of advertising cookies
+        enables it and its partners to serve ads to you based on your visit to our sites and/or other sites on the
+        Internet.
+        You may opt out of personalised advertising used on website by visiting
+Ads Settings
+.
+What types of cookies do we use?
+We use advertising cookies to collect information about your visit to our website, the content you viewed, the
+        links you followed and information about your browser, device, and your IP address. We sometimes share some
+        limited aspects of this data with third parties for advertising purposes. We may also share online data
+        collected through cookies with our advertising partners. This means that when you visit another website, you may
+        be shown advertising based on your browsing patterns on our website.
+Privacy policies of other websites
+Our Service may contain links to other websites. Our privacy policy applies only to our Service, so if you click
+        on a link to another website, you should read their privacy policy. Note that these external sites are not
+        operated by us. We have no control over and assume no responsibility for the content, privacy policies, or
+        practices of any third-party sites or services.
+Children's Privacy
+We do not allow to use our app if you are under the age of 13. Our Services do not address anyone under the age
+        of 13.
+Changes to our privacy policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for
+        any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are
+        effective immediately after they are posted on this page. This privacy policy was last updated on 20 March
+        2023.
+How to contact us
+If you have any questions about our privacy policy, the data we hold on you, or you would like to exercise one of
+        your data protection rights, please do not hesitate to contact us.
+Email us at:
+appsmotorrr@gmail.com

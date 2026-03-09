@@ -1,0 +1,70 @@
+- Aplim
+Votre navigateur ne supporte pas JavaScript!
+menu
+fermer
+EcoleDirecte
+Charlemagne
+Ap'Secure
+Système
+Formation
+WebVisio
+Equipes
+Actualités
+aide
+documents et téléchargements
+logiciels téléassistance
+numéros d'assistance
+service commercial
+09 71 005 500
+Dispositions générales applicables
+Les données personnelles sécurisées figurant sur le site Internet EcoleDirecte et l'application mobile "Mon EcoleDirecte" concernent les élèves et les familles, et sont
+    fournies par le logiciel Charlemagne des établissements scolaires au sein desquels ceux-ci sont scolarisés.
+    EcoleDirecte ne collecte aucune donnée personnelle directement sur le site Internet et l'application mobile "Mon EcoleDirecte", ni cookie, à l'exception des
+    email et téléphone mobile, utilisés EXCLUSIVEMENT pour la récupération des identifiants.
+Ces établissements scolaires se sont engagés à apporter tous leurs soins dans la qualité des informations
+    diffusées. Il s'agit toutefois d'indications qui, en aucun cas, ne pourraient faire foi en lieu et place des
+    documents usuels (bulletins de notes, relevés de notes, relevés d'absences et de sanctions).
+Ces informations ne sont disponibles qu'après saisie d'un mot de passe fourni exclusivement par l'établissement
+    soit au responsable juridique de l'élève s'il est mineur, soit à l'élève lui même s'il est majeur. Le détenteur d'un
+    mot de passe ne peut accéder qu'aux seules informations le concernant lui ou les personnes dont il est responsable
+    juridiquement.
+Pour optimiser la confidentialité de vos consultations, nous vous conseillons de choisir un mot de passe
+    sécurisé.
+Le site internet et ses données associées sont hébergés sur des serveurs situés sur le territoire français.
+La société APLIM, hébergeur du site, s'engage dans tous les cas à ne pas utiliser, louer, vendre, céder ou mettre
+    à disposition d'un tiers à fin d'autres usages le contenu du présent site Internet et de l'application mobile "Mon EcoleDirecte".
+La société APLIM peut conserver et utiliser les adresses IP des utilisateurs pour identification ultérieure sous
+    demande d'une autorité judiciaire, de police, ou toute autorité habilitée par la loi.
+Toute personne pourra exercer ses droits de retrait, de rectification ou de portabilité des données la concernant
+    dans le cadre de la RGPD, en s'adressant directement par courrier à l'établissement scolaire seul responsable de la
+    tenue et de la saisie des informations présentes.
+100% made in
+France
+Aplim est un éditeur de logiciel dont tous les produits et services sont réalisés en France, que ce soit le développement, l'assistance, l’hébergement, les formations… rien n’est délocalisé à l’étranger.
+Nous contacter
+numéros d'assistance
+Lun : 10h - 12h / 13h30 - 17h
+Mar - Ven : 8h30 - 12h / 13h30 - 17h
+Aplim - ZA Les Côtes - 73190 Saint-Jeoire-Prieuré
+Service commercial : 09 71 005 500
+En savoir plus
+Nos actualités
+Qui sommes-nous ?
+Nous recrutons
+Partenaires
+Gestion des cookies
+Mentions légales
+Aplim, membre de
+EdTech France
+Réseaux sociaux
+Nos certifications
+La certification qualité a été délivrée au titre de la catégorie d’action suivante :
+ACTIONS DE FORMATION
+La certification "Service France Garanti" a été délivrée à Aplim pour ses
+services d’assistance téléphonique et de prestation/formation
+Site réalisé par © Aplim 2023
+{{item.acf.date_warning}}
+{{nbrWebinaire}}
+Webinaires gratuits
+Nos webinaires gratuits
+{{getTime(item.acf.web_date, item.acf.web_heure_debut,item.acf.web_heure_de_fin)}}

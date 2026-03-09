@@ -1,0 +1,30 @@
+Trang chủ
+Search this site
+Skip to main content
+Skip to navigation
+COOKING MASTER
+This Privacy Policy (the "Policy") applies to "COOKING MASTER" game (com.cooking.games.fever.girls.city.craze.chef.master.dream.family) , the Android game developed by my team. The policy explains which information to be treated by the app and usages of them.
+***PERMISSION INFORMATION***
+The app does not collect nor send any personal identifiable data. In other words we never treat information such as your name, phone number, e-mail address, address or geographic location.
+The app captures audio from output mix and mic. We use them only for the recording function and audio visualization and never use them for any other purposes.
+Details of requested permissions:
+* RECORD_AUDIO
+- To capture audio data from mic for recording function.
+- The audio data do not send anywhere from your devices.
+* MODIFY_AUDIO_SETTINGS
+- Set audio file as ringtone.
+READ_EXTERNAL_STORAGE
+- To read audio files from storage.
+- To read album art picture files from storage.
+WRITE_EXTERNAL_STORAGE
+- To save effect edited files.
+- To save recording files.
+WAKE_LOCK
+- To provide stable audio playback.
+INTERNET
+- To show ads.
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

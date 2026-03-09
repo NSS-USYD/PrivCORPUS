@@ -1,0 +1,25 @@
+ï»¿
+politykaprywatnosci
+APLIKACJA â€žDZIENNICZEK VULCANâ€ - POLITYKA PRYWATNOÅšCI
+Niniejszy dokument opisuje politykÄ™ prywatnoÅ›ci aplikacji mobilnej "Dzienniczek VULCAN" firmy VULCAN sp. z o.o.
+Aplikacja przechowuje na urzÄ…dzeniu, na ktÃ³rym jest zainstalowana, poniÅ¼sze dane:
+dane dotyczÄ…ce nauczycieli (nazwiska i imiona, nauczane przedmioty) i uczniÃ³w (nazwiska i imiona, oceny, frekwencjÄ™ i uwagi uzyskane na lekcji),
+zaszyfrowany unikalny certyfikat Aplikacji, tworzony w procesie rejestracji Aplikacji po stronie VULCAN Sp. z o.o.
+Dane, o ktÃ³rych mowa w punkcie 2. powyÅ¼ej sÄ… przechowywane na urzÄ…dzeniu tak dÅ‚ugo, jak dÅ‚ugo jest zainstalowana Aplikacja oraz jak dÅ‚ugo uÅ¼ytkownik ma aktywne konto w systemie Uczniowie Optivum NET+. Dane sÄ… wykorzystywane wyÅ‚Ä…cznie w celach zwiÄ…zanych z funkcjonowaniem Aplikacji oraz systemu Uczniowie Optivum NET+.
+Dane o ktÃ³rych mowa w punkcie 2. powyÅ¼ej sÄ… wysyÅ‚ane do systemu Uczniowie Optivum NET+.
+W procesie rejestracji urzÄ…dzenia wysyÅ‚ane sÄ… dane, wykorzystywane w celu jednoznacznego zidentyfikowania Aplikacji.
+Administratorem danych, o ktÃ³rych mowa w punkcie 2. powyÅ¼ej jest Jednostka OÅ›wiatowa, uprawniona do korzystania z systemu Uczniowie Optivum NET+. Zasady dotyczÄ…ce przetwarzania danych osobowych oraz sposoby ich zabezpieczania okreÅ›la Administrator danych.
+Komunikacja miÄ™dzy aplikacjÄ… mobilnÄ… a systemem odbywa siÄ™ poprzez serwis z uÅ¼yciem protokoÅ‚u SSL (Secure Socket Layer). Wszystkie wysyÅ‚ane dane sÄ… podpisane prywatnym kluczem kryptograficznym pracownika korzystajÄ…cego z aplikacji i weryfikowane za pomocÄ… klucza publicznego.
+Wszystkie dane przechowywane na urzÄ…dzeniu przez Aplikacje majÄ… postaÄ‡ zaszyfrowanej bazy.
+Aplikacja nie pobiera ani nie wysyÅ‚a Å¼adnych danych osobowych z urzÄ…dzenia, na jakim jest zainstalowana. Aplikacja pobiera i zarzÄ…dza wyÅ‚Ä…cznie danymi z systemu Uczniowie Optivum NET+, nie ma Å¼adnego wpÅ‚ywu na dane, ktÃ³re nie wystÄ™pujÄ… w systemie, a wystÄ™pujÄ… na urzÄ…dzeniu.
+Instalacja Aplikacji jest rÃ³wnoznaczna z peÅ‚nÄ… akceptacjÄ… postanowieÅ„ niniejszej Polityki prywatnoÅ›ci. Brak tej akceptacji uniemoÅ¼liwia instalacjÄ™ lub oznacza koniecznoÅ›Ä‡ niezwÅ‚ocznego odinstalowania Aplikacji.
+Zastrzegamy sobie prawo zmiany Polityki PrywatnoÅ›ci poprzez opublikowanie nowej Polityki PrywatnoÅ›ci na stronie http://aplikacje.vulcan.pl/uonetplus/politykaprywatnoscidzienniczekvulcan.html.
+W przypadku pytaÅ„ lub wÄ…tpliwoÅ›ci prosimy o kontakt: VULCAN sp. z o.o.
+ul. WoÅ‚owska 6
+51-116 WrocÅ‚aw
+tel. 71 757 29 29
+email: cok@vulcan.edu.pl
+VULCAN sp. z o.o.
+, ul. WoÅ‚owska 6, 51-116 WrocÅ‚aw, tel./faks: 71 757 29 29, cok@vulcan.edu.pl,
+www.vulcan.edu.pl
+KRS 0000153176, SÄ…d Rejonowy dla WrocÅ‚awia â€“ Fabrycznej we WrocÅ‚awiu, VI WydziaÅ‚ Gospodarczy, NIP 898-001-44-51, KapitaÅ‚ zakÅ‚adowy 2 700 000 zÅ‚

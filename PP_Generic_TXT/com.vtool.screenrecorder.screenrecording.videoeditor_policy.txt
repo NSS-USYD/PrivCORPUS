@@ -1,0 +1,291 @@
+Eco Mobile Policy - Screen Recorder (Privacy Policy)
+Search this site
+Skip to main content
+Skip to navigation
+Eco Mobile Policy
+HOME
+PRIVACY POLICY
+PDF Scanner (Privacy Policy)
+Flashlight (Privacy Policy)
+QR Code (Privacy Policy)
+Screen Recorder (Privacy Policy)
+PDF Reader (Privacy Policy)
+Flash Alerts (Privacy Policy)
+Text On Photo (Privacy Policy)
+Speed Motion (Privacy Policy)
+Screen Recorder Lite (Privacy Policy)
+Super Note (Privacy Policy)
+Music Player (Privacy Policy)
+Slide Show (Privacy Policy)
+Cat Face (Privacy Policy)
+Voice Recorder (Privacy Policy)
+App lock (Privacy Policy)
+Video Reverse (Privacy Policy)
+Big Font (Privacy Policy)
+Video Player (Privacy Policy)
+Speed Test (Privacy Policy)
+Hair Clipper – PRIVACY POLICY
+Wallpaper (Privacy Policy)
+PDF Reader (Privacy Policy)
+Amee - Story Maker (Privacy Policy)
+Audio Editor (Privacy Policy)
+Eco VPN - Super VPN (Privacy Policy)
+QR Code IOS (Privacy Policy)
+Privacy Policy - VPN IOS
+Terms and Services
+Battery One (Privacy Policy)
+Document Reader (Privacy Policy)
+QR Code IOS (Terms Of Service)
+Applock Lite (Privacy Policy)
+Video Template (Privacy Policy)
+Sound Equalizer (Privacy Policy)
+Simple Note (Privacy Policy)
+Audio Cutter (Privacy Policy)
+Screen Mirroring (Privacy Policy)
+Calculator Vault (Privacy Policy)
+To Do List (Privacy Policy)
+eScanner (Privacy Policy)
+Love Counter (Privacy Policy)
+Icon Changer (Privacy Policy)
+Ai Chat (Privacy Policy)
+To do list (Privacy Policy)
+Fast Calculator (Privacy Policy)
+Wallpaper (Terms of Service)
+INHOUSE ADVERTISING
+Eco Mobile Policy
+HOME
+PRIVACY POLICY
+PDF Scanner (Privacy Policy)
+Flashlight (Privacy Policy)
+QR Code (Privacy Policy)
+Screen Recorder (Privacy Policy)
+PDF Reader (Privacy Policy)
+Flash Alerts (Privacy Policy)
+Text On Photo (Privacy Policy)
+Speed Motion (Privacy Policy)
+Screen Recorder Lite (Privacy Policy)
+Super Note (Privacy Policy)
+Music Player (Privacy Policy)
+Slide Show (Privacy Policy)
+Cat Face (Privacy Policy)
+Voice Recorder (Privacy Policy)
+App lock (Privacy Policy)
+Video Reverse (Privacy Policy)
+Big Font (Privacy Policy)
+Video Player (Privacy Policy)
+Speed Test (Privacy Policy)
+Hair Clipper – PRIVACY POLICY
+Wallpaper (Privacy Policy)
+PDF Reader (Privacy Policy)
+Amee - Story Maker (Privacy Policy)
+Audio Editor (Privacy Policy)
+Eco VPN - Super VPN (Privacy Policy)
+QR Code IOS (Privacy Policy)
+Privacy Policy - VPN IOS
+Terms and Services
+Battery One (Privacy Policy)
+Document Reader (Privacy Policy)
+QR Code IOS (Terms Of Service)
+Applock Lite (Privacy Policy)
+Video Template (Privacy Policy)
+Sound Equalizer (Privacy Policy)
+Simple Note (Privacy Policy)
+Audio Cutter (Privacy Policy)
+Screen Mirroring (Privacy Policy)
+Calculator Vault (Privacy Policy)
+To Do List (Privacy Policy)
+eScanner (Privacy Policy)
+Love Counter (Privacy Policy)
+Icon Changer (Privacy Policy)
+Ai Chat (Privacy Policy)
+To do list (Privacy Policy)
+Fast Calculator (Privacy Policy)
+Wallpaper (Terms of Service)
+INHOUSE ADVERTISING
+More
+HOME
+PRIVACY POLICY
+PDF Scanner (Privacy Policy)
+Flashlight (Privacy Policy)
+QR Code (Privacy Policy)
+Screen Recorder (Privacy Policy)
+PDF Reader (Privacy Policy)
+Flash Alerts (Privacy Policy)
+Text On Photo (Privacy Policy)
+Speed Motion (Privacy Policy)
+Screen Recorder Lite (Privacy Policy)
+Super Note (Privacy Policy)
+Music Player (Privacy Policy)
+Slide Show (Privacy Policy)
+Cat Face (Privacy Policy)
+Voice Recorder (Privacy Policy)
+App lock (Privacy Policy)
+Video Reverse (Privacy Policy)
+Big Font (Privacy Policy)
+Video Player (Privacy Policy)
+Speed Test (Privacy Policy)
+Hair Clipper – PRIVACY POLICY
+Wallpaper (Privacy Policy)
+PDF Reader (Privacy Policy)
+Amee - Story Maker (Privacy Policy)
+Audio Editor (Privacy Policy)
+Eco VPN - Super VPN (Privacy Policy)
+QR Code IOS (Privacy Policy)
+Privacy Policy - VPN IOS
+Terms and Services
+Battery One (Privacy Policy)
+Document Reader (Privacy Policy)
+QR Code IOS (Terms Of Service)
+Applock Lite (Privacy Policy)
+Video Template (Privacy Policy)
+Sound Equalizer (Privacy Policy)
+Simple Note (Privacy Policy)
+Audio Cutter (Privacy Policy)
+Screen Mirroring (Privacy Policy)
+Calculator Vault (Privacy Policy)
+To Do List (Privacy Policy)
+eScanner (Privacy Policy)
+Love Counter (Privacy Policy)
+Icon Changer (Privacy Policy)
+Ai Chat (Privacy Policy)
+To do list (Privacy Policy)
+Fast Calculator (Privacy Policy)
+Wallpaper (Terms of Service)
+INHOUSE ADVERTISING
+Screen Recorder (Privacy Policy)
+Privacy policy
+This Privacy Policy (“Policy”) describes how Screen Recorder(“Call Me”, “We”, “Us”, or “Our”) protects your privacy when you use Screen Recorder applications on all platforms (“App”, “Apps”, “Application” or “Applications”) and the related services we provide (“Service” or “Services”).This Policy covers our collection, use and disclosure of your information through the Applications and the Services. It does not cover any collection, use or disclosure by third parties through any applications, web sites, products or services that we do not control or own, such as Facebook, or any third-party features or services made available via the Application or the Services.
+Permission We Use
+uses-permission
+android
+:name
+="android.permission.WRITE_EXTERNAL_STORAGE"
+to save videos to your device library after recording.
+uses-permission
+android
+:name
+="android.permission.READ_EXTERNAL_STORAGE"
+to take videos from your device library to preview and share.
+uses-permission
+android
+:name
+="android.permission.READ_MEDIA_IMAGES"
+to record screenshots to
+storage,
+Android Tiramisu (Android 13) or higher is required.
+uses-permission
+android
+:name
+="android.permission.READ_MEDIA_VIDEO"
+to record screen recording video to
+screenshot,
+Android Tiramisu (Android 13) or higher is required.
+uses-permission
+android
+:name
+="android.permission.READ_MEDIA_AUDIO"
+to record audio when recording phone screen,
+Android Tiramisu (Android 13) or higher is required
+.
+uses-permission
+android
+:name
+="android.permission.SYSTEM_ALERT_WINDOW"
+to allows apps to draw over top of other apps from the background.
+uses-permission
+android
+:name
+="android.permission.RECORD_AUDIO"
+to create an audio recording while you are recording video.
+uses-permission
+android
+:name
+="android.permission.MODIFY_AUDIO_SETTINGS"
+for audio editing.
+uses-permission
+android
+:name
+="android.permission.CAMERA"
+to use your device's front and back cameras during screen recording.
+uses-permission
+android
+:name
+="android.permission.FOREGROUND_SERVICE"
+to be able to record screen when not in the app and interact with the floating button.
+uses-permission
+android
+:name
+="com.android.vending.BILLING"
+for in-app digital purchases.
+uses-permission
+android
+:name
+="android.permission.EXPAND_STATUS_BAR"
+to expand the status bar to view videos full screen.
+uses-permission
+android
+:name
+="android.permission.POST_NOTIFICATIONS"
+to allow the app to send you notifications, Android Tiramisu (Android 13) and above.
+uses-permission
+android
+:name
+="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+l
+et the system bypass battery optimization with eRecorder, to avoid sudden system stops while screen recording is in progress
+.
+uses-permission
+android
+:name
+="android.permission.INTERNET"
+to the internet to improve user experience and access main function of the app
+.
+uses-permission
+android
+:name
+="android.permission.VIBRATE"
+to use the vibrate function.
+uses-permission
+android
+:name
+="com.google.android.gms.permission.AD_ID"
+so that the network can format the appropriate type of advertising displayed in the application.
+However these data is not collected on our servers or shared to third parties, the data is stored only on your device.
+Collection of personal information
+We receive and store any information you knowingly provide to us when you fill any online forms in the Mobile Application. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Mobile Application’s features. Users who are uncertain about what information is mandatory are welcome to contact us.
+Collection of non-personal information
+When you open the Mobile Application our servers automatically record information that your device sends. This data may include information such as your device’s IP address and location, device name and version, operating system type and version, language preferences, information you search for in our Mobile Application, access times and dates, and other statistics.
+Use and processing of collected information
+Any of the information we collect from you may be used to Non-Personal Information collected is used only to identify potential cases of abuse and establish statistical information regarding Mobile Application traffic and usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.We may process Personal Information related to you if one of the following applies: (i) You have given their consent for one or more specific purposes. Note that under some legislations we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below. This, however, does not apply, whenever the processing of Personal Information is subject to European data protection law; (ii) Provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof; (ii) Processing is necessary for compliance with a legal obligation to which you are subject; (iv) Processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+Information transfer and storage
+Depending on your location, data transfers may involve transferring and storing your information in a country other than your own. You are entitled to learn about the legal basis of information transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by us to safeguard your information. If any such transfer takes place, you can find out more by checking the relevant sections of this document or inquire with us using the information provided in the contact section.
+The rights of users
+You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following:
+(i) You have the right to withdraw consent where you have previously given your consent to the processing of your information;
+(ii) You have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent;
+(iii) You have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing;
+(iv) You have the right to verify the accuracy of your information and ask for it to be updated or corrected;
+(v) You have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it;
+(vi) You have the right, under certain circumstances, to obtain the erasure of your Personal Information from us;
+(vii) You have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of or on pre-contractual obligations thereof.
+The right to object to processing
+Where Personal Information is processed for a public interest, in the exercise of an official authority vested in us or for the purposes of the legitimate interests pursued by us, you may object to such processing by providing a ground related to your particular situation to justify the objection. You must know that, however, should your Personal Information be processed for direct marketing purposes, you can object to that processing at any time without providing any justification. To learn, whether we are processing Personal Information for direct marketing purposes, you may refer to the relevant sections of this document.
+How to exercise these rights
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month
+Privacy of children
+We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Mobile Application. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Mobile Application without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Mobile Application, please contact us.
+Advertisement
+We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
+Links to other mobile applications
+Our Mobile Application contains links to other mobile applications that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other mobile applications or third-parties. We encourage you to be aware when you leave our Mobile Application and to read the privacy statements of each and every mobile application that may collect Personal Information.
+Information security
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Mobile Application cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
+Changes and amendments
+We reserve the right to modify this privacy policy relating to the Mobile Application at any time, effective upon posting of an updated version of this Policy in the Mobile Application. When we do we will revise the updated date at the bottom of this page. Continued use of the Mobile Application after any such changes shall constitute your consent to such changes. Acceptance of this policyYou acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Mobile Application you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Mobile Application.
+Contacting us
+Email: screenrecorder@ecomobile.vn
+If you have any questions about this Policy, please contact us. This document was last updated on Sep 14, 2023
+Report abuse
+Page details
+Page updated
+Report abuse

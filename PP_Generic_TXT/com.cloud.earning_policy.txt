@@ -1,0 +1,281 @@
+FONE
+Home
+Cloud Earning and Crypto Treasures Terms of Service
+Last updated: October 27th, 2021
+LEGAL DISCLAIMER
+1.)	Risks related to the use of the Cloud Earning Application.
+Fone will not be responsible for any losses, damages or claims arising from events falling within the scope of the following categories:
+a.)	Mistakes made by the user of any cryptocurrency-related software or service, e.g., forgotten pins, payments sent to wrong coin addresses, accidental deletion of wallets, and/or forgetting to back up private keys.
+b.)	Software problems of the applications, wallets and/or any cryptocurrency-related software service, e.g., corrupted wallet file, incorrectly constructed transactions, unsafe cryptographic libraries, malware affecting the applications, wallet and/or any cryptocurrency-related software or service.
+c.)	Technical failures in the hardware of the user of any cryptocurrency-related software service, e.g., data loss due to a faulty or damaged storage device.
+d.)	Security problems experienced by the user of any cryptocurrency-related software service, e.g., unauthorized access to users' applications, wallets and/or accounts.
+e.)	Actions or inactions of third parties and/or events experienced by third parties, e.g., the bankruptcy of service providers, information security attacks on service providers, and fraud conducted by third parties.
+2.)	Compliance with tax obligations
+- The users of the applications are solely responsible to determinate what, if any, taxes apply to their crypto-currency transactions. The owners of, or contributors to, the wallet are NOT responsible for determining the taxes that apply to cryptocurrency transactions.
+3.)	 No Warranties
+- The applications are provided on an "as is" basis without any warranties of any kind regarding the applications and/or any content, data, materials and/or services provided on the applications.
+4.)	 Wallet Data Security
+- The owners of, or contributors to, the wallet do not retain access at any time of the pin code, as well as the private keys entered or created by the cryptocurrency-related software. Instead, the information is encrypted and stored on the devices' storage with a well-known recommended method, Advanced Encryption Standard (AES). AES uses substitutionâ€“permutation network to encrypt userâ€™s data with a key. Using this approach, it replaces bytes from one table with the bytes from another, and as such creates permutations of data.
+5.) Limitation of liability
+- Unless otherwise required by law, in no event shall the owners of, or contributors to, the applications be liable for any damages of any kind, including, but not limited to, loss of profits, or loss of data arising out of or in any way connected with the use of the applications. In no way are the owners of, or contributors to, the applications responsible for the actions, decisions, or other behavior taken or not taken by users in reliance upon the applications.
+6.) Arbitration
+- The user of the applications agrees to arbitrate any dispute arising from or in connection with the applications or this disclaimer, except for disputes related to copyrights, logos, trademarks, trade names, trade secrets or patents.
+SECURITY POLICY
+The intent of this Security policy is to protect the information assets of the organization and users, the main objective followed by is to establish and maintain adequate and effective security measures for the users to ensure that the confidentiality, integrity and operational availability of information is not compromised.
+Sensitive information must therefore be protected from unauthorized disclosure modification, access, use destruction or delay in service.
+Each user has a duty and responsibility to comply with the information protection policies and procedures described in this document
+1.) Purpose
+- The purpose of this policy is to safeguard information belonging to Fone within a secure environment.
+This policy informs Fone user and staff authorized to use Fone applications of the principles governing the retention use and disposal of information.
+2.) Scope
+-This policy applies to all user who use Fone applications or work with documents or information that concerns customers or any other partner for whom the organization has collected information in the normal course of its business.
+3.) Goals and Objectives Followed:
+The goals and objectives followed of this policy are:
+- Protect information from unauthorized access or misuse
+- Ensure the confidentiality of information
+- Maintain the integrity of information
+- Maintain the availability of information systems and information for service delivery
+- Comply with regulatory, contractual and legal requirements.
+- Maintain physical, logical, environmental and communications security
+- Dispose of information in an appropriate and secure manner when it is no longer in use
+Which include deletion of all the information on a userâ€™s account if requested by the user itself, providing information regarding his account. For the process to start the user needs to open a ticket through the application which the account is registered to.
+Steps:
+a. Open the application.
+b. Open the menu from the side bar.
+c. Press Contact Support.
+d. Ask for deletion of the account
+e. Approve that you want your account to be permanently deleted.
+4.) Access Control
+The fundamental element of this security policy is the control of access to critical information resources that require protection against unauthorized disclosure or modification. Access control refers to the permissions assigned to persons or systems that are authorized to access specific resources. Access controls exist at different layers of the system including the network. Access control is implemented by username and password. At the application and database level, other access control methods can be implemented to further restrict access. All access to the database is limited and only staff with specific privileges can access that information in order to assist the user. Also, historical data on the account to be reviewed by the staff for clearing out misunderstandings or occurred issues.
+5.) Account Control
+For each of our applications a user can own only one account associated with each app/game. If a user own multiple accounts he will be subject to a ban on all associated accounts. We reserve the rights to disable accounts when suspect suspicious activity.
+6.) Security System
+As businesses, we need to be ever vigilant to ensure we are one step ahead of cyber threats and secure our data, technology, and networks from increasing threats. Our cyber security policy can provide a comprehensive and proactive response to threats of this nature that can be shared with our organization. As such if our system detects any violation the account detected will be permanently suspended. You will be able to open a ticket to our support team for an engineer to review the case (
+support@fone.dev
+). Upon reviewing the account and the final decision is that the account will be kept suspended all communication will be suspended, as such you may not get a reply on our follow up email.
+Fone does not guarantee a bug-free environment, as such in cases where the user account is suspended by a bug related reason, the account will be reviewed by the companiesâ€™ engineers and it will be re-enabled, only when it is confirmed that it is a bug related issue.
+DEPOSITS POLICY
+1.) Deposits:
+- All deposits made to our applications have to deposit Fone (FONE-SPL). All deposits containing a different token other than FONE will not be processed and cannot be restored after the deposit process is done.
+REFUND POLICY
+Thanks for purchasing our products from our applications operated by Fone.
+We offer a full money back guarantee on all purchases made in our applications, but under certain conditions. We invite you to read the conditions explained in more detail below, in order to see the condition that applies to your situation, while following the correct procedure.
+After the
+three-day
+period, we cannot offer you a refund or exchange.
+To be eligible for a refund or exchange, all products must be unused. The purchase can also be eligible for a refund if it was uncredited to the account.
+If You have any further questions or would like to request a refund, please do not hesitate to contact us at
+support@fone.dev
+Refunds (if applicable)
+For the refund process to take place you need to provide us with the following information:
+a. The e-mail address linked to your account in the application
+b. The e-mail associated with the purchasing account (i.e., Google Play Account)
+c. The order number for the purchase (It will start with â€œGPAâ€)
+d. What you purchased and how much you paid
+e. Reason for refund
+Please provide the information above only if it is applicable with the refund reason.
+Refunds on payments that did not go through
+If a purchase was made and it was either declined or cancelled, the payment will be invalid, and there will be no need for a refund, as the payment will not go through and will be back in your bank account, between three to five business days, depending on your bank and region.
+GDPR data protection policy
+1. Introduction
+Fone is committed to conducting its business in accordance with all applicable Data Protection laws and regulations and in line with the highest standards of ethical conduct.
+This policy details expected behaviors of Foneâ€™s Employees and Third Parties in relation to the collection, use, retention, transfer, disclosure and destruction of any Personal Data belonging to a Foneâ€™s Customers and Staff (i.e., the Data Subject) and irrespective of the media used to store the information.
+Personal Data is any information (including opinions and intentions) which relates to an identified or Identifiable Natural Person. Personal Data is subject to certain legal safeguards and other regulations, which impose restrictions on how organizations may process Personal Data.
+An organization that handles personal data and makes decisions about its use is known as a Data Controller. Fone, as a Data Controller, is responsible for ensuring compliance with the Data Protection requirements outlined in this policy.
+Non-compliance may expose Fone to complaints, regulatory action, fines and/or reputational damage.
+Foneâ€™s leadership is fully committed to ensuring continued and effective implementation of this policy and expects all Fone Employees and Third Parties to share in this commitment.
+Any breach of this policy will be taken seriously and may result in disciplinary action or business sanction.
+2. Scope
+2.1. This policy applies to all Fone Entities where a Data Subjectâ€™s personal data is processed:
+- in the context of the business activities of the Fone Entity
+- for the provision or offer of goods or services to individuals (including those provided or offered free-of-charge) by Fone
+- to actively monitor the behavior of individuals.
+2.2. Monitoring the behavior of individuals includes using data processing techniques such as persistent web browser cookies or dynamic IP address tracking to profile an individual with a view to:
+- taking a decision about them
+- analyzing or predicting their personal preferences, behaviors and attitudes.
+2.3. This policy applies to all processing of personal data in electronic form (including electronic mail and documents created with word processing software) or where it is held in manual files that are structured in a way that allows ready access to information about individuals.
+2.4. This policy has been designed to establish a baseline standard for the processing and protection of personal data by all Fone Employees. Where national law imposes a requirement that is stricter than that imposed by this policy, the requirements in national law must be followed. Furthermore, where national law imposes a requirement that is not addressed in this policy, the relevant national law must be adhered to.
+2.5. The protection of personal data belonging to Fone Employees is not within the scope of this policy.
+2.6. The DPO is responsible for overseeing this Privacy Standard and, as applicable, developing Related Policies and Privacy Guidelines. The DPO within our company is Ivan Likov, email for correspondence ivan.likov@fone.dev.
+2.7. Please contact the DPO with any questions about the operation of this Privacy Standard or the GDPR, or if you have any concerns that this Privacy Standard is not being or has not been followed. You must always contact the DPO in the following circumstances:
+- if you are unsure of the lawful basis which you are relying on to process Personal Data (including the legitimate interests used by the Company)
+- if you need to rely on Consent and/or need to capture Explicit Consent
+- if you need to draft Privacy Notices or Fair Processing Notices
+- if you are unsure about the retention period for the Personal Data being Processed
+-  if you are unsure about what security or other measures you need to implement to protect Personal Data
+- if there has been a Personal Data Breach
+- if you are unsure on what basis to transfer Personal Data outside the EEA
+- if you need any assistance dealing with any rights invoked by a Data Subject
+whenever you are engaging in a significant new, or change in, Processing activity which is likely to require a DPIA or plan to use Personal Data for purposes others than what it was collected for if you plan to undertake any activities involving Automated Processing including profiling or Automated Decision-Making if you need help complying with applicable law when carrying out direct marketing activities; or
+- if you need help with any contracts or other areas in relation to sharing Personal Data with Third Parties (including our vendors).
+3. Policy
+3.1. Governance
+3.1.1. Policy Dissemination and Enforcement
+The management team of Fone must ensure that all Fone Employees responsible for the Processing of Personal Data are aware of and comply with the contents of this policy. In addition, Fone will make sure all Third Parties engaged to Process Personal Data on their behalf (i.e., their Data Processors) are aware of and comply with the contents of this policy. Assurance of such compliance must be obtained from all Third Parties, whether companies or individuals, prior to granting them access to Personal Data controlled by Fone.
+3.1.2.	Data Protection by Design
+To ensure that all Data Protection requirements are identified and addressed when designing new systems or processes and/or when reviewing or expanding existing systems or processes, each of them must go through an approval process before continuing.
+Fone must ensure that a Data Protection Impact Assessment (DPIA) is conducted, for all new and/or revised systems or processes for which it has responsibility. Fone should consult with a Data Protection subject matter expert during completing the DPIA. The subsequent findings of the DPIA must then be submitted to the senior risk office for Fone for review and approval. Where applicable, the Information Technology (IT) department, as part of its IT system and application design review process, will cooperate with the Data Protection subject matter expert to assess the impact of any new technology uses on the security of Personal Data.
+3.1.3.	Compliance Monitoring
+To confirm that an adequate level of compliance is being achieved by Fone in relation to this policy, Fone will carry out an annual Data Protection compliance audit. Each audit will, as a minimum, assess compliance with this policy and the operational practices in relation to the protection of Personal Data, including:
+- the assignment of responsibilities
+- raising awareness
+- training of Employees
+- adequacy of organizational and technical controls to protect Personal Data
+- records management procedures (including data minimization)
+- adherence to the qualified rights of the Data Subject
+- Privacy by Design and Default
+- consent for direct marketing
+- Personal Data transfers
+- Personal Data incident management (including Personal Data breaches)
+- Personal Data complaints handling
+- the currency of Data Protection policies and Privacy Notices
+- the accuracy of Personal Data being stored
+- the conformity of Data Processor activities
+- the adequacy of procedures for redressing poor compliance.
+Any major deficiencies identified will be reported to and monitored by Fone Executive Management team.
+3.2. Principles
+3.2.1. Data Protection
+Fone has adopted the following principles to govern its collection, use, retention, transfer, disclosure and destruction of Personal Data.
+PRINCIPLE DEFINITION
+PRINCIPLE 1: Lawfulness, Fairness and Transparency	Personal Data shall be processed lawfully, fairly and in a transparent manner in relation to the Data Subject. This means, Fone must tell the Data Subject what Processing will occur (transparency), the Processing must match the description given to the Data Subject (fairness), and it must be for one of the purposes specified in the applicable Data Protection regulation (lawfulness).
+PRINCIPLE 2: Purpose Limitation 	Personal Data shall be collected for specified, explicit and legitimate purposes and not further Processed in a manner that is incompatible with those purposes. This means Fone must specify exactly what the Personal Data collected will be used for and limit the Processing of that Personal Data to only what is necessary to meet the specified purpose.
+PRINCIPLE 3: Data Minimization Personal Data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are Processed. This means Fone must not store any Personal Data beyond what is strictly required.
+PRINCIPLE 4: Accuracy	Personal Data shall be accurate and kept up to date. This means Fone must have in place processes for identifying and addressing out-of-date, incorrect and redundant Personal Data.
+PRINCIPLE 5: Storage Limitation	Personal Data shall be kept in a form which permits identification of Data Subjects for no longer than is necessary for the purposes for which the Personal Data is Processed. This means Fone must, wherever possible, store Personal Data in a way that limits or prevents identification of the Data Subject.
+PRINCIPLE 6: Integrity & Confidentiality	Personal Data shall be Processed in a manner that ensures appropriate security of the Personal Data, including protection against unauthorized or unlawful Processing, and against accidental loss, destruction or damage. Fone must use appropriate technical and organizational measures to ensure the integrity and confidentiality of Personal Data are always maintained.
+3.2.2. Accountability
+The Data Controller shall be responsible for, and be able to demonstrate, compliance. This means Fone must demonstrate that the six Data Protection Principles (outlined above) are met for all Personal Data for which it is responsible.
+3.3. Data Collection
+Personal Data should be collected only from the Data Subject unless one of the following applies:
+- The nature of the business purpose necessitates collection of the Personal Data from other persons or bodies.
+- The collection must be carried out under emergency circumstances in order to protect the vital interests of the Data Subject or to prevent serious loss or injury to another person.
+- If Personal Data is collected from someone other than the Data Subject, the Data Subject must be informed of the collection unless one of the following apply:
+- the Data Subject has received the required information by other means
+- the information must remain confidential due to a professional secrecy obligation
+- a national law expressly provides for the collection, Processing or transfer of the Personal Data.
+Where it has been determined that notification to a Data Subject is required, notification should occur promptly, but in no case later than: 30 days for the Data Collector to provide the requested information from a user.
+3.3.1 Detailed explanation about Data Collection
+This Privacy Policy describes how Fone collects and processes your personal information through the Fone applications that reference this Privacy Notice. Fone refers to an ecosystem comprising Fone mobile applications.
+This Privacy Policy applies to all mobile applications and website. By using Fone Services, you are consenting to the collection, storage, processing, and transfer of your personal information as described in this Privacy Policy.
+Fone Inc., (registered office address: 4786 Queen Street, Niagara Falls, Ontario L2E 2M3 Canada) is the Data Controller for personal information collected and processed in connection with provision of Fone Services.
+a) What Personal Information About Users Does Fone Collect?
+Fone collects your personal information to provide and continually improve our products and services.
+Here are the types of personal information we collect:
+Information you give us: we receive and store any information you provide in relation to Fone. You can choose not to provide certain information but then you might not be able to use some Fone Services. Examples of information that you give us include:
+- Email Address
+- First and Last name
+- Nationality
+- Other information to help us identify you
+Automatically Collected information: we automatically collect and store certain types of information about your use of Fone Services including your interaction with content and services available through Fone Services. Like many websites, we use cookies and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Fone Services. Examples of the information we collect and analyze include:
+- Fone Services metrics (e.g., the occurrences of technical errors, your interactions with service features and content, and your settings preferences)
+- Version and time zone settings
+- Transaction history
+Information from other sources: we may receive information about you from other sources such as credit history information from credit bureaus, which we use to help prevent and detect fraud.
+b) Can Children Use Fone Services?
+Fone does allow people under the age of 18 to use the Fone Services, as our applications strive to educate users on different age spectrum to learn more about crypto currencies.
+c) For What Purposes Does Fone Process My Personal Information?
+Fone does NOT process any user information. All the above-mentioned information is used to create unique accounts, without any duplication.
+d) What About Cookies and Other Identifiers?
+We do NOT use cookies and similar tools to collect information. Our website is only to inform the users of our activity and to have access to all our applications, exchange listings and social media.
+e) Does Fone Share My Personal Information?
+Information about our users is an important part of our business and we are not in the business of selling our users' personal information to others.   Fone doesnâ€™t not share any personal information for external use.
+f) How Secure is My Information?
+We design our systems with your security and privacy in mind.  We work to protect the security of your personal information during transmission by using encryption protocols and software, provided by the Google services we use.
+g) How Long Does Fone Keep My Personal Information?
+We keep your personal information to enable your continued use of Fone Services, for as long as it is required to fulfil the relevant purposes described in this Privacy Notice, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you.
+h) Contact Information
+Our data protection officer can be contacted at
+contact@fone.dev
+/
+support@fone.dev
+, and will work to address any questions or issues that you have with respect to the collection and processing of your personal information.
+i) Conditions of Use, Notices and Revisions
+If you choose to use Fone Services, your use and any dispute over privacy is subject to this Notice and our Terms of Use. If you have any concerns about privacy at Fone, please contact us with a thorough description, and we will try to resolve it. You also have the right to contact your local Data Protection Authority.
+Our business changes constantly, and our Privacy Notice will change also. You should check our websites frequently to see recent changes. If you do not agree with the revised content, you shall stop accessing Fone immediately. When an updated version of the Privacy Policy is released, your continued access to Fone applications means that you agree to the updated content and agree to abide by the updated Privacy Policy. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.
+USER TERMS AND CONDITIONS
+Greenspace aims to be a safe platform that provide users with a positive experience. In order to achieve this, we ask out users to follow the subsequent guidelines.
+We ask our users to:
+- Provide accurate information about yourself.
+- Create only one account (your own).
+- Not share your password or give access to your Greenspace account to others.
+You cannot use Greenspace if:
+- You are under 16 years old
+- We've previously disabled your account for violations of our Terms & Conditions
+Users agree not to engage in the conduct described below (or to facilitate or support others in doing so):
+1. You may not upload viruses or malicious code or do anything that could disable, overburden, or impair the proper working or appearance of our Products.
+2. You may not access or collect data from our Products using automated means or attempt to access data you do not have permission to access.
+3. You may not use our Products to do or share the following:
+a) Content that infringes or violates someone else's rights, including their intellectual property rights.
+b) Content including hate speech (abusive or threatening speech or writing that expresses prejudice against a particular group, especially on the basis of race, religion, or sexual orientation)
+c) Sexual content or nudity
+d) Photos or videos of another individual without their consent
+e) Content that reveals the personal or private information of others without their consent this includes but is not limited to:
+i. Home address
+ii.	Date of birth
+iii. Personal contact information
+iv.	Government identification
+v. Passwords
+vi.	Financial records
+f) Depicting, admitting to or promoting acts of physical harm against people or animals.
+g) Depicting, promoting, advocating for or encouraging participation in criminal activity this includes but is not limited to:
+i. Theft
+ii.	Hacking
+iii. Vandalization
+iv.	Bribery
+v. Embezzlement
+vi.	Money laundering
+h) Depicting, promoting, advocating for or encouraging participation in self harm or suicide
+i) Attempts to buy, sell, gift or trade illegal goods. This includes but is not limited to:
+i. Firearms
+ii.	Drugs
+iii. Illegal species/livestock
+iv.	Stolen information or goods
+Greenspace is a community driven platform and encourages users to report content or conduct that you believe violates your rights or our term and policies. You can do so through the application or by contacting
+support@fone.dev
+Steps:
+1. Click on the post you would like to report
+2. Click the three dots in the upper right corner
+3. Select report and tell us why you believe the post should be removed
+Greenspace reserves the right to remove any content that is in violation of these provisions and to remove or restrict access to your content and services if determined that doing so is reasonably necessary to protect the legal integrity of Greenspace. If your content is removed, you will not be refunded for any of the costs associated with minting the NFT or other related in app purchases conducted to upload the content in question.
+If we remove content that you have shared in violation of our Community Standards, weâ€™ll let you know and explain why. If you believe that your content has been removed without good reason, you may appeal by contacting
+support@fone.dev
+Greenspace does not guarantee a bug-free environment, as such in cases where the user account is suspended by a bug related reason, the account will be reviewed by the companiesâ€™ engineers and it will be re-enabled, only when it is confirmed that it is a bug related issue.
+DATA PRIVACY POLICY
+Greenspace is an entity of fone.dev and follows the GDPR requirements for data protection summarized below.
+Greenspace is committed to conducting its business in accordance with all applicable Data Protection laws and regulations and in line with the highest standards of ethical conduct.
+This policy details expected behaviors of Greenspaceâ€™s Employees and Third Parties in relation to the collection, use, retention, transfer, disclosure and destruction of any Personal Data belonging to a Greenspaceâ€™s Customers and Staff (i.e., the Data Subject) and irrespective of the media used to store the information.
+Personal Data is any information (including opinions and intentions) which relates to an identified or Identifiable Natural Person. Personal Data is subject to certain legal safeguards and other regulations, which impose restrictions on how organizations may process Personal Data.
+An organization that handles personal data and makes decisions about its use is known as a Data Controller. Greenspace, as a Data Controller, is responsible for ensuring compliance with the Data Protection requirements outlined in this policy.
+Non-compliance may expose Greenspace to complaints, regulatory action, fines and/or reputational damage. Greenspaceâ€™s leadership is fully committed to ensuring continued and effective implementation of this policy and expects all Greenspace Employees and Third Parties to share in this commitment. Any breach of this policy will be taken seriously and may result in disciplinary action or business sanction.
+Greenspace has adopted the following principles to govern its collection, use, retention, transfer, disclosure, and destruction of Personal Data according to the following principles.
+PRINCIPLE 1: Lawfulness, Fairness and Transparency Personal Data shall be processed lawfully, fairly and in a transparent manner in relation to the Data Subject. This means, Greenspace must tell the Data Subject what Processing will occur (transparency), the Processing must match the description given to the Data Subject (fairness), and it must be for one of the purposes specified in the applicable Data Protection regulation (lawfulness).
+PRINCIPLE 2: Purpose Limitation Personal Data shall be collected for specified, explicit and legitimate purposes and not further Processed in a manner that is incompatible with those purposes. This means Greenspace must specify exactly what the Personal Data collected will be used for and limit the Processing of that Personal Data to only what is necessary to meet the specified purpose.
+PRINCIPLE 3: Data Minimization Personal Data shall be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are Processed. This means Greenspace must not store any Personal Data beyond what is strictly required.
+PRINCIPLE 4: Accuracy Personal Data shall be accurate and kept up to date. This means Greenspace must have in place processes for identifying and addressing out-of-date, incorrect, and redundant Personal Data.
+PRINCIPLE 5: Storage Limitation Personal Data shall be kept in a form which permits identification of Data Subjects for no longer than is necessary for the purposes for which the Personal Data is Processed. This means Greenspace must, wherever possible, store Personal Data in a way that limits or prevents identification of the Data Subject.
+PRINCIPLE 6: Integrity & Confidentiality Personal Data shall be Processed in a manner that ensures appropriate security of the Personal Data, including protection against unauthorized or unlawful Processing, and against accidental loss, destruction, or damage. Greenspace must use appropriate technical and organizational measures to ensure the integrity and confidentiality of Personal Data are always maintained.
+DATA COLLECTION
+Greenspace does not collect or store any of your data aside from your email and name used to create your account. Any further personal data will only be collected with your consent and for the following reasons.
+Personal Data should be collected only from the Data Subject unless one of the following applies:
+1.	The nature of the business purpose necessitates collection of the Personal Data from other persons or bodies.
+2.	The collection must be carried out under emergency circumstances in order to protect the vital interests of the Data Subject or to prevent serious loss or injury to another person.
+3.	If Personal Data is collected from someone other than the Data Subject, the Data Subject must be informed of the collection unless one of the following apply:
+4.	The Data Subject has received the required information by other means
+5.	The information must remain confidential due to a professional secrecy obligation
+6.	A national law expressly provides for the collection, processing, or transfer of the Personal Data.
+7.	Where it has been determined that notification to a Data Subject is required, notification should occur promptly, but in no case later than: 30 days for the Data Collector to provide the requested information from a user.
+Greenspace does not sell any personal data collected to third parties.
+If you delete your content, it will no longer be visible to others, though it will still exist on our network. If you wish to have your data permanently erased, please submit a request to
+support@fone.dev
+Steps:
+a. Open the application.
+b. Open the settings from the bottom bar.
+c. Press Contact Support.
+d. Ask for deletion of the account
+e. Approve that you want your account to be permanently deleted.
+4786 Queen Street,
+            Niagara Falls, Ontario
+            L2E 2M3 Canada.
+            Headquarters
+Copyright Â©2017-2021 Fone - All rights reserved.
+Home

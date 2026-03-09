@@ -1,0 +1,16 @@
+Music player
+Search this site
+Skip to main content
+Skip to navigation
+Music player
+Privacy policy
+Music player personal information
+Music player App with your privacy in mind, so we do not collect personally identifiable information about you.
+Explains for permission requests
+in
+Music player
+, I request a sensitive permission to make functions of application work properly :
+android.permission.READ_PHONE_STATE: hanld the call to allow pause or play music when incoming or outgoing call
+Report abuse
+Google Sites
+Report abuse

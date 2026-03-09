@@ -1,0 +1,31 @@
+Shuttle Music Player
+Home
+Home
+
+Privacy Policy
+General
+Shuttle Music Player ("Shuttle") is developed & maintained by one developer. As the developer of Shuttle, I do care about and respect your privacy.
+This Privacy Policy ("Policy") aims to describe how information obtained from users is collected, used and disclosed.
+By using Shuttle, you agree that your personal information will be handled as described in this Policy.
+Information being collected
+Shuttle does not collect any personally identifiable information.
+Shuttle requests the permission 'READ_PHONE_STATE'. This permission is used by Shuttle solely to determine whether you're in a phone call/the phone is ringing, so that music playback can be paused. This permission also grants access to some personally identifiable information (your phone's IMEI number, your phone number and your network/carrier). This personally identifiable information is never accessed, used, stored or disclosed by Shuttle.
+Shuttle uses two third party services which collect information:
+a.) Crashlytics
+Crashlytics is a crash reporting / analytics service, recently acquired by Google. Shuttle uses this service to determine which crashes are occurring, on which devices, how frequently, etc. This enables me to see which bugs need my attention, and find the location of the bug in code.
+The information collected by Crashlytics does not personally identify users.
+For more information, see the
+Crashlytics Privacy Policy
+b.) Firebase Analytics
+Firebase is an analytics service also by Google. Shuttle uses this service to understand how users interact with Shuttle. For example, which screens are popular, which aren't, how long users spend in the app, how many users install the app per month, etc.
+It is not clear to me whether Firebase Analytics collects personally identifiable information, however Shuttle does not provide any personally identifiable information to Firebase Analytics.
+For more information, see the
+Firebase Privacy Policy
+Changes to the Policy
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+Last modified: 04 Feb, 2017.
+Contact
+If you have any questions about the Policy, please contact me via
+privacy@simplecityapps.com
+© 2017
+Simplecity Apps

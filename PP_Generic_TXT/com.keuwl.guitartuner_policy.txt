@@ -1,0 +1,21 @@
+Privacy Policy
+Privacy Policy
+This privacy policy applies to the following apps by keuwlsoft:
+Guitar Tuner
+(Version 1.60)
+The MICROPHONE permission (android.permission.RECORD_AUDIO) is used in the app. We only use data from the microphone within the app for the purpose of the app functionality.
+This app also uses the internet (android.permission.INTERNET) permission so that we can serve ads and generate a little revenue.
+In order to deliver the ads, we use the AdMob SDK from Google.
+   Please see their terms and
+privacy policy
+for information on any data they might collect or share.
+   Also see
+https://policies.google.com/technologies/partner-sites
+for a good explanation of how Google uses information from Apps. 
+        
+ Only Non personalised ads are shown. AdMob will serve ads from any of the Google-certified ad networks.
+Whilst keuwlsoft does not directly collect or store any of your personal or non-personal information, 
+    some anonymous analytical data (e.g. app usage, crash reports and ad effectiveness data) is available to us through AdMob and/or the Google Developer Console.
+In older versions of the app (Version 1.51 and below), personalised ads may have been used. You can see the privacy policy for for earlier app versions
+here
+.

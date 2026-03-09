@@ -1,0 +1,94 @@
+Fast Emulator
+Search this site
+Skip to main content
+Skip to navigation
+Fast Emulator
+Frequently Asked Questions
+General
+Privacy Policy
+We need permissions to:
+vibrate your phone to emulate rumble (featured by specific games).
+access internet to show Ads (free versions only).
+access Wi-Fi and Bluetooth to emulate link between devices.
+access NFC to make linking over Wi-Fi a lot easier.
+access device's camera to emulate Game Boy Camera (My OldBoy! only). You choose to start or stop the camera any time you want.
+Additionally, we may collect the following data from your devices:
+Unique advertising identifiers for showing personalized advertisements on the free, ad-supported versions. Remember you can always choose to opt out of all personalized advertising within Google settings.
+What's the difference between the free version and the full version?
+The full list of differences are displayed on the
+free version's app page
+.
+I can't buy on Google Play for some reason. Where else can I get My Boy!?
+Sorry, Google Play is currently the only channel we sell our product. If you are in a country where Google Wallet can not be used, or your payment method is not acceptable by Google Wallet, you have to stick to the free version as of now.
+I think I have found a bug. Can I report by leaving a comment on Google Play?
+No. Please report by email instead, as it is inconvenient to exchange messages on Google Play.
+Start & Exit
+Where do I get the games?
+We can not answer this question. You have to make sure you are obtaining games in a legal way. Otherwise you probably should not have downloaded My Boy!.
+What file formats are supported?
+Files whose names end with .gba, .bin, and .zip. In case of .zip, My Boy! will load the first recognized file in the archive.
+Why do I get "
+Invalid GBA game file
+" when I load a game?
+It could be a number of reasons:
+The file is not a valid GBA file. For instance, it is for the old GB/GBC games.
+The file is password protected (for .zip files only).
+The file is simply broken or incomplete. This usually happens when you are trying to download a file from the internet with your phone's browser.
+The file does not exist. This usually happens when you turn on USB storage to copy files, but forget to turn it off.
+I can't load a game that I could before. What's going on?
+Invalid cheats could crash games. Turn off Settings -> Misc -> "Enable cheats" and try again.
+Damaged state saves could crash games as well. Turn off Settings -> Misc -> "Quick load on start" and try again.
+How do I exit My Boy! other than pressing the HOME button?
+The clean way to exit is: choose 'Close' in the menu. You can bring up the menu by pressing either the MENU button on your device (if you have one) or the MENU button on top of the game screen. It is by default placed at the top-left corner of the screen.
+Cheats
+What cheat systems are supported?
+GameShark v1&v3 (As far as we know, Action Replay code is just GameShark v3). Format: XXXXXXXX YYYYYYYY
+Code Breaker. Format: XXXXXXXX YYYY
+Raw code. Format could be one of the following:
+XXXXXXXX YY
+XXXXXXXX YYYY
+XXXXXXXX YYYYYYYY
+OK, but where do I input cheat codes?
+While you are in a game, select MENU -> Cheats.
+I can't seem to get cheats to work. Why?
+Well, good question! it could be quite a number of reasons:
+The cheat codes were not invented for your game, or your specific version of the game. There are often multiple variants of a single game.  For example, cheats created for [1.0] of the game have little chance to be able to work on [1.1]. In this case, it may crash the game, cause graphics glitches, or simply do not work at all.
+Believe me, this is the number one reason why people can't get cheats to work.
+You may not mix different types of cheats. For example, Code Breaker master code may make GameShark cheat codes not to work.
+Some cheat codes have preconditions. For example, some are activated only when you are holding down certain buttons. Read the instructions carefully.
+If your cheat codes are for GameShark v1, or raw code, do not select "Auto detect" for code type. Select the right type explicitly.
+Your cheats are just wrong codes that are not supposed to work.
+There is a bug in My Boy!. Please report to us by email. Seriously this should be the last thing you consider, since the cheats system turned out to be robust.
+Link
+How do you link two devices?
+You can link over either Bluetooth or Wi-Fi.
+Bluetooth: On one device, choose (in menu) 'Link remote' -> 'Bluetooth (server)'. This will display a "Waiting for incoming connection" dialog. Then on the other device, choose 'Bluetooth (client)'. A list of bluetooth devices will show up, where you can choose a device to connect to. If the other device is not listed there, click the 'Make discoverable' button on the server device, and then click the 'Scan for devices' button on the client device. The server device will then appear in the device list. Select it and you will get connected. If you have not paired the two devices before, you may be asked to pair in the middle of the connection process.
+Wi-Fi: On one device, choose (in menu) 'Link remote' -> 'Wi-Fi (server)'. A "waiting for incoming connection" dialog will be displayed, with IP address and port numer on it. Then on the other device choose 'Wi-Fi (client)', and in the upcoming dialog, input the IP address and port number that is being displayed on the server device. If everything goes right, you will get connected.
+Note that there is an easy way to setup Wi-Fi connection if both devices support Android Beam (TM) and they are enabled in the system settings. Just open the game (same or not) on each device and put the two devices back to back, and voila, you will get connected immediately!
+Can I link over Wi-Fi without a Wi-Fi hotspot?
+Enable "Portable Wi-Fi hotspot" on one device and make the other device connect to that hotspot. Then in My Boy!, choose 'Wi-Fi (server)' on the device that is NOT working as the portable hotspot. Choose 'Wi-Fi (client)' on the other device. The remain procedure is the same as of a regular Wi-Fi connection.
+Can I link two different games across devices?
+Sure! It is a common misconception that My Boy! cannot link up different games. But there is a limitation: you need to have
+both games on each of your device
+. For instance, if you are trying to link your game A with your friend's game B, it is required that both game files (let's say A.gba and B.gba) be present on your device, and the same two files must be on your friend's device as well.
+Why do I encounter lags every few seconds when I link over Wi-Fi?
+If it lags every few seconds, but runs fairly smoothly for the rest of the time, please try disabling background sync (for syncing contacts, calendar, etc) in the system settings.
+Others
+Why does MyBoy! keep crashing randomly on my phone?
+Sorry, it is a known issue on several certain models of ARMv6 devices. From what we have investigated, it is actually a CPU bug, or your manufacturer's OS bug (failing to build the workaround into it). We have made the best effort to reduce the impact to the minimum, but it may still happen in certain (rare) cases.
+When I press Right + A, it is always stuck on Down?
+Unfortunately, your device does not have full multi-touch support (typically found on some HTC devices). Putting the D-Pad and A/B buttons in diagonals may help reduce the pain. Choose Settings -> Layouts to reposition on-screen controls.
+Why can't I press 2 buttons at the same time?
+Unfortunately, your device does not support multi-touch. Note that multi-touch cannot work on Android 1.6 even if your touch screen supports it.
+Why can't I press 3 buttons at the same time?
+Well, it means your touch screen cannot recognize more than 3 points (or points that are too close to each other) at the same time. In that case, you may want to map one of the game buttons to hardware buttons. Look more into Settings -> Input settings -> Key mappings.
+How do I patch a ROM?
+Put the ips/ups file (case sensitive) in the same directory as the ROM file is in. They must have the same base name. For example, if your ROM file is named ABCD.gba, then your patch file must be named ABCD.ips or ABCD.ups.
+You will then need to choose 'Add game folder' again if you added your patch files after you added the game folder. Then the next time you start your game, if a patch file is available, the ROM will be patched on the fly.
+Where are the save files? Can I transfer them to my new phone?
+Save files are stored in a private app-specific folder that you typically cannot access. But you can simply enable 'Sync with Google Drive' and all your save files will be automatically synced among all your Android devices. If you would like to manually backup saves, you can find them in the 'MyBoy' or 'MyOldBoy' folder on your Google Drive.
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

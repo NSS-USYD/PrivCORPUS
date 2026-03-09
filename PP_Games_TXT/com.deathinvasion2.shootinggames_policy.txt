@@ -1,0 +1,510 @@
+Privacy Policy
+Privacy Policy
+INFORMATION AND DATA WE COLLECT FROM YOU
+1. Technical Information and Data
+We collect technical data necessary for you
+to use our App and additional technical data that enables us to maintain and
+analyze the functioning of the App, to personalize the content of the App, and
+to display advertisements.
+We automatically obtain certain information
+about your computing device, including:
+IP address; Country code;
+IDFAs, IDFVs, Advertising IDs;
+Language; Locale (specific location where a
+given language is spoken);
+Time zone, session start/stop time;
+Network status (Wi-Fi, etc.), browser
+plug-in types and versions;
+User agent string (UA), platform, SDK
+version, timestamp;
+Technical device information (e.g., device
+model and name, operating system name and version, CPU information, storage
+size, screen size, firmware, software, mobile phone carrier, Internet service
+provider, API key identifier for application, International Mobile Equipment
+Identity (IMEI) on Android, Android ID, Android Serial No);
+Push notifications token;
+Player identifier string (we collect player
+identifier string only upon your sign into Google Play Games Services or
+Apple's Game Center).
+Additionally, for playing video
+advertisements through a video platform provider, we may collect additional
+information about your device, such as:
+"do not track" flag;
+page URL;
+Iso code of the country set on device;
+device date;
+whether Limit Ad is enabled or disabled;
+type of device (tablet or not).
+In addition, for users of Android devices
+we create a unique user ID and for users of iOS devices we use IDFVs to track
+your use of our Apps.
+Older versions of our Apps may still obtain
+information such as UDID number and IMEI number on iOS. If you wish to prevent
+this, please update the App with the latest version available on App Store.
+2. Advertising and Application Usage
+Information and Data
+When you use our Apps, we may collect
+additional information by using device identifiers that permit identification
+of your device. Such information is used for advertising and analytics
+purposes.
+The information collected includes:
+Which advertisements are shown;
+Length of time an advertisement is visible
+and the size of the advertisement;
+Advertisement response (if any), including
+clicks on ads;
+Angle of view;
+Application usage information, (how often
+you use the app, for how long you use the app, the events that occur within the
+app, in-app progress, in-app purchases you make and their value, aggregated
+usage, performance data, lifetime value of user etc.).
+3. Classical Personal Information
+We do not collect any personal information
+about you through our Apps, with the sole exception of persistent identifiers
+(such as IDFA, IDFV, Advertising ID, IP address). Persistent identifiers are
+identifiers that do not identify you personally but may uniquely identify your
+device. Some legislation (such as US) may treat such information that uniquely
+identifies your device as personal information.
+We may ask you to submit and we may process
+other non-personally identifiable information that may be personal to you such
+as your age range, year of birth and gender, provided that year of birth and
+gender information is collected solely for users who have passed the age gate
+in our Apps. We will use such information to personalize the content of the
+App, and for users who passed the age gate and have not opted out from
+behavioral advertising we may use such information to display targeted ads. You
+can opt out from receiving targeted ads by choosing one of the options
+described in the ''Opt Out'' Section of our Privacy Policy.
+When you voluntarily contact us directly,
+we may collect information about you that you provide us (such as your name and
+surname, email address). We will use such contact information only for the
+purpose for which you provided it to us. We will not share this information
+with third parties.
+If you wish to delete your contact
+information that we received from you when you contacted us, please send an
+e-mail to support@myjoymore.com.com and your contact information will be
+deleted from our database.
+HOW WE USE YOUR INFORMATION
+1. In General
+We use the information we collect about
+you/your device to deliver services to you and to operate our business. Such
+use by us and by our Partners may include:
+Delivering our services : developing,
+delivering and improving our products, services, and content, tailoring our
+products and services, providing software updates and product support,
+understanding and analyzing trends in connection with usage of the Apps,
+administering the Apps, and customer communications.
+Displaying advertisements : displaying
+third party advertisements in our Apps and showing advertisements for our Apps
+in other publisher's apps. Please see more in Advertising Section of this
+Privacy Policy.
+Cross-promotion : cross promoting our Apps
+and services, meaning we may promote one of our Apps while you are playing a
+different App of ours.
+Attribution and fraud prevention for
+advertising purposes : for some of our Apps we use third party services for
+attribution and fraud prevention for advertising purposes and for privacy compliance
+purposes. Please see more in Tracking Section of this Privacy Policy.
+Analytics and research : understanding and
+analyzing trends in connection with the usage of the Apps, gathering
+demographic information about our user base, data about where the App was
+downloaded from. We may also create reports and analysis for the purposes of
+research or business intelligence, for example to track potential problems or
+trends with our Apps and services, or to test our new game features and
+content. We use the data we receive from Third Party Social Network only for
+internal analytics. For opting out from analytics please visit Opt-Out Section
+of this Privacy Policy.
+2. Game Notifications
+We have two types of notifications in our
+Apps - local and push notifications. Local notifications are contextual and
+sent from the device, whereas push notifications are sent from the server. We
+use such notifications to remind you about your activities within the App.
+HOW WE MAY SHARE YOUR INFORMATION TO THIRD
+PARTIES
+We cannot provide all services necessary
+for the successful operation of the Apps by ourselves. We must therefore share
+collected information with third parties, including analytics providers,
+tracking providers, third party advertising providers and other third party
+service providers that support the Apps (collectively referred to as
+"Partners"). We may share information that can be used to personally
+identify your device (e.g., persistent identifiers such as IDFA, IDFV,
+advertising ID and IP address) for the purposes of delivering our services,
+displaying advertisements, conducting analysis and research and for measuring
+our and our Partners' advertising campaign performance. We may share such
+information to:
+Our analytics providers: For some Apps we
+use third party analytics such as Firebase Analytics for the purposes of
+delivering our services, conducting analysis and research. To get more
+information about how your data is being collected and processed you can visit
+the site "How Google uses data when you use our partners' sites or
+apps" located at www.google.com/policies/privacy/partners/. Additionally,
+we have also integrated Google Play Developer Console data like Impressions,
+Downloads, and Traffic Sources into a Google Analytics account to see how many
+times people viewed or downloaded our apps from Google Play. The device data we
+share with such providers are encoded. The providers may assign a random ID to
+these data, and they are not able to match it back to You. Third party
+analytics providers have the right to process the data in accordance with their
+privacy policies (http://www.google.com/intl/en/policies/privacy/#nosharing)
+and such collection and processing is limited to the disclosure in aggregated
+manner, for the purposes of showing trends about the use of their services, for
+advertising services and marketing purposes. We can aggregate the data for
+benchmarking feature.
+Our cloud service providers: We store
+information we collect from you on servers provided by our third party cloud
+service providers such as Google Cloud Platform and Google's Android Backup
+Service.
+Our attribution and fraud prevention
+providers: For some of our Apps we use third party services for attribution of
+our advertising campaigns, for fraud prevention and privacy compliance
+purposes. Please see more in Tracking Section of this Privacy Policy.
+Third party advertising partners: We have
+contracted with certain third party advertising networks that assist us in
+delivering advertising to you that allows us to continue offering the Apps for
+free or at low cost. Such third party advertising partners include but are not
+limited to advertising providers listed at here.
+Advertising partner's third party tracking
+provider: For some Apps we may allow our advertising partners to track
+impressions, clicks, installs or other advertising campaign performance
+indicators through their tracking providers for the purposes of measuring their
+advertising campaign performance.
+Other third party service providers: For
+some Apps we use Unity Software to develop such Apps. For the data processing
+by Unity please see Unity's privacy policy available at
+https://unity3d.com/legal/privacy-policy.
+We reserve the right to disclose your
+information (including personally identifiable information) in response to law,
+legal process, litigation, and/or requests from public and governmental
+authorities within or outside your country of residence. We may also disclose
+information about you if we determine that for purposes of national security,
+law enforcement, or other issues of public importance, disclosure is necessary
+or appropriate. We may also disclose information about you if we determine that
+disclosure is reasonably necessary to enforce our terms and conditions or to
+protect our operations, users or user experience. Additionally, in the event of
+a reorganization, merger or sale we may transfer any and all information
+(including personally identifiable information) we collect to the relevant
+third party.
+HOW OUR PARTNERS MAY USE YOUR INFORMATION
+We strive to adhere to the generally
+accepted industry practices regarding the collection and the usage of
+information by our Partners and to limit their usage to the services they
+provide for us. They adhere to this Privacy Policy, but in some cases, we must
+use their privacy policies.
+We strive to commit our Partners to using
+the information solely for the purposes as stated in this Privacy Policy.
+Notwithstanding the above, we cannot guarantee that our Partners will adhere to
+the contractual obligations or acceptable business practices. While we strive
+to protect the information provided to our Partners, we have no direct control
+over their use of the collected information and therefore you acknowledge that
+we are not liable for any third party privacy breach and that our liability for
+our Partner breaches is limited to the amount we can receive as indemnification
+from our Partners (legal costs exempted).
+Some of the Apps allow you to submit
+content generated in or by the Apps to third party sites like Facebook, Google
+Play Games, Game Center and YouTube. These submissions follow the information
+transfer protocols of such third parties, which are designed to enable content
+sharing with such third parties.
+ADVERTISING
+When you use our Apps, we may display contextual
+advertisements to you. In order to enable advertising, we allow our advertising
+partners to collect online identifiers (such as Advertising ID on Android and
+IDFA on iOS) that might be considered as personal information under some
+legislations, but they should use it solely for the purposes of contextual
+advertising. For any other purposes they should use the information solely on
+anonymized and aggregated basis.
+For some territories, we may use and share
+with our advertising partners technical and advertising and application usage
+information we collect from you (please see Information and Data We Collect
+From You Section of this Privacy Policy) to enable our advertising partner to
+deliver, target and optimize third party advertising in our Apps, so that the
+advertisements you see are more relevant to you and are based on your app and
+device usage, online behavior and interests (this is commonly referred to as
+online behavioral or interest based advertising, i.e. IBA). In addition, we may
+use and share such information with our advertising partners to target and
+optimize our advertising and promotions in our and other publisher's apps.
+We will always follow applicable
+legislation and accepted market practices; thus, we will not use and share
+information for the purposes of behavioral advertising for users who did not
+pass the age gate in our Apps and for those who opted-out of IBA.
+ADVERTISING
+When you use our Apps, we may display
+contextual advertisements to you. In order to enable advertising, we allow our
+advertising partners to collect online identifiers (such as Advertising ID on
+Android and IDFA on iOS) that might be considered as personal information under
+some legislations, but they should use it solely for the purposes of contextual
+advertising. For any other purposes they should use the information solely on
+anonymized and aggregated basis.
+For some territories, we may use and share
+with our advertising partners technical and advertising and application usage
+information we collect from you (please see Information and Data We Collect
+From You Section of this Privacy Policy) to enable our advertising partner to
+deliver, target and optimize third party advertising in our Apps, so that the
+advertisements you see are more relevant to you and are based on your app and
+device usage, online behavior and interests (this is commonly referred to as online
+behavioral or interest based advertising, i.e. IBA). In addition, we may use
+and share such information with our advertising partners to target and optimize
+our advertising and promotions in our and other publisher's apps.
+We will always follow applicable
+legislation and accepted market practices; thus, we will not use and share
+information for the purposes of behavioral advertising for users who did not
+pass the age gate in our Apps and for those who opted-out of IBA.
+ATTRIBUTION
+When you use the App, we or third parties
+operating the advertisement serving technology may use information logged from
+your device using SDKs, cookies, web beacons and other technologies to ensure
+that appropriate advertising is presented within the App and to calculate the number
+of unique and repeat views of advertising.
+For some of our Apps we use third party
+attribution and data collection tools from our service providers for the
+purposes of attributing performance, ad visibility and privacy compliance of
+third party SDKs in our Apps.
+We use third party attribution and data
+collection tools from our service providers, for the purposes of measuring
+performance and optimizing our advertising campaigns, displaying
+advertisements, conducting analysis to improve our services and for fraud
+prevention purposes. Such tools may use cookies, APIs, and SDKs in our Apps to
+enable them to collect and analyze user and device related data and
+information, such as impressions, clicks, installs or other advertising
+campaign performance indicators and post-install in-app events.
+In addition, our Partners may use their own
+attribution technologies (including and without limitation: SDKs, cookies, Web
+beacons, HTTP cache, local shared objects and other technologies) in order to
+attribute impressions, clicks, installs or other advertising campaign
+performance indicators for the purposes of measuring third party advertising
+campaign performance.
+THIRD PARTY SOCIAL NETWORKS
+1. Connecting to Third Party Social
+Networks
+Some of our Apps use third parties'
+services such as Google Play Games Service, Apple Game Center, Facebook,
+YouTube, Twitter or Vkontakte ("Third Party Social Network/s"). Such
+Apps enable you log in to your Third Party Social Network account to connect to
+our App by using the "Log in with »or "Connect to" feature in
+our App. You may also share the content you created within the App on Third
+Party Social Networks. By logging in to your Third Party Social Network account
+to connect to our App or by using the App to share content on such Third Party
+Social Network, you are authorizing us to collect, store, and use any and all
+information, in accordance with this Privacy Policy, that you agreed that such
+Third Party Social Network could provide to us through the Application
+Programming Interfaces ("API"). You authorize us to do so when you
+"accept" or "allow" (or similar terms) connection of one of
+our Apps to such Third Party Social Network. The information you allow us to
+access varies by App, and it is affected by the privacy settings you and your
+friends establish on those Third Party Social Networks. You can control and
+find out more about these settings at the Third Party Social Network in
+question. Please note, Third Party Social Networks are governed by their own
+privacy policies, terms and end user agreements and we are not responsible for,
+and have no control over, the sharing practices or policies of the third
+parties that operate those sites. For additional questions you can contact us.
+2. Data We May Access Via Third Party Social
+Networks
+If you use the "Log in with" or
+"Connect to" feature we may access and store some or all of the
+following information, as allowed by you, Third Party Social Networks and your
+preferences: (i) your basic information from your public profile, such as your
+name, surname, profile picture, age range, gender, and other public
+information; (ii) email address, login ID and/or player identifier string (iii)
+list of your friends; (iv) any other information which is detailed and
+displayed to you in the notice which appears during the "Log in with"
+or "Connect to" process. We may share your name, profile picture and
+your game data (such as moves, App progress and scores) with respect to the
+applicable App, with your friends who have also used the "Log in with"
+or "Connect to" feature in connection with such App or with your
+contacts in applicable Third Party Social Media Network account.
+The App may further ask you to allow us to
+post on such Third Party Social Networks on your behalf (e.g., photos, e-cards,
+videos and status updates). Please keep in mind that we will only do that if
+specifically allowed by you and we will store ID and your full name for the
+purposes of user identification. Other information will be merely stored within
+the App on your device so that the App will be able to communicate with Third
+Party Social Network directly; Voice recordings from Apps are also only being
+collected and stored within the Apps solely upon your request.
+3. Consent to Publicly Display Data on
+Third Party Social Networks
+If you use Third Party Social Networks to
+participate in game related activities, including but not limited to
+participation in leader boards, multi-player games or the downloading and
+uploading of content, We may also collect, use, store, transmit and publicly
+display statistical data regarding game play (including scores, rankings and
+achievements), or identify content that is created and shared by you with other
+players. Data that personally identifies you is collected, used, stored and transmitted
+in accordance with this Privacy Policy.
+THIRD PARTY TERMS AND CONDITIONS
+Please note that your access to and ability
+to use and interact with the Apps may be subject to certain third party terms
+and conditions and privacy policies, including but not limited to application
+stores, mobile software platforms, online gaming platforms, social networking
+services, statistics services providers and payment providers. You recognize
+and agree that we are not liable for any such third party terms and conditions
+and their use of your personal information.
+Our Apps may contain links to third party
+websites, products, or services. For example, the Apps may feature offers from
+third party advertisers or the ability to engage in transactions with such
+entities. Please note that while using such third party offerings, you are
+using sites, products, and services developed and administered by people or
+companies not affiliated with or controlled by us. We are not responsible for
+the actions of those people or companies, the content of their sites, products
+or services, the use of information you provide to them, or any products or
+services they may offer. Our link to such third parties does not constitute our
+sponsorship of, or affiliation with, those people or companies. Nor is such
+linking an endorsement of such third party's privacy or information security
+policies or practices or their compliance with laws. Information collected by
+third parties, which may include such things as location information or contact
+details, is governed by their privacy practices. These other websites or
+services may place their own cookies or other files on your computing device,
+collect information or solicit personal information from you. We encourage you
+to learn about the privacy practices of third parties with which you interact.
+We are not responsible or liable for your
+interaction with such third parties, the information requests initiated by such
+third parties, or the subsequent use, treatment or dissemination of information
+you voluntarily choose to provide to them.
+RIGHT TO DELETION
+You can request us to delete the personal
+data we have collected on you in the past 12 months.
+We fully recognize you right to deletion,
+however, we would like to note that in some cases we are obliged to keep your
+personal data for certain period of time. For instance, if we need to provide
+services to you, detect or resolve issues security or functionality-related
+issues, comply with the law, conduct research in the public interest, safeguard
+the right to free speech or carry out any actions for internal purposes that
+you might reasonably expect. If we do not have obligations to perform any of
+the above actions, we can delete your personal information at your request.
+You may request us to erase without undue
+delay your personal data when it is no longer necessary for us to retain such
+data.
+In order for your data to be erased you can
+contact us by support@myjoymore.com.com.by with request.
+COPPA / Children's privacy
+Our products respect the privacy of
+children. We comply with the guidelines set forth in the Children's Online
+Privacy Protection Act (COPPA). We do not knowingly collect personal
+information from children under the age of 13.
+In the event that a user identifies
+himself/herself as a child under the age of 13 through a support request or
+feedback, we will not collect, store or use and will delete in a secure manner
+any personal information of such a user.
+COPPA Website: http://www.coppa.org
+Joymore Game team has adopted this privacy
+policy (Privacy Policy) to explain how Joymore Game collects, stores, and uses
+the information collected in connection with Joymore Game's Services.
+BY INSTALLING, USING, REGISTERING TO OR
+OTHERWISE ACCESSING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN
+EXPLICIT AND INFORMED CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN
+ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY
+POLICY, PLEASE DO NOT INSTALL, USE, REGISTER TO OR OTHERWISE ACCESS THE
+SERVICES.Joymore Game reserves the right to modify this Privacy Policy at
+reasonable times, so please review it frequently. If Joymore Game makes
+material or significant changes to this Privacy Policy, Joymore Game may post a
+notice on Joymore Game's website along with the updated Privacy Policy. Your
+continued use of Services will signify your acceptance of the changes to this
+Privacy Policy.
+Personal Data
+For purposes of this Privacy Policy,
+"personal data" means personally identifiable information that
+specifically identifies you as an individual.
+Personal information collected by Joymore
+Game is information voluntarily provided to us by you when you create your
+account or change your account information. The information includes your
+facebook id, name, gender, location and your friends'id on facebook.Joymore
+Game also stores your game checkins, likes, dislikes, recommendations and
+messages.
+Joymore Game may use collected personal
+data for purposes of analyzing usage of the Services, providing customer and
+technical support, managing and providing Services (including managing
+advertisement serving) and to further develop the Services and other Joymore
+Game services and products. Joymore Game may combine non-personal data with
+personal data.
+Please note that certain features of the
+Services may be able to connect to your social networking sites to obtain
+additional information about you. In such cases, Joymore Game may be able to
+collect certain information from your social networking profile when your
+social networking site permits it, and when you consent to allow your social
+networking site to make that information available to Joymore Game. This
+information may include, but is not limited to, your name, profile picture,
+gender, user ID, email address, your country, your language, your time zone, the
+organizations and links on your profile page, the names and profile pictures of
+your social networking site friends and other information you have included in
+your social networking site profile. Joymore Game may associate and/or combine
+as well as use information collected by Joymore Game and/or obtained through
+such social networking sites in accordance with this Privacy Policy.
+Disclosure and Transfer of Personal Data
+Joymore Game collects and processes
+personal data on a voluntary basis and it is not in the business of selling
+your personal data to third parties. Personal data may, however, occasionally
+be disclosed in accordance with applicable legislation and this Privacy Policy.
+Additionally,Joymore Game may disclose personal data to its parent companies
+and its subsidiaries in accordance with this Privacy Policy.
+Joymore Game may hire agents and
+contractors to collect and process personal data on Joymore Game's behalf and
+in such cases such agents and contractors will be instructed to comply with our
+Privacy Policy and to use personal data only for the purposes for which the
+third party has been engaged by Joymore Game. These agents and contractors may
+not use your personal data for their own marketing purposes. Joymore Game may
+use third party service providers such as credit card processors, e-mail
+service providers, shipping agents, data analyzers and business intelligence
+providers. Joymore Game has the right to share your personal data as necessary
+for the aforementioned third parties to provide their services for Joymore
+Game. Joymore Game is not liable for the acts and omissions of these third
+parties, except as provided by mandatory law.
+Joymore Game may disclose your personal
+data to third parties as required by law enforcement or other government
+officials in connection with an investigation of fraud, intellectual property
+infringements, or other activity that is illegal or may expose you or Joymore
+Game to legal liability.Joymore Game may also disclose your personal data to
+third parties when Joymore Game has a reason to believe that a disclosure is
+necessary to address potential or actual injury or interference withJoymore
+Game's rights, property, operations, users or others who may be harmed or may
+suffer loss or damage, or Joymore Game believes that such disclosure is
+necessary to protect Joymore Game's rights, combat fraud and/or comply with a
+judicial proceeding, court order, or legal process served on Joymore Game. To
+the extent permitted by applicable law, Joymore Game will make reasonable
+efforts to notify you of such disclosure through Joymore Game's website or in
+another reasonable manner.
+Safeguards
+Joymore Game follows generally accepted
+industry standards and maintains reasonable safeguards to attempt to ensure the
+security, integrity and privacy of the information in Joymore Game's
+possession. Only those persons with a need to process your personal data in
+connection with the fulfillment of their tasks in accordance with the purposes
+of this Privacy Policy and for the purposes of performing technical
+maintenance, have access to your personal data in Joymore Game's possession.
+Personal data collected by Joymore Game is stored in secure operating
+environments that are not available to the public. To prevent unauthorized on-line
+access to personal data, Joymore Game maintains personal data behind a
+firewall-protected server. However, no system can be 100% secure and there is
+the possibility that despite Joymore Game's reasonable efforts, there could be
+unauthorized access to your personal data. By using the Services, you assume
+this risk.
+Other
+Please be aware of the open nature of
+certain social networking and other open features of the Services Joymore Game
+may make available to you. You may choose to disclose data about yourself in
+the course of contributing user generated content to the Services. Any data
+that you disclose in any of these forums, blogs, chats or the like is public
+information, and there is no expectation of privacy or confidentiality. Joymore
+Game is not responsible for any personal data you choose to make public in any
+of these forums.
+If you are under 15 years of age or a minor
+in your country of residence, please ask your legal guardian's permission to
+use or access the Services. Joymore Game takes children's privacy seriously,
+and encourages parents and/or guardians to play an active role in their
+children's online experience at all times. Joymore Game does not knowingly
+collect any personal information from children below the aforementioned age and
+if Joymore Game learns that Joymore Game has inadvertently gathered personal
+data from children under the aforementioned age, Joymore Game will take
+reasonable measures to promptly erase such personal data from Joymore Game's
+records.
+Joymore Game may store and/or transfer your
+personal data to its affiliates and partners in and outside of EU/EEA member
+states and the United States in accordance with mandatory legislation and this
+Privacy Policy.Joymore Game may disclose your personal data to third parties in
+connection with a corporate merger, consolidation, restructuring, the sale of
+substantially all of Joymore Game's stock and/or assets or other corporate
+change, including, without limitation, during the course of any due diligence
+process provided, however, that this Privacy Policy shall continue to govern
+such personal data.
+Joymore Game regularly reviews its
+compliance with this Privacy Policy. If Joymore Game receives a formal written
+complaint from you, it is Joymore Game's policy to attempt to contact you
+directly to address any of your concerns.Joymore Game will cooperate with the appropriate
+governmental authorities, including data protection authorities, to resolve any
+complaints regarding the collection, use, transfer or disclosure of personal
+data that cannot be amicably resolved between you and Joymore Game.

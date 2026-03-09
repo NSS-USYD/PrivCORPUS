@@ -1,0 +1,164 @@
+Privacy policy - Google Play | AppBlock
+about
+help
+wall of love
+for students
+contact
+blog
+Privacy Policy
+We protect your data
+Google play
+App Store
+Huawei App Gallery
+Privacy policy
+This privacy policy ("
+Privacy Policy
+") describes the manner of collecting, retaining and other processing of personal data by MobileSoft s.r.o., a company with its registered office at Českoskalická 650, 549 41 Červený Kostelec, identification no.: 025 73 857, registered in the Commercial Register administered by the Regional Court in Hradec Králové, section C, file 33165 ("
+Operator
+"), in connection with the use of AppBlock application and service ("
+Application
+") and the website www.appblock.app ("
+Web Interface
+"), the purpose of which is the temporary blocking of other applications - by the Users ("
+Service
+").
+This Privacy Policy supplements and is incorporated by reference in the
+Conditions of Use of AppBlock Service
+("
+Conditions
+"). The definitions/capitalized terms specified in the Conditions have the same meaning herein.
+The protection of privacy and personal data processing is a priority for the Operator and the processing of personal data is regarded as strictly confidential. Personal data are treated in compliance with the valid and effective laws and regulations in the field of personal data protection, including the General Data Protection Regulation EU 2016/679 ("
+Regulation
+").
+The Operator may change this Privacy Policy at any time with immediate effect. We will inform you of such changes. Should this Privacy Policy be changed in a manner that requires your consent, we will request your consent again.
+The latest version hereof is available in the footer of the Web Interface and through a link in the relevant section of the Application.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
+1. General information﻿
+Under the Regulation, the Operator is the controller of your personal data, i.e. the Operator collects, stores and uses (and otherwise processes) your personal data in connection with its business activities (the individual purposes for which the personal data are processed are specified below).
+Without your consent, we may only process such personal data that are necessary for the performance of the contract (i.e. the provision of the Service) and other contracts we may make with you or for the purpose of meeting our legal obligations, and/or for the purpose of legitimate interests. In other situations, we process your personal data only if you give us your consent to the processing of your personal data.
+Personal data are processed by us both manually and by automated means. Personal data are processed by automated means for the purpose of performance of a contract (the provision of the Service), in particular, to secure internal procedures of the Operator and its contractual partners that are necessary for the provision of the Service.
+This Privacy Policy describes the purposes of personal data processing and the manners of processing, it provides information regarding individual categories of personal data to be processed, individual recipients of personal data, the storage period of personal data and your rights regarding the protection of personal data.
+2. Information Collection and Use
+MobileSoft s.r.o. does not collect or store any Personal Information except data needed for login to Academy and the backup system to store progress, save Profile and QuickBlock blocking setups or synchronize app settings, nor does it share any such information with third parties. This data is voluntary and other services may be used without creating an account. All statistics and related configurations available through the Service are stored locally on the user’s device for their use only and are not accessible by MobileSoft s.r.o. and its affiliates. However, we use third-party services for analyses, advertisement and bug reporting. These services are managed by their own Privacy Policy:
+Google Play Services
+﻿
+AdMob
+﻿
+Firebase Analytics
+﻿
+Firebase Crashlytics
+﻿
+Facebook
+﻿
+3. Purposes of personal data processing
+Your personal data may be processed by the Operator for the following purposes:
+Performance of a contract
+with the User
+(fulfilment of mutual contractual relationship based on which the Service is provided to the User);
+Fulfilment of legal obligations
+;
+Protection of the controller's legitimate interest
+(protection of the rights and legally protected interests of the Operator, e.g. creating statistics concerning the behaviour of the Users of the Service);
+Distributing commercial communications and offering of services and goods
+(the Operator may send you commercial communications regarding the Service via e-mail or push notifications);
+Dealing with requests of the Users
+(e.g. using the possibility to contact the Operator through the Application).
+4. Types of personal data processed
+4.1 Categories of personal data﻿
+In connection with your activity and depending on the content thereof, the following personal data may be processed in the course of the provision of the Service:
+Data subjects data
+Purposes of processing:
+E-mail
+Performance of a contract with the User; fulfilment of legal obligations; protection of the controller's legitimate interest; distributing commercial communications and offering of services and goods; dealing with requests of the Users
+Password
+Performance of a contract with the User; protection of a legitimate interest of the controller
+QuickBlock and Profile configuration
+Performance of a contract with the User;
+5. Means of personal data processing
+Through registration, we collect personal data via the form in the Application. The Operator thus gets access to your e-mail and password. It is not possible to complete the registration (or create a Profile) without processing these personal data. In addition to this, you may at any time also fill in voluntary information. We also process personal data in the form, along with anyother content uploaded or provided by you.
+The QuickBlock and Profiles setup will only be saved for users who use the Backup feature. This data is used for providing backups and, in the case of a backup or restoration failure, debugging and will not be provided to third parties.
+Notwithstanding whether you register or not, we process your operational and localization data when you use the Service.
+By giving us the data, you are aware of the fact that they will be processed, or, if it is stated, you give your consent to the processing. You can withdraw your consent to the processing of personal data at any time. If so, we will no longer process your personal data unless there is a legal ground for their processing.
+If you decide to contact us via the tools located or referred to in the Application or the Web Interface or in any other way made available by the Operator, the information you have previously stated in the Service may be used.
+When you use the Service, the Operator's servers or the servers of the processors automatically recognize the IP address of your device (it is a number by which each device connected to the Internet is identified) or other identifiers.
+We also process statistical anonymized information in order to find out in what manner the Users or the visitors use the application.
+You may refuse the processing of your personal data for the purpose of sending business communications at any time and will not affect our other relationships. All you have to do is refuse to send other messages by clicking on the link located in the footer of the sent business message or you can send us an e-mail with the appropriate request at support@appblock.app.
+You may refuse the processing of your personal data for the purpose of sending commercial communications at any time and this will not affect our other mutual relationships. All you have to do is to refuse sending other messages by clicking on the link located in the footer of the sent commercial communication or you can send us an e-mail with the appropriate request at support@appblock.app.
+6. Processing of personal data on the basis of consent
+If you give us consent to the processing of personal data for the purpose of sending personalized marketing communications (in these cases, profiling may also occur) or for the purpose of addressing offers of services and products of the Operator via e-mail or push notifications, you acknowledge that granting of this consent is voluntary and that consent may be withdrawn at any time via a link provided in the message with the commercial communication. Consent is provided until revoked. Failure to give consent does not affect the provision of the Service.
+7. Recipients of data
+We disclose your personal data only to authorized employees or to individual processors of personal data contracted by the Operator, or to other controllers. However, we always disclose your data only to the extent necessary to fulfil the individual purposes of the processing, and on the basis of an appropriate legal title for the processing of personal data. The categories of recipients of personal data are as follows:
+Public authorities;
+Web service providers and IT solutions;
+We will be glad to provide you with a list of recipients of personal data by e-mail upon request at: support@appblock.app
+Personal data may also be transferred to entities established in countries that do not provide an adequate level of protection within the meaning of the Regulation. In such cases, the Operator concludes with the recipients’ standard contractual clauses approved by the European Commission to ensure an adequate level of personal data protection.
+Under certain conditions, we are entitled, or even obliged, to transfer certain personal data on the basis of applicable and effective legislation, for example to law enforcement authorities or other public authorities.
+8. Personal data of third parties
+Personal data of third parties, which means personal data of employees of customers or other business partners of the Operator and other natural persons participating in cooperation with the Operator, or other data received by the Operator from the business partner in connection with the conclusion or performance of a contract will be processed in accordance with applicable and effective data protection laws. The Operator will use this personal data to perform contracts with business partners. The business partner hereby acknowledges that the Operator will process personal data of third parties for the duration of the contractual relationship and for the period stipulated by special legal regulations if there are any. Personal data of third parties will then be kept for a longer period of time if there is a need to keep such data on the basis of a particular case. The Business Partner is obliged to duly inform its employees, customers and other natural persons involved in the business partner's cooperation on the processing of personal data by the Operator.
+9. Personal data retention period
+Purpose of the processing
+Retention period
+Performance of a contract with the User
+For the duration of registration of the User in the Service
+Fulfilment of legal obligations
+For the period prescribed by applicable legal regulation
+Protection of the controller's legitimate interest
+Up to a maximum of 3 years from the start of processing of personal data, unless otherwise provided for by specific legal regulation, and unless there is no justified need to keep data for a longer period in a particular case
+Distributing commercial communications and offering of services and goods
+For as long as consent is granted or, as applicable, until the withdrawal of the consent to the processing
+Dealing with requests of the Users
+For the duration of registration of the User in the Service
+10. Security and confidential nature of personal data
+Personal data will be secured in such a way and using such technical and organizational means that a complete protection of personal data is provided in accordance with the Regulation and the applicable regulations governing personal data protection.
+In view of the technologies, in particular, those that are generally used in the telecommunication networks, the Operator is unable to guarantee the confidentiality of emails you send to or receive from the Operator or verify whether they are genuine.
+Personal data are processed electronically by automated means or in printed form manually by authorized employees of the Operator and the employees of authorized processors.
+Personal data are stored on secured servers in appropriate IT systems. The Operator adopted adequate technical and organizational measures to prevent any loss or destruction of personal data, any access to the data by unauthorised persons, any changes or disclosure thereof.
+Your Profile may be accessed only with a personal password. It is necessary to refrain from disclosing your login data to third parties. The Operator does not assume any liability for the misuse of the passwords used.
+11. Installed apps inventory access
+The Service requires access to the user's inventory of installed apps in order to provide its basic functionality, such as blocking setup and usage statistics. This data is used solely in order to provide the required functionality to the user, as per the user’s configuration. No app inventory data is stored or used in any other way.
+12. Location Data Access
+The Service offers optional functionality which requires the use of device location data, including the precise GPS location of the device gathered through its location services as well as geofencing, as provided by the Android Geofencing API. This location data is used solely in order to provide the required functionality to the user, as per the user’s configuration. No location data is stored or used in any other way.
+13. Log Data
+We want to inform you that whenever you use our Service, we may collect data and information, called Log Data, (through third party products) on your device in case of an error occurring in the app. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. This data is used solely for the purpose of improving the Service and providing reliability, does not hold any information about the user and cannot be used to identify the user.
+14. Service Providers
+We may employ third-party companies (see the complete list under Information Collection and Use) due to the following reasons:
+To facilitate our Service;
+To provide the Service on our behalf; To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+We want to inform users of this Service that these third parties have access to your anonymous information as per their specifications and policies. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+15. Rights of the data subjects
+In connection with personal data processing, you have the rights specified below, under the conditions of articles 15 to 21 of the Regulation, that you may exercise at any time:
+They include the right: (i) to access your personal data, (ii) to have inaccurate or incorrect personal data rectified and to have incomplete personal data completed, (iii) to have personal data deleted if they are no longer necessary for the purpose for which they were collected or otherwise processed or if it transpires that they were processed illegally, (iv) to have the processing of your personal data restricted, (v) to data portability, and (vi) the right to raise an objection following which the processing of your personal data will be discontinued, unless it is proven that there are serious legitimate reasons for such processing that prevail over your interests or rights and freedoms, in particular, if the reason is a possible enforcement of legal claims; and (vii) to turn to the Office of Personal Data Protection (
+www.uoou.cz
+), where you can file your complaint. If you give your consent to the processing of your personal data, you have the right to withdraw the consent at any time.
+Right to access your personal data:
+if you are interested in whether the Operator processes your personal data, you are entitled to obtain information regarding whether your personal data are being processed and if so, you are entitled to gain access to your personal data;
+Right to have inaccurate personal data rectified and to have incomplete personal data completed:
+if you think that the Operator processes any inaccurate or incomplete personal data of yours, you are entitled to demand that they are rectified and completed. The Operator will correct or complete such data without undue delay, taking into account the technical possibilities.
+Right to erasure:
+if you request an erasure, the Operator will delete your personal data, provided that: (i) they are no longer necessary for the purpose for which they were collected or otherwise processed; (ii) the processing is illegal, (iii) you raise objections against the processing and there are no prevailing legitimate reasons for the processing of your personal data or (iv) the Operator has a statutory obligation to delete your data. The Operator will not comply with your request if any of the circumstances specified in Article 17 clause 3 of the Regulation prevent it;
+Right to have the processing of your personal data restricted:
+if you apply to have the processing of your personal data restricted, the Operator will make your personal data inaccessible, delete them temporarily or store or process your data in another way, as necessary for the exercise of such a right;
+Right to data portability:
+if you want the Operator to submit your personal data processed by the Operator based on your consent or data that are necessary for the performance of a contract to a third party, you can exercise your right to data portability. Should the rights and freedoms of third parties be prejudiced by the exercise of your right, the Operator will be unable to comply with your request;
+Right to object:
+you have the right to object to the processing of your personal data that are being processed for the purpose of acting in the public interest or in exercising public authority or for the purpose of the protection of legitimate interests of the Operator. If the Operator fails to prove that there is a serious legitimate reason for the processing that prevails over the interests or rights or freedoms, of the client, the Operator will discontinue the processing without undue delay.
+If there are repeated or clearly unfounded requests to exercise the rights above, the Operator will be entitled to charge an adequate fee for the implementation thereof or decline to do so. We will inform you about such a procedure in advance.
+If you wish to exercise your rights, you can do so:
+by a letter addressed to the registered office of the company at Českoskalická 650, 549 41 Červený Kostelec, Czech Republic;
+by e-mail to: support@appblock.app.
+The Operator reserves the right to verify the identity of the applicant in connection with the rights exercised in a reasonable manner in compliance with Article 12 (6) of the Regulation.
+If you have any questions, you can contact the Operator using the contact information above.
+This Privacy Policy was updated on 12.8.2022.
+AppBlock
+About
+Blog
+AppBlock for Chrome
+Support
+Help
+App privacy policy
+Press
+Conditions of use
+Get the app
+© AppBlock - App developed by
+MobileSoft

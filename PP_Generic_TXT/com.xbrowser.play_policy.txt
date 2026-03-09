@@ -1,0 +1,121 @@
+User Privacy Policy | XBrowser
+XBrowser
+Help
+Blog
+Feedback
+About
+Ã—
+English
+English
+ç®€ä½“ä¸­æ–‡
+User Privacy Policy
+This product XBrowser belongs to Beijing XINWANG Technology Co Ltd. Please read this Privacy Policy carefully before using this product. This Privacy Policy sets out what information XBrowser collects from users and which related networking services it uses. It also informs the user how the author ensures the security of the userâ€™s information and that the information will not be disclosed.
+What information do we collect?
+We collect information to improve our application and provide better services to all of our users - including:
+the number of times users launch the app each day, and the length of time they use the app.
+the menu option you click, the default settings option you choose, other ui element click event.
+Some basic information of the app, such as version , phone model, OS version, country code, etc.
+We do not collect your personal identifiable information when you using our product, such as name, phone number,physical address , IMEI code.
+Stop collecting user experience data
+User experience data is completely anonymous and is used to help authors understand how users use the product in order to improve the user experience. Even so, you can force XBrowser to stop collecting UX data.
+Turn on the option â€œDo not collect user experience dataâ€, you can find it in â€œBrowser Settings>>Security and Privacyâ€.
+What app permissions are requested by XBrowser and what they are used for
+Check the state of your network connection
+Detects whether the userâ€™s network is available and whether it is wifi or mobile data traffic, and gives the user alerts when they are downloading files.
+Read and write to the phoneâ€™s external storage
+Downloading files and caching resource data all require reading and writing to external phone storage. However, it is limited to the browserâ€™s private directory and public download and media directories.
+get phone location information
+Some specific web applications require user location information, such as maps, weather forecasts, etc. The browser itself does not obtain and store the userâ€™s location information.
+What network services are accessed when the application is launched
+Official backend configuration system to support user accounts, data synchronization, and downloading of necessary resource files.
+Update some blocking rules from third-party URLs
+Flurry
+App Analytics service
+How we protect user privacy
+Very few user permissions are required and access is requested only when used.
+Synchronized data is transmitted via a private encryption algorithm and is not easily intercepted by intermediate networks.
+Registering for an account only requires an email, no sensitive information such as cell phone numbers social accounts are required. Cell phone password is used for password revert.
+User accounts are stored encrypted so that even authors cannot access user passwords.
+We promise never to disclose user data to third party individuals or companies.
+Others
+Users visiting any other website through the browser will leave some of your cookies related information, such as your usage history account information of other websites, etc.  Browser will not read and collect this information, each website has its own user privacy policy, and these have nothing to do with XBrowser itself.
+Privacy Policy Adjustment
+If there are any future changes to this Privacy Policy, we will update it here so that you are aware of the most current content.
+This statement is effective as of the date of the update, last updated on June 17, 2022
+Contact
+For any questions or queries regarding the User Privacy Agreement, you can contact me by email and we will respond as soon as possible.
+mail:
+byteman.su@gmail.com
+See
+End user license agreement
+Last updated:2023-02-18
+Previous
+Next
+Outline
+What information do we collect?
+Stop collecting user experience data
+What app permissions are requested by XBrowser and what they are used for
+Check the state of your network connection
+Read and write to the phoneâ€™s external storage
+get phone location information
+What network services are accessed when the application is launched
+How we protect user privacy
+Others
+Privacy Policy Adjustment
+Contact
+Back to the top
+FAQ
+General
+User Data
+Exceptions
+Ad Blocking
+Overview
+URL Blocking rule
+Hidden element rule
+Exception rule
+User Script
+Overview
+Normal User Script
+Tampermonkey User Scripts
+User Script API Reference
+User Script Example
+User Agreement
+User Privacy Agreement
+EULA
+Others
+Extensions
+Changelogs
+© 2023   XBrowser
+Powser by
+Hexo
+Documentation licensed under
+CC BY 4.0
+.
+Help
+Blog
+Feedback
+About
+FAQ
+General
+User Data
+Exceptions
+Ad Blocking
+Overview
+URL Blocking rule
+Hidden element rule
+Exception rule
+User Script
+Overview
+Normal User Script
+Tampermonkey User Scripts
+User Script API Reference
+User Script Example
+User Agreement
+User Privacy Agreement
+EULA
+Others
+Extensions
+Changelogs
+English
+English
+ç®€ä½“ä¸­æ–‡

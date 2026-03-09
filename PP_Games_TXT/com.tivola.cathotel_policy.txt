@@ -1,0 +1,192 @@
+Home
+Our games
+About us
+Company
+Contact
+de
+en
+de
+en
+Home
+Our games
+About us
+Company
+Contact
+Privacy
+Date: 09.04.2019
+I. Who we are
+Further information
+1. Data Controller
+Tivola Games GmbH is the data controller within the meaning of the GDPR (General Data Protection Regulation). Our contact details are
+Tivola Games GmbH
+Oeverseestraße 10-12
+22769 Hamburg
+Germany
+E-mail:
+mail@tivola.de
+.
+2. Data Protection Officer
+Our data protection officer is:
+Dr. Christian Rauda
+GRAEF Rechtsanwälte Digital PartG mbB
+Jungfrauenthal 8
+20149 Hamburg
+www.graef.eu
+E-Mail:
+Datenschutzbeauftragter@tivola.de
+II. Types of personal data we collect
+Further information
+1. When the app is purchased
+We offer mobile games that can be used via an app ("App"). The apps can be obtained from the respective stores, such as App Store, Google Play Store, Amazon, etc. ("Stores"). When the app is purchased and used, data is transferred to the respective Stores.
+Further information
+:
+We have no influence on the data collected by the Stores and are not responsible for it. You will find all relevant information in the privacy policies of the respective Stores. We process the personal data provided to us by the Stores to the extent necessary for downloading and using the app on your device.
+Our app was developed using the Unity Technologies game engine. Unity Technologies collects and processes personal data for the use of the engine.
+Further information
+In Particular, Unity Technologies, 303rd Street, San Francisco, CA 94103, USA, collects and processes the following data: Unique device identifiers (e.g. IDFV for iOS devices and Android ID for Android devices); IP address; country of installation; information about the manufacturer of the device and the operating system used; information about hardware; unique advertising identifiers for iOS and Android devices (e.g. IDFA or Android Ad ID); etc. This data is sent to Unity. We have no control over and are not responsible for this data collection. Further information can be found in the Unity Technologies Privacy Policy.
+2. Permissions when using the App
+We will require permissions when you use the App. A list of permissions can be found
+here
+:
+Permissions Android
+Purpose
+Network connection display
+Obtains information about the existence of and the connection to networks.
+Full access to the network / Access wifi State
+Use an existing internet connection to transfer data. All apps, which connect to a server via the internet without user intervention need this authorization. It is also necessary to display advertisements.
+Is there a wifi connection? In case there is one, to which network
+Autostart
+App can start itself directly after the boot process (switching on the device).
+Control vibration alarm
+Triggers the vibration alarm. Access to battery functions.
+Google Play Billing Service (In-App purchases)
+Allows you to access the payment function of the Google Play Store within the app.
+Write External Storage
+App may write, change or delete on (external) SD Card.
+Read External Storage
+App may read on (external) SD Card
+Permissions IOS
+Purpose
+Photo Library Usage
+The app allows you to take screenshots inside the game, which are then stored in the Photo Library.
+With your consent, we can send push notifications to your device to provide game updates and other relevant messages. You can disable these notifications at any time by disabling the notifications on the Options or Settings page in the application.
+3. When using the app
+As soon as the app has been downloaded to your smartphone, it can always be used without access to the Internet. If in-app purchases are offered and used by you, further communication with the app store and thus access to the Internet is necessary. We do not process payments for in-app purchases nor do we have access to your credit card information. Payment transactions for in-app purchases are processed exclusively through the relevant store.
+III. Tracking and Analytics
+Further information
+For our app, we use analytics services that enable statistical usage measurements and the creation of user categories. This helps us better understand how you use our app and how we can improve it. The analytics services we use are used to collect data on your device using cookies, pixels and similar tracking technologies to evaluate your user behavior.
+Further information
+1. Legal basis
+The processing is lawful as it is necessary for the purposes of legitimate interest accordance to Art. 6 para. 1 letter f) GDPR. Our justified interest results from the economic usability of the findings resulting from the statistics and user categories and the market value of our apps, which can be determined on the basis of the statistics. We do not combine this information with other personal data. We do not know your identity and do not take any steps to determine it.
+2. Purpose of analytics
+The aim of analytics is to statistically determine the intensity of use, the number of uses and users of our app and their surf behaviour. The statistics help us to track and improve the use of our services and to create user categories. The user categories form the basis for interest-oriented advertising media or advertising measures.
+3. Opt-out option
+Since tracking and analytics is done by third parties, we have no influence on the type of tracking. However, you can prevent tracking and analytics by taking advantage of the opt-out options offered by the respective third-party provider.
+Further information
+Anaytics services used:
+Anaytics Service
+Unity Analytics
+Provider
+Unity Technologies, 30 3rd St., San Francisco, CA 94103
+Types of Data
+IDFV, Android ID, IP address, country of installation, device type, operating system version, language, screen resolution, graphics card information, App ID, Advertising ID, In-App Events. The IP address is stored in a pseudonymised form.
+Duraction of Storage
+Storage duration is not known to us, but we have been assured that the legal requirements will be met.
+Privacy Statement
+https://unity3d.com/de/legal/privacy-policy
+Opt-Out Option
+Unity Analytics offers users an opt-out to the extent that the information collected can be used for targeting purposes and to assist Unity Ads in providing its services. The opt-out may be perceived there.
+https://unity3d.com/de/legal/privacy-policy
+IV. E-Mail-Support
+Further information
+If you send us support requests by e-mail, we collect and process the data from your request in order to respond to it.
+Further information
+1. Legal basis
+The legal basis for the processing of the data that you transmit to us by e-mail is Art. 6 Para. 1 Letter b) GDPR, if the conclusion of a contract is requested and in other cases Art. 6 Para. 1 Letter f) GDPR. We have a predominant interest in answering support requests in order to support our users and to evaluate these support requests also with regard to future optimization of the apps and support.
+2. Purpose
+The processing of the personal data serves us to process the support request as well as for future optimization of the apps and support. The other personal data processed during the sending process serve to ensure the security of our information technology systems.
+3. Duration of storage
+The data will be deleted as soon as they are no longer required for the purpose of your collection. For the purposes of fraud prevention and support improvement, the data will be stored for six months.
+V. Your rights
+Further information
+1. Right of access
+Further information
+You have the right to request information from us at any time about whether and which personal data we store about you. To do this, you can send us an application by e-mail to the above address.
+If data has been processed, you can request information from us about the following:
+the purposes for which the personal data will be processed;
+the categories of personal data that will be processed;
+the recipients or categories of recipients to whom the personal data relating to you has been or will be disclosed;
+the planned duration of the storage of the personal data relating to you or, if it is not possible to provide specific information in this regard, criteria for determining the duration of the storage;
+the existence of a right to rectify or delete personal data concerning you, a right to limit the processing by the controller or a right to object to such processing;
+the existence of a right of appeal to a supervisory authority;
+all available information on the origin of the data, if the personal data are not collected from the data subject;
+You have the right to request information as to whether the personal data concerned will be transferred to a third country or to an international organisation. In this context, you may request to be informed of the appropriate safeguards pursuant to Art. 46 GDPR in connection with the transfer.
+2. Right to rectification
+Further information
+You have the right to demand that we immediately correct and/or complete any of your incorrect or incompletely processed personal data.
+3. Right to limit the processing
+Further information
+Under certain circumstances we are obliged to restrict the processing of your personal data.
+Further information
+You are entitled to demand a limitation of the processing of your personal data if you dispute the accuracy of the personal data concerning you, for a period of time that allows us to verify the accuracy of the personal data or if the processing is unlawful and you reject the deletion of the personal data and instead request the limitation on the use of the personal data or if we no longer need your personal data for processing purposes but you need it to assert, exercise or defend your own legal claims, or if you object to the processing in accordance with Art. 21 para. 1 GDPR, for as long as is not yet ascertained whether the justifiable grounds of the controller outweigh your grounds. We will inform you in advance should the restriction be revoked.
+4. Right to deletion
+Further information
+Under certain circumstances, we are obliged to delete your personal data once you have requested this.
+Further information
+You are entitled to demand deletion of your personal data if one of the following applies: The
+personal data
+is no longer required for the purposes for which it was collected or processed in some other way. You withdraw your consent that the processing was based on Art. 6 para. 1 a) or Art. 9 para. 2 a) of the
+GDPR
+, and there are currently no valid legal grounds for processing. You submit an objection to the processing of your data pursuant to Art. 21 para. 1 of the
+GDPR
+and there are no overriding justifiable grounds for the processing, or you submit an objection to the processing of your data pursuant to Art. 21 para. 2 of the
+GDPR
+. The
+personal data
+was processed unlawfully. The deletion of the
+personal data
+is required to fulfil a legal obligation in accordance with EU law or the law of individual member states, to which we are a member. Once you have made your request we are obliged to delete the data with immediate effect. The lawfulness of the data processing for the period between the consent and the withdrawal of this consent shall remain unaffected.
+If we have made the personal data concerning you public and if we are obliged to delete them pursuant to Art. 17 para. 1 GDPR, we shall take appropriate measures, also of a technical nature, taking into account the available technology and the implementation costs, to inform those responsible for data processing who process the personal data that you as the data subject have requested the deletion of all links to this personal data or copies or replications of this personal data.
+The right to deletion does not exist if the processing is necessary.
+to exercise the freedom of expression and information;
+to fulfil a legal obligation which makes processing necessary under the law of the European Union or of the Member States to which the controller is subject or to perform a task carried out in the public interest or in the exercise of official authority vested in the controller;
+for reasons of public interest in the field of public health pursuant to Art. 9 para. 2 lit. h and i as well as Art. 9 para. 3 GDPR;
+to assert, exercise or defend legal claims.
+5. Right to information
+Further information
+If you have exercised your right to correction, deletion or limitation of processing, we are obliged to notify all recipients to whom the personal data concerning you have been disclosed of this correction, deletion or limitation of processing, unless this proves impossible or involves a disproportionate effort. You have the right to be informed about these recipients.
+6. Right to object
+Further information
+You have the right at any time to object to the processing of your personal data carried out pursuant to Art. 6 para. 1 lit. f) GDPR; this also applies to profiling based on these provisions.
+Further information
+You have the right, for reasons arising from your particular situation, to object at any time to the processing of your personal data, which is carried out, among other things, on the basis of Art. 6 para. 1 lit. e or f GDPR, pursuant to Art. 21 GDPR. We will cease processing your personal data unless we can prove compelling reasons for processing, worthy of protection which outweigh your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims.
+If your personal data is processed for the purpose of direct advertising, you have the right to object at any time to the processing of the personal for the purpose of such advertising; this also applies to profiling insofar as it is connected with such direct advertising.
+If you object to the processing for purposes of direct marketing, the personal data  will no longer be processed for these purposes.
+You have the possibility to exercise your right of objection through automated procedures using technical specifications in connection with the use of information society services, notwithstanding Directive 2002/58/EC.
+7. Right to withdraw consent
+Further information
+You have the right to revoke your data protection consent at any time. The revocation of your consent does not affect the legality of the processing that took place on the basis of your consent until you revoke your consent.
+8. Right to data portability
+Further information
+You are entitled to demand from us to transfer your data to third parties upon request.
+Further information
+You have the right to receive personal data concerning you in a structured, common and machine-readable format and you have  the right to transfer this data to another controller without our interference. The condition is that a) the processing is based on consent pursuant to Art. 6 para. 1 lit. a) GDPR or Art. 9 para. 2 lit. a) GDPR or on a contract pursuant to Art. 6 para. 1 lit. b) GDPR and b) the processing is carried out using automated procedures. When exercising your right to data transfer, you have the right to demand that we transfer your personal data directly to another controlling body, provided this is technically feasible. Freedoms and rights of other persons must not be affected by this.
+The right to data transfer does not apply to the processing of personal data necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the person responsible.
+9. Automated decision in individual cases including profiling
+Further information
+You have the right not to be subject to any decision based solely on automated processing, including profiling, that has any legal effect on you, or similarly significantly affects you. This does not apply if the decision
+is necessary for the conclusion or performance of a contract between you and us,
+is lawful under the laws of the Union or the Member States to which we are subject and those laws contain reasonable measures to protect your rights and freedoms and your legitimate interests; or
+with your express consent.
+However, these decisions may not be based on special categories of personal data pursuant to Art. 9 para. 1 GDPR, unless Art. 9 para. 2 lit. a or g GDPR apply and appropriate measures have been taken to protect the rights and freedoms as well as your legitimate interests.
+With regard to the cases mentioned in (1) and (3), we shall take appropriate measures to protect the rights and freedoms as well as your legitimate interests, including at least the right to obtain the intervention of a person on the part of the responsible person, to present your own position and to contest the decision.
+10. Right of appeal
+Further information
+You have the right to complain to a regulatory agency.
+(Further information)
+Without prejudice to any other administrative or judicial remedy, you have the right to complain to a supervisory authority, in particular in the Member State of your residence, place of work or place of presumed infringement, if you consider that the processing of your personal data is in breach of the GDPR.
+The responsible data protection authorities are both the data protection authority at the customer's place of residence and the data protection authority responsible for us.
+Datenschutz Unity
+Print
+Top
+en

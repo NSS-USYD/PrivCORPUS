@@ -1,0 +1,17 @@
+Delta Icons: Privacy Policy
+Delta
+Privacy Policy
+Delta doesn't collect any information by default. The app is fully usable without internet connection (except you can't download wallpapers).
+However, when you request an icon, by default some data is gathered when you send the request. You can modify what you send in the email:
+the email address which you send the request with
+the manufacturer, the model, product name, screen resolution, and Android version of your phone
+app version & Candybar version (the app dashboard)
+name and ComponentInfo of the app whose icon you want
+Same for bug reporting, but in addition we gather names and ComponentInfos of all installed apps on your phone for debug purposes.
+This information is solely used for the icon request and remains private. You're also fully controlling what data you send to us via email.
+If you have any questions or suggestions about Privacy Policy, do not hesitate to
+contact us
+.
+Last modified:
+27 June 2023
+Home

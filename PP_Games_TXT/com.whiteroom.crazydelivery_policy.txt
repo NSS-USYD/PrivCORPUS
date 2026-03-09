@@ -1,0 +1,414 @@
+Blank page
+PRIVACY POLICY
+We at Fun to Mass Games FZE are committed to protecting your privacy. We respect your privacy rights and are committed to protecting the personal information that is collected about you. This Privacy Policy describes what information, as defined below, Fun to Mass Games FZE collects and how we use, disclose, transfer, and store it, and the choices you have associated with that information.
+Fun to Mass Games FZE collects and uses your information as data controller in connection with, and in order to provide and develop games, mobile applications – Slingshot Fly (together referred to as the "Services") in accordance with this Privacy Policy. All of our Services, whether used on mobile devices or other platforms, are governed by this Privacy Policy.
+This Privacy Policy is an integral part of the Terms and Conditions ("Terms") posted available on the Internet at c and other agreements made with you. If you do not want Fun to Mass Games FZE to collect, store, use or share your information in the ways described in this Privacy Policy, you should not play our games or use our Services.
+By using the Services, you hereby consent to this Privacy Policy.
+This Privacy Policy is effective as of December 18, 2019 and was last modified on March 17, 2020.
+ABOUT US
+Fun to Mass Games FZE and its subsidiaries and parent companies (collectively, "we", "our," or "us") are a gaming companies that develop, produce and distribute products and services for its players worldwide. We operates games mobile applications – Realistic car crash madness, Crash delivery.
+Our free mobile games are supported by the ads we and others display. We display ads, also known as graphical ads, which appear as images, animation, or video. Fun to Mass Games FZE partner advertising platforms provide the means for advertisers, agencies, publishers, and ad networks to manage their advertising business. Advertising networks may collect and use data they receive about you to help show ads for products or services that you are more likely to be interested in to make the advertising more useful and effective. By installing and launching our Services, you understand and consent to our use of data as defined in our Privacy Policy.
+We collect your information from your device through third parties' SDKs, APIs integrated by us into Services.
+SDK, or a Software Development Kit, is a software component that allows us to serve ads in a mobile app, and to collect information directly from the end users of such app.
+API, or an Application Programming Interface, is an interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software. In other words, API is a software intermediary that allows two apps to talk to each other.
+SCOPE
+This Privacy Policy describes Fun to Mass Games FZE 's privacy practices with respect to information it collects and uses through its Services. This Privacy Policy does not govern the use of our website.
+For the purposes of this Privacy Policy:
+Information shall means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+Data Controller shall mean the natural or legal person which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by European Union or Member State law, the controller or the specific criteria for its nomination may be provided for by European Union or Member State law.
+Third party shall mean a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorized to process personal data;
+Consent means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
+In addition, if you are a resident of California, please see section below "PRIVACY POLICY FOR CALIFORNIA RESIDENTS" for information related to the California Consumer Privacy Act (the "CCPA"). For purposes of the CCPA, this Privacy Policy serves as both the Privacy Policy and Notice at Collection of Personal Information.
+INFORMATION WE COLLECT
+When you use our Services, the following information is collected through our app by the below third party providers:
+Monetization and advertising platform IronSource
+Information collected from you through ironSource Mobile Ltd. SDK implemented in our Services:
+Identifiers: Your Advertising ID, an additional unique identifier of available solely from within the Services app which cannot be used to identify you on other apps, IP address, information about your browser settings. The term Advertising ID refers to the Google Advertising ID on Android devices, and ID For Advertising ("IDFA") or ID For Vendor ("IDFV") on iOS devices. The Advertising ID is a resettable persistent identifier generated by Android or iOS that allows online advertising companies to recognize your device across non-affiliated apps, for purposes such as frequency capping, attribution, fraud detection, personalized advertising, and whitelisting.
+General technical information about your device: The ironSource Mobile SDK version, your time zone, the amount of free memory on your device, the name and version of the app to which the ad is served, battery status (on Android devices only), limit ad tracking status, operating system name and version, timestamp, the name of the manufacturer of the device, the language of the operating system, the name of the mobile carrier, internet connection type (e.g. WiFi).
+Interaction with our ads: An indication if you viewed or clicked on an ad. Information received through SDK that are integrated with ironSource Mobile Ltd. mediation platform ("Mediation Information") – your age, gender, in-app purchases, advance in the game, and such other information provided by the app developer.
+Information received from advertisers (through the advertiser itself or through a third party in behalf of such advertiser) ("Advertiser Information").
+Identifiers: Your advertising ID, IP address, a unique identifier of your device available solely with respect to the advertiser, information about your browser settings.
+Campaign information: an indication that you installed the advertiser's app following a click on or a view of an ad served by us or otherwise; information about actions you performed within an advertiser's app following such an install, such as in-app purchases, level in the game, and the number of times you opened the app; and other information that the advertiser decides to share with us.
+For more information on ironSource Mobile Ltd. and their Privacy Policy, please see
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+dpo@ironsrc.com
+121 Menachem Begin Rd., Tel Aviv, Israel
+Game analytics service providers
+Information collected from you through GameAnalytics SDK implemented in our Services:
+Unique device identifier generated from the device including but not limited to: 1) ID for Advertisers (iOS); 2) Google Advertising ID (Google); platform (automatic); device (automatic); OS major (automatic); OS minor (automatic); IP address (automatic) – used to infer country information; Install timestamp: it is the timestamp of the first event received from the app integrated with GameAnalytics, for that user; Boot-up timestamp: it is the timestamp of when a user boots up a game
+Additional user Data can be collected by GameAnalytics, depending on our implementation of the tracking code in Services. The general data types that can be collected are: business events such as transactions made in the Services; progression events that are used to mark a Player's progress or movement in the Services; resource events such as the acquisition or spend of Services virtual currencies by the Player; design events used to track Player behavior in the Services, which can refer to any aspect of the Services' design, including, but not limited to, level or character design, bonuses, social interactions, etc.; error events such as any errors encountered by the Player while using the Services; custom fields that can contain any game parameter defined by you.
+For more information on GameAnalytics and their Privacy Policy, please see
+https://gameanalytics.com/privacy
+privacy@gameanalytics.com
+Information collected from you through Tenjin's services implemented in our Services:
+This information may include Vendor ID (if available), IP address, Apple Search attribution (if enabled), Bundle ID, SDK Version, App Version, OS Version, Device Type, Device Model, Device Locale, Device Country, OS Platform, Limit Ad Tracking setting, and Advertising ID. Advertising IDs are user-specific, unique character strings that can be reset by the user and are used to track an End User's device for advertising purposes. Examples include Google Ad ID and IDFA.
+For more information on Unity Mobile Games Development Platform and their Privacy Policy, please see
+https://www.tenjin.io/privacy
+privacy@tenjin.io
+Mobile game development platform Unity
+Information collected from you through Unity Mobile Games Development Platform implemented in our Services:
+Device Information: including various unique identifiers, such as IDFA, Android Ad ID, IDFV, MAC address; and
+Location information: IP address when users access the Service. IP addresses can be used to learn about the general location (e.g. city, state and country) of the user's point of access to the web.
+Game play activity and actions: When you play a game that uses Unity Analytics, certain game activities such as play session information and monetization events are collected.
+We may use Unity Analytics to collect User information such as name, email address, birthdate, gender, app ID or other Developer-defined data parameters.
+User device information: When you use our Services, Unity may collect some or all of the following information when you use the game:
+Unique device identifier generated from the device MAC/IMEI/MEID, which we alter to limit the ability to identify the relevant device in the future;
+An advertising ID, such as the Apple IDFA or the Android Ad ID;
+IP address;
+Device manufacturer and model;
+The operating system and version running on your system or device;
+Browser type;
+Language;
+The make of the CPU, and number of CPUs present;
+The graphics card information, such as type, vendor and driver name, version and graphics API;
+Amount of system and video RAM present;
+Current screen resolution;
+Unity Player and Unity Editor versions;
+Operating system identifier (e.g., Mac, Windows, etc.);
+A checksum of all the data that gets sent to verify that it did transmit correctly; and
+App ID of the game installed.
+For more information on Unity Mobile Games Development Platform and their Privacy Policy, please see
+https://unity3d.com/legal/privacy-policy
+DPO@unity3d.com
+Unity Technologies, 30 3rd Street, San Francisco, CA 94103 (United States contact)
+Unity Technologies Finland OY, Kaivokatu 8 B, 00100 Helsinki, Finland (EEA contact)
+Mobile game development platform Firebase by Google
+Information collected from you through Firebase Mobile Games Development Platform implemented in our Services:
+Device Information: including various unique identifiers, such as IDFA, Android Ad ID, Secure Android ID, IDFV, MAC address; and
+User device information: When you use our Services, Firebase may collect some or all of the following information when you use the game:
+IP address;
+Browser type;
+Firebase Instance ID - unique identifier for each app instance and a mechanism to authenticate and authorize actions;
+User device specifications (iOS);
+User agents;
+Crash traces;
+Analytics App Instance IDs.
+For more information on Firebase Mobile Games Development Platform and their Privacy Policy, please see
+https://firebase.google.com/support/privacy
+Advertising and Monetization Services Platforms
+We use software development kits ("SDKs"), APIs, services, and third-party libraries of the following Advertising and Monetization Services Platforms:
+Adcolony
+AdColony Privacy Office
+1888 Century Park East, Suite 1450, Century City, CA 90067
+Phone: 650-418-6287
+privacy@adcolony.com
+https://www.adcolony.com/privacy-policy/
+Applovin
+Data Protection Officer
+AppLovin Corporation
+849 High St.
+Palo Alto, CA 94301
+dataprotection@applovin.com
+.
+https://www.applovin.com/privacy/
+Chartboost
+Chartboost, Inc.
+privacy@chartboost.com
+https://answers.chartboost.com/en-us/articles/200780269
+Facebook
+Facebook, Inc.
+ATTN: Privacy Operations
+1601 Willow Road
+Menlo Park, CA 94025
+https://www.facebook.com/help/contact/861937627253138
+https://www.facebook.com/policy.php
+Google
+Google, Inc.
+1600 Amphitheatre Parkway,
+Mountain View, CA 94043,
+United States
+https://policies.google.com/privacy
+Hyprmx
+Jun Group Productions, LLC
+HyprMX Mobile LLC
+Attn: Privacy Affairs
+28 W 44th Street
+14th Floor
+New York, NY 10036
+privacy@jungroup.com
+privacy@hyprmx.com
+https://www.hyprmx.com/pp
+Inmobi
+privacy@inmobi.com
+https://www.inmobi.com/privacy-policy/
+Mintegral
+Data protection representative Eurocore B.V.
+in the EEA:
+Hullenbergweg 278, 1101BV Amsterdam
+privacy@mintegral.com
+Mintegral International Limited
+RM701A, 7/F.,
+OfficePlus @Prince Edward,
+794-802 Nathan Road, KL,
+Hong Kong 999077
+https://www.mintegral.com/en/privacy/
+Tapjoy
+Tapjoy Limited, International Buildings,
+5th floor, 71 Kingsway, London
+WC2B 6ST, UK
+privacy@tapjoy.com
+https://www.tapjoy.com/legal/tapjoy-users/#privacy-policy
+Pangle
+ByteDance Pte. Ltd.
+Pangle_support@bytedance.com
+https://ad.oceanengine.com/union/media/privacy
+Vungle
+Vungle, Inc.
+Vungle Limited
+Attn: Data Protection Officer
+4th Floor, Farringdon Point,
+33 Farringdon Road,
+London, England, EC1M 3JF
+privacy@vungle.com
+https://vungle.com/privacy/
+outside EEA
+Attn: Legal
+1255 Battery Street, Suite 500,
+San Francisco, CA, 94111, United States
+Such software development kits ("SDKs"), APIs, services, and third-party libraries of the above listed Advertising and Monetization Services Platforms collect information about your activities, including information about your device, mobile device identifiers, geolocation data, network information, information about the app and third-party Software Development Kit (SDK), advertisement information, websites you visit, purchases you make, the ads you see, and how you use Services.
+Advertising Partners may in addition receive your data when you visit or use their services or through third parties they work with.
+We also work with a number of other analytics and ad-serving partners within our mobile apps. These partners can use cookies, web beacons, and other tracking technologies to collect or receive data about you and might claim controller rights over your personal data. For more information about their privacy practices and opt-out possibilities, please visit the links below.
+Google
+Privacy Policy:
+https://policies.google.com/privacy
+Facebook
+Privacy Policy:
+https://www.facebook.com/about/privacy
+Unity Technologies
+Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+Payment processors
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+Apple Store In-App Payments
+Privacy Policy
+https://www.apple.com/legal/privacy/en-ww/
+Google Play In-App Payments
+Privacy Policy
+https://www.google.com/policies/privacy/
+HOW WE USE THE INFORMATION WE COLLECT
+We primarily use the information to provide you with a better gaming experience in order to perform the contract with you according to Article 6(1)(b) of the GDPR both individually and combined, as follows:
+To operate our business and to enhance your gaming experience, including to:
+provide you with the Services that are suitable to your age and compliant with the applicable laws of your country of residence;
+provide gaming experiences that you may like and functionalities you have subscribed to;
+to improve monetization of Services;
+track your use of the Services to help us learn more about your gaming activities and understand your preferences and tendencies, so that we can personalize your experience, provide you with in-game offers and notifications that are tailored to you, and otherwise enhance your gaming experience;
+verify and confirm payments;
+facilitate sharing on social networks;
+register your participation in a contest and contact you in case of prizes;
+offer you the opportunity to take part in playtesting (game tests);
+protect against cheating, crime or fraud, or for other security reasons ;
+identify and fix bugs and service errors;
+improve and develop our applications;
+use it for administration, analytics, research, and optimization;
+compile statistics;
+comply with all regulatory and legal requirements, and answer any requests from Data Protection Authorities or any law-enforcement agency.
+To provide you with support, communicate with you and respond to any requests or questions you have submitted through our customer support.
+To personalize our communication with you, including to:
+provide you with advertising that better suits your interests and profile and is age-/gender-appropriate and targeted to your general location;
+serve and measure the effectiveness of advertising;
+personalize your content and offers.
+Our processing for the above purposes is justified by our legitimate interests in providing advertisements and content of interest to you in accordance with Article 6(1)(f) of the GDPR. The disclosure of your advertising ID to third parties for the purposes of behavioral advertising is based on your consent in accordance with Article 6(1)(a) of the GDPR (see more below under HOW WE SHARE YOUR INFORMATION).
+For some purposes described above, we may use and perform analytics. Analytics information supports business analysis and operations, allows product development, improves products and Services, personalizes content, provides advertising, and makes recommendations. Analytic companies provide us with tools and technologies that allow us to better understand how users interact with our services and will help us improve it.
+When we process advertisers' information, we may further process advertisers' information and ad networks information for optimization of our Services based on our legitimate interest.
+We may process your ad network information, your mediation information, and your advertiser information for compliance with applicable legal obligations (legal necessity).
+We will normally collect personal information from you only:
+when we have your consent to do so,
+when we need the personal information to fulfill a contract with you and provide you with the Services, such as customer services, bug and service-error detection, and fraud prevention,
+when the processing is in our legitimate interests (when we serve and measure the effectiveness of advertising or marketing campaigns, analyze your gaming activities, protect and improve our products and services) and not overridden by your rights, or
+when we have a legal obligation to collect personal information from you.
+INFORMATION RETENTION PERIOD
+Information collected through SDKs, public libraries, APIs, and services of our monetization, mobile game development platforms, analytics and ad serving third party partners is retained by them according to their policies (see INFORMATION WE COLLECT) for the purposes specified in HOW WE USE THE INFORMATION WE COLLECT.
+We may collect personal information where we have an ongoing legitimate business need to do so (for example, to comply with applicable legal, tax or accounting requirements, to enforce our agreements or comply with our legal obligations). When we have no ongoing legitimate business need to process your personal information, or when you exercise opt-out right, we will either delete or anonymize such data or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+Please contact us at nekrasov@funtomass.com if you have any questions about the information we collect and/or how we use the information we collect.
+HOW WE SHARE YOUR INFORMATION
+We do not sell your personal information in direct exchange for money. However, we may share your information with third parties with whom we have a strategic relationship, such as our partners (that provide complementary services such as mediation or monetization services, revenue reporting, attribution services), data providers, game development platforms, analytics platforms, and advertisers. The information shared with these third parties may be used for industry analysis, tracking game conversions or demographic profiling. When permitted by applicable law, we may also provide your information to our affiliates, business partners, advertisers or other trusted entities for the purpose of providing you with information on goods and services we believe will be of interest to you.
+We use third-party services that have limited access to your information for specific purposes in our Service, such as administration, analytics, optimization, advertising, prize delivery, marketing assistance, customer service, payments, and data analysis. They assist us with our Services operations. Such third parties are authorized to use your information for these purposes only.
+If you decide, while using our Services, to use social sharing features such as "Share" or "Like" on Facebook or other third-party social network sites, this may allow the sharing and collection of personal and non-personal information both to and from such third-party social networks. You should visit the policies of such third parties for more information about their information-collection practices (see detailed list with contacts is INFORMATION WE COLLECT.
+We may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
+If we are involved in a merger, acquisition, or sale of all or a portion of its assets, any third party to which we sell or transfer our assets to will have the right to continue to use the personal and other information that you provide us in the manner set out in this Privacy Policy.
+HOW TO CONTROL YOUR INFORMATION
+Personalized Ads: We collect and transfer Information to other entities (third parties - Advertising and Monetization Services Platforms) that use the information described in this Privacy Policy for serving you with personalized ads (i.e. ads that are based on your interests or profile).
+Opt out from personalized ads: If you do not want us to transfer your information to corporate affiliates and third parties for personalized ads, please follow the below instructions:
+iOS devices: go to Settings > Privacy > Advertising > enable Limit Ad Tracking (
+https://support.apple.com/en-us/HT202074
+). Please note that if you use more than one device, you need to opt-out separately in each device.
+Android devices: Please follow the instructions set forth at:
+https://support.google.com/ads/answer/2662922?hl=en
+. Please note that if you use more than one device, you need to opt-out separately in each device.
+This procedure also applies for opt-out from personalized ads from ChartBoost, HyprMX, Mintegral, Pangle, Vungle.
+Opt-out from Facebook 's interest-based ads: To opt-out from Facebook's interest-based ads, follow these instructions from Facebook:
+https://www.facebook.com/help/568137493302217
+. You can also opt-out using your mobile device settings.
+Opt-out from Google AdSense & DoubleClick Cookie: You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page:
+http://www.google.com/ads/preferences/
+Opt-out from AdMob by Google: You can opt-out from the AdMob by Google personalized ads service by following the instructions described by Google:
+https://support.google.com/ads/answer/2662922?hl=en
+Opt-out from AdColony: AdColony provides this granular control through special integration with the AdChoices icon in their ads. In order to properly opt-out of AdColony ads, first, on Apple (iOS) please TURN OFF "Limit ad tracking" or on Google (Android) TURN ON "Ads Personalization". Then, when you see the AdChoices icon on one of AdColonies' ads, tap on the AdChoices icon, and you will be directed to this page. For your convenience, the form to opt out of interest-based advertising will be prefilled with your advertising ID and IP address. Finally, click submit to revoke the consent we have claimed to store and process your data by legitimate interest.
+Opt-out from AppLovin: To limit information collected by AppLovin, please follow their instructions at
+https://dash.applovin.com/p/how-applovin-shows-you-ads
+Opt-out from InMobi by InMobi Pte Ltd: You can opt-out from InMobi personalization ads service by following the instructions as described on the InMobi Opt-out page:
+http://www.inmobi.com/page/opt-out/
+Opt-out from TapJoy: To opt-out from TapJoy's behavioral advertising, request to delete your data, and request to access your personal information, please follow their instructions at:
+https://www.tapjoy.com/dataprivacyrequests/
+Opt-Out From Our Partner's Interest-Based Advertising: Many of our partners that enable targeted advertising are members of one or more digital advertising industry self-regulatory programs. You may click below for the Network Advertising Initiative ("NAI"), Digital Advertising Alliance ("DAA") and European Digital Advertising Alliance ("eDAA") opt-out tools to learn more about targeted or interest-based advertising and to opt out of certain targeting programs.
+http://www.networkadvertising.org/choices
+http://www.aboutads.info/choices
+http://youronlinechoices.com
+Scope of the opt-out: Note that if you reset your advertising ID through your device's platform settings, you should follow the steps above to reset your opt-out choice. In addition, opting out may not stop data from being collected from your device or transferred for other, non-personalized advertising purposes such as optimization, reporting, frequency capping, internal operations, and fraud prevention. If you become aware of any third party that received your Information from us, and that does not respect your choices, please let us know by contacting us at: director@fun-to-mass.com .
+Reviewing, Correcting and Removing Your Personal Information
+You have the following data protection rights:
+You can request access, correction, updates or deletion of your personal information.
+You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+You have the right to complain to a data protection authority about our collection and use of your personal information. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available here -
+http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm
+)
+To exercise any of these rights, please contact us. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
+If you would like to access or control your data shared with one of our third party partners, please contact the third party partner as specified in Information We Collect above. We will work with our third party partners to fulfill these requests when applicable.
+To submit a request for exercising your rights, please send an email with your request to the following address: nekrasov@funtomass.com . Please note that we will process your request subject to verification of your identity.
+CHILDREN
+Services are not intended for or targeted at children under the age of 13, or under the age of 16 for those parties in the European Economic Area, and we do not knowingly or intentionally collect personal information or solicit directly or indirectly information about children under the age of 13, or under the age of 16 for those parties in the European Economic Area.
+If you are under 13, please do not send any data about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal data.
+If you believe that we have collected personal information children under the age of 13, or under the age of 16 for those parties in the European Economic Area, please contact us at nekrasov@funtomass.com, so that we may delete the information.
+Some third parties, such as platform providers like the iTunes Store or Google Play, may provide age-based ratings on some of the apps created by Developers. These ratings shall have no bearing on this limitation. Third parties may also provide content categories on some of the Services. These categories shall have no bearing on this limitation.
+INTERNATIONAL TRANSFERS
+We may share your information with clients, customers, partners, affiliates and other third parties described above who are based in countries outside of your country of residence (for example, if you are an EEA resident, we may share your information with our non-EEA clients or affiliates), subject to any contractual or legal requirements.
+While some countries may not have data protection laws that are equivalent to those of the country in which you reside, we will take reasonable measures to protect your information in accordance with this Privacy Policy.
+Where applicable, we will protect information through other legally valid methods, including international data transfer agreements. You agree that all information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live. We have taken appropriate safeguards to require that your personal information will remain protected and require our third-party service providers and partners to have appropriate safeguards as well. Further details can be provided upon request.
+PRIVACY POLICY FOR CALIFORNIA RESIDENTS
+This Privacy Policy for California Residents supplements the information contained in Fun to Mass Games FZE Privacy Policy and applies to all users of Services as defined in Privacy Policy who reside in the State of California ("consumers", "users", or "you"). We adopt this policy to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this policy.
+This Privacy Policy describes how we collect, use, and share California consumers' Personal Information in our role as a business, and the rights applicable to such residents. If you are unable to access this Privacy Policy due to a disability or any physical or mental impairment, please contact us and we will arrange to supply you with the information you need in an alternative format that you can access.
+For purposes of this Privacy Policy "Personal Information" has the meaning given in the California Consumer Privacy Act ("CCPA"), e.g. information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California consumer/resident or household. Personal information does not include publicly available information or information that has been de-identified.
+For purposes of this Privacy Policy "Services" means Fun to Mass Games FZE game mobile applications – Realistic Car Crash Madness, Crash Delivery.
+How We Collect your Personal Information
+We have collected the following statutory categories of Personal Information in the past twelve (12) months:
+Identifiers, such as name, e-mail address, mailing address, and phone number. We collect this information directly from you or from third party sources;
+Internet or network information, such as browsing and search history. We collect this information directly from your device;
+Geolocation data, such as IP address, and/or other similar locational data, which may be collected from various devices including your mobile or other device. We collect this information from your device;
+Information relating to Internet activity or other electronic network activity, which includes cookie identifiers and other tracking technologies such as pixels, beacons, and Adobe Flash cookies (together, "cookies"); device characteristics including your operating system, browser, wireless service provider, or other Internet enabled application; and information about what ads or other engagements you have viewed and interacted with; cell network data, internet service provider (ISP); referring/exit pages; date/time stamp; clickstream data; device platform; device version; and/or other device characteristics including your choice of settings such as Wi-Fi, Bluetooth, and Global Positioning System ("GPS");
+Financial information, such as Payment Information or financial account numbers in the process of providing you with a subscription. We collect this information from you;
+Inferences about you;
+Information not listed above and related to characteristics protected under California or federal law; which includes age and date of birth; gender; race and ethnicity; nationality; marital status; military service / veteran status; and
+Other personal information not listed above and described in California Civil Code § 1798.80(e), which includes physical characteristics or description.
+Please also consult "INFORMATION WE COLLECT" section of our Privacy Policy to learn more about information we collect.
+We do not sell the personal information of minors under 13 years of age.
+What We Do With Your Information
+We may collect or use personal information about you for the following purposes:
+Analytics and demographic studies;
+Analyze future engagement;
+Communications with you;
+Deliver relevant advertisements and engagements;
+Internal analytics;
+Investigate, protect, enforce, or defend the legal rights, privacy, safety or property of others or us;
+Legal compliance and to respond to requests from public and government authorities;
+Measure, manage, support, and improve our services;
+Verify and confirm payments;
+Mergers or asset sales;
+Protect against fraud and manage risk;
+Systems and data security; and
+Services optimization and maintenance.
+We do not sell the personal information of minors under 13 years of age.
+Please also consult "HOW WE USE THE INFORMATION WE COLLECT" section of our Privacy Policy to learn more about information we collect.
+Sources of Collected Information
+We may collect personal information from the following categories of sources:
+Consumers, including via our websites, mobile applications, your devices, social media, forums, message boards, and our surveys, contests, and sweepstakes, or other means;
+Other third parties, which includes data suppliers, operators of mobile game development platforms and mobile applications, advertising partners, and other data suppliers; and
+Things that other third parties may post publicly about you or otherwise provide to us.
+Who We Share Information With (Recipients of Your Information)
+Although we do not sell personal information for monetary consideration, we do sell personal information, subject to the choices with respect to "sale" of personal information, to the categories of third parties listed below, under the definition of "sale" in the CCPA:
+Advertising/marketing companies;
+Advertising networks;
+Game publishers;
+Banks and payment processors;
+Analytics companies; and
+Mobile games development platform companies.
+Your California Rights
+You have certain rights regarding the Personal Information we collect or maintain about you. Please note these rights are not absolute, and there may be cases when we decline your request as permitted by law.
+If you are a California resident, subject to applicable law, you have the following rights under California law with respect to your personal information:
+Right to Know. You have the right to request what personal information we collect, use, disclose, and/or sell, as applicable.
+Right to Delete. You have the right to request the deletion of your personal information that is collected or maintained by us.
+Right to Opt-Out of Sale. You have the right to opt-out of the sale of your personal information by us. Our Notice of Right to Opt-Out is below.
+Right to Non-Discrimination. You have the right not to receive discriminatory treatment by us for the exercise of the privacy rights described above.
+We endeavor to respond to a verifiable request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. We will deliver our written response by mail.
+Any disclosures we provide will only cover the 12-month period preceding the verifiable request's receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal data that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
+How to Exercise your California Rights
+You can exercise your rights yourself or you can alternatively designate an authorized agent to exercise these rights on your behalf. Please note that to protect your Personal Information, we will verify your identity by a method appropriate to the type of request you are making. We will require you to provide, at a minimum, your name and email address. We will also collect information that identifies your device when you submit a request, in order to help verify your identity. We may also request that your authorized agent have written permission from you to make requests on your behalf, and we may also need to verify your authorized agent's identity to protect your Personal Information.
+Please use the contact details below, if you would like to:
+Access this policy in an alternative format;
+Exercise your rights; and
+Learn more about your rights or our privacy practices.
+Authorized Agent – You may designate an authorized agent to make a CCPA request on your behalf by verifying your identity and providing the agent with written permission to make the request on your behalf.
+Notice of Right to Opt-Out
+You have the right to direct us not to sell your personal information and to refrain from doing so in the future. If you wish to opt-out of such sales, please do so in one of the following ways:
+Complete the form http://fun-to-mass.com/do_not_sell_my_personal_information, providing us with your device's Advertising Identifier according to the instructions provided.
+Email: nekrasov@funtomass.com
+Please consult the other sections of our Privacy Policy for further information on our practices regarding your personal information.
+Personal Information We Collect, Disclose for a Business Purpose, and Sell
+We collect the categories of personal information about California users identified in the chart below. As further set forth in the chart below, in the past 12 months, we have disclosed and sold personal information about California users to third parties for business or commercial purposes.
+Fun to Mass Games FZE has collected and sold the following categories of Personal Information from its consumers within the last twelve (12) months:
+Category
+A. Identifiers.
+B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+C. Protected classification characteristics under California or federal law.
+D. Commercial information.
+E. Biometric information.
+F. Internet or other similar network activity.
+G. Geolocation data.
+H. Sensory data.
+I. Professional or employment-related information.
+J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)). K. Inferences drawn from other personal information.
+K. Inferences drawn from other personal information.
+Examples
+Unique personal identifier, online identifier, Internet Protocol address, or other similar identifiers.
+A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
+Browsing history, search history, information on a consumer's interaction with a website, application, or advertisement.
+Physical location or movements.
+Audio, electronic, visual, thermal, olfactory, or similar information.
+Current or past job history or performance evaluations.
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+Collected, sold
+YES
+NO
+NO
+YES
+NO
+YES
+Yes
+No
+NO
+NO
+No
+Disclosures of Personal Information for a Business Purpose
+In the preceding 12 months, we have disclosed the following categories of personal information for a business purpose: Identifiers, Commercial information, Internet or other similar network activity, Usage, Geolocation data.
+We disclose your personal information for a business purpose to the following categories of third parties:
+Contractors and service providers;
+Data aggregators; and
+Third parties with whom we partner to offer products and services to you.
+Non-Discrimination
+We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
+Deny you goods or services;
+Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
+Provide you a different level or quality of goods or services; and
+Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information's value and contain written terms that describe the program's material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
+Other California Privacy Rights
+California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Services that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to nekrasov@funtomass.com .
+CHANGES TO THIS PRIVACY POLICY
+We may revise this Privacy Policy from time to time. The most current version of the policy is posted at http://funtomass.com/privacy_policy. When we make changes to this Privacy Policy, we will post the updated policy on our website and update the policy effective date. Your continued use of our Services following the posting of changes constitutes your acceptance of such changes.
+CONTACT US
+If you have any further questions or comments about this policy, the ways in which we collect and use your information, your choices and rights regarding such use, or wish to exercise your rights, please do not hesitate to contact us at:
+Fun to Mass Games FZE
+Mail address: Finance@funtomass.com
+Address: Umm Al Quwain Free Trade Zone, United Arab Emirates.
+Office Number 407,
+Fourth floor, One UAQ Building, PO BOX 7072
+You have the right to complain to a data protection authority about our collection and use of your personal information. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available here -
+http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm
+)
+Made on
+Tilda

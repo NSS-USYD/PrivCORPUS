@@ -1,0 +1,455 @@
+Playkot
+Games
+About
+Careers
+Contacts
+Support
+ru
+Back to main page
+Privacy policy
+Updated 27.05.21
+Updates
+Updated 27.05.22
+Update 10.12.21
+Update 02.11.21
+Overview
+This document explains what data is collected in connection with our games and services. It also explains how we use that data, how it is collected, stored and used as well as how we protect it.
+In short:
+in order for you to play our games or use our services, we need to process some of your data (your game experience, technical and payment data)
+we may use it to improve the user experience
+we ask for your consent in order to process your data for personalized advertising and sending you newsletters.
+This document also explains your rights in relation to your personal data.
+How can you contact us?
+This privacy notice aims at giving you information on how your personal data are processed by Playkot LTD. In this notice, we refer to ourselves as 'we', 'us', and 'our'.
+At Playkot LTD we handle your data so that neither we nor anyone else can use them to harm your interests and rights, such as your right to privacy.
+If this Policy doesn’t contain the information you need or if you encounter issues related to your personal data, please do not hesitate to contact us.
+The fastest way to do so is to use the in-game support
+menu “Help”
+. In the
+“Personal data”
+section you can select an item you are interested in and make a request.
+In case you have trouble in finding this section, make a general request about the problem, and include “personal data request” in the description.
+Our Support team uses
+Helpshift
+(
+Helpshift Privacy Policy
+) or
+Zendesk
+(
+Zendesk Privacy Policy
+) services to ensure that your request is promptly processed
+The policy extends to:
+Our games published in App Store, Google Play, MS Store and Amazon
+Our games published in Our portals supercitygame.com, solitairesocial.com, portal ageofmagic.game and our games published on Facebook, ok.ru, vk.com, mail.ru, fotostrana.ru
+Our website
+Our activities on social media
+Where did we get your data from?
+Directly from you
+We may obtain personal data directly from you.
+Advertisers and promotional partners
+We receive information from our advertisers and promotional partners that we work with to help us deliver ads and personalized content to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers that some advertisers or other third-party ad platforms choose to share with us.
+Social media networks
+If you access or log through a social media service, the information we collect may include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service.
+Device Information
+We may collect information about your mobile device, such as a unique device identifier, to understand how you use the Service.
+Authentication partners
+If you register for or log in to our services using third-party credentials (e.g. Facebook), we will import your information from that third party to help create your account with us.
+Publishing platforms
+We also receive information from the marketplaces (app stores) where our applications are published. For example, we receive information about your in-app purchases from Apple.
+Analytics
+We receive technical information on the performance of our apps from mobile analytics software applications. It allows us to better understand the functionality of our mobile software on your device.
+1. Our games published in App Store, Google Play, MS Store, Amazon and Huawei AppGallery
+What data, for what purposes, and based on what grounds do we process?
+Purpose
+Legal ground
+Data
+To create user accounts and allow you to play our games
+(to save your score, send you notifications related to the game, enable you with full functionality of the game, allow you to communicate with other users)
+Contract
+Platform game ID
+Platform ID
+Game experience
+(Nickname and history of its changes, Game Profile, Registration date, Consent to the ToU, Data from messages (chat), Game progress, Last Active, Status (online/offline), Last exit, Ban in the game, Logs for the previous and current game sessions, Interaction with other users, History of support requests)
+Technical data
+(Device configuration, Device model, Operational memory device (RAM), Operating system (and its version), Language of the device, Device ID, Device token, Video card, Time zone, Battery level at the time of contact, and status (charging/not charging), Amount of free internal memory, Total internal memory capacity, Type of connection (mobile internet/wifi), Mobile operator/country code, Game version)
+Payments data
+(History of accruals of bonuses/compensation, History of campaigns and offers that were available in the profile, Payments (In-app purchases), Date of payment, Amount of payment)
+Email
+(when you register via Google account)
+To enable in-app purchases
+Contract
+Payments data
+Game experience
+Platform game ID
+To improve our applications and user experience by analysing users' behavior
+Legitimate interest to improve our services and customer experiences
+Platform game ID
+Game experience
+Technical data
+Payments data
+To provide technical support to the users
+Contract
+Game experience
+Technical data
+Payments data
+Platform game ID
+Additional information provided by the user
+To maintain the security of our applications
+Legitimate interest to safeguard the quality of our services
+Game experience
+Technical data
+Payments data
+Platform game ID
+Additional information provided by the user
+To display advertising of our services to users based on their interests in social media, other websites, and applications
+Consent
+Platform Advertising ID
+User’s email
+To display advertising from our partners
+Legitimate interest to provide you with relevant ads in our games and to fund our services so that we can keep providing them to you
+Platform Advertising ID
+Game experience
+Technical data
+To communicate our special offers, future events, promotions, or news on request via email
+Consent
+Email
+Full name
+2. Our games published on our portal supercitygame.com, solitairesocial.com, portal ageofmagic.game and our games Facebook, ok.ru, vk.com and My.com, fotostrana.ru
+What data, for what purposes, and based on what grounds do we process?
+Purpose
+Legal ground
+Data
+To create user accounts and allow you to play our games
+(to save your score, send you notifications related to the game, enable you with full functionality of the game, allow you to communicate with other users)
+Contract
+Platform ID
+Platform Profile
+(First name, last name, gender, thumb_url, language, birthday, timezone, currency, friends list [in case when you connected to your social media accounts])
+Game experience
+Technical data
+Payments data
+Email
+To enable in-app purchases
+Contract
+Payments data
+Game experience
+Platform game ID
+To improve our applications and user experience by analysing users' behavior
+Legitimate interest to improve our services and customer experiences
+Platform game ID
+Game experience
+Technical data
+Payments data
+To provide technical support to the users
+Contract
+Game experience
+Technical data
+Payments data
+Platform game ID
+Additional information provided by the user
+To maintain the security of our applications
+Legitimate interest to safeguard the quality of our services
+Game experience
+Technical data
+Payments data
+Platform game ID
+Additional information provided by the user
+To display advertising of our services to users based on their interests in social media, other websites, and applications
+Consent
+Platform Advertising ID
+User’s email
+To display advertising from our partners
+Legitimate interest to provide you with relevant ads in our games and to fund our services so that we can keep providing them to you
+Platform Advertising ID
+Game experience
+Technical data
+To communicate our special offers, future events, promotions, or news on request via email
+Consent
+Email
+Full name
+3. Our website
+What data, for what purposes, and based on what grounds do we process?
+Purpose
+Legal ground
+Data
+To provide technical support to the users
+Contract
+Game experience
+Technical data
+Payments data
+Platform game ID
+Additional information provided by the user
+To answer general questions sent to our emails (
+info@playkot.com
+,
+hr@playkot.com
+,
+privacy@playkot.com
+or other public e-mails)
+Legitimate interest to maintain and prove our relations with users
+Email
+Additional information provided by you in the message
+To consider an application for a vacancy submitted through the website
+Consent
+Potential employee's data
+(Full name, Link to a social profile or portfolio, E-mail, Other information)
+Potential referral's data
+(Full referrer's name, Full referral's name, Link to a social profile or portfolio, Contact information of referral, E-mail of referrer)
+To learn about our website visitors’ browsing patterns and the performance of our website.
+For more information on the use of cookies please refer to our Cookie Policy
+Consent
+User ID
+Online behaviour
+Technical data
+To communicate our special offers, future events, promotions, or news on request via email
+Consent
+Email
+Full name
+4. Our activities on social media
+What data, for what purposes, and based on what grounds do we process?
+Purpose
+Legal ground
+Data
+To conduct activities of the gaming community in social media
+Contract
+Additional information from the user
+To manage relationships with members of the community, visitors of our pages in social media
+(to answer comments, requests)
+Legitimate interest to improve our services and customer experiences
+Social media profile
+Additional information from the user
+How long do we process your data?
+We process your data for as long as required to satisfy the purpose for which they were collected and used, or as long as is needed for us to be able to provide the services.
+When the processing of your personal data is based on your consent, we process your data until you withdraw your permission for us to process your personal details at any time.
+The possible consequences of failure to provide personal data
+Personal data that we process to enter into a contract are necessary to provide you with our services. So, you may face the following consequences if you choose not to give your data:
+When the data is processed
+to create user accounts and allow you to play our games
+-
+you would not be able to authorise and use our application
+.
+When the data is processed
+to enable in-app purchases
+-
+we would not be able to provide you with the paid service
+.
+When the data is processed
+to provide technical support to the users
+-
+we would not be able to solve technical problems
+.
+When the data is processed
+to conduct activities of the gaming community in social media
+you would not be able to take part in the activities.
+Who do we share your personal data with?
+In this section, we will provide you with information about the categories of companies to which your data is committed, as well as their data protection practices. In addition, some of the companies to which we provide data are listed as examples:
+Our developers
+In order to operate the services, your personal information may be transferred to other entities outside the EU. We share your personal information with the developers’ company when it is necessary to give you access to our services, provide technical support and make decisions about improving our services. Standard Contractual Clauses are used to transfer your data to ensure that they are properly protected.
+Payment services
+We may share payment data with banks and other entities that process payment transactions or provide other financial services and for fraud prevention and credit risk reduction.
+Apple Pay
+The service is used when the application is installed from the App Store. The services are provided by Apple Inc. Address: One Apple Park Way, Cupertino, California, USA, 95014.
+Relevant privacy policy
+of Apple. Standard Contractual Clauses are used to transfer your data to Apple to ensure that they are properly protected.
+Google Play In-App Payments
+The service is used when the application is installed from Google Play. The service is provided by Google LLC. Address: Google LLC, Google Data Protection Office, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
+Relevant privacy policy
+of Google. Standard Contractual Clauses are used to transfer your data to Google to ensure that they are properly protected. For more information:
+click on this link
+.
+Xsolla
+The service is used for in-app purchases on supercitygame.com or ageofmagic.game and is provided by Xsolla Inc., USA.
+Relevant privacy policy
+of Xsolla. Standard Contractual Clauses are used to transfer your data to Xsolla Inc.
+Social media
+We may share the information in your account profile with the social networking service you have linked to your account to provide you with enhanced services.
+Facebook
+The services are provided by Meta Platforms, Inc. Address: 1601 South California Avenue, Palo Alto, CA 94304, USA.
+Relevant privacy policy
+of Facebook. Standard Contractual Clauses are used to transfer your data to Facebook to ensure that they are properly protected. For more information:
+click on this link
+.
+Cloud
+Amazon Web Services
+Our applications are hosted by
+aws.amazon.com
+. The service is provided by Amazon Web Services, Inc. Address: Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, USA.
+Relevant privacy policy
+of Amazon Web Services. Standard Contractual Clauses are used to transfer your data to Amazon Web Services to ensure that they are properly protected. For more information:
+click on this link
+.
+Analytics
+We use analytics services to evaluate the usage of our applications and frequently improve it. By using generated statistics, we are able to perfect our services and make them more appealing to you as a user.
+Appsflyer
+The service is provided by AppsFlyer Inc. Address: AppsFlyer Inc., 111 New Montgomery Street, San Francisco, California 94105, USA. Various session and interaction data are collected from you and stored for this purpose. We need this information to improve the content and usability of our games and to optimize the user experience for you. The session and interaction data are at no time processed in personalized form. For more information on data processing by AppsFlyer, please refer to the
+relevant privacy policy
+. Standard Contractual Clauses are used to transfer your data to Apple Pay to ensure that they are properly protected.
+Google Play Console
+The service is used only for applications installed via Google Play and provided by Google LLC. Address: Google LLC, Google Data Protection Office, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
+Relevant privacy policy
+of Google. Standard Contractual Clauses are used to transfer your data to Google to ensure that they are properly protected. For more information:
+click on this link
+.
+App Annie
+The service is provided by App Annie Inc. Address: App Annie Inc, 23 Geary Street, Suite 400/800, San Francisco, CA 94108, USA.
+Relevant privacy policy of App Annie Inc
+.Standard Contractual Clauses are used to transfer your data to App Annie Inc. to ensure that they are properly protected. For more information:
+click on this link
+.
+Managing support and contact requests
+This type of service allows us to manage support and contact requests received via email or by other means, such as the contact form. The categories of personal data processed depend on the information provided by the user in the messages and the means used for communication.
+Helpshift
+We work with Helpshift for customer service. Helpshift does not collect and store user data. The service is provided by Helpshift, Inc. Address: Helpshift, Inc, 1 Embarcadero Center, Suite SL12, No. 2048, San Francisco, CA 94111, USA.
+Relevant privacy policy of Helpshift, Inc
+. Standard Contractual Clauses are used to transfer your data to Helpshift, Inc. to ensure that they are properly protected.
+Zendesk
+Zendesk is a support and contact request management service provided by Zendesk Inc. Address: 989 Market Street, San Francisco, CA 94103, USA.
+Relevant privacy policy of Zendesk Inc
+. Standard Contractual Clauses are used to transfer your data to Zendesk Inc. to ensure that they are properly protected.
+Marketing analytics
+We use these services to facilitate the sharing of information that may be useful, relevant, or interesting to you, such as allowing you to earn rewards for viewing in-game ads as well as to evaluate the effectiveness of our marketing campaigns. These entities may act as our data processors or, in certain cases, decide for themselves how to process your information.
+Appsflyer
+The service is provided by AppsFlyer Inc. Address: AppsFlyer Inc., 111 New Montgomery Street, San Francisco, California 94105). Various session and interaction data are collected from you and stored for this purpose. We need this information to improve the content and usability of our games and to optimize the user experience for you. The session and interaction data are at no time processed in personalized form. For more information on data processing by AppsFlyer, please refer to the
+relevant privacy policy
+Standard Contractual Clauses are used to transfer your data to Apple Pay to ensure that they are properly protected.
+Advertising partners
+We may feature advertising in our services via showing third party advertisements in our Services, as well as advertise our own services via third parties. We work with advertising partners to enable us to customize the advertising content you may receive on the service. These partners help us deliver ads and promotional messages that are more relevant to you, which may include interest-based advertising (also known as online behavioral advertising), contextual advertising, and generic advertising on the service.
+Google Ads
+Google Ads (AdWords) remarketing service is provided by Google Inc.Address: Google LLC, Google Data Protection Office, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. For more information on data processing by Google, please, refer to the
+relevant privacy policy
+of Google and Google's
+page
+, explaining how Google uses data from websites or apps that use one of its platforms. Standard Contractual Clauses are used to transfer your data to Google to ensure that they are properly protected. For more information:
+click on this link
+. You can opt out of the Google Ads service by following
+the instructions
+, described by Google.
+Email services
+We may share your data with email services that provide us with tools to send bulk emails and implement email marketing.
+Gmail
+The service is provided by Google LLC. Address: Google LLC, Google Data Protection Office, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
+Relevant privacy policy
+of Google. Standard Contractual Clauses are used to transfer your data to Google to ensure that they are properly protected. For more information:
+click on this link
+.
+Pushwoosh
+Pushwoosh is an email marketing sending service provided by Pushwoosh, Inc. Address: 1224 M St NW, Suite 101, Washington, DC 20005, USA. For more information on data processing by Pushwoosh, please, refer to the
+relevant privacy policy
+. Standard Contractual Clauses are used to transfer your data to Google to ensure that they are properly protected.
+Tasks and project management tools
+We use tasks and project management tools that help us effectively organize work and manage projects and tasks.
+Compliance with laws
+We may share your personal data when we believe in good faith that it is necessary for us to do so in order to comply with a legal obligation under applicable laws.
+Automated decisions
+We neither use automated decision-making nor your personal data to automatically assess aspects of your personality (automated profiling).
+Your rights
+Any user of our services can:
+obtain information about the processing of your personal data
+obtain access to the personal data held about you
+Under Article
+15
+of the GDPR, individuals have a right of access that gives them the right to obtain a copy of their personal data, as well as other supplementary information. It helps individuals to understand how and why companies are using their data, and check the lawfulness of the processing.
+ask for incorrect, inaccurate, or incomplete personal data to be correctedх
+Under Article
+16
+of the GDPR, individuals have the right to have inaccurate personal data rectified. An individual may also be able to have incomplete personal data completed – although this will depend on the purposes for the processing.
+request that personal data be erased when they are no longer needed or if processing is unlawful
+Under Article
+17
+of the GDPR, individuals have the right to have personal data erased. This is also known as the 'right to be forgotten'. The right is not absolute and only applies in certain circumstances.
+request the restriction of the processing of your personal data in specific cases
+Article
+18
+of the GDPR gives individuals the right to restrict the processing of their personal data in certain circumstances. This means that an individual can limit the way that an organisation uses their data. This is an alternative to requesting the erasure of their data.
+receive your personal data in a machine-readable format and send them to another controller ('data portability')
+Under Article
+20
+of the GDPR, individuals have the right to data portability that gives individuals the right to receive personal data they have provided to a controller in a structured, commonly used and machine readable format. It also gives them the right to request that a controller transmits those data directly to another controller.
+вobject to the processing of your personal data for marketing purposes or on grounds relating to your particular situation
+Article
+21
+of the GDPR gives individuals the right to object to the processing of their personal data at any time. This effectively allows individuals to stop or prevent you from processing their personal data.
+withdraw your consent at any time
+lodge a complaint with a supervisory authority
+In accordance with Article
+77
+of the GDPR, you, as a data subject, have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work, or where an alleged infringement of the GDPR has taken place.
+Exercise your rights
+You can send a request to retrieve, delete or change data as follows:
+The fastest way to do so is to use the in-game support menu
+“Help”
+. In the
+“Personal data”
+section you can select an item you are interested in and make a request. In case you have trouble in finding this section, make a general request about the problem, and include “personal data request” in the description. Our Support team uses
+Helpshift
+(
+Helpshift Privacy Policy
+) or
+Zendesk
+(
+Zendesk Privacy Policy
+) services to ensure that your request is promptly processed
+.
+The other way to send a general request about the problem, and include “personal data request” in the description and send it on our e-mail
+privacy@playkot.com
+How we can delete your data
+We can delete your data in several cases:
+Whenever data is no longer necessary to provide an app experience or service to users (if the user has not accessed the profile for more than 3 years, we assume that the data is no longer needed and delete it)
+When requested by a user (you can learn more about it in the section “Exercise your rights”),
+When a user deletes their account associated with your app,
+When it is requested by platform where our app is published,
+When required by law or regulation.
+You can send a request to delete data as follows:
+The fastest way to do so is to use the in-game support menu
+“Help”
+. In the
+“Personal data”
+section you can select an item you are interested in and make a request. In case you have trouble in finding this section, make a general request about the problem, and include “personal data request” in the description. Our Support team uses
+Helpshift
+(
+Helpshift Privacy Policy
+) or
+Zendesk
+(
+Zendesk Privacy Policy
+) services to ensure that your request is promptly processed
+The other way to send a general request about the problem, and include “personal data request” in the description and send it on our e-mail
+privacy@playkot.com
+Children
+We recognize that we have a special obligation to protect children's data. We will not knowingly collect or process children's data without parental consent. By providing consent to this Policy, the User certifies that he or she is of sufficient age to give such consent. If you are a parent or guardian and you believe that we have collected your child's data in violation of the law, contact us at privacy@playkot.com. We will delete this data in accordance with applicable law.
+COOKIE FILES
+We, our marketing partners, analytics service providers use cookies (text files placed on your computer to analyze your use of our Products) and similar technologies (such as pixels, tags and device identifiers) to recognize you and/or your devices and our products and to enhance the products, marketing, analytics or website features we offer. The use of cookies is standard on the Internet.
+How to delete cookies and opt out of targeted advertising and analytics
+You can configure your browser settings to refuse cookies or to notify you when a cookie is sent. You may refuse the use of cookies by adjusting the appropriate settings on your browser. However, please note that this may limit your access to the full functionality of our website and portal supercitygame.com and solitairesocial.com.
+If you wish to limit behaviourally targeted advertising, you can do so by limiting ad tracking in your device settings. Please note that opt-outs are specific to each browser and device and it may take a little bit of time before your opt-out choice will take effect.
+For mobile advertising in apps, you can reset your Advertising Identifier and depending on your device, select to opt out of interest-based ads (Android) or turn on the Limit Ad Tracking setting (iOS).
+For display advertising on the Web, you can also adjust your browser settings to limit certain tracking by means of cookies (e.g.
+for Chrome
+), and by visiting the following sites:
+http://www.aboutads.info/choices
+and
+http://www.youronlinechoices.eu
+.
+Do Not Track: Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals.
+Privacy Policy in Other Languages
+This Policy was originally written in English and may be translated to other languages. In the event of an inconsistency, the English version has the precedence.
+Contact us
+For official requests, please use email -
+privacy@playkot.com
+.
+Company name: Playkot LTD
+Address: 28 Oktovriou str. 367, Office A5, Mediterranean Court, 3107, Limassol, Cyprus
+Games
+Careers
+About
+Contacts
+Support
+ru
+Playkot © 2023. All righs reserved
+Style Guide
+Privacy Policy
+Created by Oleg Chulakov Studio
+This site uses cookies. For more information, please see our
+Privacy Policy
+.
+accept

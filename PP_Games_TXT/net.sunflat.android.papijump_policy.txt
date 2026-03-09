@@ -1,0 +1,42 @@
+Sunflat GAMES
+Privacy Policy
+We use
+Google AdSense
+to serve ads on this web site. More details, check
+its privacy policies
+.
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website or other websites.
+Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet.
+Users may opt out of personalized advertising by visiting
+Ads Settings
+. (Alternatively, you can opt out of a third-party vendor's use of cookies for personalized advertising by visiting
+www.aboutads.info
+.)
+We use
+Google Mobile Ads SDK (AdMob)
+to serve ads on some of our apps. The apps collect and share data including the following automatically to third party vendors, including Google, for advertising, analytics, and fraud prevention purposes. More details, check
+its privacy policies
+.
+IP address - Collects device's IP address, which may be used to estimate the general location of a device.
+User product interactions - Collects user product interactions and interaction information, including app launch, taps, and video views.
+Diagnostic information - Collects information related to the performance of our app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+Device and Account identifiers - Collects
+Android advertising (ad) ID
+,
+app set ID
+, and, if applicable, other identifiers related to signed-in accounts on the device.
+We use
+cookies
+to identify your terminal on this web site. In some of our apps, we use
+localStorage
+to store your high scores.
+In some of our apps, your terminal information (randomly generated user ID, OS version, device model name, and/or app version information) is sent to our server to identify your terminal, manage your data such as scores and the games you played, provide personalized services such as score charts and old score rankings, and analyze the information to improve our apps and services.
+In some of our apps, your scores are sent to our server and shown publicly in score charts, and old score rankings. Your scores are automatically deleted after a year from the score charts. You can also manualy
+delete your scores from the score charts
+.
+These information is sent to our server automatically or manually when you use our apps.
+If you have a question about this privacy policy,
+contact us
+.
+Notes
+The privacy policy will be updated without announcements. Please keep confirming the latest terms by watching this page periodically.

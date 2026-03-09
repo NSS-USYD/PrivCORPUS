@@ -1,0 +1,61 @@
+iApp inc.
+PRIVACY POLICY
+At iApp Inc. we recognize that privacy is significant. This Privacy Policy applies to all apps under the publisher name of iApp Inc. We has created this Policy to explain our privacy practices so you can understand what information about you is collected, used and disclosed. We collect information from you in order to provide corresponding service and better user experience. With your consent of this Privacy Policy, your usage, statistics, input while using our apps would be collected.
+Information Collection and Use
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to screen resolution, device model, operating system version, viewed and downloaded and installed images in the application. The information that we request is retained on your device and is not collected by us in any way The app does use third party services that may collect information used to identify you.
+Link to privacy policy of third party service providers used by the app
+Google Play Services
+AdMob
+Firebase
+Log Data
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (â€œIPâ€) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Cookies
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
+								This Service does not use these â€œcookiesâ€ explicitly. However, the app may use third party code and libraries that use â€œcookiesâ€ to collection information and to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Service Providers
+We may employ third-party companies and individuals due to the following reasons:
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Security
+We have implemented security safeguards designed to protect your personal information in accordance with industry standards. We limit access to your information on our servers, and it is password-protected/encrypted. We also regularly monitor our servers for possible vulnerabilities and attacks. Nevertheless, as the Internet is not a 100% secure environment, we cannot guarantee the security of any information that you transmit to us. There is no guarantee that information on our servers may not be accessed, disclosed, altered, or destroyed by breach of our safeguards
+Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Childrenâ€™s Privacy
+We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under that age has provided us with personal information, we take steps to remove such information from our servers. If you become aware that your child has provided us with personal information, please contact us.
+Modifying Your Personal Information.
+You have a right to request that we delete any of your personal information in our possession by sending us an email (with your expressed request) using the Contact Us button inside the Application. We will generally delete your information within 30 days of receipt of your request.
+Changes to This Privacy Policy
+We may need to change this Policy from time to time in order to address new issues and to reflect changes to the Application or applicable law. We reserve the right to revise or make any changes to this Policy in our sole discretion, and your continual use of the Application subsequent to any changes to this Policy shall conclusively mean that you accept such changes. You can tell when this Policy has been updated by checking the last updated date posted on the top of this page.
+Privacy Policies of bundled Services and SDKs
+For us to be able to deliver the Application and its functionalities to you, we use third party sub-suppliers, to whom we may transfer data. Our sub-suppliers have all guaranteed that they will live up to the terms of this privacy policy, including ensuring safe-keeping of your personal data. With your acceptance of this Privacy Policy and by using the Application, you agree to the processing of your data in the form of a transfer to third parties.
+All of our sub-suppliers reserve the right to use the transferred information for statistics and user support without restrictions regarding applicability in time. Please note that we may also disclose information associated with you as well as contact infor-mation to third parties if required by law, in order to protect or defend our own rights.
+Permissions used by Application
+Camera permission
+Camera permission is only required for the flashlight feature in Application. It needs access to your deviceâ€™s camera flashlight and does not take photos and videos for any purposes.
+Read your contacts
+Application does not recognize or save users' contacts information for any programs. The only purpose of using this permission is to show contacts info in call interface. We will never upload any usersâ€™ contacts information.
+Read your contacts
+The only purpose using this permission is to identify different users. Phone status and identity are not read for any other purposes.
+Read the contents of your USB storage
+This permission allows users to view screen flash videos stored on their SD card.
+Modify or delete the contents of your USB storage
+This permission is used in Application settings in order to connect and disconnect from Wi-Fi.
+Connect and disconnect from Wi-Fi
+This permission is used in Application settings in order to connect and disconnect from Wi-Fi.
+Full network access and receive data from Internet
+This permission allows Application to access the deviceâ€™s network for functions including downloading screen flash videos and accessing app classification labels.
+. View network connections
+This permission is used in Application settings in order to view network connections.
+View Wi-Fi connections
+This permission is used in Application settings in order to view network connections.
+Prevent phone from sleeping
+The only purpose using this permission is to prevent the phone from going to sleep when you are playing videos in full screen mode. It is not used for any other purposes.
+.Directly call phone numbers & read phone status and identity & reroute outgoing calls
+This permission allows Application to inform you when receiving phone calls. This wonâ€™t result in unexpected fees and calls. Application wonâ€™t upload your privacy information.
+Read Call Logs
+Application does not recognize or save users' contacts information for any programs. The only purpose is to block any caller or number whether unknown, spam, scams, robocalls or telemarketers and show details of the call to users after a call. We promise that we will never disclose your call log and short to any person or third party interest information.
+Contact Us
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us devkrushna.technology@gmail.com.

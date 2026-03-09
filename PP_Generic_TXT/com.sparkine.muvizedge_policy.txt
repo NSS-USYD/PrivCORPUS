@@ -1,0 +1,16 @@
+Muviz Edge - Privacy Policy
+Privacy Policy
+This document applies to Muviz Edge, the mobile app developed by Sparkine Labs. We've tried to keep the text simple, so we hope you will take time to read it carefully.
+Personal information
+We made Muviz Edge with your privacy in mind, so we do not collect personally identifiable information such as your precise geographic location, address or phone number.
+Record Audio permission requested by the app is required by the Android System to provide the app with system-level music data. We do not personally collect any information using the Record Audio permission.
+Usage analytics
+We would like to make our product more useful for you, so we added Google Analytics for Firebase into our app. It collects user behavior information in an anonymous form and transmits it to Firebase servers. That means only usage data is collected, no personally identifiable information. We use these reports to understand how to spend our development resources more efficiently and make our App better. To learn more, take a look at Google Analytics for Firebase terms:
+https://firebase.google.com/terms/analytics/
+.
+Advertising
+We use ads to keep Muviz Edge free for you. All ads in our App are served via the Admob network. Ad networks mediated via admob may use and collect anonymous data about your interests to customize advertising in our App and in other sites and apps. To do that, ad networks use a unique user resettable Advertising ID. To learn more about google privacy policies and opt-out choices check out
+https://policies.google.com/privacy
+.
+Changes
+We will post any privacy policy changes on this page and, if you have any questions or concerns about our privacy policies, drop us a mail at support@sparkine.com. Policy updated on 17 Jul 2022

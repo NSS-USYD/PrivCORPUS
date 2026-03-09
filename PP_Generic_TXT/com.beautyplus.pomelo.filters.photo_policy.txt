@@ -1,0 +1,272 @@
+éšç§æ”¿ç­–
+Privacy Policy
+Last Modified: October 13, 2017
+Your privacy is important to us.
+Meitu and its affiliates ("Meitu", "we", "us" or "our") are dedicated to protecting the privacy of our users ("users" or "you"). This Privacy Policy (the "Policy") is meant to explain our practices regarding how we collect, store, use, manage and protect your user information (including your personal details) during your use of our websites www.meitu.com, www.meipai.com and www.beautyplus.com (collectively, the "Sites") and through any of our mobile applications available on other mobile devices, such as Apple and Android devices (the "Services"), with the exception of those Meitu applications which have separate privacy policies.
+Please note that the scope of this Policy is limited solely to your user information (including your personal details) collected or received by Meitu when you are using the Sites and the Services. In this Policy, "personal details" refer to information that either identifies you or that can be used to identify you when used in association with other personal information that Meitu can access, including your name, address, phone number and email address.
+BY USING OUR SITES AND OUR SERVICES, YOU ARE EXPRESSING YOUR CONSENT TO THIS POLICY AND THE COLLECTION, PROCESSING, DISCLOSURE AND SHARING OF YOUR USER INFORMATION, INCLUDING YOUR PERSONAL DETAILS, IN THE MANNER PROVIDED IN THIS POLICY. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS POLICY OR ANY SUBSEQUENT CHANGES TO THIS POLICY, PLEASE DO NOT USE OUR SITES OR OUR SERVICES.
+If you have any questions regarding this Privacy Policy or any privacy-related matters, please contact us at support@meitu.com or legal@meitu.com, or via registered mail at Unit 8106B, 81/F, International Commerce Center, 1 Austin Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu).
+The Information We Collect
+In order to provide and improve the Sites and Services, Meitu will collect, to the extent permitted by laws and only when you are browsing the Sites or using certain functions and Services, your personal details and user information in accordance with this Policy. If you do not provide this information, we may be unable to provide you with our products or Services.
+The Information You Provide to Us
+When you use the Sites or the Services, we might recommend you sign up for a Meitu ID ("Meitu ID") to take full advantage of the Sites, the Services and all their features. When you create a Meitu ID, we will collect certain information that can be used to identify you, such as your Meitu ID user name and mobile phone number and so on ("personal details"). When you request to enable Meipai's live video broadcasting feature, we will require you to provide your personal details (including your name, passport number and mobile phone number) as provided by law for real-name authentication.
+Device Information
+When you use our Services on your mobile device, we will collect information about your device, including its International Mobile Equipment Identity ("IMEI"), Identifier for Advertising ("IDFA") and Identifier for Vendor ("IDFV"), Integrated Circuit Card Identifier ("ICCID"), Media Access Control ("MAC") address, model and resolution, which will be used by us to calculate the number of devices that use our products and Services and analyze data on device models and graphics adaptation.
+Network Information
+When you use the Sites or the Services online, we will collect information about the network you use, including the name of the operator and the type of network, so as to understand the distribution of operators and networks used by our users. In addition, we will collect information such as the name of the WiFi to which you connect and the duration of your WiFi connection to understand the scenarios in which you use our Services.
+Location Information
+We will collect your Location Information, including the country code, latitude and longitude, network location, IP address and the system country and system time zone recorded on your device. This information will help us understand user distribution and usage scenarios, and allow us to provide users with the correct version of our apps and better services. Except as otherwise provided in this Policy, we will not share this Location Information with any third parties. If you no longer wish to allow us to collect or use such information, you may turn off your Internet access or GPS, or disable our access to information about your network, GPS and device.
+Log Information
+When you use some of the Services, including generating and browsing certain content, we will automatically collect certain relevant log information stored in the Meitu App ("Log Information"). Log Information may include (i) details on when and how often you use the Services, (ii) device statistics, including critical operation paths, errors, crashes, language and time zone. This Log Information is used to improve the Services and is NOT USED to identify our users individually.
+Image Information
+By choosing to use the cloud editing feature of our service, you understand and agree that we must upload your photos to our server for processing before returning processed photos to you for the purposes of providing such service to you and continuous optimization and that we will also receive the EXIF data about your photos (EXIF data may contain GPS coordinates where photos were taken and processed, equipment type, ISO and information about the front and rear cameras and creation time, depending on the equipment manufacturer) for the purpose of further optimizing our services.
+Metadata
+Metadata refers to technical data associated with user content. Put simply, metadata is data that describes data. For example, metadata can describe the location information and file creation time contained in photos or other files, or the rough features of the characters in photos and other content contained in photos. When you use the Services, we will use photo metadata to provide you with certain features including precise "Facial Recognition", "Key-Points Recognition", "Region Segmentation", "Content Tags" and other custom features based on a combination of these basic features. Metadata cannot normally be used to identify a specific individual, and it will be used to improve the Services.
+Forum Posts
+Some of our Services or applications offer publicly accessible community forums. You should be aware that any content or information about yourself that you provide and make public in these areas may be read, collected, and used by others who access the forums. You can remove your personal details from these community forums by yourself or by contacting us at support@meitu.com or legal@meitu.com. In some cases, we may not be able to remove your personal details from the community forums, in which case, we will let you know if we are unable to do so and why.
+Cookies
+When you are browsing the Sites, Meitu or a third party designated by Meitu will use cookies, tags and scripts to collect information in log files and locally cached information for the purposes of analyzing trends, managing the Sites, tracking users activity on the Sites and collecting demographics on the user base. Information in log files may include information about your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), referring and exit pages, your operating system, dates and timestamps, and clickstream data.
+Advertising
+We may include advertisements within our Services, and we may collect and use information about you such as your device identifier, MAC address, IMEI and geographic location and IP address for the purpose of tracking these advertisements. We will use this information to create a unique user account to help us better count and track advertisements based on language, geographic location and other details. We will not sell this information to third parties.
+Information Collected by Third Party Services
+Our Services provided to you may contain third party tracking tools from our service providers. These third parties may use Cookies, Application Programming Interfaces (APIs) and Software Development Kits (SDKs) on our Services and collect and analyze user information on our behalf. Third parties may access your information such as your device identifier, MAC address, IMEI, region (defined as the location where a given language is used), location information and IP address for the purposes of implementing our Services provided under their respective privacy policies. This Policy does not govern the use of third party tracking tools. We have no access to or control over such third parties. If you want to know more about third parties, you may send an email to support@meitu.com or legal@meitu.com.
+Information Collected as Part of User Experience Programs
+We may launch a user experience program on our products to improve our products and services and improve user experience. You may choose to join and leave such user experience programs at any time. After you have agreed to join a user experience program and before you choose to leave the program, we will collect your information in accordance with the program. This information will be used by us to better understand and improve our technologies and Services and will not be used to identify you.
+Other Information
+We may also collect other information which is not related to your identity. For example, we may collect information on the type and version number of your operating system to better understand system upgrades, we may collect information on your system language for the purpose of language adaptation, and we may collect your App list to understand user preferences. If we choose to collect such information, we will do so for the purpose of improving our Services provided to you.
+How We Use Information
+We collect user information and personal details so that we can provide our products and Services to you and ensure our compliance with relevant laws. We will use your user information and personal details as provided under "The Information We Collect" for the following purposes:
+(i)
+Services.
+To provide, process, maintain, improve and develop our Sites and/or our Services provided to you, including customer support, and other services provided through our devices or our Sites.
+(ii)
+Statistical analysis.
+To develop and analyze statistics on the use of our products and Services for the purpose of improving our products and our Services.
+(iii)
+To create a Meitu ID.
+The personal details that we collect when you use our Sites or Services to create a Meitu ID will be used by us to create your Meitu ID and profile.
+(iv)
+To facilitate your use of forums.
+Your personal details related to Meipai, Shanliao or other Meitu community platforms may be used when we display your profile, when you interact with other users and when you publish forum posts.
+(v)
+To provide location-based services.
+When you use our Services, we or third party service providers may take advantage of your location information to provide you with the correct version of our Services and help you gain good user experience.
+(vi)
+To improve user experience.
+Certain optional features such as user experience programs allow Meitu to analyze data regarding the use of our products and our Services and improve user experience.
+(vii)
+To provide push services.
+Meitu ID numbers and device information may be used by us to provide push services to assess the performance of adverts and the success of software updates, or provide notifications on new product releases. You may turn off this feature at any time by changing your preferences under "Settings".
+(viii)
+To verify your identity.
+Verifying your identity using a text message when you log in to your account helps prevent unauthorized logins to your account. We are required by law to verify your identity once you enable the live video broadcasting feature.and/or
+(ix)
+To collect feedback from you.
+Your feedback is of great value in helping Meitu improve our Services. To keep track of your feedback, Meitu may use the personal details provided by you to contact you and retain the records.
+(x)
+Other purposes.
+We will store and maintain information about you for the purpose of running our operations and satisfying our legal obligations.
+Information Sharing and Disclosure
+We will not sell any personal details to third parties. We have no right to share with or disclosure to third parties your personal details in whole or in part except for the purposes of:
+(i) protecting the security of others or their property;
+(ii)    preventing or dealing with Internet fraud;
+(iii)   safeguarding the legitimate rights and interests of Meitu;
+(iv)    taking action in line with our purposes as described in the "The Information We Collect" section, provided that recipient of any such disclosure by us is also bound by this Policy and can provide adequate protection for your information;
+complying with laws and regulations or requests by government departments or judicial authorities, which are typically designed to uphold Internet security and the rights, property and safety of us, our users and third parties.
+Information Security
+We will take reasonable measures to prevent the loss, improper use of, unauthorized access to or disclosure of information. For example, some of our Services will use encryption techniques (such as SSL) to protect your personal details. However, you understand and accept that (in the Internet industry) even though we will take all possible security measures, we cannot always guarantee that your information is 100% secure. You understand and accept that the system and communication network used by you to access our Services may fail due to factors beyond our control.
+Information Access and Control
+We will take all reasonable and appropriate technical measures to ensure that you can access, update and correct your personal details or other personal details provided to us by you when using our Services. Before you access, update, correct or remove such personal details, we may verify your identity in order to protect the security of your account.
+Data Retention and Deletion
+Subject to applicable laws and regulations, we will retain your information (including your personal details) pursuant to the "How We Use Information" section or for as long as needed to provide you with our Services. If you wish to withdraw your consent to our collection, use and disclosure of your personal details or wish us to delete your personal details, you may send an email to support@meitu.com or legal@meitu.com or send a registered email to Unit 8106B, 81/F, International Commerce Center, 1 Austin Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu). We will process your request within a reasonable period of time after receiving your email or registered mail, and will cease collecting, using and disclosing your personal details thereafter. Please note that if you withdraw your consent or delete your personal details, your use of some of our Services may be influenced.
+Information about Children
+We will not knowingly collect or request personal details from children under 13 (or any other age stipulated by law applicable to your region). If you are under 13, please do not send your personal details to us, including your name, address, phone number or email address. If you believe we may have any information about children under 13, you may send an email to support@meitu.com or legal@meitu.com or send a registered mail to Unit 8106B, 81/F, International Commerce Center, 1 Austin Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu).
+Your Consent to Cross-border Data Transfers
+You understand and agree that (i) we may store the information (including personal details) collected by us under this Policy on a server in mainland China or other countries, which requires the transfer of information across national borders, and (ii) we may transfer the information collected by us to our affiliated or controlled companies or other third parties. Please note that such countries or regions may not provide the same level of data protection as provided in your country or region, and you agree to our transfer of your information to mainland China and our use and disclosure of your information (including personal details) under this Policy. If you do not consent to this transfer, use and disclosure of information or you want to know more, you may send an email to support@meitu.com or legal@meitu.com or send a registered mail to Unit 8106B, 81/F, International Commerce Center, 1 Austin Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu).
+Governing Law
+This Policy is established, comes into force, and shall be enforced and interpreted under the law of the People's Republic of China (excluding the laws of the Hong Kong Special Administrative Region and the Macao Special Administrative Region). Any disputes arising hereunder shall also be resolved in accordance with the law of this jurisdiction. We do not represent or warrant that this Policy complies with the privacy law of any jurisdiction. Therefore, you should not interpret this Policy in accordance with such law.
+Amendments to this Policy
+You agree that we may update this Policy according to relevant laws and regulations or based on Meituâ€™s business decisions, and you agree to be bound by any such revisions hereto. We will post any significant changes to this Policy on our Sites or notify you by other means accordingly.
+If You Are a Resident of California
+If you are a resident of California, every year we will provide you free of charge with an opportunity to obtain a list of third parties to which we have disclosed or with whom we have shared your personal details during the previous year. If you are a resident of California and wish to obtain this list, you may send an email with the subject "The right to privacy of a California resident" to support@meitu.com or legal@meitu.com or send a registered mail to Unit 8106B, 81/F, International Commerce Center, 1 Austin Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu).
+éšç§æ”¿ç­–
+æ›´æ–°æ—¥æœŸï¼š2017å¹´10æœˆ13æ—¥
+æˆ‘ä»¬éžå¸¸é‡è§†æ‚¨çš„éšç§æƒã€‚
+ç¾Žå›¾å…¬å¸åŠå…¶å…³è”æŽ§åˆ¶æ–¹ï¼ˆâ€œç¾Žå›¾â€ã€â€œæˆ‘ä»¬â€æˆ–â€œæˆ‘ä»¬çš„â€ï¼‰è‡´åŠ›äºŽä¿æŠ¤æˆ‘ä»¬ç”¨æˆ·ï¼ˆâ€œç”¨æˆ·â€æˆ–â€œæ‚¨â€ï¼‰çš„éšç§æƒã€‚æœ¬éšç§æ”¿ç­–(â€œæœ¬æ”¿ç­–â€)æ—¨åœ¨å‘æ‚¨è¯´æ˜Žï¼Œåœ¨ä½¿ç”¨æˆ‘ä»¬çš„ç½‘ç«™å’Œæˆ‘ä»¬çš„æœåŠ¡æ—¶ï¼Œæˆ‘ä»¬å¦‚ä½•æ”¶é›†ã€å­˜å‚¨ã€ä½¿ç”¨ã€ç®¡ç†å’Œä¿æŠ¤æ‚¨çš„ç”¨æˆ·ä¿¡æ¯ï¼ˆåŒ…æ‹¬ä¸ªäººä¿¡æ¯ï¼‰ã€‚æ”¶é›†é€”å¾„ä¸»è¦åŒ…æ‹¬ï¼šwww.meitu.comã€www.meipai.comå’Œwww.beautyplus.com (â€œæˆ‘ä»¬çš„ç½‘ç«™â€)ï¼Œæˆ–å…¶ä»–ç§»åŠ¨è®¾å¤‡ä¸Šï¼ˆå¦‚ï¼šè‹¹æžœè®¾å¤‡å’Œå®‰å“è®¾å¤‡ï¼‰æä¾›çš„ç¾Žå›¾åº”ç”¨ç¨‹åºäº§å“(â€œæˆ‘ä»¬çš„æœåŠ¡â€)ï¼Œç‰¹å®šç¾Žå›¾åº”ç”¨ç¨‹åºäº§å“æä¾›ç‹¬ç«‹çš„éšç§æ”¿ç­–çš„é™¤å¤–ã€‚
+è¯·æ³¨æ„ï¼Œæœ¬æ”¿ç­–èŒƒå›´ä»…é™äºŽæ‚¨ä½¿ç”¨æˆ‘ä»¬çš„ç½‘ç«™å’Œæˆ‘ä»¬çš„æœåŠ¡æ—¶å‘ç¾Žå›¾æäº¤æˆ–è€…ç¾Žå›¾æ”¶é›†çš„ç”¨æˆ·ä¿¡æ¯ï¼ˆåŒ…æ‹¬ä¸ªäººä¿¡æ¯ï¼‰ï¼›æœ¬æ”¿ç­–ä¸‹â€œä¸ªäººä¿¡æ¯â€æŒ‡ä¿¡æ¯æœ¬èº«æˆ–ä¸Žç¾Žå›¾èƒ½å¤Ÿè®¿é—®çš„ä¸ªäººçš„å…¶ä»–ä¿¡æ¯è”ç³»åŽèƒ½å¤Ÿè¯†åˆ«ç‰¹å®šä¸ªäººçš„æ•°æ®ï¼ŒåŒ…æ‹¬æ‚¨çš„å§“åã€åœ°å€ã€ç”µè¯å·ç å’Œç”µå­é‚®ç®±åœ°å€ã€‚
+ä½¿ç”¨æˆ‘ä»¬çš„ç½‘ç«™å’Œæˆ‘ä»¬çš„æœåŠ¡å°±æ„å‘³ç€æ‚¨åŒæ„æœ¬æ”¿ç­–ï¼Œå¹¶åŒæ„æ ¹æ®æœ¬æ”¿ç­–ä¸­è§„å®šçš„æ–¹å¼å¯¹æ‚¨çš„ç”¨æˆ·ä¿¡æ¯ï¼ˆåŒ…æ‹¬æ‚¨çš„ä¸ªäººä¿¡æ¯ï¼‰è¿›è¡Œæ”¶é›†ã€å¤„ç†ã€æŠ«éœ²å’Œåˆ†äº«ã€‚å¦‚æžœæ‚¨ä¸åŒæ„æœ¬æ”¿ç­–åŠæœªæ¥ä¿®è®¢ç‰ˆæœ¬çš„ä»»ä½•æ¡æ¬¾ï¼Œè¯·ä¸è¦ä½¿ç”¨æˆ‘ä»¬çš„ç½‘ç«™å’Œæˆ‘ä»¬çš„æœåŠ¡ã€‚
+å¦‚æ‚¨å¯¹æœ¬æ”¿ç­–æˆ–ä»»ä½•éšç§æƒç›¸å…³é—®é¢˜æœ‰ä»»ä½•ç–‘é—®ï¼Œè¯·é€šè¿‡support@meitu.comæˆ–è€…legal@meitu.comä¸Žæˆ‘ä»¬è”ç³»æˆ–è€…ä»¥æŒ‚å·ä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žå›¾å…¬å¸-æ³•åŠ¡éƒ¨ï¼Œåœ°å€ä¸ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1å·çŽ¯çƒè´¸æ˜“å¹¿åœº81æ¥¼8106Bå®¤ã€‚
+æˆ‘ä»¬æ”¶é›†å“ªäº›ä¿¡æ¯
+ä¸ºäº†å‘æ‚¨æä¾›æˆ‘ä»¬çš„ç½‘ç«™å’Œæˆ‘ä»¬çš„æœåŠ¡ï¼Œæˆ‘ä»¬å°†åœ¨æ³•å¾‹å…è®¸çš„èŒƒå›´å†…å’Œå½“ä¸”ä»…å½“æ‚¨æµè§ˆç½‘ç«™ã€ä½¿ç”¨æŸäº›åŠŸèƒ½æˆ–è€…æœåŠ¡æ—¶ï¼Œæ ¹æ®æœ¬æ”¿ç­–è§„å®šæ”¶é›†æ‚¨çš„ä¸ªäººä¿¡æ¯å’Œç”¨æˆ·ä¿¡æ¯ã€‚å¦‚æžœæ‚¨ä¸æä¾›è¿™äº›ä¿¡æ¯ï¼Œæˆ‘ä»¬å¯èƒ½æ— æ³•å‘æ‚¨æä¾›æˆ‘ä»¬çš„äº§å“æˆ–æœåŠ¡ã€‚
+æ‚¨æä¾›ç»™æˆ‘ä»¬çš„ä¿¡æ¯
+åœ¨æ‚¨ä½¿ç”¨æˆ‘ä»¬çš„ç½‘ç«™å’Œæˆ‘ä»¬çš„æœåŠ¡æ—¶ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šå»ºè®®æ‚¨æ³¨å†Œä¸€ä¸ªç¾Žå›¾å¸å·ï¼Œä»¥æ–¹ä¾¿æ‚¨å……åˆ†åˆ©ç”¨æˆ‘ä»¬çš„ç½‘ç«™ã€æˆ‘ä»¬çš„æœåŠ¡åŠå…¶ä¼˜åŠ¿ã€‚å½“æ‚¨æ³¨å†Œç¾Žå›¾å¸å·æ—¶ï¼Œæˆ‘ä»¬ä¼šæ”¶é›†æ‚¨æ‰€æä¾›çš„å¯è¯†åˆ«æ‚¨èº«ä»½çš„ä¿¡æ¯ï¼Œè¿™äº›ä¿¡æ¯åŒ…æ‹¬æ‚¨çš„å¸å·åç§°ã€ç§»åŠ¨ç”µè¯å·ç ç­‰æ³¨å†Œç¾Žå›¾å¸å·æ‰€å¿…é¡»çš„ä¿¡æ¯ã€‚åœ¨æ‚¨åœ¨ç”³è¯·å¼€é€šç¾Žæ‹è§†é¢‘ç›´æ’­åŠŸèƒ½æ—¶ï¼Œæˆ‘ä»¬å°†æ ¹æ®æ³•å¾‹è§„å®šè¦æ±‚æ‚¨æä¾›æœ¬äººçœŸå®žæœ‰æ•ˆçš„èº«ä»½ä¿¡æ¯ï¼ˆåŒ…æ‹¬ä½†ä¸é™äºŽå§“åã€èº«ä»½è¯å·å’Œæ‰‹æœºå·ç ï¼‰ä»¥ä¾›å®žåè®¤è¯ã€‚
+è®¾å¤‡ä¿¡æ¯
+å½“æ‚¨åœ¨ç§»åŠ¨è®¾å¤‡ä¸Šä½¿ç”¨æˆ‘ä»¬çš„æœåŠ¡æ—¶ï¼Œæˆ‘ä»¬æ”¶é›†ä¸Žæ‚¨è®¾å¤‡ç›¸å…³çš„ä¿¡æ¯ã€‚ä¾‹å¦‚ï¼Œå›½é™…ç§»åŠ¨ç”µè¯è®¾å¤‡è¯†åˆ«ç ï¼ˆâ€œIMEIâ€ï¼‰ã€å¹¿å‘Šæ ‡è¯†ç¬¦ï¼ˆâ€œIDFAâ€ä¸Žâ€œIDFVâ€ï¼‰ã€é›†æˆç”µè·¯å¡è¯†åˆ«ç ï¼ˆâ€œICCIDâ€ï¼‰å’Œä»‹è´¨è®¿é—®æŽ§åˆ¶ï¼ˆâ€œMACâ€ï¼‰åœ°å€ã€è®¾å¤‡åž‹å·ä¸Žè®¾å¤‡åˆ†è¾¨çŽ‡ï¼Œæ–¹ä¾¿æˆ‘ä»¬ç»Ÿè®¡ä½¿ç”¨æˆ‘ä»¬äº§å“ä¸ŽæœåŠ¡çš„è®¾å¤‡æ•°é‡å¹¶è¿›è¡Œè®¾å¤‡æœºåž‹æ•°æ®åˆ†æžä¸Žå›¾å½¢é€‚é…åˆ†æžã€‚
+ç½‘ç»œä¿¡æ¯
+å½“æ‚¨åœ¨è¿žç½‘çŠ¶æ€ä¸‹ä½¿ç”¨æˆ‘ä»¬çš„ç½‘ç«™æˆ–æˆ‘ä»¬çš„æœåŠ¡æ—¶ï¼Œæˆ‘ä»¬æ”¶é›†æ‚¨æ‰€ä½¿ç”¨çš„è¿è¥å•†åç§°ä¸Žç½‘ç»œç±»åž‹ï¼Œç›®çš„æ˜¯ä¸ºäº†è§£ç”¨æˆ·çš„è¿è¥å•†å’Œç½‘ç»œåˆ†å¸ƒçš„æƒ…å†µï¼Œæ­¤å¤–ï¼Œæˆ‘ä»¬è¿˜æ”¶é›†æŽ¥å…¥WIFIåç§°ä¸ŽWIFIæŽ¥å…¥æ—¶é—´ä»¥äº†è§£æ‚¨ä½¿ç”¨æœåŠ¡çš„ç”¨æˆ·åœºæ™¯ã€‚
+ä½ç½®ä¿¡æ¯
+æˆ‘ä»¬æ”¶é›†æ‚¨çš„ä½ç½®ä¿¡æ¯ï¼Œå¦‚å›½å®¶ä»£ç ã€ç»çº¬åº¦ä¿¡æ¯ã€ç½‘ç»œä½ç½®ã€IPåœ°å€å’Œç³»ç»Ÿè®¾ç½®å›½å®¶åŠæ—¶åŒºä¿¡æ¯ã€‚è¿™äº›ä¿¡æ¯æœ‰åŠ©äºŽæˆ‘ä»¬äº†è§£ç”¨æˆ·åˆ†å¸ƒå’Œç”¨æˆ·ä½¿ç”¨åœºæ™¯ï¼Œä½¿æˆ‘ä»¬å¯ä»¥ä¸ºå…¶æä¾›æ­£ç¡®çš„åº”ç”¨ç¨‹åºç‰ˆæœ¬åŠæ›´ä¼˜è´¨çš„æœåŠ¡ã€‚é™¤æœ¬æ”¿ç­–å¦æœ‰çº¦å®šå¤–ï¼Œæˆ‘ä»¬ä¸ä¼šä¸Žä»»ä½•ç¬¬ä¸‰æ–¹åˆ†äº«è¿™äº›ä¿¡æ¯ã€‚å¦‚æžœæ‚¨ä¸å†å¸Œæœ›æˆ‘ä»¬è·Ÿè¸ªæˆ–ä½¿ç”¨å…·ä½“ä½ç½®ä¿¡æ¯ï¼Œæ‚¨å¯ä»¥åœ¨é€‰æ‹©åœ¨è®¾å¤‡ä¸Šå…³é—­ç½‘ç»œã€GPSåŠŸèƒ½æˆ–è€…ç¦ç”¨æˆ‘ä»¬èŽ·å–æ‚¨ç½‘ç»œã€GPSã€è®¾å¤‡ä¿¡æ¯æƒé™ã€‚
+æ—¥å¿—ä¿¡æ¯
+å½“æ‚¨ä½¿ç”¨æŸäº›æˆ‘ä»¬çš„æœåŠ¡ï¼ŒåŒ…æ‹¬å‚ä¸Žã€ç”Ÿæˆã€æµè§ˆä¸Žæˆ‘ä»¬çš„æœåŠ¡ç›¸å…³çš„å†…å®¹æ—¶ï¼Œæˆ‘ä»¬å°†ä¼šè‡ªåŠ¨æ”¶é›†ç¾Žå›¾åº”ç”¨ç¨‹åºäº§å“å†…æŸäº›ç›¸å…³çš„æ—¥å¿—ä¿¡æ¯ï¼Œè¿™äº›ä¿¡æ¯åŒ…æ‹¬ï¼š(1)å…³äºŽæ‚¨çš„ä½¿ç”¨æ—¶é—´ä¸Žä½¿ç”¨é¢‘çŽ‡çš„ç»†èŠ‚ï¼›(2)è®¾å¤‡ç»Ÿè®¡ä¿¡æ¯ã€å…³é”®æ“ä½œè·¯å¾„ã€é”™è¯¯æ—¥å¿—ã€å´©æºƒè®°å½•ã€è¯­è¨€å’Œæ—¶åŒºç­‰ã€‚è¿™äº›æ—¥å¿—ä¿¡æ¯èƒ½å¤Ÿå¸®åŠ©æˆ‘ä»¬æ›´å¥½çš„äº†è§£å’Œæ”¹å–„æˆ‘ä»¬çš„æœåŠ¡ï¼Œå¹¶éžç”¨äºŽè¯†åˆ«ä»»ä½•ç‰¹å®šçš„ä¸ªäººã€‚
+å›¾ç‰‡ä¿¡æ¯
+å½“æ‚¨é€‰æ‹©ä½¿ç”¨æˆ‘ä»¬çš„æœåŠ¡ä¸­çš„äº‘ç¾ŽåŒ–åŠŸèƒ½æ—¶ï¼Œè¯·æ‚¨ç†è§£å¹¶ä¸”åŒæ„ï¼Œä¸ºå®žçŽ°å‘æ‚¨æä¾›è¯¥é¡¹æœåŠ¡å¹¶ä½œæŒç»­ä¼˜åŒ–ä¹‹ç›®çš„ï¼Œæˆ‘ä»¬é¡»å°†æ‚¨çš„å›¾ç‰‡ä¸Šä¼ è‡³æˆ‘ä»¬çš„æœåŠ¡å™¨è¿›è¡Œå¤„ç†å®Œæ¯•åŽå†å°†å¤„ç†åŽå›¾ç‰‡è¿”å›žç»™æ‚¨ï¼›åœ¨æ­¤è¿‡ç¨‹ä¸­ï¼Œæˆ‘ä»¬è¿˜å°†åŒæ­¥æ”¶åˆ°æ‚¨çš„å›¾ç‰‡çš„EXIFä¿¡æ¯ï¼ˆæ ¹æ®è®¾å¤‡åŽ‚å•†çš„ä¸åŒï¼ŒExifä¿¡æ¯å¯èƒ½åŒ…æ‹¬å›¾ç‰‡æ‹æ‘„ä¸Žå¤„ç†æ—¶çš„GPSã€è®¾å¤‡åž‹å·ã€æ„Ÿå…‰åº¦ï¼ˆISOï¼‰ã€å‰åŽç½®æ‘„åƒå¤´ä¸Žåˆ›å»ºæ—¶é—´ä¿¡æ¯ç­‰ï¼‰ï¼Œä»¥ä¾›è¿›ä¸€æ­¥ä¼˜åŒ–æˆ‘ä»¬çš„æœåŠ¡ã€‚
+å…ƒæ•°æ®
+å…ƒæ•°æ®é€šå¸¸æ˜¯ä¸Žç”¨æˆ·å†…å®¹ç›¸å…³è”çš„æŠ€æœ¯æ•°æ®ï¼Œç®€è€Œè¨€ä¹‹ï¼Œå®ƒæ˜¯æè¿°æ•°æ®çš„æ•°æ®ã€‚ä¾‹å¦‚ï¼Œå®ƒå¯ä»¥æè¿°å›¾ç‰‡ï¼ˆæˆ–åŒç±»æ–‡ä»¶ï¼‰ä¸­åŒ…å«çš„åœ°ç†ä½ç½®ä¿¡æ¯åŠæ–‡ä»¶åˆ›å»ºæ—¶é—´ï¼Œå›¾ç‰‡ä¸­åŒ…å«çš„ç²—ç•¥äººç‰©ç‰¹å¾å’Œå›¾ç‰‡ä¸­åŒ…å«çš„å†…å®¹ã€‚å½“æ‚¨åœ¨ä½¿ç”¨æˆ‘ä»¬çš„æœåŠ¡æ—¶ï¼Œæˆ‘ä»¬å°†åˆ©ç”¨ç…§ç‰‡å…ƒæ•°æ®ä¸ºæ‚¨æä¾›æ›´ç²¾å‡†çš„â€œäººè„¸æ£€æµ‹â€ï¼Œâ€œå…³é”®ç‚¹æ ‡è®°â€ï¼Œâ€œåŒºåŸŸåˆ†å‰²â€ï¼Œâ€œå†…å®¹æ ‡ç­¾â€ä»¥åŠç”±è¿™äº›åŸºç¡€åŠŸèƒ½ç»„åˆè€Œæˆçš„å…¶ä»–å®šåˆ¶åŠŸèƒ½ã€‚æ­£å¸¸æƒ…å†µä¸‹ï¼Œè¿™äº›å…ƒæ•°æ®æ— æ³•ç”¨äºŽè¯†åˆ«ä»»ä½•ç‰¹å®šçš„ä¸ªäººã€‚è¿™äº›å…ƒæ•°æ®æ˜¯ä¸ºäº†æ”¹è¿›æœåŠ¡ç›®çš„ï¼Œå¹¶éžç”¨äºŽè¯†åˆ«ä»»ä½•ç‰¹å®šçš„ä¸ªäººã€‚
+è®ºå›ä¿¡æ¯
+éƒ¨åˆ†æˆ‘ä»¬çš„ç½‘ç«™æˆ–è€…åº”ç”¨ç¨‹åºæä¾›é¢å‘å…¬ä¼—çš„ç¤¾åŒºè®ºå›ã€‚è¯·çŸ¥æ‚‰ï¼Œå¦‚æžœæ‚¨åœ¨è¿™äº›ç½‘ç«™æˆ–è€…åº”ç”¨ç¨‹åºä¸Šå…¬å¼€å‘å¸ƒäº†ä¿¡æ¯ï¼Œä»»ä½•å¯ç™»å½•åˆ°è¯¥ç½‘ç«™çš„ç”¨æˆ·éƒ½å°†å¯ä»¥é˜…è¯»åˆ°æ‚¨çš„ä¿¡æ¯ï¼Œæˆ–æ”¶é›†ã€ä½¿ç”¨ã€‚å¦‚æ‚¨è‡ªå·±æ— æ³•å°†æ‚¨çš„ä¸ªäººä¿¡æ¯ä»Žç¤¾åŒºè®ºå›ä¸­åˆ é™¤ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼šsupport@meitu.comæˆ–è€…legal@meitu.comã€‚æœ‰æ—¶ï¼Œæˆ‘ä»¬å¯èƒ½æ— æ³•åˆ é™¤æ‚¨çš„ä¸ªäººä¿¡æ¯ï¼Œåœ¨è¿™ç§æƒ…å†µä¸‹æˆ‘ä»¬ä¼šå°†è¿™ä¸€æƒ…å†µåŠå…¶åŽŸå› å‘ŠçŸ¥äºŽæ‚¨ã€‚
+Cookie
+åªåœ¨æ‚¨æµè§ˆæˆ‘ä»¬çš„ç½‘ç«™æ—¶ï¼Œç¾Žå›¾æˆ–ç¾Žå›¾å§”æ‰˜åˆä½œç¬¬ä¸‰æ–¹ä½¿ç”¨cookieã€æ ‡ç­¾å’Œè„šæœ¬ç­‰æŠ€æœ¯ï¼Œæ”¶é›†æ—¥å¿—æ–‡ä»¶å’Œæœ¬åœ°ç¼“å­˜ä¿¡æ¯ï¼Œç”¨äºŽåˆ†æžè¶‹åŠ¿ã€ç®¡ç†ç½‘ç«™ã€è¿½è¸ªç”¨æˆ·çš„ç½‘ç«™æ´»åŠ¨å¹¶æ”¶é›†å…³äºŽæ•´ä¸ªç”¨æˆ·ç¾¤çš„äººå£ç»Ÿè®¡ä¿¡æ¯ã€‚æ—¥å¿—æ–‡ä»¶ä¿¡æ¯å¯èƒ½åŒ…æ‹¬äº’è”ç½‘åè®® (IP) åœ°å€ã€æµè§ˆå™¨ç±»åž‹ã€äº’è”ç½‘æœåŠ¡ä¾›åº”å•† (ISP)ã€å¼•ç”¨/é€€å‡ºé¡µé¢ã€æ“ä½œç³»ç»Ÿã€æ—¥æœŸ/æ—¶é—´æˆ³å’Œç‚¹å‡»æµæ•°æ®ã€‚
+å¹¿å‘Šä¿¡æ¯
+æˆ‘ä»¬å¯èƒ½åœ¨æœåŠ¡ä¸­æ”¾æ˜ å¹¿å‘Šå¹¶ä¸”å¯èƒ½å‡ºäºŽè¿½è¸ªå¹¿å‘Šç›®çš„æ”¶é›†å¹¶ä½¿ç”¨æœ‰å…³æ‚¨çš„ä¿¡æ¯ï¼Œä¾‹å¦‚æ‚¨çš„è®¾å¤‡æ ‡è¯†ç¬¦ã€MACåœ°å€ã€IMEIã€åœ°ç†ä½ç½®åŠIPåœ°å€ã€‚è¿™äº›ä¿¡æ¯æ˜¯ä¸ºäº†ç”¨äºŽåˆ›å»ºå†…éƒ¨ç”¨æˆ·ç¼–å·ä»¥å¸®åŠ©æˆ‘ä»¬æ›´å¥½åœ°è®¡æ•°å’Œè¿½è¸ªåŸºäºŽè¯­è¨€ã€åœ°ç†ä½ç½®å’Œå…¶ä»–ç»†èŠ‚çš„å¹¿å‘Šã€‚æˆ‘ä»¬ä¸ä¼šå°†è¿™äº›ä¿¡æ¯å‡ºå”®ç»™ç¬¬ä¸‰æ–¹ã€‚
+ç¬¬ä¸‰æ–¹æœåŠ¡æ”¶é›†çš„ä¿¡æ¯
+æˆ‘ä»¬æä¾›çš„æœåŠ¡å¯èƒ½åŒ…æ‹¬å±žäºŽæˆ‘ä»¬çš„æœåŠ¡ä¾›åº”å•†çš„ç¬¬ä¸‰æ–¹è¿½è¸ªå·¥å…·ã€‚è¯¥ç¬¬ä¸‰æ–¹å¯èƒ½ä¼šåœ¨æˆ‘ä»¬æä¾›çš„æœåŠ¡ä¸­ä½¿ç”¨cookiesã€APIsï¼ˆåº”ç”¨ç¨‹åºç¼–ç¨‹æŽ¥å£ï¼‰åŠSDKsï¼ˆè½¯ä»¶ç¨‹åºå¼€å‘åŒ…ï¼‰ï¼Œç”±æ­¤ä»£è¡¨æˆ‘ä»¬æ”¶é›†å¹¶åˆ†æžç”¨æˆ·ä¿¡æ¯ã€‚ç¬¬ä¸‰æ–¹å¯èƒ½ä¼šè®¿é—®è¯¸å¦‚æ‚¨çš„è®¾å¤‡æ ‡è¯†ç¬¦ã€MACï¼ˆåª’ä½“è®¿é—®æŽ§åˆ¶ï¼‰åœ°å€ã€IMEIï¼ˆç§»åŠ¨è®¾å¤‡å›½é™…èº«ä»½ç ï¼‰ã€åŒºåŸŸï¼ˆä½¿ç”¨ç»™å®šè¯­è¨€çš„ç‰¹å®šåœ°ç‚¹ï¼‰ã€åœ°ç†ä½ç½®ä¿¡æ¯åŠIPåœ°å€ç­‰ä¿¡æ¯ï¼Œæ—¨åœ¨å®žçŽ°åœ¨å…¶å„è‡ªéšç§æ”¿ç­–ä¸‹æä¾›æœåŠ¡ã€‚æˆ‘ä»¬çš„éšç§æ”¿ç­–ä¸ä¼šè¦†ç›–åˆ°ç¬¬ä¸‰æ–¹è¿½è¸ªå·¥å…·çš„ä½¿ç”¨ã€‚æˆ‘ä»¬æ²¡æœ‰æƒé™è®¿é—®æˆ–æŽ§åˆ¶è¿™äº›ç¬¬ä¸‰æ–¹ã€‚å¦‚æžœæ‚¨æƒ³çŸ¥é“æ›´å¤šç›¸åº”ç¬¬ä¸‰æ–¹ä¿¡æ¯ï¼Œè¯·å‘é€ç”µå­é‚®ä»¶è‡³support@meitu.comæˆ–è€…legal@meitu.comã€‚
+ç”¨æˆ·ä½“éªŒè®¡åˆ’æ”¶é›†çš„ä¿¡æ¯
+æˆ‘ä»¬å¯èƒ½åœ¨æˆ‘ä»¬äº§å“ä¸­å‘å¸ƒç›¸åº”çš„ç”¨æˆ·ä½“éªŒè®¡åˆ’ï¼Œæ—¨åœ¨å¸®åŠ©æ”¹å–„äº§å“æŠ€æœ¯ä¸ŽæœåŠ¡ã€æå‡ç”¨æˆ·ä½“éªŒã€‚æ‚¨å¯é€‰æ‹©å‚ä¸Žå¹¶ä¸”éšæ—¶é€€å‡ºã€‚å½“æ‚¨åŒæ„å‚ä¸Žç›¸åº”äº§å“çš„ç”¨æˆ·ä½“éªŒè®¡åˆ’ä¹‹åŽç›´è‡³æ‚¨é€‰æ‹©é€€å‡ºè¯¥è®¡åˆ’ä¹‹å‰ï¼Œæˆ‘ä»¬å°†æ ¹æ®ç›¸åº”ç”¨æˆ·ä½“éªŒè®¡åˆ’æ”¶é›†æ‚¨çš„ä¿¡æ¯ã€‚è¿™äº›ä¿¡æ¯ä¸ºäº†å¸®åŠ©æˆ‘ä»¬æ›´å¥½çš„äº†è§£å’Œæ”¹å–„æˆ‘ä»¬çš„æŠ€æœ¯å’ŒæœåŠ¡ï¼Œå¹¶éžç”¨äºŽè¯†åˆ«ä»»ä½•ç‰¹å®šçš„ä¸ªäººã€‚
+å…¶ä»–ä¿¡æ¯
+æˆ‘ä»¬è¿˜å¯èƒ½æ”¶é›†å…¶ä»–å„ç±»ä¸Žä¸ªäººæ²¡æœ‰å…³è”çš„ä¿¡æ¯ã€‚ä¾‹å¦‚ï¼Œæ“ä½œç³»ç»Ÿç±»åž‹ä¸Žç‰ˆæœ¬å·ä»¥äº†è§£ç³»ç»Ÿå‡çº§æƒ…å†µã€ç³»ç»Ÿè¯­è¨€ä»¥ç”¨äºŽè¯­è¨€é€‚é…ã€åº”ç”¨åˆ—è¡¨ä»¥äº†è§£ç”¨æˆ·çš„å…´è¶£åå¥½ç­‰ã€‚æ”¶é›†æ­¤ç±»ä¿¡æ¯çš„ç›®çš„åœ¨äºŽæ”¹å–„æˆ‘ä»¬å‘æ‚¨æä¾›çš„æœåŠ¡ã€‚
+æˆ‘ä»¬å¦‚ä½•ä½¿ç”¨ä¿¡æ¯
+æ”¶é›†ç”¨æˆ·ä¿¡æ¯å’Œä¸ªäººä¿¡æ¯çš„ç›®çš„åœ¨äºŽå‘æ‚¨æä¾›æˆ‘ä»¬çš„äº§å“å’ŒæœåŠ¡ï¼Œå¹¶ä¸”ä¿è¯æˆ‘ä»¬éµå®ˆé€‚ç”¨æ³•å¾‹ã€‚åœ¨â€œæˆ‘ä»¬æ”¶é›†å“ªäº›ä¿¡æ¯â€ç« èŠ‚åŸºç¡€ä¸Šï¼Œæˆ‘ä»¬å°†æ‚¨çš„ç”¨æˆ·ä¿¡æ¯ä¸Žä¸ªäººä¿¡æ¯ç”¨äºŽä¸‹åˆ—ç›®çš„ï¼š
+(ä¸€)
+äº§å“æœåŠ¡ã€‚
+æä¾›ã€å¤„ç†ã€ç»´æŠ¤ã€æ”¹å–„ã€å¼€å‘æˆ‘ä»¬çš„ç½‘ç«™å’Œ/æˆ–æä¾›ç»™æ‚¨çš„æˆ‘ä»¬çš„æœåŠ¡ï¼ŒåŒ…æ‹¬å®¢æˆ·æ”¯æŒï¼Œä»¥åŠé€šè¿‡è®¾å¤‡æˆ–ç½‘ç«™æä¾›çš„å…¶ä»–æœåŠ¡ã€‚
+(äºŒ)
+ç»Ÿè®¡åˆ†æžã€‚
+åˆ†æžå’Œå¼€å‘ä¸Žæˆ‘ä»¬äº§å“åŠæˆ‘ä»¬çš„æœåŠ¡çš„ä½¿ç”¨ç›¸å…³çš„ç»Ÿè®¡ä¿¡æ¯ï¼Œä»¥æ›´å¥½åœ°æ”¹è¿›æˆ‘ä»¬çš„äº§å“å’ŒæœåŠ¡ã€‚
+(ä¸‰)
+åˆ›å»ºæ‚¨çš„ç¾Žå›¾è´¦å·ã€‚
+åœ¨é€šè¿‡æˆ‘ä»¬çš„ç½‘ç«™æˆ–æˆ‘ä»¬çš„æœåŠ¡åˆ›å»ºç¾Žå›¾è´¦å·æ—¶æ”¶é›†çš„ä¸ªäººä¿¡æ¯ç”¨äºŽå»ºç«‹ç”¨æˆ·çš„ä¸ªäººç¾Žå›¾è´¦æˆ·å’Œèµ„æ–™é¡µã€‚
+(å››)
+æ–¹ä¾¿æ‚¨ä½¿ç”¨è®ºå›ã€‚
+ä¸Žç¾Žæ‹ã€é—ªèŠæˆ–å…¶ä»–ç¾Žå›¾ç¤¾åŒºå¹³å°æœ‰å…³çš„ä¸ªäººä¿¡æ¯å¯èƒ½è¢«ç”¨äºŽä¸ªäººèµ„æ–™é¡µé¢å±•ç¤ºã€ä¸Žå…¶ä»–ç”¨æˆ·äº’åŠ¨ã€å‘å¸ƒä¿¡æ¯ã€‚
+(äº”)
+æä¾›åŸºäºŽä½ç½®çš„æœåŠ¡ã€‚
+åœ¨ä½¿ç”¨æˆ‘ä»¬çš„æœåŠ¡æ—¶ï¼Œæˆ‘ä»¬æˆ–ç¬¬ä¸‰æ–¹æœåŠ¡ä¾›åº”å•†å¯èƒ½ä¼šä½¿ç”¨ä½ç½®ä¿¡æ¯ä»¥ä¸ºæ‚¨æä¾›æ­£ç¡®ç‰ˆæœ¬çš„æœåŠ¡ï¼Œå¹¶ä¸”æä¾›å‡†ç¡®çš„ä½ç½®ï¼Œä»¥èŽ·å¾—å°½å¯èƒ½å¥½çš„ç”¨æˆ·ä½“éªŒã€‚
+(å…­)
+æ”¹å–„ç”¨æˆ·ä½“éªŒã€‚
+æŸäº›é€‰æ‹©æ€§åŠ å…¥åŠŸèƒ½ï¼Œä¾‹å¦‚ç”¨æˆ·ä½“éªŒè®¡åˆ’ï¼Œå…è®¸ç¾Žå›¾åˆ†æžç”¨æˆ·å¦‚ä½•ä½¿ç”¨æˆ‘ä»¬äº§å“å’ŒæœåŠ¡çš„æ•°æ®ï¼Œä»¥æ”¹å–„ç”¨æˆ·ä½“éªŒã€‚
+(ä¸ƒ)
+æä¾›æŽ¨é€æœåŠ¡ã€‚
+ç¾Žå›¾è´¦å·å’Œè®¾å¤‡ä¿¡æ¯å¯èƒ½ç”¨äºŽæä¾›ç¾Žå›¾æŽ¨é€æœåŠ¡ï¼Œä»¥è¯„ä¼°å¹¿å‘Šè¡¨çŽ°å’Œè½¯ä»¶æ›´æ–°æˆ–æ–°äº§å“å‘å¸ƒçš„é€šçŸ¥ã€‚æ‚¨å¯ä»¥éšæ—¶é€šè¿‡æ›´æ”¹â€œè®¾ç½®â€é¡¹ä¸‹çš„åå¥½é€‰é¡¹æ¥å…³é—­è¿™ä¸€åŠŸèƒ½ã€‚
+(å…«)
+éªŒè¯ç”¨æˆ·èº«ä»½ã€‚
+å¸å·ç™»å½•æ—¶çŸ­ä¿¡éªŒè¯ï¼Œç¡®ä¿æœªç»æŽˆæƒçš„äººå‘˜æ— æ³•ç™»å½•ï¼›è§†é¢‘ç›´æ’­åŠŸèƒ½éªŒè¯ç”¨æˆ·èº«ä»½ï¼Œä»¥ç¬¦åˆé€‚ç”¨æ³•å¾‹è¦æ±‚ã€‚
+(ä¹)
+æ”¶é›†ç”¨æˆ·åé¦ˆã€‚
+æ‚¨çš„åé¦ˆæ„è§å¯¹å¸®åŠ©ç¾Žå›¾æ”¹è¿›æœåŠ¡è€Œè¨€æžä¸ºçè´µã€‚ä¸ºäº†è·Ÿè¸ªæ‚¨çš„åé¦ˆï¼Œç¾Žå›¾å¯èƒ½ä¼šä½¿ç”¨æ‚¨æ‰€æä¾›çš„ä¸ªäººä¿¡æ¯ä¸Žæ‚¨è”ç³»ï¼Œå¹¶ä¿ç•™è®°å½•ã€‚
+(å)
+å…¶ä»–ã€‚
+å‚¨å­˜å¹¶ç»´æŠ¤ä¸Žæ‚¨ç›¸å…³çš„ä¿¡æ¯ï¼Œç”¨äºŽæˆ‘ä»¬è¿è¥ä¸šåŠ¡æˆ–å±¥è¡Œæ³•å¾‹ä¹‰åŠ¡ã€‚
+ä¿¡æ¯åˆ†äº«ä¸ŽæŠ«éœ²
+æˆ‘ä»¬ä¸ä¼šå°†ä»»ä½•ä¸ªäººä¿¡æ¯å‡ºå”®ç»™ç¬¬ä¸‰æ–¹ã€‚é™¤éžä¸‹åˆ—æƒ…å½¢å‘ç”Ÿæ—¶ï¼Œæˆ‘ä»¬æ— æƒå‘ç¬¬ä¸‰æ–¹å…±äº«å’Œ/æˆ–æŠ«éœ²æ‚¨çš„å…¨éƒ¨æˆ–éƒ¨åˆ†ä¸ªäººä¿¡æ¯ï¼š
+(ä¸€) ä¸ºä¿æŠ¤ä»–äººçš„äººèº«æˆ–è´¢äº§å®‰å…¨ï¼›
+(äºŒ) ä¸ºé˜²æ­¢æˆ–è§£å†³ç½‘ç»œæ¬ºè¯ˆï¼›
+(ä¸‰) ç»´æŠ¤ç¾Žå›¾å…¬å¸çš„åˆæ³•æƒåˆ©åŠæƒç›Šï¼›
+(å››) å®žçŽ°â€œæˆ‘ä»¬æ”¶é›†å“ªäº›ä¿¡æ¯â€éƒ¨åˆ†æ‰€è¿°ç›®çš„ï¼Œå‰ææ¡ä»¶ä¸ºè¯¥ç­‰æŠ«éœ²æŽ¥æ”¶æ–¹åº”åŒç­‰æŽ¥å—æœ¬æ”¿ç­–çº¦æŸå¹¶å¯ä»¥æä¾›ä¿¡æ¯å……åˆ†ä¿æŠ¤ï¼›
+(äº”) æ ¹æ®æ³•å¾‹ã€æ³•è§„çš„è§„å®šï¼Œæˆ–éµä»Žæ”¿åºœéƒ¨é—¨ã€å¸æ³•æœºå…³çš„è¦æ±‚ï¼›é€šå¸¸å‰è¿°è¦æ±‚éƒ½æ˜¯ä¸ºäº†ä¿æŠ¤ç½‘ç»œå®‰å…¨å’Œä¿æŠ¤æˆ‘ä»¬ã€æˆ‘ä»¬çš„ç”¨æˆ·å’Œç¬¬ä¸‰æ–¹çš„æƒåˆ©ã€è´¢äº§å’Œå®‰å…¨ã€‚
+ä¿¡æ¯å®‰å…¨ä¿éšœ
+æˆ‘ä»¬ä½¿ç”¨åˆç†æŽªæ–½ï¼Œä»¥é˜²ä¿¡æ¯çš„ä¸¢å¤±ã€ä¸å½“ä½¿ç”¨ã€æœªç»æŽˆæƒé˜…è§ˆæˆ–æŠ«éœ²ã€‚ä¾‹å¦‚ï¼Œåœ¨æŸäº›æœåŠ¡ä¸­ï¼Œæˆ‘ä»¬å°†åˆ©ç”¨åŠ å¯†æŠ€æœ¯ï¼ˆä¾‹å¦‚SSLï¼‰æ¥ä¿æŠ¤æ‚¨çš„ä¸ªäººä¿¡æ¯ã€‚ä½†è¯·æ‚¨ç†è§£ï¼ˆåœ¨äº’è”ç½‘è¡Œä¸šï¼‰å³ä¾¿ç«­å°½æ‰€èƒ½åŠ å¼ºå®‰å…¨æŽªæ–½ï¼Œä¹Ÿä¸å¯èƒ½å§‹ç»ˆä¿è¯ä¿¡æ¯ç™¾åˆ†ä¹‹ç™¾çš„å®‰å…¨ã€‚æ‚¨éœ€è¦äº†è§£ï¼Œæ‚¨æŽ¥å…¥æˆ‘ä»¬çš„æœåŠ¡æ‰€ç”¨çš„ç³»ç»Ÿå’Œé€šè®¯ç½‘ç»œï¼Œæœ‰å¯èƒ½å› æˆ‘ä»¬å¯æŽ§èŒƒå›´å¤–çš„å› ç´ è€Œå‡ºçŽ°é—®é¢˜ã€‚
+ä¿¡æ¯è®¿é—®ä¸ŽæŽ§åˆ¶
+æˆ‘ä»¬å°†é‡‡å–ä¸€åˆ‡åˆç†é€‚å½“çš„æŠ€æœ¯æ‰‹æ®µï¼Œä¿è¯æ‚¨å¯ä»¥è®¿é—®ã€æ›´æ–°å’Œæ›´æ­£è‡ªå·±çš„ä¸ªäººä¿¡æ¯æˆ–ä½¿ç”¨æˆ‘ä»¬çš„æœåŠ¡æ—¶æä¾›çš„å…¶ä»–ä¸ªäººä¿¡æ¯ã€‚åœ¨è®¿é—®ã€æ›´æ–°ã€æ›´æ­£å’Œåˆ é™¤å‰è¿°ä¸ªäººä¿¡æ¯æ—¶ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šè¦æ±‚æ‚¨è¿›è¡Œèº«ä»½éªŒè¯ï¼Œä»¥ä¿éšœæ‚¨çš„å¸å·å®‰å…¨ã€‚
+æ•°æ®ä¿ç•™ä¸Žåˆ é™¤
+å—é™äºŽæ³•å¾‹æ³•è§„è¦æ±‚ï¼Œæˆ‘ä»¬å°†æŒ‰ç…§â€œæˆ‘ä»¬å¦‚ä½•ä½¿ç”¨ä¿¡æ¯â€ç« èŠ‚æˆ–è€…ä¸ºæ‚¨æä¾›æœåŠ¡çš„æ—¶é—´èŒƒå›´å†…ä¿ç•™æ‚¨çš„ä¿¡æ¯ï¼ˆåŒ…æ‹¬ä¸ªäººä¿¡æ¯ï¼‰ã€‚å¦‚æžœæ‚¨å¸Œæœ›æ’¤é”€åŒæ„æ”¶é›†ã€ä½¿ç”¨æŠ«éœ²æˆ‘ä»¬æ”¶é›†çš„æ‚¨çš„ä¸ªäººä¿¡æ¯æˆ–è€…å¸Œæœ›æˆ‘ä»¬åˆ é™¤æ‚¨çš„ä¸ªäººä¿¡æ¯ï¼Œè¯·å‘é€ç”µå­é‚®ä»¶è‡³support@meitu.comæˆ–è€… legal@meitu.comï¼Œä¹Ÿå¯ä»¥æŒ‚å·ä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žå›¾å…¬å¸-æ³•åŠ¡éƒ¨ï¼Œåœ°å€ä¸ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1å·çŽ¯çƒè´¸æ˜“å¹¿åœº81æ¥¼8106Bå®¤ã€‚æˆ‘ä»¬å°†ä¼šåœ¨æ”¶åˆ°æ‚¨çš„ç”µå­é‚®ä»¶æˆ–è€…æŒ‚å·ä¿¡åŽçš„åˆç†æ—¶é—´å†…å¤„ç†æ‚¨çš„è¯·æ±‚ï¼Œå¹¶ä¸”ä¼šæ ¹æ®æ‚¨çš„è¯·æ±‚ï¼Œåœ¨æ­¤ä¹‹åŽä¸å†æ”¶é›†ã€ä½¿ç”¨ã€æŠ«éœ²æ‚¨çš„ä¸ªäººä¿¡æ¯ã€‚è¯·æ³¨æ„ï¼Œæ‚¨æ’¤é”€åŒæ„æˆ–è€…åˆ é™¤æ‚¨çš„ä¸ªäººä¿¡æ¯åŽï¼Œå¯èƒ½ä¼šå½±å“æ‚¨ä½¿ç”¨æŸäº›æˆ‘ä»¬çš„æœåŠ¡ã€‚
+å„¿ç«¥ä¿¡æ¯
+æˆ‘ä»¬ä¸ä¼šæœ‰æ„å‘13å‘¨å²ï¼ˆæˆ–è€…å…¶ä»–æ‚¨æ‰€åœ¨åœ°åŒºé€‚ç”¨æ³•å¾‹è§„å®šçš„å¹´é¾„ï¼‰ä»¥ä¸‹çš„äººç¾¤æ”¶é›†æˆ–è¯·æ±‚ä¸ªäººä¿¡æ¯ã€‚å¦‚æžœæ‚¨ä½ŽäºŽ13å‘¨å²ï¼Œè¯·ä¸è¦å‘æˆ‘ä»¬å‘é€æ‚¨çš„ä¸ªäººä¿¡æ¯ï¼ŒåŒ…æ‹¬æ‚¨çš„åå­—ã€åœ°å€ã€ç”µè¯å·ç æˆ–è€…é‚®ç®±åœ°å€ã€‚å¦‚æžœæ‚¨è®¤ä¸ºæˆ‘ä»¬å¯èƒ½æœ‰13å‘¨å²ä»¥ä¸‹å„¿ç«¥ä»»ä½•ä¿¡æ¯æ—¶ï¼Œè¯·å‘é€ç”µå­é‚®ä»¶è‡³support@meitu.comæˆ–è€… legal@meitu.comï¼Œä¹Ÿå¯ä»¥æŒ‚å·ä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žå›¾å…¬å¸-æ³•åŠ¡éƒ¨ï¼Œåœ°å€ä¸ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1å·çŽ¯çƒè´¸æ˜“å¹¿åœº81æ¥¼8106Bå®¤ã€‚
+æ‚¨åŒæ„è¿›è¡Œè·¨å¢ƒä¼ è¾“
+æ‚¨ç†è§£å¹¶åŒæ„: (i)æˆ‘ä»¬å¯å°†æ ¹æ®æœ¬æ”¿ç­–æ”¶é›†çš„ä¿¡æ¯ï¼ˆåŒ…æ‹¬ä¸ªäººä¿¡æ¯ï¼‰å­˜å‚¨äºŽä¸­å›½å¤§é™†æˆ–è€…å…¶ä»–å›½å®¶çš„æœåŠ¡å™¨ä¸Šï¼Œæ•´ä¸ªè¿‡ç¨‹éœ€è¦ä¿¡æ¯çš„è·¨å¢ƒä¼ è¾“ï¼›å’Œ(ii)æˆ‘ä»¬å¯èƒ½å°†æˆ‘ä»¬æ”¶é›†åˆ°çš„æ‚¨çš„ä¿¡æ¯ä¼ é€è‡³æˆ‘ä»¬å…³è”æŽ§åˆ¶å…¬å¸æˆ–è€…æ ¹æ®æœ¬æ”¿ç­–çš„è·¨å¢ƒç¬¬ä¸‰æ–¹æœåŠ¡ä¾›åº”å•†ã€‚è¯·æ³¨æ„ä¸Šè¿°å›½å®¶å’Œåœ°åŒºå¯èƒ½æ²¡æœ‰ä¸Žæ‚¨æ‰€åœ¨å›½å®¶æˆ–åœ°åŒºä¸€æ ·çš„æ•°æ®ä¿æŠ¤æ°´å¹³ï¼Œæ‚¨åŒæ„å°†ä¿¡æ¯ä¼ é€è‡³ä¸­å›½å¤§é™†å¹¶ä¸”æ ¹æ®æœ¬æ”¿ç­–ä½¿ç”¨å’ŒæŠ«éœ²å…³äºŽæ‚¨çš„ä¿¡æ¯ï¼ŒåŒ…æ‹¬ä¸ªäººä¿¡æ¯ã€‚å¦‚æžœæ‚¨ä¸åŒæ„æˆ–è€…æ‚¨æƒ³è¦äº†è§£æ›´å¤šä¿¡æ¯ï¼Œè¯·å‘é€ç”µå­é‚®ä»¶è‡³support@meitu.comæˆ–è€… legal@meitu.comï¼Œä¹Ÿå¯ä»¥æŒ‚å·ä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žå›¾å…¬å¸-æ³•åŠ¡éƒ¨ï¼Œåœ°å€ä¸ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1å·çŽ¯çƒè´¸æ˜“å¹¿åœº81æ¥¼8106Bå®¤ã€‚
+é€‚ç”¨æ³•å¾‹
+æœ¬æ”¿ç­–ï¼ŒåŒ…æ‹¬ä½†ä¸é™äºŽæœ¬æ”¿ç­–çš„è®¢ç«‹ã€æ•ˆåŠ›ã€è§£é‡Šã€å±¥è¡Œå’Œäº‰è®®è§£å†³ï¼Œå‡åº”é€‚ç”¨ä¸­åŽäººæ°‘å…±å’Œå›½æ³•å¾‹ï¼ˆä¸åŒ…æ‹¬é¦™æ¸¯ç‰¹åˆ«è¡Œæ”¿åŒºä¸Žæ¾³é—¨ç‰¹åˆ«è¡Œæ”¿åŒºæ³•å¾‹ï¼‰ã€‚æˆ‘ä»¬å¹¶æœªè¡¨ç¤ºæˆ–è€…ä¿è¯æœ¬æ”¿ç­–ç¬¦åˆä»»ä½•å¸æ³•ç®¡è¾–åŒºçš„éšç§æƒæ³•å¾‹ï¼Œå› æ­¤ï¼Œæ‚¨ä¸åº”å½“æŒ‰ç…§è¯¥ç­‰æ³•å¾‹æ¥è§£é‡Šæœ¬æ”¿ç­–ã€‚
+æœ¬æ”¿ç­–æ›´æ–°
+æ‚¨åŒæ„ï¼Œæˆ‘ä»¬æ ¹æ®æ³•å¾‹æ³•è§„æˆ–è€…ç¾Žå›¾å•†ä¸šå†³ç­–ç›¸åº”æ›´æ–°æœ¬æ”¿ç­–ï¼Œæ‚¨æ„¿æ„å—ä¿®è®¢åŽæ”¿ç­–çš„çº¦æŸã€‚å¦‚æžœæ¶‰åŠæœ¬æ”¿ç­–é‡å¤§å˜æ›´ï¼Œåœ¨å¿…è¦æ—¶æˆ‘ä»¬å°†ä»¥ç½‘ç«™å…¬å‘Šæˆ–è€…ä¿¡æ¯æŽ¨é€æ–¹å¼åšå‡ºã€‚
+å¦‚æžœæ‚¨æ˜¯åŠ åˆ©ç¦å°¼äºšå·žå±…æ°‘
+å¦‚æžœæ‚¨æ˜¯åŠ åˆ©ç¦å°¼äºšå·žå±…æ°‘ï¼Œæˆ‘ä»¬ä¸ºæ‚¨æä¾›æ¯å¹´å…è´¹ä¸€æ¬¡ç¬¬ä¸‰æ–¹æ¸…å•æœºä¼šï¼Œå¦‚æžœæˆ‘ä»¬åœ¨è¿‡åŽ»ä¸€å¹´ä¸­å‘è¯¥ç¬¬ä¸‰æ–¹æŠ«éœ²æˆ–è€…å…±äº«äº†æ‚¨çš„ä¸ªäººä¿¡æ¯åŠå…¶ç›®å½•ã€‚å¦‚æžœæ‚¨æ˜¯åŠ åˆ©ç¦å°¼äºšå·žå±…æ°‘å¹¶ä¸”å¸Œæœ›èŽ·å¾—å‰è¿°ç¬¬ä¸‰æ–¹æ¸…å•ï¼Œè¯·æ ‡æ˜Žä¸»é¢˜ä¸ºâ€œåŠ åˆ©ç¦å°¼äºšå±…æ°‘éšç§æƒâ€å¹¶å‘é€ç”µå­é‚®ä»¶è‡³support@meitu.comæˆ–è€…legal@meitu.comï¼Œæ‚¨ä¹Ÿå¯ä»¥æŒ‚å·ä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žå›¾å…¬å¸-æ³•åŠ¡éƒ¨ï¼Œåœ°å€ä¸ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1å·çŽ¯çƒè´¸æ˜“å¹¿åœº81æ¥¼8106Bå®¤ã€‚
+åŽ¦é—¨ç¾Žæ‹ç§‘æŠ€æœ‰é™å…¬å¸ä½œä¸ºç¾Žå›¾å…¬å¸æŽ§è‚¡å­å…¬å¸ï¼Œå…±åŒé€‚ç”¨æœ¬ã€Šéšç§æƒæ”¿ç­–ã€‹ã€‚
+éš±ç§æ”¿ç­–
+æ›´æ–°æ—¥æœŸï¼š2017å¹´10æœˆ13æ—¥
+æˆ‘å€‘éžå¸¸é‡è¦–æ‚¨çš„éš±ç§æ¬Šï¼
+ç¾Žåœ–å…¬å¸åŠå…¶é—œè¯æŽ§åˆ¶æ–¹ï¼ˆã€Œç¾Žåœ–ã€ã€ã€Œæˆ‘å€‘ã€æˆ–ã€Œæˆ‘å€‘çš„ã€ï¼‰è‡´åŠ›æ–¼ä¿è­·ä½¿ç”¨è€…ï¼ˆã€Œä½¿ç”¨è€…ã€æˆ–ã€Œæ‚¨ã€ï¼‰çš„éš±ç§æ¬Šã€‚æœ¬éš±ç§æ”¿ç­–ï¼ˆã€Œæœ¬æ”¿ç­–ã€ï¼‰æ—¨åœ¨å‘æ‚¨èªªæ˜Žï¼Œåœ¨æ‚¨ä½¿ç”¨æˆ‘å€‘çš„ç¶²ç«™å’Œæœå‹™æ™‚ï¼Œæˆ‘å€‘å¦‚ä½•æ”¶é›†ã€å„²å­˜ã€ä½¿ç”¨ã€ç®¡ç†å’Œä¿è­·æ‚¨çš„ä½¿ç”¨è€…è³‡è¨Šï¼ˆåŒ…æ‹¬å€‹äººè³‡è¨Šï¼‰ã€‚æ”¶é›†é€”å¾‘ä¸»è¦åŒ…æ‹¬ï¼šwww.meitu.comã€www.meipai.comå’Œwww.beautyplus.comï¼ˆã€Œæˆ‘å€‘çš„ç¶²ç«™ã€ï¼‰ï¼Œæˆ–å…¶ä»–è¡Œå‹•è£ç½®ä¸Šï¼ˆå¦‚ï¼šè˜‹æžœè£ç½®å’ŒAndroidè£ç½®ï¼‰æä¾›çš„ç¾Žåœ–æ‡‰ç”¨ç¨‹å¼ç”¢å“ï¼ˆã€Œæˆ‘å€‘çš„æœå‹™ã€ï¼‰ï¼Œä½†ç‰¹å®šç¾Žåœ–æ‡‰ç”¨ç¨‹å¼ç”¢å“æä¾›ç¨ç«‹çš„éš±ç§æ”¿ç­–çš„é™¤å¤–ã€‚
+è«‹æ³¨æ„ï¼Œæœ¬æ”¿ç­–ç¯„åœåƒ…é™æ–¼æ‚¨ä½¿ç”¨æˆ‘å€‘çš„ç¶²ç«™å’Œæœå‹™æ™‚ï¼Œå‘ç¾Žåœ–æäº¤æˆ–è€…ç”±ç¾Žåœ–æ”¶é›†çš„ä½¿ç”¨è€…è³‡è¨Šï¼ˆåŒ…æ‹¬å€‹äººè³‡è¨Šï¼‰ï¼›æœ¬æ”¿ç­–ä¸‹ã€Œå€‹äººè³‡è¨Šã€æŒ‡è³‡è¨Šæœ¬èº«æˆ–èˆ‡ç¾Žåœ–èƒ½å¤ å­˜å–çš„å€‹äººçš„å…¶ä»–è³‡è¨Šé—œè¯å¾Œï¼Œèƒ½å¤ è¾¨è­˜ç‰¹å®šå€‹äººçš„è³‡æ–™ï¼ŒåŒ…æ‹¬æ‚¨çš„å§“åã€åœ°å€ã€é›»è©±è™Ÿç¢¼å’Œé›»å­éƒµä»¶åœ°å€ã€‚
+ä½¿ç”¨æˆ‘å€‘çš„ç¶²ç«™å’Œæœå‹™ï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æœ¬æ”¿ç­–ï¼Œä¸¦åŒæ„æ ¹æ“šæœ¬æ”¿ç­–ä¸­è¦å®šçš„æ–¹å¼å°æ‚¨çš„ä½¿ç”¨è€…è³‡è¨Šï¼ˆåŒ…æ‹¬æ‚¨çš„å€‹äººè³‡è¨Šï¼‰é€²è¡Œæ”¶é›†ã€è™•ç†ã€æŠ«éœ²å’Œåˆ†äº«ã€‚å¦‚æžœæ‚¨ä¸åŒæ„æœ¬æ”¿ç­–åŠæœªä¾†ä¿®è¨‚ç‰ˆæœ¬çš„ä»»ä½•æ¢æ¬¾ï¼Œè«‹ä¸è¦ä½¿ç”¨æˆ‘å€‘çš„ç¶²ç«™å’Œæˆ‘å€‘çš„æœå‹™ã€‚
+å¦‚æ‚¨å°æœ¬æ”¿ç­–æˆ–ä»»ä½•éš±ç§æ¬Šç›¸é—œå•é¡Œæœ‰ä»»ä½•ç–‘å•ï¼Œè«‹é€éŽsupport@meitu.comæˆ–è€…legal@meitu.comèˆ‡æˆ‘å€‘è¯çµ¡ï¼Œæˆ–è€…ä»¥æŽ›è™Ÿä¿¡æ–¹å¼å°‡éƒµä»¶å¯„é€è‡³ï¼šç¾Žåœ–å…¬å¸-æ³•å‹™éƒ¨ï¼Œåœ°å€ç‚ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1è™Ÿç’°çƒè²¿æ˜“å»£å ´81æ¨“8106Bå®¤ã€‚
+æˆ‘å€‘æ”¶é›†å“ªäº›è³‡è¨Š
+ç‚ºäº†å‘æ‚¨æä¾›æˆ‘å€‘çš„ç¶²ç«™å’Œæœå‹™ï¼Œæˆ‘å€‘å°‡åœ¨æ³•å¾‹å…è¨±çš„ç¯„åœå…§å’Œåƒ…åœ¨æ‚¨ç€è¦½ç¶²ç«™ã€ä½¿ç”¨æŸäº›åŠŸèƒ½æˆ–è€…æœå‹™æ™‚ï¼Œæ ¹æ“šæœ¬æ”¿ç­–è¦å®šæ”¶é›†æ‚¨çš„å€‹äººè³‡è¨Šå’Œä½¿ç”¨è€…è³‡è¨Šã€‚å¦‚æžœæ‚¨ä¸æä¾›é€™äº›è³‡è¨Šï¼Œæˆ‘å€‘å¯èƒ½ç„¡æ³•å‘æ‚¨æä¾›æˆ‘å€‘çš„ç”¢å“æˆ–æœå‹™ã€‚
+æ‚¨æä¾›çµ¦æˆ‘å€‘çš„è³‡è¨Š
+åœ¨æ‚¨ä½¿ç”¨æˆ‘å€‘çš„ç¶²ç«™å’Œæˆ‘å€‘çš„æœå‹™æ™‚ï¼Œæˆ‘å€‘å¯èƒ½æœƒå»ºè­°æ‚¨è¨»å†Šä¸€å€‹ç¾Žåœ–å¸³è™Ÿï¼Œä»¥æ–¹ä¾¿æ‚¨å……åˆ†åˆ©ç”¨æˆ‘å€‘çš„ç¶²ç«™ã€æˆ‘å€‘çš„æœå‹™åŠå…¶å„ªå‹¢ã€‚ç•¶æ‚¨è¨»å†Šç¾Žåœ–å¸³è™Ÿæ™‚ï¼Œæˆ‘å€‘æœƒæ”¶é›†æ‚¨æ‰€æä¾›è³‡è¨Šä»¥è¾¨è­˜æ‚¨çš„èº«åˆ†ï¼Œå…¶ä¸­åŒ…æ‹¬æ‚¨çš„å¸³è™Ÿåç¨±ã€è¡Œå‹•é›»è©±è™Ÿç¢¼ç­‰è¨»å†Šç¾Žåœ–å¸³è™Ÿçš„å¿…éœ€è³‡è¨Šã€‚åœ¨æ‚¨åœ¨ç”³è«‹é–‹é€šç¾Žæ‹å½±ç‰‡ç›´æ’­åŠŸèƒ½æ™‚ï¼Œæˆ‘å€‘å°‡æ ¹æ“šæ³•å¾‹è¦å®šè¦æ±‚æ‚¨æä¾›æœ¬äººçœŸå¯¦æœ‰æ•ˆçš„èº«åˆ†è³‡è¨Šï¼ˆåŒ…æ‹¬ä½†ä¸é™æ–¼å§“åã€èº«åˆ†è­‰è™Ÿç¢¼å’Œæ‰‹æ©Ÿè™Ÿç¢¼ï¼‰ä»¥ä¾›å¯¦åèªè­‰ã€‚
+è£ç½®è³‡è¨Š
+ç•¶æ‚¨åœ¨è¡Œå‹•è£ç½®ä¸Šä½¿ç”¨æˆ‘å€‘çš„æœå‹™æ™‚ï¼Œæˆ‘å€‘æœƒæ”¶é›†èˆ‡æ‚¨è£ç½®ç›¸é—œçš„è³‡è¨Šï¼Œä¾‹å¦‚åœ‹éš›è¡Œå‹•é›»è©±è£ç½®è­˜åˆ¥ç¢¼ï¼ˆã€ŒIMEIã€ï¼‰ã€å»£å‘Šè­˜åˆ¥ç¢¼ï¼ˆã€ŒIDFAã€èˆ‡ã€ŒIDFVã€ï¼‰ã€ç©é«”é›»è·¯å¡è­˜åˆ¥ç¢¼ï¼ˆã€ŒICCIDã€ï¼‰å’Œåª’é«”å­˜å–æŽ§åˆ¶ï¼ˆã€ŒMACã€ï¼‰åœ°å€ã€è£ç½®åž‹è™Ÿèˆ‡è£ç½®è§£æžåº¦ï¼Œä»¥ä¾¿æˆ‘å€‘çµ±è¨ˆä½¿ç”¨æˆ‘å€‘ç”¢å“èˆ‡æœå‹™çš„è£ç½®æ•¸é‡ï¼Œä¸¦é€²è¡Œè£ç½®æ©Ÿåž‹è³‡æ–™åˆ†æžèˆ‡åœ–å½¢é©é…åˆ†æžã€‚
+ç¶²è·¯è³‡è¨Š
+ç•¶æ‚¨åœ¨é€£æŽ¥ç¶²éš›ç¶²è·¯ç‹€æ…‹ä¸‹ä½¿ç”¨æˆ‘å€‘çš„ç¶²ç«™æˆ–æˆ‘å€‘çš„æœå‹™æ™‚ï¼Œæˆ‘å€‘æœƒæ”¶é›†æ‚¨æ‰€ä½¿ç”¨çš„é›»ä¿¡å» å•†åç¨±èˆ‡ç¶²è·¯é¡žåž‹ï¼Œç›®çš„æ˜¯ç‚ºäº†çž­è§£ä½¿ç”¨è€…çš„é›»ä¿¡å» å•†å’Œç¶²è·¯åˆ†å¸ƒæƒ…æ³ã€‚æ­¤å¤–ï¼Œæˆ‘å€‘é‚„æ”¶é›†é€£æŽ¥çš„WIFIåç¨±èˆ‡WIFIé€£æŽ¥æ™‚é–“ï¼Œä»¥çž­è§£æ‚¨ä½¿ç”¨æœå‹™çš„ä½¿ç”¨è€…å ´æ™¯ã€‚
+ä½ç½®è³‡è¨Š
+æˆ‘å€‘æ”¶é›†æ‚¨çš„ä½ç½®è³‡è¨Šï¼Œå¦‚åœ‹å®¶ä»£ç¢¼ã€ç¶“ç·¯åº¦è³‡è¨Šã€ç¶²è·¯ä½ç½®ã€IPåœ°å€å’Œç³»çµ±è¨­å®šåœ‹å®¶åŠæ™‚å€è³‡è¨Šã€‚é€™äº›è³‡è¨Šæœ‰åŠ©æ–¼æˆ‘å€‘çž­è§£ä½¿ç”¨è€…åˆ†å¸ƒå’Œä½¿ç”¨è€…ä½¿ç”¨å ´æ™¯ï¼Œä»¥åˆ©æˆ‘å€‘æä¾›æ­£ç¢ºçš„æ‡‰ç”¨ç¨‹å¼ç‰ˆæœ¬åŠæ›´å„ªè³ªçš„æœå‹™ã€‚é™¤æœ¬æ”¿ç­–å¦æœ‰ç´„å®šå¤–ï¼Œæˆ‘å€‘ä¸æœƒèˆ‡ä»»ä½•ç¬¬ä¸‰æ–¹åˆ†äº«é€™äº›è³‡è¨Šã€‚å¦‚æžœæ‚¨å¸Œæœ›æˆ‘å€‘åœæ­¢è¿½è¹¤æˆ–ä½¿ç”¨å…·é«”ä½ç½®è³‡è¨Šï¼Œæ‚¨å¯ä»¥é¸æ“‡åœ¨è£ç½®ä¸Šé—œé–‰ç¶²è·¯ã€GPSåŠŸèƒ½ï¼Œæˆ–è€…åœç”¨æˆ‘å€‘å–å¾—æ‚¨ç¶²è·¯ã€GPSã€è£ç½®è³‡è¨Šçš„æ¬Šé™ã€‚
+è¨˜éŒ„è³‡è¨Š
+ç•¶æ‚¨ä½¿ç”¨æˆ‘å€‘çš„æŸäº›æœå‹™ï¼ŒåŒ…æ‹¬åƒèˆ‡ã€ç”¢ç”Ÿã€ç€è¦½èˆ‡æˆ‘å€‘çš„æœå‹™ç›¸é—œä¹‹å…§å®¹æ™‚ï¼Œæˆ‘å€‘å°‡è‡ªå‹•æ”¶é›†ç¾Žåœ–æ‡‰ç”¨ç¨‹å¼ç”¢å“å…§æŸäº›ç›¸é—œçš„è¨˜éŒ„è³‡è¨Šï¼Œé€™äº›è³‡è¨ŠåŒ…æ‹¬ï¼š(1) é—œæ–¼æ‚¨çš„ä½¿ç”¨æ™‚é–“èˆ‡ä½¿ç”¨é »çŽ‡çš„è©³ç´°è³‡æ–™ï¼›(2) è£ç½®çµ±è¨ˆè³‡è¨Šã€é—œéµæ“ä½œè·¯å¾‘ã€éŒ¯èª¤æ—¥èªŒã€ç•¶æ©Ÿç´€éŒ„ã€èªžè¨€å’Œæ™‚å€ç­‰ã€‚é€™äº›è¨˜éŒ„è³‡è¨Šèƒ½å¤ å¹«åŠ©æˆ‘å€‘å……åˆ†çž­è§£å’Œæ”¹å–„æœå‹™ï¼Œä¸¦éžç”¨æ–¼è¾¨è­˜ä»»ä½•ç‰¹å®šçš„å€‹äººã€‚
+åœ–ç‰‡è³‡è¨Š
+ç•¶æ‚¨é¸æ“‡ä½¿ç”¨æˆ‘å€‘æœå‹™ä¸­çš„é›²ç¾ŽåŒ–åŠŸèƒ½æ™‚ï¼Œè«‹æ‚¨ç†è§£ä¸¦åŒæ„ï¼Œç‚ºäº†å‘æ‚¨æä¾›è©²é …æœå‹™ä¸¦æŒçºŒæœ€ä½³åŒ–ï¼Œæˆ‘å€‘é ˆå°‡æ‚¨çš„åœ–ç‰‡ä¸Šå‚³è‡³æˆ‘å€‘çš„ä¼ºæœå™¨è™•ç†ï¼Œè™•ç†å®Œç•¢å¾Œå†å°‡åœ–ç‰‡å‚³å›žçµ¦æ‚¨ï¼›åœ¨æ­¤éŽç¨‹ä¸­ï¼Œæˆ‘å€‘é‚„å°‡åŒæ­¥æ”¶åˆ°æ‚¨åœ–ç‰‡çš„ EXIF è³‡è¨Šï¼ˆæ ¹æ“šè£ç½®å» å•†çš„ä¸åŒï¼ŒEXIF è³‡è¨Šå¯èƒ½åŒ…æ‹¬åœ–ç‰‡æ‹æ”èˆ‡è™•ç†æ™‚çš„ GPSã€è£ç½®åž‹è™Ÿã€æ„Ÿå…‰åº¦ï¼ˆISOï¼‰ã€å‰å¾Œç½®é¡é ­èˆ‡å»ºç«‹æ™‚é–“è³‡è¨Šç­‰ï¼‰ï¼Œä»¥ä¾¿é€²ä¸€æ­¥æœ€ä½³åŒ–æˆ‘å€‘çš„æœå‹™ã€‚
+è©®é‡‹è³‡æ–™
+è©®é‡‹è³‡æ–™é€šå¸¸æ˜¯èˆ‡ä½¿ç”¨è€…å…§å®¹ç›¸é—œè¯çš„æŠ€è¡“è³‡æ–™ã€‚ç°¡è¨€ä¹‹ï¼Œå®ƒæ˜¯æè¿°è³‡æ–™çš„è³‡æ–™ã€‚ä¾‹å¦‚ï¼Œå®ƒå¯ä»¥æè¿°åœ–ç‰‡ï¼ˆæˆ–åŒé¡žæ–‡ä»¶ï¼‰ä¸­åŒ…å«çš„åœ°ç†ä½ç½®è³‡è¨ŠåŠæª”æ¡ˆå»ºç«‹æ™‚é–“ï¼Œåœ–ç‰‡ä¸­åŒ…å«çš„ç²—ç•¥äººç‰©ç‰¹å¾µå’Œåœ–ç‰‡ä¸­åŒ…å«çš„å…§å®¹ã€‚ç•¶æ‚¨åœ¨ä½¿ç”¨æˆ‘å€‘çš„æœå‹™æ™‚ï¼Œæˆ‘å€‘å°‡åˆ©ç”¨ç…§ç‰‡è©®é‡‹è³‡æ–™ç‚ºæ‚¨æä¾›æ›´ç²¾æº–çš„ã€Œäººè‡‰è¾¨è­˜ã€ã€ã€Œé—œéµé»žæ¨™è¨˜ã€ã€ã€Œå€åŸŸåˆ†å‰²ã€ã€ã€Œå…§å®¹æ¨™ç±¤ã€ï¼Œä»¥åŠç”±é€™äº›åŸºç¤ŽåŠŸèƒ½çµ„åˆè€Œæˆçš„å…¶ä»–è‡ªè¨‚åŠŸèƒ½ã€‚æ­£å¸¸æƒ…æ³ä¸‹ï¼Œé€™äº›è©®é‡‹è³‡æ–™ç„¡æ³•ç”¨æ–¼è¾¨è­˜ä»»ä½•ç‰¹å®šçš„å€‹äººã€‚é€™äº›è©®é‡‹è³‡æ–™çš„ç›®çš„æ˜¯æ”¹é€²æœå‹™ï¼Œä¸¦éžç”¨æ–¼è¾¨è­˜ä»»ä½•ç‰¹å®šçš„å€‹äººã€‚
+è«–å£‡è³‡è¨Š
+æˆ‘å€‘çš„éƒ¨åˆ†ç¶²ç«™æˆ–è€…æ‡‰ç”¨ç¨‹å¼æä¾›é¢å‘å…¬çœ¾çš„ç¤¾ç¾¤è«–å£‡ã€‚è«‹çŸ¥æ‚‰ï¼Œå¦‚æžœæ‚¨åœ¨é€™äº›ç¶²ç«™æˆ–è€…æ‡‰ç”¨ç¨‹å¼ä¸Šå…¬é–‹ç™¼å¸ƒäº†è³‡è¨Šï¼Œå‰‡ä»»ä½•å¯ç™»å…¥åˆ°è©²ç¶²ç«™çš„ä½¿ç”¨è€…å°‡å¯ä»¥é–±è®€åˆ°æ‚¨çš„è³‡è¨Šï¼Œæˆ–åŠ ä»¥æ”¶é›†ã€ä½¿ç”¨ã€‚å¦‚æ‚¨è‡ªå·±ç„¡æ³•å°‡æ‚¨çš„å€‹äººè³‡è¨Šå¾žç¤¾ç¾¤è«–å£‡ä¸­åˆªé™¤ï¼Œè«‹è¯çµ¡æˆ‘å€‘ï¼šsupport@meitu.comæˆ–è€…legal@meitu.comã€‚æœ‰æ™‚å€™ï¼Œæˆ‘å€‘å¯èƒ½ç„¡æ³•åˆªé™¤æ‚¨çš„å€‹äººè³‡è¨Šï¼Œåœ¨é€™ç¨®æƒ…æ³ä¸‹æˆ‘å€‘æœƒå‘ŠçŸ¥æ‚¨æƒ…æ³åŠå…¶åŽŸå› ã€‚
+Cookie
+åªåœ¨æ‚¨ç€è¦½æˆ‘å€‘çš„ç¶²ç«™æ™‚ï¼Œç¾Žåœ–æˆ–ç¾Žåœ–å§”è¨—åˆä½œç¬¬ä¸‰æ–¹æœƒä½¿ç”¨cookieã€æ¨™ç±¤å’Œè…³æœ¬ç­‰æŠ€è¡“ï¼Œæ”¶é›†è¨˜éŒ„æª”æ¡ˆå’Œæœ¬æ©Ÿå¿«å–è³‡è¨Šï¼Œä»¥ç”¨æ–¼åˆ†æžè¶¨å‹¢ã€ç®¡ç†ç¶²ç«™ã€è¿½è¹¤ä½¿ç”¨è€…çš„ç¶²ç«™æ´»å‹•ï¼Œä¸¦æ”¶é›†é—œæ–¼æ•´å€‹ä½¿ç”¨è€…ç¾¤çš„äººå£çµ±è¨ˆè³‡è¨Šã€‚è¨˜éŒ„æª”æ¡ˆè³‡è¨Šå¯èƒ½åŒ…æ‹¬ç¶²éš›ç¶²è·¯å”è­° (IP) åœ°å€ã€ç€è¦½å™¨é¡žåž‹ã€ç¶²éš›ç¶²è·¯æœå‹™ä¾›æ‡‰å•† (ISP)ã€å¼•ç”¨/é€€å‡ºé é¢ã€ä½œæ¥­ç³»çµ±ã€æ—¥æœŸ/æ™‚é–“æ¨™è¨˜å’Œé»žæ“Šæµè³‡æ–™ã€‚
+å»£å‘Šè³‡è¨Š
+æˆ‘å€‘å¯èƒ½åœ¨æœå‹™ä¸­æ”¾æ˜ å»£å‘Šï¼Œä¸¦ä¸”å¯èƒ½å‡ºæ–¼è¿½è¹¤å»£å‘Šä¹‹ç›®çš„ä¾†æ”¶é›†ä¸¦ä½¿ç”¨æœ‰é—œæ‚¨çš„è³‡è¨Šï¼Œä¾‹å¦‚æ‚¨çš„è£ç½®è­˜åˆ¥ç¢¼ã€MACåœ°å€ã€IMEIã€åœ°ç†ä½ç½®åŠIPåœ°å€ã€‚é€™äº›è³‡è¨Šå°‡ç”¨æ–¼å»ºç«‹å…§éƒ¨ä½¿ç”¨è€…ç·¨è™Ÿï¼Œä»¥å¹«åŠ©æˆ‘å€‘æ›´å¥½åœ°è¨ˆæ•¸å’Œè¿½è¹¤åŸºæ–¼èªžè¨€ã€åœ°ç†ä½ç½®å’Œå…¶ä»–ç´°ç¯€çš„å»£å‘Šã€‚æˆ‘å€‘ä¸æœƒå°‡é€™äº›è³‡è¨Šå‡ºå”®çµ¦ç¬¬ä¸‰æ–¹ã€‚
+ç¬¬ä¸‰æ–¹æœå‹™æ”¶é›†çš„è³‡è¨Š
+æˆ‘å€‘æä¾›çš„æœå‹™å¯èƒ½åŒ…æ‹¬å±¬æ–¼æˆ‘å€‘çš„æœå‹™ä¾›æ‡‰å•†ä¹‹ç¬¬ä¸‰æ–¹è¿½è¹¤å·¥å…·ã€‚è©²ç¬¬ä¸‰æ–¹å¯èƒ½æœƒåœ¨æˆ‘å€‘æä¾›çš„æœå‹™ä¸­ä½¿ç”¨cookiesã€APIï¼ˆæ‡‰ç”¨ç¨‹å¼ä»‹é¢ï¼‰ä»¥åŠSDKï¼ˆè»Ÿé«”é–‹ç™¼å¥—ä»¶ï¼‰ï¼Œè—‰æ­¤ä»£è¡¨æˆ‘å€‘æ”¶é›†ä¸¦åˆ†æžä½¿ç”¨è€…è³‡è¨Šã€‚ç¬¬ä¸‰æ–¹å¯èƒ½æœƒå­˜å–æ‚¨çš„è£ç½®è­˜åˆ¥ç¢¼ã€MACï¼ˆåª’é«”å­˜å–æŽ§åˆ¶ï¼‰åœ°å€ã€IMEIï¼ˆåœ‹éš›è¡Œå‹•è¨­å‚™è­˜åˆ¥ç¢¼ï¼‰ã€å€åŸŸï¼ˆä½¿ç”¨æŒ‡å®šèªžè¨€çš„ç‰¹å®šåœ°é»žï¼‰ã€åœ°ç†ä½ç½®è³‡è¨ŠåŠIPåœ°å€ç­‰è³‡è¨Šï¼Œæ—¨åœ¨å¯¦ç¾åœ¨å…¶å„è‡ªéš±ç§æ”¿ç­–ä¸‹æä¾›æœå‹™ã€‚æˆ‘å€‘çš„éš±ç§æ”¿ç­–ä¸æœƒè¦†è“‹åˆ°ç¬¬ä¸‰æ–¹è¿½è¹¤å·¥å…·çš„ä½¿ç”¨ã€‚æˆ‘å€‘æ²’æœ‰æ¬Šé™å­˜å–æˆ–æŽ§åˆ¶é€™äº›ç¬¬ä¸‰æ–¹ã€‚è‹¥æƒ³çž­è§£æ›´å¤šç›¸æ‡‰ç¬¬ä¸‰æ–¹è³‡è¨Šï¼Œè«‹å‚³é€é›»å­éƒµä»¶è‡³support@meitu.comæˆ–è€…legal@meitu.comã€‚
+ä½¿ç”¨è€…é«”é©—è¨ˆç•«æ”¶é›†çš„è³‡è¨Š
+æˆ‘å€‘å¯èƒ½åœ¨ç”¢å“ä¸­ç™¼å¸ƒç›¸æ‡‰çš„ä½¿ç”¨è€…é«”é©—è¨ˆç•«ï¼Œæ—¨åœ¨å¹«åŠ©æ”¹å–„ç”¢å“æŠ€è¡“èˆ‡æœå‹™ã€æå‡ä½¿ç”¨è€…é«”é©—ã€‚æ‚¨å¯è‡ªè¡Œé¸æ“‡åƒèˆ‡ï¼Œä¸¦ä¸”éš¨æ™‚é€€å‡ºã€‚ç•¶æ‚¨åŒæ„åƒèˆ‡ç›¸æ‡‰ç”¢å“çš„ä½¿ç”¨è€…é«”é©—è¨ˆç•«ä¹‹å¾Œï¼Œæˆ‘å€‘å°‡æ ¹æ“šç›¸æ‡‰ä½¿ç”¨è€…é«”é©—è¨ˆç•«æ”¶é›†æ‚¨çš„è³‡è¨Šï¼Œç›´åˆ°æ‚¨é¸æ“‡é€€å‡ºè©²è¨ˆç•«ç‚ºæ­¢ã€‚é€™äº›è³‡è¨Šæ˜¯ç‚ºäº†å¹«åŠ©æˆ‘å€‘å……åˆ†çž­è§£å’Œæ”¹å–„æŠ€è¡“å’Œæœå‹™ï¼Œä¸¦éžç”¨æ–¼è¾¨è­˜ä»»ä½•ç‰¹å®šçš„å€‹äººã€‚
+å…¶ä»–è³‡è¨Š
+æˆ‘å€‘é‚„å¯èƒ½æ”¶é›†å…¶ä»–å„é¡žèˆ‡å€‹äººæ²’æœ‰é—œè¯çš„è³‡è¨Šï¼ˆä¾‹å¦‚ä½œæ¥­ç³»çµ±é¡žåž‹èˆ‡ç‰ˆæœ¬è™Ÿï¼‰ï¼Œä»¥çž­è§£ç³»çµ±å‡ç´šæƒ…æ³ã€ç³»çµ±èªžè¨€ä»¥ç”¨æ–¼æ­é…èªžè¨€ã€æ‡‰ç”¨ç¨‹å¼åˆ—è¡¨ä»¥çž­è§£ä½¿ç”¨è€…çš„èˆˆè¶£åå¥½ç­‰ã€‚æ”¶é›†æ­¤é¡žè³‡è¨Šçš„ç›®çš„åœ¨æ–¼æ”¹å–„æˆ‘å€‘æ‰€æä¾›çš„æœå‹™ã€‚
+æˆ‘å€‘å¦‚ä½•ä½¿ç”¨è³‡è¨Š
+æ”¶é›†ä½¿ç”¨è€…è³‡è¨Šå’Œå€‹äººè³‡è¨Šçš„ç›®çš„ï¼Œåœ¨æ–¼å‘æ‚¨æä¾›æˆ‘å€‘çš„ç”¢å“å’Œæœå‹™ï¼Œä¸¦ä¸”ä¿è­‰æˆ‘å€‘éµå®ˆé©ç”¨æ³•å¾‹ã€‚åœ¨ã€Œæˆ‘å€‘æ”¶é›†å“ªäº›è³‡è¨Šã€ç« ç¯€åŸºç¤Žä¸Šï¼Œæˆ‘å€‘å°‡æ‚¨çš„ä½¿ç”¨è€…è³‡è¨Šèˆ‡å€‹äººè³‡è¨Šç”¨æ–¼ä¸‹åˆ—ç›®çš„ï¼š
+(ä¸€)
+ç”¢å“æœå‹™ã€‚
+æä¾›ã€è™•ç†ã€ç¶­è­·ã€æ”¹å–„ã€é–‹ç™¼æˆ‘å€‘çš„ç¶²ç«™å’Œ/æˆ–æä¾›çµ¦æ‚¨çš„æœå‹™ï¼ŒåŒ…æ‹¬å®¢æˆ¶æ”¯æ´ï¼Œä»¥åŠé€éŽè£ç½®æˆ–ç¶²ç«™æä¾›çš„å…¶ä»–æœå‹™ã€‚
+(äºŒ)
+çµ±è¨ˆåˆ†æžã€‚
+åˆ†æžå’Œé–‹ç™¼èˆ‡æˆ‘å€‘æ‰€æŽ¨å‡ºç”¢å“åŠæœå‹™ä¹‹ä½¿ç”¨çš„ç›¸é—œçµ±è¨ˆè³‡è¨Šï¼Œä»¥å……åˆ†æ”¹é€²æˆ‘å€‘çš„ç”¢å“å’Œæœå‹™ã€‚
+(ä¸‰)
+å»ºç«‹æ‚¨çš„ç¾Žåœ–å¸³è™Ÿã€‚
+åœ¨é€éŽæˆ‘å€‘çš„ç¶²ç«™æˆ–æœå‹™å»ºç«‹ç¾Žåœ–å¸³è™Ÿæ™‚ï¼Œæ‰€æ”¶é›†çš„å€‹äººè³‡è¨Šç”¨æ–¼å»ºç«‹ä½¿ç”¨è€…çš„å€‹äººç¾Žåœ–å¸³è™Ÿå’Œè³‡æ–™é ã€‚
+(å››)
+æ–¹ä¾¿æ‚¨ä½¿ç”¨è«–å£‡ã€‚
+èˆ‡ç¾Žæ‹ã€é–ƒèŠæˆ–å…¶ä»–ç¾Žåœ–ç¤¾ç¾¤å¹³å°æœ‰é—œçš„å€‹äººè³‡è¨Šï¼Œå¯èƒ½ç”¨æ–¼å€‹äººè³‡æ–™é é¢å±•ç¤ºã€èˆ‡å…¶ä»–ä½¿ç”¨è€…äº’å‹•ã€ç™¼å¸ƒè³‡è¨Šã€‚
+(äº”)
+æä¾›åŸºæ–¼ä½ç½®çš„æœå‹™ã€‚
+åœ¨ä½¿ç”¨æˆ‘å€‘çš„æœå‹™æ™‚ï¼Œæˆ‘å€‘æˆ–ç¬¬ä¸‰æ–¹æœå‹™ä¾›æ‡‰å•†å¯èƒ½æœƒä½¿ç”¨ä½ç½®è³‡è¨Šï¼Œä»¥ç‚ºæ‚¨æä¾›æ­£ç¢ºç‰ˆæœ¬çš„æœå‹™ï¼Œä¸¦ä¸”æä¾›æº–ç¢ºçš„ä½ç½®ï¼Œä»¥ç›¡å¯èƒ½ç²å¾—æœ€ä½³çš„ä½¿ç”¨è€…é«”é©—ã€‚
+(å…­)
+æ”¹å–„ä½¿ç”¨è€…é«”é©—ã€‚
+ä½¿ç”¨è€…å¯è‡ªè¡Œé¸æ“‡åŠ å…¥éƒ¨åˆ†åŠŸèƒ½ï¼ˆä¾‹å¦‚ä½¿ç”¨è€…é«”é©—è¨ˆç•«ï¼‰ä»¥å…è¨±ç¾Žåœ–åˆ†æžä½¿ç”¨è€…å¦‚ä½•ä½¿ç”¨æˆ‘å€‘ç”¢å“å’Œæœå‹™çš„è³‡æ–™ï¼Œé€²è€Œæ”¹å–„ä½¿ç”¨è€…é«”é©—ã€‚
+(ä¸ƒ)
+æä¾›æŽ¨æ’­æœå‹™ã€‚
+ç¾Žåœ–å¸³è™Ÿå’Œè£ç½®è³‡è¨Šå¯èƒ½ç”¨æ–¼æä¾›ç¾Žåœ–æŽ¨æ’­æœå‹™ï¼Œä»¥è©•ä¼°å»£å‘Šè¡¨ç¾å’Œè»Ÿé«”æ›´æ–°æˆ–æ–°ç”¢å“ç™¼å¸ƒçš„é€šçŸ¥ã€‚æ‚¨å¯ä»¥éš¨æ™‚é€éŽæ›´æ”¹ã€Œè¨­å®šã€é …ä¸‹çš„åå¥½é¸é …ä¾†é—œé–‰æ­¤åŠŸèƒ½ã€‚
+(å…«)
+ï¼ˆé©—è­‰ä½¿ç”¨è€…èº«åˆ†ã€‚
+å¸³è™Ÿç™»å…¥æ™‚ä»¥ç°¡è¨Šé©—è­‰ï¼Œç¢ºä¿æœªç¶“æŽˆæ¬Šçš„äººå“¡ç„¡æ³•ç™»å…¥ï¼›å½±ç‰‡ç›´æ’­åŠŸèƒ½å°‡é©—è­‰ä½¿ç”¨è€…èº«åˆ†ï¼Œä»¥ç¬¦åˆé©ç”¨æ³•å¾‹è¦æ±‚ã€‚
+(ä¹)
+æ”¶é›†ä½¿ç”¨è€…æ„è¦‹å›žé¥‹ã€‚
+æ‚¨çš„æ„è¦‹å›žé¥‹å°æ–¼ç¾Žåœ–æ¥µç‚ºçè²´ï¼Œæœ‰åŠ©æˆ‘å€‘æ”¹é€²æœå‹™ã€‚ç‚ºäº†è¿½è¹¤æ‚¨çš„æ„è¦‹å›žé¥‹ï¼Œç¾Žåœ–å¯èƒ½æœƒä½¿ç”¨æ‚¨æ‰€æä¾›çš„å€‹äººè³‡è¨Šèˆ‡æ‚¨è¯çµ¡ï¼Œä¸¦ä¿ç•™ç´€éŒ„ã€‚
+(å)
+å…¶ä»–ã€‚
+å„²å­˜ä¸¦ç¶­è­·èˆ‡æ‚¨ç›¸é—œçš„è³‡è¨Šï¼Œç”¨æ–¼æˆ‘å€‘ç‡Ÿé‹æ¥­å‹™æˆ–å±¥è¡Œæ³•å¾‹ç¾©å‹™ã€‚
+è³‡è¨Šåˆ†äº«èˆ‡æŠ«éœ²
+æˆ‘å€‘ä¸æœƒå°‡ä»»ä½•å€‹äººè³‡è¨Šå‡ºå”®çµ¦ç¬¬ä¸‰æ–¹ã€‚é™¤éžä¸‹åˆ—æƒ…å½¢ç™¼ç”Ÿæ™‚ï¼Œå¦å‰‡æˆ‘å€‘ç„¡æ¬Šå‘ç¬¬ä¸‰æ–¹å…±äº«å’Œ/æˆ–æŠ«éœ²æ‚¨çš„å…¨éƒ¨æˆ–éƒ¨åˆ†å€‹äººè³‡è¨Šï¼š
+ï¼ˆä¸€ï¼‰ç‚ºä¿è­·ä»–äººçš„äººèº«æˆ–è²¡ç”¢å®‰å…¨ï¼›
+ï¼ˆäºŒï¼‰ç‚ºé˜²æ­¢æˆ–è§£æ±ºç¶²è·¯è©æ¬ºï¼›
+ï¼ˆä¸‰ï¼‰ç¶­è­·ç¾Žåœ–å…¬å¸çš„åˆæ³•æ¬Šåˆ©åŠæ¬Šç›Šï¼›
+ï¼ˆå››ï¼‰å¯¦ç¾ã€Œæˆ‘å€‘æ”¶é›†å“ªäº›è³‡è¨Šã€éƒ¨åˆ†æ‰€è¿°ç›®çš„ï¼Œå‰ææ¢ä»¶ç‚ºè©²ç­‰æŠ«éœ²æŽ¥æ”¶æ–¹æ‡‰åŒç­‰æŽ¥å—æœ¬æ”¿ç­–ç´„æŸï¼Œä¸¦å¯ä»¥æä¾›è³‡è¨Šå……åˆ†ä¿è­·ï¼›
+ï¼ˆäº”ï¼‰æ ¹æ“šæ³•å¾‹ã€æ³•è¦çš„è¦å®šï¼Œæˆ–éµå¾žæ”¿åºœéƒ¨é–€ã€å¸æ³•æ©Ÿé—œçš„è¦æ±‚ï¼›é€šå¸¸å‰è¿°è¦æ±‚éƒ½æ˜¯ç‚ºäº†ä¿è­·ç¶²è·¯å®‰å…¨å’Œä¿è­·æˆ‘å€‘ã€æˆ‘å€‘çš„ä½¿ç”¨è€…å’Œç¬¬ä¸‰æ–¹çš„æ¬Šåˆ©ã€è²¡ç”¢å’Œå®‰å…¨ã€‚
+è³‡è¨Šå®‰å…¨ä¿éšœ
+æˆ‘å€‘ä½¿ç”¨åˆç†æŽªæ–½ï¼Œä»¥é˜²ç™¼ç”Ÿè³‡è¨Šéºå¤±ã€é­ä¸ç•¶ä½¿ç”¨ã€æœªç¶“æŽˆæ¬Šé–±è¦½æˆ–æŠ«éœ²ç­‰ç‹€æ³ã€‚ä¾‹å¦‚ï¼Œåœ¨æŸäº›æœå‹™ä¸­ï¼Œæˆ‘å€‘å°‡åˆ©ç”¨åŠ å¯†æŠ€è¡“ï¼ˆä¾‹å¦‚SSLï¼‰ä¿è­·æ‚¨çš„å€‹äººè³‡è¨Šã€‚ä½†è«‹æ‚¨ç†è§£ï¼Œåœ¨ç¶²éš›ç¶²è·¯è¡Œæ¥­ä¸­ï¼Œå³ä¾¿ç«­ç›¡æ‰€èƒ½åŠ å¼·å®‰å…¨æŽªæ–½ï¼Œä¹Ÿä¸å¯èƒ½å§‹çµ‚ä¿è­‰è³‡è¨Šç™¾åˆ†ä¹‹ç™¾çš„å®‰å…¨ã€‚æ‚¨å¿…é ˆçž­è§£ï¼Œæ‚¨é€£æŽ¥æˆ‘å€‘çš„æœå‹™æ‰€ç”¨çš„ç³»çµ±å’Œé€šè¨Šç¶²è·¯ï¼Œæœ‰å¯èƒ½å› æˆ‘å€‘å¯æŽ§åˆ¶ç¯„åœå¤–çš„å› ç´ è€Œå‡ºç¾å•é¡Œã€‚
+è³‡è¨Šå­˜å–èˆ‡æŽ§åˆ¶
+æˆ‘å€‘å°‡æŽ¡å–ä¸€åˆ‡åˆç†é©ç•¶çš„æŠ€è¡“æ‰‹æ®µï¼Œä¿è­‰æ‚¨å¯ä»¥å­˜å–ã€æ›´æ–°å’Œæ›´æ­£è‡ªå·±çš„å€‹äººè³‡è¨Šï¼Œæˆ–ä½¿ç”¨æˆ‘å€‘çš„æœå‹™æ™‚æä¾›çš„å…¶ä»–å€‹äººè³‡è¨Šã€‚åœ¨å­˜å–ã€æ›´æ–°ã€æ›´æ­£å’Œåˆªé™¤å‰è¿°å€‹äººè³‡è¨Šæ™‚ï¼Œæˆ‘å€‘å¯èƒ½æœƒè¦æ±‚æ‚¨é€²è¡Œèº«åˆ†é©—è­‰ï¼Œä»¥ä¿éšœæ‚¨çš„å¸³è™Ÿå®‰å…¨ã€‚
+è³‡æ–™ä¿ç•™èˆ‡åˆªé™¤
+å—é™æ–¼æ³•å¾‹æ³•è¦è¦æ±‚ï¼Œæˆ‘å€‘å°‡æŒ‰ç…§ã€Œæˆ‘å€‘å¦‚ä½•ä½¿ç”¨è³‡è¨Šã€ç« ç¯€æˆ–è€…ç‚ºæ‚¨æä¾›æœå‹™çš„æ™‚é–“ç¯„åœå…§ä¿ç•™æ‚¨çš„è³‡è¨Šï¼ˆåŒ…æ‹¬å€‹äººè³‡è¨Šï¼‰ã€‚å¦‚æžœæ‚¨å¸Œæœ›å–æ¶ˆå°æ–¼æˆ‘å€‘æ”¶é›†æ‚¨çš„å€‹äººè³‡è¨Šä¹‹åŒæ„æ„é¡˜ï¼Œæˆ–è€…ä¸å†åŒæ„æˆ‘å€‘æŠ«éœ²ç”±æˆ‘å€‘æ‰€æ”¶é›†ä¹‹æ‚¨çš„å€‹äººè³‡è¨Šï¼Œæˆ–è€…å¸Œæœ›æˆ‘å€‘åˆªé™¤æ‚¨çš„å€‹äººè³‡è¨Šï¼Œè«‹å‚³é€é›»å­éƒµä»¶è‡³support@meitu.comæˆ–è€…legal@meitu.comï¼Œä¹Ÿå¯ä»¥æŽ›è™Ÿä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žåœ–å…¬å¸-æ³•å‹™éƒ¨ï¼Œåœ°å€ç‚ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1è™Ÿç’°çƒè²¿æ˜“å»£å ´81æ¨“8106Bå®¤ã€‚æˆ‘å€‘å°‡æœƒåœ¨æ”¶åˆ°æ‚¨çš„é›»å­éƒµä»¶æˆ–è€…æŽ›è™Ÿä¿¡å¾Œçš„åˆç†æ™‚é–“å…§è™•ç†æ‚¨çš„è¦æ±‚ï¼Œä¸¦ä¸”æœƒæ ¹æ“šæ‚¨çš„è¦æ±‚ï¼Œåœ¨æ­¤ä¹‹å¾Œä¸å†æ”¶é›†ã€ä½¿ç”¨æˆ–æŠ«éœ²æ‚¨çš„å€‹äººè³‡è¨Šã€‚è«‹æ³¨æ„ï¼Œæ‚¨å–æ¶ˆåŒæ„æˆ–è€…åˆªé™¤æ‚¨çš„å€‹äººè³‡è¨Šå¾Œï¼Œå¯èƒ½æœƒå½±éŸ¿æ‚¨ä½¿ç”¨æŸäº›æˆ‘å€‘çš„æœå‹™ã€‚
+å…’ç«¥è³‡è¨Š
+æˆ‘å€‘ç„¡æ„å‘13å‘¨æ­²ï¼ˆæˆ–è€…å…¶ä»–æ‚¨æ‰€åœ¨åœ°å€é©ç”¨æ³•å¾‹è¦å®šçš„å¹´é½¡ï¼‰ä»¥ä¸‹çš„äººç¾¤æ”¶é›†æˆ–è¦æ±‚å€‹äººè³‡è¨Šã€‚å¦‚æžœæ‚¨ä½Žæ–¼13å‘¨æ­²ï¼Œè«‹ä¸è¦å‘æˆ‘å€‘å‚³é€æ‚¨çš„å€‹äººè³‡è¨Šï¼ŒåŒ…æ‹¬æ‚¨çš„åå­—ã€åœ°å€ã€é›»è©±è™Ÿç¢¼æˆ–è€…é›»å­éƒµä»¶åœ°å€ã€‚å¦‚æžœæ‚¨èªç‚ºæˆ‘å€‘å¯èƒ½æœ‰13å‘¨æ­²ä»¥ä¸‹å…’ç«¥ä»»ä½•è³‡è¨Šæ™‚ï¼Œè«‹å‚³é€é›»å­éƒµä»¶è‡³support@meitu.comæˆ–è€…legal@meitu.comï¼Œä¹Ÿå¯ä»¥æŽ›è™Ÿä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žåœ–å…¬å¸-æ³•å‹™éƒ¨ï¼Œåœ°å€ç‚ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1è™Ÿç’°çƒè²¿æ˜“å»£å ´81æ¨“8106Bå®¤ã€‚
+æ‚¨åŒæ„é€²è¡Œè·¨å¢ƒå‚³è¼¸
+æ‚¨ç†è§£ä¸¦åŒæ„ï¼š(i) æˆ‘å€‘å¯å°‡æ ¹æ“šæœ¬æ”¿ç­–æ”¶é›†çš„è³‡è¨Šï¼ˆåŒ…æ‹¬å€‹äººè³‡è¨Šï¼‰å„²å­˜æ–¼ä¸­åœ‹å¤§é™¸æˆ–è€…å…¶ä»–åœ‹å®¶çš„ä¼ºæœå™¨ä¸Šï¼Œæ•´å€‹éŽç¨‹éœ€è¦è³‡è¨Šçš„è·¨å¢ƒå‚³è¼¸ï¼›å’Œ (ii) æˆ‘å€‘å¯èƒ½å°‡æˆ‘å€‘æ”¶é›†åˆ°ä¹‹æ‚¨çš„è³‡è¨Šï¼Œå‚³é€è‡³æˆ‘å€‘é—œè¯æŽ§åˆ¶å…¬å¸ï¼Œæˆ–è€…æ ¹æ“šæœ¬æ”¿ç­–çš„è·¨å¢ƒç¬¬ä¸‰æ–¹æœå‹™ä¾›æ‡‰å•†ã€‚è«‹æ³¨æ„ï¼Œä¸Šè¿°åœ‹å®¶å’Œåœ°å€å¯èƒ½æ²’æœ‰èˆ‡æ‚¨æ‰€åœ¨åœ‹å®¶æˆ–åœ°å€ä¸€æ¨£çš„è³‡æ–™ä¿è­·æ°´æº–ï¼Œæ‚¨åœ¨æ­¤åŒæ„å°‡è³‡è¨Šå‚³é€è‡³ä¸­åœ‹å¤§é™¸ï¼Œä¸¦ä¸”æ ¹æ“šæœ¬æ”¿ç­–ä½¿ç”¨å’ŒæŠ«éœ²é—œæ–¼æ‚¨çš„è³‡è¨Šï¼ŒåŒ…æ‹¬å€‹äººè³‡è¨Šã€‚å¦‚æžœæ‚¨ä¸åŒæ„æˆ–è€…æ‚¨æƒ³è¦çž­è§£æ›´å¤šè³‡è¨Šï¼Œè«‹å‚³é€é›»å­éƒµä»¶è‡³support@meitu.comæˆ–è€…legal@meitu.comï¼Œä¹Ÿå¯ä»¥æŽ›è™Ÿä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žåœ–å…¬å¸-æ³•å‹™éƒ¨ï¼Œåœ°å€ç‚ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1è™Ÿç’°çƒè²¿æ˜“å»£å ´81æ¨“8106Bå®¤ã€‚
+é©ç”¨æ³•å¾‹
+æœ¬æ”¿ç­–ï¼ŒåŒ…æ‹¬ä½†ä¸é™æ–¼æœ¬æ”¿ç­–çš„è¨‚ç«‹ã€æ•ˆåŠ›ã€è§£é‡‹ã€å±¥è¡Œå’Œçˆ­è­°è§£æ±ºï¼Œå‡æ‡‰é©ç”¨ä¸­è¯äººæ°‘å…±å’Œåœ‹æ³•å¾‹ï¼ˆä¸åŒ…æ‹¬é¦™æ¸¯ç‰¹åˆ¥è¡Œæ”¿å€èˆ‡æ¾³é–€ç‰¹åˆ¥è¡Œæ”¿å€æ³•å¾‹ï¼‰ã€‚æˆ‘å€‘ä¸¦æœªè¡¨ç¤ºæˆ–è€…ä¿è­‰æœ¬æ”¿ç­–ç¬¦åˆä»»ä½•å¸æ³•ç®¡è½„å€çš„éš±ç§æ¬Šæ³•å¾‹ï¼Œå› æ­¤ï¼Œæ‚¨ä¸æ‡‰ç•¶æŒ‰ç…§è©²ç­‰æ³•å¾‹ä¾†è§£é‡‹æœ¬æ”¿ç­–ã€‚
+æœ¬æ”¿ç­–æ›´æ–°
+æ‚¨åŒæ„ï¼Œæˆ‘å€‘æ ¹æ“šæ³•å¾‹æ³•è¦æˆ–è€…ç¾Žåœ–å•†æ¥­æ±ºç­–ç›¸æ‡‰æ›´æ–°æœ¬æ”¿ç­–ï¼Œæ‚¨é¡˜æ„å—ä¿®è¨‚å¾Œæ”¿ç­–çš„ç´„æŸã€‚å¦‚æžœæ¶‰åŠæœ¬æ”¿ç­–é‡å¤§è®Šæ›´ï¼Œåœ¨å¿…è¦æ™‚æˆ‘å€‘å°‡ä»¥ç¶²ç«™å…¬å‘Šæˆ–è€…è¨Šæ¯æŽ¨æ’­æ–¹å¼åšå‡ºã€‚
+å¦‚æžœæ‚¨æ˜¯åŠ åˆ©ç¦å°¼äºžå·žå±…æ°‘
+å¦‚æžœæ‚¨æ˜¯åŠ åˆ©ç¦å°¼äºžå·žå±…æ°‘ï¼Œä¸”æˆ‘å€‘åœ¨éŽåŽ»ä¸€å¹´ä¸­å‘è©²ç¬¬ä¸‰æ–¹æŠ«éœ²æˆ–è€…å…±äº«äº†æ‚¨çš„å€‹äººè³‡è¨ŠåŠå…¶ç›®éŒ„ï¼Œæˆ‘å€‘å°‡ç‚ºæ‚¨æä¾›æ¯å¹´å…è²»ä¸€æ¬¡çš„ç¬¬ä¸‰æ–¹æ¸…å–®æ©Ÿæœƒã€‚å¦‚æžœæ‚¨æ˜¯åŠ åˆ©ç¦å°¼äºžå·žå±…æ°‘ä¸¦ä¸”å¸Œæœ›ç²å¾—å‰è¿°ç¬¬ä¸‰æ–¹æ¸…å–®ï¼Œè«‹æ¨™æ˜Žä¸»æ—¨ç‚ºã€ŒåŠ åˆ©ç¦å°¼äºžå±…æ°‘éš±ç§æ¬Šã€çš„é›»å­éƒµä»¶ï¼Œå‚³é€è‡³support@meitu.comæˆ–è€…legal@meitu.comï¼Œæ‚¨ä¹Ÿå¯ä»¥æŽ›è™Ÿä¿¡æ–¹å¼å¯„é€è‡³ï¼šç¾Žåœ–å…¬å¸-æ³•å‹™éƒ¨ï¼Œåœ°å€ç‚ºé¦™æ¸¯æŸ¯å£«ç”¸é“è¥¿1è™Ÿç’°çƒè²¿æ˜“å»£å ´81æ¨“8106Bå®¤ã€‚

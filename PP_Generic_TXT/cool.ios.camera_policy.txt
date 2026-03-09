@@ -1,0 +1,92 @@
+Privacy Policy
+Privacy Policy
+Last Updated: June 13, 2022
+Your privacy is important to us and we are committed to protecting your privacy. So
+                we've developed a Privacy Policy. Please take a moment to familiarize yourself with
+                our privacy practices.
+INFORMATION WE COLLECTED
+We collect information about the product and services that you use and how you use
+                them in order to properly provide the core or important features of the product
+                and services, or to improve our product or services, or to provide additional
+                features to our product (such as value-added services and promotions, etc.). Some of
+                the reasons that we collect Personal Information include:
+Â· Provide our product and services, including our app and related website (if any),
+                and improve them over time;
+Â· Allow you to download and purchase products and services;
+Â· Personalize and manage our relationship with you, including introducing you to
+                products or services that may be of interest to you or to provide customer
+                support;
+Â· Investigate, respond to, and manage inquiries or events;
+Â· Work with and respond to law enforcement and regulators;
+Â· Research matters relating to our prod and business, such as security threats and
+                vulnerabilities, or conducting internal audit, data analysis, and research. If you
+                do not provide some of the information mentioned below, you may not be able to
+                continue using the product and/or services that we provide, and if you do not agree
+                that the information to be collected after your installation or use of the product,
+                you may stop using or uninstall our product and/or services, or contact with us for
+                advice; for the other types of information, your refusal to provide or opt-out
+                option may cause you unable to access certain specific features or get the best
+                experience.
+1)Device information
+We collect device-specific information (such as your hardware model, Android version,
+                device manufacturer details and model name, GAID, and mobile network state ).
+                Different device identifiers vary in how permanent they are, whether they can be
+                reset by users, and how they can be accessed. A given device may have several
+                different unique device identifiers. Unique device identifiers can be used for
+                various purposes, including security and fraud detection, syncing services such as a
+                user's email inbox, remembering the user's preferences and providing relevant
+                advertising.)
+2)Log information
+When you use our services or view the content provided by us, we automatically
+                collect and store certain information in server logs. This includes:
+Â· Details of how you used our service, such as your search queries.
+Â· Device event information such as crashes, system activity and hardware
+                settings.
+Â· Our collection of aforesaid information is for analyzing our product functions and
+                improving our product's user experience.
+3)Permissions on you device
+Â· 1)In providing our product's functions and services, we may need you to allow
+                certain "permissions" on your device, which will enable to information collection
+                and usage relevant to those functions. The permission we needed include the internal
+                storage and sd card permissions in order to classify and manage files on your
+                device.
+Â· 2)You can check if such permissions are allowed or not for our product and service,
+                which can be done by checking "Settings-Apps-Productr-Permissions" on your device,
+                and thereby decide whether each permission will continue to be allowed or will be
+                denied. The specific way to review the status of such permissions and deny them may
+                vary in different devices.
+Â· 3)Please note that allowing these permissions will be deemed as your consent to
+                allow us collect and use relevant information to realize relevant functions; when
+                you deny or disable the permissions in whole or in part, it means you have refused
+                to provide related information to us, therefore also making us unable to provide you
+                those functions relevant to such permissions. Your decision to deny a certain
+                permission on your device does not affect our handling of your relevant information
+                which has been based on your prior consent to allow such permission.
+THIRD PARTY SERVICE AND SDK WE USED:
+We use analytics service providers Umeng Analytics to better understand how people 
+            	use our services so that we can improve the design and usability of our products, we 
+            	do not engage in "tracking" users outside of our services. These providers collect 
+            	IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to 
+            	provide statistics service, it use location to adjust data report, its privacy policy 
+            	can be find in https://www.umeng.com/page/policy
+To show you relevant advertising, we work with advertising networks such as Google 
+            	Admob and Facebook Audience Network. These providers may collect information on our 
+            	behalf using cookies, advertising identifiers and similar technologies. This 
+            	information may be used, in the future, to show you content that is more likely to 
+            	be relevant, or that you're likely to engage with. You may find their related privacy 
+            	policy in their official website, Google Admob privacy policy 
+            	https://policies.google.com/privacy, Facebook Audience Network privacy policy 
+            	https://www.facebook.com/policies_center/
+PROTECTION OF PERSONAL INFORMATION
+We take precautions - including administrative, technical, and physical measures -to
+                safeguard your personal information against loss, theft, and misuse, as well as
+                against unauthorized access, disclosure, alteration, and destruction. When you use
+                some products, services, or post your comments, the personal information you share
+                is visible to other users and can be read, collected, or used by them. You are
+                responsible for the personal information you choose to submit in these instances.
+                Please take care when using these features. To make sure your personal information
+                is secure; we communicate our privacy and security guidelines to all employees and
+                strictly enforce privacy safeguards within the company.
+PRIVACY QUESTIONS
+If you have any questions or concerns about our Privacy Policy or data processing,
+                please contact us through developer email. We may update Privacy Policy from time to time.

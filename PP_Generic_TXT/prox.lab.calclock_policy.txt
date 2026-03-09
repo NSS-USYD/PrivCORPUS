@@ -1,0 +1,28 @@
+Sectograph privacy policy
+SECTOGRAPH
+Planner
+This privacy policy sets how we use the information in the Sectograph application.
+Collection and use of information
+We do not collect personal information about users of the application.
+					Personal data (email identifier, user calendar events and any other data) is used exclusively in the application to ensure its stated functionality.
+					We will not disclose any personal information about users to any outside party.
+Application Permissions
+Calendar.
+We request this permission only to read the user's calendars data (Google calendar and system device calendars). This permission is used to provide the declared functionality of the application. The calendar data is used by the application exclusively on the device (on which the application is installed) and is not sent to any outside party.
+Memory.
+We request this permission solely for receiving a background image of the screen of your device. This image is used in the Color Palette module to better adjust the color gamut of the application widget. Permission is optional.
+Internet access.
+We request this permission solely to provide access to official external services (Google, Microsoft Outlook) to retrieve the user's calendars.
+Microsoft Outlook
+Sectograph, allows the user to access his personal and work Outlook calendar events by connecting to a Microsoft account.
+					The connection is made on the client side (user device) through the Microsoft secure login form, through a secure network connection using SSL technology.
+					After successful authorization through the Microsoft authorization form, the Sectograph receives a unique token for subsequent interaction with the external calendar service Microsoft Outlook.
+					Connecting to the Microsoft Outlook service is terminated after the connection is deleted in the settings of synchronization with Microsoft Outlook in the Sectograph application. Or after removing the application from the device.
+					The transfer and storage of data on the side of Microsoft, is carried out in accordance with the
+privacy policy of Microsoft
+.
+					Data use on the client side (user device) is carried out in accordance with the current privacy policy.
+Changes to Policy
+We may change this privacy policy from time to time by updating this posting. Please check the privacy policy page periodically for changes. Your continued use of application following the posting of changes constitutes your acceptance of those changes.
+You can contact us by email 27applab@gmail.com
+Last edited April 11, 2019

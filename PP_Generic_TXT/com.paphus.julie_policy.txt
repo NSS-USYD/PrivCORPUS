@@ -1,0 +1,136 @@
+Privacy - Virtual Dream Chat
+More
+Upgrade
+Sign In
+Sign Up
+Search Website
+Choose Language
+Apps
+Chat Bot Wars
+Docs
+Help
+Virtual Dream Chat
+Virtual Dream Chat
+Bot Libre
+-----------
+Create new workspace
+Language
+Help
+Search
+Sign Up
+Sign In
+Upgrade
+Bots
+Avatars
+Scripts
+Live Chat
+Forums
+Graphics
+Workspaces
+Privacy Policy
+Last modified: October 14th, 2021
+Our Privacy Policy explains:
+What information we collect
+Why this information is collected
+Who has access to the information that is collected
+How to request your data be deleted
+How we use cookies on our website
+Your privacy matters to Virtual Dream Chat, please exercise caution in what information you share.  If you have any questions on what information we collect please contact
+us
+.
+Virtual Dream Chat, refers to the Virtual Dream Chat website, which is owned and administered by Paphus Solutions Inc., a Canadian corporation.
+Virtual Dream Chat collects information in two ways, through user creation, and through bot and content creation and interaction.
+User Information
+The following user information is collected through user account creation and usage:
+User id - This is your unique Virtual Dream Chat account id.  Your id will be visible to other users and the bots that your interact with, and the administrators of those bots. If you wish to keep your identity private, do not use your real name for your user id.
+Name - This is your real name.  It is stored in the admin database and used for account administration, you can choose if you want your name displayed on your public user profile.
+Email - This is your email address.  It is stored in the admin database and used for account administration, and may be used for notifications from Virtual Dream Chat.  It can be used as an alternative to your user id to sign in to your account, or may be used to retrieve your password hint, or reset your password.
+Password - This is your account password.  The password will be used for sign in validation.  The password will not be stored with your account, only used as an encryption key to validate your sign in credentials.
+Password hint - Your password hint can be used by you as a reminder of your password. Avoid using your password as the hint, or something that would be an obvious hint to your pasword to anyone other than yourself.  The hint may be emailed to your registered email address on request.  The password hint is stored in the admin database along with your user information.
+Bot Interaction
+The following information may be collected through your interaction with a bot:
+Every interaction you have with a bot is recorded in the bot's memory, with your user id. The bot's administrator can view their bot's conversation logs, and anything in the bot's memory.  Never share personal or private information with a bot.
+Some bots may have learning enabled. This means they will learn your responses and repeat them in other conversations with other users.  Never share personal or private information with a bot.
+A private bot instance will only be accessible to the bot creator, and the users they share the bot with.  The website administrators may monitor all bots to ensure they comply with the website terms of service.
+All information collected by this website is stored in a database.  Although access to the database is restricted, the security of any of the data can never be completely guaranteed.
+You are responsible for the privacy of any information your bot collects on your website, apps, and social media.
+Forums
+Anything you post to the forums will be visible to the general public, unless the forum is a private forum.  Do not post confidential or private information to a forum.
+			The website administrators may monitor all forums to ensure they comply with the website terms of service.
+Live Chat
+Anything you post to a live chat channel will be visible to the channel participants.  All chat channels are recorded and the logs may be reviewed by the channel administrator. 
+			Do not post confidential or private information to a live chat channel. 
+			The website administrators may monitor all channels to ensure they comply with the website terms of service.
+Bot, Chat, and Content Hosting
+We provide a hosting service for bots, chat, and other services.
+			You are responsible for the privacy of any information your bot, chat, or hosted content collects.
+			Your content must conform with our terms of service, and you should inform your users of privacy issues in your own privacy policy.
+Data Deletion
+Your can delete your data, content and user profile from your user page.
+			To request your data and user profile be deleted by us please email
+[email protected]
+and include your user id.
+Minors
+You must be at least 13 years old to use this service.
+Cookies
+We use cookies to enable basic website functionality.
+We use a temporary HTTP 'session' cookie to keep server-side state on your current connection.
+We use user/token cookie which you can opt-in to to remember your login in your web browser.
+We may use internal and third party analytics tools, including Google Analytics. 
+			The third party analytics companies we work with may combine the information collected with other information they have independently collected from other websites and/or other online products and services. 
+			Their collection and use of information is subject to their own privacy policies.
+Contact Us
+If you have any questions about our practices or this Privacy Policy, please contact us at
+[email protected]
+, 
+			 or send mail to:
+Paphus Solutions Inc.
+15 Fitzgerald Rd, Suite 200
+Ottawa, Ontario, Canada, K2H 9G1
+Browse
+Sign In
+Sign Up
+Browse
+Search
+Create
+Bots
+Avatars
+Scripts
+Forums
+Live Chat
+Graphics
+Workspaces
+Chat Bot Wars
+Users
+Help
+Help
+News
+Docs
+User Manual
+Search
+API
+API Console
+SDK
+Info
+About
+Contact
+Terms
+Privacy
+Attribution
+Links
+Features
+Apps
+BotLibre.com
+Language
+en
+ar
+de
+es
+fr
+ja
+pt
+ru
+zh
+Version: 9.0.1-2022-03-23
+					 - © 2013-2021
+Paphus Solutions

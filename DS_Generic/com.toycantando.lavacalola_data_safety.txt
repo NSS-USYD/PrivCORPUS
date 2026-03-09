@@ -1,0 +1,11 @@
+<d_prac>          No data shared with third parties         
+<d_detl>          The developer says that this app doesn't share user data with other companies or organisations.                     Learn more                    about how developers declare sharing.         
+<d_prac>          No data collected         
+<d_detl>          The developer says that this app doesn’t collect user data         
+<d_prac>          Security practices         
+<s_cata>             Data isn’t encrypted            
+<s_attr>             Your data isn’t transferred over a secure connection            
+<s_cata>             Data can’t be deleted            
+<s_attr>             The developer doesn’t provide a way for you to request that your data be deleted            
+<s_cata>             Committed to follow the Play Families policy            
+<s_attr>             The developer has committed to follow the Play Families policy for this app.                           See the policy              

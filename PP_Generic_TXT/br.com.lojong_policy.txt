@@ -1,0 +1,65 @@
+TERMS OF USE AND PRIVACY POLICY
+GENERAL
+This Privacy Policy describes the body of rules that apply to the use of the Lojong mobile application, ("Lojong" or "we" or "us") for Android and iOS mobile devices, developed and distributed by UNISOLLUS Lda. Before using the application or subscribing to the service, please be sure to read this document in its entirety. The use of these services should only be done in accordance with this document.
+Lojong is a mobile application that provides daily quotes, animated videos, and guided meditations, with the aim of improving the well-being, relaxation, and quality of life of its users.
+By installing the application, you confirm that you have read and agree to the practices and conditions described in this Privacy Policy. We will be free to change the set of rules contained in this term at any time by posting those changes, and use after that will imply that you still agree to the Privacy Policy and its changes. The latest Privacy Policy will always be available on the Play Store (Android) and the App Store (iOS) and it is your duty to be informed and check it regularly.
+DATA WE MAY COLLECT
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Name, email, phone id, timezone, location. The information that we request will be retained by us on
+https://applojong.com
+and used as described in this privacy policy.
+We may collect and process the following data about you:
+• Personal data including, for example, your name, e-mail address, password, and in certain instances, telephone number, data about your usage of the Products, data you provide in connection with your usage of the Products, and data collected by tracking technologies as further described in section 4 below that may identify you as an individual or allow online contact with you as an individual.
+• Facebook profile information, such as name, email address, and Facebook ID, if you choose to log in to the Products through Facebook.
+• Google profile information, such as name, email address, and Google ID, if you choose to log in to the Products through Google.
+• Device information such as operating system version, device type, and system performance data.
+• Data collected via tracking technologies, as fully described in section 4.
+If you choose to engage with the “My Progress” feature, we will collect and store your responses to both the Perceived Stress Scale questionnaire and free-form text box.
+• If you choose to invite a friend to use the Products using our Invite system, we will ask you for their name and email address. We will use this data to invite him or her to join the Products. We store this data for the sole purpose of sending invitations and tracking the success of our Invite program. If your friend would like us to delete his or her data, they can do so by opting-out as described in each invitation or by contacting us at
+contact@lojongapp.com
+.
+TRACKING TECHNOLOGIES
+Lojong and our analytics partners use technologies such as cookies, beacons, tags, and scripts to enable a service to recognize your device so you don't have to provide the same data several times during one task, to recognize that you may have already given a username and password so you don't need to do it for every web page requested, and to measure how people are using the Products.
+We use local storage, such as HTML5, to store content data and preferences. Third parties with whom we partner to provide certain features on the Products also use HTML5 to collect and store data. Various browsers may offer their own management tools for removing HTML5.
+We partner with third parties, such as Facebook and Google, to manage our advertising of the Products on other sites or platforms as well as across your other devices based on your past visits to our Website. Our third party partners may use technologies such as cookies to gather data about your activities within the Products to deliver such advertising to you, such as retargeting ads. We do not respond to do-not-track signals. For more data about interest-based ads, including how to opt-out of having your web-browsing data used for behavioral advertising purposes, please visit www.aboutads.info/choices. Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms. You may also opt out of receiving ads across devices by adjusting your ad preference in your Google account.
+We use third party trackers to let us know when users have visited the Products by “clicking-through” our sponsored advertising or content hosted on third party platforms. The Products use Google Analytics code to gather statistical data. Google Analytics sets cookies to help us accurately estimate the number of visitors to the Products and the volumes of usage of the Products. This is done to ensure that the Products are available when you want them and are fast. For more data on how Google Analytics processes this data, visit
+www.google.com/analytics
+.
+Link to the privacy policy of third-party service providers used by the app:
+Google Play Services
+AdMob
+Google Analytics for Firebase
+Firebase Crashlytics
+Facebook
+Google Fit
+MOBILE ANALYTICS
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record data such as how often you engage with the Products, the events that occur within the Products, aggregated usage and performance data, and where the Applications were downloaded from. We may link the data we store within the analytics software to any personal data you submit within the mobile application.
+HEALTH DATA IN HEALTHKIT
+In addition, Lojong may also write data to the Apple HealthKit database for mindfulSession (The duration of the completed meditation) with the Lojong app.
+Lojong cannot write data in the Apple HealthKit database unless you specifically grant access.
+REGISTRATION, PAYMENT AND PERSONAL INFORMATION
+The User will make his registration through his e-mail address when he will create a username and password to access the application. The User is responsible for the confidentiality of his password and the information he provides to Lojong. There will be the possibility to register via Facebook or Gmail, where the User, by logging in through their Facebook or Gmail registration or any other third party service, automatically accepts the collection of their data on those platforms.
+To install Lojong, the User must already be registered and logged into the App Store or Play Store (depending on the device used), so you do not need to tell us any extra information. As a logical consequence, it is expected that by installing Lojong, you agree to the App Store or Play Store Privacy Policy and Terms of Use, considering that you have registered and agreed to the set of terms presented there.
+Therefore, we have no responsibility regarding the security of the user and the privacy of the user's data, taking into account that we do not have access to them.
+Likewise, when the user chooses to unlock the complete content, either through the monthly or annual subscription, the only information informed to Lojong is the confirmation of payment, being not even possible to identify the credit card number used by the buyer.
+Therefore, any problem related to Lojong user's information (security, privacy, legal claims, among others) will have to be directed directly to the App Store (iOS) or Play Store (Android), which have this data.
+Finally, Lojong is not liable for any damage or loss of any nature that may arise from access to personal data of users.
+The subscription is automatically renewed on the App Store or Play Store. This automatic renewal can be canceled at any time in the account information section of the Store itself. The service subscription is personal and non-transferable. It is permitted to use the same subscription on all devices supported by the application that the subscriber owns, but the license should not be shared with other users. The sharing of licenses or the publication of licenses subjects the user to the termination of the service, without prejudice to the applicable legal measures.
+Also, by downloading the application, the User declares to be capable for acts of civil life and over 18 (eighteen) years, not being allowed to use the application for minors under 18 (eighteen) years, who are not assisted and/or authorized by their parents and/or legal guardians.
+HOW CAN YOU ACCESS, RECTIFY, UPDATE, LIMIT, DELETE YOUR PERSONAL DATA?
+Without prejudice to the provisions of the personal data protection legislation, the holder of the personal data may do so, directly or by written request, addressed to the respective Responsible for processing, through the following means and contacts:
+Email support:
+contact@lojongapp.com
+Or you may directly effect the deletion of data through the link below. Simply log into your account and confirm the deletion.
+https://lojongapp.com/delete-account
+SUPPORT
+Support can be reached at
+contact@lojongapp.com
+.
+INTELLECTUAL PROPERTY
+The entire contents of Lojong are the exclusive property of
+UNISOLLUS LDA.
+Any kind of modification, reproduction, total or partial, permanent or temporary, free or uploaded, of the audio content of the guided meditations is prohibited without the prior express consent.
+NEWSLETTERS OR OTHER ELECTRONIC COMMUNICATIONS
+By logging in to the app you agree to receive e-mail newsletters or promotional materials from us, if you wish to unsubscribe from e-mail newsletters or promotional materials, please send an e-mail to
+contact@lojongapp.com
+.

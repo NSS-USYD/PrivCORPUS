@@ -1,0 +1,48 @@
+CrookCatcher/Privacy policy
+CrookCatcher
+Privacy Policy
+By using CrookCatcher you agree to the following policy:
+Camera
+CrookCatcher uses the camera permission to take pictures when a wrong password, pin code or lock pattern has been entered the number of times that the user has specified in the app under the 'Failed Unlock' trigger action preference (default is 3).
+CrookCatcher will at no other times take pictures or record videos.
+Pictures are emailed to the user, if the email function is enabled in CrookCatcher's settings. See the email section below for further details.
+                        Other than that, the pictures are stored only locally on the user's device and are not shared with the developers of CrookCatcher or any third party.
+Location
+If the location feature is enabled in CrookCatcher's settings, CrookCatcher finds the device's location in the background when it takes a picture.
+CrookCatcher will at no other times acquire the user's location.
+The location is saved into the picture that was just taken and it will be emailed to the user along with the picture, if the email function is enabled in CrookCatcher's settings.
+CrookCatcher does not share the user's location data with its developers or any third party.
+Microphone
+A premium feature in CrookCatcher enables the app to record an sound clip when a picture is taken.
+The permission to access the microphone is only granted when this feature is enabled by the user.
+The recordings are stored locally on the device and emailed to the user, if the email function is enabled.
+Recordings are not shared with the developers of CrookCatcher or any third party.
+Email
+CrookCatcher asks users to sign in with their gmail account and grant CrookCatcher the permission to 'send emails on your behalf'. CrookCatcher does this to avoid sending sensitive data (pictures and location) through 3rd party servers. To revoke this permission go to
+https://myaccount.google.com/permissions
+This does not grant CrookCatcher access to reading your emails, managing your contacts or any of the like.
+CrookCatcher only sends emails to the email address specified under the 'send email to' preference in CrookCatcher's settings. The default is the gmail that the user sign in with.
+CrookCatcher only sends emails when a picture has been taken, when a recording has been made or when a new sim card is inserted (if this premium feature has been enabled).
+CrookCatcher does not share the user's email address, neither the sender nor the receiver, with the developers or any third party.
+Usage statistics and crash reports
+CrookCatcher tracks anonymous
+                      usage data and crash reports using Firebase Analytics. The purpose
+                      of this is for the developers to find out how well CrookCatcher performs, find bugs and improve
+                      it accordingly. You can turn this off by unticking the
+                      "Improve CrookCatcher" option in the bottom of CrookCatcher's settings menu.
+Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review
+                      this page periodically for any changes. We will notify you of any changes by posting
+                      the new Privacy Policy on this page. These changes are effective immediately after they are posted on
+                      this page.
+No data is used for any other purpose than enabling CrookCatcher to function and make it better. No personal data is transmitted to any third party for advertising or any other purpose whatsoever.
+CrookCatcher is in accordance with the
+Offical User Data Policy for Google API Services
+.
+Still need help? Send en email to
+contact
+at this domain.
+Copyright © 2023 Jakob Harteg
+Help
+Terms of use
+Privacy Policy

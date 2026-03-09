@@ -1,0 +1,365 @@
+PRIVACY POLICY
+Updated and Effective as of February 21, 2023
+TABLE OF CONTENTS
+1.General.
+2. Personal Data (types, purposes, legal basis).
+3. Ways of using personal information.
+4. Third-party processing personal data.
+5. Store personal information.
+6. Personal data protection.
+7. Userâ€™s rights.
+8. Age required.
+9. Specific provisions applicable under California privacy law.
+10. Contact details
+GENERAL
+Thank you for choosing to be part of our community!
+Â
+This privacy policy describes how our organization GOTOTOP LTD is the legal entity incorporated in accordance with the laws of the Republic of Cyprus under the registration number HE 42018 with the following address of registration: 28 Oktovriou 367, MEDITERRANEAN COURT, 1st Floor, Flat/Office A5, 3107, Nicosia, Cyprus (collectively, â€œweâ€, â€œusâ€, or â€œourâ€) collects, uses, stores, transfers and discloses personal information from our Users in connection with our Services. One way to protect your privacy is to learn how will be used personal information before you give it out. We attach great importance to your privacy right and truthfully explaining why and how we use your information.
+Â
+WE HOPE YOU TAKE SOME TIME TO READ THROUGH IT CAREFULLY, AS IT IS IMPORTANT.
+Â
+For the purpose of the General Data Protection Regulation 2016/679 and any implementing legislation (the "GDPR"), GOTOTOP LTD will be the data controller responsible for any personal data we process.
+In this privacy policy, the following definitions are used:
+Â«
+Services
+Â» refers to our Apps, Websites, and any related services or properties we control;
+Â
+Â«
+Apps
+Â» refers to games, applications, and other products produced by us on any and all platforms;
+Â«
+Websites
+Â» refers to websites and other online properties we control;
+Â
+Â«
+Personal Data
+Â» is used when referring to personal data that relates to you as an identified or identifiable individual;
+Â
+Â«
+Anonymous data
+Â» does not include data where the identity has been removed;
+Â
+Â«
+User, consumer
+Â» is any third party that use our Services.
+Â
+We have the right to update this Privacy Policy from time to time
+so please be sure to check regularly
+. We will notify you of any material changes by posting the new Privacy Policy on the primary access points to the Services or as otherwise required by applicable law.
+Please read this Policy carefully and do not hesitate to contact us if you have any questions at support@gototop.app. Where applicable, if you do not provide us the relevant Personal Data, you may not be able to use our Services completely. You should not use the Services if you do not agree with this Policy, our Terms of Use.
+How to contact us:
+Name: GOTOTOP LTD
+Address: 28 Oktovriou 367, MEDITERRANEAN COURT, 1st Floor, Flat/Office A5, 3107, Nicosia, Cyprus
+E-mail: support@gototop.app
+PERSONAL DATA (TYPES, PURPOSES, LEGAL BASIS)
+2.1. When you use our Services, we can collect, use, receive, process, transfer and share some of your Personal Data for different legitimate purposes. You will find below explanations regarding what Personal Data we may collect, the reasons why we may collect this data and the legal bases relied on in each case. Please, be notice that the types of information that we may collect depend on how you use the Services and interact with us.
+Â
+Personal Data
+Purposes
+Legal Basis
+User-provided information (In certain cases, we may require certain personal data, and in other cases we may simply ask that you voluntarily provide such personal data)
+Registration Information
+(your name (or nickname); login/e-mail address; password or passcode, age (year of birth), gender);
+Location information
+(IP address; Time zone; Information about your mobile service provider).
+To register for the Services (to create an account) â€“ only if its applicable to App.
+Contract* (art. 6(1)(b) of the GDPR)
+To provide and deliver the Services, to show information the app and your progress
+Â
+Your name, e-mail, content of your question or request, telephone number
+To communicate with us (for example: to answer your question and requests).
+Legitimate interest* ((art. 6(1)(f) of GDPR)
+User generated content (only if user voluntarily provide it):
+chat data, pictures (photos), texts, information that you provide in communications with our support team and others.
+To provide all features of the Services.
+Contract (art. 6(1)(b) of the GDPR)
+Name, e-mail, date of birth, details of your purchase and payment history
+For billing (invoicing), account management and other administrative purposes, if applicable
+Contract (art. 6(1)(b) of the GDPR)
+Information about your feelings and emotional situation, mental well-being, common information about your health
+To provide features of the Services, make recommendation for you.
+Please, be kindly noticed, that we may ask your permission to connect to Apple HealthKit and Google Fit, to enable us to import Personal Data about your health and activities into the App. This imported data may include calories burned, heart rate, and other data about your health. When you choose to have this data imported you are subject to the Google Fit and Apple HealthKit privacy policies and practices.
+Â
+Consent* (art. 6(1)(a) of GDPR)
+Userâ€™s pulse and heart breaking, photo of your hand
+To provide you Services we may ask your Camera permission; Health Data read permission; Health Data update permission; Motion sensors permission.
+Consent* (art. 6(1)(a) of GDPR)
+Date of birth; Relationship status (married, difficult, engaged, soulmate, single); The area of life that the user wants to develop (Self-care & Personal Growth, Health & Well-being, Career, Business & Work, Friends & Relationships); place of birth; time of birth
+Â
+To determine the sign of the zodiac and make your horoscope, make natal map, you can voluntarily provide it to us to receive Services
+Contract (art. 6(1)(b) of the GDPR)
+Automatically collected information
+Device Info
+: type and model; operating system and version number (ex.: ios 7.1.3, android), hardware type, connection type (for example, WiFi, 3G, 4G), network service provider, device motion parameters and carrier, Platform; Device Locale; App Version.
+Identity Data
+(only identify a computer, device, browser or Application): IP Address; ID for advertisers (IDFA) (iOS only); Google Advertising ID, or GPS ADID (ID Device) if Google Advertising ID is empty; API level (Android only); Firebase ID.
+Usage Data (Events)
+:
+Â
+Indicates if the activity happened on mobile or web; Length of user's last session; Length of user's current session; Number of sessions recorded; Push notification token, i.e., registration token (Android), device token (iOS); clicks on Userâ€™s ads; the type of ads and the webpage or Application from which such ads were displayed; downloads and installations of applications.
+Diagnostic information
+: for example, logs, error reports and events and the type, number, date and page relating to this information.
+Cookies and Other Tracking Technologies
+: Cookies, web beacons (also known as "tracking pixels"), embedded scripts, location-identifying technologies, fingerprinting, device recognition technologies, in-app tracking methods and other tracking technologies now and hereafter developed ("Tracking Technologies") may be used to collect information about interactions with the Service or e-mails, including information about your browsing and purchasing behavior.
+To analyze, operate, and improve our Services, to customize our Services, to support the existing functions of the Services, to conduct research and create reports for internal use;
+To understand you and your preferences to enhance your experience and enjoyment using our Services;
+We store Advertising ID to track the success of our advertising and marketing programs;
+Â
+To store your App Data and App progress;
+To connect to our Services;
+To comply with legal obligations and law enforcement requests.
+Legitimate interest to improve our service (art. 6(1)(f) of GDPR)
+To provide you with feedback and information about your progress.
+To provide you Services
+Contract (art. 6(1)(b) of the GDPR)
+We may send push notifications to the User to send you app updates, high scores and other service-related notifications that may be of importance to you (You can disable this anytime in your phone settings);
+To send you information and marketing communications about our services such as tips, offers, and newsletters through emails and push notifications.
+Consent* (art. 6(1)(a) of GDPR)
+Information received from third parties
+If you sign into the Services with Facebook Connect (Instagram) or Google Connect or Apple we will collect information that is visible via your Facebook or Google account such as: (1) your first and last name, (2) Facebook ID/Google ID/Apple ID (3) Profile Picture/URL, city level location
+Alternative way to register (only for voluntarily users desires)
+Contract (art. 6(1)(b) of the GDPR)
+Analytics information: we integrate certain analytics software, a third-party analytics provider in some of our Apps. (user ID, in-Apps activity data, advertising ID, IP address, location)
+To help us optimise our Apps features and events to each User.
+To allow us to track performance of our marketing campaigns
+To recognise that
+Â
+you as an existing User
+Â
+Legitimate interest (art. 6(1)(f) of GDPR)
+Â
+Any information that may be required by law
+To comply with our legal obligations, including requests from public authorities.
+The legal basis* (art. 6(1)(c) of the GDPR)
+*We generally process your personal data on the following legal bases:
+Contract.
+You have entered a contract with us and we need to use some of your personal data to provide services you have requested or take steps that you request prior to providing services. For example, we cannot create an account for you if you do not provide required information like your email address. If you do not provide information indicated as required or mandatory within our service, it will not be available to you.
+Legal obligations.
+We may have to process or share your personal data to comply with legal obligations, such as to comply with a subpoena or legal process.
+Legitimate interests.
+We process your personal data for purposes that constitute our legitimate interests, such as fraud prevention and safety; protecting our, your or othersâ€™ property rights; exercising or defending legal claims; investigating violations of and enforcing our Terms of Use; analyzing and improving our services; and marketing and advertising.
+Consent.
+In some cases, we may process your personal data based on your consent, such as where we request access to data on your mobile device through the prompts in your deviceâ€™s operating system. You have the right to withdraw your consent anytime in the manner indicated at the time consent is requested with no impact on the validity and lawfulness of collection or processing based on the consent made before its withdrawal.
+2.2. Our Services allow in-app purchases. In-app purchases are not mandatory and it is up to you whether to pay for accessing such functionality or not. You should know that payments processed via Apple App Store (Apple,
+https://www.apple.com/legal/privacy/en-ww/
+), through the Google Play Store (Google,
+https://policies.google.com/privacy
+), Stripe, Paddle, PayPal. Payment processing takes place through a payment system, integrated into the app store, appropriate for your platform. We may receive the billing and payment information that you provide when your purchase is processed by someone else (like, Apple or Google, or PayPal, Solidgate, Stripe) such as when you purchase subscription. If you purchase the subscriptions in our apps, our third-party payment processor will collect the billing and financial information it needs to process your charges. This may include your postal address, e-mail address and financial information. We donâ€™t collect or store payment data, details or payments-related personal data. However, ourâ€™s payment processors may share information with us related to your purchases. We may use this information for purposes as described in this Privacy Policy.
+2.3. The app requires your permission to access your microphone recordings and your photo and video library when you use the app to activate voice command and to enable you to share your achievements on your social media accounts. However, we do not collect or have access to such data.
+2.4. We may anonymize your Personal Data (so that it can no longer be associated with you) for research or statistical purposes. In such cases we may use anonymous information without further notice to you since such information is not considered as Personal Data and cannot be connected with you.
+WAYS OF USING PERSONAL INFORMATION
+Purpose of this Privacy Policy is fulfillment of the provisions of the Terms of Service (â€œContractâ€) concluded between the User and GOTOTOP LTD. We collect userâ€™s personal data when user starts using our Services. For example, we may use the Personal Data in the following ways:
+(i) To provide User Service.
+Our main aim is to perform our contractual obligation towards User and make our Service available to User. We use information that you submit and information that is processed automatically to provide you with all requested services.
+(ii) Account setup and administration:
+Â We use Registration information and information about your device to set up and administer your account, provide technical and customer support and training, verify your identity, and send important account, subscription, and Service information.
+(iii) Personalization:
+We use Personal Data to personalize your experience with our Services. Some of our Services will ask you to share your geolocation so we can customize your experience and increase the accuracy of the Service. If you agree to share your geolocation with us, you will be able to turn it off at any time by going to the privacy settings on your mobile device or online. For example, we may ask for age verification if we have reasonable doubts regarding your age.
+(iv) Providing you with interest-based (behavioural) advertising or other targeted content.
+We may use information that is processed automatically for marketing purposes (to show ads that may be of interest to you based on your preferences). We provide personalized content and information to you, which can include online ads or other forms of marketing. To make choices about Interest-Based Ads from participating third parties, including to opt-out of receiving behaviorally targeted advertisements from participating organizations, please visit the Digital Advertising Alliance or Network Advertising Initiative consumer opt-out pages, which are located atÂ http://www.networkadvertising.org/choices/Â or http://www.aboutads.info/choices. Users in the European Union should visit the European Interactive Digital Advertising Allianceâ€™s user information websiteÂ https://www.youronlinechoices.eu/.
+(v) To communicate with you.
+We use the information we have to communicate with you through newsletters, i.e. to send you marketing notifications, receive your feedback about our App experience, and let you know about our policies and terms. We also use your information to respond to you when you contact us.
+(vi) Research and development:
+Â We use Personal Data for internal research and development purposes and to improve and test the features and functions of our Services. We use information that is processed automatically to better understand user behaviour and trends, detect potential outages and technical issues, to operate, protect, improve, and optimize our App.
+(vii) Legal obligations:
+Â We may be required to use and retain Personal Data for legal and compliance reasons, such as the prevention, detection, or investigation of a crime; loss prevention; or fraud.
+(viii)
+Send you
+push notifications, related information, including confirmations and reminders
+(if you choose to allow that function)â€”
+user can choose to stop disable these at any time, by opting out or changing your browser or device settings.
+Â
+(ix)
+We may use
+Automatically Collected
+information and Cookies information to maintain and improve our Services, including to do the following things: (a) automatically update the applications on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access our Services; (c) provide customized third-party advertisements, content and information, unless it will include instructions on how to opt out of receiving these advertisements, content and information in the future; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed.
+THIRD-PARTY PROCESSING PERSONAL DATA
+We may share your information to third-party companies to perform certain services, including but not limited to hosting services, payment processing, analytics, customer service and to assist us in our marketing efforts. We share your Personal Data with certain third parties as part of our operation of the Service, whether shared by us or gathered directly by third parties through SDKs integrated into the Service. This data sharing enables us to provide you with the Service in the optimal way, such as serving you personalized, relevant advertisements within the Service. We hereby undertake not to conduct any disclosure or transfer of the Userâ€™s personal data to any third parties, except Processors, mentioned in this paragraph, without receipt of personal consent of the User. The following companies are the Processors of the Personal Data of the Services of GOTOTOP LTD (In case you want to learn more about the services and privacy options please consult their websites and privacy policies):
+Processor
+Purpose
+Â
+Policy and opt-out
+Customer support: help us to communicate with you simple and fast
+Zendesk Inc.
+Customer support (Email address
+Content of the emails)
+https://www.zendesk.com/company/agreements-and-terms/privacy-policy//
+Ad Partners: usually collect data via their own tools (Software Development Kits or â€œSDKâ€), help us to find new users
+AppLovin Corp
+Advertising service. Personal Data collected: Cookies and Usage Data.
+You may opt-out of certain features through your mobile device settings, such as your device advertising settings or by following the instructions provided in their Privacy Policy.
+You may visit www.aboutads.info/choices or www.youronlinechoices.eu (for individuals in the EU) to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the Digital Advertising Alliance (â€œDAAâ€) self-regulatory program.
+Personal data collected to find you and people like you and share with them our Services. Ads Services show relevant information to potential users.
+https://www.applovin.com/privacy/
+AdColony, Inc
+https://www.adcolony.com/privacy-policy/
+TikTok (Bytedance, Ltd)
+https://www.tiktok.com/legal/page/row/privacy-policy/en
+Ð¡hartboost
+https://answers.chartboost.com/en-us/articles/200780269
+IronSource Mobile Ltd.
+https://ironsource.mobi/privacypolicy.html
+Kadam
+https://www.kadam.net/en/privacy-policy
+TapJoy
+https://www.tapjoy.com/legal/general/privacy-policy/
+Unity Technologies
+https://unity3d.com/legal/privacy-policy
+Snap Inc.
+https://www.snap.com/en-US/privacy/privacy-policy/
+Pinterest
+https://policy.pinterest.com/en/privacy-policy
+Analytic companies: provide us with tools and technologies that allow us to better understand how users interact with our services, usually collect data via their own SDKs
+Adjust,
+Ltd.
+Â
+Mobile attribution and analytics. Personal Data collected: Cookies and Usage Data. AppsFlyer, a mobile marketing platform, helps App-Developers, Brands and Ad-Agencies attribute installs to campaigns and optimize their usersâ€™ acquisition funnel. Personal Data collected: Device Info, Identity Data.
+https://www.adjust.com/terms/privacy-policy/
+Amplitude, Inc.
+Analytics service. Personal Data collected: Cookies and Usage Data.
+https://amplitude.com/privacy
+Other partners
+Apple, Inc.
+To collect and process payments for subscription to the App. Personal Data collected: Payment and banking information and Usage Data.
+https://support.apple.com/en-us/HT210584
+Amazon Web Services, Inc.
+Hosting and backend service
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+https://aws.amazon.com/privacy/
+BunnyWay d.o.o.
+CDN Personal Data collected: various types of Data as specified in the privacy policy of the service.
+https://bunnycdn.com/privacy
+Hetzner Online GmbH
+Internet hosting.
+Personal Data collected: Cookies and Usage Data
+https://www.hetzner.com/rechtliches/datenschutz/
+Facebook Ireland Ltd.
+Our Services measures conversions using visitor action pixels from Facebook. This allows an analysis of the effectiveness of Facebook advertisements for statistical and market research purposes and their future optimization. Facebook Analytics is an analytics tool provided by Facebook, Inc. (US) that may collect or receive information from our Services. You can manage your personalized ad preferences in relation to Facebook directly from your Facebook account. Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
+https://www.facebook.com/policy.php
+Google Inc.
+To collect and process payments for subscription to the App; AdMob Google Inc. is an advertising service. Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
+https://policies.google.com/terms?hl=ru , https://firebase.google.com/terms/analytics/
+PayPal
+To collect and process payments for subscription to the App certain web services (Payment and Banking information)
+https://www.paypal.com/by/webapps/mpp/ua/privacy-full
+Solid
+https://solidgate.com/privacypolicy
+2checkout
+https://www.2checkout.com/legal/privacy/
+Stripe
+https://stripe.com/en-gb-us/privacy
+Competent Authorities
+To comply with a legal obligation, process or requests.
+If we are bound to disclose your personal data by a judicial order or by a governmental or regulatory authority, we will comply and share the personal data with that body.
+STORE PERSONAL INFORMATION
+We will keep your Personal Information for the length of time required to provide you with the Service and for the reasons described in this privacy policy, unless a longer retention period is required or permitted by law. Afterwards, we delete all aforementioned data in our possession within a reasonable timeframe. We do not verify the correctness of personal data that we collect or you provide. In all cases, GOTOTOP LTD does not retain such data for more than 5 years. If you no longer want us to use your information that we physically access and store, you can request that we erase your personal information and close your account. Except for any legal obligation that sets a longer data retention period, at the end of these periods, the processed personal data will be deleted or anonymized.
+PERSONAL DATA PROTECTION
+6.1. Personal data may be processed by both automated and non-automated means, and may be stored at our premises and on our service providersâ€™ servers. We understand that unfortunately, the transmission of Information via the internet is not completely secure. We do all our best to maintain the privacy and integrity of your Information. We have implemented industry standard security measures, which include the encryption to protect your personal information, including all information you input into your habit data or share in Services, and this information is not available to third parties. Our measures include: Pseudonymization and tokenization; Encryption; Protection of data integrity and etc. However, transmissions over the Internet are never 100% secure, and you should not provide any personal data if you want to avoid any risk. We will also not use information received through your use of the HealthKit and Google Fit framework for advertising or similar services, or sell it.
+6.2. We work in the international space and provide our Services to our Users around the world. We and third-party organizations that provide automatic data processing technologies for the App or our third-party advertising partners may transfer the automatically processed information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. You acknowledge and agree that The locations of servers for the services include:
+(1) Cyprus and Germany (The European Union) - the servers located in European Union which automatically process your personal data and obtain the access to your personal data for the purposes of manual processing;
+Your data will be processed on our servers which may not be located in your country of residence and can be accessed by our support, engineering around the world. No matter where our servers are located, we will make great efforts to take the appropriate safeguards to guarantee your rights in conformity with this Privacy Policy and any applicable laws. This means that your personal information can be transferred to a third country, a territory or one or more specified sectors within that third country, or to the international organization where data protection and confidentiality regulations may not provide the same level of protection of a personal data as your country does. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+USERâ€™S RIGHTS
+We attach great importance to userâ€™s privacy and would like to explain your data protection rights.
+Â
+(i)
+The right to withdrawal.
+Itâ€™s important to remember that if we process your data based on your consent, you have the right to withdraw your consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. Withdrawal is made by the mere notification of the GOTOTOP LTD via its Support service, i.e. by sending an e-mail to the address support@gototop.app with the topic Â«Consent withdrawalÂ» or in the Settings menu of the application.
+(ii
+) The right to know
+what Personal Data we hold, how and why we handle your Personal Data. You can ask us for a copy of your Personal Data. If you would like to exercise your right of access, please contact us as described below and let us know what information in particular you would like to receive.
+Â
+(iii)
+The
+right to opt-out
+of direct or target interest advertising on mobile applications by checking the privacy settings on your device settings menu. Please note that even if you use your right to opt-out it you will still receive advertising, but not direct or target interest. On Apple you can opt-out this by going to Settings > Privacy > Advertising and turning on â€œLimit Ad Trackingâ€. On Android you can opt-out by going to Settings > Google services > Ads and turning on choosing â€œOpt out of Ads Personalizationâ€.
+(iv)
+The right to request an update or correction (rectify)
+to any of your Personal Data which is out of date, incomplete or incorrect (according to Article 16 of the GDPR). In certain specific circumstances you have the right to ask us to delete your Personal Data which we are holding about you.
+(v)
+The right to delete your personal data. (Right to be forgotten).
+You have the right to request that we delete certain of your personal data.
+(vi) The right to object.
+You have the right to object to ours processing of your personal data, under certain conditions. Object to us processing your personal data at any time, on grounds relating to your particular situation Object to your personal data being processed for direct marketing purposes.
+(vii) The right to restrict processing of your personal data
+under the conditions set out in Article 18 of the GDPR or any other applicable laws in your country of residence.
+(viii)
+The right to portability of your personal data.
+In some circumstances, you may have the right to request that data which you have provided to us is provided to you, so you can transfer this to another data controller.
+(ix)
+The right to complain
+to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Please see this directory for contact details: https://edpb.europa.eu/about-edpb/board/members_en. If you are in Switzerland, please visit this FDPIC site for contact details:
+https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html
+.
+(x)
+The right to Data portability.
+You have the right to Request a copy of your personal data in electronic format and the right to transmit that personal data for use in another partyâ€™s service.
+(xi)
+The right to request access
+to the personal information we collect from you, change that information, or delete it in some circumstances. You have the right to request us for copies of your personal data. To request to review, update, or delete your personal information, please submit a request. We will respond to your request within 30 business days. The User is empowered to request one copy of the personal data undergoing processing free of charge. Any additional copies are provided on a reimbursement basis.
+You may send the request aimed at exercising your rights provided herein to our email or to our business address: 28 Oktovriou 367, MEDITERRANEAN COURT, 1st Floor, Flat/Office A5, 3107, Nicosia, Cyprus, Limassol, Cyprus. If you make a request, we have one month to respond to you.
+8. AGE REQUIRED
+Â
+Our Services usually have a minimum age requirement of users and are not directed to children, and we do not knowingly collect Personal Data relating to children. Children should never disclose their name, address or phone number, or any personal information, without their parentsâ€™ prior permission. We consider a user to be a child if they are under the age of 13, unless more stringent regulation applies in their country of residence. In EU countries, users under the age of 16 are considered children, unless the data protection regulation of their country of residence specifies another age. If you become aware that your child has provided us with Personal information without your consent, please contact us and we will take the required steps to delete such information. Moreover, some of the Apps are limited for users that are younger than 18.
+9.
+Â
+SPECIFIC PROVISIONS APPLICABLE UNDER CALIFORNIA PRIVACY LAW
+Â
+This is additional information about how we collect, use, disclose and otherwise process personal information of individual residents of the State of California within the scope of the California Consumer Privacy Act of 2018 (â€œCCPAâ€). We adopted this paragraph to comply with CCPA and any terms defined in the CCPA have the same meaning when used in this notice.
+California law requires us to disclose information about the categories of personal information we collect and how we use them, the categories of sources from which we collect personal information, and the third parties with whom we share personal information. We have provided detailed descriptions above in this policy. In particular, our Services have collected the following categories of personal information from its consumers within the last twelve (12) months:
+Category
+Examples
+Collected
+A. Identifiers.
+A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number.
+YES
+B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code Â§ 1798.80(e)).
+A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driverâ€™s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+Some personal information included in this category may overlap with other categories.
+NO
+C. Protected classification characteristics under California or federal law.
+Race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information), driverâ€™s license number, passport number, or other similar identifiers.
+Â
+NO
+Â
+D. Commercial information.
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+NO
+E. Biometric information.
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data (Hair color, eye color, fingerprints, height, retina scans, facial recognition, voice, and other biometric data).
+NO
+F. Internet or other similar network activity.
+Browsing history, search history, information on a consumerâ€™s interaction with a website, application, or advertisement.
+YES
+G. Geolocation data.
+Physical location or movements.
+Only general information about country and city (NOT GPS)
+Â
+H. Sensory data.
+Audio, electronic, visual, thermal, olfactory, or similar information.
+NO
+I. Professional or employment-related information.
+Current or past job history or performance evaluations.
+NO
+J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+NO
+K. Inferences drawn from other personal information.
+Profile reflecting a personâ€™s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+NO
+We do not rent, sell, or share Personal Information with nonaffiliated companies for their direct marketing uses as contemplated by Californiaâ€™s â€œShine the Lightâ€ law (Civil Code Â§ 1798.83), unless we have your permission. We do share personal information with the Processors of the Personal Data of the Services of GOTOTOP LTD mentioned in paragraph 4.
+As a California resident, you have the rights listed below:
+You can request information about how we have collected and used your personal information during the past
+12 months including the categories of personal information collected, the sources from which we collected personal information, the business or commercial purpose for collecting personal information, and the third parties with whom we shared personal information.
+You can request a copy of the personal information that we have collected about you during the past 12 months. Also, according to the California â€œShine the Lightâ€ law users who are California residents have the right to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. To make such a request from us, if entitled, please use the contact information listed below.
+You can ask us to delete personal information we have collected from you. We may need certain types of information so that we can provide our Services to you. If you ask us to delete some or all of your information, you may no longer be able to access or use the Services.
+You have the right to be Free from Discrimination. We may not discriminate against you because you have exercised your rights, including, for example, by denying you access to our online services or charging you different rates or prices for the same online services, unless that difference is reasonably related to the value provided by your data.
+You have
+the right to opt out of the sale of Personal Information, which is defined in a way that may include the transfer of data to third parties to personalize ads for you. Please note that the CCPA defines the term â€œsaleâ€ very broadly to include any exchange of data for consideration of any kind, not simply selling your data for monetary compensation. Depending upon the circumstances, the term â€œsaleâ€ could include a company providing a residentâ€™s data to another entity to assist the company with targeted advertising. We do not sell to third parties, and within the last 12 months have not sold, any of your personal information. If you opt out of the â€˜saleâ€™ of your information, we will not sell your information, including to our advertising partners, but you may continue to receive ads from our Services, which may not be as tailored to your interests.
+You may exercise your California privacy rights described above by emailing us. We will need to confirm your identity (e.g. first name, last name, account name, email address, state of residence, etc.) and California residency to process your requests to exercise your information, access or deletion rights. We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing.
+10. CONTACT DETAILS OF THE GOTOTOP LTDLTD:
+If you have any questions or comments about this policy, you may contact us:
+via email at: support@gototop.app.
+via post to:
+Â
+The Company name: GOTOTOP LTD
+Address: 28 Oktovriou 367, MEDITERRANEAN COURT, 1st Floor, Flat/Office A5, 3107, Nicosia, Cyprus

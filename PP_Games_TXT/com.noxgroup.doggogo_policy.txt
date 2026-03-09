@@ -1,0 +1,508 @@
+Privacy Policy
+Privacy Policy
+Introduction
+This Doggo Go User Privacy Policy (hereinafter referred to as the "Policy") applies only to the Doggo Go
+      application (hereinafter referred to as the "APP") and related services of Nox Interactive Technology Limited (hereinafter collectively
+      referred to as "we"), and does not apply to third-party products or services that have separate privacy policies
+      and are not covered by this Policy. This policy describes which personal data is collected, saved, and used when
+      you use our App. Also, this privacy policy describes the way your personal data is accessed, updated, managed,
+      and protected. We hope that you will read this Privacy Policy ("Policy") carefully to learn more about how we
+      collect and use information so that you can better understand our services and better match your true intentions
+      when choosing whether and what services to use. If you choose to use the services we provide, it means that you
+      agree to be bound by all the terms and conditions that we have stated in this policy.
+We fully aware of the importance of personal information to you and will do our best to protect the security
+      and reliability of your personal information, we are committed to maintaining your trust in us and adhering to
+      the following principles to protect your personal information: the principle of consistency of rights and
+      responsibilities, the principle of clear purpose, informed consent, data minimization, security guaranty,
+      subject participation, openness and transparency, etc. At the same time, we commit/warrant to take appropriate
+      security measures to protect your personal information in accordance with the industry's proven security
+      solutions.
+If you do not expressly agree to this policy and start using our app, we will not collect any information from
+      you, which will result in our inability to provide you with full-functioned products and services. We strive to
+      express this in easy-to-understand, concise language and use bold type to draw your attention to the terms of
+      this policy that are material to your rights. If you have any questions, comments, or suggestions, please feel
+      free to contact us.
+Email: [doggogoapp@gmail.com]
+This privacy policy will help you understand the following.
+1. How we collect and use your personal information
+2. How we use cookies, similar technologies, and SDK technologies
+3. How we share, transfer, and publicly disclose your personal information
+4. How we protect your personal information
+5. How you manage your personal information/your rights
+6. How we handle the personal information of minors
+7. Where and how long we store the information and how your personal information is transferred globally
+8. How to update this privacy policy
+9. How to contact us
+10. Advertisements/information we send to you
+11. The scope of application
+12. Other
+To better clarify, the following concepts in this policy refer to.
+Personal information means, all kinds of information recorded in electronic or other means that can identify a
+      specific natural person or reflect the activities of a specific natural person, or in combination with other
+      information, including personal identification information (name, date of birth, identification document number,
+      including ID card, officer's license, passport, driver's license), facial features, address, contact telephone
+      number, address book, network identification information (including account name, account nickname, e-mail
+      address, and the aforementioned password and password protection questions and answers); property information,
+      transaction information, personal Internet records (Internet browsing records, click records, etc.), personal
+      common equipment information (including hardware model, MAC address of the device, operating system type,
+      software list unique device identification code and other information describing the basic situation of personal
+      common terminal equipment) and personal location information, etc.
+Personal commonly used device information: information describing the basic situation of personal commonly used
+      devices, including hardware serial number, device MAC address, software list, unique device identification code
+      (such as IMEI/IDFA/OPENUDID/GUID/OAID, SIM card IMSI information, etc.), etc.
+Personal location information: refers to information including whereabouts trajectory, precise positioning
+      information, accommodation information, latitude, and longitude, etc.
+Personal sensitive information refers to personal information that, if leaked, illegally provided, or misused,
+      may endanger personal and property safety, and is highly likely to lead to damage to personal reputation,
+      physical and mental health or discriminatory treatment, etc. The personal sensitive information in this privacy
+      policy includes: personal identification information (identification document number, including ID card,
+      officer's license, passport, driver's license), facial identification features; property information,
+      transaction information; network identification information (including account name, account nickname, email
+      address, and password and password protection questions and answers related to the foregoing); other information
+      (including address book, personal phone number (including address book, personal phone number, travel
+      information, and precise positioning information).
+De-identification refers to the process of personal information technical processing, which indicates that the
+      subject of personal information cannot be identified without additional information.
+Anonymization refers to the process of making the subject of personal information unidentifiable through
+      technical processing of personal information, and the information cannot be recovered after processing.
+1、How we collect and use your personal information
+Personal information is all kinds of information recorded in electronic or other means that can identify a
+      specific natural person or reflect the activities of a specific natural person, or in combination with other
+      information, and we will collect and use your personal information for the following purposes as described in
+      this policy.
+Core business functions and personal information collection
+We will provide the following services to you and collect the information listed below separately when
+      providing the following services.
+1) Business function: Fate match analysis.
+We provide the most suitable matching results through accurate calculation and analysis based on the user's
+      own information, effectively helping the user to meet potential friends.
+There is no information that we require you to provide when you use the Fate Matching Features.
+Personal location information is sensitive information but if you provide us with this, it will help to
+      provide you with better service and experience. However, it is worth noting that if you do not provide this
+      information, it will not affect the use of the basic business functions of the APP.
+The personal location information you provide will be authorized to us on an ongoing basis for the duration
+      of your use of the Service. We will keep your information until you remove your account. When you remove your
+      account, we will stop using and delete the above information.
+The above information shall only be stored within the borders of People's Republic of China. If you need to
+      transfer it across the border, we will ask for your authorized consent separately.
+The above information shall only be stored within the borders of People's Republic of China. If you need to
+      transfer it across the border, we will ask for your authorized consent separately.
+2、How we use cookies, similar technology, and SDK technology
+Cookies
+Cookies are small data files that we may store on your computer or mobile device to ensure the proper
+      functioning of our website, to make your visit easier, and to recommend content that you may be interested
+      in. Cookies usually contain an identifier, the name of the site, and some numbers and characters. You can
+      clear the data cookies accordingly in your browser.
+Other technologies
+In addition to cookies, we may use other similar technologies on our website. Notifications we send to
+      you by SMS or Doggo Go customer service, site notifications may contain link addresses that link to
+      content on our site. If you click on the link, click-tracking helps us understand your product or
+      service preferences so that we can proactively improve our customer service experience. If you do not
+      wish to have your activity tracked in this way, you may turn it off at any time.
+SDK technology
+The SDK technology is provided by third parties with whom we work and we are only aware of the
+      permissions they require to obtain the authorization. The third-party will need to collect information
+      from you and we will not have access to your information unless the third party explicitly discloses
+      to us the sensitive information to be collected. The permissions required by the third party and the
+      sensitive information they explicitly disclose to us for collection are detailed in the SDK Technical
+      Notes.
+If you declined to provide information to the third-party organization, you will only be unable to
+      use the functions carried by the technology provided by the third-party organization, but it will not
+      affect your use of other functions of Doggo Go.
+3、How we share, transfer, and publicly disclose your personal information
+Sharing
+We will not share your personal information with companies, organizations and individuals other
+      than the service providers of Doggo Go, except for the following cases.
+1) Sharing with explicit consent: We will share your personal information with other parties
+      after obtaining your explicit consent.
+2) Sharing under statutory circumstances: we may share your personal information with external
+      parties in accordance with the provisions of laws and regulations, the need for litigation dispute
+      resolution, or as required by administrative or judicial authorities in accordance with the law.
+3) Sharing with affiliated companies: Your personal information may be shared with our affiliated
+      companies in order to facilitate our joint provision of services to you based on affiliated
+      accounts, to recommend information that may be of interest to you, or to protect the personal and
+      property safety of Doggo Go affiliates or other users or the public from infringement. We will
+      only share necessary personal information (e.g. we will share your necessary account information
+      with our affiliates to facilitate your use of our affiliates' products or services through your
+      Doggo Go account), and we will seek your authorized consent again if we share your sensitive
+      personal information or if our affiliates change the purpose of using and processing personal
+      information.
+4) Sharing with Authorized Partners: For the sole purpose of achieving the purposes stated in
+      this Privacy Policy, certain of our services will be jointly provided by us and authorized
+      partners. We may share certain of your personal information with our partners to provide better
+      customer service and user experience. Examples include arranging for partners to provide services.
+      We will only share your personal information for lawful, legitimate, necessary, specific, and
+      explicit purposes, and only as much personal information as is necessary to provide the service.
+      Our partners do not have the right to use the personal information shared for any other purpose
+      unrelated to the product or service.
+We send information to vendors, service providers, and other partners who support our business by
+      providing technical infrastructure services, analyzing how our services are used, measuring the
+      effectiveness of advertising and services, providing customer service, facilitating payments, or
+      conducting academic research and surveys.
+For companies, organizations, and individuals with whom we share personal information, we enter
+      into strict data protection agreements that require them to handle personal information in
+      accordance with our instructions, this Privacy Policy and any other relevant confidentiality and
+      security measures.
+Transfers
+We will not transfer your personal information to any company, organization, or individual,
+      except for the following.
+1) Transfer with expressly consent: we will transfer your personal information to other parties
+      after obtaining your express consent.
+2) In cases involving mergers, acquisitions or bankruptcy liquidation situations, or other
+      situations involving mergers, acquisitions or bankruptcy liquidation involving the transfer of
+      personal information, we will require the new company or organization holding your personal
+      information to continue to be bound by this policy, or we will require the company, organization
+      and individual to seek your authorized consent again.
+Public Disclosure
+We will only disclose your personal information publicly Only in the following situation.
+1) With your express consent or based on your unsolicited choice, we may disclose your
+      personal information publicly.
+2) If we determine that you have violated laws and regulations or seriously violated the
+      rules of the relevant Doggo Go agreement, or to protect the personal and property safety of
+      users of Doggo Go and its affiliates or the public from infringement, we may disclose personal
+      information about you with your consent in accordance with laws and regulations or the rules
+      of the relevant Doggo Go agreement, including the relevant violations and the measures Doggo
+      Go has taken against you.
+Exceptions to prior authorized consent for sharing, transferring, and public disclosure of
+      personal information.
+In the following cases, prior authorized consent is not required for sharing, transferring,
+      or publicly disclosing your personal information.
+1) Related to national security or national defense security.
+2) Related to public safety, public health, and significant public interest
+3) Related to crime investigation, prosecution, trial and execution of judgments, etc.
+4) For the purpose of safeguarding your or other individuals' life, property and other
+      significant legitimate rights and interests but where it is difficult to obtain your consent.
+5) Personal information that you disclose to the public on your own.
+6) Personal information collected from legitimate public disclosures, such as legitimate news
+      reports, government information disclosure and other channels.
+According to the law, sharing or transferring personal information that has been
+      de-identified and ensuring that the recipient of the data cannot recover and re-identify the
+      subject of the personal information is not an act of sharing, transferring or publicly
+      disclosing personal information to the public, and there will be no need to separately notify
+      you and obtain your consent for the preservation and processing of such data.
+4、How we protect your personal information
+In order to protect the security of your information, we will strictly comply with the
+      technical measures and operational procedures required by laws and regulations and other
+      regulatory documents to protect the secrecy of your information, while.
+1) We have taken reasonable and feasible security measures to protect the security of
+      personal information provided by you in line with common industry solutions to prevent
+      unauthorized access, public disclosure, use, modification, damage or loss of personal
+      information. We use encryption technology to enhance the security of personal information;
+      we use trusted protection mechanisms to prevent malicious attacks on personal information;
+      we establish a strict internal control system and a sound and adequate management process;
+      we deploy access control mechanisms and make every effort to ensure that only authorized
+      personnel has access to personal information, and we hold security and privacy protection
+      training courses to enhance employees' awareness of the importance of We will hold security
+      and privacy training courses to enhance employees' awareness of the importance of protecting
+      personal information.
+2) We have an industry-advanced data security management system that focuses on the data
+      lifecycle and enhances the security of the entire system in multiple dimensions, such as
+      organizational construction, system design, personnel management, and product technology.
+3) We will take reasonable and feasible measures to avoid collecting irrelevant personal
+      information to the best of our ability. We will only retain your personal information for as
+      long as necessary to achieve the purposes described in this policy unless the retention
+      period needs to be extended or is permitted by law.
+4) The Internet is not an absolutely secure environment, and we strongly recommend that you
+      do not send personal information using communication methods other than those recommended by
+      Doggo Go. You may establish connections and share with each other through our Services. When
+      you create communication, transaction, or sharing through our services, you can
+      independently choose the person to whom you communicate, trade, or share as a third party
+      who can see your transaction content, contact information, communication information, or
+      sharing content and other related information.
+From time to time, we will update and disclose the contents of our security risk and
+      personal information security impact assessment reports.
+The Internet environment is not 100% secure and we will do our best to ensure or warrant
+      the security of any information you send to us. If our physical, technical, or
+      administrative safeguards are breached, resulting in unauthorized access, public disclosure,
+      tampering, or destruction of information, resulting in damage to your legal rights and
+      interests, we will be liable.
+After the unfortunate occurrence of personal information security events, we will, in
+      accordance with the requirements of laws and regulations, promptly inform you of: the basic
+      situation of the security event and the possible impact, the disposal measures we have taken
+      or will take, the suggestions you can independently prevent and reduce the risk, the
+      remedial measures for you, etc. We will promptly inform you of the event-related situation
+      by way of push notifications and take reasonable and effective ways to send announcements.
+At the same time, we will also take the initiative to report the disposition of personal
+      information security incidents in accordance with the requirements of the regulatory
+      authorities.
+5、How you manage your personal information / your rights
+In accordance with the relevant laws, regulations, and national standards of the People's
+      Republic of China, as well as common industry practices, we protect your right to exercise
+      the following rights to your personal information.
+1) Access, edit your personal information
+Account information - If you wish to access or edit your personal information in your
+      account, set privacy and permissions, set message alerts and chat, change your bound
+      cell phone number and password, close your account, etc., you can do so by logging into
+      your account via "My Card "-"Settings" to perform such operations.
+2）Correction of your personal information
+When you find that there is an error in the personal information we have processed
+      about you, you have the right to ask us to make corrections or additions. You can make
+      a request for corrections or additions in the manner specified in this
+      Article"Accessing and editing your personal information".
+3) Deletion of your personal information
+You may delete some of your personal information in the manner set forth in this
+      Article "Accessing and Editing Your Personal Information".
+You may request deletion of your personal information from us in the following
+      cases.
+a. If our handling of personal information violates laws and regulations.
+b. If we collect or use your personal information without your explicit consent.
+c. If our handling of personal information is in serious breach of our agreement
+      with you.
+d. If you no longer use our products or services, or if you voluntarily cancel your
+      account.
+e. If we no longer provide products or services to you.
+If we decide to respond to your request for deletion, we will also, to the extent
+      possible, simultaneously notify the subjects who have obtained your personal
+      information from us and request them delete it promptly, unless otherwise required
+      by law or regulation, or unless such subjects have your independent authorization.
+When you delete information from our service, we may not immediately delete the
+      corresponding information from our backup system but will delete it when the backup
+      is updated.
+4) Managing the scope of your authorization
+Each business function requires basic personal information to be able to
+      complete. You may give or withdraw your authorized consent at any time for the
+      collection and use of additional collected personal information.
+You can do this on your own in the following ways.
+You can change the scope of your authorization for features and services by
+      deleting information, turning off device features, as well as setting "Settings" -
+      "Account & Security, Notification Alerts, Privacy" in the APP.
+Specific business functions and services will require your personal information
+      to complete. After you withdraw your consent, we will not be able to provide you
+      with the functions and services for which you have withdrawn your consent, and we
+      will no longer process your personal information. However, your decision to
+      withdraw your consent will not affect our previous processing of personal
+      information based on your consent.
+5) Restraint on automatic decision-making by information systems
+In some business functions, we may make decisions based solely on non-manual
+      automated decision-making mechanisms, including information systems and
+      algorithms. If these decisions significantly affect your legitimate rights and
+      interests, you have the right to ask us to provide an explanation, and we will
+      also provide a method of appeal on the premise that it does not infringe on
+      Doggo Go the trade secrets or other user rights and interests of the public
+      interest.
+6) Respond to your request above
+For security purposes, you may need to provide a written request or otherwise
+      prove your identity. We may ask you to verify your identity first before
+      processing your request.
+We will respond within 15 days. If you are not satisfied with our response,
+      you may also initiate a complaint through Doggo Go Customer Service.
+For your reasonable requests, we will try to fulfill your requests. We may
+      reject requests that are unwarrantedly repetitive, require excessive technical
+      means (for example, requiring the development of new systems or fundamental
+      changes to current practices), pose a risk to the legal rights of others, or
+      are highly impractical.
+Related restrictions
+In the following cases, we will not be able to respond to your request in
+      accordance with the requirements of laws and regulations.
+a. Related to national security and national defense security.
+b. Related to public safety, public health, and significant public interests.
+c. Related to crime investigation, prosecution, trial and execution of
+      judgment, etc.
+d. Where there is sufficient evidence of subjective malice or abuse of rights
+      by the subject of personal information
+e. Responding to your request will lead to serious damage to the legitimate
+      rights and interests of you or other individuals or organizations
+f. Where commercial secrets are involved.
+6、How we handle the personal information of minors
+Our products are mainly for adults, we expect parents or guardians to guide
+      minors to use our services, if you are a minor under the age of 18, before
+      using our products, you should read and agree to this policy together under
+      the supervision and guidance of your parents or other guardians. Children
+      (under the age of 14) are not allowed to create their own user accounts
+      without the consent of their parents or guardians.
+We protect the personal information of minors in accordance with the
+      relevant national laws and regulations, and in the case of personal
+      information collected from minors with parental consent, we will only use,
+      share or publicly disclose this information as permitted by law, with the
+      express consent of the parent or guardian, or as necessary to protect the
+      minor.
+If we find that we have collected personal information from minors without
+      prior verifiable parental consent, we will seek to delete the relevant data
+      as soon as possible.
+7. Where and for how long the information is stored, and how your personal
+      information is transferred globally.
+The geographical area where personal information is stored.
+We store the personal information collected and generated within the
+      territory of the user in China in strict accordance with the laws and
+      regulations.
+In the case that personal information leaves the country, we will not
+      transfer the above information outside the country. If some products
+      involve cross-border business and we need to transfer the relevant
+      personal information collected in the country to overseas institutions, we
+      will follow the relevant national regulations and at the same time
+      evaluate the information security of the information leaving the country,
+      and obtain your explicit authorization, and implement it in accordance
+      with the laws and regulations and the regulations of the relevant
+      regulatory authorities, We will require the overseas institutions to keep
+      your personal information confidential through effective measures such as
+      signing agreements and on-site verification, except for your personal
+      initiative such as cross-border posting through the internet.
+In the above cases, we will ensure that your personal information is
+      totally protected in accordance with this privacy policy.
+Duration of storage of information
+In general, we will only retain your personal information for the
+      shortest period of time necessary to achieve our purposes, and we will
+      delete or anonymize your personal information beyond the corresponding
+      period. However, we may change the period of storage of personal
+      information due to the need to comply with legal requirements in the
+      following cases.
+1) In order to comply with the relevant provisions of applicable laws,
+      regulations or policies, and other regulatory documents.
+2) To comply with the provisions of decisions, etc. of administrative
+      organs or similar authorized organizations, judgments or rulings of
+      judicial organs, awards of arbitration organs, or other legal
+      proceedings.
+3) In order to comply with the relevant provisions of laws,
+      regulations, etc., which we are reasonably certain are required.
+4) For purposes reasonably necessary to enforce the relevant service
+      agreement or this policy, to safeguard the public interest, and to
+      protect the personal and property safety or other legitimate rights and
+      interests of third parties such as our customers, our affiliates, other
+      users or employees.
+When Doggo Go ceases operation, we will notify you in the form of push
+      notifications, website or in-program announcements, and delete or
+      anonymize your personal information within a reasonable period of time.
+8. How this privacy policy is updated
+Our privacy policy is subject to change. In the event of changes in
+      business functions, changes in the purpose of use, or changes in the
+      contact information of the person in charge of personal information
+      protection, we will revise our privacy policy accordingly.
+We will not limit your rights under this Privacy Policy without your
+      express consent. We will provide prominent notice of material changes
+      (including notice via a public notice on the Doggo Go platform, Doggo
+      Gocustomer service notice, etc.).
+Major changes within the meaning of this policy include, but are not
+      limited to.
+Our privacy policy may change. In the event of a change in business
+      function, a change in the purpose of use, or a change in the contact
+      information of the person in charge of personal information
+      protection, we will revise our privacy policy accordingly.
+We will not limit your rights under this Privacy Policy without your
+      express consent. We will provide prominent notice of Majorchanges
+      (including notice via a public notice on the Doggo Go platform, Doggo
+      Go customer service notice, etc.).
+Major changes within the meaning of this policy include, but are not
+      limited to.
+1) Significant changes to our service model. Such as the purpose of
+      handling personal information, the type of personal information
+      handled, the way personal information is used, etc.
+2) Changes in the primary recipients of the sharing, transfer, or
+      public disclosure of personal information.
+3) Significant changes in your rights to participate in the
+      processing of personal information and the manner in which they are
+      exercised.
+4) When there is a change in the department responsible for handling
+      personal information security, our contact information and complaint
+      channels.
+5）When the personal information security impact assessment report
+      indicates that there is a high risk.
+If you choose to continue to use our services after being notified,
+      you agree to be bound by the revised policy.
+We will also keep an older version of this policy on file for your
+      review, which you may request from us through the contact information
+      reserved in this policy.
+9、How to contact us.
+If you have questions or suggestions about this policy or related
+      matters, etc., we have established a dedicated line for personal
+      information protection, and you can contact us through the following
+      complaint channels.
+Report Email: [doggogoapp@gmail.com]
+We will properly receive and promptly reply to your complaint
+      within fifteen days after verifying your user identity.
+If you are not satisfied with our response, especially if you
+      think our personal information processing behavior has damaged
+      your legitimate rights and interests, you can also seek a solution
+      by filing a lawsuit to the court with jurisdiction in the place
+      where the contract was signed. This agreement was signed in
+      Chaoyang District, Beijing, People's Republic of China.
+10、Advertising/Information we send to you
+We may use your relevant information to send you commercial
+      advertisements on relevant websites, applications, and other
+      channels.
+If you do not wish to receive commercial advertisements from
+      us, you may unsubscribe at any time through the appropriate
+      product unsubscribe function.
+11、Application scope
+This privacy policy applies to all services provided by Nox Interactive Technology Limited, including the Doggo Go client, etc., but does not apply
+      to third-party products or services that have separate privacy
+      policies and are not included in this privacy policy.
+12、Others
+The headings in this Privacy Policy are for convenience and
+      reading only, and do not affect the meaning or
+      interpretation of any provision of this Privacy Policy.
+This Privacy Policy is copyrighted by us, and we reserve
+      the right to interpret and modify it to the extent permitted
+      by law.
+《SDK Technical Description》
+System
+Operators
+Products
+Purpose of collecting personal information from
+            third parties
+Types of personal information collected from third
+            parties
+Ways of collecting personal information from third
+            parties
+Android
+Beijing Xiaomi Technology Liability Co.
+Xiaomi Push
+Push messages
+Personal commonly used device information
+            acquisition
+SDK acquisition
+Android
+Huawei Technology Distress Company
+Huawei Push
+Push messages
+Personal commonly used device information
+            acquisition
+SDK acquisition
+Android
+Vivo Holdings Limited
+VIVO Push
+Push messages
+Personal commonly used device information
+            acquisition
+SDK acquisition
+Android
+OPPO Guangdong Mobile Communication Co.
+Oppo Push
+Push messages
+Personal commonly used device information
+            acquisition
+SDK acquisition
+《Instructions for Permissions》
+In order to better experience some of the features, you can
+      choose to enable or deny the following permissions
+      at your own discretion.
+System
+Permissions
+Purpose
+Apple/Android
+Camera Permissions
+Allow Doggo Go to access your camera so you can take
+            photos and send them
+Apple/Android
+Album Permissions
+Allow Doggo Go to access your camera, you can upload
+            your avatar and share pictures
+Apple/Android
+Location permissions
+Allow Doggo Go to get location information so you
+            can match users around you
+Apple/Android
+Notification permissions
+Allow Doggo Go to get access to notifications so you
+            can receive chat messages in real time
+Android
+Storage
+Allow Doggo Go to access your memory card so you can
+            save your favorite pictures
+Android
+Phone access
+Allow Doggo Go to access your device ID to protect
+            your account
+Android
+Device Identifier Permissions
+Allow Doggo Go to access the device identifier to
+            protect your account

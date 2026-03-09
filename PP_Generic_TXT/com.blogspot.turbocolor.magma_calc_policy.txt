@@ -1,0 +1,34 @@
+apps for your phone: confidential policy for the percentage calculator app
+apps for your phone
+Friday, January 21, 2022
+confidential policy for the percentage calculator app
+This doc describes the confidential policy for the percentage calculator app.
+- The application does not collect, analyze and transfer via nets or internet personal information such as addresses, credit cards numbers, e-mail addresses, names, surnames etc. However at the same time app using google analytic api to have acces to non personal statistic data in batch which is decribing below.
+-The application can use the google analytic api for android for non personal analysis of the popularity of the application features. Google analytic sdk for Android dont provide us any personal information about you and your device. Google analytic sdk for Android provide us information about users and its behaviour only in scope in manner like this: "100 users in particular city/country use this feature during yesterday" or "Today app has 100 more users then yesterday" etc. We don't share or transfer any analytics data that we have access with anybody. You can find more details about google analytic api on its Internet resources.
+-The application using Google AdMob api for android for in app advertizing. This api provide some non-personal statistics data about users in batch.  Google AdMob api for Android dont provide us any personal information about you and your device. Google AdMob api for Android provide us information about users only in scope in manner like this: "100 users in particular city/country seen advertizing in your app during yesterday" etc. We don't share or transfer any statistics data that we have access with anybody. You can find more details about Google AdMob api on its Internet resources.
+- Policy regarding permissions requested by applications: the application does not ask for and does not require any permissions.
+- The app uses google payment services to process payments in the app. You can find more details about google payment api on its Internet resources.
+Posted by
+Alex
+at
+2:28 AM
+Email This
+BlogThis!
+Share to Twitter
+Share to Facebook
+Share to Pinterest
+Older Post
+Home
+Blog Archive
+January
+(1)
+December
+(1)
+November
+(1)
+March
+(1)
+Total Pageviews
+Simple theme. Powered by
+Blogger
+.

@@ -1,0 +1,118 @@
+Welcome to Just4Fun Utilities (“J4FU”, “we”, “us, “our”).
+Your privacy  is important to us, so we have created this Privacy Policy
+(“Policy”) to explain how Just4Fun Utilities collects, stores, uses and
+discloses the information about you.
+1.
+What information we collect
+We do NOT collect any Personal or
+Non-Personal Information about you.
+2.
+Third-party
+services
+We may include advertising services (“ads”)
+in our Apps that may be provided by third parties (“Third Party Services”).
+Such Third Party Services’ providers have their own privacy policies and we
+advise you to read them carefully. Below you can find the details of all Third
+Party Services we may work with:
+Advertising
+services:
+Unity Ads
+(
+Webpage
+|
+Privacy Policy
+|
+Opt out
+(Search in FAQs))
+Unity Ads is an
+advertising service provided by Unity Technologies, Inc.
+IronSource
+(
+Webpage
+|
+Privacy
+Policy
+)
+IronSource is an
+advertising service provided by ironSource Mobile Ltd.
+InMobi
+(
+Webpage
+|
+Privacy Policy
+|
+Opt out
+)
+InMobi is an
+advertising service provided by InMobi Pte. Ltd.
+Applovin
+(
+Webpage
+|
+Privacy Policy
+|
+Opt out
+)
+Applovin
+is an advertising service provided by AppLovin Corporation.
+We display ads in
+our Apps to keep them free of charge.
+When you use our
+Apps your device may automatically send Personal and Non-Personal Information
+to our advertising partners. All the information gathered by our advertising
+partners are used only to display ads tailored to your interests and behavior.
+For more information please read the privacy policies of the relevant services.
+Analytics services:
+Google
+Analytics
+(
+Webpage
+|
+Privacy Policy
+)
+Google Analytics
+is an analytics service provided by Google LLC.
+We use analytics
+services to better understand and analyze way you interact with our Apps.
+Crash reporting services:
+Firebase
+Crashlytics
+(
+Webpage
+|
+Privacy Policy
+)
+Firebase
+Crashlytics is a bug reporting service provided by Google LLC.
+We use bug
+reporting services to keep our Apps out of bugs and crashes.
+3.
+Android permissions
+Some of our Android mobile
+applications and games (collectively called “Products”) may require permissions
+like :
+ACCESS_COARSE_LOCATION,
+ACCESS_FINE_LOCATION, ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, CAMERA,
+INTERNET, READ_CONTACTS, READ_EXTERNAL_STORAGE, READ_PHONE_STATE, RECORD_AUDIO,
+SEND_SMS, SET_WALLPAPER, SYSTEM_ALERT_WINDOW, VIBRATE, WAKE_LOCK,
+WRITE_EXTERNAL_STORAGE (collectively called the “Permissions”)
+All Permissions are used in
+Products to provide best user experience. All personal and non-personal
+information obtained by the use of above Permissions are used only by the
+Products itself and are not stored, used, disclosed outside of the Products.
+4.
+Changes to our Privacy Policy
+This Privacy Policy may be updated from
+time to time for any reason. We will notify you of any changes to our Privacy
+Policy by posting the new Privacy Policy on https://just4funutilities.s3.eu-north-1.amazonaws.com/Privacy.htm.
+Your continued use of the Just4Fun Utilities Services following the
+posting of changes will mean you accept those changes.
+5.
+Contact Us
+If you have any questions regarding
+privacy while using the Just4Fun Utilities Services, or have questions about
+our practices, please contact us:
+Just4Fun Utilities
+j4f.utilities@gmail.com
+Warszawa 03-231
+Poland

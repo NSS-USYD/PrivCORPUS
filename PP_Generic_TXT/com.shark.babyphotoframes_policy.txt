@@ -1,0 +1,54 @@
+Private Policy
+Skip to content
+Private Policy
+Menu
+March 9, 2017
+August 20, 2019
+megasharkstudio
+Free application about Photo Frames, Photo Collage, Photo Editor and Camera Effects. Developed and owned by
+MegaShark Developer
+We’re do not store any user information such as Cookies, email, passwords, user-data ….
+Applications does not collect or transfer any data to us or to any third party.
+1. Child Protection and
+Child security
+Child protection is our main priority.
+We do not knowingly contact or do business with children under 13 years of age. If a parent or guardian becomes aware that a child under the age of 13 has attempted to contact and/or do business with us, please advise us by email at hongsoncuchuoi123@gmail.com so that we may rectify the situation.
+Under no circumstance. MegaShark Developer Design will not collect sensitive information from children or from minors and all its mobile apps include strict parental controls in order to protect children from accidental purchases or unwanted publicity.
+We also advise reading this privacy policy since by allowing your children to use our services you are agreeing to this privacy policy on their behalf. If you disagree, please do not allow your child to use our apps.
+We do not contact or collect information from children under 13 age. However, if you believe that we have inadvertently collected such information, please contact us to promptly obtain the consent of the parents/guardians or erase the information.
+2 Explain permissions in our Applications:
++ Access Camera
+<uses-permission android:name="android.permission.CAMERA" />
+This permission help us to get an image from your Camera (take picture from Camera) for photo edit.
+These ingredients serve only for the purpose of photographing on your device, to be used by you.
++ Access Internet
+<uses-permission android:name="android.permission.INTERNET" >
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+These permissions can help us get resources from our server such as: photo effects, photo frame; check network connection …
++ Access Storage
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+These permissions can help us access your storage for save photo do your storage
+Important
+: We respect the confidentiality of information, and we are committed do not store, collect any user information on your device.
+Thanks for support!
+Create a free website or blog at WordPress.com.
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+Cookie Policy
+Subscribe
+Subscribed
+Private Policy
+Sign me up
+Already have a WordPress.com account?
+Log in now.
+Private Policy
+Customize
+Subscribe
+Subscribed
+Sign up
+Log in
+Report this content
+View site in Reader
+Manage subscriptions
+Collapse this bar

@@ -1,0 +1,47 @@
+Privacy Policy
+Last update time: May 27, 2023 (version 1.0.2)
+This Privacy Policy applies to all of the Android apps offered by RYO SOFTWARE.
+If you have any questions about this Privacy Policy, please feel free to contact us at
+info@ryosoftware.com
+.
+If you use any app from RYO SOFTWARE you expressly accept this Privacy Policy.
+Information we collect
+We may collect the following information:
+To validate in-app purchases and/or promotional codes, we collect personal information that can identify you, such as: device configured accounts and/or email addresses.
+To ensure the operation of the apps, we can collect data about your contacts, calendar events, phone calls, location and/or the WiFi access points or phones cells to which you are connected.
+ALL OF THE INFORMATION WE COLLECT IS MANAGED LOCALLY AND IS NOT SENT TO ANY OF OUR SERVERS.
+Exporting data to local files
+Some of our apps has the ability to export user data to sdcard files.
+This option will be manually activated by the user.
+Due to the characteristics of the Android sdcard partition, some apps can access these files, so we recommend that you copy them to a safe location as soon as possible.
+Exporting data to cloud files
+Some of our apps has the ability to export user data to Google Drive.
+This option will be manually activated by the user.
+If is the case, we are using Google API to copy the user data to your Google Drive.
+Logs collection
+Some of our apps has the ability to store trace logs on the sdcard to detect issues and malfunctions.
+This option is disabled by default and must be manually activated by the user.
+The transmission of the logs to the apps developers is done by email at the request of the user, who can check the data and files that will be sent before sending and/or cancel the shipment before it occurs.
+Email communication
+If you contact us by email or using the form enabled on our website, you must keep in mind that we will store the information you provide, including your email address.
+In no case we will share your email address and/or personal information to any person outside RYO SOFTWARE.
+Advertising
+We use Google's Admob and other trusted advertising vendors to provide advertising that helps us make a small profit from the time we spend developing the application.
+Advertising libraries may use
+cookies
+or other control mechanisms to establish their identity and improve the advertising they display.
+You can read more about how Google treats your data
+here
+.
+In any case, I can't control what is exactly the data the Ads partners are collecting from you, but for the case of other partners than Google Admob we are displaying a consent dialog at the first app start.
+Refunds policy for licenses acquired through apps stores
+If you have acquired a license to use any of our products through an apps store (and specially the InApps of our apps purchased through the Google Play Store) and wish to request a refund, you must do so using the forms provided by said apps store.
+If the apps store offers a maximum time to request the refund and that period has already passed, or if the store through which you purchased the product does not offer such possibility, please do not contact us to request it.
+Contacting us
+Any questions in respect of this policy should be sent to the following email address:
+info@ryosoftware.com
+.
+Changes to this Privacy Policy
+Please note that this Privacy Policy may change from time to time.
+We will not reduce your rights under this Privacy Policy without your explicit consent.
+We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a dialog into the main activity of the RYO SOFTWARE apps.

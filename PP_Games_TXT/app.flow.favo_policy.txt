@@ -1,0 +1,107 @@
+Policies | flow
+Index -
+English
+/
+日本語
+Terms of Service
+Privacy Policy
+Third-party Middleware
+Terms of Service -
+English
+/
+日本語
+Updated September 5, 2019
+
+Welcome to flow Inc.’s official website where you can find policies and terms governing your use of products and services provided by flow Inc.
+
+[Our User]
+These Terms of Service will be applied to any person downloading our Application with the wish to use our services. Downloading our Application and using our services indicates your agreement to our Terms. We do not take responsibility for any costs generated from downloading our Application or the use of our services.
+
+
+[User Information]
+We will handle your personal information according to our Privacy Policy.
+
+
+[The Rights we Reserve for our application]
+(1)Everything displayed or every component such as program that compose our application, copyright and trademarks and all intellectual property rights belong to our company or the provider of the contents.
+(2)Our application is for your personal use only and not for commercial exploitation. Reproduction of contents without permission is prohibited.
+(3)In case there has been a violation of our provisions and infringement to our intellectual property rights, the user must solve the issue on their own at their own expense.
+
+
+[Prohibited Acts]
+You agree that, in connection with your use of the Service, you will not:
+(1)Reproduce, modify, change, alternate or adapt our application.
+(2)Reproduce or disclose any of our programs (object code, source code, etc.) that constitute our application.
+(3)Interfere with our Service or any kind of action that could lead up to interfering with our service.
+(4)Violation of the law and regulations or conduct acts that are or may be offensive to public order and morals.
+(5)Other acts that we feel are not appropriate.
+If we see a violation we will bring the services to a close without prior notice. And in case there is loss or damage to other users, non-users or to our company we will terminate or delete your user qualifications and may demand compensation for damages. We do not assume any liability or responsibility for loss or damage to the user or any other person due to the termination or deleting of your user qualifications and the Service not being available anymore.
+
+
+[Disclaimer]
+We assume no liability or responsibility for the following matters:
+(1)Any loss or damage to other users or any other person from your access to and use of the Services.
+(2)Any loss or damage to the user from using the Service or from not being able to use the Service.
+
+
+[Updates to Terms of Service]
+(1)We may apply partial or total changes to our application or services without your prior approval.
+(2)We may modify our Terms of Service from time to time without your prior approval. In addition, the new terms will take effect when modified.
+(3)When we have presented other terms of use to our other application software and in case those terms contradict with the Terms of Service, the newly presented terms of use shall prevail.
+
+
+[How to Contact Us]
+If you have any questions about our Terms of Service, please contact us from the link below:
+Contact
+Privacy Policy -
+English
+/
+日本語
+Updated September 5, 2019
+
+This Privacy Policy describes how flow Inc, collects, stores, uses and protects your information when you use our App and receive our Services.
+
+[How We Use the Information We Collect]
+(1)To provide the Services to you.
+(2)To provide User Support and for maintenance of our system.
+(3)To inform you of relevant security issues or updates, or provide other transaction-related information to you.
+(4)To engage in marketing research, statistics and analysis.
+
+
+[Information Collected through the Services]
+(1)To provide you with our service we may collect the name of your Device and OS information.
+(2)Without your consent we will not collect your personal information such as your name, address, email address, telephone number or credit card number.
+
+
+[How we share your Information with Third Parties]
+We may share your personal information with third parties but only in the following circumstances:
+(1)When you the user agree to provide the information.
+(2)We disclose your personal information to our employees, contractors, affiliates, distributors, dealers, vendors and suppliers who provide certain services to us or on our behalf to provide you with our services.
+(3)When we are required to do so by legal reasons.
+
+
+[Discloser and Change to Personal Information]
+With request and proper identity verification we will disclose, correct, add or delete your registered personal information.
+
+
+[The use of Third-Party Middleware]
+In our service we use third-party middleware to collect information to handle marketing research, analysis and overall improve our services. The collection of information is done in a way that will not lead to identifying any individual. For details about third-party middleware, please view the Third-party Middleware page with privacy policy for each middleware. In case you are not comfortable with this collection of information, uninstalling our application will terminate the process.
+
+
+[How to Contact Us]
+If you have any questions about our Privacy Policy, please contact us from the link below:
+Contact
+Third-party Middleware
+Unity
+(Ads, Analytics)
+https://unity3d.com/jp/legal/privacy-policy
+Google
+(Ads, Analytics)
+https://policies.google.com/technologies/partner-sites
+Google Firebase
+(Ads, Analytics)
+https://firebase.google.com/support/privacy/
+Photon
+(Network service for online games)
+https://dashboard.photonengine.com/ja-JP/account/privacyandcookiepolicy
+© 2012-2023 flow Inc.

@@ -1,0 +1,83 @@
+Privacy Policy
+January 12, 2022
+Threema GmbH (hereafter “Threema”) was founded on the premise of uncompromising data protection. It is our primary goal to store only the absolute minimum of information for the shortest possible time (“Privacy by Design”). In addition to using state-of-the-art encryption methods, we take all necessary technical and organizational measures to prevent unauthorized data access and misuse.
+1. General Information
+The Threema app was developed in order to leave as little metadata as possible on a central server. It is therefore not absolutely necessary to provide personal data in order to use the app. The identification of a user of the Threema app takes place exclusively via an 8-digit ID and a key pair created by the user themself. Groups and contact lists are only managed on the devices of the participating users.
+As a Swiss company, Threema is subject to the laws and decrees of Switzerland. The processing and protection of user data is carried out in accordance with EU Regulation 2016/679 (GDPR). Details about the surrounding legal conditions can be found in the
+transparency report
+.
+The Threema app
+can be used without providing any personal data
+. If users voluntarily provide their phone number or email address, they confirm in accordance with art. 8 GDPR that they are at least 16 years old or have obtained the consent of their legal guardian. By using the app, users agree to the collection, processing and use of data as described below.
+2. Purpose of Data Processing
+Threema processes data to enable the transmission of short messages and media to other users. The data is processed exclusively by Threema on its own server infrastructure in Switzerland and is not passed on to third parties.
+3. Scope and Duration of Data Processing
+A. Inventory Data
+In the context of the use of the Threema app, the following inventory data are collected:
+Threema ID
+Public key
+Operating system and version of the Threema app
+Date (without time) of creation of the Threema ID
+Date (without time) of the last login
+The following information is optional and can be provided by the user voluntarily in order to make it easier to be found by other Threema users:
+Nickname
+Mobile phone number (one-way encrypted)
+Email address (one-way encrypted)
+When exchanging messages, only the following information is passed on to other users:
+Threema ID
+Public key
+Nickname
+The information is not passed on to third parties.
+All data is only stored by Threema until deleted by the user. Once the information is deleted, it cannot be restored.
+B. Message Contents
+The Threema app encrypts all messages exchanged by users using a secure end-to-end encryption method.
+Header information of messages (sender, recipient etc.) is protected by an additional encryption layer for transmission to the server, and from the server to the recipient, to prevent eavesdropping by third parties (e.g. in open wireless networks).
+Threema GmbH as the operator of the Threema servers has no possibility to decrypt messages of users because it does not have knowledge of their private keys.
+All encrypted messages that users exchange are completely deleted on the servers as soon as they have been successfully delivered. The same goes for encrypted media (images, videos, files etc.) in direct chats between two users. Encrypted media in group chats, as well as any messages and media that have not, or only incompletely, been fetched, will in any case be deleted from the server automatically and irretrievably after two weeks.
+Messages that users send to Threema (e.g. to the “*SUPPORT” ID, or to Threema Broadcast or specific Threema Gateway IDs) will only be stored as long as is necessary for providing the respective service, and are then irretrievably deleted. When communicating with other providers that are based on Threema Gateway or Threema Broadcast and whose IDs begin with an asterisk (*), the privacy policies of the respective providers apply.
+C. Address Book Data
+At the express request of the user, email addresses and phone numbers from the user's address book can be synchronized. This data is transmitted to the servers in one-way encrypted (“hashed”) form and additionally protected using TLS. The servers only keep these hashes in volatile memory for a short time to determine the list of matching IDs, and then delete the hashes immediately. At no point are the hashes or the results of the synchronization written to non-volatile storage.
+D. Location Data
+The “send location” feature transmits the coordinates of the user’s current location to the Threema server if and only if the user has allowed location sharing on their mobile device and the permission to access the user’s location has been granted. The coordinates are used to display a map section including a list of POIs (Places of Interest). The coordinates are transmitted in encrypted and anonymized form, without any reference to a Threema ID or any personally identifying information.
+Generally, to use the “show map” feature, location sharing is not required. If location sharing is enabled, the permission to access the user’s location has been granted and the “your location” feature is used, the coordinates of the user’s current location are transmitted to the Threema server in order to center the map at the user’s current location. Both transmission and processing of the coordinates are performed in encrypted and anonymized form, without any reference to a Threema ID or any personally identifying information.
+If the features “send location” and “show map” are not used, or the permission to access the user’s location has not been granted, no coordinates will be transmitted.
+E. Crash Reports
+In order to improve the stability and reliability of the app, Threema relies on anonymous crash reports.
+iOS:
+If the user voluntarily and explicitly agrees to the transmission of a crash report after a crash of the app, information about the crash (status of the app at the time of the crash) is transferred to a server of Threema and stored there for evaluation. If the user does not agree to the crash report transmission, nothing will be sent. Crash reports do not contain any personal data. On iOS, they consist of a stack trace, some information about the device (model, operating system version, but no serial number or similar), the app version, the time stamp of the start and crash, and the list of software libraries loaded in memory. Processor register contents or log messages are not being collected.
+F. License Verification
+To prevent abuse and piracy, the entitlement of a user is verified when creating a Threema ID. For this purpose, the anonymized digital purchase receipt from the app store (Apple/Google/Huawei) is sent to the server and verified. A one-way encrypted (hashed) version of this receipt is stored along with a counter, and the receipt is immediately destroyed. Threema does not receive personal data from the buyer and cannot link the created Threema ID to the buyer. In case of licensing using a license key, the license key will be sent instead of the digital purchase receipt.
+4. Data Processed by Third Parties
+Threema does not pass on any data to third parties, is completely free of advertising and does not use analytics software to monitor user behavior. However, some functionalities can only be provided by using external data sources, frameworks or operating system services, which in turn process data and are subject to a separate privacy policy.
+A. Crash Reports
+In order to improve the stability and reliability of the app, Threema relies on anonymous crash reports.
+Android
+: If the user voluntarily and explicitly consents to the general transmission of crash reports to Google when setting up their mobile phone, information (status of the app at the time of the crash, stack trace, manufacturer and operating system of the mobile phone, latest log messages) will be transmitted to Google and stored there for evaluation by Threema. This information does not contain any personal data.
+5. Right to Information, Correction, Blocking, Deletion and Objection
+Users have the right to receive information about their personal data stored by Threema at any time. Likewise, users have the right to correct, block or (apart from the legally required data storage for business purposes) delete their personal data.
+The stored inventory data can be viewed at any time within Threema in the “My ID” screen and can be corrected or deleted by the user with immediate effect. Users can also obtain this data in machine-readable form:
+https://threema.ch/en/faq/get_my_data
+In case of loss of the end-user device, mobile phone numbers and email addresses linked to a Threema ID can be deleted via the following link:
+https://myid.threema.ch/unlink
+Users can delete all personal data related to their Threema ID and revoke their key pair at any time using the following link:
+https://myid.threema.ch/revoke
+6. Responsible Body
+In case of any questions about data protection at Threema, users can contact Threema via email.
+Responsible body and direct contact for data protection topics at Threema:
+Threema GmbH
+Data Protection Officer
+Churerstrasse 82
+8808 Pfäffikon SZ
+Switzerland
+privacy@threema.ch
+CHE‑221.440.104
+Representative in the EU according to Art. 27 para. 1 GDPR: ACC Datenschutz UG, Messestraße 6, 94036 Passau, Germany
+7. Amendment of the Privacy Policy
+Threema reserves the right to change this Privacy Policy from time to time in order to comply with changed legal requirements or to reflect new functionalities of the app. The current Privacy Policy is always available for consultation from within the Threema app.
+Disclaimer
+This is a mere translation of the German version of this document.
+In case of any discrepancies between the English version and the German version of this document,
+the
+German version
+will prevail
+.

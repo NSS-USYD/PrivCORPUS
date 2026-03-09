@@ -1,0 +1,8 @@
+Cool Reader for Android Privacy Policy
+CoolReader application for Android platform uses
+READ_PHONE_STATE
+permission which may be considered as dangerous.
+This permission is used only for
+pausing Text-To-Speech on incoming call
+.
+Neither phone number nor other sensitive information is used by application.

@@ -1,0 +1,37 @@
+Privacy - Snake '97 - Play Snake like it's 1997! - The original, classic, retro mobile phone game
+Snake '97
+About
+Press
+Blog
+Play
+Privacy
+As app builder, I value my and your privacy very much. Therefore I have designed Snake '97 to not collect any personal data. The game can run without any special permisions on your smartphone because of this.
+App owner
+The app is owned and published by publisher "dsd 164 B.V." wich in turn is owned and managed by me, the app builder:
+Willem L. Middelkoop
+.
+dsd 164 B.V.
+Dalsteindreef 164, 1102WX Amsterdam (The Netherlands). Dutch chamber of commerce registration number 53888170 and tax identification number NL851059752B01.
+Analytics, web statistics and cookies
+The Snake '97 app and its website (snake97.com) do
+NOT
+use (Google) Analytics software to track traffic. Therefore you won't get a cookie either, sorry. :-)
+Online / Offline
+You can use Snake '97 offline as much as you like, there is no online requirement for using Snake '97. Only at the first time you start the game, it needs to load optimised graphics for your device. As there are millions of players (and devices) available, Snake supports a ton of different screen resolutions. To keep the game's storage requirement at an absolute minimum (just a few MB!), the app only downloads those graphic files that it actually uses. No information is posted to the Snake '97 servers as all the game's assets are static (and pretty 'dumb') files.
+Highscores
+To calculate the world wide ranking, game scores can be posted to the Snake '97 score server if you choose to use the app online. This is 100% anonymous as the game uses a randomly generated GUID to keep track of your rank. If you like you can reset this by reinstalling the app, anytime. Information that Snake '97 collects for high score validation:
+your score (duh)
+game settings including the game speed, labyrinth and mode
+info to validate your score and to prevent cheaters from posting invalid scores, such as the duration of gameplay and number of scores (e.g. The amount of creatures the snake ate)
+Advertising
+The development of Snake '97 is supported by advertisments from Google and Facebook. You can (and should) check out their privacy statements as their services span beyond the scope of the Snake '97 game:
+Facebook privacy statement
+Google privacy statement
+Security
+I implement a variety of security measures to keep the app and website safe. For instance, all communication with the app score server and website requires HTTPS.
+Deleting your information
+Is as simple as removing the app from your phone.
+Contact
+If you have any questions, feel free to contact me using
+willem.com
+Yours faithfully, the app builder, Willem.

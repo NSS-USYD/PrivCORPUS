@@ -1,0 +1,110 @@
+Second Gear Games
+Loading the content...
+Loading depends on your connection speed!
+Navigation
+Home
+Our Games
+Legal
+Terms of Use
+Privacy Policy (Apps)
+Privacy Policy (Website)
+Unsubscribe Policy
+get social with us
+Facebook
+Twitter
+updates and news
+Privacy Policy updated
+on August 2, 2022
+New game: Hexiwords
+Find all hidden words!
+Copyright 2008-2022 Second Gear Games
+Privacy Policy (Apps)
+IMPORTANT:
+In order to simplify our Privacy Policy, we have split it into two separate pages. The one your are reading addresses how and why we collect and share user information through our mobile apps (“Apps”). The second one,
+Privacy Policy (Website)
+, is about how user information is handled by our website (
+www.secondgeargames.com
+).
+This Privacy Policy applies to all our mobile apps that do not have their own separate privacy policy. This Policy does not cover any third-party apps, websites and other content accessible from our Apps through a link (either provided by us, or included in an advertisement delivered by an ad network).
+Information collected through our apps
+Information collected by app stores
+Collection:
+When you purchase, download and install any of our apps from any app store, or make an in-app purchase, the operator of this app store collects information necessary to facilitate the transaction. Collection of such information is governed by the privacy policy of the store operator and by applicable laws. The store operator provides us with access to aggregate statistical non-personal information, and, in some app stores, with limited anonymized information related to the purchase orders. The amount of information shared with us by the store operators is standard and does not exceed what other app publishers have access to.
+Use:
+We use this information to monitor the performance of our apps on the market and to process user inquiries related to purchase transactions.
+Sharing:
+We do not share information provided to us by the app store operators with any third parties.
+Information collected by other third-party service providers
+In some of our apps we use code (Software Development Kits, or “SDKs”) provided to us by third parties for the purposes of integrating analytics, advertising and account management into our Apps. The scope of the collected information, its use and sharing is described below for each of the third-party service providers.
+Google AdMob (Google Mobile Ads SDK)
+Collection:
+AdMob service is operated by Google and is used in our apps to display third-party ads. According to Google, the following information is collected from the app users automatically: IP address, user product interactions, diagnostic information, device and account identifiers. All this data is encrypted in transit. For more details, please refer to
+AdMob data disclosure recommendations
+. Through AdMob interface, we have access to aggregate non-personal statistical information about the delivery and performance of ads in our apps. We cannot trace this information back to individual users. To give users more choice, we are in the process of implementing industry-standard messages to ask for user consent to share device and user ids that allow ad networks to serve more personalized ads.
+Use:
+Google uses this information to deliver personalized ads in our apps, to get feedback about ad interactions and resolve any technical issues related to ad delivery and display. More details about Google’s handling of user data can be found in
+Google’s Privacy Policy
+.
+Sharing:
+We do not share this information with any third party outside of Google AdMob service.
+Google Firebase (Firebase Analytics and Firebase Remote Config SDKs)
+Collection:
+Firebase Remote Config collects the following data automatically: country code, language code, time zone, platform version, OS version, app id, package name of the app, Firebase installation id, and the version of the SDK itself (see
+Remote Config data disclosure recommendations
+). Firebase Analytics collects the following information automatically: app instance id (not associated with a user id), advertising id, anonymized IP address, in-app purchase events, app life cycle events (see
+Firebase Analytics data disclosure recommendations
+).
+Use:
+We use Firebase Remote Config to fine-tune our apps without republishing them to the app stores. We may run test to find out what app features perform better. We use Firebase analytics to get aggregate non-personal information about our Apps’ users, as well as the performance of our apps across different platforms and geographies, including the results of the tests set up through Remote Config. In some of our apps we also use Firebase to collect information about technical issues and crashes of our Apps. None of the above information can be traced by us to individual users.
+Sharing:
+We do not share this information with any third party outside of Google’s Firebase service.
+Facebook Login (Facebook SDK)
+Collection:
+In some of our Apps, we offer optional account creation functionality. Creating an account with us is not necessary to use the entire content of our apps. As one of the account creation options we use Facebook Login service. If a user chooses to log in with Facebook, they are redirected to either Facebook website or Facebook app in order to enter their credentials. This process happens outside of our app and we do not have access to the user’s Facebook login credentials. During the login sequence, Facebook informs the user what kind of data our app will have access to (we normally ask for the first and last name, email address and sometimes for profile picture). The user has a chance to opt out from sharing this information with us. After the login process is completed on the Facebook side, Facebook Login returns the control back to our app and provides us with such user information that the user allowed sharing of. We also receive a unique numeric user id that identifies the user across all our apps on Facebook. This id is generated by Facebook for our apps only and cannot not be used for any other Facebook activities of the user. For more information on Facebook’s user data practices, please refer to
+Meta’s Privacy Policy
+.
+Use:
+We use Facebook Login to simplify the optional account creation and login for our users. Please refer to the
+Account creation
+section of this policy for the details on how we use user account information.
+Sharing:
+We do not share this information with any third party outside of Facebook. The only exception is the email services that send our email campaigns and transaction emails. These services receive email addresses of the recipients.
+Information collected by us
+Account creation
+Collection:
+We may offer optional account creation functionality in some of our apps. Creating an account with us is not necessary to access the entire content of our apps. Users can create an account in one of two ways: (a) by signing up using their email address and creating a password; (b) by using Facebook Login service. Data collected through Facebook Login is described in the
+Facebook Login
+section of this Policy. If the user chooses option (a) to create the account, we collect the following data: the user’s email address, hashed password, the language chosen by the user in the app, the id of the store the app was installed from.
+Use:
+Some of our apps use this account to store the user’s game progress on our server so this progress could be restored in case the user deletes and then re-installs the app. We also use this account to reward our most loyal customers with free game currency. The email addresses provided by users may be used to send them information and updates pertaining to Second Gear Games products and services. They may also be used to respond to user requests or questions. To allow users to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. Alternatively, users can send unsubscribe requests to
+[email protected]
+Sharing:
+We do not share this information with any third party except the email services that send our email campaigns and transaction emails. These services receive email addresses of the recipients for email delivery.
+Access logs
+Collection:
+When one of our apps makes a request to our servers, the server logs the originating IP address and some technical information about the software platform the request came from (browser, operating system, etc.).
+Use:
+We use this information for diagnostics and troubleshooting of our online services.
+Sharing:
+We do not share this information with third parties.
+Modification and deletion of personal information
+Users can request modification or deletion of their personal information by contacting us at
+[email protected]
+. We will verify the existence of the personal information in our databases, make any requested changes, and/or delete any or all parts of the personal information as requested by the user. We cannot, however, prevent collection of personal information from the same user in the future should the user submit such information to us again by using our services after the deletion request has been fulfilled.
+Changes to this privacy policy
+Second Gear Games has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our website and modify the date at the bottom of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Your acceptance of these terms
+By using our services, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our products and services. Your continued use of our services following the posting of changes to this policy will be deemed your acceptance of those changes.
+Contacting us
+If you have any questions about this Privacy Policy, the practices of our apps, or your dealings with our services, please contact us at:
+[email protected]
+This document was last updated on August 2, 2022
+Copyright 2008-2022 Second Gear Games
+Share Page
+Facebook
+Twitter
+Google
+Pinterest
+Text
+Email
+Close

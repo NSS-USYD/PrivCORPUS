@@ -1,0 +1,12 @@
+The Simple Apps - Privacy Policy
+"The Simple Apps" developer
+- Do not collect any information
+- Do not require unnecessary permissions
+- Display ads using Google AdMob platform that may collect certain information from apps
+Net Blocker app
+- Only sets up a local VPN interface to be able to block the network traffic of apps without root
+- Does not connect to a remote server to steal your privacy data
+DNS Changer app
+- Only sets up a local VPN interface to be able to change DNS server addresses without root
+- Does not connect to a remote server to steal your privacy data
+Copyright © 2021

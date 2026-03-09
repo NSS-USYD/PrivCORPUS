@@ -1,0 +1,212 @@
+Privacy agreement
+At HELE , we take your privacy seriously.
+Updated on April 11, 2022
+QCY APP(referred as Product)
+is a product provided by Dongguan Hele Electronics Co., Ltd.(referred as HELE)
+			involving both software and hardware.
+This document describes information that HELE and its subsidiaries collect, use, share, or store data
+				including personal information (i.e., information that personally identifies you) or a combination of data that can
+				be reasonably used to infer information about you (such as your email address or mobile phone IMEI).
+Your Consent:
+By using Product, you agree to allow us to collect and process information as described in this
+				Privacy Policy. Your personal information may be collected, processed and stored by HELE.
+â… . How HELE collects and uses your personal information:
+What HELE collects:
+1.Basic personal information:
+Some of the basic personal information provided by you, like user name, contact methods, birthday
+					and address. Usernames and profile photos may be shown to others in connection with HELE services. We routinely
+					record log entries and technical information when your mobile device, tablet or PC contacts our systems.
+2.Information input during setup:
+When you install Product, you will be asked for certain basic information like your phone number,
+					email address, your Facebook account information, and your general location (e.g., city or country).
+3.Technical information of the device:
+In order to improve your experience over time, help troubleshoot problems you may encounter, and
+					provide updates for Product, we store your device information, such as camera model and serial number, hardware
+					and software versions, and mobile phone information like unique identifiers (including IMEI and MAC), operating
+					system, crash logs, error logs, and language settings.
+Further, to improve your experience, we collect but do not associate your account or email with
+					aggregated, non-identified data on functions used and frequency of use.
+4.Body data:
+We need you to provide your height, weight, gender and age after you launch QCY APP.
+5.Data recorded by device:
+When you use QCY APP to synchronize data with related device, we will record your personal data
+					including activities, sleep, heart rate(HR), SpO2, weight, rowing times and speed, swimming times, impedance,
+					distance, swimming gesture, pace, workout time, body temperature, blood pressure, body fat, ECG, respiratory rate,
+					and emotional and pressure information.
+6.Incoming call:
+When you use notification for incoming call, short message and address list, QCY APP will access
+					relative data. Under your permision, all relative incoming calls, short messages, address list will be applied to
+					smart band and watch to display, but QCY APP will not store data related to such functions.
+7.Phone information:
+When you use QCY APP, we need to access the OS, brand, model and system time of your phone.
+8.Music control information:
+When you use music control, we will collect music information like music name, album name, singer,
+					topic and music status from your phone. The information will only be displayed on device, but not be stored by us.
+9.Device information:
+When you link QCY APP to a device, including but not limited to unique identifiers, hardware ver.,
+					general location(not personal data) and relative use information will be uploaded to server. Above collected data
+					will be used for factory setting, updating system or software.
+10.Relative information:
+When you use Relative function, you can authorize and add other users as your relatives. Their
+					data(like activity, sleep, weight, HR, blood pressure, body fat, SpO2 and ECG) will be displayed to you.
+11.List of installation software :
+When you log in QCY APP or use Push Notifications, we need to access the List of Installation
+					Software.
+12.Information provided during using functions:
+If you set a target or HR warning in QCY APP, such data will be collected to send notice or warning
+					when you reach the target or value. If you use female health and input the duration, interval, last day, start day
+					and end day of menstruation as well as your body status during the period, all of the above data will be
+					collected. If you choose to make watch face, all of your uploaded pictures will be collected and used as the
+					background of watch face.
+How HELE uses the information:
+We use the information to provide, develop and improve Product and its service, including to make
+				assessments and recommendations about products or safety. We may use your contact details to send you the
+				information, to ask you to participate in surveys about using Product, and to send you other communications from
+				us.
+We may also use the information in an aggregated, non-identified form for research purposes and to
+				help us make sales, marketing, and business decisions. For example, we use aggregated, non-identified information
+				about the times users in a particular region use a particular function to help us determine if the function is
+				desired by customers.
+				We may use service providers to perform some of these functions. Those service providers are restricted from
+				sharing your information for any other purpose.
+We use industry-standard methods to keep this information safe and secure while it is transmitted
+				over your home network and through the Internet to our systems.
+Basic Profile Information:
+Your account allows you to provide certain basic profile information like a username of your choice,
+					contact information, birthday and address. Usernames and profile photos may be shown to others in connection with
+					HELE services. We routinely record log entries and technical information when your mobile device, tablet, PC, or
+					HELE Product contacts our systems.
+â…¡.What authorization we need to activate:
+Location permissions:
+1.QCY APP collects location data to enable function of the weather even when the app is closed or
+					not in use.
+2.QCY APP collects location data to enable BLE signal search, Bluetooth connection and find earbuds
+					even when the app is closed or not in use.
+Suspension wWindow authorization:
+Pop-up: It is used for quick connection via pop-up, which needs to be activated if you need the
+					quick connection.
+Storage authorization:
+It is used to customize the picture selection function in avatar, feedback and other functions.
+List of installation APP:
+It is used for invoking social platform apps in your device to log in Product via a third party and
+					share information on these platforms.
+Call log permissions:
+It is used for linking the watch to your phone as a way to use the watch to make a call.
+Dialing authorization:
+It is used for linking the watch to your phone as a way to use the watch to dial.
+Address list aAuthorization:
+It is used for displaying your address list on the watch.
+SMS permissions:
+It is used for checking real-time short message through the watch.
+â…¢.How HELE shares your information:
+We only share your personal information for necessary purposes and in a range that has to do so, including
+				providing services you selected in the app, helping you participate campaign and receive gifts and forwarding you
+				with personal ads with third parties.
+Such third parties include:
+1.We use MobTech SDK service from a third party, Shanghai Youkun Information Technology Co.,
+					Ltd.(referred as MobTech) to provide you with social sharing and third-party login. You are required to authorize
+					MobTech SDK to provide the above services. After such authorization, MobTech will collect your personal
+					information. For type and use of such data, and protection rules and quit mechanism of personal data, please refer
+					Privacy Policy at www.mob.com/about/policy.
+2.We use amap open platform location SDK and amap open platform map SDK provided by a third party
+					AutoNavi to provide you with map, location, search and other functions. In order to realize these functions, you
+					are required to authorize amap open platform to provide relative service. AutoNavi will collect your personal
+					information upon such authorization. For details about the type and use of such information
+					and rules of personal information protection and quit, please refer to Privacy Policy of
+					AutoNavi(https://lbs.amap.com/pages/privacy/).
+3.For acquiring abnormal information including app breakdown and crash, updating app and improving
+					user experience, Android version app uses Bugly SDK(Tencent) collecting your deviceâ€™s identification(such as IMEI,
+					IMSI and MAC). For your information safety, we have cut a data safety and security deal with the service provider
+					who will strictly act in line with our requirements on data privacy and information safety. We will share your
+					personal information with no other party without your concent. For better understanding data type of Bugly SDK and
+					how it is used, you may visit its site to read Privacy Policy of Bugly SDK.
+4.We use SDK service of Sina Weibo from a third party, Beijing Weimengchuangke Network Tech Co.,
+					Ltd.,
+					to provide you services like logging in and sharing content to a third-party App. This is used when you log in or
+					share content to Weibo.
+					To achieve the functions, you need to authorize Weibo SDK to offer them. Weibo SDK will garner your and your
+					deviceâ€™s information after your authorization.
+					With regard to the type and use of such information, rules of personal information protection and quiting
+					mechanism of Beijing Weimengchuangke Network Tech Co.,
+					Ltd., please refer the SDK service privacy policy of Sina Weibo development
+					platform(https://open.weibo.com/wiki/Sdk/privacy).
+5.We use SDK service of Wechat login and sharing from a third party, Shenzhen Tencent Computer
+					Systems Co., Ltd., to provide you services like logging in Wechat and sharing content on Wechat. This is used when
+					you log in or share content to wechat. To achieve the functions, you need to authorize Wechat SDK to offer them.
+					Wechat SDK will garner your and your deviceâ€™s information after your authorization. With regard to the type and
+					use of such information, rules of personal information protection and quiting mechanism of Shenzhen Tencent
+					Computer Systems Co., Ltd., please refer the Wechat SDK service privacy
+					policy(https://www.tenpay.com
+/v3/helpcenter/low/privacy.shtml).
+6. We use SDK service of ã€Xiaomi PUSHã€‘ from a third party, Beijing Xiaomi Mobile Software Co., Ltd.,
+					to provide you message push services when you use Xiaomi phone. ã€Xiaomi PUSHã€‘ SDK service will garner your and
+					your deviceâ€™s information after your authorization. With regard to the type and use of such information, rules of
+					personal information protection and quiting mechanism of Beijing Xiaomi Mobile Software Co., Ltd., please refer
+					the ã€Xiaomi PUSHã€‘ SDK service privacy policy(https://dev.mi.com/console/doc/detail?pId=1822).
+7. We use SDK service of ã€Huawei PUSHã€‘ from a third party, HUAWEI Software Technology Co., Ltd., to
+					provide you message push services when you use Huawei phone. ã€ Huawei PUSHã€‘ SDK service will garner your and your
+					deviceâ€™s information after your authorization. With regard to the type and use of such information, rules of
+					personal information protection and quiting mechanism of HUAWEI Software Technology Co., Ltd., please refer the
+					ã€Huawei PUSHã€‘ SDK service privacy
+					policy
+(https://developer.huawei.com/consumer
+/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050042177).
+8. We use SDK service of ã€OPPO PUSHã€‘ from a third party, Guangdong HeyTap Technology Co., Ltd., to
+					provide you message push services when you use OPPO phone. ã€ OPPO PUSHã€‘ SDK service will garner your and your
+					deviceâ€™s information after your authorization. With regard to the type and use of such information, rules of
+					personal information protection and quiting mechanism of Guangdong HeyTap Technology Co., Ltd., please refer the
+					ã€OPPO PUSHã€‘ SDK service privacy policy(https://open.oppomobile.com
+/new/developmentDoc/info?id=10288).
+9. We use SDK service of ã€VIVO PUSHã€‘ from a third party, Guangdong Tianchen Network Techlogy Co.,
+					Ltd. and its authorizer vivo development platform , to provide you message push services when you use VIVO phone.
+					ã€ VIVO PUSHã€‘ SDK service will garner your and your deviceâ€™s information after your authorization. With regard to
+					the type and use of such information, rules of personal information protection and quiting mechanism of Guangdong
+					Tianchen Network Techlogy Co., Ltd. and its authorizer vivo development platform, please refer the ã€VIVO PUSHã€‘ SDK
+					service privacy policy(https://dev.vivo.com.cn/
+documentCenter/doc/652).
+10. We delegate a third party - Shenzhen Yixiang E-Commerce Co., Ltd. - to provide you with
+					customized QCY brand information and ads subscription service which require your authorization to collect your
+					email. We will share your personal information with no other party without your concent.
+Notwithstanding the foregoing, the following are the limited situations where we may share personal information
+				with other third party with exemptions for the firms stipulated in Clause â…¢ :
+1.For external processing:
+We have vendors, service providers, and technicians who help with some of our processing and
+					storage, including helping answer your questions. They may also assist with monitoring our servers and systems for
+					technical problems. These technicians (as well as HELE employees) can access certain information about you or your
+					account relating to this work, but these technicians are not allowed to use this data for non-HELE purposes.
+2.As part of business transition:
+Upon the sale or transfer of the company and/or all or part of its assets, your personal information
+					may be among the items sold or transferred. We will require the purchaser treat such data under the Privacy
+					Policy.
+3.For legal reasons:
+We may provide information to a third party if we believe in good faith that we are required to do
+					so for legal reasons. For example, we may disclose information in response to legal process.
+					If you select an outside party for the purchase, installation, or service and share your personal information, we
+					cannot control the collection, storage or sharing of information collected by that party. For example, if you buy
+					Product from a retailer, the retailer may collect personal information as part of the transaction.
+â…£.How we store your information:
+Storage location:
+China
+Storage period:
+period that relative laws and regulations stipulate for providing such services
+					How we deal with your information when the period ends: Your information will be deleted or anonymized.
+â…¤.What information we could send you:
+We could send you short messages, emails, news or notices when you are using our service. You can also cancel
+				subscription according to instructions.
+â…¥.How you manage your information:
+You can access, modify, copy or delete your personal information, revoke consent, delete account or exercise
+				other rights in settings of the app or by contacting us.
+â…¦.How we protect minors:
+For any users under 14 years old, please do not use Product until you confirm signature policy with your
+				custodians.
+â…§.How to delete my account:
+You can delete your account on home page of Product. Please note if you delete your QCY account, the account can
+				no longer be used to log in to enjoy functions and service of QCY with all information related to it will be
+				removed. Whereas, you can still enjoy any service or funtions that do not need login. After your account is
+				deleted, we will stop providing you with relative products or service and - with exemptions for information that
+				laws or regulations require to store - delete or anonymize your personal information within 7 working days.
+â…¨.How to contact us:
+If you have any questions, please contact us via
+qcy@qcy.com
+and we will reply your request or claim
+				within legal period.

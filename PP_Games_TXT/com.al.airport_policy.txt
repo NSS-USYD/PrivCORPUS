@@ -1,0 +1,114 @@
+Privacy Policy - Coda Labs
+Privacy Policy
+Coda Platform Privacy Policy
+Last Updated: October 28, 2019
+Coda Platform Limited (collectively, Coda, “us'', ''our'' or ''we'') provides this Privacy Policy (this “Policy”) to describe the ways we collect, store, use, and manage the information, including personal information, and data that our users (''users'' or ''you'') provide or we collect in connection with the Coda website available at https://codaplatform.com and any Coda game provided on a mobile platform (each a “Service,” collectively, the “Services”). Coda is the data controller, and is responsible for your personal data.
+Please note that the scope of this Policy is limited to information and data collected or received by Coda through your use of the Services. Coda is not responsible for the actions of individuals with no relationship to Coda or third party companies, the content of their sites, the use of information or data you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with, those individuals or companies.
+Data Collection
+When you use our Services, you may give us your contact information directly on our website, generally your name and email address (“Contact Data”). We also collect certain information and data, such as your application usage, access, session times, your unique device ID, IDFA, hardware type, the version of your operating system (“OS”), your device name, and your general (city/country) location (based on your Internet Protocol (“IP”) address) (“Technical Data”).
+In addition, we create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the Coda games you are playing or the Coda Platform (if you are using it) (“Usage Data”). We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+We may collect non-personal information about you through our Service. Such information may include your operating system type and version, and the time and date of your visit to the Service.
+How We Use Your Information and Our Lawful Basis for Doing So
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+Where we need to perform the contract we are about to enter into or have entered into with you.
+Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+Where we need to comply with a legal obligation.
+Generally, we do not rely on consent as a legal basis for processing your personal data although we will get your consent before sending certain direct and third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+Use of Your Information by Others
+We may share your personal data with the parties set out below, or alternatively they may collect and process your personal data on our behalf, for the purposes set out in the table
+above.
+Third Party Services
+Our Services may contain third party tracking and data collection and analytics tools from our service providers, examples of which include Game Analytics (
+https://gameanalytics.com
+), MoPub (SDK advertising), Firebase (
+https://firebase.google.com
+) etc. Such third parties may use cookies, APIs, and SDKs in our Services to enable them to collect and analyze user and device related data and information on our behalf. The third parties may have access to and collect Technical and Usage Data and information about you, such as your device identifier, geo-location information, IP address, application usage, access and session times, applications present on the device or in use at a particular time on the device, and your viewing of and interactions with advertising, for the purpose of providing their services, including, for example, enabling, providing and delivering advertising as described in further detail below. We also use third party service providers to make any payments to you.4
+The privacy policies of our service providers may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
+Advertising
+To the extent we display advertising in our Services, we may allow advertising networks of our affiliates and partner networks to collect Technical and Usage Data about your mobile device to enable them to serve targeted ads to you. Such data includes the following:
+Device properties related to screen size & orientation, audio volume and battery
+Device make, model and operating system
+Carrier
+Operating system
+Name and properties of mobile application through which a consumer interacts with the Services
+Country, time zone and locale settings (country and preferred language)
+Network connection type and speed
+IP Address
+Internet browser user-agent used to access the Services
+Identifier for advertisers (IDFA).
+The privacy policies of our partners may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
+You may limit data collection by third parties by using your mobile device settings. Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
+How We May Disclose Your Information to Third Parties
+Coda does not share your personal information except as approved by you or as described herein. We may share information we collect or derive with third parties for the following purposes:
+With service providers that perform services on our behalf, including the ones referenced above under “Third Party Services”;
+In response to subpoenas, court orders, or other legal processes;
+With professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services and to protect our or a third party’s legal rights, investigate fraud, or to defend against a legal claim;
+As part of a business transfer such as a merger, acquisition, or bankruptcy;
+We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties;
+We may use analytics services provided by third parties, including Google Analytics (Firebase).These service providers may use cookies to collect information about your online activities across this and other sites over time for non-advertising purposes. To learn more about how Google analytics collects and processes data and the choices Google may offer to control these activities, you may visit
+http://www.google.com/intl/en/policies/privacy/partners/
+.
+Specific Provisions for Individuals Protected by GDPR
+Under certain circumstances, you have rights under data protection laws in relation to your personal data.
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+Your rights in respect of your personal data are set out below:
+Accessing and Correcting Your Personal Information
+At any time, you may contact Coda at the address provided in the “Contact Coda Platform” section herein and request to access the personal data that Coda holds about you. Coda may need to ask you to provide certain information to make sure you are who you claim to be. If you find the information on your account is not accurate, complete or updated, then please provide Coda with the necessary information to correct it.
+Withdrawing Your Consent
+Contact us if you would like to withdraw your consent to the processing of your personal data. Exercising this right will not affect the lawfulness of processing based on consent before withdrawal. If you withdraw your consent, we may not be able to provide certain products or Services to you. We will advise you if this is the case at the time you withdraw your consent.
+Request erasure of your personal data.
+This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+Object to processing of your personal data
+You can object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+Request restriction of processing of your personal data.
+This enables you to ask us to suspend the processing of your personal data in the following scenarios:
+If you want us to establish the data's accuracy.
+Where our use of the data is unlawful but you do not want us to erase it.
+Where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims.
+You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+Transferring your Personal Data (Otherwise known as Your Right to Data Portability)
+You have the right to receive your personal data that you have provided us in a structured, commonly used and machine readable format and the right to transmit that data to another party of your choice, where technically feasible. However, this right shall not apply where it would adversely affect the rights and freedoms of others.
+Right to Make Complaint: if you consider that our processing of your personal data infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+If you have any concerns about the way we process your personal data, you are welcome to contact us at
+info@codaplatform.com
+or write to us at the address set forth in the “Contact Coda" section. We will look into your request and make good faith efforts to resolve any concerns you may have.
+Security Safeguards
+Coda takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties. Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems. Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining access to this information. We do not warrant or represent that your information will be protected against loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+Data Retention
+Coda retains your personal data for as long as needed to provide you Services, unless we are required by law to delete or if Coda accepts your request to delete the information. We will also retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Our Policy Regarding Children
+We do not knowingly collect or solicit personal data from anyone under the age of 16 or knowingly allow such persons to use our Services. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 16 may provide any personal data. In the event that we learn that we have collected personal data from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 16, please contact us.
+Transfer of Personal Data Outside Your Country
+We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+We only transfer your personal data outside of the EEA where we can ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission.
+Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US.
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+Changes To This Policy
+We may update this Policy to reflect changes to our data and information privacy practices. If we make any material changes, we will notify you by means of a notice on the Services prior to the change becoming effective. We encourage you to periodically review this Policy for the latest information on our privacy practices. Please note that if Coda needs to adapt the policy to legal requirements, the new policy will become effective immediately or as required.
+Contact Coda Platform
+You may contact Coda at
+info@codaplatform.com
+or the address below for further information.
+Coda Platform Limited
+Edinburgh House, Lambeth
+London, United Kingdom, SE11 5DP
+Subscribe to our newsletter and get free hyper-casual insights
+First Last Name
+Studio Name
+Email
+Acceptance 1
+I'd like to receive weekly insights from Coda.*
+Acceptance 2
+I give consent for Coda to process and store my data.*
+You can unsubscribe from these communications at any time. Visit our
+Privacy Policy
+to learn more.
+Subscribe
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+Ok

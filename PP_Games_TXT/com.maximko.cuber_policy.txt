@@ -1,0 +1,107 @@
+Qurai Software - Privacy Policy
+Privacy Policy
+This policy is effective from the 24th of July, 2023 but may change at anytime. Please check this page to ensure that you are happy with the current version of the policy.
+Website privacy policy
+This website does not collect any of your data and cookies and does not use any trackers.
+Apps privacy policy
+Some
+*
+of our apps may collect personal data for the following purposes:
+To personalize your advertising experience using Appodeal for iOS & Android apps and Liftoff for Windows apps. Appodeal, Liftoff, and their partners may collect and process personal data such as device identifiers, location data, and other demographic and interest data to provide advertising experience tailored to you.
+More information:
+Appodeal
+,
+Liftoff
+To analyze how you interact with the apps using Unity Analytics in order to improve their quality. Unity Analytics collects such data as device identifiers and attributes, usage data, location data to provide analytics, diagnostic, and usage information to developer. More information available
+here
+.
+If you want to opt out from personal data collection, follow the instructions below:
+On
+iOS
+:
+14.5 and up
+: Go on
+Settings
+â€“>
+Privacy
+â€“>
+Tracking
+. You will see the list of installed apps, find the one you would like to restrict personal data collection, switch off the corresponding checkbox and then restart the app.
+before 14.5
+: Go on
+Settings
+â€“>
+Privacy
+â€“>
+Advertising
+and then switch on the
+"Limit Ad-tracking"
+checkbox and then restart the app.
+On
+Android
+: Go on
+Settings
+â€“>
+Google
+â€“>
+Ads
+and then switch off the
+"Opt out of Ads Personalization"
+checkbox and then restart the app.
+On
+Fire OS
+(5.0 and up): Go on
+Settings
+â€“>
+Apps & Games
+â€“>
+Advertising ID
+and then switch off the
+"Interest-based Ads"
+checkbox and then restart the app.
+On
+Windows
+: Go on
+Start
+â€“>
+Settings
+â€“>
+Privacy
+â€“>
+General
+and then switch off the
+"Let app use advertising ID to make ads more interesting to you based on your app usage"
+checkbox and then restart the app.
+If you are located in the
+European Economic Area, the United Kingdom, Switzerland or California (USA)
+on the first launch of our app you will see the dialog asking your consent on ads personalization. You can opt out by pressing "
+No, thank you
+" button. You can withdraw your consent later through the app's
+Settings
+menu or system settings menu (as described above), or by reinstalling the app and selecting "
+No, thank you
+" at startup.
+You can opt out from analytics data collection by opening app's
+Settings
+menu, navigating to "
+Privacy
+" section, pressing "
+Data Privacy
+" button and following the instructions provided on the screen.
+*
+Apps listed below do not collect any user data and do not transfer it to third parties:
+iRetro â€” The Internet Browser
+Apps listed below show only non-personalized ads, but they still collect some anonymized data for analytic and advertising purposes:
+Don't Let Go The Egg!
+(iOS)
+Apps listed below are published under Google's
+"Designed For Families"
+program and use
+Kidoz
+to display non-personalized ads. They still may collect some anonymized data for analytic and advertising purposes (device identifiers such as IDFA, AAID, SIM Serial, Build Serial, BSSID, MAC, SSID, IMEI, IMSI, and phone number are not being collected):
+Don't Let Go The Egg!
+(Android)
+P.S.:
+For all questions please contact:
+support@qurai.co
+Back to the main page

@@ -1,0 +1,544 @@
+Privacy Policy – ASTRO File Manager
+Skip to content
+ASTRO File Manager
+Home
+About
+FAQ
+data.ai Basics
+ASTRO File Manager
+Main Menu
+Home
+About
+FAQ
+data.ai Basics
+Privacy Policy
+Privacy Policy –
+ASTRO File Manager
+Available at:
+astrofilemanagerapp.com/pp-en/
+Privacy Policy
+See previous versions
+data.ai
+Privacy Policy for Mobile Applications (
+ASTRO File Manager
+)
+Last Updated
+June
+28
+, 2022
+Our Privacy Policy Has Recently Changed.
+The privacy and security of your information is important to us. We have made changes to our Privacy Policy that apply with respect to information that you provide on or after the date indicated in the “Last Updated” legend above. These changes include:
+1.        Additional detail regarding what personal information and other information we collect from you, and how we collect and use it;
+2.        Further descriptions of the parties with whom and for what purposes your information is shared; and
+3.        What rights you have regarding your personal information.
+To learn more, please review the full
+data.ai
+Privacy Policy for Mobile Applications below.
+data.ai cares about the privacy of individuals who use our mobile application,
+ASTRO File Manager
+(“
+App
+”). You can also learn more about the App at our website
+https://astrofilemanagerapp.com
+.
+As used herein, “
+data.ai
+” or “
+us/we/our
+”, refers to
+data.ai inc.
+, a US company, acting by itself and/or through entities that are legally part of the data.ai family of companies (the “
+Related Companies
+”). Those Related Companies include, but are not limited to,
+data.ai Europe Limited
+,
+Mobidia Technology Inc.
+, and
+Distimo
+BV
+See a list of Related Companies here: [
+Insert hyperlink to separate page.
+] For more information about how data.ai processes your personal information when you visit our website at
+data.ai
+, please review
+https://www.data.ai/en/legal/privacy/
+.
+Summary
+This
+data.ai
+Privacy Policy for Mobile Applications (“
+Policy
+”) explains how the App collects information about you and about how you use your mobile device, including information about the apps you use.
+data.ai
+processes and safeguards information we obtain from and about you when you use the App. The Policy also explains your rights and choices with respect to your personal information, and how you can contact us if you have any questions or concerns. No part of the App is directed to children under the age of 16, nor do we knowingly collect information from anyone under the age of 16. This Policy does not apply to other websites, mobile applications and services provided by
+data.ai
+. Please visit the privacy policy for the respective website, mobile application or service.
+Your use of the App is subject to this Policy and the
+Terms of Service
+accessible on the App.
+If any term of this Policy is unacceptable to you, please do not use the App and do not provide your personal information.
+TABLE OF CONTENTS
+1.
+HOW
+DATA.AI
+COLLECTS YOUR INFORMATION
+2.
+HOW WE USE YOUR INFORMATION
+3.
+HOW WE DISCLOSE YOUR INFORMATION
+4.
+TRANSFERS TO OTHER COUNTRIES
+5.
+DATA RETENTION
+6.
+OUR COMMITMENT TO SECURITY
+7.
+CHILDREN’S PRIVACY
+8.
+DO NOT TRACK
+9.
+YOUR RIGHTS AND CHOICES
+10.
+THIRD-PARTY PLATFORMS
+11.
+UPDATES TO THIS PRIVACY POLICY
+12.
+HOW TO CONTACT US
+1. How
+data.ai
+Collects Your Information
+For the purpose of this Policy, “
+Personal Information
+” means any information relating to an identified or identifiable individual or, when applicable, legal entity. An identifiable individual or legal entity is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier. We obtain Personal Information relating to you from various sources described below.
+Where applicable, we indicate whether and why the provision of your Personal Information is a statutory or contractual requirement, as well as the possible consequences of failing to do so.
+i. Personal Information Provided Directly by You When You Engage With Us
+If you contact us directly, such as to request information, access the App, or connect with Customer Support, we may receive additional Personal Information about you, such as your name, email address, the content, date and time of your message, and our reply. We also may receive Personal Information if you complete a survey, such as demographic information (e.g., age, gender) and any other Personal Information you choose to provide.
+ii. Personal Information We Collect About You When You Use the App
+Depending on the choices you make when you open the App for the first time or at any later stage in the App’s
+Data Privacy Preferences
+, we collect the following Personal Information:
+●
+Device-specific information
+: This includes your mobile device model, operating system, version number, web browser used, language and regional setting, carrier or network, time stamp and zone, device motion parameters;
+●
+Information about your use of other apps
+: This includes the frequency and length of time you spend on other apps you visit as well as the dates and times of your interactions;
+●
+Your approximate (“coarse”) location
+: This includes latitude and longitude of the center of the nearest city without revealing your precise location or GPS data;
+●
+Unique identifiers
+: This includes unique installation IDs, IP addresses, User Agents,
+Android ID
+s
+,
+and other user and device identifiers;
+●
+Crash-related information
+: This includes information about errors and crashes when accessing and using the App (e.g., lost connection to the Internet), such as date and time of crashes and crash traces;
+●
+User tracking information
+: This includes statistics about your interaction within the App, such as the number of daily active App users, how often and when users launch or close the App, which App screens users open and how they interact with different App features;
+●
+Ad attribution and user analytics information
+: This includes information related to our marketing campaigns and user behavior, such as clicks on our ads, the webpage or application from which such ads were displayed, other user events and actions related to our marketing campaigns.
+This App integrates several software development kits (“
+SDKs
+”) that contain a set of tools from third-party providers that allow us to use their existing framework to develop certain functionalities of this App. Please refer to Section 10 of this Policy for more details about the SDKs and the specific categories of Personal Information that these SDKs process, if you have consented to their use in the App’s
+Data Privacy Preferences
+.
+2. How We Use Your Information
+i. When You Use This App
+Use of Usage Access permission
+This App uses
+the
+Android
+Usage Access permission to collect information about how you use apps on your mobile device. This information is used to
+identify unused apps and manage internal device storage
+.
+Personal Information is processed as part of our service that we provide through this App and in connection with our
+Terms of Use
+.
+Customer Service
+To provide you with customer service and helpdesk function when you contact us. We use a third party to facilitate customer service support on our behalf.
+ii. When You Consent To The Processing of Your Personal Information
+With your consent,
+data.ai
+will process your Personal Information for the purposes listed below. Your consent is voluntary and not a condition for using this App. You can withdraw your consent anytime in the
+Data Privacy Preferences
+in the App settings. Withdrawing your consent will not impact the legality of us having processed your Personal Information prior to you withdrawing your consent.
+Market Research on Other Apps Usage
+With your consent, part of the information we collect (as outlined below) through the
+Android
+Usage Access permission is used to conduct market research on mobile behavior. To understand how other apps are used and how popular they are, we collect and process information about your use of other apps—specifically, the frequency and length of time you spend on other apps
+and
+when those apps are active—as well as your device-specific information (e.g., model, operating system
+, screen size,
+and version number). Your approximate location (latitude and longitude of the center of the nearest city) helps us analyze such usage information on a geographical basis. We do not collect your precise location or GPS data.
+Our market research typically aims at answering questions like the following:
+●
+Which apps are generally used in your country?
+●
+How many people generally use a specific app?
+●
+How much time is generally spent on social networks (e.g.,
+Facebook
+,
+Twitter
+)?
+●
+How many times per day is a specific app being used on a general basis?
+Your consent also will allow us to store and gain access to unique identifiers on your mobile device, which are randomly generated when you install and reset
+this App.
+App Crash Reporting
+To identify and fix performance issues with this App, we process information about your mobile device (e.g., model, country location) as well as other tracking and performance data. You also consent to
+Google LLC
+storing and accessing this information on your device, including unique identifiers.
+We use a third-party service to detect App crashes—
+Google LLC
+’s
+Firebase Crashlytics
+in the U.S. (see Section 10 of this Policy)—to process:
+●
+Device-specific information (e.g., model, operating system and version number);
+●
+Unique identifiers (a unique installation ID used to deduplicate crashes); and
+●
+Other crash-related information (e.g., date and time of crash and crash traces).
+Firebase Crashlytics
+helps us to combine this information across different devices and operating systems to identify and fix problems with the App and to improve its performance. We do not combine Personal Information collected through
+Firebase Crashlytics
+with any other Personal Information we may have received from you for other purposes.
+Your consent will allow us to disclose and process your Personal Information through
+Firebase Crashlytics
+. Your consent also will allow
+Firebase Crashlytics
+to store and gain access to unique identifiers on your mobile device.
+User Tracking & Remote Configuration
+To improve the user experience of the App and notify users about upcoming App changes, we process information about your mobile device (e.g., model, city and country location) and your interaction within our App.
+You also consent to
+Leanplum Inc.
+and
+Google LLC
+storing and accessing information on your device, including unique identifiers.
+To track how users generally interact with our App, identify problems we should fix, and determine which features we should support or remove, we use third-party tools—
+Leanplum Inc.
+’s solutions and certain of
+Google LLC
+’s
+Firebase
+services in the U.S. (see Section 10 of this Policy)—to process:
+●
+Unique identifiers;
+●
+Device-specific information (e.g., model, operating system and version number);
+●
+User interaction statistics, such as the number of daily active users, how often and when users launch or close our app, which App screens users open and how they interact with different App features; and
+●
+Information relating to the physical location of your device at the city/region/country level.
+For example, we use user and device identifiers to assign users to particular groups and remotely test whether or not they use certain App features. We do not use this information to target users with ads or promotions.
+These tools also allow us to notify users about upcoming App changes (e.g., to send in-app messages or show push notifications).
+Your consent will allow us to disclose and process your Personal Information through
+Leanplum
+and the
+Firebase
+services we currently use. Your consent also will allow
+Leanplum
+and
+Firebase
+to store and gain access to unique identifiers on your mobile device.
+Ad Attribution and Related User Analytics
+To improve the ads we show our users, we process information about your mobile device (including unique identifiers), country location data, and how you interact with our ads and App. You also consent to
+AppsFlyer Ltd.
+storing and accessing this information on your device, including unique identifiers.
+To determine the effectiveness of our own marketing campaigns and which marketing channels work best for us, we use a third-party tool—
+AppsFlyer Ltd.
+’s
+Measurement Suite and Marketing Analytics
+(“
+AppsFlyer
+”) in Israel (see Section 10 of this Policy)—to process:
+●
+Device-specific information (e.g., browser type, device type, time stamp and zone, device motion parameters);
+●
+Unique identifiers (e.g., IP address, User Agent,
+Android ID
+);
+●
+Location information inferred from your IP address (at country level); and
+●
+Other information related to our marketing campaigns and user behavior (e.g., clicks on our ads, the webpage or application from which such ads were displayed, other user events and actions related to our marketing campaigns).
+For example,
+AppsFlyer
+helps us understand when a user has finished setting up this App and if a user remains active on this App after a certain number of days. However, we do not assign you a unique identifier and we will not combine Personal Information collected through
+AppsFlyer
+with any other Personal Information we may have received from you for other purposes.
+Your consent will allow us to disclose and process your Personal Information through
+AppsFlyer
+. Your consent will also allow
+AppsFlyer
+to store and gain access to unique device identifiers on your mobile device.
+3. How We Disclose Your Information
+Corporate Affiliates
+data.ai
+may share Personal Information with our Related Companies in the ordinary course of business and for the purposes of providing the services set forth in this Policy. See a list of our Related Companies here:
+astrofilemanagerapp.com/related-companies-en/
+Service Providers
+Depending on the choices you make in the App’s
+Data Privacy Preferences
+, we share your Personal Information with third-party service providers (see Section 10 of this Policy). We also share your Personal Information with our data analytics service providers and customer-service support. We enter into confidentiality and data processing agreements with these providers to provide appropriate and suitable safeguards for their processing of your Personal Information. See a list of our service providers here: [
+Insert hyperlink to separate page.
+]
+As Required by Law and Similar Disclosures
+Subject to applicable local laws and regulations we disclose Personal Information we have about you: (i) if we are required to do so by law, regulation, or legal process, such as a court order or subpoena; (ii) in response to requests by government agencies, such as law enforcement authorities; (iii) when we believe disclosure is necessary or appropriate to protect against or respond to physical, financial or other harm, injury, or loss to property; or (iv) in connection with an investigation of suspected or actual unlawful activity.
+Merger, Sale, or Other Asset Transfers
+Subject to possible restrictions under applicable local laws and regulations,
+data.ai
+may disclose your Personal Information to a potential or actual acquirer, successor, or assignee as part of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in bankruptcy or similar proceedings).
+Aggregated Information
+If you have consented to market research on other apps usage, we will aggregate your Personal Information with other information. We will only share such information in an anonymized and aggregated manner with our Related Companies and for the purpose of providing
+data.ai
+services to third parties or publicly. We do not sell your Personal Information.
+4. Transfers to Other Countries
+The App is provided from the United States and other locations, and we may transfer your Personal Information to multiple countries throughout the world, including the United States, in accordance with applicable local laws and regulations. These countries may not have the same high level of protection as the data protection laws in the country from which you initially provided the information.
+Where required to comply with applicable law, we rely on appropriate and suitable safeguards including EU Standard Contractual Clauses to transfer Personal Information to countries outside the European Economic Area (“
+EEA
+”) or Switzerland as well as the Addendum B.1.0 issued by the Information Commissioner of the UK (as it is revised from time to time under section ‎18 of its mandatory clauses) for transfers of Personal Information outside the United Kingdom, where an adequate level of protection is not already guaranteed. We also transfer Personal Information to countries for which an adequacy decision of the EU Commission or other regulatory agency exists.
+See a list of our Related Companies and service providers, their locations as well as the transfer safeguards applied or whether an adequacy decision exits here: [
+Insert hyperlink to separate page.
+]
+You may contact us as specified in “How to Contact Us” (see Section 12 of this Policy) to obtain a copy of the appropriate and suitable safeguards we use to transfer Personal Information outside of these countries.
+5. Data Retention
+Personal Information will be stored and kept as long as needed to carry out the purposes described in this Policy or as otherwise required by applicable law. Unless we are required or permitted by law to keep this information for a longer period of time, when this information is no longer necessary to carry out the purposes for which we process it, we will delete your Personal Information or keep it in a form that does not permit identifying you. When determining the retention period, we take into account various criteria, such as the type of services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment to use our App, the impact on the App functionality we provide if we delete some Personal Information from or about you, mandatory retention periods provided by law and the statute of limitations, and our use of your information for aggregated market research.
+6. Our Commitment to Security
+data.ai
+cares about the security of your information, and employs physical, technological and administrative measures to protect the information you submit via the App against loss, theft, and unauthorized access, use, disclosure or modification. For more information on the security measures taken by us, please contact us at the e-mail address provided in “How to Contact Us” (see Section 12 of this Policy). However, we cannot ensure or warrant the security of any information you transmit to us or guarantee that information on the App may not be accessed, disclosed, altered or destroyed. Electronic communications sent to or from the App may not be secure. You should use caution whenever submitting information online and take special care in deciding what information you send to us. If you have reason to believe that your Personal Information is no longer secure, please notify us at the e-mail address provided in “How to Contact Us” (see Section 12 of this Policy).
+7. Children’s Privacy
+We do not knowingly collect, maintain, or use Personal Information from children under 16 years of age, and no part of the App is directed to children under the age of 16. If you learn that your child has provided us with Personal Information without your consent, then you may alert us at
+privacy@data.ai
+. If we learn that we have collected any Personal Information from children under 16, then we will promptly take steps to delete such information.
+8. Do Not Track
+Some web browsers incorporate a “Do Not Track” feature. Because there is not yet an accepted standard for how to respond to Do Not Track signals, our App does not currently respond to such signals. If you want to restrict ads in general on your devices you may opt out from ad tracking by enabling “Limit Ad Tracking” or “Opt Out of Ads Personalization” (as applicable to your device) in your device settings.
+9. Your Rights and Choices
+i. Global Rights & Choices
+We provide you with certain choices with respect to your Personal Information and where applicable, marketing activities, with respect to our App:
+●
+Advertising ID.
+You can reset the advertising identifier randomly assigned to your device at any time and can opt out of personalized ads by enabling “Limit Ad Tracking” or “Opt Out of Ads Personalization” (as applicable to your device) in your device settings. When you disable “Limit Ad Tracking” or “Opt Out of Device Personalization” (as applicable to your device), advertisers and their measurement solutions will receive a blank device ID in place of a device-specific ID.
+●
+Push notifications.
+You can opt out of receiving push notifications using your mobile application or device settings. Opting out of push notifications may impact the functionality of our App.
+In addition, we provide all users with certain rights in connection with our processing of Personal Information through the App:
+●
+Access.
+data.ai
+will provide you with access to your Personal Information, which includes the right to obtain confirmation from us as to whether Personal Information concerning you is being processed. Where that is the case,
+data.ai
+will provide you with access to your Personal Information and information related to how it is processed.
+●
+Erasure.
+If you have opted into sharing market research information with us and you want to erase any Personal Information that we receive, please go into the App settings and turn-off “Data Collection for market research by
+data.ai
+”. When you turn this off, we will no longer collect this information for market research and we will not be able to associate any of that information to you.
+For erasure requests related to all of your Personal Information received by
+data.ai
+through the App, you can delete the App from your device. If you delete the App from your device, we will no longer receive any of your information including Personal Information, and we will no longer be able to identify you as a user of the App. If you would like to request any information about the erasure of Personal Information received through our Support channels please submit a request at
+forgetme@data.ai
+.
+Please note that we have the right to reject, access, or erasure requests that are unduly burdensome or repetitive, or that cannot be honored in light of legal obligations or ongoing disputes, or where retention is necessary to enforce our agreements or protect our or another party’s rights, property, safety, or security, or other reasons under the law.
+If you have any questions about exercising your rights, please contact us using the information listed in “How to Contact Us” (see Section 12 of this Policy).
+ii. For Residents in the EU, EEA, Argentina, South Korea, United Kingdom, and Switzerland
+In addition to the global rights above, the GDPR, or other applicable laws, provide you with additional rights regarding your Personal Information, as follows:
+●
+Rectify.
+You have the right to update or correct your Personal Information (e.g., your e-mail address) which you submit for support cases. However,
+data.ai
+does not have an ability to rectify your Personal Information collected through your use of the App.
+data.ai
+cannot rectify your Personal Information, it can only delete your Personal Information which is collected through the App.
+●
+Data Portability.
+You may have the right to exercise your right to data portability to easily transfer your Personal Information to another company.
+●
+Object.
+You may also object to the processing of your Personal Information under certain circumstances, including objecting to processing your Personal Information for direct marketing purposes or when it is done based upon legitimate interest.
+●
+Restrict.
+You may restrict us from continuing to process your Personal Information under certain circumstances (e.g., where you contest the accuracy of your Personal Information, for a period enabling us to verify the accuracy of the Personal Information).
+●
+Consent Withdrawal.
+You may withdraw the consent that you might have given with respect to the processing of your Personal Information at any time. The withdrawal of consent does not affect the lawfulness of processing of your Personal Information based on consent before its withdrawal.
+●
+Complaint.
+If you are not satisfied with
+data.ai
+’s response or believe that your Personal Information is not being processed in accordance with the law, you may also have the right to lodge a complaint with the competent supervisory authority in your country of residence, place of work or where the incident took place, or seek other remedies under applicable law. For more information on how to lodge a complaint in the EU, please see
+https://edpb.europa.eu/about-edpb/board/members_en
+.
+iii. For Residents of California
+The California Consumer Privacy Act (“
+CCPA
+”), as amended from time to time, provides you with additional rights regarding your Personal Information.
+Collection of Personal Information
+In the preceding twelve (12) months, and as explained in Section 1 (How
+data.ai
+Collects Your Information) of this Policy, we may have collected from you or from your use of the App, categories of Personal Information as defined under the CCPA, which includes the following:
+●
+Identifiers
+, such as your first and last name, e-mail address, unique installation identifiers, User Agents, Internet Protocol, advertising identifiers (
+Android ID
+s), and other similar identifiers
+●
+Device Specific Identifiers
+such as your mobile device model, operating system, version number, web browser used, language and regional setting, carrier or network, time stamp and zone, device motion parameters
+●
+Protected Classifications
+, such as your gender and age
+●
+Internet or Other Similar Network Activity
+, such as your browsing history, search history, and information on your interaction with our App, and crash related information (e.g., number of errors and crashes when accessing and using the App)
+●
+Geolocation data
+(your approximate (“coarse”) location)
+●
+Inferences Drawn from Personal Information
+, such as a profile reflecting your preferences (such as users’ interactions with the App, number of daily App users, how often and when users launch or close the App, which App screens user open and how they interact with different App features, characteristics, trends, predispositions, behavior (clicks on our ads, the webpage or application from which such ads were displayed, other user events and actions related to our marketing campaigns), attitudes, intelligence, abilities and aptitudes.
+Purposes
+In the preceding twelve (12) months, we may have used and disclosed the categories of Personal Information from the sources described in Sections 2 and 3 of this Policy for business purposes, including:
+●
+Providing services (including providing customer service, user surveys, analytics or similar services on behalf of the business or service provider);
+●
+Auditing consumer interactions, including, auditing compliance with this specification and other standards;
+●
+Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity;
+●
+Debugging to identify and repair errors that impair existing intended functionality;
+●
+Undertaking internal research for technological development and demonstration (i.e., to develop new products or features); and
+●
+Undertaking activities to maintain the quality or safety of the App and to improve, upgrade, or enhance the App.
+We also may have used and disclosed the Personal Information we collect for commercial purposes to provide you with our App, as described in Sections 2 and 3 of this Policy above.
+Disclosure of Personal Information
+In the preceding twelve (12) months, we may have disclosed your Personal Information for a business purpose, including to the following categories of third parties:
+Categories of Personal Information
+Categories of Third Parties
+Identifiers, such as your first and last name, address and e-mail address
+Our Related Companies
+Customer service provider
+Device-Specific Identifiers, such as your mobile device model, operating system, version number, web browser used, language and regional setting, carrier or network, time stamp and zone, device motion parameters
+Our Related Companies
+Data analytics providers
+Protected Classifications, such as your gender and age
+Our Related Companies
+Data analytics providers
+Internet or Other Similar Network Activity, such as your browsing history, search history, and information about your interaction with our Site
+Our Related Companies
+Data analytics providers
+Geolocation data
+Our Related Companies
+Data analytics providers
+Inferences Drawn from Personal Information, such as a profile reflecting your preferences characteristics, trends, predispositions, behavior, attitudes, intelligence, abilities and aptitudes
+Our Related Companies
+Data analytics providers
+California Resident Privacy Rights
+If you are a California resident, in addition to the rights described above under “Global Rights & Choices” above, you have the following rights:
+●
+Right to Access Specific Information.
+You may request access to the specific pieces of Personal Information we have collected, used, and disclosed about you in the twelve (12) months preceding your request.
+●
+Right to Know Personal Information.
+You may request to know the categories of Personal Information we have collected about you and the purposes for doing so; the categories of sources of that data; the categories of third parties with whom we shared it for a business purpose and our purposes for doing so.
+●
+Right to Opt Out of Sale of Personal Information.
+The term “sale” is defined broadly under the California Consumer Privacy Act. To the extent that “sale” under the CCPA is interpreted to include interest-based advertising we will comply with applicable law as to those activities. To opt out of receiving interest-based advertising, you can exercise your choice by using your account privacy settings.
+●
+Non-Discrimination.
+We will not discriminate against you for exercising any of your privacy rights under CCPA or applicable law, including by denying you access to the App, providing you a different level of App functionality, or suggesting that you will receive a different level of quality of goods or services.
+Verification and Authorized Agent
+To exercise your rights, please follow the instructions above and the contact information in “How to Contact Us” (see Section 12 of this Policy). We will confirm receipt of your requests and respond within 30 calendar days, unless additional time is needed, in which case we will provide notice and an explanation of the reason. Also, to respond to your request to right to know and/or delete, we must verify your identity or authority to make the request and confirm the Personal Information relates to you or to others. To do so, we collect your e-mail address to verify your identity through the App. We also may contact you by e-mail (if you have provided it to us) to verify your identity and ask you additional questions so that we can match your identity with the data we have about you. In some instances, we may ask you to declare under penalty of perjury that you are the consumer whose Personal Information is the subject of the request. If we cannot verify your identity, we may reject your request in whole or in part.
+You also may designate an authorized agent to make a request for you. To use an authorized agent, we may require: (1) your signed permission designating the authorized agent; (2) evidence that the authorized agency has power of attorney under the California Probate Code; or (3) proof that the authorized agent is registered with the California Secretary of State and that you have authorized such authorized agent to be able to act on your behalf. We may deny a request from an authorized agent who does not submit sufficient proof.
+iv. For Residents in Japan
+In addition to the global rights above, the Japan Personal information Protection Law provides you with additional rights regarding your Personal Information, as follows:
+●
+Notification of Purposes of Use. You have the right to request being informed of the purposes of use of your Personal Information.
+●
+Rectify. You have the right to update or correct your Personal Information (e.g., your e-mail address) which you submit for support cases. However,
+data.ai
+does not have an ability to rectify your Personal Information collected through your use of the App.
+data.ai
+cannot rectify your Personal Information, it can only delete your Personal Information which is collected through the App.
+●
+Request cessation of processing. You may restrict us from continuing to process your Personal Information under certain circumstances (e.g., where you believe that our processing of your Personal Information is beyond the purposes of use).
+10. Third-Party Platforms
+Our App relies on SDKs and related services provided by third parties listed below. Depending on the choices you make in the App’s
+Data Privacy Preferences
+, these SDKs will be activated or deactivated:
+●
+Firebase
+SDK
+, provided by
+Google LLC
+:
+Crashlytics, Cloud Messaging, Remote Config, Analytics for Firebase, App Distribution
+You can find more information on Privacy and Security in
+Firebase
+, including on the Personal Information processed by
+Firebase
+and the device information collected by
+Crashlytics
+, at
+https://firebase.google.com/support/privacy
+.
+●
+AppsFlyer
+SDK
+, provided by
+AppsFlyer Ltd.
+—Services used:
+Measurement Suite and Marketing Analytics
+You can find
+AppsFlyer
+’s Services Privacy Policy, including information on the Personal Information processed by
+AppsFlyer
+, at
+https://www.appsflyer.com/legal/services-privacy-policy/
+.
+●
+Leanplum
+SDK
+, provided by
+Leanplum Inc.
+You can find more information on the Personal Information processed by
+Leanplum
+at
+https://docs.leanplum.com/reference/user-and-device-tracking
+.
+11. Updates to this Privacy Policy
+We reserve the right to change this Policy at any time. We will post any amendments to this Policy on this page, and the revised version will be effective the date it is posted, which is identified at the top of the page. If we materially change the ways in which we process your Personal Information previously collected from you, we will notify you through our App or any other means. We encourage you to review the Policy, which may be updated from time to time. Your continued use of our App after such amendments will be deemed your acknowledgement of these changes to this Policy.
+12. How to Contact Us
+If you have any questions or concerns about
+data.ai
+’s privacy practices or about this Policy, or would like to exercise your rights in relation to your Personal Information, you may:
+●
+Contact data.ai via e-mail at:
+privacy@data.ai
+, or
+●
+Write us at:
+data.ai inc. Legal Department
+44 Montgomery Street, Third Floor
+San Francisco, CA 94104 USA
+data.ai
+’s Data Protection Officer may be contacted via e-mail (
+dpo@data.ai
+) or at the following address:
+data.ai inc. Legal Department
+ATTN: Data Protection Officer
+44 Montgomery Street, Third Floor
+San Francisco, CA 94104 USA
+Phone: +1-844-277-2664
+data.ai inc.
+is the entity responsible (data controller) for the processing of your Personal Information.
+Copyright © 2023 ASTRO File Manager
+Terms of Service
+Privacy Policy

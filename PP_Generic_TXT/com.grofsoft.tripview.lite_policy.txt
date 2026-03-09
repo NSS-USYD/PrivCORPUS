@@ -1,0 +1,32 @@
+Privacy Policy
+Privacy Policy
+TripView respects your privacy, and we only collect the minimum amount of information necessary to operate the TripView service.
+Trip Settings
+Your trip settings are stored on your phone. We don't keep any records of
+your trip settings on our servers, apart from transient request logs mentioned
+below.
+When you view a trip, the app needs to transmit some details to the TripView
+servers in order to request real-time data. This typically includes the list of
+routes and stops that are relevant to your trip. All communications between the
+app and our servers are encrypted.
+The TripView servers keep logs of all requests for security and diagnostic
+purposes. These logs include the IP address of every request, but are
+otherwise anonymous. Request logs are automatically deleted on a regular
+basis.
+We may analyse request logs to gather anonymous usage statistics, including
+request counts and general usage patterns.
+If you use the app to send an email to TripView Support, you will have the
+option to include your trip settings as an attachment. We will only use this
+information for troubleshooting, and it will be deleted on request.
+Analytics
+TripView uses the Google Firebase service to collect anonymous
+usage information, including the number of active users, device models, and
+operating system versions.
+We also use a third party service to collect crash reports. These
+reports are used to diagnose and fix crashes. They do not contain any personal
+information.
+Advertising
+The free version of TripView contains advertisements provided by third party
+advertising services. These advertising services may use the advertising ID
+from the device to provide personalised ads. They may also use the current
+location of the device to provide location based advertising.

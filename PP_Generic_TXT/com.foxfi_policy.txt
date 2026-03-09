@@ -1,0 +1,8 @@
+Information we collect
+In order to identify how well your phone is supported by a certain version of our application, we may collect device model/system information such as hardware manufacturer, phone model, carrier name, operating system version and FoxFi version number. We may also collect the maximum download speed value if detected.
+Information we do NOT collect
+We do NOT collect unique device identifiers (such as MEID or ESN) or any personal information (such as phone number or contacts). Please check application permission list to verify this.
+Spams and Ads
+We will never serve spams or advertisements in our application. If you do see spams or ads while the FoxFi application is active, it will most likely be caused by a background application. Please check your system.
+Security
+When you first install FoxFi, the default password for the WiFi hotspot is empty. You MUST specify a non empty password to protect your phone otherwise everyone can connect to it!

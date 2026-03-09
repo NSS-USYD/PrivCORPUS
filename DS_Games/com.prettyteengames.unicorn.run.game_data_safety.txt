@@ -1,0 +1,41 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Location                
+<d_attr>               Approximate location              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_attr>               Precise location              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_cata>                 Personal info                
+<d_attr>               User IDs              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_attr>               Other info              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_cata>                 App activity                
+<d_attr>               App interactions              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_attr>               In-app search history              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_attr>               Other user-generated content              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_attr>               Other actions              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_cata>                 Web browsing                
+<d_attr>               Web browsing history              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_cata>                 App info and performance                
+<d_attr>               Crash logs              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_attr>               Diagnostics              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_attr>               Other app performance data              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security and compliance, Personalisation            
+<d_prac>          No data collected         
+<d_detl>          The developer says that this app doesn’t collect user data         
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             You can request that data be deleted            
+<s_attr>             The developer provides a way for you to request that your data be deleted            

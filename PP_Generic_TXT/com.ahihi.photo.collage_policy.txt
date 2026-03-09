@@ -1,0 +1,81 @@
+CAM EDITOR STUDIO – CAM EDITOR STUDIO – Privacy Policy
+Skip to content
+Skip to menu
+CAM EDITOR STUDIO
+CAM EDITOR STUDIO – Privacy Policy
+Privacy Policy
+February 10, 2017
+February 10, 2017
+cameditorstudioblog
+Leave a comment
+All our applications on the Google Play is Free application about create and edit photos and video.
+We’re not store any user information such as cookies, email, passwords, user-data ….
+Explain permissions in our Applications:
+I.
+Access Camera
+<
+uses-permission
+android:name
+=
+"android.permission.CAMERA"
+/>
+This permission help us to get an image from your Camera (take picture from Camera) for photo edit and create new photos from its.
+III.
+Access Storage (Internal Storage)
+<
+uses-permission
+android:name
+=
+"android.permission.WRITE_EXTERNAL_STORAGE"
+/>
+<
+uses-permission
+android:name
+=
+"android.permission.READ_EXTERNAL_STORAGE"
+/>
+These permissions can help us access your storage for save photos and videos files edited, then for share to all your friends.
+II.
+Access Internet
+<
+uses-permission
+android:name
+=
+"android.permission.INTERNET"
+>
+<
+uses-permission
+android:name
+=
+"android.permission.ACCESS_NETWORK_STATE"
+<
+uses-permission
+android:name
+=
+"android.permission.ACCESS_WIFI_STATE"
+/>
+These permissions can help us get resources from our server such as: photo effects, photo frames; check network connection …
+Important
+: We are committed do not store, collect any user information on your device. We respect the confidentiality of information.
+Thanks for support!
+Advertisement
+Blog at WordPress.com.
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+Cookie Policy
+Follow
+Following
+CAM EDITOR STUDIO
+Sign me up
+Already have a WordPress.com account?
+Log in now.
+CAM EDITOR STUDIO
+Customize
+Follow
+Following
+Sign up
+Log in
+Report this content
+View site in Reader
+Manage subscriptions
+Collapse this bar

@@ -1,0 +1,23 @@
+Weather Forecast
+Search this site
+Skip to main content
+Skip to navigation
+Weather Forecast
+Privacy Policy
+Overview
+This Privacy Policy describes how and when collects, uses, and shares your information when you use our product. But We don't use your any personal information.
+We hope you will take time to read it carefully.
+Personal Information
+Our Company DO NOT collect, store or use any personal information while you install or upgrade our products.
+We may use personal information submitted by you only for the following purposes: help us to develop, deliver, and improve our products and services and supply higher quality service.
+The app use these permission:
+android.permission.READ_PHONE_STATE: We need this permission to handle lock screen behavior when a call happens
+android.permission.ACCESS_FINE_LOCATION, android.permission.ACCESS_COARSE_LOCATION: To get your location so we can provide exact where info of the place where you are
+Contact us
+If you have any questions about this Privacy Policy, please feel free to contact us.
+myappbeatiful@gmail.com
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

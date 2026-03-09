@@ -1,0 +1,146 @@
+Golf Blitz – News » Privacy Policy
+Privacy Policy
+Noodlecake Studios Inc. provides this Privacy Policy to explain how it collects, stores, and uses the information collected in connection with Noodlecake’s software applications, and websites (collectively, “services”). Noodlecake respects the privacy of their users and is committed to protecting the user’s information. You have a right to know our practices regarding the information we may collect and use when you use our services.
+The types of information we collect and how we collect it
+Personal Information
+Noodlecake collects the advertising identifier (Apple’s IDFA and Google’s advertiser ID) , and a unique identifier for each user in our mobile games.
+Noodlecake integrates third party SDKs in to our services. These SDKs are used for advertising to our users, analyzing service usage, enabling in-app purchases, or providing game services including  achievements, leaderboards, and account management. We allow third party operators this collected data solely for internal operations of the service as permitted by applicable rules and laws. This could include, but is not limited to, persistent advertising identifiers, geolocation information, and IP address. We encourage you to review the policies of the third party operators listed below.
+Should a user explicitly provide it to us when prompted, we will collect email addresses of our users for our mailing list(s), account recovery, or customer support purposes.
+Some of our services require or allow a user to provide a screen name so they can be identified within the service.
+Non-personal Information
+We allow third parties to collect some information by which users cannot be identified. Non-personal information may include technical information about your device, such as your browser type, screen resolution, device type, language, type of operating system and geo location (only general location). Non-personal information is gathered by third party services while you are accessing the service. They are allowed to use this information to conduct research and analysis, but only for strictly limited purposes. We encourage you to review the policies of the third party operators listed below.
+Internally, Noodlecake also reserves the right to collect anonymous information for research, analysis, and gameplay purposes. This information is generic in nature and cannot be used to individually identify a user. This information is collected each time a user runs one of our services.
+Service Specific Information
+Some Noodlecake services allow users to send messages to each other while playing a game. These messages are then transmitted and stored on Noodlecake controlled servers,
+or on the servers of one of our third party service providers
+.
+What we do with the personal information we collect
+Advertisers collect data regarding advertisement performance, user’s interaction with ads, our apps and user’s interests. Collected data may include user’s personal information in order to serve users ads and for the third parties’ legitimate business interests.
+Noodlecake and third party operators may use collected personal data to help measure the effectiveness of Noodlecake’s promotional campaigns.
+Noodlecake collects persistent identifiers in order to provide support for our services to our users. Additionally, Noodlecake uses persistent identifiers to send promotions regarding new products or updates to our users. If we keep track of persistent advertising identifiers, it allows us to only notify these users about new products that they will actually be interested in.
+We collect email addresses in many of our services so that we can notify interested users of upcoming releases and updates of our products and services. These emails always include a way to unsubscribe from receiving future emails.
+We may also collect e-mail addresses for the purposes of offering support or recovering a user’s account.
+When a service asks for a username, it is used to visually identify that user to other users playing the game. Noodlecake prohibits any user under the age of 13 from providing individually identifiable information in their username or screen name. This includes, but is not limited to the user’s first name, last name, email address, and physical address.
+What we do with the non-personal information we collect
+Third party operators are allowed to collect and use non-personal information to conduct research and analysis, or to target advertisements, or other limited purposes. This information cannot be used to individually identify any user. We encourage you to review the policies of the third party operators listed below.
+Similarly, Noodlecake also uses non-personal information to conduct research and analysis. We do this to improve our services in future updates or to gain knowledge about how our users are interacting with the service.
+What we do with service specific information we collect
+Each of our games that allow messaging other users provide an option for joining or creating publicly visible worlds/teams/matches, or for playing only against other users known to the current user. Noodlecake prohibits any user under the age of 13 from joining or creating publicly visible worlds/teams/matches in these services. Additionally, Noodlecake prohibits any user under the age of 13 from sharing personal or individually identifiable information while using the messaging functionality in these services.
+If Noodlecake collects identifiers associated with a user’s account on social networks like Facebook or Twitter, or game services like Apple Game Center or Google Play Game Services, then it is explicitly required for some feature in that service. For example, the identifier could be saved so that a user’s connections on the social network can see their high score or progress in the game. As stated elsewhere in this policy, you can contact us to have this information deleted for yourself or your child under the age of 13.
+Retention of your information
+Noodlecake retains information collected by its services as long as it is necessary and relevant for the operation and support of our services. Once information is obsolete and serves no operational purpose as described in the sections above, that information will be fully deleted or will be anonymized.
+How to opt-out of targeted advertising
+If you would like to opt-out of interest-based advertising, you may do so in your mobile device’s settings. On iOS, this can be done by turning on the Limit Ad Tracking option under Settings -> Privacy -> Advertising. On Android, this can typically be found under Settings -> Google -> Ads -> Opt out of Ads Personalization, although the exact location of this setting may differ depending on your device make and Android version. To learn more about targeted advertising and additional options that you can take regarding targeted advertising, please visit
+https://youradchoices.com/
+.
+Children
+We understand the importance of protecting the privacy and safety of children using our services, as outlined by the Children’s Online Privacy Protection Act of 1998 (COPPA). Accordingly, we do not knowingly collect, use, or disclose personal information from children under 13.
+If you are a parent of a child under 13 years of age and you believe your child has provided us with personal information, please contact us using the information below and we will delete the information from our systems.
+Disclosure of Personal information
+The scenarios in which we will share your personal data are as follows:
+we determine that it is required by law;
+we have a good faith belief it is necessary to protect our rights or property;
+we are participating in a merger, acquisition, liquidation, dissolution or sale of assets;
+we have your consent; and
+as described above in relation to third-party operators collecting information from our services.
+Under no other circumstances will Noodlecake share, sell, rent, or release your data.
+You may contact Noodlecake to
+request access, change, update or delete
+your personal information at any time via email: privacy@noodlecake.com. You have the right to these options as well as the right to not be discriminated against for exercising these options. You may also request to opt-out of allowing the sale of your personal information, as is a right for residents of California (as per CCPA) and Virginia (as per VCDPA). We reserve the right to request additional identifying information from you as needed for the purpose of verifying your identity and locating your data in our systems in order to comply with your request. A small fee may be imposed for access and disclosure of your personal information, where permitted under applicable law.
+Security
+We follow generally accepted industry standards and internal procedures to protect the personal information submitted to us, both during transmission and once we receive it.
+Third-party Operators
+Advertising Networks: Noodlecake allows advertisements from the Third Party ad networks to be displayed in our services. Noodlecake makes commercially reasonable efforts to ensure that the third party ad networks are configured to comply with applicable privacy laws, and we reasonably believe this to be the case for each of them. If we determine a service to be directed at children under the age of 13, we configure each of these ad networks to be compliant with the Children’s Online Privacy Protection Act of 1998 (COPPA). We also configure networks to be compliant with regional laws including but not limited to the General Data Protection Regulation of 2016 (GDPR) for residents of European Union countries, the California Consumer Privacy Act (CCPA) for residents of California, the Virginia Consumer Data Protection Act (VCDPA) for residents of Virginia, and
+Lei Geral de Proteção de Dados
+(LGPD) for residents of Brazil.
+In-App Purchases: In order to make in-app purchases, a user must use a third party checkout options that we have integrated with our services to finalize and pay for their order. The third party operator’s privacy policy and security practices will apply to this process a user’s information. We encourage you to read that privacy statement before providing your information.
+Social Networks: Some of our services integrate a third-party social network such as Facebook or Twitter to allow sharing progress with friends, or allowing them to be invited to use our service. The privacy policy of each social network will indicate what data is available to us and how we use it.
+Game Services: Many of our services integrate Apple Game Center or Google Play Game Services. Each of these third-party operators offer their own privacy policy (listed below), and we encourage you to review them.
+Analytics: Noodlecake makes use of Third Party services in order to measure how users utilize our services so that we may improve them, and to measure the effectiveness of our advertising campaigns.
+The following is a list of the third party operators we currently use in our game, their contact information, and links to their privacy policies:
+Apple, iAd, Game Center
+http://www.apple.com/legal/privacy/en-ww/contact/
+http://www.apple.com/privacy/privacy-policy/
+AppLovin Corporation
+849 High St.
+Palo Alto, CA 94301
+care@applovin.com
+https://www.applovin.com/privacy
+AppsFlyer
+https://www.appsflyer.com/services-privacy-policy
+AppsFlyer – Attn: Legal Team/Data Protection Officer
+14 Maskit St.
+Herzliya, Israel
+4673314
+brainCloud
+1309 Carling Avenue
+Ottawa, Ontario, K1Z 7L3, Canada
+privacy@getbraincloud.com
+https://getbraincloud.com/privacy-policy/
+Chartboost
+420 Taylor Street
+San Francisco, California 94102
+privacy@chartboost.com
+https://answers.chartboost.com/hc/en-us/articles/200780269-Privacy-Policy
+Facebook, Inc.
+1601 Willow Road
+Menlo Park, CA 94025
+https://www.facebook.com/help/contact/861937627253138
+https://www.facebook.com/policy.php
+Freshworks
+Freshworks, Inc.
+2950 S.Delaware Street, Suite 201
+San Mateo, CA 94403
+dpo@freshworks.com
+support@freshworks.com
+legal@freshworks.com
+https://www.freshworks.com/privacy/
+GameSparks
+https://www.gamesparks.com/privacy-policy/
+privacy@gamesparks.com
+GameSparks Ltd,
+64 Lower Mount Street,
+D02 TH77,
+Dublin, Ireland
+Google Play, AdMob, Google Play Game Services, Google Anayltics, Google Firebase
+https://support.google.com/googleplay/?hl=en#topic=3364260
+https://firebase.google.com/support
+https://support.google.com/admob/answer/6128543?hl=en
+https://support.google.com/policies/troubleshooter/2990837?hl=en
+https://play.google.com/about/play-terms.html
+https://www.google.com/intl/en/policies/privacy/
+https://firebase.google.com/support/privacy
+ironSource Mobile Ltd.
+121 Menachem Begin Rd.,
+Tel Aviv, Israel
+Attn: Data Protection Officer
+dpo@ironsrc.com
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Mintegral
+RM701A, 7/F.,
+OfficePlus @Prince Edward,
+794-802 Nathan Road, KL,
+Hong Kong 999077
+privacy@mintegral.com
+https://www.mintegral.com/en/privacy/
+UnityAds
+Unity Technologies
+795 Folsom Street
+San Francisco, California 94107
+privacy@unity3d.com
+https://unity3d.com/legal/privacy-policy
+Vungle
+185 Clara Street,
+San Francisco, CA 94107
+marketing@vungle.com
+http://vungle.com/privacy/
+Changes to this Privacy Policy
+We will periodically update this privacy policy to reflect changes in our information practices, and to add additional third party operators. Please check back regularly, as your continued use of our services indicates your acceptance of any changes to this policy.
+This privacy policy was last updated on July 12, 2022.
+Privacy Policy Contact Information
+If you have any questions about our privacy policy, please contact us via email at privacy@noodlecake.com, or mail us at:
+Noodlecake Studios Inc.
+#207 – 262 Avenue B South
+Saskatoon, SK, Canada
+S7M 1M4
+HOME

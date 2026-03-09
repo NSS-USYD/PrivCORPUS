@@ -1,0 +1,672 @@
+Klook Travel
+${ item.tab_name  }
+${ $t('search_history') }
+${tag}
+${ hotword.name }
+${ tag.name }
+${ activity.name }
+${ activityItem.name }
+${ activityItem.country_name }
+${ hotCategories.name }
+${ value.name }
+${ city.name }
+${ value.name }
+Select your language
+English (Australia)
+English (Canada)
+English (Hong Kong, SAR)
+English (India)
+English (Malaysia)
+English (New Zealand)
+English (Philippines)
+English (Singapore)
+English (US)
+English (UK)
+English (International)
+简体中文
+繁體中文
+香港繁體
+台灣繁體
+日本語
+한국어
+ไทย
+Tiếng Việt
+Bahasa Indonesia
+Bahasa Malaysia
+Français
+Español
+Deutsch
+Italiano
+Русский
+USD
+Popular currencies
+SGD
+Singapore Dollar
+HKD
+Hong Kong Dollar
+PHP
+Philippine Peso
+MYR
+Malaysian Ringgit
+TWD
+New Taiwan Dollar
+USD
+U.S. Dollar
+CNY
+Chinese Yuan
+KRW
+Korean Won
+ILS
+Israeli Shekel
+More currencies
+AED
+U.A.E Dirham
+AUD
+Australian Dollar
+CAD
+Canadian Dollar
+CHF
+Swiss Franc
+DKK
+Danish Krone
+EGP
+Egyptian Pound
+EUR
+Euro
+FJD
+Fijian Dollar
+GBP
+British Pound
+IDR
+Indonesian Rupiah
+INR
+Indian Rupee
+ISK
+Icelandic Krona
+JOD
+Jordanian Dinar
+JPY
+Japanese Yen
+KHR
+Cambodian Riel
+LAK
+Lao Kip
+MAD
+Moroccan Dirham
+MGA
+Malagasy Ariary
+MMK
+Burmese Kyat
+MOP
+Macau Pataca
+MUR
+Mauritian Rupee
+MXN
+Mexican Peso
+NOK
+Norwegian Krone
+NZD
+New Zealand Dollar
+OMR
+Omani Rial
+QAR
+Qatar Riyal
+SEK
+Swedish Krona
+THB
+Thai Baht
+TRY
+Turkish Lira
+VND
+Vietnamese Dong
+ZAR
+South African Rand
+Go to app
+Earn rewards
+Help
+Recently viewed
+Explore destinations
+All categories
+Things to do
+Attractions
+Tours
+Nature & adventures
+Massages & hot springs
+Cultural experiences
+Water activities
+Events & shows
+Travel passes
+Cruise
+Places to stay
+Hotels
+Staycations
+Transport
+Train tickets
+Japan trains
+Europe trains
+Japan rail passes
+Europe rail passes
+Private airport transfers
+Airport trains & buses
+Flights
+Ferries
+Car rentals
+Car charters
+Scooters & bikes
+More to explore
+Food & dining
+Shopping
+WiFi & SIM cards
+Travel services
+Insurance
+Scroll down to see more
+Things to do
+Attractions
+Tours
+Nature & adventures
+Massages & hot springs
+Water activities
+Cultural experiences
+Travel passes
+Cruise
+Places to stay
+Hotels
+Staycations
+Food & dining
+Events & shows
+Transport
+Train tickets
+Japan trains
+Japan rail passes
+Europe rail passes
+Ferries
+Flights
+Airport trains & buses
+Private airport transfers
+Cars
+Car rentals
+Car charters
+Scooters & bikes
+More to explore
+WiFi & SIM cards
+Insurance
+Travel services
+Things to do
+Attractions
+Tours
+Nature & adventures
+Massages & hot springs
+Water activities
+Cultural experiences
+Travel passes
+Cruise
+Places to stay
+Hotels
+Staycations
+Food & dining
+Events & shows
+Transport
+Train tickets
+Japan trains
+Japan rail passes
+Europe rail passes
+Ferries
+Flights
+Airport trains & buses
+Private airport transfers
+Cars
+Car rentals
+Car charters
+Scooters & bikes
+More to explore
+WiFi & SIM cards
+Insurance
+Travel services
+Gift cards
+General Terms of Use
+Privacy policy
+Cookie Policy
+Best Price Guarantee
+Bug Bounty Program
+Terms And Conditions
+1.  Your Agreement
+1.1 This website www.klook.com and/or the Klook App (together, 'Klook Platform') is operated by Klook Travel Technology Limited, a Hong Kong incorporated company. Please read these terms of use (“this Terms of Use”) carefully before using the Klook Platform and the services offered by Klook Travel Technology Limited, its affiliated companies (together, “Klook”) or the third-party operators (the “Operator”) through the Klook Platform (the “Services”). “You” and “your” when used in this Terms of Use includes (1) any person who accesses the Klook Platform and (2) persons for whom you make a purchase of the Services.
+2. Change of Terms of Use
+2.1 Klook's Modifications
+2.1.1 Klook reserves the right, at its sole discretion, to change or modify any part of this Terms of Use at any time without prior notice. You should visit this page periodically to review the current Terms of Use to which you are bound. If Klook changes or modifies this Terms of Use, Klook will post the changes to or modifications of this Terms of Use on this page and will indicate at the bottom of this page the date on which this Terms of Use was last revised.
+2.1.2 Your continued use of the Klook Platform after any such changes or modifications constitutes your acceptance of the revised Terms of Use. If you do not agree to abide by the revised Terms of Use, do not use or access or continue to use or access the Klook Platform and/or the Services. It is your responsibility to regularly check the Klook Platform to ascertain if there are any changes to this Terms of Use and to review such changes.
+2.1.3 In addition, when using the Services, you shall be subject to any additional terms applicable to such Services that may be posted on the page relating to such Services from time to time and the privacy policy adopted by Klook from time to time (“the Privacy Policy”). All such terms are hereby expressly incorporated by reference in this Terms of Use.
+3. Access and Use of the Services
+3.1 Ownership of Content
+3.1.1 This Klook Platform, the domain name (www.klook.com), subdomains, features, contents and application services (including without limitation to any mobile application services) offered periodically by Klook in connection therewith are owned and operated by Klook.
+3.2 Provision and Accessibility of Services
+3.2.1 Subject to this Terms of Use, Klook may either offer to provide the Services by itself or on behalf of the Operators, as described in further detail on the Klook Platform. The Services that have been selected by you on the Klook Platform are solely for your own use, and not for the use or benefit of any third party. The term "Services" includes but is not limited to the use of the Klook Platform, any Services offered by Klook by itself or on behalf of the Operators on the Klook Platform. Klook may change, suspend or discontinue any Services at any time, including the availability of any feature, database or content. Klook may also impose limits or conditions on certain Services or restrict your access to any part or all of the Services without notice or liability.
+3.2.2 Klook does not guarantee that the Services will always be available or uninterrupted. Klook will not be liable to you if for any reason the Services are unavailable at any time or for any period. You are responsible for making all arrangements necessary for you to have access to the Services. You are also responsible for ensuring that all persons who access the Services through Internet connection are aware of this Terms of Use and other applicable terms and conditions for the Services, and that they comply with them.
+3.2.3 If you link to the Klook Platform, Klook may revoke your rights to so link at any time, at Klook’s sole discretion. Klook reserves the right to require prior written consent before linking to the Klook Platform.
+4. Klook Platform and Content
+4.1 Use of the Content
+4.1.1 All materials displayed or performed on the Klook Platform including but not limited to text, data, graphics, articles, photographs, images, illustrations, video, audio and other materials (“Content”) are protected by copyright and/or other intellectual property rights. This Klook Platform and the Content are intended solely for your personal and non-commercial use of the Services and may only be used in accordance with this Terms of Use.
+4.1.2 If Klook agrees to grant you access to the Klook Platform and/or the Content, such access shall be non-exclusive, non-transferable and limited license to access the Klook Platform in accordance with this Terms and Use. Klook may, at its absolute discretion and at any time, without prior notice to you, amend or remove or alter the presentation, substance or functionality of any part or all of the Content from the Klook Platform.
+4.1.3 You shall abide by all copyright notices, trademark rules, information, and restrictions contained in the Klook Platform and the Content accessed through the Klook Platform, and shall not use, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell or otherwise exploit for any purposes whatsoever the Klook Platform or the Content or third party submissions or other proprietary rights not owned by you without the express prior written consent of the respective owners, or in any way that violates any third party rights.
+4.2 Klook’s Liability for the Klook Platform and Content
+4.2.1 Klook cannot guarantee the identity of any other users with whom you may interact with in the course of using the Klook Platform. Klook cannot guarantee the authenticity and accuracy of any content, materials or information which other users or the Operators may provide. All Content accessed by you using the Klook Platform is at your own risk and you will be solely responsible for any damage or loss to any party resulting therefrom.
+4.2.2 Under no circumstances will Klook be liable in any way for any Content, including but not limited to any errors or omissions in any Content, or any loss or damage of any kind incurred in connection with the use of or exposure to any Content posted, emailed, accessed, transmitted, or otherwise made available via the Klook Platform.
+4.3 Sort Order
+      * 4.3.1 We provide sorting and filter settings for you to adapt the search results to your preferences using criteria such as availability, price recommendations, Services’ popularity, Services’ reviews or other criteria. We continually optimize the Klook Platform to provide you the best experience and may test different default sort order algorithms from time to time.
+5. Intellectual Property Rights
+5.1 Intellectual Property
+5.1.1 All intellectual property rights subsisting in respect of the Klook Platform belong to Klook or have been licensed to Klook for use on the Klook Platform. This Klook Platform, the Services and the Content are protected by copyright and other intellectual property rights as collective works and/or compilations, pursuant to applicable copyright laws, international conventions, and other intellectual property laws. You undertake that: (a) You shall not modify, publish, transmit, participate in the transfer or sale of, reproduce, create derivative works based on, distribute, perform, display, or in any way exploit, any part of the Klook Platform and the Content, software, materials, or the Services in whole or in part; (b) You shall only download or copy the Content (and other items displayed on the Klook Platform or related to the Services) for personal and non-commercial use only, provided that you maintain all copyright and other notices contained in such Content; and (c) You shall not store any significant portion of any Content in any form. Copying or storing of any Content other than personal and non-commercial use is expressly prohibited without prior written permission from Klook or from the copyright holder identified in such Contents copyright notice.
+6. User Submissions
+6.1 Uploading of Information
+6.1.1 In the course of accessing the Klook Platform or using the Services, you may provide information which may be used by Klook and/or the Operators in connection with the Services and which may be visible to other users of the Klook Platform. You understand that by posting information or content on the Klook Platform or otherwise providing content, materials or information to Klook and/or the Operators in connection with the Services (“User Submissions”): (a) You hereby grant to Klook and the Operators a non-exclusive, worldwide, royalty free, perpetual, irrevocable, sub-licensable and transferable right to use and fully exploit such User Submissions, including all related intellectual property rights subsisted thereon, in connection with providing the Services and operating the Klook Platform and Klook’s business, including but not limited to the promotion and redistribution of part or all of the Services and derivative works thereof in any media formats and through any media channels; (b) You agree and authorize Klook to use your personal data in accordance with the Privacy Policy in effect from time to time; (c) You hereby grant each user of the Klook Platform a non-exclusive license to access your User Submissions through the Klook Platform, and to use, modify, reproduce, distribute, prepare derivative works of, display and perform such User Submissions as permitted through the functionality of the Klook Platform and under this Terms of Use; (d) You acknowledge and agree that Klook retains the right to reformat, modify, create derivative works of, excerpt, and translate any User Submissions submitted by you. For clarity, the foregoing license grant to Klook does not affect your ownership of or right to grant additional non-exclusive licenses to the material in the User Submissions, unless otherwise agreed in writing; (e) You hereby represent and warrant that any content in your User Submission (including but not limited to text, graphics and photographs) do not infringe any applicable laws, regulations or any third party rights; and (f) That all the User Submissions publicly posted or privately transmitted through the Klook Platform is the sole responsibility of you and that Klook will not be liable for any errors or omissions in any content.
+7. Users Representations, Warranties and Undertakings
+7.1 Use of the Klook Platform and the Services
+7.1.1 You represent, warrant and undertake to Klook that you will not provide any User Submissions or otherwise use the Klook Platform or the Services in a manner that: (a) Infringes or violates the intellectual property rights or proprietary rights, rights of publicity or privacy, or other rights of any third party; or (b) Violates any law, statute, ordinance or regulation; or (c) Is harmful, fraudulent, deceptive, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, or otherwise objectionable; or (d) Involves commercial activities and/or sales without Klook’s prior written consent such as contests, sweepstakes, barter, advertising, or pyramid schemes; or (e) Constitutes libel, impersonates any person or entity, including but not limited to any employee or representative of Klook; or (f) Contains a virus, trojan horse, worm, time bomb, or other harmful computer code, file, or program.
+7.2 Removal of User Submissions
+7.2.1 Klook reserves the right to remove any User Submissions from this Klook Platform at any time, for any reason including but not limited to, receipt of claims or allegations from third parties or authorities relating to such User Submission or if Klook is concerned that you may have breached any of the preceding representations, warranties or undertakings, or for no reason at all.
+7.3 Responsibility for User Submissions
+7.3.1 You remain solely responsible for all User Submissions that you upload, post, email, transmit, or otherwise disseminate using, or in connection with, the Klook Platform.
+7.3.2 You acknowledge and agree that you shall be solely responsible for your own User Submissions and the consequences of posting or publishing all of your User Submissions on the Klook Platform. You represent, warrant and undertake to Klook that: (a) You own or have the necessary rights, licenses, consents, releases and/or permissions to use and authorize Klook to use all copyright, trademark or other proprietary or intellectual property rights in and to any User Submission to enable inclusion and use thereof as contemplated by the Klook Platform and this Terms of Use; and (b) Neither the User Submissions nor your posting, uploading, publication, submission or transmittal of the User Submission or Klook’s use of the User Submissions, or any portion thereof, on or through the Klook Platform and/or the Services will infringe, misappropriate or violate any third party’s patent, copyright, trademark, trade secret, moral rights or other proprietary or intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law, rule or regulation.
+7.3.3 You are responsible for all of your activity in connection with using the Klook Platform and/or the Services. You further represent, warrant and undertake to Klook that you shall not: (a) Conduct any fraudulent, abusive, or otherwise illegal activity which may be grounds for termination of your right to access or use the Klook Platform and/or the Services; or (b) sell or resell any products, services or reservation obtained from or via the Klook Platform; (c) use the Klook Platform for commercial or competitive activity or purposes, or for the purpose of making speculative, false or fraudulent bookings or any reservations in anticipation of demand; (d) Post or transmit, or cause to be posted or transmitted, any communication or solicitation designed or intended to obtain password, account, or private information from any other user of the Klook Platform; or (e) Violate the security of any computer network, crack passwords or security encryption codes, transfer or store illegal material (including material that may be considered threatening or obscene), or engage in any kind of illegal activity that is expressly prohibited; or (f) Run maillist, listserv, or any other form of auto-responder, or "spam" on the Klook Platform, or any processes that run or are activated while you are not logged on to the Klook Platform, or that otherwise interfere with the proper working of or place an unreasonable load on the Klook Platform’s infrastructure; or (g) Use manual or automated software, devices, or other processes to "crawl," "scrape," or "spider" any page of the Klook Platform; or (h) Decompile, reverse engineer, or otherwise attempt to obtain the source code of Klook Platform.
+7.3.4 You will be responsible for withholding, filing, and reporting all taxes, duties and other governmental assessments associated with your activity in connection with using the Klook Platform and/or the Services.
+8. Registration and Security
+8.1 Opening of the Klook Account
+8.1.1 In the course of using the Services, you may be required to open and maintain an account with Klook (“Klook Account”).
+8.2 Provision of Personal Information
+8.2.1 As a condition to using some aspects of the Services, you may be required to register with Klook and select a password and user name (“Klook User ID”). If you are accessing the Services through a Third Party Website or service, Klook may require that your Klook User ID be the same as your user name for such Third Party Website or service.
+8.2.2 You shall provide Klook with accurate, complete, and updated registration information. Failure to do so shall constitute a breach of this Terms of Use, which may result in immediate termination of your Klook Account.
+8.2.3 You represent that you shall not: (a) Select or use as a Klook User ID a name of another person with the intent to impersonate that person; or (b) Use as a Klook User ID a name subject to any rights of a person other than you without appropriate authorization.
+8.2.4 Klook reserves the right to refuse registration of or to cancel a Klook Account at its sole discretion. You shall be responsible for maintaining the confidentiality of your password.
+9. Reviews - Further correspondence - Rights to User Content
+9.1. By completing a booking, you agree to receive confirmation messages (in the form of emails and/or app notifications), as well as an invitation email(s) or app notification(s) for you to complete our guest review form which we will send to you after you finish an activity. Leaving a review is optional. For clarity, the confirmation and guest review emails are transactional and are not part of the newsletters or marketing mails, from which you can unsubscribe. The completed guest review may be uploaded onto the relevant activity page on the Klook platform within 72 hours of the submission for the sole purpose of informing (future) customers of your opinion of the service (level) and quality of the Activity. Upon submitting a review, your account may be awarded Klook credits, which may be used towards your next booking subject to terms and conditions. Each account may only submit one review per activity booked once or multiple times within the same calendar month. Fraud and abuse will result in the forfeiture of Klook credits. Klook further reserves the right to deduct any credits directly from your Klook account without prior notice.
+9.2. By posting a review, you grant Klook the full, perpetual, free, transferable and irrevocable rights to all submitted user content. Klook reserves the right to translate, edit, adjust, refuse or remove reviews at its sole discretion.
+9.3. You confirm you will comply with these Guest Review Guidelines. In addition, you represent and warrant that
+9.3.1. you own and control all of the rights to the user content that you post or otherwise distribute, or you otherwise have the lawful right to post and distribute such user content to or through the platform;
+9.3.2. such content is accurate and not misleading; and
+9.3.3. use and posting or other transmission of such content does not violate the Terms of Use or any applicable laws and regulations and will not violate any rights of or cause injury to any person or entity.
+9.4. Reviews may not contain obscenities, profanity, inappropriate content, hate speech and offensive content, promotion of illegal conduct, other people’s personal information such as names, phone numbers or email addresses, and irrelevant content such as promotional, invite and reward information. Moreover, reviews may not defame, abuse, harass, or violate the legal rights of others.
+9.5. You further grant Klook the right to pursue at law any person or entity that violates your or Klook's rights in the content by a breach of the Terms of Use. You agree you will be solely responsible for any user content you provide or submit.
+9.6. Content submitted by users will be considered non-confidential and Klook is under no obligation to treat such content as proprietary information. Without limiting the foregoing, Klook reserves the right to use the content as it deems appropriate, including, without limitation, deleting, editing, modifying, rejecting, or refusing to post it. Klook is under no obligation to offer you any payment for content that you submit or the opportunity to edit, delete or otherwise modify content once it has been submitted to Klook. Klook shall have no duty to attribute authorship of content to you, and shall not be obligated to enforce any form of attribution by third parties. Please refer to the Terms of Use on the Platform for more details.
+10. Booking Confirmation, Tickets, Vouchers, Fees and Payment
+10.1 Booking Confirmation
+10.1.1 Certain Services are stated to be subject to instant confirmation. Other than these Services, any required time for confirmation as stated on the Klook Platform is solely for reference only. Actual time required for confirmation may vary.
+10.2 Purchase and Use of the Vouchers
+10.2.1 Through the Klook Platform, you may purchase vouchers from Klook for the Services (“Vouchers”) offered by the Operators in the various destinations. Subject to the policy of the relevant Operator, you will receive an email confirmation of your purchase that will contain a Voucher confirmation number (“Confirmation Number”) and a printable version of your Voucher.
+10.2.2 In order to use your Voucher, you must appear in person at the meeting point designated by the relevant Operator on time, and present such documents and/or information as may be required by the Operator, that may include your Confirmation Number and/or your printed Voucher. If you fail to appear on time or to provide the required documents or information, no refunds will be granted.
+10.2.3 An Operator may also require you to provide an identification document bearing your photo in order to use your Voucher. Neither Klook nor the Operator is responsible for lost, destroyed or stolen Vouchers or Confirmation Numbers. Vouchers will be void if the relevant Services to be provided are prohibited by law. If you attempt to use a Voucher in an unlawful manner (e.g., you attempt to use a Voucher for wine tasting when you are under the legal age to do so), the respective Operator may refuse to accept your Voucher, and no refunds will be granted.
+10.3 Terms of the Vouchers
+10.3.1 The Terms of Use for each Voucher may vary amongst Operators and any restrictions that apply to the use of such Voucher, including but not limited to a minimum age requirement, will be conveyed to you at the time of purchase on the Klook Platform.
+10.3.2 Vouchers are admission tickets to one-time events ('Events'): the date(s) on which a Voucher can be used will be stated on the Voucher. If you do not use your Vouchers on or by the date(s) noted on such Vouchers, except as expressly set forth therein, no refunds will be granted.
+10.4 Cancelation of Vouchers
+10.4.1 You may cancel your Voucher by contacting Klook customer service within the cancelation period, as stated at the time of purchase on the Klook Platform. Cancelation windows vary on a case by case basis. A Voucher canceled with the required notice will be refunded in full to the credit card you used to purchase such Voucher.
+10.4.2 The Operator, not Klook, is the offeror of the Services for the Events, to which the Vouchers correspond to, and is solely responsible for accepting or rejecting any Voucher you purchase, as related to all such Services.
+10.4.3 Please directly consult with the Operator if you have any enquiries or complaints in respect of the Service you received in connection with your Voucher. Except as expressly set forth herein, all fees paid for Vouchers are non-refundable. Prices quoted for Vouchers are in the currency stated on the Klook Platform at the time prior to purchase.
+10.4.4 If an Event which you have purchased a Voucher for is canceled by the Operator, Klook will notify you as soon as reasonably practicable, and will process a full refund to the credit card you used to purchase such Voucher.
+10.5 Required Assistance
+10.5.1 If you attempt to use a Voucher in accordance with this Terms of Use and the additional terms and conditions applicable to such Voucher and you are unable to do so (due to the fault of the Operator or otherwise), please contact Klook at support@klook.com, and Klook will try to liaise with the Operator for an appropriate remedy.
+10.6 Additional Charges
+10.6.1 Klook reserves the right to require payment of fees or charges for any Services offered by Klook. You shall pay all applicable fees or charges, as described on the Klook Platform in connection with such Services selected by you.
+10.7 Modifications to Charges
+10.7.1 Klook reserves the right to change its price list for fees or charges at any time, upon notice to you, which may be sent to you by email or posted on the Klook Platform. Your use, or continued use, of the Services offered by Klook following such notification constitutes your acceptance of any new or revised fees or charges.
+10.8 Klook’s Rights and Obligations
+10.8.1 Klook reserves the right to deny and cancel bookings or purchases of any Services that are deemed in violation of this policy. Such a determination is at Klook’s sole discretion.
+10.8.2 Klook intends to offer or procure the Operators to offer the Services to you at the best price available on the market. You acknowledge and agree that all taxes and additional fees for particular Services that may be payable for using the Services are expressly excluded in determining the best price.
+10.8.3 Whilst the Operators are required to provide Klook with accurate and updated prices of the Services on the Klook Platform, Klook cannot guarantee that all prices for the Services provided by the Operators are accurate and updated at all times.
+10.9 The above terms and conditions & return policies are appliable to all Klook users worldwide.
+11. Discounts
+11.1 Klook Credits
+11.1.1 Klook Credits are points that are awarded to you and will be accumulated in your Klook Account until expiry. Points are awarded on the actual participated and unrefunded activities purchased from Klook’s platforms, based on the award program at the time of purchase. Except as otherwise stated, every ten (10) Klook Credits may be used to offset one Hong Kong Dollar (HK$1.00) of the total check out price. Conversion into any other currencies will be calculated based on the exchange rate Klook uses on the date of your purchase offset.
+11.1.2 Klook Credits may be earned through the following means and the amount of Klook Credit received may vary with each purchase and is at the sole discretion of Klook: (a) rebates from previous purchases (b) earning through any means authorized by Klook at its sole discretion (c) submission of activity review after successfully completing any eligible Klook activities you purchased
+11.1.3 You will only receive Klook Credits for the first ten activities you have reviewed in any calendar month. If you have completed the same activity more than once in the same month, you will only receive Klook Credits for the first review you have submitted for that activity.
+11.1.4 All Klook Credits earned any time will expire 365 days after the last valid Klook Credits Eligible Transaction. A “Klook Credits Eligible Transaction” includes unrefunded purchase of any Services from Klook’s platforms, and other activities for which Klook Credits are awarded, such as leaving reviews for applicable Services. If any purchase is refunded, your Klook Credits will adjusted, and your Klook Credits will be valid from 365 days since your last Klook Credits Eligible Transaction. All expired Klook Credits will be forfeited and cannot be reinstated. For any Klook Credits earned on or before 30 June 2022, the 365-day period for the Klook Credit earning activity will start to count on 1 July 2022.
+11.1.5 Booking and delivery fees and charges are not eligible for earning Klook Credits, nor can Klook Credits be used to redeem or deduct booking and delivery fees and charges
+11.2 Klook Coupons
+11.2.1 Klook Coupons are coupons with a one-time use and will not be returned if used that will be sent to your designated email address or applied directly to your Klook Account, which may be used in exchange for discounts of future bookings on the Klook Booking Platform. For the avoidance of doubt, once you have used the Klook Coupons on the Klook Booking Platform, such Klook Coupons will not be returned or refunded under any circumstances.
+11.2.2 Klook Credits may be attained through the following means: (a) You may receive Klook Coupons through the Klook Referral Program, as further elaborated on in Clause 11; or (b) You may receive Klook Coupons by other authorized means as determined at Klook’s sole discretion.
+11.3 Abuse of Discounts
+11.3.1 In the event where it has come to Klook’s attention that the Klook Credits or Klook Coupons were earned in a fraudulent manner, in a manner that violates this Terms of Use or in a manner otherwise not intended by Klook, Klook reserves the right to the following: (a) Termination of your Klook Account with immediate effect; or (b) Cancelation of all Klook Credits or Klook Coupons as previously accrued; or (c) Refusal of the provision of the Services to you; or (d) Any other measures as deemed appropriate by Klook at its sole discretion.
+12. Klook Referral Program
+12.1 The Program
+12.1.1 On certain Klook Sites, Klook may offer members the chance to earn Klook Coupons, when they invite friends to become members of a Klook Site and those friends make a confirmed booking through an authorized Klook invitation channel (“Klook Authorized Channel”) (e.g. an invitation sent through the Klook Platform, Facebook or another social media channel as supported by Klook).
+12.2 Terms
+12.2.1 You may only earn Klook Coupons via Klook’s authorized member invite mechanisms. Referrals outside of Klook Authorized Channel will not result in any Klook Coupons. You understand that Klook Coupons are not transferable, may not be auctioned, bartered or sold, and may not be pooled with other members.
+12.2.2 You will only receive Klook Coupons for the first confirmed booking made by a friend who makes his or her first booking on the Klook Sites and subsequently completes his or her first booking as a result of an invite from you via a Klook Authorized Channel. If your friend does not follow the directions in the invite email or other valid invite mechanism to accept the invitation, you may not receive Klook Coupons, and Klook will have no liability to you for your friend’s failure to follow directions.
+12.2.3 You agree that having multiple Klook Accounts is a violation of this Terms of Use and that sending invites to alternate email addresses or accounts or otherwise attempting to circumvent the Klook Referral Program system may, without limiting any of Klook’s other rights or remedies, result in forfeiture of your membership and all Klook Coupons in your Klook Account.
+12.2.4 You must not conduct your own promotion in connection with the Klook Referral Program. You may not engage in any promotional, marketing, or other advertising activities on behalf of Klook, including the use of any trademarks of Klook.
+12.2.5 Klook reserves the right to void referrals and Klook Coupons earned if it is suspected that the referrals or Klook Coupons were earned in a fraudulent manner, in a manner that violates this Terms of Use or in a manner otherwise not intended by Klook.
+12.2.6 Klook Coupons will be emailed to your designated email address within 24 hours of one of your qualifying invitees completing his or her confirmed booking on the Klook Platform
+12.2.7 Klook reserves the right to modify the values and rewards of the Klook Referral Program based on each user's activity.
+12.2.8 Klook Referral Program is void where prohibited by law. Klook reserves the right to modify or terminate the Klook Referral Program at any time. Should there be any tax liability for the accumulation and/or use of Klook Coupons, such taxes are the sole responsibility of the participant. You understand that your Klook Account may not accurately reflect the Klook Coupons you have actually earned. Klook will have no liability for any errors displayed in your Klook Account.
+13. Privacy Policy
+13.1 Privacy Policy
+13.1.1 For Klook’s policy relating to its use of of your personal data, please review Klook’s current Privacy Policy, which is hereby incorporated by reference to this Terms of Use. Your acceptance of this Terms of Use constitutes your acceptance and agreement to be bound by our Privacy Policy.
+14. Indemnity
+14.1 Klook’s Indemnification
+14.1.1 You will indemnify and hold Klook, our holding companies, subsidiaries, affiliates, officers, directors and employees harmless from, including but not limited to all damages, liabilities, settlements, costs and attorney’s fees, claims or demands made by any third party due to or arising out of your access to the Klook Platform, use of the Klook Platform, your violation of this Terms of Use, or the infringement of any intellectual property or other right of any person or entity by you or any third party using your Klook User ID.
+14.2 Klook’s Involvement
+14.2.1 Klook may, if necessary, participate in the defense of any claim or action and any negotiations for settlement. You will not make any settlement that may adversely affect the rights or obligations of Klook without Klook’s prior written approval. Klook reserves the right, at its expense and upon notice to you to assume exclusive defense and control of any claim or action.*
+15. Disclaimers and Limitation of Liability
+15.1 Parties’ Relationship
+15.1.1 Klook has no special relationship with or fiduciary duty to you for accessing and using the Klook Platform and the Content. You acknowledge that Klook has no control over, and no duty to take any action regarding: (a) Which users gain access to this Klook Platform; (b) What content you access via the Klook Platform; (c) What effects the Content may have on you; (d) How you may interpret or use the Content; and (e) What actions you may take as a result of having been exposed to the Content.
+15.2 Services and Comments
+15.2.1 You acknowledge and agree that the Operators may offer the Services on the Klook Platform, and that suggestions or recommendations may be given by the Operators or Users of the Klook Platform. Klook makes no representations or warranties regarding the accuracy of descriptions anywhere on the Services, or regarding suggestions or recommendations of the Services offered or purchased through the Klook Platform.
+15.3 Exemption of Liability
+15.3.1 In no event will Klook, the Klook Platform, or any of Klook’s holding companies, subsidiaries, affiliates, officers, directors and/or employees be liable for any loss of profits or any indirect, consequential, special, incidental, or punitive damages arising out of, based on, or resulting from: (a) This Klook Platform; or (b) This Terms of Use; or (c) Any breach of this Terms of Use by you or a third party; or (d) Use of the Klook Platform, tools or Services we provide related to the business we operate on the Klook Platform by you or any third party; or (e) Any actual or attempted communication or transaction between users, in each case, even if we have been advised of the possibility of such damages.
+15.3.2 These limitations and exclusions apply without regard to whether the damages arise from: (a) Breach of contract; or (b) Breach of warranty; or (c) Strict liability; or (d) Tort; or (e) Negligence; or (f) Any other cause of action, to the maximum extent that such exclusion and limitations are not prohibited by applicable law.
+15.3.3 This Klook Platform, including all content, software, functions, materials and information made available on or accessed through the Klook Platform, is provided on an "as is" basis. To the fullest extent permissible by applicable law, Klook makes no representations or warranties of any kind, either express or implied, including but not limited to the content on the Klook Platform or the materials, information and functions made accessible through the Klook Platform, for any of the Services or hypertext links to third parties or for any breach of security associated with the transmission of sensitive information through the Klook Platform, or for Operator ability, fitness for a particular purpose, non-infringement, or that the use of the Services will be uninterrupted or error-free.
+15.3.4 You acknowledge and agree that any transmission to and from the Klook Platform is not confidential and your communications may be read or intercepted by others. You further acknowledge and agree that by submitting communications to Klook and by posting information on the Klook Platform, including tours and/or activities, no confidential, fiduciary, contractually implied or other relationship is created between you and Klook other than pursuant to this Terms of Use.
+15.3.5 You acknowledge and agree that you will not hold or seek to hold Klook responsible for the content provided by any Operator or third party and you further acknowledge and agree that Klook is not a party to any transaction in relation to the Services provided by any Operator or third party. Klook has no control over and does not guarantee the safety of any transaction, tours and/or activities or the truth or accuracy of any listing or other content provided by any Operator or third party on the Klook Platform.
+15.4 Remedies
+15.4.1 If you are dissatisfied with the Klook Platform, do not agree with any part of this Terms of Use, or have any other dispute or claim with or against Klook or another user of the Klook Platform with respect to this Terms of Use or this Klook Platform, your sole and exclusive remedy against Klook is to discontinue use of the Klook Platform.
+15.4.2 In any event, to the fullest extent permissible by the applicable law, Klook’s liability, and the liability of any member of Klook, to you or any third party in any circumstance arising out of or in connection with the Klook Platform is limited to the greater of: (a) The amount of fees you paid to Klook in the twelve months prior to the action giving rise to liability; or (b) Hong Kong Dollars 500.00 in the aggregate for all claims.
+16. Interaction with Third Parties
+16.1 Links to Third Party Websites
+16.1.1 This Klook Platform may contain links to third party websites or services (“Third Party Websites”) that are not owned or controlled by Klook, or the Services may be accessible by logging in through a Third Party Website. Links to Third Party Websites do not constitute an endorsement or recommendation by Klook of such Third Party Websites or the information, products, advertising or other materials available on those Third Party Websites.
+16.1.2 When you access Third Party Websites, you do so at your own risk. You hereby represent and warrant that you have read and agree to be bound by all applicable policies of any Third Party Websites relating to your use of the Services and that you will act in accordance with those policies, in addition to your obligations under this Terms of Use.
+16.1.3 Klook has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any Third Party Websites. In addition, Klook will not and cannot monitor, verify, censor or edit the content of any Third Party Website. By using the Services, you expressly relieve and hold Klook harmless from any and all liability arising from your use of any Third Party Website.
+16.1.4 Your interactions with organizations and/or individuals found on or through the Services including but not limited to the Operators, including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such organizations and/or individuals.
+16.1.5 You should conduct whatever investigation you feel necessary or appropriate before proceeding with any online or offline transaction with any of these third parties.
+16.2 Klook’s Responsibility
+16.2.1 You agree that Klook shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. If there is a dispute between participants on this site, or between users and any third party, you understand and agree that Klook is under no obligation to become involved. In the event that you have a dispute with one or more other users or third parties, you hereby release Klook, its holding companies, subsidiaries, officers, directors, employees, agents, and successors in rights from claims, demands, and damages (actual and consequential) of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes.
+17. Payment
+17.1 In order to ensure adequate operational support for customers in respect of refunds and cancelations (where applicable), the following Klook entities shall be responsible for transactions conducted in the following currencies:
+(a) in respect of transactions in SGD, Klook Travel Technology Pte Ltd;
+(b) in respect of transactions in TWD, Klook Travel Taiwan Limited;
+(c) in respect of transactions in MYR, Klook Technology Sdn. Bhd.;
+(d) in respect of transactions in AUD/NZD, Klook Travel Technology (Australia) Pty Ltd;
+(e) in respect of transactions in EUR/GBP/CHF/DKK/ISK/NOK/SEK/RUB, Klook Travel Technology B.V.; and
+(f) in respect of transactions conducted in all other currencies, Klook Travel Technology Limited.
+18. Termination
+18.1 Termination by Klook
+18.1.1 This Terms of Use shall remain in full force and effect while you use Klook Platforms or the Services. Klook may terminate or suspend your access to the Services or your membership at any time, for any reason, and without notice, which may result in the forfeiture and destruction of all information associated with your membership. Klook may also terminate or suspend any and all Services and access to the Klook Platform immediately, without prior notice or liability, if you breach any of the terms or conditions of this Terms of Use.
+18.2 Effects of Termination
+18.2.1 Upon termination of your Klook Account, your right to use the Services, access the Klook Platform, and any Content will immediately cease. All provisions of this Terms of Use which, by their nature, should survive termination, shall survive termination, including but not limited to ownership provisions, warranty disclaimers, and limitations of liability.
+18.2.2 If this Terms of Use is terminated as a result of your breach, Klook reserves the right to cancel any outstanding Vouchers you may have purchased prior to said termination, without refund or liability to you.
+19. Passports, Visas, Documents, Licenses & Insurances
+19.1 Your Responsibilities
+19.1.1 It is the responsibility of all passengers, regardless of nationality and destination, to check with the consulate of the country they are visiting for current entry requirements.
+19.1.2 As visa and health requirements are subject to changes without notice, Klook recommends that you verify health and visa requirements with the appropriate consulate prior to departure.
+19.1.3 You acknowledge that some Operators may require you to adhere to local
+  policies and furnish the necessary documents and/or licenses as a prerequisite to using and/or participating in the Services they offer.
+19.1.4 Klook strongly recommends that you purchase a comprehensive travel
+  insurance policy prior to departure.
+20. Governing Law
+20.1 This Terms of Use shall be governed by the laws of Hong Kong Special Administrative Region of the Peoples Republic of China. You agree to submit to the non-exclusive jurisdiction of the Hong Kong court.
+21. Miscellaneous
+21.1 Severability
+21.1.1 If any provision of this Terms of Use is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Terms of Use shall otherwise remain in full force and effect and enforceable.
+21.2 Assignment
+21.2.1 This Terms of Use is not assignable, transferable or sub-licensable by you except with Klook’s prior written consent. Klook may transfer, assign or delegate this Terms of Use and its rights and obligations without prior notice to you.
+21.3 The Terms of Use have been drafted, and shall be construed, in the English language. Any translation of the Terms of Use is solely for reference only. In the event of inconsistency between the English language version and a translated version, the English language version of the Terms of Use shall always prevail.
+22. Contact
+22.1 Please contact Klook at support@klook.com to report any violations of this Terms of Use or to pose any questions regarding this Terms of Use or the Service.
+Last updated on 1 March 2022.
+Privacy Policy
+Klook Travel Technology Limited ('Klook', 'we', 'us', 'our') are committed to protecting and respecting your personal data privacy and complying with data protection principles and provisions under applicable laws.
+We may collect, process, use and disclose your information when you use this website www.klook.com and/or the Klook App (together, 'Klook Platform') and the services offered by Klook or the third party operators (the 'Operators') through Klook Platform (the 'Services') as described in this Privacy Policy. 'You' and 'your' when used in this Privacy Policy includes any person who accesses Klook Platform or use the Services.
+This Privacy Policy sets out the basis and terms upon which Klook collects, processes, uses and/or discloses your information that is obtained from you when you access Klook Platform and/or use the Services. Such information may include personal information relating to or linked to a specific individual such as name, residential address, telephone number, email address, travel document information, vehicle rental information, insurance information, age, date of birth, or any such information we have requested and you have provided through Klook Platform ('Personal Information').
+Please read this Privacy Policy carefully.
+By visiting Klook Platform, you are consenting to the collection, processing, usage and disclosure of your Personal Information as set out in this Privacy Policy.
+Scope of Terms
+• Klook reserves the right to update, amend or modify the terms of this Privacy Policy or any part of it without prior notice, and your continued access of Klook Platform or use of the Services signifies your acceptance of the updated, amended or modified Privacy Policy, unless if the changes reduce your rights in which case we will ask for your consent. If you do not agree to all the terms and conditions in this Privacy Policy and/or any subsequent updates, amendments or modifications thereto, you must stop accessing or otherwise using Klook Platform and the Services.
+• Accordingly, please visit this page if you wish to access and view the current version of this Privacy Policy.
+Collection of Information
+We may collect Personal Information about you that you provide to us while using Klook Platform and information about how you use Klook Platform including when you open your user account ('User Account'), visit Klook Platform or make reservations, rentals and/or bookings for any intended Services or using the Services. Providing your Personal Information to Klook is always on a voluntary basis. However, we might not be able to provide you with certain Services if you choose not to give us your Personal Information. For example, we cannot open your user account or make reservations, rentals and/or bookings for you if we do not collect your name and contact details.
+1) Opening Your User Account
+When you open with us a User Account or amend any information of your User Account, we may collect your Personal Information, such as your name, email address, username, password and telephone number.
+2) Visit Klook Platform, Making Reservations, Rentals, and/or Bookings for the Services or Using the Services:
+When you visit Klook Platform (even you have not registered an User Account or logged in), make reservations, rentals, and/or bookings for any intended Services or use the Services, we may collect and process certain information (which may contain your Personal Information or may contain non-personally identifiable information but nevertheless linked to your Personal Information) including but not limited to those set out below:
+(a) Copies of correspondence (whether by e-mail, instant or personal messaging or otherwise) between you and us, and between you and the Operators;
+(b) Information necessary to fulfil your reservations, rentals, and/or bookings with us and our Operators (including but not limited to travel document information, vehicle rental information, insurance information, age, and date of birth);
+(c) Details of your usage of Klook Platform (including traffic data, location data and length of user sessions);
+(d) Feedback on and responses to surveys conducted by Klook relating to the Services and newsletters which may be published, circulated or distributed by Klook;
+(e) Information automatically collected and stored in our server or the server of our third party services provider by using or accessing to Klook Platform (including the log-in name and password for your User Account, your computers Internet Protocol (IP) address, browser type, browser information, device information (including unique device identifier), pages visited, previous or subsequent sites visited).
+3) When you use your mobile devices to visit Klook Platform, we may collect information about you and your mobile device as stated above. This can include location information if you have consented and configured your mobile device to send us such information or upload photos with location information to Klook Platform. Such location information will be used in the ways and for the purposes as stated in this Privacy Policy. For example, we may use your location to suggest nearby Services during your travel or provide personalised content. You can change your mobile device’s privacy settings at any time to deactivate the function of sharing location information. Please note some features of Klook Platform may be affected if you turn off such location sharing function. Should you have any enquiries about your mobile devices’ privacy settings, we recommend you contacting your mobile services provider or the manufacturer of your device.
+If you make reservations, rentals, and/or bookings for other individuals through the Klook Platform, we may request personal information about such individual. You must obtain all requisite consent of such individuals and ensure they are aware of, understand and accept this Privacy Policy prior to providing their personal data to Klook.
+Storage of Information
+The Personal Information and other data we collect from you may be transferred to, processed, and stored in our servers or the servers of our third party services providers. Your Personal Information will be stored as long as is necessary to fulfil any of the purposes described in this Privacy Policy, or to comply with any (i) contractual requirement that are necessary for the provision of the Services, and (ii) legal, tax or accounting requirement.
+When it is no longer necessary for us to process your Personal Information, we will either delete or anonymise the data or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information.
+We will endeavor to anonymise or aggregate your data if we intend to use it for analytical purposes or trend analysis.
+Klook will use reasonable endeavours to maintain appropriate physical, electronic and organisational procedures to ensure that your Personal Information and other data is treated securely and in accordance with this Privacy Policy, and to protect such data against unauthorized access or unauthorized alteration, disclosure or destruction of data.
+Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. Klook does not give any representation, warranty or undertaking that the Personal Information you provide to us will be secure at all times, and to the extent Klook has fulfilled its obligations under no circumstances shall Klook be responsible for any losses, damages, costs and expenses which you may suffer or incur arising from unauthorised access to or use of your Personal Information.
+All payment transactions carried out by us or our chosen third-party provider of payment processing services will be encrypted using online encryption technology. You are responsible for keeping your chosen password confidential and not to share your password with any third party.
+Usage of Information
+We process the Personal Information collected in as far as necessary for performance of the contract with and providing services to you. Besides, we process the other Personal Information collected on the basis of our legitimate interests, which are the further improvement of the services and for direct marketing purposes.
+For example, Klook will use Personal Information and other data collected through Klook Platform or when making purchases for the Services to create your User Account, to fulfil your reservations, rentals, and/or bookings for the Services, to provide you with the Services, to continually improve Klook Platform and the Services, and to contact you in relation to the Services. This includes using your Personal Information or such other data to achieve faster purchase requests, better customer support and to provide you with timely notice of new Services and special offers.
+From time to time, we may also make use of your Personal Information to contact you for feedback on your use of Klook Platform, to assist us in improving Klook Platform, or to offer special savings or promotions to you, where you have indicated your consent to receiving such communications. If you would prefer not to receive notices of special savings or promotions, you may simply opt-out from receiving them by replying to us through the hyperlink provided in these notices.
+Disclosure of Information
+We may from time to time share and disclose your Personal Information and other data to third parties, some of whom may be located outside your home country. The circumstances under which such sharing and disclosure will take place may include without limitation, the following:
+1)  To successfully complete your reservations, rentals, and/or bookings, or to otherwise implement our Terms of Use. We may share your information with Operators or third parties (including but not limited to tour operators, activity providers, restaurants, shops, transportation companies, railway companies, cruise companies, amusement parks, telecommunication network operators, hotels, car rental companies, insurance companies, etc.), both within and outside your home country, who deliver or provide goods and services or otherwise act on our behalf.
+2) If you are a visitor, to the relevant Operator in connection with a Services which you have made reservations, rentals, and/or bookings for or intend to make reservations, rentals, and/or bookings for.
+3) If you are an Operator, to any visitor in connection with the Services you are offering.
+4) To our third party service providers (including Google Analytics), which we engage amongst others for the performance of certain services on our behalf, such as web hosting services, data analysis, marketing, market research, and to otherwise provide you with customer service.
+5) If and to the extent required by any applicable law, order of court or requests by any governmental authority to make such disclosure.
+6) Within the Klook group of companies. In case of a corporate transaction, in connection with the sale, merger, acquisition, or other corporate reorganization or restructuring of our corporation, your Personal Information may be disclosed, shared or transferred to the new controlling entity or its authorised third party for carrying on our business.
+7) To our advisors, agencies or other parties concerned in order to protect the rights and property of Klook.
+8) In any other case, to any third parties with your prior written consent (and in which case we will make it possible for you to withdraw your consent as easily as it was to provide consent).
+We may also share aggregate or anonymous information with relevant third parties, including our advertisers. Such information does not contain any Personal Information and will not identify you personally. However, in some occasions, these third parties may possess information about you or obtain your information from other sources. When they combine such information with our aggregate information, they may be able to identify you personally.
+Your Personal Information may be transferred outside of your home country and outside of the European Union, for the abovementioned purposes. If such transfer takes place to a country that does not provide an adequate level of protection, Klook will use reasonable endeavours to ensure that appropriate safeguards are in place. Such safeguards include but are not limited to (i) standard contractual clauses of the European Commission; (ii) the EU-US and Switzerland-US privacy shield; and/or (iii) any other appropriate cross-border transfer mechanisms.
+There may be links present on Klook Platform which could result in you leaving Klook Platform and/or being taken to other third party websites. You should note that any Personal Information that you provide to these third party websites are not subject to this Privacy Policy, and Klook is not liable for any losses, damages, costs or expenses which you may suffer or incur in connection with you providing or making available Personal Information or other data to such third party websites.
+Cookies
+Cookies are widely used in order to make websites work, or work more efficiently. When you visit our Website, we collect some of your Personal Information transmitted to us by your browser via cookies. This enables you to access Klook Platform and helps us to create better user experience for you. You will find more details about cookies and similar technologies that we use, in our
+Cookies Policy
+.
+Your rights
+You may at all times access, correct or erase your Personal Information through Klook Platform via the user portal, under “My Account”. Alternatively, you may make your data access, correction or erasure request by sending your request by email at privacy@klook.com.
+Where mandatory under applicable legislation, you may also request restriction of processing of your Personal Information or object to processing by sending your request or objection by email at privacy@klook.com. You may also request a copy of the information that we hold about you by sending your request by email at privacy@klook.com.
+Please contact us via the contact details mentioned below if you have a complaint regarding the processing of your Personal Information.
+When handling any of these requests described above, we have the right to check the identity of the requester to ensure that he/she is the person entitled to make the request.
+European General Data Protection Regulation
+Klook Travel Technology Ltd has designated Klook Travel Technology BV (Weesperstraat 61 1018VN Amsterdam, Netherlands) as its representative in the European Union for the purposes of the European General Data Protection Regulation. If you are within the European Union, you have the right to file a complaint with the appropriate data protection authority.
+Inquiries
+If you have any questions about this Privacy Policy, please contact us by email at privacy@klook.com.
+Last updated on: 20th March 2020.
+Cookie Policy
+At Klook, we strive to enhance your experience during your trip and using this Website. In general, we use cookies to manage the Website and improve your overall site experience.
+Your data privacy and confidentiality are our top priority and we do our very best to safeguard the information you entrusted to us. For more information, you can review our
+Privacy Notice
+here.
+This section about cookies sets out the basis and terms upon which Klook uses cookies.
+What are cookies?
+Cookies are widely used in the Internet. They are small text files stored in your browser that contain basic information about your internet use, such as login details and your previous browsing records.
+A cookie can be classified in terms of its (i) duration and (ii) the party who places it:
+(i) Session cookies and Persistent cookies
+The duration of cookies depends on whether they are session or persistent cookies.
+Session cookies
+expire once the browsing session ends.
+Persistent cookies
+are saved on your computer or mobile device for a fixed period of time. When you visit a website, your browser will retrieve these cookies so that the website will recognise your device and personalise your site experience according to your previous browsing records.
+(ii) First-party cookies and Third-party cookies
+We control and set the scope of
+first-party cookies
+whereas, we have no control over
+third-party cookies
+. Third-party cookies are operated by third-party sites in a different domain. Some pages of this Website contain third-party cookies in the form of embedded content, such as JavaScript and API.
+Why do we use cookies?
+We are committed to providing you with a safe, efficient and customised service. To reach this goal, we use cookies to:
+• ensure the efficient functioning of this Website;
+• evaluate how this Website is accessed and used;
+• analyse what destinations are popular among visitors;
+• determine your eligibility for campaigns and promotions;
+• recommend the places that match your interests; and
+• improve the content of this Website and enhance user's experience.
+We will ensure that cookies will not be used for any purpose other than those described here.
+What types of cookies do we use?
+We use four types of cookies, namely "Strictly necessary cookies", "Essential cookies," "Analytics cookies", and "Advertising cookies". Further information on these cookies is set out in the table below:
+Cookies
+Description
+Strictly necessary cookies
+These cookies allow us to manage this Website and ensure it functions properly. They are essential to help you navigate around this Website and provide you with an improved surfing experience.
+If these cookies are disabled, we will not be in a position to offer you our services.
+We also use these cookies for fraud detection and prevention purposes. Further, thanks to these cookies, you do not need to log in repeatedly to access different pages once you have logged into this Website.
+Analytics cookies
+We use analytics cookies including Google Analytics and other analytics tools to gather anonymous statistical information for:
+• assessing how our visitors use this Website;
+• understanding the demographic and location of our visitors;
+• evaluating how our new products are being received by usersassessing the popularity of our marketing campaign;
+• enhancing this Website content and service by customising this Website for you.
+Based on the anonymous data collected, these analytics tools will generate trend analysis and compile reports to attain the abovementioned purposes.
+Advertising cookies
+Advertising cookies enable us to limit the number of times you see the same ad and to ensure that the ad content is relevant to your interests. These cookies, together with an identifier linked to your IP address, can track your activity across various websites and thus display ads in accordance to your preference.
+Consent to cookies
+In most cases we will need your consent in order to use cookies on this Website. The exception is where the cookies are strictly necessary in order for us to provide you with a service you have requested, or essential to the inherent functionality of the Website.
+Upon your first visit to our Website, you will see a notification banner at the top of the page notifying you about our use of cookies. By continuing to use this Website without changing your settings, you agree to receive all cookies and other data tracking tools. On the other hand, if you do not wish to accept the use of these cookies, you can modify your cookie setting at any time. For more details, please refer to "How can you manage your consent?" section below.
+How can you manage your consent?
+You can accept or decline our use of cookies at any time by managing and/or disabling all or some of the cookies from your browser settings. However, by doing so, you may not be able to enjoy the full functionality of this Website.
+Cookies settings can normally be found in the preference or settings menu from your browser, for example:
+• Chrome: Settings -- Advanced -- Content Settings -- Cookies
+• Safari: Preferences -- Privacy -- Cookies and website data
+• Firefox: Preferences -- Privacy -- History
+• Internet Explorer: Internet Options -- Privacy
+• Opera: Settings -- Privacy & security -- Cookies
+Last Updated : 3 October 2018
+Manage preferences
+Klook Price Guarantee
+We’ll refund
+double the difference
+…if you find a cheaper price!
+We know that one of the most important things for travelers is getting a fair price and not feeling ripped off. That’s why we constantly monitor our pricing to ensure that you get the best price available online and at your destination. We also make it a point to display honest pricing on all our deals, including all extra charges and taxes so you'll never have to worry about additional costs.
+We’re so confident about our pricing that if you find a better price, we’ll refund DOUBLE the difference!
+So, if you:
+• Find a lower price (in the same currency) for the same tour or activity and notify us  within 48 hours of booking, or
+• Arrive at your destination and find your booked tour or activity offered for a lower price
+you can send us the details and we'll refund double the difference in the form of Klook Credits OR we’ll refund the full price difference to your card.
+Yup, you read us right!
+How to request a refund?
+It's simple and easy: obtain proof of the lower rate (receipt, price list, flyer, website, screenshot etc.), and email us at support@klook.com with your name and booking number. We’ll add double the difference value to your account as Klook Credits, or refund the full price difference direct to your card.
+Terms & Conditions
+The ‘same tour or activity’ means that all inclusions and itineraries must be the same as the activity booked from Klook, this includes currency, number of people, scheduling, operator, pick up locations, ticket usage (printed or mobile voucher), ticket validity (fixed date or open date), package booked, ticket type, instant or non instant confirmation, etc. The product may be sold by another channel, however it must be the same product as offered by Klook.
+• Products must be sold by official channels and registered travel agencies.
+• This guarantee does not include any city or airport transfers.
+• This guarantee does not include multi-day tours.
+• Due to select operator restrictions, 'Klook Price Guarantee' only applies to activities that display this tag on the activity page.
+• Klook's Best Price Guarantee covers retail rates available to the general public. This does not include discounts you may receive (or be eligible for) from third-party organizations or special offers made as part of a membership program, corporate discount, promotion, group or rewards program.
+• If you find a cheaper price before arriving at your destination, you must notify us within 48 hours of your original booking, or have dated proof that the cheaper price was found within 48 hours of your original booking.
+• Klook reserves the right to verify details of the lower price where possible, all refund decisions will be made at the sole discretion of Klook.
+• Refunds of the price difference will be transacted to the credit card used in the original booking.
+• If you used Klook credits or a promo code when making your booking, you will receive a refund of twice the difference from the original Klook price, not the discounted price
+Bug Bounty Program
+Klook Travel Technology Limited (“Klook”) recognizes and rewards independent security researchers in keeping Klook and our customers secure. We appreciate your willingness to participate in this Bug Bounty Program (“Program”) and will award monetary rewards for the discovery of security vulnerabilities.
+Your participation in our Bug Bounty Program is voluntary. By making a report disclosing a vulnerability to Klook, you acknowledge that you have read and agreed to the terms and conditions on this page (“Terms”).
+Responsible Disclosure Policy
+While participating in our Program, you warrant that:
+You shall protect Klook's and our users' privacy and data in good faith. You will not access or modify other user's data without our prior written consent.
+You shall ensure that in good faith, no disruption is caused to the production systems, degradation of user experience and destruction of data during this testing.
+If you inadvertently cause a privacy violation or disruption in the absence of any malicious intention (such as accessing account data, service configurations, or other confidential information) while investigating an issue, please disclose this immediately to us.
+You shall refrain from running any technical exploit and/or proceeding with subsequent testing of a security issue you discover for any reason (including demonstrating additional risk etc).
+You shall not violate any other applicable laws or regulations, including but not limited to the laws and regulations of Singapore, Hong Kong,  and the European Union.
+If you comply with the Terms when reporting a security bug to Klook, Klook will not initiate a lawsuit or law enforcement investigation against you in response to your submission.
+Program Scope
+In principle, any Klook-owned web service, mobile applications that handles data (including personal data) is intended to be in scope. This includes but not limited to the following domains:
+www.Klook.com
+Affiliate.klook.com
+Merchant.klook.com
+Admin.klook.com
+Klook.klktech.com
+Appapi.klook.com
+Klook iOS mobile application
+Klook Android mobile application
+Eligibility Requirements
+To participate in our Program, you must not:
+Be a resident of, or send submissions from, a country against which the United States has issued export sanctions or other trade restrictions;
+Be in violation of any national, state, or local law or regulation with respect to your activities related to Klook's Bug Bounty Program (directly or indirectly);
+Be employed by Klook or any of its affiliates;
+Be an immediate family member of a person employed by Klook or any of its affiliates; or
+Be less than 18 years of age.
+To qualify for a reward under this program, you should send a clear textual report with the following description:
+Be the first to report a vulnerability to security@klook.com
+Written details of the description of finding e.g. vulnerability title, vulnerability type)
+List the associated technical information e.g. URL(s), cookie information, POST/GET parameters
+List of steps to reproduce the finding to verify the vulnerability
+Include attachments such as screenshots or proof of concept code as necessary.
+Disclose the vulnerability report directly and exclusively to us.
+General Testing Rules:
+Creation of multiple or mass number of accounts to perform security testing against Klook applications and services is prohibited.
+Brute force testing and dictionary attacks of all forms to determine whether rate limiting is in place for particular website, APIs or other functionality are not allowed.
+Interaction is only allowed using accounts you own or others' accounts with the explicit permission of the account holder
+If any accounts are blocked during the course of testing, you may submit a request and the Klook Security team will investigate your request and notify you if any further action is taken.
+Ownership of Testing Results
+For the purposes of this section, “Testing Results” means information about vulnerabilities discovered and submitted to Klook by you. You hereby agree that you will disclose and assign all Testing Results and its corresponding rights (including intellectual property) to Klook.
+Out of Scope
+When reporting vulnerabilities, you shall consider the attack scenario / exploitability, and security impact of the bug. The following issues are considered out of scope from this Program, and we will not accept any of the following types of attacks:
+Denial-of-service attacks
+Spam, social engineering or email phishing techniques (e.g. phishing, vishing, smishing)
+Email spoofing
+Any security vulnerability on the client side (e.g. browsers, plugins)
+Software version disclosure
+Reflected file download
+Any physical access issues
+Publicly accessible pages
+Any weakness or disclosure of information which does not lead to a direct vulnerability
+Email or account enumeration
+CSV command execution and CSP weaknesses
+Any vulnerabilities in third-party apps or websites are generally not within the scope of our Program.
+Bounty Payments
+You may be eligible to receive a bounty if:
+the vulnerability submitted is verifiable and determined to be a valid security issue by Klook; and
+you have complied with all Terms.
+Bounty payments will be determined at Klook's sole discretion. All determinations as to eligibility and amount of bounty payments made by Klook are final and Klook shall not entertain any appeal, nor be obligated to make payments.
+Klook determines bounty amounts based on various factors, including but not limited to impact and risk of exploitation of the security issue. In event of duplicate reports, Klook awards a bounty only to the first notifier.
+Severity
+CVVSv3 scoring
+Bounty Range (USD)
+Critical
+9.0 - 10
+1000 and above
+High
+7.0 - 8.9
+600 – 900
+Medium
+4.0 - 6.9
+250 – 500
+Low
+0.1 – 3.9
+100 – 200
+Termination
+If Klook determines that:
+you have breached any of the Terms; or
+your participation in the Program could adversely impact Klook (including but not limited to, any threat to Klook's systems, security, finances and/or reputation),
+Klook may immediately terminate your participation and disqualify you from receiving any bounty payments.
+Confidentiality
+Any information you receive or collect about Klook, our affiliates or any of our users through the Program and the submissions themselves (“Confidential Information”) must be kept confidential. You may not use, disclose or distribute Confidential Information without Klook's prior written consent.
+Confidential information must only be used in connection with the Program.
+Indemnification
+You hereby agree to indemnify and hold Klook, its affiliates and the officers, directors, agents, joint ventures, employees and suppliers of Klook and its affiliates, harmless from any claim or demand made or incurred by any third party due to your submissions, your breach of these Terms and/or your improper use of the Bug Bounty Program.
+Changes to Terms
+Klook reserves the right to modify or cancel this Bug Bounty Program and its policies at any time, without prior notice.
+Accordingly, Klook may amend these Terms and/or its policies at any time by posting a revised version on Klook's website. You accept the modified Terms if you continue to participate in the Bug Bounty Program after changes are made to the Terms.
+The other language versions of this Agreement have been prepared solely for reference. If there is any conflict or inconsistency between the English version and the other language versions, the English text shall prevail.
+undefined
+undefined
+undefined
+undefined
+© 2014-2023 Klook. All Rights Reserved.
+Go to mobile site
+About Klook
+About us
+Press releases
+Klook Blog
+Careers
+Partnerships
+Merchant sign up
+Merchant log in
+Affiliate Program
+Influencer Program
+Agent Marketplace
+Digital Solutions
+Klook Partner Hub
+Distribution & marketing enquiries
+Terms of use
+Terms & Conditions
+Privacy policy
+Cookie Policy
+Bug Bounty Program
+Get discounts worth up to 60% sent straight to your inbox
+By clicking Subscribe, you have agreed to our
+Terms & Conditions
+and
+Privacy Policy
+Subscribe
+Payment channels
+Klook uses cookies to improve your surfing experience on our Website. By continuing without changing your settings, you agree to our
+Cookie Policy

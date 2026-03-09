@@ -1,0 +1,237 @@
+CGU application EOBD-Facile
+Conditions générales d'Utilisation et de Services Application "EOBD Facile"
+ARTICLE I - DÉFINITIONS
+ARTICLE II - OBJET
+ARTICLE III - DESCRIPTION DES SERVICES
+ARTICLE IV - ENTRÉE EN VIGUEUR ET DURÉE
+ARTICLE V - CONDITIONS D'ACCÈS AUX SERVICES
+5.1. Accès technique
+5.2. Disponibilité des Services
+5.3. Conditions d'accès
+ARTICLE VI - PRIX ET PAIEMENT
+ARTICLE VII - DROIT DE RÉTRACTATION
+ARTICLE VIII - PROPRIÉTÉ INTELLECTUELLE
+ARTICLE IX - DROIT D'UTILISATION
+ARTICLE X - RESPONSABILITÉ
+10.1. Généralités
+10.2. Accès et fonctionnement de l'Application
+ARTICLE XI - ASSURANCE
+ARTICLE XII - RÉSILIATION
+ARTICLE XIII - NOTIFICATION
+ARTICLE XIV - DONNÉES PERSONNELLES
+ARTICLE XV - COOKIES
+ARTICLE XVI - CONFIDENTIALITÉ
+ARTICLE XVII - RESPECT DE LA REGLEMENTATION EN VIGUEUR
+ARTICLE XVIII - PRESCRIPTION
+ARTICLE XIX - PUBLICITÉ
+ARTICLE XX - APPLICATION DES CONDITIONS - DIVISIBILITÉ - INTERPRÉTATION
+ARTICLE XXI - LOI APPLICABLE ET TRIBUNAL COMPÉTENT
+ARTICLE I - DÉFINITIONS
+"
+Application
+" : il s'agit de l'application dénommée " EOBD-FACILE " disponible sur les plateformes de téléchargement Apple Store et Google Play ;
+"
+Client
+" : s'entend indifféremment du Client consommateur ou du Client professionnel qui créé un Compte pour disposer des fonctionnalités payantes fournies par l'Application ;
+"
+Client consommateur
+" : il s'agit de toute personne physique agissant en dehors du cadre de son activité professionnelle ;
+"
+Client professionnel
+" : il s'agit de toute personne physique qui agit dans le cadre de son activité professionnelle ;
+"
+Composants
+" : il s'agit de façon non limitative des textes, données et bases de données, des programmes informatiques, informations, logiciels, photos, graphismes, logos, marques, appartenant à l'Editeur et présents / diffusés sur l'Application ;
+"
+Editeur
+" : s'entend de la société OUTILS OBD FACILE ;
+"
+Partie(s)
+" : s'entend indifféremment de l'Editeur et / ou de l'Utilisateur et / ou du Client ;
+"
+Services
+" : il s'agit de l'ensemble des prestations proposées par l'Editeur par le biais de l'Application et décrites à l'article 3 des présentes Conditions Générales.
+"
+Utilisateur
+" : s'entend de la personne physique ou morale qui télécharge l'Application et n'utilise les Services que sous la version Basique / gratuite et qui ne créé pas de Compte Client.
+ARTICLE II - OBJET
+Les présentes Conditions Générales d'Utilisation et de Services (ci-après " Les Conditions Générales ") engagent la société
+OUTILS OBD FACILE
+, SAS au capital de 10.000 euros, immatriculée au Registre du commerce et des sociétés de Vannes sous le numéro 750 984 767, ayant son siège social Lieu dit Kerluherne - 56890 PLESCOP, représentée par son président - et ses
+Utilisateurs et / ou Clients
+.
+Les Conditions Générales ont pour objet de fixer les modalités d'accès et d'utilisation des Services proposés sur l'Application.
+Les Services sont décrits à l'article 3 des présentes Conditions Générales.
+En cas de contradiction entre les Conditions Générales et les mentions légales de l'Application, il conviendra de faire prévaloir les  Conditions Générales.
+ARTICLE III - 	DESCRIPTION DES SERVICES
+L'Application est un outil permettant à l'Utilisateur ou au Client de dialoguer avec son véhicule automobile dans le but de faire du diagnostic de panne et d'éteindre le voyant moteur du tableau de bord.
+Les Services diffèrent selon les versions proposées. Il existe une version " Gratuite ", une version " Basic / Classic " et une version " Plus / Expert ".
+Les caractéristiques techniques sont mentionnées dans le tableau ci-dessous.
+ARTICLE IV - 	ENTRÉE EN VIGUEUR ET DURÉE
+Les Conditions Générales entrent en vigueur dès leur mise en ligne et s'appliquent à tous les Utilisateurs et / ou Clients. Les Conditions Générales sont susceptibles d'être adaptées, modifiées ou révisées à tout moment.
+En cas de modification, l'Utilisateur ou le Client est averti lors de sa prochaine connexion à l'Application de ce que les Conditions Générales ont été modifiées et est invité à en prendre connaissance et à les accepter.
+Seule la version en vigueur des Conditions Générales au jour de l'utilisation de l'Application et des Services aura valeur juridique entre les Utilisateurs ou Clients et l'Editeur. L'Utilisateur ou le Client doit les consulter régulièrement et notamment avant chaque utilisation des Services.
+Les Conditions Générales sont conclues pour une durée indéterminée et sont résiliables à tout moment par l'Utilisateur ou le Client, sans motif particulier. Dans un tel cas, l'Utilisateur ou le Client doit supprimer de son smartphone et / ou de sa tablette l'Application c'est-à-dire désactiver toute possibilité d'utilisation de l'Application et des Services.
+Toute résiliation prend effet à la fin du mois suivant celui au cours duquel la notification a été adressée.
+L'Editeur se réserve le droit de désactiver temporairement ou définitivement l'accès aux Services d'un Client ou d'un Utilisateur et de cesser de lui fournir ses Services dans les cas suivants :
+en cas de violation des Conditions Générales ;
+si l'Editeur est dans l'incapacité de vérifier ou d'authentifier les informations fournies (adresse mail du Client), et que le Client ne donne pas suite à ses demandes de vérification et / ou d'authentification ;
+si les agissements du Client ou de l'Utilisateur sont susceptibles d'engager la responsabilité de l'Editeur, celle d'un autre Client, d'un Utilisateur ou d'un tiers.
+ARTICLE V - CONDITIONS D'ACCÈS AUX SERVICES
+5.1. Accès technique
+L'Utilisateur doit s'assurer de la compatibilité de son matériel informatique et des logiciels installés pour accéder à l'Application.
+L'Application et les Services sont accessibles avec ou hors connexion Internet.
+L'Application est disponible sur les plateformes de téléchargement Apple Store et Google Play. L'Utilisateur s'engage à lire, accepter et respecter les conditions générales de vente des plateformes de téléchargement utilisées.
+L'Utilisateur ou le Client est averti que l'Application nécessite notamment une interface électronique compatible ELM327 Wifi / USB / Bluetooth pour pouvoir fonctionner
+.
+L'Utilisateur ou le Client est invité à se procurer une valise OBD2 compatible (ci-après « le Produit »). L'Editeur propose le Produit sur sa
+boutique de vente en ligne
+. L'Utilisateur ou le Client peut le cas échéant se procurer le Produit par ce biais. L'Utilisateur ou le Client s'engage, dans une telle hypothèse, à lire et accepter les conditions générales de vente du Produit disponible
+ici
+.
+Tous les autres prérequis techniques sont mentionnés par l'Editeur à l'adresse suivante :
+https://www.outilsobdfacile.fr/application-iphone-ipad-obd.php
+5.2. Disponibilité des Services
+Les Services sont accessibles aux Utilisateurs 24h/24, 7 jours sur 7, sauf cas de force majeure, évènements hors de contrôle de l'Editeur et pannes éventuelles.
+En vue d'assurer la maintenance technique de l'Application, l'Editeur pourra interrompre ponctuellement l'accès à celle-ci.
+Dans la mesure du possible, l'Editeur informe au préalable l'Utilisateur ou le Client de toute interruption des Services.
+5.3. Conditions d'accès
+Pour bénéficier des Services, l'Utilisateur ou le Client doit télécharger l'Application via les plateformes de téléchargement disponibles.
+L'accès et l'utilisation de l'Application et des Services ne sont autorisés qu'aux personnes morales et aux personnes physiques de plus de 18 ans ayant la capacité d'accomplir des actes juridiques. L'accès et l'utilisation d'une personne morale ne doivent être entrepris que par une personne physique habilitée à la représenter.
+L'accès et l'utilisation de l'Application et des Services n'exigent pas la création d'un compte Utilisateur ou Client auprès de l'Editeur.
+Le Client qui souhaite obtenir une version payante de l'Application, à savoir l'Edition « Basic » ou l'Edition « Plus », doit se connecter à son compte Google ou i-tunes et procéder au paiement dans les conditions fixées à l'article 6 des présentes Conditions Générales.
+Le Client s'engage en outre à respecter les conditions générales de vente des plateformes Apple Store (
+http://www.apple.com/legal/internet-services/itunes/fr/terms.html
+) et Google Play (
+https://play.google.com/intl/fr_fr/about/play-terms.html
+).
+L'accès à la version payante commandée est effectif après complet paiement du prix et après vérification et / ou validation du paiement par la plateforme de téléchargement concernée.
+ARTICLE VI - 	PRIX ET PAIEMENT
+Le prix s'entend en euros et toutes taxes comprises.
+Le téléchargement de l'Application ne donne lieu à aucune tarification. Il en est de même de l'accès et de l'utilisation de l'Application en version Gratuite.
+Le coût des communications téléphoniques et d'accès Internet est à la charge de l'Utilisateur ou du Client.
+L'accès et l'utilisation de l'Application et des Services en Edition « Basic » et « Plus » est payant. Le prix est mentionné sur les plateformes de téléchargement Apple Store et Google Play.
+Les tarifs pratiqués prennent la forme d'un forfait selon la version des Services choisis par le Client.
+Les sommes sont portables et non quérables.
+Le paiement s'effectue par carte bancaire directement sur le système de paiement sécurisé des plateformes de téléchargement.
+Les paiements se font comptant au jour de la souscription des Services. Le Client reçoit par mail un justificatif de paiement et la facture correspondante (reçu).
+ARTICLE VII - DROIT DE RÉTRACTATION
+Rappel de la règlementation applicable
+Conformément à l'article L221-18 du code de la consommation, le Client consommateur dispose d'un droit de rétractation dans un délai de quatorze (14) jours ouvrés à compter de la conclusion du contrat.
+Dans ce cadre, le Client consommateur est tenu de contacter l'Editeur par mail à l'adresse contact@outilsbddfacile.fr. L'Editeur n'impose pas au Client consommateur de justifier sa rétractation.
+Conformément à l'article L221-24 du code de la consommation, l'Editeur s'engage à rembourser la totalité des sommes versées par le Client consommateur, sans retard injustifié et au plus tard dans les quatorze (14) jours suivant la date à laquelle l'Editeur est informé de la décision du Client consommateur de se rétracter.
+Le remboursement s'effectue par le même moyen de paiement que celui utilisé par le Client consommateur.
+Dans le cas où le Client consommateur a demandé de commencer la prestation de Services pendant le délai de rétractation, il doit payer à l'Editeur un montant proportionnel à ce qui lui a été fourni jusqu'au moment où le Client consommateur a informé l'Editeur de sa rétractation des présentes Conditions Générales.
+Un formulaire de rétractation est mis en place à l'attention du Client consommateur. Le Client reste libre d'utiliser le formulaire ou non.
+Règle applicable à la plateforme Apple Store
+La gestion de la rétractation et des remboursements sur la plateforme Apple Store pour le Client consommateur est également mentionnée dans les conditions générales de vente d'Apple (
+http://www.apple.com/legal/internet-services/itunes/fr/terms.html
+).
+ARTICLE VIII - 	PROPRIÉTÉ INTELLECTUELLE
+Les vocables « OUTILS OBD FACILE » et « EOBD-FACILE » sont déposés à titre de marque.
+Le nom de domaine outilsobdfacile.fr, les marques OUTILS OBD FACILE et les logos de l'Editeur sont protégés. Ces éléments ne peuvent être utilisés sans l'autorisation expresse de l'Editeur.
+L'Utilisateur ou le Client reconnaît que les Composants de l'Application sont protégés par le droit d'auteur, le droit des marques ou tous autres droits et lois relatifs à la propriété intellectuelle. L'Utilisateur ou le Client reconnaît qu'il n'est autorisé à utiliser ces Composants et informations que dans les limites expressément fixées par les présentes.
+Toute utilisation non expressément autorisée par l'Editeur au titre des Conditions Générales est illicite, conformément aux articles L.122-4 et L.122-6 du Code de la propriété intellectuelle. Il est notamment interdit à l'Utilisateur ou au Client de procéder à :
+toute représentation, diffusion ou commercialisation des Composants de l'Application et des Services, que ce soit à titre gracieux ou onéreux ;
+toute forme d'utilisation de l'Application et des Services de quelque façon que ce soit aux fins de conception, réalisation, diffusion ou commercialisation d'un service similaire, équivalent ou de substitution ;
+toute mise à disposition directe ou indirecte de l'Application et des Services au bénéfice d'un tiers, notamment par location, cession ou prêt, même à titre gratuit sauf en cas d'accord préalable écrit de l'Editeur ;
+toute utilisation pour un traitement non autorisé par l'Editeur.
+Par ailleurs, l'Application est une base de données appartenant à l'Editeur et accessible aux Utilisateurs ou aux Clients.
+L'Utilisateur ou le Client ne dispose d'aucun droit de reproduire, adapter, traduire, ni représenter la base de données en dehors des limites strictement définies aux Conditions Générales.
+En application des articles L342-1 et suivants du Code de la propriété intellectuelle, il est fait interdiction à l'Utilisateur ou au Client :
+d'extraire par transfert permanent ou temporaire la totalité ou une partie qualitativement ou quantitativement substantielle des Composants de l'Application sur un autre support, par tout moyen et sous toute forme que ce soit,
+de réutiliser la totalité ou une partie qualitativement ou quantitativement substantielle des Composants de l'Application par la mise à disposition du public,
+d'extraire ou de réutiliser à répétition ou de manière systématique des parties qualitativement ou quantitativement non substantielles des Composants de l'Application lorsque ces opérations excèdent manifestement les conditions d'utilisation normales des Services et / ou de l'Application ;
+d'exploiter commercialement auprès de tiers ses droits d'accès aux Services et / ou à l'Application.
+L'Editeur se réserve la possibilité de résilier de plein droit les Conditions Générales et d'engager toute action pour faire sanctionner toute atteinte à ses droits de propriété intellectuelle.
+ARTICLE IX - DROIT D'UTILISATION
+L'Editeur concède à l'Utilisateur et au Client un droit d'utilisation non cessible et non exclusif de l'Application et des Services.
+La concession du droit d'utilisation de l'Application et des Services n'entraîne transfert d'aucun droit de propriété de l'Application et des Services au profit de l'Utilisateur et du Client.
+Le Client consommateur s'engage à utiliser l'Application et les Services pour ses seuls besoins personnels.
+ARTICLE X - RESPONSABILITÉ
+10.1. Généralités
+L'Editeur se dégage de toute responsabilité en cas d'utilisation des Services non conforme aux Conditions Générales.
+L'Editeur sera en outre dégagé de toute responsabilité à raison des retards ou défauts d'exécution des obligations contractuelles qui lui incombent et qui seraient la conséquence de faits relevant de la force majeure telle que définie par les tribunaux.
+La Partie estimant qu'un événement de force majeure est constitué doit immédiatement avertir par écrit l'autre Partie de ces circonstances ainsi que du moment où elle estime que l'événement pourrait prendre fin.
+En tout état de cause, l'Editeur engage sa responsabilité pour les seuls dommages directs et prévisibles subis par l'Utilisateur et / ou le Client à l'exclusion des dommages indirects tels qu'ils sont définis par les tribunaux français.
+10.2. Accès et fonctionnement de l'Application
+A la création de son compte sur Google Play ou Apple Store, le Client s'engage à fournir des informations exactes, complètes et actualisées. Il s'engage à mettre à jour les coordonnées fournies. Enfin, il s'engage à ne pas usurper l'identité ou la qualité d'un tiers.
+Le cas échéant, il sera seul responsable des conséquences. L'Editeur n'a aucune obligation, ni les moyens techniques et légaux, de vérifier la véracité des informations.
+L'Editeur décline toute responsabilité en cas d'un éventuel préjudice qui pourrait résulter de l'indisponibilité de l'Application et des Services ou d'un problème de connexion aux Services.
+L'Editeur décline toute responsabilité en cas de non-respect par l'Utilisateur ou le Client des stipulations mentionnées à l'article 17 des présentes Conditions Générales.
+ARTICLE XI - ASSURANCE
+L'Editeur certifie à l'Utilisateur et au Client qu'il est titulaire d'une assurance couvrant sa responsabilité civile professionnelle limitée aux dommages matériels et corporels directement liés à l'exécution des Services pour les besoins des présentes Conditions Générales et souscrit auprès d'une compagnie notoirement solvable.
+ARTICLE XII - RÉSILIATION
+En cas de manquement par une Partie à l'une quelconque des obligations mises à sa charge par les présentes Conditions Générales, la Partie victime du manquement pourra mettre l'autre en demeure par lettre recommandée avec avis de réception de réparer ce manquement dans un délai maximum de quinze (15) jours calendaires.
+Si, à l'issue de ce délai, le manquement n'a pas été réparé, la Partie victime du manquement pourra résilier de plein droit, par lettre recommandée avec avis de réception, les présentes Conditions Générales, le tout sans préjudice de tous les dommages et intérêts auxquels elle pourrait prétendre.
+ARTICLE XIII - NOTIFICATION
+L'Utilisateur ou le Client qui estimerait que certaines informations disponibles sur l'Application sont inexactes, voire illicites ou ont un caractère injurieux, discriminatoire ou diffamatoire, est invité à déposer une notification.
+L'Utilisateur ou le Client doit porter à la connaissance de l'Editeur tout message faisant l'apologie des crimes contre l'humanité, incitant à la haine raciale, touchant à la pornographie infantile, incitant à la violence ou portant atteinte à la dignité humaine.
+La notification prend la forme d'un courriel adressé à l'Editeur ou via un formulaire de contact mis à disposition sur l'Application dans lequel l'Utilisateur déclinera ses noms, prénoms, adresse et la description des faits litigieux.
+La notification doit comprendre la description des faits litigieux et leur localisation précise dans l'Application, les motifs pour lesquels le contenu doit être retiré, comprenant la mention des dispositions légales et des justifications de faits.
+L'attention de l'Utilisateur ou du Client, auteur d'une notification, est attirée sur le fait qu'une dénonciation inexacte est susceptible de l'exposer à des sanctions pénales et accepte de garantir l'Editeur des conséquences éventuelles d'une notification abusive.
+L'Editeur s'engage à réagir promptement à toute notification d'un Utilisateur ou d'un Client faite dans les formes et à première vue fondée.
+L'Editeur veillera à préserver le cas échéant l'anonymat de l'Utilisateur ou du Client, auteur des propos litigieux, tout en se réservant la faculté de prendre contre lui toute mesure utile.
+ARTICLE XIV - DONNÉES PERSONNELLES
+Conformément à la loi n° 78-17 du 6 janvier 1978 modifiée, dite Informatique et Libertés, l'Editeur est enregistrée auprès de la CNIL sous le numéro de récépissé 1646844.
+L'Editeur ne collecte pas de données personnelles, à l'exception de l'adresse mail de l'Utilisateur ou du Client transmis par les plateformes de téléchargement.
+L'Utilisateur ou le Client est informé que l'adresse mail collectée fait l'objet d'un traitement informatique destiné sécuriser les Services et limiter les fraudes. D'autres traitement de données pouvant avoir un caractère personnel sont réalisés afin d'assurer la gestion des accès à l'Application et aux Services (cookies) et l'élaboration de statistiques commerciales (Google Analytics).
+Les destinataires des données sont les personnes chargées du service marketing, du service commercial, des services chargés de traiter la relation Utilisateur et la prospection, des services administratifs, des services informatiques et techniques ainsi que leurs responsables hiérarchiques ;
+Conformément à la loi « Informatique et Libertés » du 6 janvier 1978 modifiée en 2004, toute personne physique bénéficie d'un droit d'accès et de rectification aux informations qui la concernent, qu'elle peut exercer en s'adressant à l'Editeur à l'adresse mail contact@outilsobdfacile.fr ou par courrier postal à l'adresse susmentionnée.
+La personne physique peut également, pour des motifs légitimes, s'opposer au traitement des données la concernant.
+L'Utilisateur doit s'assurer du respect des prescriptions de la loi Informatique et Libertés du 6 janvier 1978 modifiée ou plus généralement de toute norme applicable. L'Utilisateur doit effectuer, le cas échéant, toute démarche déclarative complémentaire auprès de la CNIL ou toute entité compétente.
+ARTICLE XV - COOKIES
+Un cookie est une information déposée sur le disque dur du smartphone et / ou de la tablette de l'Utilisateur par le serveur de l'Application ou par un serveur tiers. Un cookie permet de mémoriser les choix faits par un Utilisateur et de reconnaître facilement l'Utilisateur par le biais d'un identifiant unique.
+Pour la gestion du contenu de l'Application, l'Editeur utilise la solution Google Analytics qui dépose des cookies sur le terminal de l'Utilisateur.
+Les cookies utilisés ont pour finalité de mesurer les audiences de l'Application.
+Conformément à l'article 32-II de la loi du 6 janvier 1978, l'Editeur informe l'Utilisateur par un bandeau que la poursuite de sa navigation vaut accord pour l'installation et la lecture de cookies.
+L'Utilisateur peut refuser l'installation de cookies déposés par l'Editeur sur le disque dur de son mobile et / ou de sa tablette en sélectionnant les paramètres appropriés dans son navigateur. Les méthodes de paramétrage pour chaque navigateur sont expliquées
+ici
+.
+Les cookies sont conservés par l'Editeur pendant 13 mois. A l'expiration de ce délai, l'Editeur recueille de nouveau, quand il est nécessaire, le consentement de l'Utilisateur.
+ARTICLE XVI - CONFIDENTIALITÉ
+Chacune des Parties s'engage à mettre en oeuvre les moyens appropriés pour garder le secret le plus absolu sur les informations désignées comme confidentielles par l'autre Partie, et auxquels elle aurait eu accès à l'occasion de l'exécution du Contrat.
+Chacune des Parties s'engage à faire respecter cette obligation par ses employés, société mère, filiales et sous-traitants éventuels.
+L'obligation de confidentialité continuera pendant une durée de deux (2) ans après l'expiration du Contrat. Elle deviendra caduque si
+ARTICLE XVII - RESPECT DE LA REGLEMENTATION EN VIGUEUR
+L'Utilisateur ou le Client s'engage à respecter les dispositions prescrites par le Code de la circulation routière et notamment à ne pas tenir et utiliser son smartphone et / ou sa tablette lors de la conduite de son véhicule.
+De même, le Client s'engage à utiliser les Services "Performance" "départ arrêté" et / ou "test 0 à 100km/h" sur circuit et / ou sur route fermée. L'Editeur se dégage de toute responsabilité en cas de non-respect par le Client de cette disposition contractuelle.
+ARTICLE XVIII - PRESCRIPTION
+Toute action en responsabilité engagée par le Client professionnel contre l'Editeur est prescrite un (1) an après la survenance du fait
+ARTICLE XIX - PUBLICITÉ
+Le Client professionnel autorise l'Editeur à citer son nom à titre de référence commerciale, sur tout document comme tout support pendant toute la durée des présentes Conditions Générales et pour une durée de deux (2) ans suivant la fin de celles-ci.
+ARTICLE XX - 	APPLICATION DES CONDITIONS - DIVISIBILITÉ - INTERPRÉTATION
+Les présentes Conditions Générales engagent juridiquement et contractuellement l'Editeur, les Utilisateurs et les Clients.
+Le fait pour l'Editeur de ne pas exercer, à un moment quelconque, une prérogative reconnue par les Conditions Générales ne pourra en aucun cas être interprété comme une renonciation expresse ou tacite au droit d'exercer ladite prérogative à l'avenir.
+Par ailleurs, la reconnaissance de l'invalidité d'une clause n'affectera pas la validité des Conditions et de toute autre clause.
+En cas de contradiction entre une disposition des présentes Conditions Générales, des mentions légales ou de toute autre mention sur l'Application, il convient de faire prévaloir les présentes Conditions Générales.
+ARTICLE XXI - LOI APPLICABLE ET TRIBUNAL COMPÉTENT
+Les Conditions Générales sont soumises à la loi française.
+Pour l'Utilisateur et le Client consommateur, toute réclamation doit être adressée à l'Editeur par écrit à l'adresse du siège social.
+En cas d'échec de la demande de réclamation ou en l'absence de réponse de ce service dans un délai de deux mois, le Client consommateur peut, s'il le souhaite, soumettre le différend relatif aux présentes Conditions générales l'opposant à l'Editeur à un médiateur ou auprès des instances de médiation sectorielles existantes ou à tout mode alternatif de règlement des différends en cas de contestation :
+http://www.economie.gouv.fr/mediation-conso/des-mediateurs-pour-chaque-litige
+.
+Dans le cadre d'un litige avec un Client consommateur, le tribunal compétent sera au choix du Client consommateur :
+celui du lieu du domicile du défendeur en France ou du lieu d'exécution de la prestation de service ;
+celui du lieu où le Client demeurait au moment de la conclusion du contrat ou de la survenance du fait dommageable.
+En cas de désaccord persistant entre l'Editeur et un Utilisateur ou Client qui a la qualité de commerçant, il sera porté devant les tribunaux de VANNES.
+BORDEREAU DE RETRACTATION
+(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat)
+A l'attention de [le professionnel insère ici son nom, son adresse géographique et, lorsqu'ils sont disponibles, son numéro de télécopieur et son adresse électronique] :
+Je/nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat portant sur la vente du bien (*)/pour la prestation de services (*) ci-dessous :
+Commandé le (*)/reçu le (*) :
+Nom du (des) consommateur(s) :
+Adresse du (des) consommateur(s) :
+Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) :
+Date :
+ANNEXE (à l'article R. 121-2 du Code de la consommation) - INFORMATIONS CONCERNANT L'EXERCICE DU DROIT DE RÉTRACTATION
+Droit de rétractation
+Vous avez le droit de vous rétracter du présent contrat sans donner de motif dans un délai de quatorze jours (dans les limites légales prévues à l'article 7 des Conditions Générales de Services).
+Le délai de rétractation expire quatorze (14) jours à compter de la date de conclusion du contrat.
+Pour exercer le droit de rétractation, vous devez nous notifier votre décision de rétractation des Conditions Générales de Services au moyen d'une déclaration dénuée d'ambiguïté (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique) à l'adresse postale mentionnée dans les Mentions Légales ou par mail à l'adresse contact@outilsobdfacile.fr.
+Vous pouvez utiliser le modèle de formulaire de rétractation mais ce n'est pas obligatoire.
+Pour que le délai de rétractation soit respecté, il suffit que vous transmettiez votre communication relative à l'exercice du droit de rétractation avant l'expiration du délai de rétractation.
+Effets de rétractation
+En cas de rétractation de votre part du présent contrat, nous vous rembourserons tous les paiements reçus de vous, sans retard excessif et, en tout état de cause, au plus tard quatorze jours à compter du jour où nous sommes informés de votre décision de rétractation du présent contrat.
+Nous procéderons au remboursement en utilisant le même moyen de paiement que celui que vous aurez utilisé pour la transaction initiale, sauf si vous convenez expressément d'un moyen différent ; en tout état de cause, ce remboursement n'occasionnera pas de frais pour vous.
+Si vous avez demandé de commencer la prestation de Services pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu'au moment où vous nous avez informés de votre rétractation du présent contrat, par rapport à l'ensemble des prestations prévues par le contrat.

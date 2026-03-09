@@ -1,0 +1,29 @@
+Privacy Policy
+Privacy Policy
+Privacy Policy for DevGameApp
+Your privacy is very important to us, and we take it seriously. Please read our Privacy Policy below and let us know if you have any questions or other feedback regarding it.
+What information do we collect?
+We do NOT collect any Personal Information about you. "Personal Information" means personally identifiable information, such as your name, email address, physical address, calendar entries, contact entries, files, photos, etc. We and third parties may use cookies and mobile tracking technologies.
+We accept advertisements from Third Parties ad networks which may be displayed in our games. We may share certain information with third-party advertisers, ad networks and ad platforms to develop and deliver targeted advertising in the games.
+Why do we require certain Permissions in our apps?
+(1) android.permission.INTERNET: This permission are required to display ads.
+(2) android.permission.ACCESS_NETWORK_STATE: See (1)
+(3) android.permission.ACCESS_WIFI_STATE: See (1)
+(4) android.permission.WRITE_EXTERNAL_STORAGE: 
+	This permission is used in the following cases:
+Some applications have possibility to save a scene of the play. ( with "Save" button ).
+Some applications are loading images ONLY from install directory of app.
+(5) android.permission.READ_EXTERNAL_STORAGE: See (4)
+Cookies
+A cookie is a small string of text that we, and/or our Third Parties, send to your mobile device. Some cookies are necessary to enable a game to function properly and to allow your gameplay experience to continue from one session another. However, if you block or erase cookies, or change the settings of your device, your App experience may be affected and may be limited.
+Advertising in our Android applications
+Our free Android applications use Google's Admob advertising platform to supply in app adverts.
+For more information about Google Advertising privacy policy please visit
+http://www.google.com/policies/technologies/ads/?hl=en
+Changes to our Privacy Policy
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+This policy was last modified on 15 September 2015.
+Contacting Us
+If there are any questions regarding this privacy policy you may contact us using the email:
+[email protected]
+devgameapp.com

@@ -1,0 +1,14 @@
+Weather Forecast
+Search this site
+Skip to main content
+Skip to navigation
+Weather Forecast
+Privacy policy
+The weather app uses these permission:
+android.permission.READ_PHONE_STATE: We need this permission to handle lock screen behavior when a call happens
+android.permission.ACCESS_FINE_LOCATION: To get your location so we can provide exact where info of the place where you are.
+App DOES NOT collect your any information.
+Google Sites
+Report abuse
+Google Sites
+Report abuse

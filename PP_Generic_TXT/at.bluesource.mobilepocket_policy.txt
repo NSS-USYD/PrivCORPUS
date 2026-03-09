@@ -1,0 +1,152 @@
+Privacy statement mobile-pocket loyalty card app
+For Businesses
+Toggle navigation
+Features
+FAQs
+News & blog
+For Businesses
+US - GB
+AT - DE
+US - GB
+Privacy Statement mobile-pocket App
+Status: March 2020
+In this
+privacy statement for mobile-pocket
+we will inform you about the ways in which we process your personal data, to whom we, if necessary, transfer this and how you can assert your rights. In section A (General) you can find general information with regard to data protection and to the purpose of our data processing, and in section B (
+Data processing in the mobile-pocket app
+) you can find additional information concerning the processing of your personal data that is carried out during the use of our app as well as concerning your rights.
+A. General
+Data controller and processor
+Data controller for the processing of personal data in connection with mobile-pocket is bluesource – mobile solutions GmbH, Softwarepark 32, 4232 Hagenberg i.M., Austria, (
+„bluesource“
+,
+„we“
+or
+„us“
+).
+If you have any questions or concerns with regard to data protection and the assertion of your rights (section B), you can for instance contact our
+company´s data protection officer
+: bluesource – mobile solutions GmbH, Softwarepark 32, 4232 Hagenberg i.M., Austria with the addition „c/o data protection officer“ or via e-mail to:
+datenschutz(at)mobile-pocket.com
+For what purposes do we process your data and on which legal basis?
+We process your personal data for several purposes in pursuance with the rules laid down in the General Data Protection Regulation (GDPR).
+The processing of your personal data must be carried out on basis of one of the following legal grounds:
+You have given your permission (Art. 6 par. 1, subpar. 1 lit a GDPR);
+The processing is necessary for the performance of a contract with you or to carry out precontractual duties resulting from your request (Art. 6 par. 1, subpar. 1 lit b GDPR);
+The processing is necessary to safeguard the
+legitimate interests of bluesource
+or a third party, insofar as your interests or fundamental rights and freedoms that require data protection, do not prevail, in particular if the data concerns a child (Art. 6 par. 1 subpar. 1 lit f GDPR).
+Our „mobile-pocket“ app
+The mobile-pocket application (hereafter: „mobile-pocket“ or “app”) offers you the possibility to store customer cards (loyalty cards) or other cards on mobile devices and display and use these as digital identification. You can moreover use the application to inquire about current offers by customer card carriers (retailers) and other promotions.
+The app´s purpose is to allow for the provision of customer loyalty programs in digital format and inform customers about offers by retailers.
+To this end, in order to make the services listed under section B possible, as well as for the further development of our app, we process personal data (especially information pertaining to which retailer´s cards have been stored), user behavior within the app (type and content of content viewed, duration of the interaction), user location (insofar as the user has given permission for the use of this service using the settings on his mobile device), as well as technical data (IP address, type and model of the device on which the app is used, mobile network provider, art and version of the operating system, push token, mobile advertising IDs (IDFA, AAID), country in which the user´s sim card is registered, language used on the device).
+We have also made the use of our services possible in other apps (for instance in several banking wallets). Any data processing in connection with these apps require your separate consent. If you use our services in other apps, our corresponding terms of use and privacy statements apply.
+With its data processing in connection with mobile-pocket, bluesource pursues the following purposes on basis of these legal grounds:
+Our legitimate interest lies in particular in generating turnover with the services that we provide free of charge, for which the processing of user data for advertising purposes and the subsequent display of advertising is necessary.
+The user does not have to expect any disadvantage resulting from the use of this data and can object against it at any time. The advertising display itself is part of the service offered by mobile-pocket and users expect to be shown advertising of retailers – especially those, of whom they already have a customer card.
+B. Data processing in the mobile-pocket app
+mobile-pocket user
+You can access the application by installing it on your mobile device. After consenting to the privacy statement, an anonymous user account linked to the mobile device is created in the background. You can then store customer cards or other cards usually just by entering a customer card number, by photographing or scanning the barcode or a predesigned template and then use these in their digital form.
+Registered mobile-pocket user
+You can then create a login for your mobile-pocket account using either your e-mail address and password or Facebook/Google/AppleID login. This way the you will, in the event of loss or replacement of your mobile phone and after reinstalling the application and entering your login details, have access to your account and will be able to use your stored customer cards at any time. The registration of a user account is, for the use of the service, in principle not mandatory and done on a voluntary basis. For the use of further services, however, registration with the requisite data is necessary.
+Push messaging
+Using push-messaging, we will regularly send information about offers of our partners if a user has registered for the receipt of so-called push messages. In doing so, a volatile ID is processed with which the device/app combination can be clearly identified and addressed. For this we are using both „Firebase Cloud Messaging“, which is operated by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, and „Pushwoosh“, which is operated by Pushwoosh Inc.,1224 M St NW, Suite 101, Washington, District of Columbia 20005, USA.
+We use
+push messaging
+for the following purposes:
+Information and announcements about our service
+Retailer offers
+Location-specific offers: in order to promote location-specific offers near the user or which are relevant to his location. Such as for instance: “You are paying too much for electricity, visit the next shop for more information!”, or “Are you in for more football? In that case, check out this sports promotion!”.
+By consenting to this privacy statement, you expressly agree to receiving push messages for advertising purposes. If you do not wish to receive messages (push messages) from mobile-pocket, this service can be deactivated in the settings of your mobile phone at any time.
+Offers
+If the use of an offer, a coupon or a promotion of a retailer or a third-party vendor requires the entry of data, this data is sent directly to the respective retailer/third-party vendor upon entry.
+mobile-pocket does not have any influence on such data and is not responsible for data has been provided to the retailer/third-party vendor. If coupons are offered to holders of a certain customer card or to participants of a bonus point program, the respective retailer/operator has the possibility to request a list of the customer card, barcode or customer numbers as well as mobile advertising IDs (IDFA, AAID) that have used this coupon. By agreeing to this privacy statement, you consent to the processing and transfer of data with the use of this service.
+If you wish to receive information on your data that the respective retailer/third-party vendor has processed or no longer consent to the use of your data by the respective retailer/third-party vendor, please contact this retailer/third-party vendor directly.
+Location-based advertising
+Many shops and other locations offer the possibility to display location-related information or offers relating to certain products directly in the app. If you have permitted mobile-pocket the right to use your location in the settings of your mobile phone, information or offers relating to products that have a connection to your location data will be displayed in the app.
+Display promotions of local retailers in the app (alternatively by manual entry of postal code)
+Display promotions and advertisements by retailers in the vicinity
+Display promotions and advertisements by retailers on basis of location-related interest profiles
+Optimization of messaging content on basis of geolocations visited by the user.
+As such, we process and use personal data for location-based and time-related advertising. By giving permission to use a device´s location and push messaging, region-specific promotions can also be sent using push-messaging, insofar as the use of this service was consented to.
+You can deactivate this service at any time by limiting the necessary permissions on your mobile phone (deactivation of location sharing).
+By agreeing to this privacy statement, you expressly consent to the processing of your data for the display of (location-specific) advertising and, in particular, to receiving push messages.
+Registration to customer loyalty programs
+Retailers have the option to offer users the participation in digital bonus point programs in mobile-pocket. mobile-pocket will carry out the registration to a retailer´s customer loyalty program for you by sending the requisite information (usually full name, full address, e-mail address, phone number, sex, birthdate, store) to the retailer (companies using customer cards), which in turn issues a digital customer card.
+This information (data) is forwarded to the respective retailer so that you can participate in selected program.
+By agreeing to this privacy statement and performing a separate request in the app, you consent to the transfer of your data. You will typically also have to accept the general terms and conditions or privacy statement of the respective retailer.
+If you wish to receive information on your data that the respective retailer has processed or no longer consent to the use of your data by the respective retailer/, please contact this retailer/third-party vendor directly.
+mobile-pocket support
+You can use the Help function in mobile-pocket to contact us directly and inform us about errors that occur during the operation of the app. In this case, the
+communication data
+, i.e. your request and the response to your request, will be processed. If the app crashes, it will moreover send us an automatic error message containing technical information that helps us in resolving the problem and further developing the app.
+Usage data
+IP address (internet protocol address) of the device, from which the app is accessed, name of the app, version used, page viewed (e.g. start page of the app), action used (e.g. click), request (filename of the requested file), platform (device designation), localization of the operator (assignment of the shortened IP-address and internet service provider), randomly generated session ID (storage limited to app usage duration), randomly generated long-term ID (storage until deletion or new installation), access time.
+App analysis
+In order to produce technical reports on the functionality on our app, we use a monitoring tool created by the Dynatrace company. The following information is gathered, without establishing any sort of personal connection:
+pages visited (e.g. start page of the app)
+app crashes
+public IP of service provider
+location
+device used
+version of operating system and app used.
+In addition, we use Google Analytics for Firebase (or Firebase Analytics), provided by Google, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Firebase Analytics uses special identification mechanisms on mobile devices (Android Advertising ID and Advertising Identifier for iOS) or technologies that behave in a way similar to cookies on websites. A unique device identification (Google Advertising ID / IDFA) and application usage data are sent to this web analysis service in this event. You can find more information about the way in which Firebase Analytics uses user data in Google´s privacy statement:
+https://policies.google.com/privacy?hl=en
+. The relationship with this analysis provider is based on an adequacy decision of the European Commission by the name of “Privacy Shield”.
+bluesource processes the following data for the services mentioned in this privacy statement:
+Name, e-mail address, phone number, address, sex, app IP, IP address, stored customer cards (possibly with photo)
+Data relating to user behavior (interaction within the app, time, duration)
+Technical data (type and model of device on which the app is used, mobile network provider, type and version of operating system, push token, mobile advertising ID (IDFA, AAID), country in which the user´s sim card is registered, language used on the device)
+the user´s location
+The duration for which your data is stored
+bluesource will only store your data for as long as is necessary for the purpose, for which they were gathered and insofar as no further statutory or contractual requirements (such as for instance statutory storage limitations) limit a longer duration.
+Who receives your data?
+We offer retailers the possibility to inform participants of their customer loyalty programs (users who have stored a customer card of the respective retailer in the app) or other mobile-pocket users about promotions.
+For that purpose, bluesource can upon request provide the operators of customer loyalty programs with a list with the customer numbers/barcode numbers and mobile advertising IDs (IDFA, AAID) of their regular customers who have digitally stored their customer card in mobile-pocket, so that they can join this data with their existing customer data and tailor any promotions to their users even better.
+We also provide retailers and third-party vendors with the possibility to provide content in mobile-pocket themselves or integrate their services in mobile-pocket (such as for instance offers, coupons or promotions). In this case retailers and third-party vendors receive the IP address as well as the mobile advertising ID (IDFA, AAID) of the user, so that these can display their content to the user.
+Retailers have the possibility to offer users the participation in digital bonus point programs in mobile-pocket. Users who would like to participate in these programs are required to provide the requisite information to the respective retailer (such as name, card number, scanned invoices etc.). This information (data) is submitted to the respective retailer so that the user can participate in these programs.
+We have appointed a data protection officer
+This person can be reached under bluesource – mobile solutions gmbh, Softwarepark 32, 4232 Hagenberg i.M., Austria with the addition „c.o. data protection officer” or via e-mail under:
+datenschutz(at)mobile-pocket.com
+.
+If you have any questions about mobile-pocket and data protection, you can contact our data protection officer at any time.
+Right to information
+Users of our app have the right to require information about their processed personal data at any time. A short e-mail – with a copy of an ID attached and the statement that information about the data processing is requested – to
+datenschutz(at)mobile-pocket.com
+is sufficient. We will answer inquiries as soon as possible, in any case within a month. Alternatively, users can contact us directly using the Help function in mobile-pocket.
+Right to deletion, limitation, correction, transfer and object to data processing
+Users of our app moreover at any time – and without giving any specific reason – have the right to renounce and limit their consent to the processing of their data and/or to require that their data is deleted or corrected. Here, too, a short e-mail with a copy of an ID attached and indication of the concrete request to
+datenschutz(at)mobile-pocket.com
+is sufficient. Alternatively, users can contact us directly using the Help function in mobile-pocket.
+Objection
+Insofar as your personal data is being processed on based of legitimate interests pursuant to Art. 6 par. 1 first sentence lit f GDPR, you have the right pursuant to Art 21 GDPR to object to the processing of your personal data if this can be justified by reasons emanating from your particular situation or if the objection is directed against direct advertising. In the latter case you have a general right of objection that we will implement without provision of any specific reason. If you wish to exercise your right of objection, an e-mail to
+datenschutz(at)mobile-pocket.com
+is sufficient.
+Complaint
+If users believe that bluesource processes their data in a manner that is contrary to data protection provisions, they have the right to contact the authority responsible for data protection (the Austrian Data Protection Authority (Datenschutzbehörde) is responsible for the registered office of bluesource, users also have the opportunity to file a complaint to the data protection authority in their respective country of residence).
+Technical and organisational measures
+The protection of personal data that has been provided to us is performed using appropriate organizational and technical measures. These measures in particular involve the protection against unauthorized, unlawful or also coincidental access, processing, loss, use and manipulation. Notwithstanding the efforts to continuously maintain an appropriately high standard of care, it cannot be excluded that information that users have disclosed through us through the app or by e-mail is viewed and used by other persons. We are committed to ensure that such data leaks are recognized early and if applicable reported to our users as well as the competent supervisory authority, referencing the respective data categories affected.
+Validity and changes to this privacy statement
+Due to the further development of our application, offers in relation with the application or on basis of changing statutory or official regulations it may become necessary to modify this privacy statement.
+Hagenberg, 31
+st
+March 2020
+bluesource – mobile solutions GmbH
+mobile-pocket loyalty card app
+App Store
+Google Play
+let's get friends
+Terms of use mobile-pocket App
+|
+Privacy Statement mobile-pocket App
+Privacy Statement Website
+|
+Imprint
+© 2023 mobile-pocket. All rights reserved.
+toggle menu
+Features
+FAQs
+News & blog
+US - GB
+AT - DE
+US - GB

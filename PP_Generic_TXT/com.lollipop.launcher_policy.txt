@@ -1,0 +1,29 @@
+ï»¿
+Privacy Policy
+Privacy Policy
+This Application collects some Personal Data from its Users in order to provide better service and user experience to its Users. We endeavor to comply with all applicable laws on privacy protection and personal information security. Privacy is important to us and we value the trust that our users have placed in us.
+Personal Data We Collect
+We collects data to provide you with the best experiences with our products. The following personal data is collected:
+1. Read phone status and identity (android.permission.READ_PHONE_STATE)
+2. Read your text messages (SMS or MMS)
+3. Access fine location
+4. Read your contacts (android.permission.READ_CONTACTS)
+5. Modify or delete the contents of your USB storage
+6. Read the contents of your USB storage
+7. Find accounts on the devices (android.permission.GET_ACCOUNTS)
+8. Read Google service configuration
+9. Change network connectivity
+10. Full network access
+11. View network connections
+12. View Wi-Fi connections
+How Personal Data Is Used
+We uses the data we collect to operate our products and to improve the product experience. We may use the data we collect to:
+1. Perform analysis to improve our products
+2. Provide personalized experiences
+3. Provide more relevant search results
+4. Share aggregate statistics with the public or our partners
+We will not share any personally identifying information with outside parties.
+Security
+The security of your data is important to us. We employ industry recommended security practices to protect the data that we collect.
+            Furthermore, we do not store any personally identifiable information on our servers. This ensures your protection
+            in the unlikely event that our security precautions fail.

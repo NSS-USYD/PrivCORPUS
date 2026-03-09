@@ -1,0 +1,173 @@
+AI Factory Privacy Policy
+AI Factory Privacy Policy
+(last updated 24th April 2023)
+AI Factory fully respects the user's privacy and displays advertisements 
+    in some of our apps to fund the creation of these games. This is all governed 
+    by the following privacy policy:
+Unless explicitly given the opportunity to accept this policy inside an 
+    app, please note that by using or otherwise accessing any AI Factory mobile 
+    application, you are agreeing to this privacy policy. If you 
+    do not agree to this privacy policy, please do not use or otherwise 
+    access our applications.
+California Consumer Privacy Act (CCPA)
+The California Consumer Privacy Act (CCPA) is effective from 1st January 
+    2020 and was enacted to provide California consumers with greater transparency 
+    and control over their personal information.
+AI Factory, through using ads in some of our apps, disclose limited user 
+    data to ad networks in order to provide users with targeted relevant ads. 
+    Under CCPA, this constitutes selling of personal information, and therefore 
+    we provide the required general opt out link in our apps. Outside of disclosing 
+    this limited data to ad networks, AI Factory does not sell any user personal 
+    information.
+To learn more about what limited data we disclose to ad networks, please 
+    view the
+Ad 
+    Networks
+section below, which also provides links to privacy policies 
+    of the ad networks we use.
+You can find the opt out link in our ad-supported apps by clicking on the 
+    “Privacy & Ads” link on the bottom right of the intro screen 
+    of each app, and then clicking on the “California Consumer Privacy Act” 
+    button. Some of our apps do not use personalised ads, so may not have this 
+    button.
+GDPR
+The General Data Protection Regulation (GDPR) is effective from 25th May 
+    2018. It is designed to strengthen rights to privacy and make sure that all 
+    companies deal with all personal data covered by GDPR according to EU and 
+    UK laws.
+This Privacy Policy will show what information we collect, why and what it 
+    is used for. We store data securely.
+Children's Online Privacy Protection Act (COPPA)
+AI Factory complies with the Children's Online Privacy Protection Act (COPPA) 
+    in the U.S. and does not knowingly collect personal information about children.
+Online Multiplayer
+Online Multiplayer in our Chess and Checkers apps use Google’s Firebase (Firebase Realtime Database, Firebase Authentication and Firebase Cloud Functions) alongside Google Play Games accounts. Signing into multiplayer requires a Google Play Games account.
+https://firebase.google.com/support/privacy
+The Firebase Realtime Database only contains basic data required to allow 
+    multiplayer to work, such as a list of matches the user is part of, and the 
+    details of each match. Only Google Play Games user IDs and Google Play Games 
+    user names (both of which are anyway publicly available in the Google Play 
+    Games system) are used to identify users in the database. We do not store 
+    any other personal data for any users in the database (i.e. no real name, 
+    no date of birth, no email address, etc).
+After 90 days of last signing in or multiplayer activity, multiplayer data 
+    will be automatically deleted.
+Achievements & Leaderboards
+Some of our apps use Google Play Games accounts to manage achievements and 
+    leaderboards. Signing into achievements and leaderboards requires a Google 
+    Play Games account. This only gives us a little anonymous aggregated usage 
+    data (e.g. achievements unlocked, number of games won, etc).
+Google Play Games
+Players can delete their account and all associated games data (for online 
+    play, achievements and leaderboards) collected by Google through their Play 
+    Games profile in the Google Play Games app or Google MyAccount.
+If Google collects Play Games Services data for an individual game, players 
+    can delete the data through their Play Games profile.
+https://developers.google.com/games/services/data-collection
+Crashlytics
+Some of our Free apps now use Google’s Firebase Crashlytics, which provides us with more detailed crash data in order to track down and fix problems in the apps. This system provides us with details such as device type, Android version, time of crash, and crash logs. The crash reports are anonymous and no personally identifiable data is sent to us.
+https://firebase.google.com/support/privacy
+Emailed Personal Information
+Any personal information sent to us by email will be stored by our email systems. Your email address will be used to respond to your email and we may also ask if you would like to be a beta tester for one of our apps.
+We won't ask for any personal information that we don't need.
+If you have subscribed to our newsletter, we will hold your details and email newsletters to you a few times a year.
+If you no longer wish to receive our newsletter you can unsubscribe at any time using the link in any of our newsletters or otherwise sending an email to let us know.
+Any data that we do collect will be kept securely in accordance with the current and new data regulations.
+Your Access to Your Information
+It is your right to access information held about you. GDPR means we have 
+    to provide you with a copy of all requested personal data AI Factory hold 
+    about you within 30 days of receiving your request.
+If the data AI Factory hold on you is incorrect, you have the right to correct 
+    this. You also have the right to "erasure" so if you don't want AI Factory 
+    to have any of your information, we will remove any personal information AI 
+    Factory hold on you.
+Personal Information and Third Parties
+We keep sales data from third parties including Google Play, iTunes and Amazon 
+    to review sales and provide refunds. We don't share your personal information 
+    with third parties except where necessary to provide the service you are requesting 
+    or where we are legally obliged.
+Third Party Terms and Conditions
+Please note that certain third parties, including but not limited to application 
+    stores, may be needed in order for you to access our mobile applications. 
+    These third parties have their own privacy policies which AI Factory cannot 
+    control.
+Links to Third Party Sites or Games
+Some of our mobile applications are supported by advertisements, which provide 
+    access to third party sites or apps.
+Our mobile applications may provide access to third party social networking, 
+    communication and search features.
+Please be aware that, if you use any of these links you will leave our app 
+    and the page you go to will not be governed by our privacy policy. 
+    We cannot be responsible for the privacy of any information you provide whilst 
+    outside of our app.
+These third party sites or apps are not affiliated with or controlled by AI Factory. AI Factory are not responsible for their content or for the use of any information you may provide them.  Our links to these sites or apps does not constitute our sponsorship of, or affiliation with, those sites or apps or the people or companies responsible for them.
+Updates to this Policy
+We may revise our privacy policy from time to time. When we 
+    do, those changes will be reflected here (as accessed via our app pages on the relevant application store). Any significant change we make to data usage will 
+    be drawn to your attention via our apps. We encourage you to review this privacy 
+    policy from time to time. Your continued use of our applications 
+    will signify your acceptance of the changes to this privacy policy.
+Ad Networks
+Advertising in our apps is provided by a number of third party ad networks. 
+    If GDPR applies to you, ads in our apps will default to being non-personalised 
+    but you may be prompted to opt in to personalised ads. Ad networks who provide 
+    adverts to our mobile applications may access identifiers assigned to your 
+    device, such as Google Advertising ID, or unique device identifiers (none 
+    of these IDs allow you to be identified as a person). Ad networks may use your device IP address to determine your approximate location.
+Opting out of Personalised ads
+You can opt in or out of personalised ads at any time by visiting;
+Android devices:
+Settings>Google>Ads>Opt out of ads personalisation
+or
+Android>Google Settings>Ads>Opt out of ads personalisation
+Amazon devices:
+Settings>Security & Privacy>Advertising ID, then turn off "Interest-based 
+    Ads".
+On iOS
+, you may withdraw your consent by enabling the “Limit Ad 
+    Tracking” setting.
+If you opt out, you will still see ads, but they will not be personalised 
+    for you.
+AI Factory choose to only provide ad networks with a minimal set of application 
+    permissions required for these ads to function. We only use ad networks that 
+    take their GDPR and CCPA obligations seriously and have implemented steps 
+    needed to support GDPR and CPPA compliance. Each of their own privacy policies 
+    are listed below.
+http://www.google.com/intl/en/policies/privacy/partners/
+https://www.google.co.uk/intl/en-GB/policies/privacy/
+https://legal.yahoo.com/xw/en/yahoo/privacy/intl/index.html
+https://answers.chartboost.com/en-us/articles/200780269
+https://www.applovin.com/privacy
+http://www.inmobi.com/privacy-policy/
+https://www.smaato.com/privacy/
+http://vungle.com/privacy/
+https://www.adcolony.com/privacy-policy/
+https://unity3d.com/legal/privacy-policy
+http://www.ironsrc.com/wp-content/uploads/2019/03/ironSource-Privacy-Policy.pdf
+https://www.addapptr.com/data-privacy
+https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ
+https://www.facebook.com/policy.php
+(Advertising from Facebook in our apps is linked to any Facebook profile in a Facebook app installed on the same device, and therefore your policy agreements with Facebook determine what ads are shown)
+https://www.fyber.com/privacy-policy/
+Ad networks may update their list of partners or otherwise change their privacy 
+    policies from time to time by posting the updated information on their websites.
+Please be aware that any information provided as a result of your interaction 
+    with these ads will not be governed by our privacy policy. Ads may redirect 
+    you away from our app, and our privacy policy will no longer apply outside 
+    of our app. We cannot be responsible for the privacy of any information you 
+    provide whilst outside of our app, or any information provided to any of these 
+    third parties.
+Paid/Premium Apps Without Advertising
+Our Paid/Premium apps with no advertising on Android are as follows:
+Backgammon Pro, Checkers Pro, Chess Pro, Euchre Pro, Four In A Line Pro, Gin Rummy Pro, Go Pro, Gomoku Pro, Hearts Pro, Move it! Pro, Reversi Pro, Solitaire Pro, Spades Pro, Sudoku Pro and Tic Tac Toe Universe
+(Note: These are not to be confused with their free versions, which do include advertising.)
+These Paid/Premium apps do not contain any ads, ad SDKs, or analytics.
+Some of our apps have the ability for players to sign in using a Google Play 
+    Games account, for features such as Achievements and Leaderboards (detailed 
+    above).
+Our Chess and Checkers apps also have the ability for players to sign in 
+    using their Google Play Games account for Online Multiplayer (detailed above).
+Contact
+Please feel free to contact us at
+support@aifactory.co.uk
+with any queries or ideas about our Privacy Policy.

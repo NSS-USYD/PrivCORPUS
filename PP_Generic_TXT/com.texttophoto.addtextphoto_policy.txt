@@ -1,0 +1,50 @@
+Text On Photo
+Search this site
+Skip to main content
+Skip to navigation
+Text On Photo
+Text On Photo
+Privacy policy
+Your privacy is important to AVNSoftware.Inc and we are committed to protecting your privacy. So we’ve developed a Privacy Policy. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
+This Privacy Policy explains how we collect, use, disclose and otherwise process personal information. Privacy Policy describes the practices concerning the information collected through the use of our mobile applications. In addition to describing how we collect, use, disclose and otherwise process personal information, this Privacy Policy explains the rights and choices available to individuals with respect to their personal information.
+In order to provide more accurate and well-targeted services,
+AVNSoftware.Inc
+may use personal information submitted by you in the manners mentioned below; nevertheless,
+AVNSoftware.Inc
+will treat such information with a high level duty of diligence. Without your permission,
+AVNSoftware.Inc
+will not disclose such information or provide such information to any third party.
+Protecting YOUR Privacy
+It is
+AVNSoftware.Inc
+principle to respect the privacy of the personal information of our users.
+AVNSoftware.Inc
+will take reasonable measures to protect user's personal information, without disclosing such information to any third party other than its Partners (without the consent of the user), unless such disclosure is required by law, court order or competent government departments or agreed to by the user. Exceptions will be applied if the user selects to accept such disclosures during the registration process (where applicable), or is otherwise stipulated on the disclosure or use of a user's personal information between the user and
+AVNSoftware.Inc
+and its Partners. The user shall bear any risks that may arise from any authorized disclosure of a user's personal information. For the operation and improvement of
+AVNSoftware.Inc
+technologies and services,
+AVNSoftware.Inc
+may collect and use the non-personal information of its users, or provide such information to third parties, in order to provide better user experience and improve the quality of our services.
+Permission Policy
+1. Access Internet
+<uses-permission android:name="android.permission.INTERNET" >
+<uses-permissionandroid:name="android.permission.ACCESS_NETWORK_STATE"
+<uses-permissionandroid:name="android.permission.ACCESS_WIFI_STATE"/>
+<uses-permission android:name="android.permission.WAKE_LOCK" />
+These permissions can help us get resources from our server such as: photo frames, photo stickers; check network connection …
+2. Access Camera
+<uses-permissionandroid:name="android.permission.CAMERA"/>
+This permission help us to get an image from your Camera (take picture from Camera) for photo edit and create new photos from its.
+3. Access Storage (Internal Storage)
+<uses-permissionandroid:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permissionandroid:name="android.permission.READ_EXTERNAL_STORAGE" />
+These permissions can help us access your storage for save photos and videos files edited, then for share to all your friends
+If you have any questions or concerns about our privacy policies, please contact us: vancanhgarim@gmail.com
+Thank You!
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

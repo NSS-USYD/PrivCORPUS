@@ -1,0 +1,412 @@
+Official Website | Bandai Namco Entertainment Inc.
+Games
+Company
+News
+Store
+Deals
+Log In
+Sign Up
+Bandai Namco Entertainment America Inc.
+Privacy Policy
+PAC-MAN™
+December 13, 2022
+PAC-MAN™&©Bandai Namco Entertainment Inc.
+Back to Legal
+English
+It is important that users of a Bandai Namco Entertainment America Inc. (“
+BNEA
+”, “
+we
+”, or “
+us
+”) Mobile Application (defined in the policy introduction) read this Mobile Privacy Policy in full. It explains who BNEA is, how and why BNEA collects Personal Data (defined under A3) from users, how and why it will be processed by BNEA, and BNEA’s commitment to protecting user information.
+However, if you do not have time to read it in full, we have summarized the key points for you in our 'speed read' section below.
+BNEA is a data controller for user Personal Data. This means BNEA makes decisions about how it uses user Personal Data (defined under A3).
+BNEA processes (i.e. handles) user Personal Data to provide its products and services. BNEA will only process Personal Data in accordance with the relevant data privacy laws. BNEA will only process user Personal Data where it has a legal basis for doing so.
+To enable the efficient and secure provision of products and services, BNEA may disclose user Personal Data to third party vendors, including payment processors and data analysts. Except as explained in this Mobile Privacy Policy, BNEA will not disclose Personal Data to third parties, unless required to do so by law.
+BNEA may use certain third-party ad networks ("
+Ad Networks
+”) to serve ads within Mobile Applications (to the extent identified in the Addendum to this Mobile Application Privacy Policy, below). In general, these Ad Networks operate by collecting a user’s Device/Network ID, or using cookies and other tracking technologies, to identify an individual user of a Mobile Application.
+BNEA will keep your Personal Data for as long as BNEA needs such Personal Data. How long BNEA needs Personal Data depends on what BNEA is using it for, whether that is to provide the Mobile Application to you, for BNEA’s own legitimate interests (described below), or so that BNEA can comply with applicable law. BNEA will actively review the information it holds and when there is no longer a customer relationship, legal or business need for BNEA to hold such Personal Data, BNEA will either delete such Personal Data securely or in some cases anonymize it.
+BNEA may transfer Personal Data to a recipient located outside of the user's resident country. For example, to BNEA’s main operations in the United States. If BNEA does this, BNEA will ensure that the transfer mechanism provides an adequate level of protection and complies with applicable law.
+Users of the Mobile Application have important rights under laws aimed at protecting their Personal Data. This policy sets out these rights and how a user can exercise them. For more information, please see the section titled "Q13: What Data Privacy Rights do Users Have and How do They Exercise Them?" of this Mobile Privacy Policy. Where a user is in the UK or EU, users also have the right to make a complaint to their local data protection regulator. For more information, please see Q13.
+Introduction:
+BNEA respects the privacy of users of its mobile applications and has adopted the following Mobile Privacy Policy (the “
+Mobile
+Privacy Policy
+”) in furtherance of that commitment.
+As described below, this Mobile Privacy Policy applies to each BNEA-operated mobile application where it is displayed or referenced (such as through an embedded hyperlink) (each, a “
+Mobile Application
+”), including with respect to the data collected from or provided by any user, or any user’s device, that accesses the Mobile Application. However, data collected through certain BNEA products or services may be subject to a different product- or service-specific privacy policy which can be accessed through such product or service and/or at:
+https://www.bandainamcoent.com/legal
+.
+Any questions, comments, or concerns regarding this Privacy Policy or BNEA’s privacy practices, can be sent to
+privacy@bandainamcoent.com
+. A full list of contact details can be found at the end of this Mobile Privacy Policy.
+TABLE OF CONTENTS
+Q1:    Why Does BNEA Have This Mobile Privacy Policy?
+Q2:    How Does BNEA’s Mobile Application Collect Information From Users And User Devices?
+Q3:    What Information Is Collected by BNEA Under This Mobile Privacy Policy
+Q4:    What Information Is NOT Covered By This Mobile Privacy Policy?
+Q5:    How Does BNEA Use Information Covered By This Mobile Privacy Policy
+Q6:    Where Does BNEA Store Personal Data Covered By This Mobile Privacy Policy?
+Q7:    How Long Does BNEA Retain Information Covered By This Mobile Privacy Policy?
+Q8:   To Whom Does BNEA Disclose Information Covered By This Mobile Privacy Policy?
+Q9:    Do Third Parties Collect Information Through BNEA’s Mobile Application
+Q10:  What Security Measures Does BNEA Take To Safeguard Users’ Personal Data?
+Q11:  How Will Users Know If BNEA Changes This Mobile Privacy Policy?
+Q12:  Does BNEA Collect Information From Or About Children?
+Q13:  What Data Privacy Rights do Users Have and How do They Exercise Them?
+Q14: Does BNEA Use Automated Decision Making?
+Q15: How can Users Contact BNEA?
+Q1:    Why Does BNEA Have This Mobile Privacy Policy?
+A1
+:     BNEA’s mission is to inspire people around the world, to help them enjoy their time to the fullest, and to create “Fun For All Into The Future.” Allowing users to have confidence in BNEA’s privacy practices is essential to BNEA’s aspirations and success. To demonstrate BNEA’s concern for user privacy, BNEA has developed this Mobile Privacy Policy, which tells users – in simple, plain language – how BNEA collects, stores, uses, and discloses user data.
+Q2:    How Does BNEA’s Mobile Application Collect Information From Users And User Devices?
+A2
+:     BNEA’s Mobile Application may collect information from users and users’ devices, as follows:
+User Disclosure
+: Certain Mobile Applications may enable, request, or require users to disclose certain information including by:
+Creating or logging into a Mobile Application account;
+Signing up for newsletter(s);
+Authorizing a third party, affiliate, or related company to disclose information to BNEA;
+Confirming age or date of birth;
+Participating in polls, surveys, questionnaires, contests, sweepstakes, events, or other promotions offered through the Mobile Application; or
+Submitting a request for customer support through the Mobile Application.
+Information Automatically Collected When You Use the Mobile Application
+: Certain Mobile Applications automatically collect certain information such as user activity records and device information. This information may be required for the Mobile Application to function.
+Information Received from Affiliates and Related Companies
+: BNEA may also be given access to certain information that affiliates and related companies have collected from a user or a user’s device, through use of such affiliate or related company’s account systems, products, websites, applications, or other services. For instance, if you log into a Mobile Application via Bandai Namco ID, BNEA will have access to certain information from that platform. In the event BNEA is given access to such information, BNEA’s access to and use of such information will be subject to and consistent with the privacy policies of such affiliate or related company and this Mobile Privacy Policy.
+Information Received from Third Parties
+: BNEA may also be given access to certain information third parties have collected from a user or a user’s device, through use of such third party’s services, games, websites, applications, or other services. In the event BNEA is given access to such information, BNEA’s access to and use of such information will be subject to and consistent with the privacy policies of the third party responsible for initially collecting it.
+Please note
+: BNEA cannot prevent third party advertisers from obtaining information about users from publicly available sources (online profiles, social media, etc.)
+Information Collected When You interact with Advertisements on the Mobile Application or those of BNEA’s Partners
+: BNEA may also collect information from a user or a user’s device when it shows you an advertisement.
+Analytics Software:
+Certain third-party analytics services may be incorporated into the Mobile Application that may automatically collect various types of Personal Data. If a user accesses the Mobile Application while offline, such information may be stored on such user device and transmitted to BNEA, or to a third-party analytics service provider, when that device connects to the Internet.
+Please note
+: Once collected from a user device, Personal Data may be stored with a Device/Network ID and may be used to identify the corresponding user device or its user’s online activity until such Device/Network ID is reset. Please see the instructions in Section A13, below, about resetting such Device/Network IDs.
+Device Features
+: The Mobile Application may request that the user grant permission to access various device features (e.g., the user device’s camera, microphone, notifications, etc.), other applications or services on the user device (e.g., social media applications, etc.), or other information stored locally on the user device (e.g., photos, local storage, etc.). In some cases, particular features of the Mobile Application may not be accessible or may not function properly unless given access to such features, applications, or information. If a user prefers not to grant such permission to the Mobile Application, the user may not be able to enjoy certain features of that Mobile Application, or access that Mobile Application at all.
+Please note
+: Granting requested permissions to the Mobile Application may allow it to repeatedly and automatically access the requested features, applications, or information.
+Tracking Technologies
+: Downloading, installing, or accessing the Mobile Application and other applications and websites on a user device may install or place various tracking technologies on such user device (including cookies, web beacons, pixel tags, log files, etc.). These tracking technologies may assist users in navigating or progressing through the Mobile Application, record user’s setting and selections and logging user progress within the Mobile Application, and enable users to provide feedback or request customer support from BNEA. These cookies are necessary for the Mobile Application to function and cannot be switched off in BNEA’s systems.
+Q3:    What Information is Collected by BNEA Under This Mobile Privacy Policy?
+A3
+:     BNEA will collect Personal Data when a user uses a Mobile Application. “Personally-identifiable information” (or “
+Personal Data
+”) means information which could be used to identify an individual either on its own or when combined with other information. This section describes what Personal Data is collected and how BNEA collects it. The Personal Data in this section may be used for various purposes described under section A5 below under Q5 "How Does BNEA Use Information Covered By This Mobile Privacy Policy".
+First & Last Name
+: When provided to BNEA, this Personal Data may be stored with the user’s Mobile Application account information and may be accessed and updated by such user accessing the appropriate account settings.
+Email Address
+: When provided to BNEA, this Personal Data may be stored with the user’s Mobile Application account information and may be updated by the user by accessing the appropriate account settings.
+Mailing Address
+: When provided to BNEA, this Personal Data may be stored with the user’s Mobile Services account information and may be updated by the user by accessing the appropriate account settings.
+Password, Security Questions & Answers
+:
+When provided to BNEA, this Personal Data may be securely stored with the user’s Mobile Application account information and may be updated by the user by logging into their Mobile Application account. This Personal Data will only be used to authenticate a user’s identity before granting anyone access to such user’s Mobile Application account.
+Profile Information
+: Certain Mobile Applications may create profiles based upon your preferences, characteristics, behavior, and other information from your use of the Mobile Application.
+User Activity Records
+:
+The Mobile Application may automatically create records about user activities within such Mobile Application, such as dates and logs of certain user activities within such Mobile Application, game play information, and when certain legal terms were presented to and accepted by a user.
+Transaction History
+: When a user purchases a product or products through the Mobile Application certain Mobile Applications may automatically create records about a user’s transaction, such as the type of payment method, products and services purchased, and when the transaction occurred (“
+Transaction History
+”).
+User Device Information
+: The Mobile Application may automatically collect data about the device(s) through which a user accesses the Mobile Application, which may include: (i) the device’s operating system (e.g., Android, iOS, etc.) and version; (ii) browser type (e.g. Safari, Chrome, etc.) and version; (iii) network connection type (e.g., cellular or WiFi); (iv) the name of the user’s network or network service provider; (v) the title and version of the Mobile Application accessed by the user; and (vi) other similar device data. This data is used to optimize the performance of the Mobile Application on the user device
+User Age or Data of Birth
+: Certain Mobile Applications may allow (or, in some cases, require) a user to disclose their age, birth year, or date of birth. This information is used by BNEA to (i) confirm such user meets the minimum age requirements applicable to the Mobile Application such user is then attempting to access; and (ii) ensure that the content served via the Mobile Application is appropriate for the user.
+Region Information
+: The Mobile Application may ask a user to disclose, or may automatically detect the country, state, province, or region in which such user’s device is located.
+Usernames
+: The Mobile Application may allow a user to choose nicknames, character names, or usernames that will be used to identify that user to other users of the Mobile Application. When provided to BNEA, such information may be stored with the user’s Mobile Application account information and may be updated by the user by logging into their Mobile Application account. However, unlike other forms of Personal Data collected under this Mobile Privacy Policy, BNEA collects this information from users for the purpose of displaying this information to other users of the same Mobile Application and, in some cases, making such information available to the general public. Accordingly, users should not use their real name, the real name of any person, or any other Personal Data when creating usernames.
+Device/Network Identifiers
+: The Mobile Application may incorporate third party services that allow BNEA and/or third party service providers to automatically collect unique device and/or network identifiers from the user device, which may include resettable device and/network identifiers (e.g., IP address, Ad identifiers like Apple’s IDFA and/or IDFV or Google’s AAID, etc.), as well as non-resettable device identifiers (e.g., UDID, IMEI, MAC Address, etc.) (collectively, “
+Device/Network IDs
+”).
+Pseudonymous Identifiers
+:
+When a user opens the Mobile Application that user may be assigned unique alphanumeric identifier(s) that are generated by BNEA and do not contain any other Personal Data of such user (each, a “
+Pseudonymous ID
+”). That Pseudonymous ID is then used to reference such user’s account in other records created or maintained by BNEA and/or third-party service providers to avoid unnecessary propagation of such user’s Personal Data into records that cannot easily be deleted from or modified.
+Personal Data Linked to Non-Personal Data & “Anonymized” Personal Data
+: In the event BNEA directly links or associates any Non-Personal Data with any Personal Data relating to a user (e.g., in a Mobile Application account or profile), BNEA will treat such Non-Personal Data as Personal Data. Conversely, any user information that BNEA collects from a user or user device (including Non-Personal Data that has been directly linked or associates with Personal Data), but is then aggregated, anonymized, or “hashed” in a manner that reasonably prevents any recipient from using such information to individually identify, locate, or contact the user to whom such Personal Data once related, will be treated as Non-Personal Data.
+Categories of Personal Data Collected under the California Consumer Privacy Act and the California Privacy Rights Act (the “California Privacy Laws”)
+: California Privacy Laws require BNEA to disclose the categories of Personal Data that BNEA collects and has collected. BNEA collects and has collected withe following categories of Personal Data as listed in the California Privacy Laws within the preceding twelve (12) months:
+Identifiers, such as real name, alias, postal address,  unique personal identifier, contact information, IP address, email address, account name, and other online identifiers;
+Personal information, as defined in the California customer records law, such as name and contact information;
+Characteristics of protected classifications under California or federal law, such as age.
+Commercial information, such as transaction information and purchase history.
+Internet or network activity information, such as browsing history and interactions with the Mobile Application or advertisements;
+Geolocation data, such as approximate location derived from IP address; and
+Inferences drawn from any of the Personal Information listed above to create a profile about, for example, an individual’s preferences, behavior, or characteristics.
+BNEA only uses the above Personal Data for the purposes described in Section A5 and in the preceding twelve (12) months has only disclosed this Personal Data to the third parties, affiliates, service providers, and other persons or entities described in Section A8 of this Mobile Privacy Policy and in the Addendum.
+Q4:    What Information Is NOT Covered By This Mobile Privacy Policy?
+A4
+:     Information collected through certain BNEA products or services, other than the Mobile Application, may be subject to a different product- or service-specific privacy policy which can be accessed through such product or service and/or at:
+https://www.bandainamcoent.com/legal
+.
+In addition, this Mobile Privacy Policy does not cover the following information:
+Information Collected from a User Directly by a Third Party (And Not by BNEA)
+: Information collected from a user by a third party as outlined in Section A9.
+Information contained in materials a user shares with BNEA for a business purpose
+: This Mobile Privacy Policy does not cover information submitted to BNEA for purposes other than use of the Mobile Application, including without limitation information submitted in the context of a current, former, or potential role as a BNEA employee or for business inquiries (e.g., resumes, event sponsorships, proposals, etc.).
+Q5:    How Does BNEA Use Information Covered By This Mobile Privacy Policy?
+A5
+:     BNEA only collects, stores, and uses information if a user has consented to it, or to the extent it is necessary (i) for the performance of a user’s agreement with BNEA; (ii) to comply with BNEA’s legal obligations; or (iii) for the purpose of BNEA’s legitimate interests, including operating, evaluating and improving its global business.
+Pursuant to applicable law, BNEA must have a legal basis to collect, store or use Personal Data. Users should also note that where BNEA relies on:
+Consent:
+Users may withdraw consent at any time. Where a user withdraws consent, they may lose access to certain features or services.
+Legitimate interests:
+BNEA has assessed whether using Personal Data is necessary for that particular purpose and balanced this against the user's interests. Where legitimate interests are used as a legal basis, a user may be able to exercise their rights to object to how BNEA uses that information. For more information of user rights see " Q13:  What Data Privacy Rights do Users Have and How do They Exercise Them?" below.
+Legal Basis
+Purposes: How We Use Your Information
+Performance of an Agreement with BNEA
+Provide the Mobile Application
+Provide and deliver the products and services a user requests, or process transactions and send related information to users
+Register a user’s account on the Mobile Application and assist in the management of such account
+Respond to a user’s comments, questions and requests and provide customer service
+Send users technical notices, updates, security alerts as well as support and administrative messages
+Legitimate Interest
+For any purpose required or authorized for BNEA to comply with its legal and regulatory obligations
+Monitor and analyze trends, usage and activities in connection with the Mobile Application
+Detect, investigate and/or prevent fraudulent, unauthorized or illegal activity
+Provide non-targeted “contextual” advertisements
+Monitor, analyze and develop brands on social media by using social media monitoring services
+Consent
+Communicate with you about products, services, offers, promotions, rewards, and events offered by BNEA and others, and provide news, information and other marketing materials that we think will be of interest to you where you have provided us with your consent for us to do so.
+Process and deliver contests, sweepstakes, and event entries and rewards/prizes promoted by BNEA where you have signed up for these.
+Link or combine user data with information we get from other products or sources to analyze service and monetization trends, create profiles of categories of users, create new games and services, and perform other analytics
+Link or combine with information we get from BNEA’s advertising partners to help understand your needs and provide you with better in-application personalized ads; serve advertisements that might be of interest to you; monitor and analyze trends, usage and activities in connection with the advertisements and the Mobile Application; creating profiles of types of users by combining your data with information from advertising partners
+Creating profiles of types of users by combining user data with information from BNEA advertising partners, providing the data to our group companies, ad agencies and ad platforms to target advertisements of BNEA (and its group company) games and services to you outside of this service, and otherwise performing advertising analytics and performance metrics
+For any other purpose for which a user has provided the information and consented to us using it for a defined purpose.
+Q6:    Where Does BNEA Store Personal Data Covered By This Mobile Privacy Policy?
+A6
+:     Personal Data covered by this Mobile Privacy Policy may be stored and processed, for the purposes described herein, in the United States or any other country in which BNEA or its third-party service providers operate, including through the use of cloud storage. Except as set forth herein, by using the Mobile Application, each user understands that their Personal Data and Non-Personal Data may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in such user country of residence or citizenship, regardless of such user’s location, residence, or citizenship.
+Information collected by BNEA from EU or UK users under this Mobile Privacy Policy may be transferred outside the EEA or UK to, for example, BNEA's headquarters in the USA. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, including where appropriate, standard contractual clauses (adopted by the European Commission or UK Information Commissioner as appropriate) to protect user Personal Data.
+While BNEA acknowledges that the EU – U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Frameworks (“
+Privacy Shield
+”) are not currently an international transfer mechanism on its own as interpreted by the European Commission, it provides some valuable standards and certifications in relation to the protection of Personal Data. As such, BNEA also complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States in reliance on Privacy Shield. BNEA has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this Mobile Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit
+https://www.privacyshield.gov/
+. BNEA is responsible for the processing of Personal Data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. BNEA complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. With respect to Personal Data received or transferred pursuant to the Privacy Shield Frameworks, BNEA is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+Q7:    How Long Does BNEA Retain Information Covered By This Mobile Privacy Policy?
+A7:
+Information covered under this Mobile Privacy Policy will be retained by BNEA for as long as needed or permitted considering the purpose(s) for which it was obtained.
+BNEA uses the following criteria to determine the retention periods:
+The length of time a user has an active relationship with BNEA and in which BNEA makes the Mobile Application available to such user. For example, BNEA will retain Personal Data on an account for as long as a user maintains an account with BNEA.
+The length of time that it is necessary to hold that Personal Data in connection with purposes set out in this policy where BNEA has a valid legal basis.
+Whether BNEA has a legal or business obligation to retain such information.
+Whether BNEA retains some Personal Data to protect itself against legal claims or to continue to process Personal Data in relation to any ongoing legal claim.
+When deciding the duration that BNEA retains Personal Data it will take into account:
+The applicable limitation period under applicable law (i.e. any period during which any person could bring a legal claim against BNEA in connection with a user’s Personal Data, or to which such Personal Data may be relevant); or
+an additional reasonable period following the end of such applicable limitation period.
+For any queries about how long BNEA retains Personal Data, users should contact BNEA using the contact details at the end of this Mobile Privacy Policy.
+Q8:    To Whom Does BNEA Disclose Information Covered By This Mobile Privacy Policy?
+A8
+:     BNEA will not disclose to third parties any Personal Data BNEA collects from a user under this Mobile Privacy Policy, including for such third party’s own direct marketing purposes, unless a user affirmatively consents to such use. However, BNEA may disclose some information to third parties where it is necessary and where BNEA has a valid legal basis for the following purposes:
+Other Users
+: Other users if you choose to participate in the interactive areas of the Mobile Application, such as multiplayer, chat, or other sharing features.
+Please note
+: Users should refrain from creating usernames containing the real name of any person or any other Personal Data.
+Third Party Service Providers and Contractors
+: Third party service providers and contractors engaged by BNEA to perform services on BNEA’s behalf, such as game developers, surveys, payment processing, advertising campaign optimization, network operations, customer support, and data management. These third-party service providers are required to maintain the confidentiality of any Personal Data disclosed to them and are prohibited from disclosing or using such Personal Data other than to perform specific task(s) for which they have been engaged by BNEA.
+BNEA-Affiliated Companies
+: BNEA’s subsidiaries, parent company, or other affiliated entities. BNEA may disclose information to these affiliated entities to identify and better understand the needs and interests of BNEA’s consumers, throughout the world, to improve BNEA’s products based such needs and interests, and market BNEA’s products and services using local resources, tailored to such needs and interests.
+A Successor or Acquiring Third Party
+: If BNEA is bought or acquired by a third party (either fully or partially), merged with a third party, experiences a reorganization, bankruptcy, or other similar event, or in the event BNEA conveys to a third party its right to offer or provide the Mobile Application, information collected by BNEA under this Mobile Privacy Policy may be disclosed to such third party, subject to the notification procedures set forth in Section A11, below.
+A Court, Government Agency, or Litigant
+: Only as permitted or required by law, or when BNEA believes in good faith that it is necessary: (i) to protect the safety or security of BNEA, its BNEA-Affiliated companies, employees, contractors, users, or the property of any of the foregoing; or (ii) to enforce BNEA’s end user license agreement, terms of service, or its community event rules.
+Q9:    Do Third Parties Collect Information Through BNEA’s Mobile Application?
+A9
+:     BNEA may, from time to time, where it has a legal basis to do so, enable the types of third party service providers, described below, to directly collect from Mobile Application users information that is not shared with BNEA, but is collected, stored, and processed subject to the privacy policies of such third parties. Because such third party privacy policies may contain restrictions or allow uses that differ from those described in this Mobile Privacy Policy, BNEA is unable to make any promises or guarantees regarding the use or security of information collected directly by such third parties and recommends that users review such third parties’ privacy policies before sharing such information:
+Ad Networks
+: BNEA may use certain Ad Networks to serve ads within certain Mobile Applications (to the extent identified in the Addendum to this Mobile Application Privacy Policy, below). In general, these Ad Networks operate by collecting a user’s Device/Network ID, or using cookies and other tracking technologies, to identify an individual user of a Mobile Application and then serve ads based on such user’s prior online activities through BNEA’s Mobile Applications, BNEA’s other service, and various online products and services of third parties that have also engaged, directly or indirectly, with the same Ad Network(s). In most cases, such Ad Networks will collect information about the ad served and user’s response to such ad, regardless of whether the user interacts with the ad or views the ad in its entirety. Unless otherwise set forth in the Addendum below, all information collected by an Ad Network is subject to such Ad Network’s own privacy policies. While BNEA is selective about the Ad Networks it allows to operate within its Mobile Applications, we recommend that all users familiarize themselves with each Ad Network’s applicable privacy policies. Users can opt-out from being tracked or being served targeted ads by the Ad Networks in this Mobile Application by following the instructions in Section A13 and/or each Ad Networks privacy policy (as listed in the Addendum below). If a user suspects that an Ad Network in a Mobile Application has not adhered to a properly submitted opt-out request, please contact BNEA customer support, as set forth below.
+Please note
+: Even after opting out, users will continue receiving non-targeted “contextual” ads (i.e., ads selected based on Non-Personal Data, such as the Mobile Application in use, or the user’s device type) and/or “generic” ads (i.e., ads that are set forth in the Addendum to this Mobile Privacy Policy selected without any information about a user’s device or the Mobile Application in use).
+Payment Processing Services
+:
+All payments made for accessing the Mobile Application and/or virtual items within the Mobile Applications are processed by a third-party service provider, subject to such third-party service provider’s applicable privacy policies. Except as otherwise set forth in such privacy policies, information a user shares with such third-party service provider will not be disclosed to BNEA, except for certain Non-Personal Data and/or a unique “tokenized” identifier, which BNEA uses to confirm the completion of such purchase and ensure that purchased virtual items are properly associated with such user’s Mobile Application account.
+Social Network Services:
+The Mobile Application may enable a user to connect their account with their account on a third party social network platform. In doing so, such third party social network may disclose to BNEA certain information collected from or about such user or such user’s device and BNEA will only use such information as permitted by such third party social network’s privacy policy. BNEA may also share with such third party social network certain Non-Personal Data and/or a unique “tokenized” identifier that BNEA has collected, to the extent permitted by this Mobile Application Privacy Policy.
+Native OS Services
+: The Mobile Application may also enable the platform operator to collect certain information from a user through services native to the user’s device’s operating system, subject to such platform operator’s applicable privacy policies.
+Q10:    What Security Measures Does BNEA Take To Safeguard Users’ Personal Data?
+A10
+:     The security of user Personal Data is important to BNEA. BNEA follows accepted standards to protect the Personal Data collected from users of its Mobile Application, both during transmission and after it is received. In addition, BNEA endeavors to ensure that user Personal Data is stored only for as long as necessary to fulfill the purpose(s) for which such information was collected and is deleted from BNEA’s records once such purpose(s) have been fulfilled (as further described in Section A7).
+Q11:  How Will Users Know If BNEA Changes This Mobile Privacy Policy?
+A11
+:   BNEA may amend this Mobile Privacy Policy at any time. If BNEA makes any material changes in how BNEA collects, uses, or discloses Personal Data, BNEA will prominently post notice of the changes within the applicable Mobile Application or contact users by email (at the email address, if any, associated with such users’ Mobile Application accounts) prior to the change becoming effective. Any material changes to this Mobile Privacy Policy will be effective 30 days after BNEA’s posting of such changes within the Mobile Application or 14 days after advance notice, if sent by email.
+Please note
+: It is each user’s responsibility to keep their BNEA account information (including their email address) current and accurate, and to notify BNEA if such email account ever changes or is terminated. BNEA assumes no responsibility for misdirected messages (i.e., messages sent to an unmonitored or deactivated email account). Misdirected messages could reveal user’s Personal Data to unintended third parties.
+Q12:  Does BNEA Collect Information From Or About Children?
+A12
+:   BNEA’s Mobile Applications are
+not
+directed to children under thirteen (13) (or other age as required by local law) and therefore BNEA does not knowingly collect Personal Data from such users. However, BNEA recognizes that Mobile Applications may appeal to children under thirteen (13) (or other age as required by local law) and therefore BNEA takes the following steps to protect such users:
+Implementing an age gate;
+If a user indicates they are under thirteen (13) (or the applicable age in the territory), limiting the features available to such users; and
+Limiting the collection or sharing of Personal Data to only what is necessary and for use solely to support the internal operations of the Mobile Application as required by applicable law.
+BNEA takes children’s privacy seriously and encourages parents to play an active role in their child’s online experience at all times. In the event BNEA learns that it has inadvertently collected Personal Data from a child under the age of thirteen (13) (or other age as required by local law) other than what is necessary to support the internal operations of the Mobile Application, BNEA will take reasonable steps to promptly erase such information from BNEA’s records. For a complete list of the service providers BNEA uses to offer a child-safe experience, please see the Addendum to this Mobile Privacy Policy.
+Q13:  What Data Privacy Rights do Users Have and How do They Exercise Them?
+A13
+:
+Data Privacy Rights
+: Users of the Mobile Application have certain data protection rights under applicable law (including without limitation the California Privacy Laws and the General Data Protection Regulation (“
+GDPR
+”) and GDPR as it has been retained in the United Kingdom (“
+UK GDPR
+”)), such rights include:
+The Right to be Informed
+: The right to be informed about the collection and use of a user’s Personal Data, as outlined in this Mobile Privacy Policy.
+The Right to Access and Data Portability
+: The right to access the Personal Data BNEA processes about you as well as the right to data portability. This includes the right to request that BNEA disclose the following information in the twelve (12) months preceding the request:
+The categories of Personal Data BNEA collected about the user and the categories of sources from which we collected such Personal Data;
+The specific pieces of Personal Data BNEA collected about the user;
+The business or commercial purpose for collecting Personal Data about the user; and
+The categories of Personal Data about the user that BNEA otherwise shared or disclosed, and the categories of third parties with whom we shared or to whom BNEA disclosed such Personal Data (if applicable).
+Right to Data Correction:
+The right to have Personal Data corrected or erased.
+Right to be Forgotten
+: The right to delete Personal Data, including by deletion of an account and associated Personal Data.
+Right to Restrict Processing
+: The right to object or restrict the processing of a user’s Personal Data.
+Right to Withdraw Consent
+: The right to withdraw consent at any time for consent BNEA has obtained from a user, although this will not affect the lawfulness of the processing prior to the withdrawal.
+Right to Object
+: Users also have the right to object, at any time, to the processing of Personal Data based on BNEA’s legitimate interests.
+Right to not be Discriminated
+: The right to not be discriminated against for exercising these rights.
+California Privacy Laws require BNEA to be transparent about any Personal Data it “sells” or “shares” with third-party partners, including without limitation, advertising partners.
+BNEA has not “sold” or “shared” Personal Data for purposes of California Privacy Laws.
+Exercising Data Privacy Rights
+: Users can exercise their data privacy rights by doing any of the following:
+Using Account Features
+: Users of the Mobile Application that enable account features can access, update, or request deletion of certain Personal Data they’ve disclosed to BNEA by logging into such user account (for example, these areas may be labeled as “My Account,” “Edit Profile,” “Settings,” or other similar names).
+Contact via Email
+: Users of the Mobile Application that do not have account features can request access, update, or deletion of certain Personal Data by emailing BNEA at:
+privacy@bandainamcoent.com
+. BNEA will respond to all requests received within a reasonable timeframe and in accordance with applicable law.
+Submitting a Customer Support Ticket
+: Users of the Mobile Application that do not have account features can request access, update, or delete Personal Data by submitting a ticket
+here
+;
+Calling a Toll-Free Number
+: Users may also contact BNEA at 1-888-956-2626.
+Opting Out from Push Notifications
+: BNEA may send users push notifications through the Mobile Application. Users that no longer wish to receive these types of notifications may opt-out at any time by turning them off within the “Settings” menu on their devices.
+Opt-In or Opt-Out of Targeted Advertising:
+In-App Options
+: Where features are available, clicking on the settings options (for example, these areas may be labeled as “My Account,” “Edit Profile,” “Settings,” or other similar names) and clicking the appropriate option to opt-in or opt-out of targeted advertising.
+Mobile Device Options
+: Follow the manufacturer’s instructions for managing targeted advertising and privacy through your mobile device’s system settings. These areas may be labeled as “Settings,” “Privacy,” “Tracking,” “Ads,” or other similar names.
+For specific Ad Networks:
+Users may opt-in or opt-out from being tracked or being served targeted ads by the Ad Networks in this Mobile Application by following the instructions presented: (i) within such ads; or (ii) in each Ad Networks privacy policy (as listed in the Addendum below). If a user suspects that an Ad Network in a BNEA Mobile Application has not adhered to a properly submitted opt-out request, please contact BNEA using the methods listed in Section A15.
+Please note
+: In certain regions users of the Mobile Application may receive non-targeted “contextual” ads by default.
+Opt-Out of Marketing Emails
+: Users can opt-out of receiving marketing emails by clicking the “unsubscribe” button (or similarly worded button) located within the marketing email and confirming their selection.
+Please note
+: The above methods of exercising data privacy rights are limited to data controlled or stored by BNEA, and not by its affiliates and related companies. For example, Bandai Namco ID is operated by BNEA’s affiliate, Bandai Namco Entertainment Inc. For questions relating to their privacy policy please visit
+https://bnfaq-support.channel.or.jp/inquiry/privacycontact_bandainamcoent
+and provide the required information. For inquiries or requests related to BNEA’s affiliates and related companies, please review such affiliate or related company’s relevant privacy policy.
+BNEA may need additional information to verify a user’s identity, in which case, BNEA will contact the user to request for that information. Users may also designate an authorized agent to make these requests, in which case, BNEA will contact the authorized agent for additional information.
+California Business and Professions Code Section 22581
+: Users of BNEA’s Mobile Application that reside in California may have the right to request and receive certain information about BNEA’s disclosure of such user’s Personal Data to third parties for their direct marketing purposes, and the right to exercise choices with respect to such disclosures. California Business and Professions Code Section 22581 permits registered users of BNEA’s Mobile Application that are under age eighteen (18) and reside in California, to request removal of content or information they have publicly posted through the Mobile Application. To make such a request, please send an email with a detailed description of the specific content or information to
+privacy@bandainamcoent.com
+.
+Please note
+: A request does not ensure complete or comprehensive removal of the content or information such users have posted and that there may be circumstances in which the law does not require or allow removal, even if properly requested.
+Complaints for Users within the European Union or United Kingdom
+: In addition to the above, users of BNEA’s Mobile Application that reside in EU or UK also have the right to lodge complaints regarding this Mobile Privacy Policy, BNEA’s practices relating to processing of Personal Data hereunder, or their ability to exercise their Personal Data-related rights by lodging a complaint with a relevant supervisory authority. BNEA will respond to any such complaints promptly and within a reasonable time. In the event that BNEA fails to respond, or its response is insufficient or does not address the concern, BNEA has registered with JAMS to provide independent third-party dispute resolution at no cost to the complaining user. To contact JAMS and/or learn more about the company’s dispute resolution services, including instructions for submitting a complaint, please visit:
+https://www.jamsadr.com/eu-us-privacy-shield
+.  In the absence of resolution by BNEA and JAMS, subject to certain conditions, complaining users may also seek to engage in binding arbitration through the Privacy Shield Panel by visiting:
+https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint
+.
+Q14: Does BNEA Use Automated Decision Making?
+A14:
+BNEA may use Personal Data collected from EEA Users under this Mobile Privacy Policy for the purposes described in Section A5, some of which involve automated decision making.
+Q:15: How can Users Contact BNEA?
+A:15
+Users can contact BNEA via the methods outlined below:
+Contact Information
+: The “data controller” and “data protection officer” for the information collected by BNEA under this Mobile Privacy Policy is:
+Data Controller:
+Bandai Namco Entertainment America Inc.
+23 Odyssey
+Irvine, CA 92618
+(949) 271-6000
+privacy@bandainamcoent.com
+Data Protection Officer:
+The Data Protection Officer can be contacted at privacy@bandainamcoent.com
+Our data protection representative within the EEA is:
+Bandai Namco Europe S.A.S
+15 Rue Felix Mangini, CS90618
+69009 Lyon Cedex 09, France
+If users have questions or wish to send BNEA comments about this Mobile Privacy Policy, please e-mail or contact BNEA at:
+Bandai Namco Entertainment America Inc.
+Attn.: Legal
+23 Odyssey
+Irvine, CA 92618
+(949) 271-6000
+privacy@bandainamcoent.com
+Any information a user provides to the above e-mail and postal mail addresses will not be used for direct marketing purposes, unless expressly requested by such user.
+Third Party Service Providers collecting information, subject to such Third Party Service Provider's own privacy policy:
+For iOS Users
+: The Mobile Application enables Apple, Inc. and its affiliates (collectively, the “
+platform operator
+” for iOS Mobile Applications), to collect information from iOS users and iOS user devices, subject to Apple’s Privacy Policy (available at:
+https://www.apple.com/legal/privacy/
+) as applicable to the following Apple-operated, native iOS services: Game Center, Apple Media Services (including in-app purchases through iTunes)
+For Google Play Users:
+The Mobile Application enables Google, LLC and its affiliates (collectively, the “
+platform operator
+” for Android OS Mobile Applications downloaded from the Google Play Store) to collect information from Android users and Android user devices, subject to Google’s Privacy Policies (available at:
+https://www.google.com/policies/privacy
+) as applicable to the following Google-operated, native Android OS services: Google Play Services, Google Payments.
+Third Party Ad Networks that may collect information when an ad is presented subject to such Third Party Ad Network’s own privacy policy:
+Google
+: This Mobile Application enables Google LLC (“
+Google
+”) to collect user’s Device/Network ID and information regarding the delivery of ads and user’s interactions with ads. All information collected by Google may be shared with ad publishers and attribution companies, even if a user does not click or tap an ad or does not watch an entire ad. Google may utilize information it collects from users of this Mobile Application to place personalized ads in BNEA’s Mobile Applications and elsewhere and to permit other parties (such as publishers and attribution companies) to learn about the devices that received, viewed, or interacted with ads. Google’s privacy policy is available at:
+https://policies.google.com/privacy
+ironSource Mobile
+: This Mobile Application enables ironSource Mobile Ltd. (“
+ironSource Mobile
+”
+) to collect user’s Device/Network ID and information regarding the delivery of ads and user’s interactions with ads. All information collected by ironSource Mobile may be shared with ad publishers and attribution companies, even if a user does not click or tap an ad or does not watch an entire ad. ironSource Mobile may utilize information it collects from users of this Mobile Application to place personalized ads in BNEA’s Mobile Applications and elsewhere and to permit other parties (such as publishers and attribution companies) to learn about the devices that received, viewed, or interacted with ads. ironSource Mobile’s privacy policy is available at:
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Unity Technologies SF
+: This Mobile Application enables Unity Technologies SF (“
+Unity Ads
+”) to collect user’s Device/Network ID and information regarding the delivery of ads and user’s interactions with ads. All information collected by Unity Ads may be shared with ad publishers and attribution companies, even if a user does not click or tap an ad or does not watch an entire ad. Unity Ads may utilize information it collects from users of this Mobile Application to place personalized ads in BNEA’s Mobile Applications and elsewhere and to permit other parties (such as publishers and attribution companies) to learn about the devices that received, viewed, or interacted with ads. Unity Ads privacy policy is available at:
+https://unity3d.com/legal/privacy-policy
+Third Party Ad Service Providers for
+users under thirteen (13) (or other age as required by local law)
+and who collect information for use solely to support the internal operations of the Mobile Application:
+Google
+: This Mobile Application enables Google to serve and display non-targeted “contextual” advertisements that are designed specifically for younger audiences.
+Unity Technologies SF
+: This Mobile Application enables Unity Ads to serve and display non-targeted “contextual” advertisements that are designed specifically for younger audiences.
+SuperAwesome Trading Limited
+: The Mobile Application may display contextual advertisements served by SuperAwesome Trading Limited (“
+SuperAwesome
+”) through its platform known as ‘AwesomeAds’, which is designed specifically for younger audiences, including those aged under the age of digital consent.
+SuperAwesome receives limited information from your device to create a “Marker” that is a temporary, unique, one-way hashed value that cannot be reverse engineered to identify a living individual. The Marker is used to deliver Ads without SuperAwesome or any third party storing other personal data of users, and to ensure a user does not receive the exact same contextual ad again and again. SuperAwesome may also retain a truncated and anonymized portion of the IP address to identify the general region of users without identifying any actual location.
+AwesomeAds is:
+certified as COPPA-compliant by the kidSAFE Seal Program, an FTC-Approved COPPA Safe Harbor Program.  To learn more about the kidSAFE Seal Program, please go to
+www.kidsafeseal.com
+for more information;
+a valid licensee, and participating member, of the Entertainment Software Rating Board’s Privacy Certified Program. To learn more about this program, please go to
+https://www.esrb.org/privacy-certified-seals
+;
+a participant of the CARU® COPPA Safe Harbor Program. To learn more about this program, please go to
+https://bbbprograms
+.org/programs/all-programs/children’s-advertising-review-unit.
+SuperAwesome acts as a service provider, as defined by the California Privacy Laws, and does not use data collected from children under the age of 16 for any purpose other than to provide contextual advertising for our Mobile Application.
+Please see the AwesomeAds Privacy Policy for more information. You may contact SuperAwesome directly at
+privacy@superawesome.com
+.

@@ -1,0 +1,51 @@
+MiniTruco Privacy Policy - chester's blog
+chester's blog
+technology, travel, comics, books, math, web, software and random thoughts
+RSS
+Archives
+8-Bit
+Etcetera
+MiniTruco Privacy Policy
+MiniTruco Privacy Policy
+TL;DR
+I don’t collect data. Heck, I don’t even have a server these days!
+For some oddball reason, Google Play requires me to state a privacy policy, even though miniTruco doesn’t collect any data. So here it is. Nothing. Nada.
+The app doesn’t even connect to the internet (its oldest Java incarnation used to, but I never bothered to migrate that, and I won’t until I deal with the other more important things I have to implement).
+About Me
+Hi! My name is Carlos, but people often call me Chester. I enjoy making people happy by creating/fixing software and tinkering with things 😊
+For professional info, please check my
+LinkedIn profile
+and
+SlideShare presentations
+. Better yet: go straight to the
+code on GitHub
+.
+You can also
+follow me on Twitter
+, view my
+photos on Flickr
+, get an
+RSS feed
+of this blog, or just continue reading. Up to you, have fun!
+Recent Projects
+Status updating...
+@chesterbr
+on GitHub
+Recent Posts
+Unlocking a dumb electric lock via Home Assistant (+ ESPHome + ESP8266)
+Making an old-school doorbell "ring" on Telegram (via Home Assistant + ESPHome + ESP8266)
+Got an NFC/RFID chip implanted in my hand
+Atari 2600 on a breadboard, part VI: fixing the video, adding a joystick and wrapping up
+Atari 2600 on a breadboard, part V: RIOT and Audio (and running actual games!)
+Content
+cc-by
+Chester (Carlos Duarte do Nascimento).
+ Title illustration ©
+Ila Fox
+-
+Powered by
+GitHub Pages
+and
+Jekyll
+. Styles from
+Octopress

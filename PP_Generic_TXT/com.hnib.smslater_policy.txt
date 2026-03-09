@@ -1,0 +1,34 @@
+Privacy Policy – Do It Later
+Skip to content
+Home
+FAQs
+Help Center
+Privacy Policy for Auto Text
+We fully respects your privacy and will never collect, use or share your private data to any third party via any mechanism.
+For backup & restore feature, we use Google Drive API with a high security option to store your data on
+your Google Drive storage
+. No one can access the backup file except the app which created it. All your data are absolutely safe.
+App Permissions
+READ_SMS – Allows the app to read SMS details
+RECEIVE_SMS – Allows the app to receive SMS.
+SEND_SMS – Allows the app to send SMS.
+READ_CALL_LOG – Allows the app to detect and read phone calls.
+READ_CONTACTS – Allows the app to pick recipients from your contact list.
+SMS and Call logs permissions
+: Auto Text does not send any SMS messages, anywhere, unless it is configured by the user. Auto Text uses SMS & Call logs Permissions to send automated SMS messages on the user’s behalf, and it will be only used for this purpose. No user data is ever collected or shared through this permission.
+Accessibility Service
+: Auto Text uses Android Accessibility Services to send automated WhatsApp/Telegram messages on the user’s behalf, and it will be only used for this purpose. No user data is ever collected or shared through this permission.
+Contact permission
+: Possibility to easily select and add contacts within the app (No data will be collected or shared).
+Notification access
+: Reads notifications in order to reply to them (No data will be collected or shared).
+Location permission
+: Auto Text needs to use your location in the background to be able to perform various location related automations. For example, you can set up an auto-reply task include your current location whenever you receive a new text or missed calls. Auto Text fully respects your privacy and will never collect or store your current location or location history in any form. Auto Text will never share your current location or any historical location to any third party via any mechanism.
+Send Email
+(Gmail)
+: Auto Text can make use of your Google Gmail account (if granted access) to send emails on your behalf via the email scheduled functional. Auto Text will never use this access to send emails other than those configured by the user (creating an email scheduled). Aside from the usage described, Auto Text will not access, store or share any Google user data or account information.
+If you have any questions about this Privacy Policy, please contact us at
+kant@doitlater.co
+Home
+FAQs
+Help Center

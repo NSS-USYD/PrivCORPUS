@@ -1,0 +1,265 @@
+MACHAPP Software Ltd
+MACHAPP Software Ltd Privacy Policy
+Last updated on April 27th, 2023 (version 1.08)
+This Privacy Policy, along with our
+Terms
+                                of Service
+explains how we collect and handle your information across all of
+                            our websites, mobile apps and other services. We may review this policy from
+                            time to time and make sure that it is up-to-date. In case we make changes to the
+                            policy we will post the latest version here.
+1. Introduction
+We at MACHAPP Software Ltd, a company
+                                registered in Cyprus with company registration number HE344069 and its
+                                registered office at Avenue Georgiou Neofytou 8, AGATE House, #201, 4006.
+                                Limassol, take the protection of your personal data very seriously and nothing
+                                matters more to us than your trust.
+We have redesigned this Privacy Policy to help you understand what data we and
+                                our trusted partners collect, why we collect it and what we do with it. Please
+                                take your time and read this document carefully.
+In the rest of this document we will be using the following terms:
+"Company", "MACHAPP", "us", "we" or "our"
+referring to MACHAPP Software Ltd
+"App", "Apps", "Products" or "Software"
+referring to the Company's software
+                                        available on the
+Google Play™
+                                            store website
+"Service", "Services"
+referring to the Company's services (such as software
+                                        development service, email support, etc)
+"You"
+referring to you, as a user of our Site, Services or Apps
+"Partners"
+referring to 3rd party services that we use to provide you with
+                                        our services - for a complete listing of our Partners and their Privacy Policies see
+                                        the Our Partners section
+Bliss Community
+referring to the group of users that have joined the community feature on the
+Bliss
+application.
+This Privacy Policy applies when you use any of the Apps and should be
+                                read together with our End User License Agreement
+EULA.
+By choosing to use our Apps or Services you agree to the collection of
+                                information as described in this Privacy Policy.
+Please note that the terms used in this Privacy Policy have the same meanings as
+                                in our End User License Agreement, unless otherwise defined in this Privacy
+                                Policy.
+2. Information we collect and use
+When you interact with our Apps, our trusted partners may collect information
+                                about your device. The process of collecting data is designed so that it avoids
+                                collection of information that identifies you personally, such as your name,
+                                address, email address or similar; instead, the information collected does
+                                enable us and our partners to recognize your device over time for purposes of
+                                improving the quality of our products and your experience with them.
+As a general rule, we do not collect or share any information that may be used
+                                to identify you as a person except when you contact us by email. In that case we
+                                will save your emails in order to serve you better. Once we are finished
+                                providing support to you we will delete all emails received by and sent to you.
+                                Please note that we take all the necessary steps to safeguard any personal
+                                information you may provide by email using strong passwords and 2-step
+                                authentication.
+Information that is collected by our partners may be divided into the following
+                                categories.
+A. Information for showing personalized ads
+Note: This section (Section A) applies only to Apps that display ads. 
+                                It does not apply to the following:
+1. Apps that do not display ads
+2. Pro (Ad-free) Apps that are available with a one-time purchase
+3. Apps that have been upgraded to Premium via a paid subscription and do not display ads
+In order to provide our Apps to you for free we display ads. To display ads,                                 
+                                we work with our ad partners who may have their SDK/API integrated with our Apps. 
+                                In order to improve user targeting, which is important for 
+                                interest-based ads and marketing solutions relevant to the user, our partners may obtain 
+                                and lawfully use information such as the following:
+a)
+Device and account identifiers
+(Advertising ID, app set ID and other 
+                                identifiers related to accounts that are signed-in on the device)
+b)
+IP address
+(which can be used to estimate the general location of a device)
+c)
+User product interactions and interaction information
+(app launches, taps and video views)
+d)
+Diagnostic information
+(information related to the performance of our Apps and the SDK, 
+                                crash logs, app launch time, hang time and energy usage.
+This information may be shared with their clients for the permitted purposes stated above
+                                (whether within or outside of the country of origin). All such collection permitted
+                                processing and transfer will be in accordance with applicable data privacy laws.
+B. Information for analyzing application performance issues and crashes
+In order to improve our Apps, we use third party services (our analytics
+                                partners) to collect and analyze error and performance issues. The information
+                                collected in the case of an error is divided into two categories.
+Device/hardware information which includes information such as device model,
+                                        screen information, total memory, internal and external storage, device language,
+                                        and Android version
+Error or performance related information, which includes error description,
+                                        time that the error occurred, stack trace (a detailed error report), free
+                                        memory and free disk space at the time of the error, etc.
+This data helps us analyze and correct performance issues and errors
+                                and improve your experience with our Apps.
+C. Information for improving our services
+When you use our Apps, we use our analytics partners to collect usage statistics
+                                and trends. The reason we collect this information is so that we can improve
+                                your experience with our Apps by improving existing functionality and adding new
+                                functionality.
+The information that we collect in this case includes information that is
+                                collected in section B above as well as usage statistics. Usage statistics
+                                include information on how often a user opens a specific page inside the app,
+                                icons and themes used, widgets used, etc.
+Note that none of this information collected in Sections A, B and C can be used
+                                to identify you as an individual.
+D. Account information
+Note: This information applies only to users of our
+Bliss
+application in the case that they choose to join the Bliss Community.
+When you join the Bliss Community we will store the following information on our 
+                                secure servers:
+a) The automatically generated username or the one that you provide at the time of registration
+b) A unique identifier (an automatically generated alphanumeric string) that is used to identify your account
+c) The mixes you have created with our app at the time of joining the Bliss Community
+d) Any mixes you create after you have joined the Bliss Community.
+e) Aggregated statistics about app usage (this is aggregated and anonymous, i.e., not linked to a user's account)
+Note that all mixes that you create (or have created) using our app will be shared with the 
+                                rest of the members of the community once you join the Bliss Community.
+We save the above information so that we can perform the following actions:
+a) Enable all members of the Bliss Community to have access to the mixes that each of the members shares.
+b) Backup the mixes you create and restore them in case you lose them, uninstall and reinstall the 
+                                application or install the application on another device.
+c) Display mixes that are popular among the Bliss Community.
+d) Improve the user experience with our app and services.
+Joining the Bliss Community/Signing-in
+You can join (sign-in to) the Bliss Community using any of the following ways:
+a) Using an existing Google account
+b) Using an existing Facebook account
+c) Using an existing email address to create a new account with us
+Note that no matter the method you use to join the Bliss Community, the data we collect and the way we use it is always the same.
+Logging out and deleting the account
+You can log out of the community from settings,
+Sign-out
+. 
+                                You can also terminate your account and delete all associated data (user name, unique identifier and mixes that you have shared 
+                                on the community) from Settings,
+Delete account
+.
+3. Creating an account with us
+Note: This section applies to users of the
+Bliss
+app.
+When using the
+Bliss
+application you can create an account to join the Bliss Community. If you do that, you agree to the following:
+1. You are responsible for the confidentiality of your credentials (user name and password)
+2. You are responsible for any activity resulting from the use of your account
+3. You will make reasonable efforts to protect access to your account and prevent unauthorized access and use of our Bliss Community services
+4. You may not share your account and password with 3rd parties
+5. You may not allow third parties to use your account
+6. You are responsible for using and safeguarding your device, our Apps, and connected data in a reasonable manner
+7. You are solely responsible for any activities that occur under your account and for any actions taken as a result of such activities
+8. In the case that you become aware of unauthorized use of your account you will notify us immediately
+4. Our Ad partners
+We use the following partners in order to serve ads to you. Make sure to click
+                                on each of the following services and review their Privacy Policy.
+Google LLC
+Meta Audience Network (Facebook)
+Amazon Publisher Services
+My.Com B.V.
+Yandex LLC
+Aarki
+Triple Lift Inc
+Liftoff Inc
+Smaato Inc
+AppLovin Corporation
+Liftoff Mobile Inc
+(Vidopia Inc) DBA Chocolate
+Fluct
+Index Exchange
+Inmobi
+Media.Net Advertising FZ-LLC
+Mobfox US LLC
+OneTag Limited
+OpenX
+PubMatic
+Rubicon Holdings, LLC
+Equativ
+TripleLift
+Unruly, LLC
+For a complete list of our ad-partners click
+here
+.
+4. Our Analytics partners
+We use the following partners to collect error and performance information,
+                                identify issues in our Apps, analyze our traffic and usage trends and improve
+                                our services to you.
+Google Play
+                                            Services
+Firebase
+                                            Analytics
+Crashlytics
+In order to provide the above information, our partners may obtain and lawfully use information such as the following:
+a)
+Crashlytics Installation UUIDs, Crash traces, Breakpad minidump formatted data
+(to provide crash-related information)
+b)
+Firebase installation IDs
+(to help Firebase In-app messaging determine which devices to deliver a message, associate predictions with a project, deliver configuration values to end-user devices and more)
+c)
+Mobile ad IDs, IDFVs/Android IDs, Firebase installation IDs, Analytics App Instance IDs
+(to provide analytics and attribution information)
+d)
+Firebase user agent
+(used internally by Google to determine platform and version adoption in order to provide and improve Firebase services)
+5. Children's Privacy
+Our Services are directed to people over 13 years of age (or over 16 years if
+                                located in Russia). If you are a person not over 13 years old (or 16 if you are
+                                located in Russia) please talk to your parent or guardian before using our
+                                Services.
+6. Opting out
+On Android devices you can turn on/off the location service API from device
+                                settings, Location (note that the path may be different on different devices).
+To prevent ad partners from using your device's ad identifier being used for
+                                interest-based advertising you can change the relevant settings on your device.
+                                Please see
+optout.networkadvertising.org
+for details
+If you live in the USA, Europe or Canada, you can also opt-out from the
+                                collection of your information by some or all of our advertising partners who
+                                participate in the Digital Advertising Alliance by visiting
+www.aboutads.info/choices
+(for US users),
+youronlinechoices.com
+(for European
+                                users) or
+youradchoices.ca/choices
+(for Canadian users).
+If you have any questions regarding the collection of data you can contact our
+                                ad partners and analytics partners directly - see sections 3 and 4 above.
+7. Changes to this Privacy Policy
+We may update our Privacy Policy from time to time, therefore you are advised to
+                                review this page periodically for changes. We will notify you of any changes by
+                                posting the new Privacy Policy on this page. These changes are effective
+                                immediately after they are posted on this page.
+In case our practices regarding previously collected information change in a way
+                                that would be materially less restrictive than stated in the version of this
+                                Privacy Policy in effect at the time we collected the information, then we will
+                                make reasonable efforts to provide notice and obtain consent prior to any such
+                                uses as may be required by law.
+If you have any questions, would like to exercise your rights or provide
+                                suggestions for improving our Privacy Policy or Services please feel free to
+                                contact us at:
+MACHAPP Software Ltd
+8 Avenue Georgiou Neofytou
+AGATE House #201
+Limassol 4006, Cyprus
+Contact us by email
+Facebook
+Twitter
+Google+
+Blogger
+Instagram
+Our Android apps on Google Play
+© 2015-2020 MACHAPP Software Ltd

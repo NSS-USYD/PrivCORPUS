@@ -1,0 +1,79 @@
+Happy Pet Story Data Privacy Policy
+Happy Pet Story Data Privacy Policy
+Last Updated: 2 Aug, 2019
+NOTICE
+This Data Privacy Policy (â€œPolicyâ€) sets out how Happy Labs Pte Ltd (â€œHappy Labsâ€, â€œweâ€, â€œusâ€, â€œourâ€) uses, shares and protects any information that we collect from users of all ages, some of who may be under the age of 13 or 18  (â€œUsersâ€, â€œyouâ€, â€œyourâ€, â€œchildâ€, â€œchildrenâ€), when you use the games, online services, and websites that we operate (collectively, â€œServicesâ€).
+Happy Labs developed our games to be enjoyed by people of all ages. We are committed to providing a safe environment for our Users. If your child is below the stipulated age, please discuss this Policy with them so that they will better understand how to use the Services and how to protect their own Privacy. For any questions or feedback, contact us with the contact information provided at the end.
+Happy Labs is committed to comply with the
+Childrenâ€™s Online Privacy Protection Act (â€œCOPPAâ€)
+.
+This Policy only applies to the Services described. Please note that separate privacy policies may apply to third-party services you use to access our content. We strongly encourage you to familiarize yourself not only with this Privacy Policy, but any other privacy policies, data policies or agreements that may impact your use of our Services.
+Should we request for personally-identifiable information when using our Services, be assured that it will only be used in accordance with this Privacy Policy. Otherwise, all information collected are non-identifying, non-personal and aggregated. In addition, we do not require our users to provide more information than is necessary to use our Services.
+Happy Labs may periodically update this Privacy Policy. You are advised to check this page periodically to ensure that you understand the way we work.
+The information we do not collect
+We are committed to ensuring that the privacy of our Users are protected. When you download and use our Services, we do not collect information that, on its own, directly and personally identifies you or your child.
+The information we do collect
+The information that we do collect is detailed as follows.
+Storing of your Game Data and Progress with Amazon S3 and DynamoDB
+This Service saves your game data in our server. Your game data includes information such as game ID, game name, avatar used, number of seconds played, language used, level, the layout and buildings youâ€™ve built, device model, number of coins, diamonds, whether you have made any purchase, ban status, date created, date last played, and your gameâ€™s secure status, if any. These information are not persistent identifiers and are collected for internal purposes only, for example, to support critical features in the game, to improve and support our Services from customer support perspective, or to conduct non-identifying and aggregated analysis for improving our Services.
+Please note that any usage data gathered is also subject to the
+AWS Data Policy
+.
+If you do not wish for your game to be saved, you may play the game in offline mode by restricting access to the internet in your device Settings. Please note that this will disable some features that require access to the internet. We also advise users not to provide their personal information in their game name.
+For Users who have informed us that they are not under 13 (COPPA) or 18 (GDPR), they may enjoy other Services that we provide. Sometimes, we may need to collect information. This includes:
+Securing and Restoring of Game Account. While utilising our Services, you may be prompted to secure your game progress with a Facebook account or an email address. This is to allow users to restore their game progress in the unfortunate event that it is lost, for example, uninstallation, loss or change of devices, and crash of phone or game. When you give authorisation to secure your game with Facebook or email address, we will not send you any unsolicited marketing messages unless you have separately opt-ed in to our newsletter, and we do not have access to post on your Facebook account on your behalf. You can choose not to secure your game account with Facebook or email address. This is in accordance with COPPA to support the internal operation of authenticating users. In addition, your email address or Facebook ID will not be shared with any third party for any third party operations.
+Sharing. Sharing of in-game achievements with Share Extensions provided by platform, namely
+iOS Sharing Extensions
+and
+Android Share Action
+(â€œSharing Extensionâ€). While we provide options for Users to share their achievements and progress, please note that it is at your discretion to decide what information to share, to whom, on which platform and whether publicly or privately. Specifically, if your social media platforms are installed on your device, the platforms might appear on the apps in the Sharing Extensions context menu. Whichever option you choose to share to, a pre-written message is composed for your convenience. The message may or may not include the following information: a casual message inviting others to play the game with you, a screenshot, your ID, our gameâ€™s name, download link, or a link to our social media account. Such pre-written message can be edited or removed by you. You may choose to cancel or not use the features of any Sharing Extension. If you use the Sharing extension to share content to your Social Media, please be informed that any usage data gathered is subject to the respective platforms' policies. Any information you choose to share to recipients via Social Media can become accessible to others on the internet, and remember that you can choose the audience for your post.â€‹ To learn more, visit the individual platform policies of your choice:
+Facebook
+,
+Instagram
+,
+Twitter
+Customer Engagement, Communication Services and Customer Support
+We use communication services on Social Media platforms, including but not limited to Facebook, Instagram and Twitter, to improve our relationship with you. When you contact us on our online social platforms, reply to our public posts, tag us in your posts, or send a message directly to us via Message or Direct Message, we will receive the name of the account that you used to interact with us and the context of your message. When you interact with us and other players on our official Facebook community group, we will also know the account used to carry out the interaction and the context of your message. We will not initiate direct conversations with any customer unless it is in answer to a question about our Services.
+List of our official social media accounts:
+https://www.facebook.com/sophia.hs.263
+https://www.facebook.com/MagicSchoolStory/
+https://www.facebook.com/HappyTennisTV/
+https://www.facebook.com/Puchi2Pop/
+https://www.facebook.com/torikopuzzlefightinggame/
+https://www.facebook.com/HappyPetProject/
+https://www.facebook.com/footballrush2014/
+https://www.facebook.com/HappyMallStory/
+https://www.facebook.com/happyhappylabs/
+https://www.facebook.com/RestaurantParadiseApp/
+https://twitter.com/happyhappylabs
+https://www.instagram.com/happylabsgames/
+https://www.instagram.com/happypetstory/
+When you send an email to our Support channels using your email address, apart from the content of the message, we will receive the name, profile picture and email address of the account that you used to contact us with. If it is made known to us that personal information of a child has been collected by us, we will fulfill the Service request and delete the information immediately thereafter. In addition, emails sent as Service requests will not be subject to any marketing communication.
+In order to assist you with your Support enquiry, we will sometimes request for more information about your game, as described in Game Data, to verify that you are the actual owner of the account.
+Our list of official email addresses:
+support[at]happylabsfree[dot]com
+isabelle[at]happylabsfree[dot]com
+pierre[at]happylabsfree[dotcom
+mojo[at]happylabsfree[dot]com
+ashley[at]happylabsfree[dot]com
+Third Party Disclosure
+If required by law, we may disclose personal information to the relevant authorities.
+Notifications
+Notifications are pre-set messages which can be sent by our game to communicate with the user when it is not in use. If you have indicated that you are not under 13 (COPPA) or 18 (GDPR), we may request for your permission to send you notifications. Such messages may include news that are relevant to the progress of the game, for example, fruits that can be harvested from trees, or shops which have restocked, or a soft reminder to come back and play the game.
+Child-Friendly Mode
+To further protect the privacy of your child, we introduce Child-Friendly Mode. In this mode, all online social and sharing features are disabled, allowing a safe and controlled environment for your child to explore at their own pace. As a parent or guardian, you can toggle Child-Friendly mode on or off by accessing Parental Controls or Settings after answering a mathematical equation. In Child-Friendly mode, the following features are disabled.
+Discovering, adding, visiting, following of other players or being visited or followed by other players
+Random pets made by other players appearing in your town
+Leaderboard
+Editing of room names
+Social rewards
+Display of game ID
+Saving and securing of Game Data using Facebook or Email address
+Some furnitures and costume sets that may not be age appropriate
+Notifications from the game
+If you are accompanying your child whilst using our Services, you can choose to toggle off Child-Friendly mode and guide your child through the Online experience.
+Right to access and delete data
+You have all rights to access, edit or and delete you or your childâ€™s data. To contact us with any queries or instructions about your data, please contact us at
+support[at]happylabsfree[dot]com
+266 Serangoon Central Drive #04-253 Singapore 550266
+To edit or delete your account and data, please note that we will request for more information about the account to verify that you are the rightful owner of the account, before commencing the edit or the deletion.

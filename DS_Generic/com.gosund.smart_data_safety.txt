@@ -1,0 +1,28 @@
+<d_prac>          No data shared with third parties         
+<d_detl>          The developer says that this app doesn't share user data with other companies or organisations.                     Learn more                    about how developers declare sharing.         
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Personal info                
+<d_attr>               User IDs                          · Optional            
+<d_valu>             App functionality, Analytics, Account management            
+<d_attr>               Phone number                          · Optional            
+<d_valu>             App functionality, Analytics, Account management            
+<d_attr>               Other info                          · Optional            
+<d_valu>             App functionality, Analytics            
+<d_cata>                 Photos and videos                
+<d_attr>               Photos                          · Optional            
+<d_valu>             App functionality, Analytics            
+<d_cata>                 App activity                
+<d_attr>               Installed apps                          · Optional            
+<d_valu>             App functionality, Analytics            
+<d_cata>                 App info and performance                
+<d_attr>               Other app performance data                          · Optional            
+<d_valu>             App functionality, Analytics            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs                          · Optional            
+<d_valu>             App functionality, Analytics            
+<d_prac>          Security practices         
+<s_cata>             Data isn’t encrypted            
+<s_attr>             Your data isn’t transferred over a secure connection            
+<s_cata>             You can request that data be deleted            
+<s_attr>             The developer provides a way for you to request that your data be deleted            

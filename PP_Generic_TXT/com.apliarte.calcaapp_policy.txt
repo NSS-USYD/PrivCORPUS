@@ -1,0 +1,100 @@
+MyAppTerms
+Menu
+Select language
+English
+Spanish
+Options
+Download
+PRIVACY POLICY (Calca App)
+Version 3.0  |  May 5
+th
+, 2021
+What does this document contain?
+For the proper functioning of this app, it is necessary to collect and process certain information obtained from the device where it has been installed. This information enables us to improve the app, to optimally tailor the content to each user, or to contact the user if necessary. In order to make our concern for our users’ privacy clear, we have adopted this Privacy Policy which explains in a simple and comprehensible language the manner in which we collect, store, use and disclose the information users entrust us with.
+These Privacy Policies attempt to cover the widest possible range of scenarios, including many cases in which the app does not even collect nor process the information described within these Privacy Policies.
+1. What information does the app collect?
+This application collects the necessary information for the normal functioning of our business. Under no circumstance do we collect personal information with malicious intentions.
+The app does not collect your name, last name, email, phone number, etc., unless you are asked to enter that information intentionally.
+We may combine this information with other information about you collected from other sources (e.g. apps or websites).
+2. What information does this privacy policy cover?
+The App may collect two types of information: (1) non-personal, anonymous information collected automatically, or (2) personally identifiable information (PII) collected manually after receiving the user’s consent.
+Non-personal information collected automatically
+Technical information, which includes certain information or characteristics regarding the operating system, including the type of ISP or the type of browser used, the Internet Protocol (IP), the IP address and the names and versions of the applications installed on the device, as well as the geographical location of the device (including GPS coordinates). Technical information such as the foregoing stays anonymous; in other words, it does not personally identify you or is stored together with any other information that may link it to the user itself, except when the user submits additional information voluntarily.
+This information shall be used to improve the application, learning how, when and where the user browses on it.
+Information freely provided by the user
+If at any moment the app were to request Personally Identifiable Information (PII) that would allow us to contact him, such as his name or mobile phone number, the user shall be free to provide such information. However:
+If you share your PII over an open format (for example, over social networks), the information we obtained will not be protected by this privacy policy.
+The PII will not include any type of information collected by the application by any means other than this application which contains the privacy policy. This means that the information collected anyplace else other than on this application will not be protected by this Privacy Policy. It is worth noting that, in any case the app were to offer links to other applications, we shall not be liable for the content, activity or information contained therein.
+The following shall be considered Personal Information:
+Demographic information such as age or birthdate, nationality, educational level, sex, interests or characteristics.
+User information such as the username or password, confidential replies to certain security questions, or similar information that enables us to uniquely identify your account or authenticate it before providing personal information about the user account.
+Most of these data may be obtained when the app offers a social login functionality, and the user accepts such a login in the app by using a social account. In some cases, the app automatically logs into the user’s social account associated with the device, and the user accepts to perform such a login by using this app.
+3. What happens with the information we collect from minors?
+This application does not collect personal information from children under 13 years old. We take the privacy of minors seriously, and encourage the parents to play an active role in their children’s online education at all times. Children under 13 should not install our application on any device of their belonging, and if they do, it will be under the full responsibility of their parents or guardians. In case we obtain personal information from a child under 13 years old, we shall take measures to erase the information supplied from our server. In case the content of this application has been rated as suitable for children under 13, it should be installed exclusively on devices belonging to the parents, guardians, or any other person over 13 years old. If the application were to request personal information at any time, children under 13 should never enter such information.
+4. How do we collect personal information?
+We collect personally identifiable information (PII), demographic information and user information from our users when they:
+Sign up to our application.
+Participate in surveys, studies or questionnaires.
+Participate in offers or promotions.
+In addition to the aforementioned information, we use cookies to collect user information when they visit our application. Cookies are information that a website or application sends to the device while browsing the application. For example, when you decide to return to our application after signing up, cookies provide us information so that our server remembers who you are. You are offered the opportunity to accept or reject cookies depending on the configuration of your device through the configuration options. If you reject receiving, or decide to delete the cookies, access to certain services may not work properly.
+5. How do we use the information you provide us?
+We use the information we collect on the application as follows:
+Personalize and improve you experience, and enable us to supply you with the type of contents and offers that best suit your interests.
+Deliver, provide and repair products or services.
+Send notices such as welcome letters, purchase confirmations, payment warnings or administrative regulations.
+Create and maintain user accounts and your history.
+Contact you in regards to our products or services and send you the best offers and promotions depending on your interests.
+Study the statistics of our online platform.
+Inform our customer service employees.
+Create your online account and authenticate it during your user login.
+Swiftly process your information requests.
+Enable us to efficiently reply to your inquiries.
+Analyse a promotion or survey.
+Send you promotional material.
+Enable us to share the information with third party companies under the terms set forth by these privacy policies and with the purposes described in the foregoing items, as permitted by the law.
+6. Who do we share the information with?
+This application may monetize your information (in some cases), by giving it up to third parties in the following situations:
+When the app is monetized via advertisements, advertisement networks and/or the advertisers provide advertisements that may require certain user or device information from the user in order to offer the most appropriate advertisement, or that which may interest him the most. This app can be monitized through these ad networks: Google or Mobincube, which mediates with these other networks Startapp, Airpush, Tappx, Facebook, Amazon, Google o Docomo, and some others.
+When we employ independent advertisement networks to display our application’s advertising banner when visiting third party websites. In order to make it more efficient, the advertisement network may use and incorporate into your device certain technology, such as cookies, in order to collect non-personal information from you when you visit our application. This information is used to display advertisements involving goods and services that best suit your interests when visiting other websites.
+We often evaluate (sometimes with the assistance of outsourced companies) how our online content and services are performing. The information disclosed for this purpose will remain at the company’s server and will be limited to use for professional purposes. Under no circumstance the PII or the user information shall be shared except for the purposes mentioned above.
+When disclosure of information is required by law, or is targeted at protecting application security, this application has the right to disclose any information collected, no matter when such information was collected. We will just perform such an information disclosure when permitted or required by law, or when we consider there are motives that are in good faith: (I) in order to protect your security, even that of your property, (ii) to protect the security of your applications or third parties, and (iii) to enforce the terms of use, updates or promotions.
+To opt-out of third party cookies, please go to
+http://www.aboutads.info/choices
+or Your Online Choices at
+http://www.youronlinechoices.com/uk/
+.  To opt-out of the use of your mobile device ID for targeted advertising, please see
+http://www.aboutads.info/appchoices
+.
+7.  Will there be third parties who collect information from your applications?
+There are certain situations where a third party may collect information about the application. This app uses third-party libraries that offer certain features: analysis tools, communication tools, social networks, advertisers, etc.
+Analysis tools: in order to improve the application, we sometimes use tools that analyse the behaviour of users. In this way, we can better learn which parts of the application are more important and which need to be improved.
+Communication tools: in case we need to communicate with users at any time, we integrate third-party tools that provide such a communication, whether via push notifications, e-mails, in-app alerts, etc.
+Social networks: if your app connects to any social network at any time, it will request your authorization. Once the connection has been authorized, the social network shall be able to access certain information.
+Advertising networks: in case this app were to show advertisements, they normally originate from advertising networks that connect with the advertisers. These networks need certain information in order to offer the most appropriate ad to you.
+This application reserves the right to provide certain user information to companies who collaborate with us, or to software developers who provide some app feature. We provide this type of access to such companies with the purpose of generating interest in our products among the members with whom we have some form of agreement, so as to be able to offer the kind of product we offer to you and your friends. The information collected by us shall be treated as per the terms of this Privacy Policy, but the use of the information by a third party shall be treated as per their own standards. This application does not guarantee that the other party complies with its security policy.
+8. What kind of security measures do we take to safeguard your personal information?
+Safety and confidentiality of your information are extremely important for us. Therefore, we have technical, administrative and physical security measures with the purpose of protecting your personal information against unauthorized access and fraudulent use. We also periodically revise our security system in order to incorporate technological novelties and updating methods. However, in spite of our efforts, no security measure is completely perfect or infallible.
+You can also play an important role in keeping your information stored securely. If you are requested to create a unique password in order to restrict access to your account, choose a password that is difficult to find out by other users, and be careful not to disclose it to anyone. It is your responsibility to keep your password and account information at all times. If you use a public or shared mobile device, never opt to save your user and always close your account’s session once you no longer use the device.
+Lastly, in regards to the companies that have an agreement in place with this application, we require them to accept to protect our confidentiality, integrity and security terms over any personal information we disclose to them. When your personal information is disclosed or simultaneously collected by a third party as mentioned above, it will either be obvious to you considering the context (such as the appearance of a third party on the phone’s screen), or you will be notified when the personal information is requested. Furthermore, you will be given the opportunity to accept or decline these kinds of practices before they begin. As set forth in section 3 of this Privacy Policy, we do not collect personal information of minor children under 13 years old, and we inform them that under no circumstance should they use our tool. In this manner, this application shall not disclose information collected from children under 13 to any company that has signed a collaboration agreement.
+In case we detected that some of our technological partners endangered your integrity or used your information to perform any illegal action, we shall take the proper measures to sever the relationship with such a provider.
+9. How can you make an inquiry or send us comments about our privacy policy?
+If you have any sort of inquiry or wish to contact us in order to clarify any matter, please send us an e-mail at the developer’s address, which you will find at the website where you downloaded this app.
+10. How will you know if we modify our Privacy Policies?
+This application reserves the right to modify this privacy policy at any time, even though such a revision is not commonplace. Any policy change will usually be accompanied by an update in the application’s version. At the beginning of these policies you can find the version number and the date when they have been revised. In case we carry out a material change in the way we collect, use or share personal information, we shall add such changes to a new version of these policies.
+11. Clarification regarding the use of the Android Advertisement ID (AAID)
+Version 4.0 of Google Play services has introduced new APIs and an identifier code (ID) that analysis and advertisement providers may use. The terms of use of these APIs and this ID are detailed below:
+Use.
+The advertising identifier  is used for advertising and user analysis purposes. The state of the option to  disable advertisement based on user interests
+must be checked in each access to the ID.
+Association with personally identifiable information or other identifiers.
+The advertising identifier is not connected to personally identifiable information or associated with any persistent device identifier (for example, SSAID, MAC address or IMEI) without explicit consent of the user.
+Respecting users' selections.
+After reset, a new advertising identifier is not connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user. Additionally, an option to disable advertisement based on user interests is offered. If a user has enabled this setting, the advertising identifier for creating user profiles for advertising purposes or for targeting users with interest-based advertising is not used. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and fraud detection and security.
+Abiding by the terms of use.
+The advertising identifier may only be used in accordance with these terms, including the use by any party that you may share it with during your business activities. Beginning August 1
+st
+, 2014, all updates and new applications uploaded to the Play Store must use the advertising ID (when available on a device) in lieu of any other device identifier with advertising purposes.
+12. Clarification regarding the access to the phone number
+This app was not developed with the purpose of obtaining the phone number on your device, so it doesn't include any functionality that accesses your phone number. The app has been built using the development engine Mobincube, which doesn't include any line of code that grants access to the phone number.
+However, the app includes some SDKs from 3rd parties. For example, those used to monetize the app with advertisement. We don't have access to the source code of those SDKs, while they could be accessing and collecting the phone number. In case we detected that any of those ad networks could be accessing and collecting your phone number, we would remove that SDK and publish a new version of the app, in order to protect your privacy.
+© myappterms.com. All rights reserved

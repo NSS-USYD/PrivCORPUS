@@ -1,0 +1,5 @@
+Timestamp Camera
+This is the privacy policy for the Yubin Chen android&iOS&Mac app
+â— This app does not store/collect/send/manage any personal data of any kind. All materials created with this app are solely yours (the user).
+â— The Location permission is required by the EXIF GEO Tag feature within this app. This feature allows you (the user) to store into the EXIF tag of the photos the location where these were taken. This app does not store/collect/send/manage this data.
+â— When manually requested by you (the user), This app sends the selected media by you (the user) from the device to a desired destination also selected by you (the user), such as email, social media, a different app, or other targets selected by you (the user). Under this operation this app also does not store/collect/send/manage any personal data of any kind.

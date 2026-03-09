@@ -1,0 +1,79 @@
+Privacy policy
+Privacy policy
+This Privacy Policy describes how we collect, use, and share your personal data when you use the application
+Traffic Monitor
+and how we use personal data collected through this app. It is intended to inform you about our privacy practices and the underlying data collection purposes and further processing of personal data.
+Traffic Monitor
+collects statistics and measurements to determine the quality, utilization, speed, and stability of cellular and WiFi networks and services.
+What information we collect
+Coverage, connectivity and data usage
+Information about network connectivity and quality for phone calls, internet and data services as experienced by you, as well as statistics about how much your device uses internet services and consumes data, such as:
+The percentage of time your phone is on the network
+Signal strength
+Areas of limited or no service
+Quality of the mobile coverage (2G, 3G, 4G, 5G)
+Call duration
+How the call ends
+Regular tests of whether your device can connect to the internet
+Your upload and download speed
+How long it takes to set up a connection to the internet
+Wi-Fi connection quality and MAC addresses of the Wi-Fi hot spots your device can see, and how congested they are
+Hourly data use
+How much data your phone uses when it's in standby mode
+How much data goes over Wi-Fi connections vs. the mobile network
+Applications
+Statistics about applications on your devices, such as:
+Which apps are installed on your device
+Which apps are started each day and for how long each app is used
+How much data is consumed by each app, how fast each app receives and transmits data and the type and quality of network used for the connection (for example cellular or Wi-Fi and related signal strength)
+Device information
+Technical information about your device, such as:
+Phone brand and model
+Operating system
+Firmware version
+Hardware capabilities
+Language and locale
+Battery state
+Memory consumption
+Time since last reboot
+Location information
+Location data is captured to locate the events listed in
+Coverage, connectivity and data usage
+.
+The app does
+not
+actively request location for those passive measurements. The most recent known location of the device is used.
+As part of the
+Usage Map
+feature the app might actively request location information also if the app is in background.
+All data collected to support this feature is only stored on the device and
+not
+transmitted to the server.
+What information we donâ€™t collect
+We understand that some of the information we collect may be seen as sensitive. Therefore, we have designed the app to reduce the sensitivity of the collected information. For example, we do
+not
+collect information about:
+Numbers you dial or receive calls from
+Sender or receiver information from text messages, emails or internet chat messaging on your device
+Any content of your communications, such as text, email or chat content or your browsing history
+Information about which features of the apps you use or what content you send, receive or otherwise consume through an app
+For how long do you keep my data?
+Detailed information about the quality and use of your connectivity services, location and apps is kept no longer than 14 months after it has been collected.
+Data protection
+We take certain measures to protect personal data collected through
+Traffic Monitor
+against loss, theft, and unauthorized access, use, disclosure, destruction or modification. These include physical, technological and administrative measures. All measured data is anonymized and encrypted by the application before it is securely sent to our server.
+How we use this information (purpose of data collection)
+We share the measured statistics with our partners to help them to continuously improve the quality and performance of their mobile networks and services.
+They use the collected information to diagnose connectivity, coverage or connection quality problems, understand connectivity needs from the usage of mobile data, Wi-Fi and apps, and use such insights to make improvements to their network and services.
+This may include, for example:
+Improving the quality of the network, for example through better understanding about the exact areas with low network performance or areas of high consumption of data
+Helping to deal with performance issues caused by poorly performing devices
+Improving commercial models and offers based on improved understanding of the patterns related to the use of apps and connection quality
+Personal or sensitive data which might be shared with our partners on an anonymized or aggregated level:
+device location during a measurement listed in
+Coverage, connectivity and data usage
+installed applications
+usage of installed apps
+What choices do you have?
+You can disable the collection of any measurements at any time by uninstalling the application.

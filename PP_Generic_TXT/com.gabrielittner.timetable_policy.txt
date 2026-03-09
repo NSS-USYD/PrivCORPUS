@@ -1,0 +1,67 @@
+Privacy Policy | Timetable
+Toggle navigation
+Timetable
+Privacy
+Privacy Policy
+Effective on 2018-05-24
+About us
+Timetable (thereafter "Timetable", "app") is provided by Gabriel Ittner (thereafter "we", "our", "us").
+If you have any questions, concerns or want to make use of your rights please contact
+privacy@timetableapp.net
+.
+Data collection
+Timetable collects usage data and crash information based on legitimate interests in the sense of
+Art. 6 lit. f. GDPR
+to further improve and maintain the app. You can opt-out of the data collection at any time by going in the apps privacy settings.
+Fabric Crashlytics and Fabric Answers are services provided by Google LLC. The data is transferred, processed and stored to the United States of America or other countries in which Google operates and falls under
+Google's Privacy Policy
+. Google LLC is certified under both the
+EU-U.S. and Swiss-U.S. Privacy Shield frameworks
+.
+Fabric Answers
+Helps us to prioritize what we develop next and to identify where the app needs improvements.
+Collected personal data
+a unique installation id
+We have disabled any IP address tracking done by Answers.
+Other collected data
+device info (e.g. model, Android version)
+visited screens inside Timetable
+used Timetable features
+error information
+Answers retains identifier data for 180 days.
+Fabric Crashlytics
+Let's us know that the app crashed and helps to pinpoint the cause.
+Collected personal data
+a unique installation id
+crash traces
+Other collected data
+device info (e.g. model, Android version)
+Crash traces and their associated identifiers are kept for 90 days.
+Your rights
+You have the following rights in regards to your personal data.
+request access to it
+request rectification of it
+request deletion of it
+restrict or object to the processing of it
+withdraw your consent to the processing of it
+to lodge a complaint with a supervisory authority regarding the processing of it
+You also have a right to the portability of your personal data.
+Personal data means any information relating to you. Where you can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to your physical, physiological, genetic, mental, economic, cultural or social identity.
+Changes to this privacy policy
+This privacy policy may change over time as we add new features to Timetable. All changes to this policy will be posted on this site. We will also notify you about major changes directly through our app.
+Follow Timetable
+Twitter
+Medium
+Created by
+Gabriel Ittner
+.
+Impressum
+.
+Privacy policy
+.
+Website based on
+SeriesGuide
+by
+Uwe Trottmann
+.
+Android, Google Play and the Google Play logo are trademarks of Google Inc.

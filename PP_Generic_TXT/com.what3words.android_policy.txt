@@ -1,0 +1,435 @@
+what3words Privacy Policy | what3words
+My account
+Log in
+Language
+English
+v3.5.2
+©
+2023
+what3words Limited
+Privacy
+Terms
+Manage cookies
+AR
+|
+DE
+|
+FR
+|
+EN
+|
+ES
+|
+JP
+|
+KO
+|
+MN
+|
+RU
+|
+VI
+|
+ZH
+what3words Privacy Policy
+(last updated in July 2022)
+In respect of the Processing activities described in this privacy policy (the “
+Policy
+”),
+what3words Limited
+, a company with its registered address at Studio 301 Great Western Studios, 65 Alfred Rd, London, England, W2 5EU, UK (“
+what3words
+”, “
+we
+” or “
+us
+”) is the Controller, unless stated otherwise.
+This Policy is addressed to individuals outside of our organisation with whom we interact, including visitors to our Website, users of our Apps, our business customers and other users of our services (together, “
+you
+”). This Policy details the Personal Data we collect in relation to you and explains how we handle that Personal Data. Defined terms used in this Policy are explained in section 9 below.
+We are committed to protecting your Personal Data. We really do welcome any questions, comments and requests you may have regarding this Policy. You can contact us by emailing us at
+dataprotection@what3words.com
+.
+This Policy contains much more detail, but we wanted to make you aware of the following points:
+We receive data – that can constitute Personal Data under applicable laws – in order to provide our
+online services
+. However, we do not receive any data from usage of our app created for
+emergency services
+(what3words Lite).
+We cannot (and would not) track your movements – we only receive data on squares you open/click on or 3 word addresses that you search for when using our services (so that we can give you the relevant 3 word address or location).
+We also use data to analyse our customer and visitor behaviour
+as a whole
+(and never on an individual level). Like most online service providers, we do this so that we can improve our users’ experience on our website and apps and improve our services.
+We
+do not share any data with third parties
+in order for
+them to advertise their products/services to you.
+We conduct
+digital advertising campaigns ourselves
+on other websites, such as social media websites to increase awareness of what3words. Our
+Cookies Policy
+has more information on how you can opt out of interest-based advertising on those websites if you wish.
+We will only send our
+newsletters
+to you with your
+consent
+and you can opt out at any time.
+We
+do not sell your personal information
+(for the intents and purposes of the California Consumer Privacy Act (CCPA)).
+1. What data do we collect or create, what do we use it for and what is our legal basis?
+In this section, with respect to each of our products, services or specific features of our products or services, we describe what Personal Data we collect or create, the purposes for which we use this data and the legal basis of the relevant Processing activity.
+(A) Our products designed for emergency services
+If you are a user of our product created for emergency services (what3words Lite), we do not collect any Personal Data about you: for more information, please see the relevant privacy policy
+here
+.
+We offer another service for emergency services (and other organisations) called “FindMe”. Emergency services (or other organisations) may send you a “FindMe” link, which is designed so that you can tell them your 3 word address location. If you open a “FindMe” link sent to you, we collect the following Personal Data about you:
+IP address; and
+the 3 word address locations you searched or landed on.
+Processing of this data is technically required for us to provide this service. We have a
+legitimate interest
+in carrying out this Processing for the purpose of providing the “FindMe” service.
+(B) Our Website and Apps
+If you visit the Website or use the Apps, we may collect the following Personal Data about you:
+the 3 word address locations you searched or landed on (including anything you type incorrectly into the search bar);
+if you search for a 3 word address using the voice function, an audio file is transcribed to text through automated methods by software provided by our partner,
+Cerence
+, after which the audio file is instantly deleted. We receive a text file of the 3 words you said, provided that it is or sounds like a combination of 3 words from our word list;
+your IP address;
+your device ID;
+the type of browser, device and operating system that you are using (e.g. Chrome browser, Samsung device and Android operating system);
+referrer information (which website you visited from e.g. a search engine);
+time zone;
+user preferences (e.g. language);
+which pages you visited/actions you carried out on the Website and Apps and the relevant dates and times;
+aggregate statistical information relating to how you and others interact with the Website and Apps;
+if you choose to use the photo feature in the Apps, the 3 word address at which a photo was taken (but not the photo itself) and the fact that the “share” button has been pressed (if applicable);
+if you choose to download materials available on our Website, such as the what3words toolkits or what3words learning activities, your name, email address and any other information requested by the relevant sign-up form that you choose to give us; and
+if you contact us to ask us a question, to report an issue or for any other reason (e.g. using our
+Intercom
+messaging platform), your name, contact details and your communication to us.
+The purposes for which we collect this data are:
+to provide the service you are expecting (the conversion of 3 word address to coordinates or vice versa);
+(for the voice search function only) to permit audio to text transcription through automated methods;
+to ensure that content from our Website or Apps is presented in the most effective manner for you and for your device;
+to improve the services we provide in the short term, for example by providing you with more relevant search results;
+to improve the services we provide over the longer-term by understanding how you and other users interact with our services. We analyse our customer and visitor behaviour as a whole and never on an individual level – this means we produce aggregated figures to measure the performance of our services;
+to serve recommendations to you around those functionalities of the Website or Apps which are most relevant to you, based on your use of those platforms;
+to notify you about any important changes to our services;
+to send you materials which you are choosing to download from the Website;
+to respond to your queries, resolve reports of any issues and/or disputes, and operational performance improvement; and
+to comply with our legal and regulatory obligations under applicable law and to establish, exercise and defend our legal rights.
+We consider that we have a
+legitimate interest
+in Processing the Personal Data we collect through our Website and Apps in order to deliver the service you are expecting. We also have a
+legitimate interest
+in Processing the Personal Data to analyse and better understand how each service is being used. Where Personal Data is collected through our usage of analytical cookies, we obtain your prior
+consent
+to the Processing (which you may withdraw at any time) – please see section D below. We also Process Personal Data where necessary for
+compliance with legal obligations
+.
+(C) what3words Accounts and Saved Locations
+If you choose to register for an account on our Website or Apps, we may collect the following Personal Data about you:
+your name;
+your email address or, if you choose to use these to sign in, your third party credentials (e.g. your Google, Apple or Facebook ID);
+your country; and
+your chosen what3words account password.
+Please note that you must be of a certain minimum age to become a what3words account holder, as stated in our
+Terms and Conditions
+.
+You are not required to provide us with any of this information to use the Website or the Apps, but you need to be a registered account holder to use certain functionalities such as “Saved Locations”. The “Saved Locations” functionality enables users in some jurisdictions to save specific 3 word addresses and label them (e.g. “home” or “work”) and we store these (together with your account information) so that you can access them whenever you log in. You can also choose to delete your “Saved Locations” at any time within your account or to delete your account completely.
+As you can choose your own text for “Saved Locations” labels, we have the following rules in our
+Terms and Conditions
+: please do not save any personal data about other people in your labels (such as names of other people) or any sensitive personal data such as health information. Whilst this would be a breach of our terms, it is possible that someone else may have included personal data relating to you in one of that person’s labels: for example, if one of your friends saves a location with your name as a label. You can mitigate against this by asking friends/family to respect our terms and to not save locations with information relating to you. In addition, you can also exercise your rights as further specified in section 6 below.
+If you are inputting someone’s email address in order to enable them to access a link to a list of “Saved Locations” that you have created, please ensure you have permission from the intended recipient to use their email address in this way. These email addresses are encrypted and stored on our systems solely for the purposes of authenticating the recipient; if the recipient does not open the link, the email address is deleted from our systems within 7 days.
+If your device settings are opted-in to receive push notifications, you may receive notifications relating to marketing, promotions and product features such as saved locations. For example, if someone invites you to follow a list or if someone updates a list that you are following. You can manage your push notification preferences or deactivate these notifications at any time in your device settings.
+We analyse aggregated data (i.e. relating to all users, and never any individual user) regarding “Saved Locations” in order to improve the services we provide over the longer-term (e.g. how many people are saving “home” as a label, which languages are people using in their labels etc).
+We consider that we have a
+legitimate interest
+in analysing the relevant Personal Data that you give us as a what3words account holder to better understand how our service is being used and to improve the quality and provision of our services. Our legal basis for the other Processing of the Personal Data mentioned above is it is necessary for the
+performance of the contract
+we have entered into with you (our
+Terms and Conditions
+).
+(D) Cookies
+We may utilise cookies and similar technologies to distinguish you from other users: in particular, so that we can deliver a seamless experience between our Apps and our Website and so that we can analyse aggregated usage data (e.g. how many people are returning to our Website more than once). In addition, we may use cookies to allow us to measure the success of our digital advertising campaigns and to build audiences for our advertising campaigns on social media sites.
+For these purposes, we may collect the following Personal Data about you: records of our advertising and content shown on pages or screens displayed to you and records of any interaction you may have had with such content or advertising.
+For further detail on specific cookies, please see our
+Cookies Policy
+. We utilise these Cookies where we have obtained your prior
+consent
+to the Processing (which you may withdraw at any time), other than for essential cookies where we consider that we have a
+legitimate interest
+in using these cookies in order to provide you with our services.
+(E) Newsletters
+If you sign up to our email newsletter (you can subscribe
+here
+), we may collect the following Personal Data about you:
+your name; and
+your email address and/or other contact details.
+We only send out our newsletters where we have your
+consent
+and you can opt out to receiving such communications at any time by hitting the unsubscribe link at the bottom of any email communication, or by emailing us at
+dataprotection@what3words.com
+.
+We may use pixel tags within our emails to enable us to compile aggregate statistics (e.g. how many people are opening newsletter emails) in order to measure the success of email campaigns. We consider that we have a
+legitimate interest
+in collecting analytics information in relation to interactions with our emails in order to ensure that we continue to provide relevant information to recipients.
+(F) w3w.community and Beta Testers
+If you have a what3words account, you can choose to join our global community of supporters,
+w3w.community
+. You can also join the what3words Beta Testing programme
+here
+, so that we can contact you to review what3words products. In each case, we may collect the following Personal Data about you:
+your name;
+your email address and/or other contact details;
+any other information that a sign-up form asks for and/or that you choose to give us;
+user content including text, images, videos and other content that you choose to share on/post to our w3w.community forum or that you otherwise provide to us; and
+data relating to your interactions with w3w.community (e.g. the popularity of your posts).
+Please bear in mind that user content that you post may be visible to anyone on the internet.
+The Processing of your Personal Data is necessary for the
+performance of the contract
+we have entered into with you (
+here
+for w3w.community and
+here
+for Beta Testers). We also Process user content to understand how you and other users interact with our services and and we consider that we have a
+legitimate interest
+in doing so to improve the services we provide over the longer-term.
+For members of w3w.community, we may Process your Personal Data to personalise your content/experience on the community forum, to enable us to reward you for community activity (e.g. with virtual points, subject to our
+terms and conditions
+), and to allow us to deliver the type of content and marketing materials (if you have provided your consent to receiving marketing materials) that we think you will be most interested in. We consider that we have a
+legitimate interest
+in this Processing so that we can improve your experience of w3w.community.
+(G) The what3words API
+If you sign up for the what3words application programming interface
+available
+here
+(the “
+API
+”), we may collect the following Personal Data:
+your name;
+your email address and/or other contact details;
+your chosen account password;
+data that relates to your professional activities (e.g. your job title and industry);
+your payment details, which are collected and stored on our behalf by our payment provider,
+Stripe
+;
+the content of each API call (e.g. the 3word address searched) and timestamp of the call;
+the API key (the unique identifier used to authenticate the user/program making a call to the API);
+the IP address from which the API call was made; and
+if you use the voice API, an audio file is transcribed to text through automated methods by software provided by our partner,
+Speechmatics
+,
+after which the audio file is instantly deleted. We receive a text file of the 3 words you said, provided that it is or sounds like a combination of 3 words from our word list.
+Please note that we do not collect the content of any API call or the IP address from which the API call was made for our emergency services users.
+The purposes for which we use this data are to provide the service you are expecting (the conversion of 3 word address to coordinates or vice versa), to take payment for the service, to analyse and better understand how the service is being used and to provide you with a more relevant experience if we contact you (e.g. for feedback). We may contact you from time to time to inform you about updates to the API or similar service-related information.
+Processing the Personal Data to provide our service and to take payment for it is necessary for the
+performance of the contract
+we have entered into with you (
+here
+). With respect to analysing the use of the API, we consider that we have a
+legitimate interest
+in doing so to better understand how the API is being used and improve our service.
+(H) Our Enterprise Suite
+We license out our
+enterprise suite
+to our partners which allows them to convert 3 word addresses to coordinates (or vice versa) in their own products and applications. The technology is hosted on partners’ own servers and we do not receive Personal Data from this usage.
+(I) Business to business marketing and our business customers/partners
+As a prospective or existing business customer/partner of what3words, we may collect the following Personal Data about you:
+your name, email address and telephone number;
+data that relates to your professional activities (e.g. your job title and industry);
+the name and address of the business you own or represent; and
+content that you post on other websites (e.g. social media websites).
+For prospective business customers/partners, we may collect this information directly from you or from publicly available sources such as LinkedIn and, subject to any local law restrictions, we may use this information to contact you directly for the purpose of informing you about our products and services and discussing any potential partnership. Should you not wish to be contacted by us after we have reached out to you, please do not hesitate to let us know. For existing business customers/partners, we use this information for business administration purposes, including fulfilling our obligations under contracts.
+With respect to prospective business customers/partners, our legal basis for this Processing is either your
+consent
+if required by local laws, or otherwise our
+legitimate interest
+in introducing business customers/partners to our products and services and then maintaining a business relationship. With respect to existing business customers/partners, the relevant Processing of Personal Data may also be necessary for the
+performance of the contract
+we have entered into with you.
+(J) Expanding what3words
+From time to time, we may run
+surveys
+or
+competitions
+(subject to and in compliance with local law requirements). If you choose to enter, we may collect the following Personal Data about you: your identity data (e.g. name and nationality), your contact details (e.g. email address and phone number), data that relates to your professional activities (e.g. your job title and industry) and the content of the communications to us (e.g. your survey responses, your competition entry). We use this data to obtain your feedback in response to the survey and/or to run the competition and/or to notify you if you are a winner. We will Process your Personal Data for these purposes only where we have obtained your prior
+consent
+(which you may withdraw at any time).
+If you choose to
+attend an event
+with us, we may capture your image (either by way of photograph or video) for the purpose of promoting our services and/or creating materials/recordings for attendees or other interested parties. Where practically possible we will seek
+consent
+in advance of an event. Otherwise (and subject to any local law requirements), you may be notified that we will be filming/taking photographs and given the option to opt out. You can always opt out (or withdraw consent) by emailing
+dataprotection@what3words.com
+. We consider that we have a
+legitimate interest
+in the filming/photography of events in order to grow our business.
+If you contact us to
+tell us your story
+of using what3words’ services or post about it on other websites (e.g. social media channels), we may collect the following Personal Data about you: your identity data (e.g. name), your contact details (e.g. email address) and the content of the communications to us or your public post (e.g. your story of a rescue using what3words). We collect this to build up a picture of usage of what3words for our internal purposes and consider that we have a
+legitimate interest
+in doing do. If we contact you and you agree to take part in a
+promotional campaign
+in which you share your story in digital or print media, we use this data to keep in touch with you and share your story in the form and channels that you agree to. We will Process your Personal Data for this purpose only where we have obtained your prior
+consent
+(which you may withdraw at any time).
+(K) Prospective candidates
+If you apply for a role at what3words as a prospective candidate, through the recruitment process we may collect the following Personal Data about you: your contact details, CVs and supplementary information, information gathered through interviews or other assessments, video recordings of interviews (where you agree to send or provide these to us), and references supplied by former employers or agencies.
+We Process this Personal Data for the purpose of reviewing applications, contacting and communicating with applicants and carrying out interviews.
+If you are successful in your application, any relevant information collected as part of the recruitment process will be transferred to your personnel file and retained during your employment. If your application is unsuccessful, we automatically delete information 18 months following conclusion of the recruitment process. This Processing is necessary for
+compliance with legal obligations
+(especially in respect of applicable employment law) and is necessary for
+taking steps prior into entering into a contract
+(an employment agreement) with us. We may also process this Personal Data to protect our interests and enforce our rights and we have a
+legitimate interest
+in doing so.
+2. Disclosure of Personal Data to third parties
+We will only disclose your Personal Data to other organisations for the purposes set out in this Policy and in accordance with applicable law. In particular, we will never disclose your contact details to third parties to allow them to contact you for direct marketing purposes.
+We may share your Personal Data with the following recipients or categories of recipients:
+our affiliates and subsidiaries;
+a prospective buyer in the event of a sale or purchase of what3words or any of its assets;
+a third party where obligated to do so by law or where necessary for the establishment, exercise or defence of legal rights;
+third party service providers, such as accountants, auditors, lawyers and professional advisors;
+independent contractors and external consultants engaged by us;
+data hosting companies (such as
+Amazon Web Services
+and
+Google Cloud
+);
+CRM Solution providers (such as
+Salesforce
+and
+Hubspot
+);
+providers of data analytics services that help us understand how our services are used (such as
+Mixpanel
+,
+Google Firebase
+and
+Google Analytics
+) and measure the success of our digital advertising campaigns (such as
+Facebook
+);
+providers of speech recognition software (for the conversion of audio files to text files through automated methods) if you use our voice search function:
+Cerence
+(see
+Privacy Policy
+) for the Apps and
+Speechmatics
+(see
+Privacy Policy
+) for the API;
+providers of payment services (such as
+Stripe
+(see
+Privacy Policy
+) if you enter your payment details for use of our API);
+other IT service providers (such as
+G Suite for Business
+,
+Intercom
+for communication with visitors to the Website,
+Slack
+which we use for internal communications and
+Tribe
+which provides the community platform for
+w3w.community
+);
+if you use any of our products on Alexa-enabled devices, Amazon may collect Personal Data through your use of its Alexa platform
+and Process such data for its own purposes (
+Privacy Notice
+);
+Mapping providers for our Website: Mapbox (see
+Privacy Policy
+), Google Maps (see
+Privacy Policy
+), Esri Maps (see
+Privacy Policy
+), Open Street Maps (see
+Privacy Policy
+), TomTom (see
+Privacy Policy
+); and
+Mapping provider for our Apps: Google Maps (see
+Privacy Policy
+).
+Where we use Processors to Process your Personal Data, we have entered into data processing terms which meet the requirements of applicable data protection legislation and according to which they only Process your Personal Data upon our instructions.
+3. Where we store and transfer your Personal Data
+For the purposes of Processing your Personal Data as set out in this Policy, the Personal Data that we collect from you may be transferred to, and stored in, a country outside the European Economic Area (“
+EEA
+”). It may also be Processed by staff operating outside the EEA who either work for us or for one of the recipients of Personal Data listed in section 2 above. Countries outside the EEA may not have laws which provide the same level of protection to your Personal Data as laws within the EEA. Where this is the case, we will put in place appropriate safeguards to ensure that such transfers comply with applicable data protection laws. For Personal Data of those to whom the GDPR applies, this means that we either transfer the relevant Personal Data to countries that the European Commission has determined provide an adequate level of protection for Personal Data or we enter into the Standard Contractual Clauses (as adopted by the European Commission) with the recipient of the Personal Data.
+4. Keeping information secure
+We have implemented technical measures and organisational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law. For example, we provide HTTPS to ensure communication to/from what3words is securely encrypted. Our systems are protected behind a firewalled VPC, all hosted in London on Amazon infrastructure, and we follow strict internal policies as to our handling of personal data and conduct regular reviews of our infrastructure and server security. Unfortunately, the transmission of information via the internet is not completely secure, so any transmission of data is at your own risk, but we use strict procedures and security features to try to prevent unauthorised access.
+5. How long we keep your personal data
+We will only store your Personal Data for as long as necessary to fulfil the purposes we collected it for. To determine the appropriate retention period for Personal Data, we consider the amount, nature, and sensitivity of the Personal Data, the potential risk of harm from unauthorised use or disclosure of your Personal Data, the purposes for which we Process your Personal Data and whether we can achieve those purposes through other means, as well as the applicable legal requirements.
+6. Your rights
+We think it is important that you are able to control your Personal Data. Under applicable data protection laws, you may be entitled to exercise the following rights where we Process Personal Data about you:
+the right to access Personal Data that we hold about you, to ask us for copies of your Personal Data and to request information about the related Processing activities;
+the right to ask us to rectify Personal Data you think is inaccurate and to require us to complete Personal Data you think is incomplete;
+the right to require us to delete your Personal Data in certain circumstances. There will be instances where this right is restricted, such as where it is necessary to continue to Process your Personal Data for the establishment, exercise or defence of legal claims;
+the right to require us to restrict how we Process your Personal Data in certain circumstances (e.g. if you dispute its accuracy, we may restrict its Processing until your complaint is resolved);
+the right to require us to transfer your Personal Data to another organisation, or to you, in certain circumstances; or
+where we Process your Personal Data on the basis of consent, you have the right to withdraw your consent at any time. We will make this a simple and easy process for you (e.g. through ‘unsubscribe’ links in our marketing communications). Please note that this will not affect the lawfulness of Processing based on consent before its withdrawal.
+Where we Process your Personal Data on the basis of legitimate interest, you have the right to object such Processing at any time in certain circumstances. There will be instances where this right is restricted, such as where we have an overriding legitimate ground to continue to Process your Personal Data. Furthermore, where we Process your Personal Data for direct marketing purposes, you have a right to object to such Processing at any time.
+Should you wish to exercise any rights in connection with your Personal Data,
+please email us at
+dataprotection@what3words.com
+. We will process any request in accordance with any local laws and our policies and procedures. We aim to respond to enquiries within 3 working days, but it may take us up to 30 days to comply with valid requests.
+We have appointed the following entity as
+what3words’ representative in the European Union
+for data protection matters
+(pursuant to Article 27 of the GDPR): Maetzler Rechtsanwalts GmbH & Co KG, Walter-Gropius-Straße 17, 80807 München, Germany.
+Individuals to whom the GDPR applies may contact our representative on matters related to the processing of Personal Data – please include ‘re: what3words Limited’ in any correspondence.
+In the event that you aren’t happy with our Processing of your Personal Data, we ask that you always seek to get in touch in the first instance so that we can help ease your concerns. However, you also have the right to lodge a complaint about how we Process your Personal Data with the relevant data protection authority.
+7. Third party products accessed from the Website or Apps e.g. other websites
+Our Website, Apps, this Policy and our
+Terms and Conditions
+may contain links to and from the online products of third parties. If you follow a link to any of these online products, please note they have their own privacy policies which will govern use of any Personal Data that they Process for their own purposes. Please check these policies carefully before you click on any links and/or submit any Personal Data to these online products.
+8. Updates to this Policy
+Any updates or changes that we may make to this Policy will be posted on this page. Where it makes sense because the changes are material, we may notify you by e-mail (to the extent permitted by applicable law to send these emails) or in another appropriate manner such as when you next interact with the Website or Apps.
+9. Definitions
+“
+Apps
+” means applications made available by us, including (but not limited to) “what3words”, “
+三
+词
+地址
+App”, “what3words BETA”, and “what3words Work”, and excluding
+“what3words Lite” and the “FindMe” service;
+“
+compliance with legal obligations
+”
+refers to the lawful basis of processing personal data set out in Art. 6(1)(c) GDPR;
+“
+consent
+” refers to the lawful basis of processing personal data set out in Art. 6(1)(a) GDPR;
+“
+Controller
+” means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Data;
+“
+GDPR
+” means Regulation (EU) 2016/679 (General Data Protection Regulation);
+“
+legitimate interest
+” refers to the lawful basis of processing personal data set out in Art. 6(1)(f) GDPR;
+“
+performance of the contract
+” or “
+taking steps prior into entering into a contract
+” refers to the lawful basis of processing personal data set out in Art. 6(1)(b) GDPR;
+“
+Personal Data
+” means any information relating to an identified or identifiable natural person;
+“
+Process
+” or
+Processing
+” means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, such as collection, recording, organisation, structuring, storage, adaption or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
+“
+Processor
+” means a natural or legal person, public authority, agency or other body which Processes Personal Data on behalf of the Controller; and
+“
+Website
+” means what3words.com.

@@ -1,0 +1,318 @@
+Privacy Policy Statement | Opensignal
+Download the app
+Market Insights
+All Insights
+Global
+filler
+Albania
+Algeria
+Argentina
+Australia
+Austria
+Bahrain
+Bangladesh
+Belgium
+Bolivia
+Brazil
+Bulgaria
+Cambodia
+Canada
+Chile
+Colombia
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+El Salvador
+Estonia
+Finland
+France
+Germany
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Japan
+Kuwait
+Latvia
+Libya
+Lithuania
+Malaysia
+Maldives
+Mexico
+Morocco
+Myanmar
+Netherlands
+New Zealand
+Norway
+Oman
+Pakistan
+Palestine
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Saudi Arabia
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Tunisia
+Turkey
+UAE
+UK
+Uruguay
+USA
+Vietnam
+All Reports
+Other Analysis and Insights
+Solutions
+Operators
+Regulators
+Analysts
+Opensignal Manifesto
+Independence Charter
+Analytics Charter
+Experience Charter
+Apps
+Opensignal app
+Meteor app
+About
+Careers
+Newsroom
+Contact
+Blog
+Privacy Policy Statement
+1. RESPONSIBILITY FOR THE PROCESSING OF YOUR DATA
+Opensignal works with telecoms ecosystem companies globally to help them understand and improve network speeds and network coverage for consumers like you. We help companies build better networks in the areas that need it most. Opensignal takes great pride in providing a service that benefits many.
+This Privacy Policy describes how we collect, use, and share your personal data when you use our mobile applications, (
+our “Mobile Applications”
+), as well as our websites, social media accounts, customer dashboards and other services we make available to our customers and partners (
+our “Other
+Services
+") referred to, collectively, as the “
+Opensignal Services
+” and how we use personal data collected in the course of operating and administering our business.
+As a company whose livelihood depends on data and its proper treatment, Opensignal takes data privacy and security very seriously. As such we have taken steps to go well beyond basic privacy and data protection requirements.
+The purpose of this Policy is to inform you about our privacy practices and to ensure that you understand the purposes for which we collect and process your personal data. The following is a brief summary of the manner and purposes for which we process your personal data.
+Opensignal Limited ("
+Opensignal
+", "
+we
+," "
+us
+" or "
+our
+") is the entity which is responsible for the control and processing of personal data that we collect from you when you use the Opensignal Services. If you have any questions or concerns about Opensignal’s use of your personal data, please contact us at
+[email protected]
+IF YOU HAVE RIGHTS UNDER THE CALIFORNIA CONSUMER PRIVACY ACT, PLEASE SEE THE CCPA SUPPLEMENT BELOW IN SECTION 12. IF YOU HAVE RIGHTS AS A RESIDENT OF NEVADA, PLEASE SEE THE YOUR NEVADA PRIVACY RIGHTS SECTION 13 BELOW.
+2. OUR MOBILE APPLICATIONS
+At Opensignal, we use mobile network experience measurements to publish independent reports and insights on the real-world mobile network experience of everyday users worldwide. We obtain the relevant data by collecting measurements relating to signal reception and quality from users of our Mobile Applications. Where you agree to give us access to your data, we collect data from your mobile device both when you are using our app and when it is running in the background.
+HOW WE COLLECT AND USE YOUR PERSONAL DATA
+Network
+experience
+data
+. If you are a user of one of our Mobile Applications, when allowed access to your data, we collect data from your mobile device both when you are using our app and when it is closed.
+We take measurements from your device from time to time including location data (which include GPS coordinates or similar information regarding the location of your device), network type, network operator, cellular and Wifi signal strength and quality, and the identifiers of connected cell towers and Wifi routers (including both BSSID and SSID). We measure the performance of the data connection including the speed, responsiveness and reliability along with the total amount of data transferred. We do not monitor the content of your data usage, collect personal demographic data on users such as the name, age, gender, telephone number or any other demographic data. We also do not collect any information about the use of your device such as apps used, or the content accessed. The goal of collecting the above device data is to measure the experience you have of wireless networks.
+We collect information from environmental sensors on your device (depending on which ones are integrated in your device), this allows us to measure things such as the device acceleration, orientation and the external atmospheric pressure and light intensity. We also measure some internal device conditions – such as battery temperature and voltage. The goal of collecting this data is to understand how instantaneous device conditions affect experience of wireless networks.
+To better understand differences between devices, we collect data on your device hardware such as the model, manufacturer, and manufacturers and models of sub-components (such as the cellular radio) and the capabilities of these components (for example the number of cores on the CPU). Similarly, to understand differences caused by software, we collect information on the mobile platform version used and whether custom ROMs or Android skins are installed, as well as the operating system. The goal of collecting this data is to understand how device properties affect experience of wireless networks.
+When you first use our Mobile Applications an identification code (“Resettable ID”) is generated by our software and allocated to your mobile device and used to identify your device whenever we take measurements. To further help us manage the data, we also collect related IP addresses. These fields are needed for statistical purposes, for example to understand how much data is contributed by each device.
+Analytics
+. We collect, measure and analyze traffic and usage trends relating to users’ use of our Mobile Applications, and we use third-party analytics tools to help us do so. This allows us to understand, among other things, how users use our Mobile Applications, and ways to improve them. These third-party analytics tools use cookies and persistent device identifiers to collect and store information including, but not limited to, time of visit, pages visited, time spent on each page, unique device ID and type of operating system used.
+Use of information with Your Consent
+. We may use your personal data for any other purpose for which you specifically provide us with your consent.
+We prevent user identification; we do not collect name, email address, phone number, social media ID, contact list, or anything else which directly identifies an individual or their device.
+THE PURPOSES FOR WHICH WE USE YOUR PERSONAL DATA
+The purposes for which we collect and store your personal data are the following:
+We do not use the measurements we take from mobile devices for any individualized user identification or individualized user tracking. Measurements that we take from the mobile devices of individual network users allow us to create a detailed picture of the service availability, quality and performance of numerous communication networks across the world and over time. For example, we use data to improve wireless networks, research market performance, identify aggregate trends in device and network utilization patterns, understand the network-based drivers of subscriber churn and acquisition, and design effective network performance communication campaigns. Furthermore, we use data for the purpose of providing aggregated telecommunications network flow share, market share and other market analysis, using proprietary algorithms generating observations of consumer switching, activations and deactivations across the telecom infrastructure. We publish some of the statistical data that we generate and we provide it to our customers (such as network operators) to help them understand, communicate and optimize their own network’s service coverage, performance and signal quality (and those of their competitors). We also create de-identified and aggregated information, location measurements information, information about the computer or device from which individuals access our Opensignal Services or other analyses we create. Although the end-product we produce is made up of aggregated anonymized data, the underlying ‘raw data’ which contains personal data of individual users is important for us for generating statistical data, validating the results, quality control and further analysis. Non-personal raw data, including depersonalised location information, may be shared with customers however no personal data is provided to customers.
+We use data to test, monitor, improve and upgrade our Mobile Applications, to meet our legal obligations and the regulatory requirements to which we may be subject, for loss prevention purposes and to protect and enforce our rights and meet our obligations to third parties, and for our internal business purposes, such as compiling and analyzing usage information for general operational, statistical and business purposes.
+Our customers and partners cannot use our data to identify the mobile applications or publishers that our data has been received from. We collect data from hundreds of different mobile applications, and our reports, data, and documentation do not reveal which mobile applications the source data was collected from. We do not publicly disclose our application partners without their permission.
+3. OTHER SERVICES
+HOW WE COLLECT AND USE YOUR PERSONAL DATA
+Information that you directly provide to us
+. If you or your employer use or register for our Other Services, or if you or your agent approach us in connection with job enquiries or in connection with any services you or your employer offers, or if you interact with our business in other ways, we may ask you to provide certain personal information including, but not limited to, your name, postal address, email address, telephone number, your username on a third-party social networking service, password for use of the Other Services, date of birth (to ensure you are over 16 and for statistical purposes), and other data. We retain messages you send to us through the Other Services, and any other data you provide to us. We use this data for our business purposes related to the Service and in the operation and administration of our business, as further detailed below.
+Information collected or received from third parties
+. If you register for Other Services through your account with third-party social networking services, such as, we may receive data about you from such third parties or through a service linked to your account with such services. We may also receive information about you from third parties for example job services you may use or other intermediaries to which you may provide your personal data and that may share your information with us at your request. This information is used in the same way as the data referred to in paragraph above.
+Analytics
+. We collect, measure and analyze traffic and usage trends relating to users’ use of our Services, and we use third-party analytics tools to help us do so. This allows us to understand, among other things, who is using our Services, how they use them, and ways to improve our Services. These third-party analytics tools use cookies and persistent device identifiers to collect and store information including, but not limited to, time of visit, pages visited, time spent on each page, IP addresses, Resettable ID, advertising tags and type of operating system used.
+Cookies
+. When you use the Services, we sometimes send one or more cookies (small text files containing a string of alphanumeric characters) to your computer that uniquely identify your browser and enhance your navigation on our Services. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take) and allow us or our third-party analytics tools we use to track your usage of the Services. There are at least two different types of cookies: persistent and session cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent use of the Service. Persistent cookies can be removed by following your web browser's directions for removal of cookies. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to notify you when a cookie is being sent. However, some features of the Service may not function properly if cookies are disabled.
+Log file
+. Log file information is automatically reported by your browser each time you access a web page. When you access or use the Services, our servers may automatically record certain log file information, including but not limited to your web request, IP addresses, browser type, referring/exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, and pages viewed.
+Clear GIFs/Web Beacons
+. Clear GIFs (also known as web beacons) allow for the tracking of a user's response to an email or usage of a website in a manner that does not reveal personally identifiable information. We may use clear GIFs or similar technologies to assess responses to emails and usage of the Service. For example, we may use clear GIFs to track when emails are opened, and which links are clicked by recipients. You can disable certain abilities of clear GIFs to capture information by blocking cookies.
+Device identifiers
+. When you access or use the Service using a mobile device, we may access, collect, monitor and/or remotely store one or more "device identifiers," such as a universally unique identifier. Device identifiers are small data files or similar data structures stored on or associated with your device that uniquely identify your device. A device identifier may consist of data stored in connection with the device hardware, operating system or other software, or data sent to the device by us. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device to enhance your navigation on our Services. Some features of our Services may not function properly if use or availability of device identifiers is impaired or disabled.
+Commercial communications
+. Insofar as permitted under applicable law, we may use the information we collect or receive to communicate directly with you in relation to the Services or related services we offer. Subject, where necessary, to obtaining your consent to receiving such communications, we may use the information to communicate with you in relation to other services that we and our affiliates offer.  For example, we may use the information to send you emails containing newsletters, promotions and special offers. We may also use the information to send you service-related notices (e.g., account verification, technical and security notices).
+Use of certain service-type information
+. We may use information from cookies, log files, device identifiers, location data, clear GIFs and other tools to: (i) remember information so that you will not have to re-enter it during your visit or the next time you use the Service; (ii) provide custom, personalized content or information to you or others; (iii) monitor the use of the Service; (iv) monitor aggregate metrics, such as total number of visitors, and traffic patterns; (v) diagnose or fix technology problems; (vi) provide advertising to your browser or device; and (vii) conduct research or surveys.
+Use of information with Your Consent
+. We may use your personal data for any other purpose for which you specifically provide us with your consent.
+THE PURPOSES FOR WHICH WE USE YOUR PERSONAL DATA
+The purposes for which we collect and store your personal data are the following:
+(a)   Personal data that we receive from you enables us to deliver our Services to you and enables you to use them efficiently;
+(b)   Insofar as permitted under applicable law, we use your data to communicate with you in relation to our Services;
+(c)    We use data to personalize, test, monitor, improve and upgrade our Services, to meet our legal obligations and the regulatory requirements to which we may be subject, for loss prevention purposes and to protect and enforce our rights and meet our obligations to third parties, and for our internal business purposes, such as compiling and analyzing usage information for general operational, statistical and business purposes;
+(d)   We use personal data in the general operation and administration of our business including in recruitment of staff, engaging service providers to provide services to our business, in providing services to our customers and for marketing purposes.
+YOUR RESPONSIBILITIES
+It is important that the personal data we hold about you is accurate and current. If you provided us with any details of personal data, please keep us informed if such details change.
+4. LEGAL BASIS FOR PROCESSING YOUR DATA
+We rely on the following lawful basis for the processing of your personal data:
+(a)  Our legitimate interests in (among other things) delivering the Opensignal Services, operating and administrating our business, complying with accounting, or reporting requirements, conducting commercial research, improving and maintaining the Opensignal Services, personalizing and tailoring content made available to you through the Opensignal Services, protecting the security or integrity of our databases, protecting our business or reputation, taking precautions against legal liability, dealing with our assets in the event of a business change (see further below), protecting and defending our legal rights or property, or for resolving disputes, investigating and attending to inquiries or complaints with respect to your use of the Opensignal Services;
+(b)  Where relevant, your express consent. If you give your consent for accessing your device data to take measurements, you can withdraw it through the personal settings on the Mobile Application);
+(c)  Where relevant, the fulfilment of our contractual obligations to you under our terms and conditions of service; and
+(d)  Where relevant, for compliance with legal obligations to which we are subject.
+5. HOW WE SHARE YOUR INFORMATION
+(a)
+Customers
+. We share analysis and statistical information based on measurements that we collect from users’ mobile devices with some of our customers under the terms of data license agreements and data sharing agreements. Our customers are not permitted to re-identify the data with any personally identifiable data to communicate with you or to influence you or to profile or track individual users. They are required to keep the statistical data and analysis we provide confidential and to use appropriate means to protect it. Our customers that receive such data from us are not permitted to disclose any datasets to their own customers or any third parties.
+(b)
+Service Providers
+. We may share datasets containing your personal data with third-party service providers that perform services on our behalf in connection with our Services, such as cloud service providers that we may use, or third-party analytical service providers. Where your information is shared with such third parties, we ensure that the third-party service provider will deal with your information only on our behalf and on our written instructions and solely for our benefit (and not for its own benefit).
+(c)
+Business Change
+. If we become involved in a merger, consolidation, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution or other transaction, or if the ownership of all or substantially all of our business otherwise changes, we may share or transfer databases containing personal data of users to successor party or parties in connection with such transaction or change in ownership or legal structure.
+(d)
+Necessary Disclosure
+. Regardless of the choices you make regarding your information and to the extent permitted or required by applicable law, we may disclose information about you to third parties to: (i) enforce or apply the terms and conditions of our Opensignal Services; (ii) comply with laws, subpoenas, warrants, court orders, legal processes or requests of government or law enforcement officials; (iii) protect our rights, reputation, safety or property, or that of our users or others; (iv) protect against legal liability; (v) establish or exercise our rights to defend against legal claims; or (vi) investigate, prevent or take action regarding known or suspected illegal activities; fraud; our rights, reputation, safety or property, or those of our users or others; violation of the Terms of Use, our policies or agreements; or as otherwise required by law.
+(e)
+Subsidiaries and affiliates.
+We may share the data that we collect from users’ mobile devices with the Opensignal subsidiaries and affiliates, with the purpose of bringing together complementary data on consumer experience, network performance, and subscriber behaviour.
+6. HOW WE PROTECT YOUR INFORMATION
+We take certain measures to protect personal data collected through the Opensignal Services against loss, theft, and unauthorized access, use, disclosure, destruction or modification. These include physical, technological and administrative measures.
+7. HOW LONG WE KEEP YOUR INFORMATION
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+Personal data (such as user’s location data or the user’s code which is created on first use of the Mobile Applications) contained in the sets of measurements of mobile network signal performance is held for an unlimited period of time as it is required for the production of statistical data over different periods of time and to compare performance data between different time periods.
+Insofar as the data is collected to enable us to recognize you as a user of the Opensignal Services and to improve the services provided to you, we will dispose of the data within a reasonable time after you cease to be a registered user of the Opensignal Services.
+8. COUNTRY OF PROCESSING
+We operate globally. The collection of data from your device takes place in the country where you use the device. We store and otherwise process data (including personal data) through third party cloud service providers and other IT service providers which may be located or which may operate in other countries. We store personal data records predominantly through third-party cloud service providers on servers located in the United States of America. When transferring personal data records to a country which does not provide an adequate level of protection to privacy rights, we put in place appropriate safeguards including data transfer agreements.
+9. CHILDREN'S PRIVACY
+The Opensignal Services are not directed to children and is intended for use by adults only. We do not knowingly collect personal data from individuals under 18 years of age. If you are under the age of 18, please do not submit any information through the Opensignal Services and do not provide your consent for the use of your data unless your parent or guardian has approved.
+10. THIRD-PARTY SITES AND SERVICES
+The Opensignal Services may reference or provide links to other websites, applications, or resources. If you access any website, application, or resources provided by a third party, our Privacy Policy will not apply. Your interactions with such websites, applications, and resources are subject to the privacy policies of the third parties that operate them. Please review those policies carefully to understand how those parties will treat your information.
+11. DATA SUBJECT RIGHTS
+Data subjects have the following legal rights in respect of their personal data that we process:
+(a)   The right to require Opensignal to confirm whether or not their information is being processed, the purpose of any such processing, the recipients of any information that has been disclosed, the period for which their information is to be stored and whether any automated decision-making processes are used in relation to their information;
+(b)  The right to require access to the personal data and to require Opensignal to rectify inaccurate information without undue delay;
+(c)   Where Opensignal has relied on the ‘consent’ basis for processing that information, the right to withdraw their consent at any time. This right to withdraw consent does not affect the lawfulness of processing based on consent before its withdrawal;
+(d)   The right to request the erasure of their information. You can make a request for erasure where:
+(i) the information is no longer necessary in relation to the purpose for which it was collected;
+(ii) where the processing of the information is based on the data subject’s consent (and the other circumstances described in the ‘Legal Basis for Processing Your Data’ and ‘How We Share Your Information’ sections above no longer apply), if the data subject withdraws his or her consent; or
+(iii) where the personal data is processed by Opensignal solely on the basis of our ‘legitimate interest’, if the data subject objects to the processing of his or her personal data and there are no overriding legitimate grounds for the processing (such as, for example, where the processing of the data is required to meet statutory obligations or for the defense of legal claims).
+Where Opensignal has disclosed the information of a data subject to a third party and the data subject requests the erasure or rectification of the data, Opensignal will take all reasonable steps to inform the third party of such request;
+(e) The right to require Opensignal to restrict its processing of a data subject’s personal data in certain circumstances, such as where the accuracy of that data is disputed or an objection has been raised. In such circumstances, Opensignal will only process that information with the express consent of the data subject, or for the establishment, exercise or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest;
+(f)  Where data is processed based on data subject’s consent or to fulfil a contractual obligation, the data subject has the right to receive his or her personal data from Opensignal in a structured, commonly used and machine-readable format;
+(g) The right to object to the processing of personal data where:
+(i)  Opensignal relies solely on the ‘legitimate interest’ basis for processing that data, in which case we will be legally required to stop processing the data subject’s information unless we have compelling legitimate grounds for the processing which override the data subject’s privacy rights and interests; or
+(ii) the information is used for direct marketing purposes, in which case we will immediately stop processing the data subject’s information for such purposes;
+(h)   Data subjects have the right to lodge a complaint with the UK’s Information Commissioner’s Office or in some cases with the data protection supervisory authority of the EU member state where the data subject resides.
+The above legal rights are subject to various conditions and exceptions including where the data is used for statistical or scientific research purposes and the exercise of the right would prevent such purposes from being attained or would seriously impair their attainment.
+12. SUPPLEMENT FOR CALIFORNIA RESIDENTS
+You will not need to create an account to exercise your rights. California residents have the right to:
+·        Request that we delete personal information about you that we may have collected.  To exercise this right, you must provide a verifiable consumer request by either calling us at +44 0845 834 0987 or by emailing us at
+[email protected]
+·        Request that, for personal information that we have collected in the preceding 12 months, we disclose, free of charge (unless your requests are manifestly unfounded or excessive), the categories of personal information that we have collected about you, the categories of sources from which the personal information was collected, the business or commercial purpose for collecting or selling personal information, the categories of third parties with whom we share personal information. To exercise this right, you must provide a verifiable consumer request by either calling us at +44 0845 834 0987 or by emailing us at
+[email protected]
+·        Request that, for personal information that we have sold or disclosed for a business purpose in the preceding 12 months, we disclose, free of charge (unless your requests are manifestly unfounded or excessive), the categories of personal information that we have collected about you, the categories of personal information that we have sold about you, the categories of third parties to whom each category of personal information was sold, the categories of personal information that we have disclosed about you for a business purpose, and the categories of third parties to whom each category of personal information was disclosed. To exercise this right, you must provide a verifiable consumer request by either calling us at +44 0845 834 0987, or by emailing us at
+[email protected]
+·        Direct us, at any time, not to sell your personal information. We may sell your personal information within the meaning of the California Consumer Privacy Act of 2018 (“CCPA”). Under the CCPA, “sell” means sell, rent, release, disclose, disseminate, make available, transfer, or otherwise communicate orally, in writing, or by electronic or other means a consumer’s personal information by the business to another business or a third party for monetary or other valuable consideration. The law contains exceptions to this definition which may limit how we respond to your direction. To exercise this right to opt out, you may call us at +44 0845 834 0987 or email us at
+[email protected]
+We do not have actual knowledge that we sell the personal information of minors under 16 years of age, and minors under the age of 16 may not use the Opensignal Services.
+You can also authorize another person, called an agent, to exercise your rights on your behalf. You must provide the authorized agent written and signed permission to act on your behalf. We may deny requests from an authorized agent who does not submit proof that he or she has been authorized to act on your behalf. Furthermore, we may require you to verify your identity directly with us. We may also require you to directly confirm with us that you have provided the authorized agent permission to submit a request on your behalf. An authorized agent can make a request on your behalf by either calling us at +44 0845 834 0987 or by emailing us at
+[email protected]
+Please note that we cannot fulfill requests to know the specific pieces of personal information that we may have collected about you. In order to disclose the specific pieces of personal information that we may have collected about you, we would have to verify your identity to a reasonably high degree of certainty. Given the limited amount of information that we collect about you, we do not maintain enough data points to verify your identity to the reasonably high degree of certainty required by the CCPA.
+Additionally, before we can fulfill your request to delete your personal information noted above, we must verify your identity. We will require you to provide us with your app installation ID and any other information reasonably necessary in order to verify your identity. We will match this information to the personal information we maintain.
+We may not discriminate against you because you exercised any of your rights under the CCPA.
+To the extent that anything in this Section 11 conflicts with this Privacy Policy Statement, this Section 11 shall govern.
+The categories of California consumers’ personal data we may have collected in the past 12 months are listed above in Sections – HOW WE COLLECT YOUR PERSONAL DATA. Within the past 12 months we may have sold or shared the following categories of personal information: (1) Location, (2) Identifiers, and (3) Internet or other electronic network activity information, all of which we have collected from your mobile device. We may collect the categories we’ve previously identified (which include GPS coordinates or similar information regarding the location of your device), network type, network operator, cellular and Wifi signal strength and quality, and the identifiers of connected cell towers and Wifi routers (including both BSSID and SSID). We also measure how data is flowing, both passively (by monitoring how fast it moves through other apps), and actively (by running a test that downloads or uploads data within our Mobile Applications). We do not monitor the content of your data usage. The goal of collecting the above data is to measure the experience you have of wireless networks. We also collect information from environmental sensors on your device (depending on which ones are integrated in your device), this allows us to measure things such as the device acceleration, orientation and the external atmospheric pressure and light intensity. We also measure some internal device conditions – such as battery temperature and voltage. The goal of collecting this data is to understand how instantaneous device conditions affect experience of mobile networks.
+When you first use the Mobile Applications, a random identification code, device ID, is generated by our software and allocated to your mobile device and used to identify your device whenever we take measurements. To further help us manage the data, we also collect related IP addresses. These fields are needed for statistical purposes, for example to understand how much data is contributed by each device.
+We use this data for the purposes listed above in the Sections – THE PURPOSES FOR WHICH WE USE YOUR PERSONAL DATA. Measurements that we take from the mobile devices of individual network users allow us to create a detailed picture of the service availability, quality and performance of numerous communication networks across the world and over time.
+We may have shared or sold certain categories of personal data listed in the Sections - HOW WE COLLECT AND USE YOUR PERSONAL DATA to the third parties listed in the Sections - HOW WE SHARE YOUR INFORMATION for a business purpose and in order to provide the Opensignal Services in the past 12 months. Within the past 12 months we may have sold or shared the following categories of personal information: (1) Location, (2) Identifiers, and (3) Internet or other electronic network activity information, all of which we have collected from your mobile device. We may have shared or sold the following categories of personal data with the following third parties:
+(a)
+Joint and Independent Controllers
+.
+In the past, we shared some of the raw measurements that we collected from users’ mobile devices with some of our customers such as network operators under the terms of data license agreements and data sharing agreements. Some of the data we shared in the past with our customers may have contained personal data such as datasets containing location data which in some cases could have been linked to individual users. Our customers are permitted to use the data for the purpose of analyzing it and generating aggregated data relating to the performance of their networks or telecommunications equipment (and competing networks or equipment) and to use aggregated data in their sales activities. Our customers who received such datasets are not permitted to use your personal data to communicate with you or to influence you or to profile or track individual users. They are required to keep your personal data confidential and to use appropriate means to protect it. Our customers were given access to data such as location data of users to enable them to analyze the data and create statistical information based on the aggregation of data from numerous users. Our customers that received such data from us are not permitted to disclose any datasets that contain personal data relating to specific individuals to their own customers or any third parties.
+(b)
+Service Providers
+.
+We may share datasets containing your personal data with third-party service providers such as cloud service providers or third-party analytical services providers that perform services on our behalf in connection with our Services. Where your information is shared with such third parties, we ensure that the third-party service provider will deal with your information only on our behalf and on our written instructions and solely for our benefit (and not for its own benefit).
+(c)
+Business Change
+.
+If we become involved in a merger, consolidation, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution or other transaction, or if the ownership of all or substantially all of our business otherwise changes, we may share or transfer databases containing personal data of users to successor party or parties in connection with such transaction or change in ownership or legal structure.
+(d)
+Necessary Disclosure
+.
+Regardless of the choices you make regarding your information and to the extent permitted or required by applicable law, we may disclose information about you to third parties to: (i) enforce or apply the terms and conditions of our Services; (ii) comply with laws, subpoenas, warrants, court orders, legal processes or requests of government or law enforcement officials; (iii) protect our rights, reputation, safety or property, or that of our users or others; (iv) protect against legal liability; (v) establish or exercise our rights to defend against legal claims; or (vi) investigate, prevent or take action regarding known or suspected illegal activities; fraud; our rights, reputation, safety or property, or those of our users or others; violation of the Terms of Use, our policies or agreements; or as otherwise required by law.
+(d)
+Subsidiaries and affiliates.
+We may share the data that we collect from users’ mobile devices with the Opensignal subsidiaries and affiliates, with the purpose of bringing together complementary data on consumer experience, network performance, and subscriber behaviour.
+Information Collected from Other Websites and Mobile Applications and Do Not Track Policy
+Your browser or device may offer you a “Do Not Track” option, which allows you to signal to operators of websites, web applications, mobile applications, and services (including behavioural advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites or applications. The Opensignal Services do not support Do Not Track requests at this time, which means that we or our analytics providers or other third parties with which we are working may collect information about your online activity both during and after your use of our Services. If at any time you would like to opt out of online tracking or behavioural advertising, please contact us at
+[email protected]
+Shine the Light Notice
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes, and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at
+[email protected]
+with "Request for California Privacy information" in the subject line, or by writing us at the address listed at the end of the Opensignal Privacy Policy.
+13. YOUR NEVADA PRIVACY RIGHTS
+Senate Bill No. 220 (May 29, 2019) amends Chapter 603A of the Nevada Revised Statutes to permit a Nevada consumer to direct an operator of an internet website or online service to refrain from making any sale of any covered information the operator has collected or will collect about that consumer. You may submit a request pursuant to this directive by emailing us at
+[email protected]
+We will provide further information about how we verify the authenticity of the request and your identity.
+14. AGGREGATED INFORMATION
+We may share aggregated, anonymized/deidentified data relating to users of the Opensignal Services with affiliated or unaffiliated third parties.
+15. CHANGES TO THE PRIVACY POLICY
+We may update this Policy from time to time, and the updated version of this Policy will be effective upon posting on the Opensignal Services. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. Please check this page to review the most up-to-date version of this Policy.
+16. QUESTIONS / CONTACTING US
+If you want to exercise your rights under paragraphs 11, 12 or 13 of our privacy policy, email
+[email protected]
+with "Data Subject Request" in the subject line, or contact us by mail addressed to:
+Opensignal Limited
+7 Bell Yard,
+London, WC2A 2JR
+United Kingdom
+17. EU LOCAL REPRESENTATIVE
+In compliance with Article 27 of GDPR, Opensignal has designated Ametros Group Ltd as EU Local Representative:
+Ametros Group Limited
+Unit 3D - North Point House - North Point Business Park
+New Mallow Road
+Cork – Ireland
+Last revised date: 29 September 2022
+Sign up to our newsletter to receive the latest Opensignal reports in your inbox
+Market Insights
+Newsroom
+Contact
+Methodology Overview
+Independence Charter
+Experience Charter
+Analytics Charter
+Data Privacy Charter
+Opensignal Apps
+Coverage Maps
+App Partner Program
+© 2023 Opensignal Limited - All rights reserved
+Privacy & Cookie Policy
+Terms & Conditions
+Do Not Sell My Info

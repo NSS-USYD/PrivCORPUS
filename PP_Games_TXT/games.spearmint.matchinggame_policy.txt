@@ -1,0 +1,121 @@
+Privacy Policy | Spearmint Games
+Funvent Studios DMCC provides this Privacy Policy to explain how it collects, stores, and uses the information collected in connection with Spearmint Games mobile applications, and websites (collectively, “services”). You have a right to know our practices regarding the information we may collect and use when you use our services.
+The types of information we collect and how we collect it
+Personal Information
+Funvent Studios DMCC integrates many third party SDKs in to our mobile apps. These SDKs are used for advertising to our users, analyze service usage, enabling in-app purchases, or providing game services like achievements and leaderboards. We allow third party operators this collected solely for internal operations of the service as permitted by applicable rules and laws. This could include, but is not limited to, advertising identifier (Apple’s IDFA and Google’s advertiser ID), geo information, and IP address. We encourage you to review the policies of the third party operators listed below.
+Personally identifiable data collected is either voluntarily provided by you or collected automatically by us or from our partners, depending on the type of data.
+Depending on the Services you use and the relevant laws, we may collect different types of data:
+Data given by you:
+Information you choose to share (e.g., data to identify your lost account)
+Data collected automatically:
+Your game progress and account information
+Your IP address and mobile device identifiers
+Your device information, such as the model name, operating system, and language, that we gather through the use of cookies and other similar technologies (see more below)
+Information on debugging and application performance
+Data collected from our partners:
+We also use third-party partners, such as advertising networks, and data analytics providers.
+Data made available by you via your privacy settings in third-party services like Facebook, Google, Apple
+Demographic data (such as to determine the coarse location of your IP address)
+Data to fight fraud related to refund or advertising
+Data from platforms that the games run on (such as purchase data to verify payments)
+Additional information (such as data for advertising and analytics purposes) to help display more relevant ads for you and improve the services we provide
+Non-personal Information
+We allow third parties to collect some anonymous information by which users cannot be identified. Non-personal information may include technical information about your device, such as your browser type, screen resolution, device type, language, type of operating system and geo location (only general location). Non-personal information is gathered by third party services while you are accessing the service. They are allowed to use this information to conduct research and analysis, but only for strictly limited purposes. We encourage you to review the policies of the third party operators listed below.
+What we do with the personal information we collect
+Advertisers collect data regarding advertisement performance, user’s interaction with ads, our apps and user’s interests. Collected data may include user’s personal information in order to serve users ads and for the third parties’ legitimate business interests.
+Your rights related to personally identifiable data
+The applicable data protection laws give you certain specific rights in relation to the processing of personal data that concerns you.
+            Please note that not all these apply in all circumstances.  However, you are always welcome to contact us with any request relating to processing of your personal data. Even where we are not obliged by law to comply with your request, we will try to accommodate your wishes.
+Access – you have the right to access personal data concerning you and certain information about how and why we are processing it;
+Rectification – you have the right to have any inaccurate or incomplete personal data rectified without undue delay;
+Erasure – Sometimes called the ‘right to be forgotten’, in certain circumstances, you have the right to have personal data that concerns you erased without undue delay;
+Restriction – in certain circumstances, you have the right to have our processing of personal data concerning you restricted;
+Data portability – in certain limited circumstances, you have the right to receive any personal data concerning you that you have provided to us, in a structured, commonly-used and machine-readable format, and the right to transmit those data to another controller without hindrance; and
+Objection – in certain circumstances, you have the right to object to the processing of personal data carried out by us or on our behalf where it concerns you.
+For all questions or concerns you have about your personal data, or if you think you would like to exercise any of your rights as a data subject, Please contact us via email at
+support@spearmintgames.com
+.
+What we do with the non-personal information we collect
+Third party operators are allowed to collect and use non-personal information to conduct research and analysis, or to target advertisements, or other limited purposes. This information cannot be user to individually identify any user. We encourage you to review the policies of the third party operators listed below.
+GDPR
+Funvent Studios DMCC provides gaming applications to users in multiple countries. In some cases, personal data is processed in respect to the use of a gaming application. When data is processed to provide a game, product or service in the EU that personal data is subject to the General Data Protection Regulation (GDPR).
+We will only collect and process your personal data when we have a lawful basis for doing so.
+The legal basis that we rely on for processing your data will depend upon the circumstances in which it is being collected and used, but will in most cases fall into one of the following categories:
+Where you have provided your consent to allow us to use your data in a certain way
+Where we need to perform the contract we are about to enter into or have entered into with you
+Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests; or
+Where we need to comply with a legal or regulatory obligation
+You have the right to see and access information contained in personal data we hold about you. If you would like to receive or transfer some or all of your personal information (called a Subject Access Request), please contact the Data Protection Team via email at:
+support@spearmintgames.com
+We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove any information you think is inaccurate by contacting the Data Protection Team at the address provided above.
+Further, you have a right to request deletion of personal data, and to restrict or object to our processing of your personal data according to this Privacy Policy or other service specific terms. However, this is not an absolute right. We can refuse to erase personal data which we need to keep (i) to comply with a legal obligation; and (ii) in relation to the exercise or defense of any legal claims. Please note, upon a request for erasure, we may also keep a minimal amount of personal data on an in-house marketing suppression file in order to comply with a request not to receive marketing.
+You also have a right to file a complaint with the data protection authorities with regards to our processing of your personal data.
+Analytics, Cookies and other Tracking technologies
+We and service providers acting on our behalf, like Google Analytics, store log files and use tracking technologies such as:
+Cookies, which are small pieces of data transferred to your mobile device or computer for record-keeping purposes;
+Tracking pixels, which allow us or our advertising partners to advertise more efficiently and effectively; and
+We and our service providers use these log files, tags, and tracking technologies to collect and analyze certain kinds of technical information, including:
+IP addresses;
+The type of computer or mobile device you are using;
+Your operating system version;
+Your mobile device’s identifiers, like your MAC Address, Identifier For Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI);
+Your browser types;
+Your browser language;
+Platform type;
+Domain names;
+Game state and the date and time of activity on our websites or games.
+In some cases, we will connect this information with your social network ID.
+Please note that companies delivering advertisements on our Services may also use cookies or other technologies as described below, and those practices are subject to those companies’ own policies.
+Data Retention
+Your data will be stored by us mostly as long as you have an active account. Funvent Studios DMCC may re-assess unused accounts and de-identify unnecessary data. Data that is stored for longer as you have an account or that is not related to your account is stored for as long as the purpose for processing it is still given . We will not retain your personal information for longer than is necessary for our business purposes or for legal requirements. For instance, we may retain some information for a few years after you have closed your account with us if this is necessary to meet our legal obligations or to exercise, defend or establish legal rights.
+COPPA Compliance
+We are committed to ensuring compliance with COPPA. Our Website, Apps, and Platform are not meant for use by children under the age of 13 and does not knowingly collect any Personal Information as the term is defined under the Children’s Online Privacy Protection Act (“COPPA”).If we learn that we have inadvertently gathered personal information from a child under 13, we will take reasonable measures to promptly remove that information from our records.If you would like to know more about our practices and specifically our practices in relation to COPPA compliance, please email us at
+support@spearmintgames.com
+.
+Third-party Operators
+Advertising Networks: Funvent Studios DMCC allows advertisements from the Third Party ad networks to be displayed in our services. Funvent Studios DMCC makes commercially reasonable efforts to ensure that the third party ad networks are configured to comply with applicable privacy laws, and we reasonably believe this to be the case for each of them. If we determine a service to be directed at children under the age of 13, we configure each of these ad networks to be compliant with the Children’s Online Privacy Protection Act of 1998 (COPPA). For persons in European Union countries, we also configure networks to respect user’s choice to opt-out of behavioural advertising to be compliant with the General Data Protection Regulation of 2016 (GDPR).
+In-App Purchases: In order to make an in-app purchases, a user must use a third party checkout options that we have integrated with our services to finalize and pay for their order. The third party operator’s privacy policy and security practices will apply to this process a user’s information. We encourage you to read that privacy statement before providing your information.
+Social Networks: Some of our services integrate a third-party social network such as Facebook to allow sharing progress with friends, or allowing them to be invited to use our service. The privacy policy of each social network will indicate what data is available to us and how we use it.
+Game Services: Many of our services integrate either Apple Game Center or Google Play Game Services. Each of these third-party operators offer their own privacy policy (listed below), and we encourage you to review them.
+The following is a list of the third party operators we currently use in our services, their contact information, and links to their privacy policies:
+Google Play, Google AdMob, Google Play Game Services, Google Firebase
+https://support.google.com/policies/troubleshooter/2990837?hl=en
+https://play.google.com/about/play-terms.html
+https://www.google.com/intl/en/policies/privacy/
+https://firebase.google.com/support/privacy/
+Apple, Game Center
+http://www.apple.com/legal/privacy/en-ww/contact/
+http://www.apple.com/privacy/privacy-policy/
+AppLovin Corporation
+849 High St.
+Palo Alto, CA 94301
+care@applovin.com
+https://www.applovin.com/privacy
+Unity 3D
+Unity Technologies
+795 Folsom Street
+San Francisco, California 94107
+privacy@unity3d.com
+https://unity3d.com/legal/privacy-policy
+Meta Platforms, Inc
+1601 Willow Road
+Menlo Park, CA 94025
+https://www.facebook.com/privacy/policy/
+InMobi
+1825 S Grant St. Suite 635
+San Mateo CA 94402
+https://www.inmobi.com/privacy-policy
+Digital Turbine
+110 San Antonio St. Ste. 160 Austin
+TX 78701
+https://www.digitalturbine.com/privacy-policy/
+IronSource
+17 Bluxome Street
+San Francisco, California
+https://www.ironsrc.com/wp-content/uploads/2019/03/ironSource-Privacy-Policy.pdf
+Changes to this Privacy Policy
+We will periodically update this privacy policy to reflect changes in our information practices, and to add additional third party operators. Please check back regularly, as your continued use of our services indicate your acceptance of any changes to this policy.
+This privacy policy was last updated on Mar 28, 2024.
+Privacy Policy Contact Information
+If you have any questions about our privacy policy, please contact us via email at
+support@spearmintgames.com

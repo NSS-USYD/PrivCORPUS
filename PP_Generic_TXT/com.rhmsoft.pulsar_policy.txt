@@ -1,0 +1,108 @@
+Privacy Policy
+Privacy Policy for Mobile Applications
+Last modified: October 8, 2021
+This privacy policy governs your use of any software application ("Application") for mobile devices that was created by
+    Rhythm Software, 5319 University Dr PMB 2435, Irvine, CA 92612, United States ("Rhythm Software").
+What information does the Application obtain and how is it used?
+User Provided Information
+The Application obtains the information you provide when you download and register a new account in the Application, in
+    order to be able to function properly. If you purchase the app from Google Play Store, we also have access to information
+    about your purchase. This information is stored by Google Play.
+    Please see
+their privacy policies
+for further details.
+When you use the Application, you generally provide login credentials to access 3rd party services and providers. This
+    information is stored in encrypted form locally on the device on which the Application is installed and is never relayed
+    back to Rhythm Software.
+We may also use the information you provided us to contact you from time to time to provide you with important information,
+    required notices and marketing promotions.
+Automatically Collected Information
+In addition, the Application may collect certain information automatically, such as: the type of mobile device you use, your
+    mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile
+    Internet browsers you use, and information about the way you use the Application.  See "Automatic Data Collection and
+    Advertising" section for examples.
+If errors occur while using the Application, an error log can be sent back to Rhythm Software. This error log contains non-personal
+    data, such as device model, operating system version, where in the Application the error happened. This information is
+    intended to assist further improvement of the Application.
+The Application uses third party services that may collect information about you. Please see their privacy policies
+    for further details
+Google Play Services
+Google Analytics for Firebase
+Google Firebase Crashlytics
+Google AdMob
+Registration and authentication
+By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.
+Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third-party services, for registration or identification purposes.
+Some of the services listed below may also collect Personal Data for targeting and profiling purposes; to find out more, please refer to the description of each service.
+Google OAuth (Google LLC)
+Google OAuth is a registration and authentication service provided by Google LLC and is connected to the Google network.
+Personal Data processed: Cookies, email address, first name, last name, picture and various types of Data as specified in the privacy policy of the service.
+Place of processing: United States -
+Google OAuth Privacy Policy
+.
+Access to third-party accounts and data
+This type of service allows this Application to access Data from your account on a third-party service and perform actions with it.
+These services are not activated automatically, but require explicit authorization by the User.
+Google Drive (Google LLC)
+This service allows this Application to connect with the User's account on Google Drive, provided by Google LLC.
+Personal Data processed: Data communicated while using the service.
+Place of processing: United States -
+the Google Terms of Service
+and
+Google Drive Additional Terms of Service.
+The way Application accesses, uses, stores, or shares user data:
+All file transfers and communications between your devices and cloud storage service servers are encrypted, and do not go through Rhythm Software servers. We do not collect and
+    do not have access to your files.
+All cloud files are stored on your local devices and backed up to your cloud storage service, we do not keep copy of any of your personal files.
+Do third parties see and/or have access to information obtained by the Application?
+We will share your information with third parties only in the ways that are described in this privacy statement. We may
+    disclose User Provided and Automatically Collected Information:
+as required by law, such as to comply with a subpoena, or similar legal process;
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of
+        others, investigate fraud, or respond to a government request;
+with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose
+        to them, and have agreed to adhere to the rules set forth in this privacy statement.
+to third party advertising networks and analytics companies as described below under the Section entitled Automatic Data
+        Collection and Advertising.
+if Rhythm Software is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a
+        prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may
+        have regarding this information.
+Automatic Data Collection and Advertising
+We may use tools or third party analytical software to collect and use certain non-personal data that does not enable us to
+    identify you. The types of non-personal data we may collect and use include, but are not limited to: (i) mobile device type
+    and device properties; (ii) mobile device software platform and firmware; (iii) mobile phone carrier; (iv) geographical
+    data; and (v) other non-personal data as reasonably required by us to enhance our services.
+We reserve the right to use and disclose the collected non-personal data in an anonymized and obfuscated way for purposes of
+    advertisement by us or our partners. We do not pass any personally identifiable information to ad networks or advertisers.
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and
+    duration of usage. We also work with advertisers and third party advertising networks that need to know how you interact
+    with advertising provided in the Application. Advertisers and advertising networks use some of the information collected by
+    the Application, including the unique identification ID of your mobile device. To protect the anonymity of this information,
+    we use an encryption technology to help ensure that these third parties can't identify you personally.
+Children
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or
+    guardian becomes aware that his or her child has provided us with information without their consent, he or she should
+    contact us at
+support@rhmsoft.com
+. We will delete such information from our files within a reasonable time.
+Security
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural
+    safeguards to protect information we process and maintain. For example, we limit access to this information to authorized
+    employees and contractors who need to know that information in order to operate, develop or improve our Application. Please
+    be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system
+    can prevent all potential security breaches.
+Changes
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy
+    by posting the new Privacy Policy at
+https://rhmsoft.com/privacy.html
+. You are advised to consult this Privacy Policy regularly for
+    any changes, as continued use is deemed approval of all changes.
+Your Consent
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now
+    and as amended by us. "Processing," means using or touching information in any way, including, but not limited to,
+    collecting, storing, deleting, using, combining and disclosing information in ways needed to ensure the proper functionality
+    of the Application and as described in this Privacy Policy.
+Contact us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please
+    contact us via email at
+support@rhmsoft.com

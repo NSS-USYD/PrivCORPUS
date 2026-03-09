@@ -1,0 +1,80 @@
+Privacy – LockMyPix Photovault, Videovault and Documentvault
+Docs
+Contact
+Language:
+Deutsch
+English
+Menu
+Privacy
+LockMyPix protects your privacy. We are subject to strict European privacy policies and insure AES encryption for each imported file. No files will be sent to our servers or to any other unknown servers.
+This Privacy Notice applies to data processing by LockMyPix, legally responsible: LockMyPix GmbH & Co. KG, An der Autobahn 37, 28876 Oyten, Germany. E-Mail: hello@lockmypix.com (no technical support)
+General
+LockMyPix does not collect any private data or evaluate private data. Our users do not have to provide any address or contact details that might be misused. No files or other data will be transmitted or evaluated to our servers or stored on backup servers without the consent of our users (cloud backup). Transparency is one of our most important assets. All files you import into LockMyPix are stored locally, on your device or sd-card. If you use the LockMyPix Cloud, your files will be transferred to the Google Drive / Dropbox account you have provided (your private account). There is no transfer to other servers.
+What data do we collect?
+Automatically collected, statistical data for the further development and optimization of our offers are fundamentally anonymized (IP address unknown) and are only collected when you visit our website or app or contact us e.g. get in contact via e-mail. Due to the anonymization, there is no connection between your person and, for example, the time when you accessed our website.
+We may receive the following personal information when contacting us by e-mail:
+– personal details (for example, first and last name, address, e-mail address);
+We receive the following personal data when you visit our website:
+– e.g. Attribution characteristics of mobile devices such as user agent, data on your visits to our website such as time or pages accessed, devices with which you have visited our website
+The following personal data we receive when you call the LockMyPix app on your device:
+– e.g. Reports on issues during use, mapping features of mobile devices such as manufacturer & model, usage time of the application
+Who receives any statistically collected, personal data?
+A transfer of your personal data to third parties, not mentioned in this privacy statement service provider, takes not place without exception. If individual features of the LockMyPix website or app are used by contracted service providers, we will inform you in detail about the respective processes in the context of this privacy policy.
+What purpose does your data serve and with what justification can we use it?
+Automatically collected statistical data will be used for the further development and optimization of our offers. If you only use our website to obtain information about our services, we will only collect the personal data that your browser transmits to our server. If you wish to view our website, we collect the following data that is technically necessary for us to display our website and to ensure its stability and security (Article 6 (1) sentence 1 lit. DSGVO):
+date and time of the request
+Time zone difference to Greenwich Mean Time (GMT)
+Content of the request (concrete page)
+Access Status / HTTP status code
+amount of data transferred
+Website that receives the request
+browser
+operating system and its interface
+Language and version of the browser software.
+In addition to these data, cookies are also stored on your computer when you use our website. Cookies are small text files stored on your hard drive that are associated with the browser you are using, and that provide certain information to the body that sets the cookie (in this case, to us). Cookies can not run programs or transmit viruses to your computer. They serve solely to make the Internet offer more user-friendly and effective.
+Use of cookies:
+This website uses the following types of cookies, the scope and operation of which are explained below:
+Transient cookies (see 2)
+Persistent cookies (see 3).
+Transient cookies are automatically deleted when you close the browser. These include in particular the session cookies. These store a so-called session ID, with which various requests from your browser can be assigned to the common session. This will allow your computer to be recognized when you return to our website. The session cookies are deleted when you log out or close the browser.
+Persistent cookies are automatically deleted after a specified period, which may vary depending on the cookie. You can delete cookies in your browser’s security settings at any time.
+You can configure your browser setting to your liking and, for B. decline the acceptance of third-party cookies or all cookies. Please be aware that you may not be able to use all features of this website.
+If you would like to arrange an appointment for treatment by e-mail or via our contact form or send us a question, we will store the data you have provided (your e-mail address, your name and your telephone number if necessary) to give you a treatment appointment to assign or answer your request. We delete the data arising in this context after the storage is no longer required, or limit the processing if there are statutory retention obligations (legal basis is Art. 6 (1) sentence 1 (b) GDPR).
+App permissions
+Any app permissions necessary for LockMyPix to function properly will not be abused or otherwise used than intended.
+Passwordrecovery
+Your LockMyPix password is private and known to you only. LockMyPix does not save the password and does not know the password, but uses it to encrypt your important files. To restore your password, if you should forget it, you can deposit a e-mail address. LockMyPix then stores your password encrypted on our servers without an assignment to a LockMyPix data safe or the ability to create any inference. The specified email address is used exclusively for password recovery and will not be shared. You can deactivate and delete password recovery by e-mail at any time in the settings (from V. 2.7.5 or 4.5.4).
+Google Analytics & Firebase
+LockMyPix uses Google Analytics and Google Firebase for functions- and bug monitoring provided by Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google may create cookies on the device to ensure the functionality of the software.
+For more information see Google’s Privacy Policy:
+https://support.google.com/analytics/answer/6004245?hl=en
+Functions- and bug monitoring can be deactivated from the settings (from V. 2.7.5 or 4.5.4).
+In addition, the Google account settings can be adjusted to fundamentally determine how Google is allowed to deal with user data.
+Ads
+If ads are displayed within LockMyPix, the ad will be served by Google AdMob or Google AdSense provided by Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google may create cookies on the device to ensure the functionality of the software.
+For more information see Google’s Privacy Policy:
+https://support.google.com/analytics/answer/6004245?hl=en
+Data security
+Our IT infrastructure and organizational security measures comply with current standards and are continually optimized to protect your data against accidental or intentional manipulation, partial or total loss, destruction or against unauthorized access by third parties. Our security measures are constantly being improved in line with technological developments.
+Regardless, the files imported into the LockMyPix application are invariably encrypted using the AES CTR encryption standard.
+Up-to-dateness and change of this data protection explanation
+This privacy policy is currently valid and has the status 10.2021. Due to changed legal or official requirements, it may be necessary to change this privacy policy. The current version can be found on this website. The privacy policy can be viewed at any time.
+LockMyPix photo vault and video vault since 2013
+LockMyPix protects your privacy. We do not share or send your files to any servers or collect private information.
+Look at our
+privacy policy
+and see for yourself.
+LockMyPix is continiously checked and approved by Google Play Protect.
+© 2013-2024
+Imprint
+Google Play and the Google Play logo are trademarks of Google LLC.
+Apple, App Store, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries.
+All trademarks are the property of their respective owners..
+A
+SiteOrigin
+Theme
+We use Cookies
+Info
+OK
+The cookie settings on this site are set to "Allow cookies" to provide the best browsing experience. If you use this website without changing your cookie settings or you click "Accept", you agree.
+Schließen

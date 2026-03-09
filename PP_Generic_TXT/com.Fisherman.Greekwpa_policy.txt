@@ -1,0 +1,105 @@
+Thanos
+Thanos
+Home
+About
+Search for Blog
+GWPA Finder Privacy Policy and Frequently Asked Questions
+About
+GWPA Finder (formerly known as Greek WPA Finder) was
+originally intended for use inside Greece
+as it can recover
+default
+WPA Keys of specific
+router brands that are popular in Greece thus helping you test your network security.
+Nowadays there is an ongoing effort to gradually
+support more routers around the world
+however that’s not an easy task and most of the times it doesn’t reflect to what users might expect from this app. If you are located outside of Greece you can still try your luck with this app but
+do not expect it to fully work in your territory.
+Disclaimer
+By downloading and using GWPA Finder you accept that I (the creator of GWPA Finder) do not accept any responsibility for anything you do with this application, nor anything that happens because of the use of GWPA Finder. In case you manage to connect to a network other than yours, you ought to inform the owner about the security hole you just discovered so that he/she can change the default password.
+GWPA Finder - FAQs
+Is it a scam?
+NO it's not!
+Is it a virus?
+NO it's not!
+Why does my antivirus report it as a virus then?
+It's a false positive! Many antiviruses report legit apps as viruses sometimes.
+Can it hack routers which their default key has been changed by the owner?
+No that's not possible. Only default WPA Keys can and will be eligible for retrieval.
+My phone reboots multiple times when I use your app
+That's not GWPA Finder's fault by any means.
+        It could be due to a bug in your phone's firmware or Hardware.
+        Sometimes Modified Android versions like Cyanogen Mod can also do that.
+        Try a factory reset every once in a while.
+Your app has broken/bricked my phone
+NO it doesn't do that. There is no hidden code that could cause problems to your device.
+It used to crack more WiFi networks in the past but now it doesn't. Did you remove support for some routers?
+No! Rather the opposite. New algorithms have been added and more routers are now supported (including the old ones).
+        The reason you are not able to connect to some WiFis that were previously accessible in the past,
+        is because the owner is now aware of his security flaw and might have changed his default WPA Key
+Why All of the WiFi Networks appear as Not Supported?
+Newer routers are harder to crack so they still remain vulnerability-unknown thus not yet supported.
+        I guess you are one of the unlucky guys who never got the chance to find any supported WiFi networks.
+I can't connect to the WiFi network using the provided key even though it's marked as Supported
+Many reasons for this. Maybe the WiFi network is full and can't accept any further connections,
+        Maybe the signal is weak or Maybe and most likely the owner has changed his default WPA key.
+I managed to connect to my neightbour's WiFi should I let him know about this?
+The right thing to do is to inform him. But It's up to you man!
+Are all of the supported WiFi keys being stored in a database?
+NO. There is no database involved in this app whatsoever.
+Since you are not using a database to retrieve the supported WiFi keys then how do you do it?
+It's a key generator. It includes some algorithms that have been extracted by reverse engineering (hacking) of
+        the router's firmware
+Why can't you make it hack every router known to man?
+Most of the newer routers are now impossible to crack as the WPA Key generation algorithm
+        is no longer included inside their firmware, so there is no way to find out how the key is generated.
+Why is it taking so long to support new WiFis?
+I'm too busy doing other things and working on new projects of mine at the same time.
+        GWPA Finder is not my main job. It still remains a hobby project.
+What's the point of updates if they don't support any newer routers?
+Updates are vital because they fix bugs and compatibility issues.
+        You are not obligated to install a new update if your current app version is working fine for you.
+Why Auto connect feature won't always work?
+Auto connect feature is very much hardware dependant and won't always work reliably across all devices. Just copy-paste the Key
+        as an alternative solution to be sure.
+Screen Overlay Detected! Don't know what to do
+That's a bug in android 6. In short you have to force stop Facebook Messenger or any other app
+        that draws on top of screen. There are plenty of solutions on the web.
+Let me Google that for you
+Why does your app require location permissions? Why do you need to know my location?
+That's another bug (or a feature if you will) in Androids 6 and above. For some reason the Android devs
+        decided that location services have to be turned on in order for an app to be able to scan for nearby WiFi networks.
+        How are WiFi and location related? They are not directly related but I'm guessing Google took that decision as an extra safety measure.
+        There has been a lot of hype about it lately in
+the official Android issue tracker.
+Users seem to be frustrated as this wasn't the case in previous Android versions. I wouldn't expect things to change any time soon though.
+        Note that your location coords are not actually recorded somewhere they are just needed to be turned on.
+There are too many ads. I hate ads
+Sorry about that. I have to support my work somehow.
+        You can remove them by making an one-time-in-app-purchase from the overflow menu on top right where it says "Remove Ads"
+How can I contribute to the app?
+You can take a pic of the sticker that's underneath your router and have it emailed to me. (You can find my email at Google Play)
+        If I manage to collect a lot of those sticker-pics for the same router brand, there is a chance that I may guess the algorithm that is used
+        to generate the default WPA key. Or maybe not, who knows.
+About
+Thanos Psaridis
+I like programming and developing software.
+Recent Posts
+1
+Easily Connect to WiFi Networks
+July 25, 2020
+2
+May I? - Android Runtime-Permission library
+June 30, 2020
+3
+GWPA Finder - FAQs
+May 2, 2020
+4
+GWPA Finder - FAQs Greek
+May 2, 2020
+Tags
+android
+wifi
+Copyright © 2022
+Thanos Psaridis
+.

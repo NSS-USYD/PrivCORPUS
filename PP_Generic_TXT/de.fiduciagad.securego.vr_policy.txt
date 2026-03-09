@@ -1,0 +1,432 @@
+Datenschutzerklaerung VR SecureGo plus Android - Atruvia
+Datenschutzeinstellungen
+Datenschutz
+Impressum
+Diese Website nutzt Cookies, um dir eine bestmögliche Benutzererfahrung bieten zu können. Dazu findest du hier eine Übersicht über alle verwendeten Cookies. Unsere Website verwendet den Webanalyse-Dienst „Matomo“ in der DSGVO-konformen zustimmungsfreien Variante. Du kannst allerdings in den Details unter „Matomo“ die Speicherung und Nutzung deiner Daten durch Matomo deaktivieren.
+Technisch notwendig
+Technisch notwendige Cookies sind solche, ohne die die Website nicht richtig funktionieren kann. Dazu gehören Cookies für den Zugriff auf sichere Bereiche und die CSRF-Sicherheit. Bitte beachte, dass die Standard-Cookies von Craft keine persönlichen oder sensiblen Informationen sammeln. Die Standard-Cookies von Craft sammeln keine IP-Adressen. Die von ihnen gespeicherten Informationen werden nicht an Pixel & Tonic oder Dritte gesendet.
+Name
+AtruviaSessionID
+Beschreibung
+Diese Website stützt sich auf PHP-Sitzungen, um Sitzungen über Webanfragen hinweg aufrechtzuerhalten. Dies geschieht über das PHP-Session-Cookie. Dieses Cookie verfällt, sobald die Sitzung abgelaufen ist.
+Anbieter
+diese Website
+Ablaufzeit
+Session
+Name
+ATRUVIA_CSRF_TOKEN
+Beschreibung
+Schützt uns und dich als Benutzer vor Cross-Site Request Forgery-Angriffen.
+Anbieter
+diese Website
+Ablaufzeit
+Session
+Name
+atruvia-cookie-consent
+Beschreibung
+Speichert deine gewählten Datenschutzeinstellungen.
+Anbieter
+diese Website
+Ablaufzeit
+Dauerhaft
+Matomo
+Unsere Website verwendet den Webanalyse-Dienst „Matomo“. Matomo ist eine Open Source Lösung.
+Hier kannst du nachfolgend die Speicherung und Nutzung deiner Daten deaktivieren. Dein Browser setzt ein Opt-out-Cookie, welches die Speicherung von Matomo-Nutzungsdaten unterbindet. Wenn du deine Cookies löschst, wird auch das Matomo-Opt-out-Cookie entfernt. Bei einem erneuten Besuch unserer Website ist das Opt-out-Cookie zur Unterbindung der Speicherung und Nutzung deiner Daten erneut zu setzen.
+Name
+MATOMO_SESSID
+Beschreibung
+Optionales Opt-out-Cookie, welches die Speicherung von Matomo-Nutzungsdaten unterbindet.
+Anbieter
+https://matomo.atruvia.de
+Ablaufzeit
+Session
+Details
+Details verbergen
+Speichern
+OK
+Datenschutzeinstellungen
+Zum Inhalt springen
+Karriere
+Zurück
+Karriere
+Professionals & Leads
+Zurück
+Professionals & Leads
+Software-Entwicklung | DevOps | UX Design
+Software Engineering | Architektur
+System Engineering
+Data Engineering | Data Science
+Security | Cyber Defense | IAM
+Governance | Risk & Compliance | Qualitätsmanagement
+Business-Analyse
+(Agiles) Projektmanagement mit Scrum, Innovation
+Testmanagement
+Consulting
+Kundenbetreuung
+Produktmanagement | Product Ownership
+Corporate Functions
+Principals | Executives & Leads
+Dein Start bei uns
+Zurück
+Dein Start bei uns
+Ausbildung
+Duales Studium
+Erste praktische Erfahrungen
+Zurück
+Erste praktische Erfahrungen
+Werkstudententätigkeiten | Praktika für Studierende & Abschlussarbeiten
+Unternehmen
+Zurück
+Unternehmen
+Wir sind Atruvia
+Zurück
+Wir sind Atruvia
+Werte
+Verantwortung
+Zahlen und Fakten
+Geschäftsberichte
+Veranstaltungen
+Marke
+New Work
+Einkauf
+Unternehmensgruppe
+Zurück
+Unternehmensgruppe
+Unsere Geschichte
+Vorstand
+Zurück
+Vorstand
+Martin Beyer
+Ulrich Coenen
+Daniela Bücker
+Ralf Teufel
+Leistungen
+Zurück
+Leistungen
+Wir sind die Möglichmacher*innen
+Zurück
+Wir sind die Möglichmacher*innen
+Banking & Digitale Transformation
+Consulting
+IT-Outsourcing
+Output Solutions
+Plattformen und Ökosystem
+Magazin
+Kontakt
+Newsroom
+Datenschutzerklärung zu VR SecureGo plus
+Der Schutz Ihrer Privatsphäre und Ihrer personenbezogenen Daten ist
+uns ein zentrales Anliegen. Wir verarbeiten Ihre personenbezogenen Daten
+im Einklang mit den jeweils einschlägigen datenschutzrechtlichen
+Vorschriften. Wir unterhalten zudem aktuelle technische und
+organisatorische Maßnahmen zur Gewährleistung des Datenschutzes und der
+Datensicherheit. Alle von uns verwendeten Sicherheitstechnologien
+befinden sich auf dem aktuellen Stand der Technik und werden stetig
+aktualisiert. Unsere Sicherheitskonzepte werden fortlaufend an neue
+Erkenntnisse angepasst und erneuert.
+Im Folgenden möchten wir Sie über unseren Umgang mit
+personenbezogenen Daten bei der Nutzung der App SecureGo plus (im
+Folgenden: „App“) informieren.
+1 Allgemeines
+Die Atruvia AG (nachfolgend auch „Atruvia“ „IT-Dienstleister“ oder
+„wir“) ist Anbieterin dieser mobilen Applikation (nachfolgend „SecureGo
+plus“ oder „App“).
+Die Atruvia AG ist ein Dienstleister Ihrer kontoführenden Bank
+und/oder Ihres Kreditkartenherausgebers und erbringt die nachfolgend
+beschriebene Dienstleistung im Auftrag Ihrer Bank und/oder Ihres
+Kreditkartenherausgebers, der DZ BANK (nachfolgend Kartenherausgeber).
+Die Atruvia AG ist der Dienstleister für Informationstechnologie innerhalb der
+Genossenschaftlichen FinanzGruppe
+. Weitere Informationen zu den Unternehmen finden Sie auf
+www.vr.de
+, sowie auf
+www.atruvia.de
+.
+SecureGo plus ist die zentrale Freigabe- und Sicherheitsanwendung für
+Authentifizierungen und Freigaben für alle Vertriebskanäle in der
+genossenschaftlichen Finanzgruppe und unseren Marktbanken
+(Finanzinstitute und Vertriebskanäle außerhalb der genossenschaftlichen
+Finanzgruppe).
+Über SecureGo plus bekommt der Bankkunde entweder eine
+Transaktionsnummer (TAN) über einen pushTAN-Service oder eine direkte
+Authentifizierungsanfrage (Direktfreigabe) über das SecureGo-System in
+seine „SecureGo plus“-App zugestellt.
+Dem App-Nutzer werden dabei die Geschäftsvorfall-Informationen in der
+App angezeigt. Damit kann er überprüfen, ob der Geschäftsvorfall
+ausgeführt werden soll oder nicht. Im Falle einer angezeigten TAN ist
+die übermittelte TAN manuell zu einzugeben. Im Falle einer
+Direktfreigabe kann der Nutzer direkt in der SecureGo plus-App
+entscheiden, ob er den Geschäftsvorfall ausführen oder abbrechen möchte.
+Wenn er zustimmt, wird er aufgefordert, sich in der App zu
+authentifizieren. Das Ergebnis der Authentifizierung wird an das
+SecureGo-System zur Verarbeitung weitergegeben.
+Die App enthält sowohl die Authentifizierungsvorgänge für den Teil
+des Online-Bankings als auch für den Teil der Kreditkarten
+Authentifizierungen.
+Nachfolgend finden Sie Informationen, welche personenbezogenen Daten
+während der Nutzung der Applikation anfallen und wie der Umgang mit
+diesen Daten geregelt ist.
+Die Nutzung der App ist optional. Sie können selbst entscheiden, ob Sie diese App herunterladen und/oder installieren.
+2 Geltungsbereich
+Diese Datenschutzerklärung informiert Sie über die Verarbeitung personenbezogener Daten im Rahmen der Nutzung unserer App.
+Für die Datenverarbeitung im Rahmen von Kreditkartentransaktionen gilt die Datenschutzerklärung Ihres Kartenherausgebers.
+Für die Datenverarbeitung im Rahmen des Online-Bankings gilt die
+Datenschutzerklärung Ihrer jeweiligen Bank. Diese Institute sind, für
+die anschließende Datenverarbeitung nach erfolgter Ersteinrichtung,
+verantwortliche Stelle im Sinne des Datenschutzgesetzes.
+3 Definitionen
+3.1 Personenbezogene Daten
+Personenbezogene Daten sind alle Informationen, die sich auf eine
+identifizierte oder identifizierbare natürliche Person beziehen. Als
+identifizierbar wird eine natürliche Person angesehen, die direkt oder
+indirekt identifiziert werden kann, insbesondere mittels Zuordnung zu
+einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu
+einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen,
+die Ausdruck der physischen, physiologischen, genetischen, psychischen,
+wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen
+Person sind, (Art. 4 Nr. 1 DSGVO).
+3.2 Verarbeitung
+Verarbeitung umfasst das Erheben, Erfassen, die Organisation, das
+Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen,
+das Abfragen, die Verwendung, die Offenlegung durch Übermittlung,
+Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder
+die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung
+personenbezogener Daten (Art. 4 Nr. 2 DSGVO).
+Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein
+Kontaktformular wird Ihre E-Mail-Adresse und, falls Sie von Ihnen
+angegeben werden, Ihr Name und Ihre Telefonnummer von uns gespeichert,
+um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden
+Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist,
+oder – im Falle von gesetzlichen Aufbewahrungspflichten – schränken die
+Verarbeitung ein.
+Falls wir für einzelne Funktionen unseres Angebots auf beauftragte
+Dienstleister zurückgreifen oder Ihre Daten für werbliche Zwecke nutzen
+möchten, werden wir Sie untenstehend im Detail über die jeweiligen
+Vorgänge informieren. Dabei nennen wir auch die festgelegten Kriterien
+der Speicherdauer.
+4 Verantwortlicher
+Verantwortlicher der App im Sinne von Art. 4 Nr. 7 DSGVO ist:
+Ihre Kontoführende Bank und/oder Ihr Kreditkartenherausgeber
+Weitere Informationen zu den Unternehmen finden Sie auf
+www.vr.de
+, sowie auf
+www.atruvia.de
+.
+5 Datenschutzbeauftragter
+Der Datenschutzbeauftragte der Atruvia AG ist wie folgt erreichbar
+Datenschutzbeauftragter Fiduciastraße 20, 76227 Karlsruhe GAD-Straße 2-6, 48163 Münster
+E-Mail: datenschutz@atruvia.de
+6 Datenverarbeitung
+Im Rahmen der Nutzung der App verarbeiten wir Ihre Daten zu
+nachfolgend näher beschriebenen Zwecken auf Basis der untenstehenden
+Rechtsgrundlagen.
+6.1 Datenverarbeitung durch Herunterladen der App aus dem App Store
+Bei Herunterladen der mobilen App werden die erforderlichen
+Informationen an den App Store übertragen, also insbesondere Nutzername,
+E-Mail-Adresse und Kundennummer Ihres Accounts, Zeitpunkt des
+Downloads, Zahlungsinformationen und die individuelle Gerätekennziffer.
+Auf diese Datenerhebung haben wir keinen Einfluss und sind nicht dafür
+verantwortlich.
+6.2 Allgemeines zur Nutzung
+Nach Ersteinrichtung der App (Details unter Punkt 6.2 a) wird eine
+Verbindung in das Banksystem und bei Verwendung der
+Kreditkartenfunktionalität zusätzlich eine Verbindung zum System des
+Kartenherausgebers hergestellt, um Ihren eine Kreditkarten-Kennung der
+App anzuzeigen. Im Zuge der Kreditkarten-Authentifizierung wird der
+gesamte Datenverkehr in Verantwortung des Kartenherausgebers abgewickelt
+6.3 Zwecke der Datenverarbeitung und Rechtsgrundlagen
+Soweit in den folgenden Abschnitten nicht anders beschrieben, folgt
+die Rechtsgrundlage für Datenverarbeitung im Rahmen der Nutzung der App
+aus Art. 6 Abs. 1 S. 1 lit. b DSGVO. In diesem Fall ist die Verarbeitung
+Ihrer Daten notwendig, um Ihnen die Funktionalitäten der App zur
+Verfügung zu stellen.
+a) Ersteinrichtung der App
+Für die Erstanmeldung in der App müssen Sie die nachfolgenden Angaben machen, die für die Nutzung notwendig sind:
+Freigabe-Code, welchen Sie selbst vergeben
+Aktivierungscode für die jeweilige Bankverbindung
+Kreditkarten-Kennung, welche zufällig und automatisch vom Server generiert wird.
+Die Verarbeitung dieser Daten insbesondere ihre Speicherung auf Ihrem
+Gerät ist notwendig, um Ihnen die uneingeschränkte Nutzung unserer App
+zur Verfügung stellen zu können, insbesondere um eine Verbindung zu
+Ihrem Kartenherausgeber herzustellen. Das in der App vom Nutzer
+vergebene optionale Kennwort für den Zugriffschutz wird nur lokal in der
+App gespeichert und nicht an oder Dritte weitergegeben.
+b) Freischaltung der Applikation
+Um die Applikation nutzen zu können, ist eine gesonderte Aktivierung mit dem Aktivierungscode nötig.
+Dabei tauscht die App Daten (Kryptographische Schlüssen und
+Gerätespezifische Daten sowie die App-ID) mit den Servern der Bank oder
+des Kartenherausgebers aus. Aufgrund der Gerätespezifischen Daten und
+der App-ID kann eine dauerhafte Zuordnung in der Kombination App und
+Gerät erfolgen. Die Datenverarbeitung im Rahmen der Registrierung ist
+erforderlich, um Ihnen die Funktionen der App zur Verfügung zu stellen.
+Sie dient ferner dazu, Ihre Daten vor dem unberechtigten Zugriff Dritter
+und vor Missbrauch der Registrierungsfunktion zu schützen. Die
+Speicherung Ihrer Daten erfolgt daher auch auf Grundlage von Art. 6 Abs.
+1 lit. f) DSGVO und dient sicherheitstechnischen Interessen.
+c) Push-Benachrichtigungen
+Sie haben die Möglichkeit im Rahmen der Nutzung dieser App sogenannte Push-Nachrichten zu erhalten. Push-Benachrichtigungen sind Meldungen, die ohne das Öffnen der jeweiligen App auf Ihrem Smartphone erscheinen. Die Push-Benachrichtigung dient dazu, den Nutzer über neue
+Authentifizierungsnachrichten (z.B. Direktfreigaben oder
+Transaktionsnummern) zu informieren. Die Informationen selbst stehen
+nicht in der Push-Benachrichtigung, sondern können erst nach dem Öffnen
+der App abgerufen werden.
+Für den Empfang von Push-Nachrichten ist eine Registrierung
+der App bei den Betriebssystembetreibern notwendig. Dabei wird durch die
+Betreiber ein Token generiert und an die App übergeben. Das sogenannte Geräte-Token wird anschließend an Ihr Institut bzw. dem IT-Dienstleister übermittelt und dort gespeichert. Zur Aktivierung der Funktion ist Ihre Einwilligung erforderlich (Art.
+6 Abs. 1 lit. a) DSGVO). Die Einwilligung kann jederzeit, mit Wirkung
+für die Zukunft, in den Systemeinstellungen entzogen werden.
+d) Touch ID/Face ID/Fingerprint
+Nach Vergabe eines Zugriffschutzes ist ein optionaler Login über die
+biometrischen Merkmale des Gerätes z. B.: per Touch ID/Face ID (iOS)
+oder Fingerprint (Android) möglich. Wenn Sie diese Funktion aktivieren,
+müssen Sie nicht bei jeder Anmeldung Ihren Zugriffscode sowie Ihren
+Freigabecode bei Freigaben eingeben, da Sie sich alternativ über diesen
+Weg authentifizieren. Diese Daten werden nur lokal am Gerät gespeichert
+und nicht zur Verarbeitung an die Atruvia AG oder Dritte weitergegeben.
+Wie diese Daten durch den Hersteller Ihres eigenen Betriebssystems
+(Android / Apple) verarbeitet werden, können Sie dem Datenschutzhinweis
+dieses Unternehmen entnehmen.
+e) Gerätebindung/ App-ID
+Zur Nutzung der App wird eine sog. Gerätebindung hergestellt. Die
+Funktion wird erstmalig nach der Vergabe des durch einen Freigabe-Codes
+eingerichtet werden. Es wird eine eindeutige ID Ihres Gerätes
+gespeichert, da die Funktionen nur auf dem verwendeten Gerät genutzt
+werden können. Bei Neuinstallation der App oder einem Gerätewechsel muss
+die Gerätebindung erneut hergestellt werden
+f) Zugriff Kamera
+Bei Nutzung des Scannens des QR-Codes auf dem Aktivierungscode scannt
+die Applikation den QR-Code mit der Kamera des Geräts und benötigt
+daher entsprechende Zugriffsrechte.
+g) Anzeige der Authentifizierungs-/Transaktionsdaten in der App
+Bei der Nutzung der App im Rahmen des Onlinebankings werden im Rahmen
+des jeweiligen Geschäftsvorfalles die Transaktionsdaten (Bankverbindung
+des Zahlungsempfängers inkl. IBAN) in der App angezeigt. Bei Nutzung
+der Funktionen der App im Rahmen der Kreditkarten-Transaktionen werden
+in der App Ihre Transaktionsdaten angezeigt. Es erfolgt keine
+Speicherung der Daten in der App.
+h) Nutzung von Splunk
+Wir verwenden das Tool Splunk um Informationen über Fehler und
+Abstürze, die in unserer App auftreten können, zu sammeln. Hierdurch
+können wir die Stabilität und Qualität unserer Apps verbessern. Dazu
+werden bei Abstürzen der App in Echtzeit Absturzberichte an die Server
+innerhalb des Rechenzentrums der Atruvia AG übermittelt und analysiert,
+um die Stabilität der App verbessern zu können. Die Absturzberichte
+enthalten dabei auf Ihre Nutzung unserer App bezogene Informationen zum
+Gerätezustand, Gerätetyp, Betriebssystem, App-Version, Zeitpunkt des
+Absturzes sowie die Geräteidentifikationsnummer und Standortdaten zum
+Zeitpunkt des Absturzes.
+Die Übermittlung und Analyse Ihrer Daten durch Splunk findet nur mit
+Ihrer vorherigen Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO
+statt. Sie haben die Möglichkeit, Ihre Einwilligung mit Wirkung für die
+Zukunft zu widerrufen. Sie können den Widerruf Ihrer Einwilligung
+erklären, indem Sie unter dem Menüpunkt „Einstellungen“ den
+Toggle-Button „Diagnosedaten anonymisiert teilen" deaktivieren.
+Die erzeugten Informationen über die Nutzung werden innerhalb unseres
+Rechenzentrums gespeichert und nur zur Fehleranalyse und Fehlerbehebung
+verwendet.
+6.4 Datensicherheit
+Wir unterhalten aktuelle technische Maßnahmen zur Gewährleistung der
+Datensicherheit, insbesondere zum Schutz Ihrer personenbezogenen Daten
+vor Gefahren bei Datenübertragung sowie vor Kenntniserlangung durch
+Dritte. Diese werden dem aktuellen Stand der Technik entsprechend
+jeweils angepasst. Die Datenübertragungen erfolgen über
+SSL-verschlüsselte Verbindungen.
+6.5 Datenempfänger
+Eine Weitergabe Ihrer Daten erfolgt grundsätzlich nur auf Ihre
+Veranlassung durch die Nutzung der App-Funktionen. Empfänger Ihrer Daten
+sind Ihre Bank, die DZ Bank als Kartenherausgeber oder andere an der
+Nutzung der Funktionen der App beteiligten Dritte.
+Sofern wir zur Verarbeitung Ihrer Daten spezialisierte Dienstleister
+einsetzen, werden diese von uns sorgfältig ausgewählt und regelmäßig
+kontrolliert. Sie verarbeiten personenbezogene Daten nur in unserem
+Auftrag und strikt nach unseren Weisungen auf der Grundlage
+entsprechender Verträge über eine Auftragsverarbeitung.
+Darüber hinaus übermitteln wir Ihre personenbezogenen Daten nur,
+soweit eine gesetzliche Verpflichtung zur Weitergabe besteht. Die
+Übermittlung erfolgt auf Grundlage von Art. 6 Abs. 1 S. 1 lit. c DSGVO
+(z.B. an die Polizeibehörden im Rahmen von Strafermittlungen oder an die
+Datenschutzaufsichtsbehörden).
+6.6 Speicherdauer der personenbezogenen Daten
+Sofern unter Kapitel 6.2 nicht anders beschrieben, verarbeiten und
+speichern wir Ihre Daten, soweit dies für die Dauer der Nutzung unserer
+App durch Sie erforderlich ist. Ihre personenbezogenen Daten werden
+unverzüglich gelöscht, wenn diese für die Zwecke, für die sie von uns
+verarbeitet wurden, nicht mehr notwendig sind.
+Sofern Ihre personenbezogenen Daten für die Geltendmachung und
+Abwicklung von zivilrechtlichen Ansprüchen erforderlich sind, werden sie
+entsprechend der allgemeinen Verjährungsfristen für 3 Jahre ab Schluss
+des Jahres, in dem der Anspruch entstanden ist und Sie Kenntnis von den
+anspruchsbegründenden Tatsachen erlangt haben oder ohne grobe
+Fahrlässigkeit hätten erlangen müssen (§§ 195, 199 Bürgerliches
+Gesetzbuch), gespeichert.
+Sofern darüber hinaus besondere gesetzliche Aufbewahrungspflichten
+bestehen, speichern wir Ihre personenbezogenen Daten bis zur Erfüllung
+dieser Pflicht. Nach Ablauf dieser Fristen werden die betreffenden Daten
+routinemäßig gelöscht.
+7 Rechte des Betroffenen
+7.1 Widerruf Ihrer Einwilligung
+Sofern Sie uns eine Einwilligung für die Verarbeitung ihrer
+personenbezogenen Daten erteilt haben (Art. 6 Abs. 1 S. 1 lit. a)
+DSGVO), können Sie diese jederzeit widerrufen. Der Widerruf Ihrer
+Einwilligung wirkt für die Zukunft. Die Rechtmäßigkeit der Verarbeitung
+Ihrer personenbezogenen Daten bis zum Zeitpunkt des Widerrufs bleibt
+unberührt. Bitte richten Sie Ihren Widerruf an den:
+Datenschutzbeauftragten der Atruvia AG:
+Fiduciastraße 20, 76227 Karlsruhe
+GAD-Straße 2-6, 48163 Münster
+E-Mail: datenschutz@atruvia.de
+Sofern Sie Ihre Einwilligung widerrufen, verarbeiten wir Ihre in
+diesem Zusammenhang erhobenen personenbezogenen Daten zur Beantwortung
+Ihrer Anfrage. Die Verarbeitung Ihrer personenbezogenen Daten erfolgt
+auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f) DSGVO
+7.2 Berechtigte Interessen an der Datenverarbeitung und Widerspruch
+Soweit wir Ihre personenbezogenen Daten auf Grundlage unserer
+berechtigten Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO) verarbeiten,
+können Sie der Datenverarbeitung aus Gründen, die sich aus Ihrer
+besonderen Situation ergeben, jederzeit widersprechen.
+7.3 Weitere Betroffenenrechte
+Sie können jederzeit von uns nach Maßgabe der DSGVO verlangen, dass wir
+Ihnen Auskunft über die Sie betreffenden personenbezogenen Daten, die wir verarbeiten, erteilen (Art. 15 DSGVO),
+personenbezogene Daten, die Sie betreffen und unrichtig sind, berichtigen (Art. 16 DSGVO),
+löschen (Art. 17 DSGVO),
+Ihre bei uns gespeicherten personenbezogenen Daten einschränken (Art. 18 DSGVO) und/ oder
+herausgegeben oder übermitteln (Art. 20 DSGVO).
+2. Richten Sie Ihre Anfragen bitte an den:
+Datenschutzbeauftragten der Atruvia AG:
+Fiduciastraße 20, 76227 Karlsruhe
+GAD-Straße 2-6, 48163 Münster
+E-Mail: datenschutz@atruvia.de
+3. Unbeschadet Ihrer Rechte nach Ziffer 7. können Sie sich bei einer
+Aufsichtsbehörde beschweren, wenn Sie der Ansicht sind, dass die
+Verarbeitung der Sie betreffenden personenbezogenen Daten durch uns
+gegen die DSGVO verstößt (Art. 77 DSGVO).
+8 Keine automatisierte Entscheidungsfindung
+Wir haben nicht die Absicht, von Ihnen erhobene personenbezogene
+Daten für ein Verfahren zur automatisierten Entscheidungsfindung
+(einschließlich Profiling) zu verwenden.
+9 Drittlandübermittlung
+Eine Übermittlung Ihrer Daten an Drittgesellschaften, die ihren Sitz außerhalb des Europäischen Wirtschaftsraums (EWR) haben, findet nur nach Erteilung ihrer expliziten Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO oder zur Erfüllung einer rechtlichen Verpflichtung gem. Art. 6 Abs. 1 lit. c) DSGVO statt.
+10 Änderung der Datenschutzerklärung
+Wir behalten uns das Recht vor, die Datenschutzerklärung an die
+aktuellen rechtlichen Anforderungen sowie Änderungen unserer Leistungen
+anzupassen. Für Ihren Besuch gilt die jeweils aktuelle
+Datenschutzerklärung. Die aktualisierte Datenschutzerklärung gilt ab dem
+Zeitpunkt, in dem sie Ihnen bekanntgegeben wurde.
+Stand: Dezember 2022
+Datenschutzerklaerung VR SecureGo plus Android
+Karriere
+Professionals & Leads
+Dein Start bei uns
+Erste praktische Erfahrungen
+Unternehmen
+Wir sind Atruvia
+Unternehmensgruppe
+Vorstand
+Leistungen
+Wir sind die Möglichmacher*innen
+Social Media
+Impressum
+Kontakt
+Datenschutzerklärung
+Gender-Hinweis
+Anfahrt
+Hinweisgeberstelle

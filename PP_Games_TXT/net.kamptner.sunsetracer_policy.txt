@@ -1,0 +1,99 @@
+KAMGAM games
+Games
+Unity Tools
+About KAMGAM
+Privacy Policy
+kamgam.com Privacy Policy - December 23rd, 2020
+KAMGAM e.U., Moos 24, 4470 Enns, Austria (“kamgam.com”)
+Games, services and websites provided on the respective platform (“kamgam.com ' Services”, "Services")
+If you are here to opt out of all data collection then please go
+here
+.
+This Privacy Policy governs your use of kamgam.com and all the services that kamgam.com offers on the kamgam.com websites including the games and applications offered by KAMGAM and those accessed through third party web sites.
+Privacy
+Information collected from you on any third party website is subject to the pertinent third party’s policy. By use of our service, you may be granting your third party website (example: social network) permission to share your e-mail address and any other personally identifiable information with KAMGAM. If you do not agree, then you should either deny the requests presented to you at the first start of our service or not use KAMGAM services or not submit any personally identifiable information through them.
+Cookies
+KAMGAM may use “cookies” to store personal data on your computer. If it does it will show a "cookie banner" with more detailed settings. We may also link information stored on your computer in cookies with data about specific individuals stored on our servers (example: "remember me" feature of login forms). If you set up your web browser so that cookies are not allowed, you might not be able to use some or all of the features of KAMGAM's Services.
+Logfiles
+KAMGAM's Services may store data which is used to obtain technical and statistical information to improve the services.
+Analytics in our applications
+If you allowed data collection at the first start of our service you agreed to this data being collected and used for analytics. To that end KAMGAM may use third party solutions to improve the game and track certain data like player behaviour, error reports, location (based on IP address), game progress and device information (like os version, hardware model, your chosen language).
+GameAnalytics.com
+KAMGAM may use the service of GameAnalyics (https://gameanalytics.com) which is a company based in Denmark (EU). Parts of their data collection may take place in the US which was formerly covered by the
+EU-US Privacy Shield
+and is now operating under the SCC (EU Standard Contractual Clauses) as defined in GDPR Article 46 (2)(c). By using our services you are also subject to their
+privacy policy
+. Please send any requests concerning deletion or correction of your analytics data directly to privacy@gameanalytics.com or follow the
+opt out instructions
+.
+Unity Analytics
+KAMGAM may use Unity Analytics (https://unity3d.com/solutions/analytics). Parts of their data collection may take place in the US which was covered by the
+EU-US Privacy Shield
+and is now operating under the SCC (EU Standard Contractual Clauses) as defined in GDPR Article 46 (2)(c). You can find out more on the Unity
+privacy policy
+pages. At the moment Unity Analytics does not offer an opt-out on a website. If you do not want your information collected then you need to either stop using the app or deny the request for analytics at the first start of the app (can be changed any time within the app). Please send any requests concerning deletion or correction of your data directly to DPO@unity3d.com or follow the
+opt out instructions
+Your rights according to the GDPR
+Under the EU General Data Protection Regulation (GDPR) you have the right for information, correction, deletion, restriction, data portability, revocation and opposition. If you want to exercise your right under the GDPR then please contact us under office<AT>kamgam<DOT>com.
+Data Collection Services & Opt-Out
+Some, not all, maybe none of the following webservice may apply to you.
+KAMGAM Games
+Here you will find the data deletion instructions for our game(s).
+Airborne Motocross
+Airborne Motocross does not save any personal data. The only data that is saved is your progress in-game.
+Even if you send a restore code to your e-mail address we will not save your e-mail. It is just used once to send the message and is not stored permanently.
+However, the game serves ads through the Unity Ad network. To check how you can delete your data from their network please refer to the "Unity Analytics & UnityAds Opt-Out" section below.
+If you have any questions or want your game related savegame data deleted please write to app-support@kamgam.com. Please mention your user id in your request. You can find it in the main menu (bottom left corner) right below the popup with the "Settings, Feedback ,.." buttons (the small grey font). It's the part that says "u:" followed by a 10 digit random combination.
+Please notice that replies may take a few days. Thank you for your patience.
+Facebook Opt-Out
+Opt-Out for US or Canada users:
+https://www.facebook.com/help/contact/1461223320847982
+Opt-Out for Users in Other Countries:
+https://www.facebook.com/help/contact/1461223320847982
+Privacy Policy:
+https://www.facebook.com/about/privacy
+IronSource Opt-Out
+Opt-Out:
+mobile-gdpr-requests@ironsrc.com
+Submit a request to
+mobile-gdpr-requests@ironsrc.com
+containing a proof of your personal IDFA/GAID. Please mention in the subject line if it is a deletion or pull request.
+    ironSource will process the request within 30 days, subject to our GDPR policy
+    For access requests, we will reply with data covering the categories included in the linked excel templates
+    For deletion requests, we will send a confirmation email which confirms that your IDFA/GAID was deleted
+Privacy Policy:
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy
+Vungle Opt-Out
+Opt-Out:
+https://vungle.com/opt-out
+Vungle uses this ID, along with contextual data (see above) and performance data such as which ads you have seen in the past, ads you have clicked on, and apps you have downloaded after viewing ads for those apps, to customize the ads you will see in the future. Here are just a few examples of how this makes the ads you see more relevant (and hopefully more interesting):
+If you download a game or app from one of our ads we won’t show you ads for that app in the future.
+If we show you an ad multiple times and you don’t click on the ad or download the app we will show you different ads going forward.
+We do not have access to any personal data like your email address, browsing history, or other contact information, so we cannot associate the advertising ID with that type of data. For more details on the data Vungle collects from your device and how we use it, please see Vungle’s privacy policy (www.vungle.com/privacy).
+Privacy Policy:
+https://vungle.com/privacy
+Unity Analytics & UnityAds Opt-Out
+Opt-Out: Click the "Unity Privacy Options" button in the app.
+Unity does not provide a public website to Opt-out of data collection. Instead you will find a "Privacy Options" Button in every KAMGAM game which uses Unity Analytics. Click it to start the Opt-out process.
+Privacy Policy:
+https://unity3d.com/legal/privacy-policy
+GameAnalytics OptOut
+OptOut: privacy@gameanalytics.com
+Submit a request to
+privacy@gameanalytics.com
+. Please mention in the subject line if it is a deletion or pull request.
+Under Data Protection Laws you have certain data subject rights including the right to: (i) request access to and rectification or erasure of Your Personal Data; (ii) obtain restriction of processing or to object to processing of Your Personal Data; and (iii) ask for a copy of Your Personal Data to be provided to You, or a third party, in a digital format. If you wish to exercise one of the above mentioned rights, please contact us at privacy@gameanalytics. If Your Personal Data are erased or transferred to a third party , then Your Account may be deactivated. You also have the right to lodge a complaint about the processing of Your Personal Data with Your local data protection authority.
+Privacy Policy:
+https://gameanalytics.com/privacy
+Third Party Sites
+KAMGAM' Services may contain links to third-party websites that are not owned or controlled by KAMGAM. KAMGAM has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, KAMGAM will not and cannot censor or edit the content of any third-party site. By using the KAMGAM' Services, you expressly relieve KAMGAM from any and all liability arising from your use of any third-party website.
+Modification of Privacy Policy
+KAMGAM reserves the right to change or modify the Privacy Policy at any time. We will attempt to give you advance notice of any substantive changes, but reserve the right to make such modifications immediately if required. If you use KAMGAM Services after any of such changes become effective you are accepting the new Privacy Policy. If you do not agree, do not use or access (or continue to use or access) the Services. It is your responsibility to check if there have been changes to these Privacy Policy and to review such changes.
+KAMGAM is committed to ensure the confidentiality of personal information. If you have any questions about our Privacy Policy, please contact us at office<AT>kamgam<DOT>com
+imprint & contact
+|
+terms of service
+|
+code of conduct
+|
+privacy policy

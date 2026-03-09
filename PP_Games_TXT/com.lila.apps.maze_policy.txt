@@ -1,0 +1,33 @@
+Privacy Policy
+Data collected in
+Knoxapps Apps
+Knoxapps is committed to not collecting personally identifiable or sensitive information about you. Our games do collect some non-sensitive, anonymous data as outlined below:
+Data collected for Analytics
+We have implemented Analytics tools to help us understand how our games are being used in order to help us improve our games and plan for future game releases. For example we use Flurry Analytics and Google Analytics which keep track of how many players have beaten each level of the game, made an in-app purchase, device type, operating system and country of access.
+Data collected for Advertising
+Because Knoxapps games are free-to-play, we periodically display in-game advertising by third parties to generate revenue. In order to display relevant advertising (also known as interest based advertising) and measure performance of advertising campaigns we have implemented several ad-network SDK within the game which collect and transfer non-sensitive device information including:
+The advertisement you have viewed and if you have engaged with it
+Device make and manufacturer
+Operating System
+Generic geographic location, such as the city you are located in
+Carrier
+Language settings
+IP Address
+Android Advertising identifier or Apple Identifier for Advertisers
+Why collect data?
+By collecting data on app usage and about your device and location, we are better able to integrate updates, implement device specific testing, explore localisation opportunities and make better games that are tailored to our user's needs.
+When we offer our games as free-to-play, we still require the game to generate income to help fund development costs and efforts to make the best game possible. Advertising is one way we can help cover our costs, and in order to implement relevant advertising a certain amount of non-sensitive information is required by each ad network.
+Opt Out
+By playing JOX Development games you are consenting to the above collection of anonymous, non-sensitive data as outlined in this privacy policy.
+If you would like to opt-out of interest based advertising or collection of data for analytics, or find out more information of any Analytics or Ad network products implemented within JOX Development games, please refer to the relevant links below (please note that individual privacy policies may be updated from time to time for any reason)
+Crashlytic and Answers
+Privacy Policy - Crashlytic
+Privacy Policy - Answers
+Google Analytics and AdMob
+Privacy Policy
+Opt-out
+Unity Ads Network
+Privacy Policy and Opt-out
+If you have any questions or concerns you can contact us at
+info@scarymaze.app
+Last updated 24 May 2018

@@ -1,0 +1,48 @@
+Music player - MP3 player
+Search this site
+Skip to main content
+Skip to navigation
+Music player - MP3 player
+Privacy Policy
+Welcome to Music Player - MP3 Player!
+By using Music Player - MP3 Player, you consent to have read, understood and agree to our “Privacy Policy” .
+1. Definitions:
+Unless the context provides otherwise:
+Application shall mean “Music Player - MP3 Player”
+We, Our, Us and Developer shall mean Music Player - MP3 Player
+User shall mean the person using the Application
+Storage shall mean your SD card/External Storage and internal storage of your device
+2. WHAT INFORMATION WE COLLECT
+The first thing, we would say that: we do not collect any personal identifiable information (PII) from you when you download our Android applications. To be specific, we do not require the consumers to get registered before downloading the application, nor do we keep track of the consumers' visits of our application, we even don't have a Server to store such PII.
+2.1. Personal Information
+We made apps with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.
+In situations, we guarantee that your PII will only be used for contacting you and improving our services. We will never use such information (e.g. your name and email address) for any other purposes, such as to further market our products, or to disclose your personal information to a third party for commercial gains.
+2.2. Non-Personal Information
+Non-personal information is data in a form that does not permit direct association with any specific individual, such as your Android ID, CPN model, memory size, your phone IMEI number, phone model, rom, phone operator, location, install, uninstall, frequency of use, etc.
+We may collect and use non-personal information in some circumstances. To have a better understanding in user’s behavior, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as the data of install, frequency of use, country, equipment and channel.
+If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+3. Permission
+We need somes permissions to make functions of the application work properly:
+Read and write internal and external storage:
+to scan music files on your device to make song list.
+to play music file and read some information of music
+to
+edit song files: edit tag, cut, rename
+to delete music file as user requirement
+Wake lock: to keep phone awake during the playback.
+Internet: Fabric analytics and serving Ads.
+4. CHILDREN'S PRIVACY
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+5. CONTACT US
+If you want further information about our privacy policy and what it means or if you have concern about your PII being misused, please feel free to email us at
+alonecoder75
+@gmail.com, we will endeavour to provide clear answers to your questions in a timely manner.
+Thank You,
+Welcome to Music Player - MP3 Player!
+App Link —
+play.google.com/store/apps/details?id=com.music.player.simple
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

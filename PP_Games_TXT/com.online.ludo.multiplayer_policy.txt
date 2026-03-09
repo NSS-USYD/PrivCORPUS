@@ -1,0 +1,132 @@
+Privacy policy for super Ludo Games
+PRIVACY POLICY
+We respect the privacy of our users and we ensure that their privacy is our priority. We collect information that is only linked with our game products. We don’t collect and identify your personally identifiable information. To play the game you agree to the privacy policy. For further support Please read our privacy policy to get a clear understanding of how we collect data.
+AUTHENTICATIONS
+1.
+FACEBOOK AUTHENTICATION
+If you use Facebook Login for authentication, Facebook may use your personal information for their purposes. In this situation, please refer to Facebook’s privacy- and other relevant policies.
+-
+LOGIN
+When the user registers and login via Facebook, the platform will request to acquire the user’s profile picture, nickname, region & gender, which requires the user’s permission. The platform is unable to acquire the above personal information if the user did not permit it.
+-
+OTHER DATA
+-
+User’s friends will not be notified upon permitting access and the platform will not use the friends’ data for other users.
+-
+Users can disable/leave the Facebook login/authentication, the platform will no longer be permitted to gain user’s data.
+HOW WE USE THIS INFORMATION?
+We may use information about you for various purposes, including to:
+Provide, maintain and improve the App;
+Develop new apps, sites and services;
+Provide and deliver the products and services you request and send you related information;
+Send you technical notices, updates, security alerts and support and administrative messages;
+Provide news and information about the App that we think will be of interest to you;
+Personalize and improve the App and provide tailored content and features;
+Monitor and analyze trends, usage and activities in connection with the App;
+Link or combine with information we get from others to help understand your needs and provide you with better service
+How User May Request To Delete Data?
+-        Users can disable/leave the Facebook login/authentication, the platform will no       longer be permitted to gain user’s data.
+-           when user leave the Facebook login or logged out from Facebook the platform will delete the all user’s data like:
+•           Profile Picture
+•           User name
+•           Region
+•           Gender
+•           And all Facebook data that is fetched.
+-           If user delete / uninstall the game/app we are no longer available to get users data. The user’s data will be deleted automatically.
+-           User can also delete the data by clear app data from app info.
+-           If still at any point user wants us to delete any specific information or requests, we immediately take action against it and delete the data permanently.
+2.
+GOOGLE AUTHENTICATION
+User can log in via a Gmail account
+-
+Profile Picture, Name & Location
+When users log in via Gmail, the platform will request to acquire the user’s profile picture, name & location, which requires the user’s permission.
+3.
+GOOGLE PLAY SERVICES
+Super ludo multiplayer games also use google play services. Google play services are used to get you signed in with single clicks. You can see your and other's progress on the leadership boards. You can sync your account on different devices.
+-
+LEADER BOARDs & ACHIEVEMENTS
+We may collect your leader board achievements & scores to show your rankings in-game.
+4.
+PLAY AS GUEST
+If user play as a guest, then we are not able to collect their personal information.
+We may collect their non-personal information to build their user profile.
+MULTIPLAYER
+-
+Across the globe, different players are invited to play the game. All the data inside the game is secured. The game allows you to chat with friends. We can only access the real-time chat. We don’t save your chats or archive them.
+Service
+Service refers to the mobile privacy and application for Video Call.
+Individual Data
+Personal information is any information that can be used to identify a living person (or from those and other information either in our possession or likely to come into our possession).
+User Information
+Usage Data is information that is automatically gathered from the service's infrastructure or from users of the service (for example, the duration of a page visit).
+Game permissions and requests:
+Depending on your device and OS version, our apps may request you to approve certain permissions. Below is a list of these permissions and info on why we ask for these permissions.
+Information and Permission to Access the Game:
+This includes the data you provide us with when you create an account using Facebook or Gmail. Your email address, which you give us when you sign up for the Service, serves as your account identifier. When creating your profile, you also have the choice of including your first and last name as well as a username.
+Internet access & Requirements:
+Before connecting to our game, make sure your network connection is strong. If you don't have a limited connection, you can't play online, and we'll let you know there's no network available. So please join one. Although the official Ludo Fantasy requirements state that you must always have an online connection, you can frequently go offline for extended periods of time. Naturally, you won't be able to update your themes and boards or utilize anything that is connected to the internet if you buy new products, download any new or updated demos or courses, or visit our Marketplace without an internet connection. Please note that in order to avoid your account information from expiring at least once every 28 days, our game requires an active internet connection. Use a secure and best network for best experience.
+Camera and Video Access Permissions:
+The camera and microphone settings on your device may be used by the Service. If you give the Service permission to use your device's camera and microphone The Service will only be able to see your own video chat with the other party and the other party's video chat will also be visible if you grant it permission to utilize your device's camera and microphone. We must gather pictures and other data from your device's camera and photos in order to perform various parts of our Service. For instance, unless you have given us permission to use your camera or microphone, you won't be able to use the video call chat room.
+Record Audio:
+English-speaking users can utilize Voice Commands to operate Star Chart on some platforms. The OS's Voice API interprets these voice commands. In order to use the Voice API for voice commands on Android, we must request 'Record Audio' permission from every user worldwide. Other than what is necessary for the API to understand the audio instructions, we do not collect any audio from your device unless you specifically activate the voice command feature. In order to carry out your requests, some voice command software, for instance, sends audio command snippets to a server where they are evaluated & translated before the results are delivered to the app. If you haven’t any audio, record permission you unable to access the voice command feature and user can’t use or unable to hear any sound.
+Voice/Microphone Access:
+This device access permission enables the Service to detect spoken words in captured or real-time audio. We use it to manage text dictation and recognize spoken commands. In order to perform speech recognition, audio of the user's voice must be recorded and sent to servers for processing and analysis. These servers are run by either Apple or Android, depending on the operating system of your device. Your choice to accept or reject the request will be presented to you the first time the Service asks for permission to use voice recognition. In order to prevent the user from being prompted again by subsequent queries, the system saves the user's selection. The settings on your device allow you to change this permission.
+STARTING VIDEO CALL:
+When a user clicks the start video call button, the user's two preferred options—private video calls and video calls rooms—open.
+We will ask for your permission to use the camera and microphone before you join to any video call, whether it is a private call or another user enters the video call rooms. If the user refuses the request, they will not be able to use the video call feature.
+If you have any network issues, make sure your internet connection is completely limited so you can enter and open any video call chat rooms.
+When a user clicks on a private room, a screen with two options appears. The first option is to create a room and privately add friends. The second option is to join the room. In this case, the user only needs to mention the room name if any of his friends tell him to or by sharing the link with him.
+The following function is video call rooms. Each room has a different list of available rooms, and users can choose where they wish to enter each one. Five to six people can communicate in a video call room at a time.
+This device permission enables the service to use your device's camera to take pictures including any photos that are already on it. If this request is approved, the service will be able to view and store photos and videos on your device as well as upload new ones. A lot of the Service's features necessitate the acquisition of photos and other data from your device's camera and memory. For instance, unless you enable access to your camera and photographs, you cannot transmit or upload photos from your camera.
+PERSONAL & NON-PERSONAL INFORMATION
+PERSONAL INFORMATION
+Data is also collected from the third-party referral when you sign in to your social accounts, we collect detail of your account name, profile picture, Facebook email address, and ID.
+NON-PERSONAL INFORMATION
+We may collect various types of information like the device you are using its model and type, IP addresses, mac addresses & other unique identifiers, details about the browser, device languages. Location information. To improve our product/game.
+USE OF PERSONAL & Non-PERSONAL INFORMATION
+·
+Processing of data is used to create accounts for you so that you can play and enjoy our service.
+·
+this information is only used for marketing and promotional purposes.
+·
+Privacy policy is only related to your data submitted and collected through the game. While accessing, & using our services.
+·
+Your data is not public only authorized people can access them.
+·
+Through this we analyze the behavior of our user. This helps us in improving our product and bring a better experience for the user.
+·
+We provide you with the service you have requested. For the verification and payment of your purchase, we share your data with the relevant payment provider.
+·
+Push notifications are sent for promotional purposes if you don’t want to receive them you can block them from your device notification setting.
+HOW WE USE THIS INFORMATION?
+-
+The data we collect depends on the context of your interactions with our product / Game.
+Third-Party Content & Links to Third Party Services
+Our Platform may contain links to third-party apps. If you click on one of these links, please note that each one will have its privacy policy. We do not control these games/apps and are not responsible for those policies. When you leave our Platform, we encourage you to read the privacy notice of every website.
+We work with third-party partners who help us provide and improve our services to provide you high-quality services.
+MEASUREMENT PARTNERS
+We only use google authorized partners to measure & improve the performance of our game. We do not share any personal / non-personal information to any other third-party.
+ADVERTISERS
+We don’t share information that personally identifies you (such as your name/email address).
+SECURITY
+We work hard to protect you from unauthorized access to or alteration, disclosure, or destruction of your information through responsible and feasible security measures that are universal across our industry.
+We appreciate your trust & are committed to protecting your data. We can’t provide you absolute assurance as no communication is 100 % secure over the internet.
+If you believe that your account of information is no longer secure, please notify us immediately.
+COOKIES
+Cookies are used to work better & improve your experience. Cookies don’t spy on you nor do they invade your privacy. Cookies are used to work better & improve your experience. We don’t use cookies but our app might use third-party cookies to get you a better experience. If you still don’t want you can remove them from our app/game.
+IN-APP PURCHASES
+Our game offers some in-app purchases. All of the user’s INN-APP purchases are performed by a secured Google mechanism.
+Your data is secure we only receive your non-financial information that may include your name and the in-apps that you have purchased.
+DATA RETENTION
+We will retain your data only for as long as necessary for the purposes it was retained, such as to enable you to use the product/game. In some instances, we may retain data for longer periods to comply with applicable laws (including those regarding document retention), resolve disputes with any parties, and otherwise as necessary to allow us to conduct our business. All personal data we retain will be subject to this Privacy Policy and our internal retention guidelines. We respect your control over your information and, upon request, we will seek to confirm your identity and whether we hold or are processing information that we have collected from you. You also have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. Under certain circumstances we will not be able to fulfill your request, such as if it interferes with our regulatory obligations, affects legal matters, we cannot verify your identity, or it involves disproportionate cost or effort, but in any event, we will respond to your request within a reasonable timeframe and provide you an explanation
+PUSH NOTIFICATIONS
+Push notifications are sent to let the game interact with you we keep you updated with our new features through these notifications. if you still don’t want to receive them you can block them from your device notification setting.
+CHILDREN’S PRIVACY
+We do not knowingly collect any personal information from children under the age of 13 or send any marketing communications to children.
+In the event, if we learn that we have collected personal information from a child under age 13, we will halt the processing of such information and will take reasonable measures to promptly remove applicable information from our records.
+CHANGES TO THIS PRIVACY POLICY
+We modify our policy from time to time you are requested to keep yourself updated with our privacy policy.
+CONTACT US:
+If you have any queries related to our privacy policy or you want to share feedback, feel free to contact us at:
+support@superludogames.com

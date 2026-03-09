@@ -1,0 +1,273 @@
+Privacy Policy
+XINHUA NEWS APP PRIVACY NOTICE
+Thank you for using Xinhua News App (collectively "App" or â€œwe,â€ â€œus,â€ or â€œourâ€), which is owned and operated by
+		Xinhua
+		New Media Culture Communication Co., Ltd, a subsidiary of Xinhua News Agency. Your privacy is very important to us.
+		To
+		better protect your privacy, we are providing this notice explaining our privacy policy (this Policy), which
+		describes
+		how we collect, use, share, disclose and process your personal data through your use of Xinhua News App.
+INFORMATION WE GATHER
+Through Xinhua News App, you can engage in various activities like reading news stories, publishing your opinions,
+		joining votes, entering contests, and taking part in quizzes. Your personally identifiable information may be
+		collected
+		to engage in these activities.
+WHAT TYPES OF DATA WE COLLECT?
+We collect the following types of data:
+Login Information
+We collect your profile photo and user ID when you log into our Service with your Facebook,Twitter or WeChat
+		account.
+		Profile photo in Facebook Twitter or WeChat will be the profile photo of your account in our Service with your
+		consent.
+		You will not be required to log in or upload any profile photo or have a user ID if you merely use the basic
+		functions
+		in our Service, such as browsing and searching.
+To provide the sharing function, our product integrates Ushare SDK. The SDK will collect the identifiable
+		information of
+		your device and the public information of your social account you need to share.
+User's behavior information
+We collect your behaviors information when you use our Service, such as browsing history, search history, comments,
+		collections, likes etc.
+We collect usage data such as how you use our application, what news you have read and when.
+If you are using the Augmented Reality/Virtual Reality (AR/VR) functionality of our application, while biometric
+		data
+		can be created by picture or video of your visage, we do not collect such data.
+Other Information
+Identity data such as your gender, age.
+Location data such as the city where you are located, the country you reside in.
+Technical data such as your IP address, the device you are using. Device information includes device systems,
+		device
+		manufacturers, device brands, unique device identifier.
+OUR LEGITIMAT GROUPS FOR USING PERSONAL INFORMATION
+Your consent
+Your consent will be necessary in some circumstances under which you will have the right to withdraw that consent
+		at any
+		time, however, if the consent is withdrawn, we may not be able to continue to provide the service you requested.
+Fulfilling a contract
+We also process your personal information in order to fulfil a contract we have with you. For example, we would use
+		your information to provide you with access to our Service.
+Legitimate interests
+We may use your information where there are legitimate interests to do so. For example, we will analyze your
+		reading
+		habits and preferences to recommend more news to you according to your interests, making our Services more
+		user-friendly.
+		We only rely on legitimate interests if the reason for using your information is fair and lawful. Where we want to
+		rely
+		on legitimate interests as a legal basis, we will carry out a balancing test between our legitimate interests and
+		your
+		privacy rights. Our legitimate interests in processing personal information include:
+to set up and administer your account, verify your identity, and send important account, subscription and
+			service
+			information
+to deliver and suggest personalized content such as news. We analyze the way you use our Services to make
+			suggestions
+			to you on content or services that we believe you will also be interested in, and to make our Services more
+			user-friendly
+for internal research and development purposes and to improve, test and enhance the features and functions of
+			our
+			Services
+to provide you with marketing within the scope permitted by law
+to meet our internal and external audit requirements, including our information security obligations
+to protect our rights, privacy, safety, networks, systems and property, or those of other persons
+for the prevention, detection or investigation of a crime or other breach of law or requirement, loss prevention
+			or
+			fraud
+Compliance with legal obligations
+There may be situations where we need to use your information to comply with legal and regulatory obligations or
+		defend
+		claims.
+You are welcome to contact us for further information on the legal grounds that we rely on in relation to any
+		specific
+		processing of your personal information.
+HOW WE USE YOUR DATA AND WHY WE NEED IT?
+We process your personal data in accordance with the legal basis under the General Data Protection Regulation
+		(GDPR) of
+		the European Union and the Cybersecurity Law (CSL) of the Peopleâ€™s Republic of China.
+The purposes of our collection and use of the personal data are specified as follows:
+To recommend customized news
+We will use information about your behavior to make feature tags. Based on such feature tags, we will conduct the
+		portrait for a crowd of users to recommend customized news.
+To provide personalized service
+We will use your device information to provide you with better products or services and personalized information
+		display
+		service.
+TYPES OF PERSONAL DATA AND PURPOSES
+Type of Personal Data
+Purpose
+1
+Login Information
+Profile photo in Facebook Twitter or WeChat will be the profile photo of your account.
+				To provide sharing function.
+2
+User's behavior information
+To recommend customized news
+3
+Device Information
+To provide push service and sharing function
+HOW WE STORE YOUR PERSONAL DATA
+1. Location of information storage
+We will store your personal data collected and generated in the course of operation within the territory of the
+		People's
+		Republic of China in accordance with applicable laws and regulations.
+2. Period of information storage
+We will store your data for a period necessary for the purposes set out in this Policy, or when we have a
+		legitimate
+		reason for doing so. If you ask us to delete your information before the end of the period, we may not be able to do
+		so
+		due to technical, legal, regulatory or contractual constraints.
+If you wish to close your account, we will do this as soon as reasonably possible subject to any applicable terms
+		and
+		conditions.
+HOW WE SHARE YOUR PERSONAL DATA
+We will not share your personal data with other companies, organizations or individuals other than the service
+		provider of the App, except under following circumstances:
+1. Sharing with your consent
+We may share your personal data with other companies, organizations or individuals with your explicit consent.
+2. Sharing required by law
+We may share your personal data with other companies, organizations or individuals required by laws and
+		regulations,
+		resolving disputes, or responding to requests from administrative or judicial authorities.
+3. Sharing with third-party providers
+We may share your personal data with third-party providers. For example, your personal data will be shared with
+		the
+		livestreaming service providers when you use livestreaming service.
+The third-party providers with whom your data would be shared are as follows:
+		Service providers: we engage service providers to support our business and improve our Service. These service
+		providers
+		include: the providers for delivery of our digital content and marketing; the provider of livestreaming service;
+		business partners with whom we deliver co-branded services, provide content, or to host events, conferences and
+		seminars; third parties that help us deliver services or act on our behalf.
+SDK: To provide you with one-click sharing service,
+		our app has integrate a Ushare SDK supported by Umeng+
+		which will collect your device identifiable information
+		(such as IMEI/Android ID IDFA,etc.) and the public information of your social account.
+		For your information security, we have made data security confidentiality agreements with Umeng+,
+		who will strictly abide by our data privacy and security requirements.
+		We will not share your personal identifiable information unless authorized by you. For more information,
+		please log on to
+https://www.umeng.com/policy
+to learn about the privacy policy of Umeng+.
+To track and collect bugs, our app has integrate a Tencent Bugly SDK which will report errors with your identifiable information (such as IMEI/Android ID IDFA,etc.) to
+https://android.bugly.qq.com
+We will not share your personal identifiable information unless authorized by you. 
+		For more information , please log on to
+https://bugly.qq.com/docs/user-guide/instruction-manual-android/?v=1.0.0
+4. Sharing with joint-controller
+We may share your personal data to joint controllers, who can also determine the purposes and means of the
+		processing of
+		personal data, such as the advertisers, etc.
+We will only share your personal data out of legal, proper, necessary, specific and explicit purposes, and we
+		will only
+		share necessary information needed to our services. Our partners have no rights to use shared information for
+		purposes
+		irrelevant to their products and services. Any information that you provide on or to a third-party website or
+		service is
+		provided directly to the owner of the service and is subject to that party's Privacy Policy. Our Privacy Policy
+		does not
+		apply to such services and we're not responsible for the content, privacy or security practices and policies of
+		those
+		services. To protect your information, we recommend that you carefully review the privacy policies of other
+		services
+		that you access.
+CROSS-BORDER DATA TRANSFER
+Since our Service is global by nature, it may be necessary for us to transfer your information to our affiliates
+		or
+		third parties with whom we have a cooperative relationship for our legitimate business purposes, and such
+		information
+		may be maintained on computers and/or other servers located outside of your state, province, country or other
+		governmental jurisdiction in whole or in part where the privacy laws and technology level may not be the same as
+		those
+		in your jurisdiction.
+Please note that the laws vary by jurisdiction, so the privacy laws applicable to the places where your
+		information is
+		transferred or stored, used, or processed, may be different from the privacy laws of the jurisdiction you reside
+		in.
+The collected information may be stored in the People's Republic of China. By choosing to visit the Service or
+		provide
+		information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be
+		governed by the laws of China and the adjudication of any disputes arising in connection with us or our Service
+		will be
+		in accordance with the Terms of Use on the App. When we transfer your information globally, we guarantee that your
+		information will be transferred securely and lawfully. We have taken appropriate safeguards to ensure that your
+		personal
+		information will be protected in accordance with this Policy and we hereby ensure that any third party acting as
+		our
+		agent would do the same.
+Users should direct any questions, concerns or complaints regarding the processing of personal information at:
+		XinhuaNews_Support@xhsxmt.com. We will duly handle your questions. However, please note that our Service may not
+		be
+		available to you if you reject international information transfer.
+DATA SECURITY
+We have adopted proper security measures in compliance with industry standards to protect the privacy and
+		security of
+		your personal data, to prevent personal data from being accessed without permission, disclosed, used, edited,
+		damaged or
+		lost. For example, we use Security Sockets Layer (SSL) to secure information transfers between your browsers and
+		servers; we use HTTPS when you browse the App; we use encryption technologies to improve security of personal
+		data; we
+		use reliable protection systems to prevent attacks; we deploy an access control system to ensure that only
+		authorized
+		person can access to personal data; and we will train our employees on privacy protection as well as how to handle
+		and
+		manage your data appropriately.
+If your personal data breaches, we will inform you according to relevant laws and regulations of the basic
+		situation,
+		possible influence, our remedial solutions taken or will be taken, and offer self-protection or self-prevention
+		suggestions to you and make necessary remedial measures. We will communicate with you by e-mail, mail, phone calls
+		and/or alerts. If we cannot reach to all affected individuals, we will publish announcements in proper and
+		effective
+		ways.
+YOUR RIGHTS
+You have the rights under applicable laws to have access to your personal data and to ask us to rectify, erase
+		and
+		restrict the use of your personal data. You also have the rights to object to your personal data being used, to
+		ask for
+		the transfer of personal data you have made available to us and to withdraw consent to the use of your personal
+		data.
+		You may find further information on how to exercise your rights set out underneath.
+We honor your rights under applicable data protection laws. You have following rights under laws of the People's
+		Republic of China, and may have similar rights under the laws of other countries.
+1. Right to access
+You have the right to make a written request for details of your personal data and a copy of that personal data.
+2. Right to rectification
+You have the right to have inaccurate information about you corrected or removed.
+3. Right to erasure
+You have the right to have certain personal data about you erased.
+4. Right to restriction of processing
+You have the right to request that your personal data would only be used for restricted purposes.
+5. Right to object
+You have the right to object to our processing of your personal data based on the performance of a task carried
+		out in
+		the public interest or we have let you know the processing is necessary for our or a third party's legitimate
+		interests.
+6. Right to data portability
+You have the right to ask for the personal data you have made available to us to be transferred to you or a third
+		party
+		in machine-readable format.
+7. Right to withdraw consent
+You have the right to withdraw any consent you previously gave us. If you withdraw your consent, this will not
+		affect
+		the lawfulness of our use of your personal data prior to the withdrawal of your consent.
+8. Right to compliant
+You may make a complaint to the supervisory authority.
+These rights are not absolute and they do not always apply in all cases.
+In response to a request, we will ask you to verify your identity if we need to, and to provide information that
+		helps
+		us to understand your request better. If we do not comply with your request, whether in whole or in part, we will
+		explain why.
+To exercises any of these rights please contact us at XinhuaNews_Support@xhsxmt.com with details of your request.
+		If you
+		have any questions about these rights, you may also contact us at the above e-mail.
+UPDATES TO THIS POLICY
+Our Privacy Policy may be amended from time to time. Any such changes will be posted on our main Privacy Policy
+		page. If
+		we make a significant or material change in the way we use your personal data, the change will be posted thirty
+		(30)
+		days prior to taking effect and registered users will be notified via e-mail. We employ measures designed to
+		protect the
+		security of your personal identifying information.
+HOW TO CONTACT US
+For any questions or comments regarding our information or security practices, you may contact us by e-mail at
+		XinhuaNews_Support@xhsxmt.com or by mail to Xinhua News App, New Media Center, Xinhua News Agency, 57 Xuanwumen
+		Xidajie,
+		Beijing, 100803

@@ -1,0 +1,33 @@
+Privacy Policy - TimeTune Help
+English
+&nbsp&nbsp&nbsp&nbsp
+Español
+&nbsp&nbsp&nbsp&nbsp
+Português
+&nbsp&nbsp&nbsp&nbsp
+Privacy Policy
+At TimeTune, we care about your privacy and data security.
+Keep reading for more information about how TimeTune collects and uses data.
+User-Generated Content
+We do NOT collect any user-generated content.
+The content you generate in the app is stored locally in your device and belongs to you.
+Additionally, you can use the backup option in the app’s settings to save your content to your private Google Drive account.
+Google Analytics for Firebase
+Our implementation of Google Analytics for Firebase does NOT collect private information of any kind.
+We use Google Analytics for Firebase to compose
+anonymous
+aggregated statistics that help us improve the app.
+We do NOT share any data with Google or third parties.
+AdMob
+We use AdMob from Google to show ads in the free version of the app.
+AdMob collects data and uses a unique identifier on your device to show relevant ads for you.
+In compliance with the GDPR (General Data Protection Regulation), users in the EEA (European Economic Area) will see a message asking for their consent.
+In compliance with the CCPA (California Consumer Privacy Act), we disabled data collection for users in California USA.
+These users will only see generic ads.
+You can see how Google uses data to show relevant ads
+here
+.
+Email and Social Media
+If you contact us by email or social media, we may keep a record of this communication to help you solve any issues you might have with the app.
+We don’t use this communication for any other purposes.
+In any case, you can always ask us to remove your contact data and messages at any given time.

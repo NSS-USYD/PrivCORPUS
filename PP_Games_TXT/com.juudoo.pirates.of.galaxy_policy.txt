@@ -1,0 +1,40 @@
+Falcon Game Studio
+Terms of Service & Privacy Policy
+The terms define how you use Falcon Game Studio Services or Games
+BY INSTALLING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO THESE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, PLEASE DO NOT INSTALL, USE OR OTHERWISE ACCESS THE SERVICE. USE OF SERVICE IS VOID WHERE PROHIBITED.
+Falcon Game Studio reserves the right, at its discretion, to change, modify, add or remove portions of these Terms of Service and its Privacy Policy at any time. You will be deemed to have accepted such changes by continuing to use the Service. If at any point you do not agree to any portion of the then-current version of our Terms of Service, the Falcon Game Studio Privacy Policy, or any other Falcon Game Studio policy, rules or codes of conduct relating to your use of the Service, your license to use the Service shall immediately terminate, and you must immediately stop using the Service.
+LICENSE AND LIMITATIONS
+Any use of the Service in violation of these License Limitations is strictly prohibited can result in the immediate revocation of  your limited license and may subject you to liability for violation of law.
+You agree that you will not, under any circumstances:
+1. Engage in any act that Falcon Game Studio deems to be in conflict with the spirit or intent of the Service or make improper use of Falcon Game Studioâ€™s support services.
+2. Use cheats, exploits, automation software, bots, hacks, mods or any unauthorized third party software designed to modify or interfere with the Service, any Falcon Game Studio game or game experience or without Falcon Game Studioâ€™s express written consent, modify or cause to be modified any files that are part of the Service or any Falcon  Studio Game.
+3. Post any information that contains nudity, excessive violence or offensive subject matter or that contains a link to such content.
+4. Attempt to, or harass, abuse, or harm, or advocate or incite harassment, abuse, or harm of another person, group, including Falcon Game Studio employees, including Falcon Game Studioâ€™s customer service representatives.
+5. Solicit or attempt to solicit personal information from other users of the Service or any Falcon Game Studio game or collect or post anyoneâ€™s private information, including personally identifiable information (whether in text, image or video form), identification documents, or financial information through the Service.
+WITHOUT LIMITING ANY OTHER REMEDIES, FALCON GAME STUDIO MAY LIMIT, SUSPEND, TERMINATE, MODIFY OR DELETE ACCOUNTS OR ACCESS TO FALCON GAME STUDIO SERVICES OR PORTIONS THEREOF IF YOU ARE, OR FALCON GAME STUDIO SUSPECTS THAT YOU ARE FAILING TO COMPLY WITH ANY OF THESE TERMS OF SERVICE  WITH OR WITHOUT NOTICE TO YOU.
+PAYMENTS
+You agree to pay all fees and applicable taxes incurred by you or anyone using an Account registered to you. Falcon Game Studio may revise the pricing for the goods and services offered through the Service at any time. YOU ACKNOWLEDGE THAT FALCON GAME STUDIO IS NOT REQUIRED TO PROVIDE A REFUND OR ANY REASON THAT YOU WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR UNUSED VIRTUAL RESOURCES WHEN AN ACCOUNT IS CLOSED, WHETHER SUCH CLOSURE WAS VOLUNTARY OR INVOLUNTARY.
+UPDATES TO THE SERVICE
+You understand that the Service is an evolving one. Falcon Game Studio may require that you accept updates to the Service and to Falcon Game Studioâ€™s games you have installed on your devices. You acknowledge and agree that Falcon Game Studio may update the Service and Falcon Game Studio games, with or without notifying you.
+You fully understand and agree that, in order to enhance service security and safety level, Falcon Game Studio has the right to apply one or more technical measures or/and application software into the Service; however, the mentioned measures will not guarantee that your account would not been lost or hacked, and Falcon Game is fully exempted from liability under these circumstances.
+During operation and supply of products, in order to best serve customers, Falcon Game Studio has the right to update, add, change, delete and remove one or a few features, functional interfaces of the Service. Without prior notice to you, when you continue to use the Service, it is deemed that you have agreed to this entire change of the Service. In the event you do not agree, you should immediately stop using the Service, do not log back into the Service and completely remove the game from your device, in which case Falcon Game Studio will have no liability whatsoever to you with your account and data in the Service.
+PRIVACY POLICY
+We take these steps to protect the security of Platform Data:
+- Enforce encryption at rest for all Platform Data storage (e.g., all database files, backups, object storage buckets).
+- Enforce TLS 1.2 encryption or greater for all network connections where Platform Data is transmitted
+- Test your app and systems for vulnerabilities and security issues at least every 12 months.
+- Protect sensitive data like credentials and access tokens.
+- Test your incident response systems and processes at least every 12 months.
+- Require multi-factor authentication for remote access
+- Have a system for maintaining accounts (assigning, revoking, reviewing access and privileges)
+- Have a system for keeping system code and environments updated, including servers, virtual machines, distributions, libraries, packages, and anti-virus software.
+- Have a system in place for logging access to Platform Data and tracing where Platform Data was sent and stored.
+- Monitor transfers of Platform Data and key points where Platform Data can leave the system (e.g., third parties, public endpoints)
+- Have an automated system for monitoring logs and other security events, and to generate alerts for abnormal or security-related events.
+We take the protection of your personal data very seriously and strictly abide by the regulations of the world data protection act. Personal data will only be collected to an extent that is technically required. In no case this data will be sold or passed on to third parties for any other reasons.
+In addition, the Application may collect certain information automatically, including the type of mobile device you use, your mobile deviceâ€™s unique device ID, the IP address of your mobile device, your mobile operating system. All data collected will be stored on the server to identify user identity in our system and enhance user experience, provide events based on their region and choose the right settings based on their device.
+You can stop all collection of information by the Application easily by uninstalling the Application.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter for technical purposes as explained. If youâ€™d like us to delete User Provided Data that you have provided via the Application, please contact us at info@falcongames.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application.
+Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+END

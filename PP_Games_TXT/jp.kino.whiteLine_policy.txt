@@ -1,0 +1,33 @@
+ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ãƒãƒªã‚·ãƒ¼
+Home
+Handling of Collected User Data
+Collection of Information
+1. Device Information
+Information to be acquired: Device-related information such as IDs and OS versions to identify User devices, User e-mail addresses.
+2. Purchase information
+Information to be acquired: Information about in-app purchases. 
+Acquisition method: Automatic acquisition.
+3. Advertising identifiers
+Information to be acquired: Advertising Identifiers (iOS) or Advertising IDs (Android)
+4. Information about inquiries
+Information to be acquired: Information entered by Users in inquiry forms, such as the ID of the Application and the devices they are using, additional items requested by the Company for confirmation, and e-mail addresses.
+Purposes of Use of Acquired Information:
+-To verify the identities of Users
+-To prevent any use of the Application or Services in a manner that violates the Terms of Use
+-To survey trends on use
+-To deal with inquiries
+-To distribute advertisements that are personalized for Users
+-To measure the effectiveness of placed advertisements
+-To reply to inquiries and verify the identities of Users
+Ceasing Transmission of User Information
+The Company does not offer a method to cease the automatic transmission of collected User information. If you do not wish to share your information, please uninstall the Application.
+Revisions
+The Company reserves the right to revise all or part of this Privacy Policy. The Company will notify Users in the event that important revisions are made.
+Support
+Inquiries, complaints, consultation desks
+fieldWalking.Inc
+Adress: 60,Uejicyou,Toyohasishi,Aichiken,Japan
+Mail: fieldwalking.idepon@gmail.com
+Mail
+Designed by
+BootstrapMade

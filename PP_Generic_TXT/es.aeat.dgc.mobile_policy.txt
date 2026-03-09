@@ -1,0 +1,84 @@
+Agencia Tributaria: PolÃ­tica de Privacidad
+Saltar al contenido principal
+Logotipo Gobierno de EspaÃ±a
+Logotipo Organismo
+MenÃº mÃ³vil
+Aqui se cargarÃ¡n las opciones del menÃº cuando estÃ©n disponibles
+Inicio
+PolÃ­tica de Privacidad
+APP Agencia Tributaria es una aplicación para dispositivos móviles que permite a los ciudadanos acceder y realizar gestiones ante la Agencia Estatal de Administración Tributaria de forma sencilla y ágil y recibir avisos de novedades y personales si así lo desean.
+La Agencia Estatal de Administración Tributaria distribuye la aplicación para dispositivos móviles "Agencia Tributaria", siendo responsable de proteger los derechos legales y la privacidad de los usuarios. En la aplicación móvil se proporciona un apartado con un aviso de privacidad legalmente válido y con las condiciones del servicio.
+La política de privacidad se basa en:
+La solicitud de los datos necesarios para poder proporcionarte los servicios solicitados.
+El tratamiento de los datos de carácter personal de acuerdo a lo establecido por el “Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (Reglamento general de protección de datos)” y la “Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales” y demás normativa de aplicación.
+La utilización de cookies en la medida imprescindible para el correcto funcionamiento y visualización, con una vigencia temporal limitada.
+El acceso y uso de la aplicación Agencia Tributaria te atribuye la condición de usuario, lo que implica la observancia y cumplimiento de las disposiciones que aquí se contienen, así como cualquier otra disposición legal que fuera de aplicación.
+1. Información del desarrollador y punto de contacto.
+Nombre del desarrollador: Agencia Estatal de Administración Tributaria
+Sitio web:
+https://sede.agenciatributaria.gob.es
+Correo electrónico:
+soporteapp@correo.aeat.es
+Dirección: S.G. Explotación - Departamento de Informática Tributaria - Agencia Estatal de Administración Tributaria. Calle Santa María Magdalena, 16, 28016 Madrid (España)
+La Agencia Estatal de Administración Tributaria está regulada por la Resolución de 28 de diciembre de 2009, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se crea la sede electrónica y se regulan los registros electrónicos de la Agencia Estatal de Administración Tributaria publicada en el (BOE 29 de diciembre de 2009).
+2. ¿Quién es el responsable del tratamiento de tus datos como usuario de APP Agencia Tributaria?
+El responsable del tratamiento de tus datos como usuario de APP Agencia Tributaria es:
+Nombre: Agencia Estatal de Administración Tributaria.
+Delegado de Protección de Datos de la Agencia Estatal de Administración Tributaria:
+dpd@correo.aeat.es
+Dirección: Calle Santa María Magdalena, 16, 28016 Madrid.
+3. ¿Qué datos tratamos sobre ti?
+La información que tratamos sobre ti procede de los datos que has aportado o constan en la Agencia Estatal de Administración Tributaria. Se tratarán unos datos u otros en función de las gestiones que realices desde la APP Agencia Tributaria.
+Como resultado de tus accesos, los datos relativos a tu persona que se podrían llegar a tratar en la APP Agencia Tributaria pertenecerán a alguna o algunas de las siguientes tipologías y se utilizarán exclusivamente a los efectos de este sistema, con la finalidad de la aplicación efectiva del sistema tributario estatal y aduanero y no serán cedidos a terceras partes excepto que así se indique expresamente o en aquellos casos que se ajusten al artículo 95.1 de la Ley General Tributaria:
+Datos de carácter identificativo o de contacto: nombre, apellidos, DNI/NIE, Fecha de validez de su DNI (o Fecha de Expedición si es un DNI Permanente) o número de soporte de su NIE, Número de Referencia.
+Datos de identificación de tu dispositivo: sistema operativo, modelo de dispositivo móvil.
+Otros datos de carácter identificativo: en las gestiones que realices a través de la APP. Por ejemplo, datos tributarios (domicilio fiscal, IBAN de una cuenta bancaria, casilla 505 de Renta, casillas de asignación tributaria, declaraciones presentadas, datos fiscales, nombre y apellidos y DNI/NIE del cónyuge) o tu número de teléfono para la Cita Previa.
+Actividad de la aplicación: Interacciones de la aplicación, información sobre cómo interactúas con la aplicación. Por ejemplo, el número de veces que visitas una página o las secciones a través de Firebase Analytics (servicio prestado por Google, Inc.).  Estos datos se utilizan únicamente con los fines necesarios para obtener estadísticas que permitan mejorar la experiencia de usuario y en este servicio no se asocian a tus datos de carácter identificativo.
+Información y rendimiento de aplicaciones: Registros de fallos, datos del registro de fallos y problemas inesperados a través del servicio Firebase Crashlytics (servicio prestado por Google, Inc.). Son datos que se utilizan únicamente con los fines necesarios para resolver problemas y dar una respuesta temprana a las incidencias y en este servicio no se asocian a tus datos de carácter identificativo.
+IDs de dispositivo o de otro tipo: identificadores relacionados con un dispositivo para el envío de notificaciones push al dispositivo móvil a través del servicio Firebase Cloud Messaging (servicio prestado por Google, Inc.). Estos datos se utilizan únicamente con los fines necesarios para proporcionar y mejorar las funciones de la aplicación y en este servicio no se asocian a tus datos de carácter identificativo.
+Adicionalmente, para proteger el acceso a la APP debes tener configurado algún factor de autenticación del usuario en tu dispositivo proporcionado por tu sistema operativo: credenciales (patrón, código, etc.) o biométricos (huella digital, reconocimiento facial, etc.).
+La APP no requiere otorgar ningún permiso adicional en el dispositivo para su funcionamiento, aunque al realizar algunas de las gestiones en la APP, si deseas visualizar al documento PDF de la operación, la APP solicitará el permiso de acceso al almacenamiento de archivos. Se recomienda además habilitar las notificaciones push de la APP en el dispositivo móvil para recibir los avisos a los que te hayas suscrito.
+4. ¿Cómo obtiene la APP Agencia Tributaria tus datos y de dónde proceden?
+Los datos se obtienen mediante las consultas a los servidores de la Agencia Estatal de Administración Tributaria, a partir de los datos que hayas aportado o consten en su poder. En ningún caso obtendremos tus datos sin tu consentimiento.
+Los dominios de los servidores que se utilizan para enviar los datos son:
+"sede.agenciatributaria.gob.es", “www.agenciatributaria.gob.es”,
+"www1.agenciatributaria.gob.es", "www2.agenciatributaria.gob.es",
+"www6.agenciatributaria.gob.es", "www9.agenciatributaria.gob.es",
+"www12.agenciatributaria.gob.es".
+Una vez que accedes a la aplicación y aceptas la política de privacidad y condiciones legales, si estás registrado en Cl@ve, podrás activar el dispositivo indicando tu DNI o NIE y la fecha de validez de su DNI (o Fecha de Expedición si es un DNI Permanente) o número de soporte de su NIE, mediante un código de activación que se te enviará al teléfono que tengas asociado en Cl@ve. La APP Agencia Tributaria almacena en tu dispositivo el DNI o NIE que has introducido y el Número de Referencia de cada usuario que hayas identificado. Puedes eliminar estos datos desde la opción “eliminar usuario” desde la APP Agencia Tributaria.
+En relación a las gestiones que se ofrecen, se obtienen mediante consultas a las aplicaciones de la Agencia Estatal de Administración Tributaria y se prestan de forma similar desde la Sede electrónica de la Agencia Estatal de Administración Tributaria y desde la APP Agencia Tributaria. Al acceder a estas gestiones no se almacena ningún dato en la APP Agencia Tributaria.
+5. ¿Cuál es la base jurídica para el tratamiento de tus datos?
+Los tratamientos de datos personales que se puedan realizar mediante la APP Agencia Tributaria y las aplicaciones de la Agencia Estatal de Administración Tributaria que le dan soporte, se basan en el cumplimiento de lo establecido por el “Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (Reglamento general de protección de datos)” y la “Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales” y demás normativa de aplicación.
+Además, te informamos de que la normativa aplicable a los servicios ofrecidos desde la APP Agencia Tributaria es la siguiente:
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+Reglamento (UE) 2016/679, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (Reglamento General de Protección de datos)
+Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad.
+Ley 58/2003, de 17 de diciembre, General Tributaria y sus normas de desarrollo.
+Normativa y criterios interpretativos
+6. ¿Para qué y por qué utilizamos tus datos?
+El objetivo de la APP Agencia Tributaria es facilitar tu relación con Agencia Tributaria, al ofrecerte acceder y realizar gestiones de forma sencilla y ágil y recibir avisos de novedades y personales si así lo deseas.
+La información y datos recogidos en la APP Agencia Tributaria serán tratados únicamente con el objetivo de ofrecerte un servicio personalizado o con la finalidad de la aplicación efectiva del sistema tributario estatal y aduanero.
+7. ¿Durante cuánto tiempo almacenamos tus datos?
+El periodo de conservación de tus datos en la APP Agencia Tributaria será el tiempo que esté activo tu dispositivo con tu DNI o NIE en la APP. No obstante, en cualquier momento puedes eliminar los datos desde la opción “eliminar usuario” desde la propia APP Agencia Tributaria o activando la APP con tu DNI o NIE en otro dispositivo móvil.
+Puedes consultar más información sobre los datos tratados mediante las aplicaciones de las gestiones:
+Información sobre protección de datos
+8. ¿Quién tiene acceso a tus datos?
+A tus datos desde la APP Agencia Tributaria únicamente tienes acceso tú.
+Sin perjuicio de lo anterior, en determinados casos (por ejemplo, para resolver una incidencia o consulta que nos plantees) es posible que necesitemos acceder a los datos estrictamente necesarios con el fin de resolver la incidencia o dar respuesta a tu consulta.
+9. ¿Cuáles son tus derechos y cómo puedes controlar tus datos?
+La normativa te otorga una serie de derechos en relación con los datos e información que tratamos sobre ti. Concretamente, los derechos de acceso, rectificación, supresión y portabilidad de datos, limitación y oposición a su tratamiento.
+Puedes consultar la información sobre protección de datos
+(Información sobre protección de datos)
+y la información al interesado sobre protección de datos en el procedimiento (
+Tratamiento  de datos personales - Reglamento General de Protección de Datos)
+10. ¿Cómo protegemos tus datos?
+La Agencia Estatal de Administración Tributaria garantiza que se almacenará y utilizará la información personal durante el tiempo necesario y sólo para proporcionarte los servicios personalizados, garantizando las medidas de seguridad que exige el Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica. (BOE, 29 de enero de 2010) y el Real Decreto 951/2015, de 23 de octubre, de modificación del Real Decreto 3/2010, de 8 de enero, por el que se regula Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica (BOE, 4 de noviembre de 2015).
+La Agencia Estatal de Administración Tributaria ha adoptado las medidas técnicas y organizativas necesarias para evitar la destrucción, pérdida o alteración accidental o ilícita de datos personales transmitidos, conservados o tratados de otra forma, o la comunicación o acceso no autorizados a dichos datos, susceptibles en particular de ocasionar daños y perjuicios físicos, materiales o inmateriales. Las medidas adoptadas tienen en cuenta el estado de la tecnología, la naturaleza de los datos y los riesgos a los que están expuestos y se revisan periódicamente para garantizar su adaptación a nuevas situaciones o escenarios de riesgo
+11. Política de cookies
+La APP Agencia Tributaria utiliza las mismas cookies que la Sede electrónica de la Agencia Estatal de Administración Tributaria en la medida imprescindible para su correcto funcionamiento y visualización.
+Las cookies utilizadas tienen una vigencia temporal limitada y en ningún caso se usan para recoger información de carácter personal.
+12. Fecha de actualización de la política de privacidad
+Última actualización: 30 de septiembre de 2022.
+Accesibilidad
+PÃ¡gina actualizada:
+30/septiembre/2022

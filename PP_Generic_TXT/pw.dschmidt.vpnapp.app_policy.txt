@@ -1,0 +1,182 @@
+Privacy Policy
+Germany
+International
+Deutschland (Germany)
+Datenschutzerklärung
+Geltungsbereich
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und
+Verwendung personenbezogener Daten durch den verantwortlichen Anbieter (David Schmidt,
+Rostocker Straße 27, 10553 Berlin) in dieser App (im folgenden “Angebot”) auf.
+Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutz-Grundverordnung (DSGVO), im Bundesdatenschutzgesetz (BDSG) und
+dem Telemediengesetz (TMG).
+Personenbezogene Daten
+"personenbezogene Daten" alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person [...] beziehen (siehe § 46 Abs. 1 BDSG).
+Die einzigen personenbezogene Daten, deren Erhebung sich im Internet nicht vermeiden lässt, ist Ihre IP (internet protocol-Adresse). Andere personenbezogene Informationen werden nicht erhoben oder verarbeitet.
+Der Nutzer kann die Erhebung von Daten teilweise in den Einstellungen steuern. Durch die Nutzung dieser App erklärt sich der Nutzer mit der Bearbeitung der über sie erhobenen Daten in der folgend beschriebenen Art und Weise und zu den folgend benannten Zwecken einverstanden.
+Erhobene Daten werden mit niemandem geteilt, außer Gesetze verlangen dies.
+Absturz- und Nutzungsanalyse
+Wir nutzen Google Firebase um anonyme Analytics über Ihre Nutzung der App zu sammeln.
+Dies hilft uns Abstürze zu beheben und die App zu verbessern.
+Analytics sammelt keine persönlichen, identifizierbaren Daten.
+Sollte die App abstürzen, werden folgende Daten gesammelt:
+- die Fehlermeldung, Informationen über das Gerät (Android Version, Geräte Modell, Hersteller), eine Installations-Id
+Analytics sammelt folgdende Daten:
+- Anzahl der Nutzung,
+    Dauer der Nutzung,
+    Android Version,
+    Gerät,
+    Land,
+    App Starts,
+    App Updates,
+    In-App Käufe, gewählte VPN Server, Listen-Download-Ergebnis, Installations-Id
+‣
+Google Firebase Crashlytics Data Collection Policy
+‣
+Google Firebase Analytics Data Collection Policy
+Sie können dieser Nutzung Ihrer Daten jederzeit in den Einstellungen zustimmen oder ablehnen. Es werden Daten in die USA übertragen.
+Google Admob Ads
+Wir nutzen Google Admob um Werbung anzuzeigen und diesen Dienst anbieten zu können.
+Google speichert eine einzigartige Id auf ihrem Gerät. Diese Id ermöglicht Anzahlbeschränkung, gesammelte Werbe-Reporte und Betrugs- und Missbrauchbekämpfung.
+Ihre IP wird genutzt um ihren ungefähren Standord zu ermitteln. Ihr Gerät und der Typ dieser App helfen Google zu entscheiden, welche Werbung Sie sehen.
+Wenn Sie angepasste Werbung (in den Einstellungen) akzeptieren
+, wird Google die Id mit anderen, auf ihrem Gerät gespeicherten Werbe-Cookies und Ids verknüpfen um die Werbungen die Sie sehen zu koordinieren. Google nutzt dann alle verfügbaren Informationen um Ihnen relevante, interessante, wertvollere Werbung zu zeigen.
+Google teilt und verkauft Informationen die Sie identifizieren kann, wie Ihr Name, IP oder E-Mail-Adresse, nicht ohne Ihre Aufforderung.
+Google arbeitet mit Partnern um Werbung zu zeigen (
+Liste der Partner
+). Es werden Daten in die USA übertragen.
+‣
+Wie Werbung funktioniert
+‣
+Warum sehe ich bestimmte Werbung?
+‣
+Personaliserte und Un-Personalisierte Werbung
+(Englisch)
+‣
+Google Werbe-Datenschutzerklärung
+‣
+Google Datenschutzerklärung
+‣
+Wie Google Daten von Apps verwendet
+Andere Daten
+Diese App nutzt das Internet. Fast jeder Server (Computer) mit dem Sie sich verbinden wird ihre IP-Adresse sehen und eventuell einfache Daten, wie Ihren ungefähren Standord und Ihr Gerät, speichern.
+‣
+https://ovpn.pw
+(unser Server) speichert eine anonymisierte IP für unter 7 Tage.
+‣
+https://vpngate.net (Englisch)
+(Ersatz-Server) speichert Ihre Verbindung eventuell für einige Tage
+‣
+Firebase Remote Config (Englisch)
+speichert eine Installations-Id
+Sicherheit
+Die Kommunikation mit unseren Servern ist durch moderne Verschlüsselungsverfahren geschützt.
+Vollständiger Opt-out
+Sie haben die Möglichkeit die App zu kaufen um die Sammlung von Daten für Werbung zu beenden.
+Kontaktaufnahme
+Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
+Widerruf, Änderungen, Berichtigungen und Aktualisierungen
+Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die
+    personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht
+    auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit
+    dem keine gesetzliche Aufbewahrungspflicht entgegensteht. Aktualisierungen, die wesentliche Änderungen am
+    Inhalt dieser Datenschutzerklärung enthalten, werden in der App angekündigt.
+Fragen oder den Wunsch nach Löschung senden Sie einfach formlos an: dev
+eloper
+@ovpn.pw
+Stand: 2019/01/01
+International
+Privacy Policy
+This privacy policy governs your use of the software application OpenVPN Servers ("App") for
+mobile devices that was created by David Schmidt (Rostocker Straße 27, 10553 Berlin, Germany).
+The App lists OpenVPN servers hosted by volunteers of the vpngate-project from all over the world.
+Collected Information
+To protect your privacy the only personally identifiable information (PII) which created for technical reasons and might be collected is you IP (internet protocol) address.
+You are able to control data collection in the settings.
+This App does not collect location data.
+Our collected data are
+not shared
+with third parties, except governments if
+required by law.
+Crash and Usage Analytics
+We use Google Firebase to collect anonymous Analytics about your usage of this app.
+This helps us to fix crashes and to improve the app.
+No personal identifiable data is collected in analytics.
+Should the app crash the following information is collected:
+- the error message, information about your device (Android version, device model, hardware vendor), an installation identifier
+Analytics collects the following data:
+- number of sessions,
+    session duration,
+    Android version,
+    device model,
+    geography,
+    first launch,
+    app opens,
+    app updates,
+    in-app purchase, selected VPN servers, server list download results, installation instance id
+‣
+Google Firebase Crashlytics Data Collection Policy
+‣
+Google Firebase Analytics Data Collection Policy
+You can control this in the settings of the app. Information collected by Google is stored in the USA.
+Google Admob Ads
+We use Google Admob to serve ads and to pay for our servers.
+Google stores a unique identifier on your device. This identifier is used to allow for frequency capping, aggregated ad reporting and to combat fraud and abuse.
+Your IP (internet protocol address) is used to determine your general location. Your device model and the type of this app help Google to decide which ads to show you.
+If you accept relevant ads
+(in settings), Google will link the identifier to other advertising cookie and identifiers on the same device in order to coordinate ads across your mobile apps and mobile browser. Google then uses your available information and activity to show you relevant, interesting, more valuable ads.
+Google doesn't sell or share information that personally identifies you with anyone, such as your name or email, unless you ask them to.
+Google works with partners to show ads (
+Liste der Partner
+). Information collected by Google is stored in the USA.
+‣
+How Ads Work
+‣
+Learn why you're seeing an ad
+‣
+Learn about personalized and non-personalized ads
+‣
+Read Google's advertising privacy policies
+‣
+Read Google's privacy policies
+‣
+How Google uses information from apps
+Other data
+This app works using the internet. Almost every server (computer) you connect to with will see and possibly store basic data about your IP (general location) and device model.
+‣
+https://ovpn.pw
+(our server) does store an anonymized IP for under 7 days
+‣
+https://vpngate.net
+(fallback server) might store your connection for a few days
+‣
+Firebase Remote Config
+does store an installation instance id
+Children
+This App does not target children under 13.
+Security
+We are concerned about safeguarding the confidentiality of your
+information. We provide physical, electronic, and procedural safeguards to protect information
+we process and maintain. For example, we limit access to this information to authorized
+employees and contractors who need to know that information in order to operate, develop or
+improve our Application. Please be aware that, although we endeavor provide reasonable security
+for information we process and maintain, no security system can prevent all potential security
+breaches.
+Changes
+We may revise this Privacy Policy from time to time. If we make a
+    change to this policy that, in our sole discretion, is material, we will notify you in the App.
+    The privacy policy will always be at:
+https://ovpn.pw/privacy.html
+Opt-Out
+To completely opt-out of further data collection, please visit the privacy settings and pay for ad removal, or uninstall this App.
+You are able to reduce data collections using opt-out settings in the app. Ads always require some tracking to prevent fraud and abuse.
+Contact
+If you have further questions or want your data (if any) deleted,
+    send an email to dev
+eloper
+@ovpn.pw
+Your Consent
+By using the Application, you are consenting to our
+    processing of your information as set forth in this Privacy Policy now and as amended by us.
+    Your information will be transferred, processed and stored under German, EU, and United States
+    privacy standards and laws.
+Effective: 2019/01/01

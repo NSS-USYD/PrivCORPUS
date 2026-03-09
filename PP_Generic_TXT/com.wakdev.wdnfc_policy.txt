@@ -1,0 +1,240 @@
+Terms of Use
+Select your language
+Search
+Search
+menu
+Home
+News
+Company
+Presentation
+Services
+References
+Apps
+NFC Tools - Android
+NFC Tools SE - Android
+NFC Tools - iOS
+NFC Tools - PC / MAC
+NFC Tools KBC - PC / MAC
+Other apps
+Terms of Use
+Knowledge base
+Shop
+Contact
+[ + ]
+Wiki
+Unit.Link
+Apps
+You are here:
+Home
+Apps
+Terms of Use
+Terms of Use
+We encourage you to read carefully so that you can make informed decisions about your use of our mobile apps and software.
+By installing and using the apps or sofwares, you agree to this
+Privacy Policy
+, this
+End User License Agreement (EULA)
+, this
+GDPR notice
+and give an explicit and informed consent. If you do not agree to our terms and conditions, please do not install or use the apps or software.
+We may update this policy from time to time so please review this page periodically: this page was last updated on December, 2023.
+Privacy Policy
+We wrote this lines to help you understand our vision of Privacy Policy.
+1. Non-personal data and personal data
+Non-personal data means information that, by itself, does not personally identify you. Personal data means personally identifiable information that specifically identifies you as an individual (e.g., your name, email address).
+Please read our GDPR notice to get more info about the nature, scope, purposes of the data collection, use, and the processing of your data.
+Important note:
+None of our Android or iOS apps collect and store personal data.
+2. Third party links, terms and conditions
+Our apps and software may contain third-party links that redirect you to other apps, software, websites. As these external services are not operated by us, so we strongly advise you to review the Privacy Policy of these third-party. Note that we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party apps, software, websites or services.
+Please note that your access to and use of the apps or software may be subject to certain third-party terms and conditions and privacy policies. You recognize and agree that we is not liable for any such third-party terms and conditions and any third party’s use of your Personal data. Here are links to the privacy policies of a few of the distributors we use :
+Google
+,
+Apple
+,
+Samsung
+,
+Amazon
+,
+Huawei
+3. Security
+Securing your online and offline data is a priority for us, so we have implemented appropriate safety measures to protect your information and ensure a level of security appropriate to the risk.
+But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Please read this notice to get more info about how do we store and protect your data.
+4. Disclosure and Transfer of Personal Data
+We disclose information to respond to subpoenas, court orders and other legal processes as well as to establish/exercise our legal rights or defend against legal claims.
+We will share Personal data and Non-personal data in order to investigate, prevent or take action against illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of our Terms of Use or as otherwise required by law.
+5. Children's Privacy
+We share your concern for the privacy of children and do not knowingly collect any personal information about children under 13 through our apps or software.
+If you believe that we may have unintentionally collected your child's personal information without your prior consent, you may contact WAKDEV Data Privacy Officer.
+6. Legal representatives
+Company: SAS WAKDEV
+Registration: RCS / RM: 814 822 417 R.C.S. DIJON
+VAT number: FR 42814822417
+Data Privacy Officer: Julien Veuillet
+Contact : julien [at] wakdev.com
+Phone : (+33) 09 72 11 87 70
+7. Permissions and APIs that Access Sensitive Information
+Disclosure information about NFC Tools and NFC Tools - Pro Edition for Android
+To write information on your NFC chips, you may enter sensitive information such as your name, phone number, email, etc.
+This information is collected solely for the purpose of writing it to your NFC chip, and it not shared with any third parties and will remain on your device only.
+Moreover, our NFC Tools and NFC Tools - Pro Edition apps do not have any internet access rights, they only work offline.
+Disclosure information about NFC Tasks for Android
+To perform all the tasks stored on your NFC tags, NFC Tasks must have the necessary rights.
+As some features of NFC Tasks require special permissions, we wrote these lines to help you understand why we access and use such data.
+Every special permission will require your prior consent and you can check the status and detail of each permission in the "Settings" menu, then "Configure permissions" at any moment.
+We don't collect and share your personal and sensitive user data, but NFC Tasks can access or use this data to enable features listed below:
+APPS: Allows you to list other apps on the device and pick up an app and/or check if your selected app is present on the device.
+CALENDAR: Allows you to insert events in your calendar or perform time stamping.
+NOTIFICATIONS: Allows you to use tasks that send notifications.
+CAMERA: Allows you to open your camera, take pictures or videos.
+CONTACTS: Allows you to pick a phone number from your contact list.
+LOCATION: Allows you to use tasks and variables related to localization (like {LAT} and {LNG}) or to display a world map.
+NEARBY DEVICES: Allows you to use tasks related to nearby devices (such as connecting to Bluetooth devices).
+MICROPHONE: Allows you to record an audio file from your microphone.
+PHONE: Allows you to make a call and use some variables about your device.
+SENSORS: Allows you to get sensors information and use some variables about your device states (like ambient temperature and more).
+STORAGE: Allows you to save or load files from your phone's storage.
+SYSTEM SETTINGS: Allows you to read or write the system settings on the related tasks.
+DEVICE STATISTICS: Allows you to use tasks or conditional blocks related to your running apps.
+INTERNET: Some features allow you to send information over the internet (such as tasks to send REST requests or open URLs). You agree that you are solely responsible for data you may send through those features.
+End User License Agreement (EULA)
+By downloading any application or software from
+WAKDEV
+or any marketplace (Google, Amazon, Samsung, ...) here after referred to as "The Company", installing or using this application or software or any portion thereof, here after referred to as "Software", you agree to the following terms and conditions (the "Terms and Conditions").
+1. Use of application / software
+The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Software solely and exclusively for your personal or professional use.
+You may not use the Software in any manner that could damage, disable, overburden, or impair the Software (or servers or networks connected to the Software), nor may you use the Software in any manner that could interfere with any other party’s use and enjoyment of the Software (or servers or networks connected to the Software).
+You agree that you are solely responsible for (and that The Company has no responsibility to you or to any third party for) your use of the Software, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) of any such breach.
+2. Proprietary rights
+You acknowledge that:
+The Software contains proprietary and confidential information that is protected by applicable intellectual property and other laws.
+The Company and/or third parties own all right, title and interest in and to the Software and content, excluding content provided by you, that may be presented or accessed through the Software, including without limitation all Intellectual Property Rights therein and thereto. "Intellectual Property Rights" means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide.
+You agree that you will not, and will not allow any third party to :
+Copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Software or content that may be presented or accessed through the Software for any purpose, unless otherwise permitted,
+Take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Software,
+Use the Software to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or
+Remove, obscure, or alter The Company’s or any third party copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Software.
+3. The company terms of service and privacy policy
+The Company’s Privacy Policy
+(located on the same page) explains how The Company treats your information and protects your privacy when you use the Software.
+You agree to the use of your data in accordance with The Company’s privacy policies.
+The Software may contain features that are used in conjunction with The Company’s search and other services.
+Accordingly, your use of such features of the Software is also governed by The Company’s Terms of Service located at
+https://policies.google.com/terms
+, The Company’s Privacy Policy located at
+https://policies.google.com/privacy
+, as well as any applicable The Company Service-specific Terms of Service and Privacy Policy, which may be updated from time to time and without notice.
+4. Government restricted rights
+This Software, related materials and documentation have been developed entirely with private funds.
+If the user of the Software is an agency, department, employee, or other entity of the Government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the Software, including technical data or manuals, is restricted by the terms, conditions and covenants contained in these Terms and Conditions.
+5. Export restrictions
+The Software may be subject to export controls or restrictions by other countries or territories.
+You agree to comply with all applicable U.S. and international export laws and regulations.
+These laws include restrictions on destinations, end users, and end use.
+6. Termination
+These Terms and Conditions will continue to apply until terminated by either you or The Company as set forth below.
+You may terminate these Terms and Conditions at any time by permanently deleting the Software from your mobile device in its entirety.
+Your rights automatically and immediately terminate without notice from The Company or any Third Party if you fail to comply with any provision of these Terms and Conditions.
+In such event, you must immediately delete the Software.
+7. Indemnity
+To the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Software, including your downloading, installation, or use of the Software, or your violation of these Terms and Conditions.
+8. Disclaimer of warranties
+You expressly understand and agree that your use of the Software is at your sole discretion and risk and that the application is provided as is and as available without warranty of any kind.
+You are solely responsible for any damage to your mobile device, or other device, or loss of data that results from such use.
+The company further expressly disclaims all warranties and conditions of any kind, whether express or implied, including, but not limited to the implied warranties and conditions of merchantability, fitness for a particular purpose and non-infringement, with respect to the application.
+The application is not intended for use in the operation of nuclear facilities, life support systems, emergency communications, aircraft navigation or communication systems, air traffic control systems, or any other activities in which the failure of the application could lead to death, personal injury, or severe physical or environmental damage.
+9. Limitation of liability
+You expressly understand and agree that the company, its subsidiaries and affiliates, and its licensors are not liable to you under any theory of liability for any direct, indirect, incidental, special consequential or exemplary damages that may be incurred by you through your use of the application, including any loss of data or damage to your mobile device, whether or not the company or its representatives have been advised of or should have been aware of the possibility of any such losses arising.
+10. Miscellaneous
+These Terms and Conditions constitute the entire Agreement between you and The Company relating to the Software and govern your use of the Software, and completely replace any prior or contemporaneous agreements between you and The Company regarding the Software.
+The failure of The Company to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to The Company.
+If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable.
+The rights granted in these Terms and Conditions may not be assigned or transferred by either you or The Company without the prior written approval of the other party. Neither you nor The Company are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party.
+These Terms and Conditions and your relationship with The Company under these Terms and Conditions will be governed by the laws of France without regard to its conflict of laws provisions. You and The Company agree to submit to the exclusive jurisdiction of the courts located within the county of Dijon, France to resolve any legal matter arising from these Terms and Conditions. Notwithstanding this, you agree that The Company will still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+General Data Protection Regulation (GDPR)
+1. General
+WAKDEV (here after referred to as "The company", "we", "our" or "us") are committed to protect and respect your privacy and order to comply with the privacy policy defined by the General Data Protection Regulations (GDPR)
+In this notice we want to provide you with information about the company, the nature, scope and purposes of the data collection and use, trying to offer you an insight into the processing of your personal data.
+The company reserves the right to update this notice at any time, that is why we invite you to visit regularly this notice.
+2. Apps & software
+Here is an exhaustive list of data we process in our apps and software and for what purpose?
+Information about NFC apps and software:
+To write information on your NFC chips, you may enter sensitive information such as your name, phone number, email, etc. The sole intention behind this data is to be encoded onto your NFC chip,
+with the explicit commitment that it will neither be shared nor transferred, remaining confined to your device.
+ANDROID APPS
+NFC Tools (for Android)
+We do not collect and store personal data.
+NFC Tools - Pro Edition (for Android)
+We do not collect and store personal data.
+NFC Tasks (for Android)
+We do not collect and store personal data.
+NFC Tools Plugin : Reuse Tag (for Android)
+We do not collect and store personal data.
+IOS APPS
+NFC Tools (for iOS)
+We do not collect and store personal data.
+PC / MAC SOFTWARE
+NFC Tools (for PC/MAC)
+When you download NFC Tools for PC/MAC from our website, we collect basic information about your country and the datetime. Those data are anonymised and only collected for internal statistics.
+NFC Tools - KeyBoard Controller (for PC/MAC)
+When you download NFC Tools - KeyBoard Controller for PC/MAC from our website, we collect basic information about your country and the datetime. Those data are anonymised and only collected for internal statistics.
+3. Other services
+To avoid any confusion:
+This part is NOT related to our Android or iOS apps
+, it's only relevant when you visit our website or our online support form, using any web browser.
+As a reminder, none of our Android or iOS apps collect and store personal data.
+Here is an exhaustive list of data we process in our website and for what purpose?
+General browsing on our websites
+When you visit our internet website, we collect the data transmitted to our server by your browser.
+During your visit, only the data that are technically necessary will be collected. Processing is carried out in the legitimate interest of improving the site's stability and features.
+The data will not under any circumstances be transmitted or used for any other purpose.
+Customer service / support
+As part of a service, we collect data that you voluntarily wish to provide us via online forms or emailing us.
+These data are processed exclusively to respond to your requests for information and their processing is based on your consent.
+Legal proceedings / requirements
+We may use the data we collect to investigate and respond to complaints / dispute or requests from regulatory bodies, government entities or administrative investigations.
+4. How do we store and protect your data?
+We do not store personal data for longer than is necessary in order to achieve the purposes for which they were collected.
+To determine the appropriate storage period, we shall consider the quantity, nature and sensitivity of data and the purposes for which we process.
+We delete or anonymise this information in accordance with applicable laws.
+We remind you that the collection of your data is used exclusively for the successful delivery of our services and therefore to optimise the experience
+To avoid unauthorized access to data and generally secure the data, we apply the following safety measures: encrypted transmission, encrypted storage, an authorization concept, a data backup concept, and physical safety measures for servers. Those safety measures are constantly revised to comply with the latest technological developments.
+5. About your rights?
+In accordance with the Data Protection Regulations and the legal limits in force, your rights include:
+to access your data, particularly to check that they are accurate and exhaustive,
+to have your data rectified or erased,
+to the portability of the data,
+to object to or request a restriction of the processing of your data,
+to give specific instructions concerning the processing of your data following your death.
+For the processing of your data based on consent, you also have the right to withdraw your consent at any time.
+The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
+To exercise the rights, please send an email to our DPO.
+Quick Access
+Privacy policy
+EULA
+GDPR
+About
+Creator of innovative solutions
+Android | iOS | Web | NFC
+Keep in touch
+About
+|
+nfc.systems
+|
+nfc.tools
+|
+nfc.support
+|
+nfc.services
+|
+nfc.digital
+|
+nfc.guide
+|
+nfc.help
+|
+nfc.cards
+All rights reserved : wakdev
+Tread softly because you tread on my internet...
+↑

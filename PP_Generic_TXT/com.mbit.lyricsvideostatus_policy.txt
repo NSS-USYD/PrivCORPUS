@@ -1,0 +1,42 @@
+MBit Musicâ„¢ : Particle.ly Video Status Maker
+MBIT MUSIC
+Privacy Policy
+PRIVACY POLICY
+MBit Musicâ„¢
+cares about your privacy. Respecting your privacy is a fundamental policy of
+MBit Musicâ„¢
+, and therefore, we formulate this Privacy Policy to inform you of how we collect, use and share your personal information.
+Non- Personal Information
+We may collect and use non-personal information in the following circumstances. To have a better understanding in userâ€™s behavior, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as installed application name and package name, the data of install, frequency of use, country, equipment and channel.
+If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+Information we get from your use of our services
+- Device information - Device-specific information such as your hardware model and operating system version.
+- Unique application numbers - Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number)
+- Anonymous identifiers - we use anonymous identifiers when you interact with services such as advertising services and others.
+Permissions uses in App and its uses
+WRITE_EXTERNAL_STORAGE:
+This permission used for store or save your created video on SD card or memory  card. It also required for store temporary file for animations.
+READ_EXTERNAL_STORAGE:
+This permission used for show all photos on our app. Photos are use for creating video.
+INTERNET:
+This permission required to download video themes or music. It also required showing ads on app.
+ACCESS_NETWORK_STATE:
+This permission required to check internet is available or not before downloading video effect theme or music.
+MEDIA_MOUNTED:
+This permission required checking media card/SD card/ Memory Card is available or attached to device or not.
+Third Party
+To be able to deliver the Application and it's service to you, we use third party sub-suppliers, to whom we may transfer data. One of these partners is Revsdk, please follow the link to read Revsdk's Privacy Policy - https://bit.ly/2AfhBAl
+Advertisement in Apps:
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a respective privacy policies to respective site. We use Google AdMob for advertisements in our applications. (Admob policy link: https://www.google.com/adsense/new/localized-terms)
+There could be errors in the programming and sometime programming errors may cause unwanted side effects.
+Changes to the Privacy Policy :
+In Our Privacy Policy may change from time to time, we will post any privacy policy changes on this page, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. If you do not agree to any modifications to this Policy, your sole recourse is to immediately stop all use of all Applications, the Services and the Site.
+Your continued use of any Application, the Services or the Site following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy. Please note that none of our employees or agents has the authority to vary any of our Policies.
+Mbit MusicTM : Particle.ly Video Status Maker
+app name and its Icon/logo are trademark of Mbit Music app owner.
+Contact us :
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+[email protected]
+Effective Date: October, 2019
+Â© copyright 2019 by
+mbitmusic.in

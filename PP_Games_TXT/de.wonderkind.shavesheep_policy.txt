@@ -1,0 +1,65 @@
+Privacy Policy - wonderkind - Apps and Games for Kids
+Privacy Policy
+Our privacy policy describes the types of information collected by wonderkind through our products (apps, website) and how this information is used.
+What types of information are collected?
+We distinguish between two types of information:
+personal and non-personal information.
+Personal information
+We collect no personal information about you or your children through our apps.
+Non-personal information
+We collect and use non-personal information (“Analytical Data”) during the use of our apps:
+– Are there any errors in the app? Where and when do they occur?
+– How long do users use our apps?
+– How do our users use our apps, which features are most popular and which ones are used less.
+This helps us to gain a better understanding of our users, to draw conclusions for future concepts, and, ultimately, to develop better apps.
+To collect analytics data we use the following third-party products, which are setup to be COPPA and GDPR compliant:
+Unity3D Analytics, https://unity3d.com/legal/privacy-policy
+Google Analytics, https://policies.google.com/privacy/update?hl=en
+You can deactivate Google Analytics here:
+https://tools.google.com/dlpage/gaoptout
+Unity3D in-app analytics can be deactivated on a per-game basis.
+Children’s privacy
+Our products respect the privacy of children. We do not knowingly collect personal information from children.
+In the event that a user identifies himself/herself as a child through a support request or feedback, we will not collect, store or use and will delete in a secure manner any personal information of such a user.
+Newsletter
+If you choose to receive information from us regarding the latest news and developments, we will need your email address to be able to send it to you.
+We provide a free, optional newsletter that parents can elect to receive by submitting a request on our website or apps.
+(i) We collect your email address for the sole purpose of sending you the newsletter;
+(ii) We use the email address solely for that purpose and the email address is not combined with any other information;
+(iii) You can unsubscribe from the newsletter at any time. Our newsletter is provided by our external service providers. For this reason, we need to share your email address with these service providers exclusively for the purpose of serving your newsletter subscription.
+Please refer to the Privacy Policy of our partner at Mailchimp, https://mailchimp.com/legal/privacy/
+Reporting
+If you choose to receive information and reporting emails from us regarding your children’s learning progress or screen time, we will need your email address to be able to send it to your.
+Your email address is never given to anyone outside our company to make use of any marketing or promotion services.
+(i) We collect your email address for the sole purpose of sending you the reporting email;
+(ii) You can unsubscribe from the reports at any time in the apps that supports these reporting emails (e.g. EASY peasy English). Our email sending service uses Amazon AWS SES as an external infrastructure as a service (IAAS) provider. For technical reason, we need to submit your email address to this service provider exclusively for the purpose of sending the email itself, never for sharing any information with them.
+(iii) These reports might contain special offers like new learning content or update information for our apps.
+Our partner für theses services is Amazon AWS. Please refer to their Privacy Policy: https://aws.amazon.com/en/privacy/
+Content Sharing
+Apps with a “sharing” feature might ask you to enter information (like email address and name) about the receiver you would like to share content from our apps with.  We never save these information. Temporal data might be saved on severn located in the EU. All data is encrypted, anonymised and is being deleted within 30 days.
+Our partner für theses services is Amazon AWS. Please refer to their Privacy Policy: https://aws.amazon.com/en/privacy/
+Support
+Our users can send us an email if they need support or help with any of our products. If you submit a support request, we will receive your email address and possibly other personal and non-personal information that you provide related to your support request (“Support Information”).
+Advertising
+We only advertise our own products. Within our apps, your child is protected by a lock preventing unrestricted access to these links (parental gate).
+Information sharing and disclosure
+Personal information collected when signing up for our newsletter:  We will use your email address for the sole purpose of sending our newsletter to you. Personal information collected through a support request: We will only use this information for processing your support request.
+No information will be shared with third parties, and we do not use this information internally for any other purposes than originally intended.
+We do not rent or sell your information.
+Cookies
+When you visit our website, we may send cookies to your computer that uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking usage information. Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer.
+Links
+We may provide links and/or connections to third-party websites or services from our website (we do not allow links to third parties within our mobile applications). wonderkind is not responsible for the privacy practices or content of these third-party websites or products. Our apps contain only links to content for which wonderkind is responsible (e.g. help pages, other wonderkind apps, etc.). Your child is protected by a lock preventing unrestricted access to these links (parental gate).
+List of Sub-processors
+wonderkind uses its Affiliates and the following third party Sub-processors to assist it in providing the Services (as described in the Agreement). These Sub-processors set out below provide cloud hosting and storage services; content delivery and review services; assist in providing customer support; as well as analytics, bug tracking, response, diagnosis and resolution services.
+Amazon Washington, USA (Email services, cloud hosting, cloud storage)
+Google California, USA (Anonymised  analytics for websites)
+Mailchimp, USA (Newsletter)
+Unity3D, USA (bug tracking , anonymised  analytics for apps)
+Microsoft, USA (Cloud hosting, content delivery)
+Contact
+If you have any questions or concerns, please feel free to contact us at any time:
+Tim Kiener
+support [at] wonderkind . de
+Last updated: June 12, 2020
+wonderkind gmbh, Kernhofer Str. 21, 10317 Berlin, Germany

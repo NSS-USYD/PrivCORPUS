@@ -1,0 +1,33 @@
+JuiceSSH - Free SSH client for Android
+Follow us
+Install JuiceSSH
+Juice
+SSH
+Screenshots
+Features
+Changelog
+FAQ
+Bookclub
+About Us
+Contact
+Quick Links
+Screenshots
+Changelog
+Roadmap
+FAQ
+Bookclub
+About Us
+Contact
+Privacy Policy
+About
+JuiceSSH was published to the Play Store in December 2012. Since then we've not stopped adding new features and functionality.
+If like us, you spend most of your life in a terminal window then you'll love some of the ideas we've got that will be coming to JuiceSSH in the coming months.
+News
+{{ item.date }}
+v{{ item.version }}
+Contact
+support@sonelli.com
+@juicessh
++JuiceSSH
+facebook.com/juicessh
+© Sonelli Ltd, 2013 - Registered UK Company No. 07878261

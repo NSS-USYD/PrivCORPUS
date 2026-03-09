@@ -1,0 +1,47 @@
+cybertechpolicy
+Search this site
+Skip to main content
+Skip to navigation
+cybertechpolicy
+Our Privacy Policy
+Our Privacy Policy for Wonderful HAonesoft Tech
+This is document is for all the users all around the world including EEA, EU countries and also for California Consumer Privacy Act (CCPA),This is privacy policy is Also for LGPD Your privacy is very important to Wonderful HAonesoft Tech. Sometime we may need information to provide you with the services which you want; this privacy statement applies to Wonderful HAonesoft Tech and its products. Your data and information is always safe. If you don’t agree to our privacy policy then you can stop using our services anytime. Please read the document in details and you can email us if you have any questions the email is provided below. Bluetooth permission is required to check the battery level of bluetooth device connected to your device. Battery level of airpods airbuds etc.
+For GDPR we have provided consent form in GPS Speedometer App.
+For California Consumer Privacy Act (CCPA)
+we are not using personalized ads
+For LGPD we are using Personalized Ads
+What Information we use & how we use it:
+. Location
+We only use GPS location as the functionality of the Application, We don’t collect it or share it with anyone else. We Take Location Permission in WIFI signal strength App because its required by the Android OS after Version marshmallow of the Android to scan Wifi Name and nearby Wifi networks so its used only to get Wifi Information like Wifi Name etc and scan nearby Wifi networks. It’s only used by the users of the App for their own use and users can also disable it. No BACKGROUND service is being used in the gps speedometer App, no geo fencing or other gps updates are being used in the App. only foreground service is being used
+. Camera
+We use Camera only as an Infrared scanner, which is used to detect infrared light from a camera. We do not use camera for any other purpose and we do not take pictures or record video from camera.
+.Local Storage
+We access local storage of the device to play the media / content selected by the user on Chromecast or similar casting devices. Other than that we don’t access the storage for any other purpose. On android 11+ devices we make a copy of the selected media in the allocated App’s space of the android device, we do this because due to the new restrictions regarding access to the local storage memory by Google new OS 11. After playing the selected media upon next selection of the media we delete the previous file copy
+. Read Google services configuration
+This information is used to acquire the advertising ID we provide user with better advertising service by using such anonymous ID
+For the LGPD we use some of the user's data to provide personalized ADS only if you wish not to use your data for personalized ADS then you can stop using our services
+Updated policies for the following:
+European Economic Area (EEA),European Union(EU), Switzerland and all the other countries
+Data is needed to provide the users with the relevant ads in which the user might be interested and for the we need to process the information and data so that relevant ads can be delivered and the experience is optimized. To improve our services we need analytics to study them and for that purpose we need to process some technical information. We need to process data and for that we need information like user profile and the device information. Services like Google analytics might be used to process it and so we can make our services better. User data can never be used for any illegal purpose it is safe and fully secured
+For the purpose of advertisement we use ads networks like Facebook and Google, and the link to their privacy policy is included in this document
+Cookies are very important and they are specially used by the websites but you can control their use by going into the settings of the web browser if they have included this option in their web browser which most of the web browsers do. Cookies make your experience of using the service better and deliver more relevant ads.
+Moreover we don’t process any personal data like pictures, videos or call records etc.
+We may be able to disclose any information necessary if it is required by the law during any legal process. But we make sure you information is used legally under the law. Information and the data which is obtained with the Europe can be used to process and transferred to the countries outside the Europe which may not have the same level of data protection. Or it is transferred to the third parties located outside your home country to process your information to provide you with the services you need. We use fully secured and legal methods to transmit your data internationally and it is fully secured
+How we protect your information:
+We have implemented commercially reasonable technical & organizational measures for the reason to protect your personal information from the accidental loss , misuse and unauthorized access, alteration and destruction. Please note although we do take the reasonable measures to protect your information, no application, website , Internet transmission, computer system etc are completely secure. • Children's Privacy We are committed to protecting the privacy of children. We do not knowingly collect personal information from children under the age of 13. • Changes to the Privacy Policy cyber tech studios may, in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, Check this time by time.
+For advertising we use Google Admob and you can read about its policies on this Link "https://support.google.com/admob/answer/6128543?hl=en"
+We use Facebook audience network for advertisements too. You can also search and read about the polices of Facebook products here on this link:
+"
+https://www.facebook.com/about/privacy
+"
+Crashlytics and App Distribution Data Processing and Security Terms
+https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms
+For Privacy Policy and Security in Firebase
+https://firebase.google.com/support/privacy
+You can contact us for further information and questions on this email: californiacowboystudios@gmail.com
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

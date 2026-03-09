@@ -1,0 +1,302 @@
+Smart Family Privacy Policy | About Verizon
+Skip to main content
+Accessibility Resource Center
+Skip to main content
+About Us
+Careers
+Support
+Our Company
+Our Company
+Our Company
+Close
+Our Company Overview
+Who We Are
+Who We Are
+Overview
+Diversity and Inclusion
+History and Timeline
+The Verizon Story
+Headquarters & Contact Info
+Verizon Fact Sheet
+Leadership
+Awards
+What We Do
+What We Do
+Overview
+5G
+Innovation Labs
+4G LTE
+Broadband & Fiber
+Internet of Things
+Managed Security
+How We Operate
+How We Operate
+Overview
+Code of Conduct
+Management Governance
+Open Internet
+Policies
+Retiree Information
+State Government Affairs
+Supplier Diversity
+News
+News
+News
+Close
+News Center
+News Center
+News Center
+Networks & Platforms
+Products & Plans
+Responsible Business
+Financial
+Public Safety
+Inside Verizon
+News Releases
+News Releases
+News Releases
+Media Contacts
+B-roll and images
+RSS Feeds
+Emergency resource center
+Verizon Fact Sheet
+Inside Verizon
+Inside Verizon
+Inside Verizon
+Welcome V Team
+Call for Kindness
+Social Justice
+Podcasts
+Responsibility
+Responsibility
+Responsibility
+Close
+Responsibility Overview
+Digital Inclusion
+Digital Inclusion
+Overview
+Verizon Innovative Learning
+Verizon Innovative Learning HQ
+Small Business Program
+Climate Protection
+Climate Protection
+Overview
+Sustainability
+Human Prosperity
+Human Prosperity
+Overview
+Reskilling Program
+Employee Volunteers
+Sharing our Success
+Sharing our Success
+Overview
+Giving and Grants
+Employee Giving
+Product Responsibility
+Product Responsibility
+Overview
+Accessibility
+Account Security
+Privacy Policy
+ESG Resources Hub
+ESG Resources Hub
+Overview
+Parenting in a Digital World
+Parenting in a Digital World
+Overview
+Digital Parenting 101
+Young children 3-8
+Preteens 9-12
+Teenagers 13-18
+By topic
+Meet the editorial team
+Investors
+Investors
+Investors
+Close
+Investor Relations overview
+Financial Reporting
+Financial Reporting
+Overview
+SEC Filings
+Annual Reports
+Quarterly Earnings
+Stock Information
+Dividend History
+Tax Information
+Fixed Income
+Asset-backed Securitization
+Corporate Governance
+Corporate Governance
+Overview
+Board of Directors
+Board Committees
+Shareowner Services
+Shareowner Services
+Overview
+Cost Basis Calculator
+Shareowner FAQs
+ESG Resources Hub
+ESG Resources Hub
+Overview
+Human Rights at Verizon
+News & Events
+News & Events
+Investor Events & Webcasts
+Investor News
+Investor Calendar
+Email Alerts
+Contact Investor Relations
+Close
+Support
+About Us
+Careers
+end of navigation menu
+About
+Privacy Policy Summary
+Current:
+Smart Family
+English
+Español
+We recommend that you view this content online or on your mobile device for a better design and navigation experience and the ability to seamlessly access links and other documents. This version is provided so you can PRINT a version of this content in a single document.
+Read up on our apps
+and services privacy
+policies.
+Check out the policies of the apps and services you use.
+Apps and Services Menu
+Smart Family
+Message+
+Hum
+Smart Family
+Gizmo
+Wild and Seek
+Care Smart
+Advanced Messaging
+Replica App
+Message+
+Hum
+Smart Family
+Gizmo
+Wild and Seek
+Care Smart
+Advanced Messaging
+Replica App
+Smart Family
+Introduction
+Smart Family provides parental controls tools and location services to help parents monitor devices on the parent’s account.
+Smart Family tools allow parents to set time restrictions, trusted contacts, and purchase and usage limits for each device on a parent’s account and allow family members to locate each other's devices. For lines designated as child lines on parents’ accounts, parents can also set content filters; pause the internet; and monitor call and text activity, website browsing and app activity, and driving behavior and events.
+Smart Family’s privacy practices are covered by Verizon’s Privacy Policy as well as the practices described here. In the event of a conflict between the two policies, the practices described in this policy govern when parents and children are using Smart Family services.
+Read Verizon’s Privacy Policy
+Information we collect and how it is used.
+Information we collects from parents.
+We collect information when parents set up Smart Family services for the lines on their account, including name and photo, trusted contacts, time restrictions, purchase and usage restrictions and content filters parents set for these lines.  When parents download and use the Smart Family parent app, we may also collect device identifiers, and location information from the mobile device and the wireless network. If parents allow it, Smart Family will access their device’s contact list to enhance call information provided to the parents. If the parent turns on driving activity monitoring for their device, the Smart Family parent app also collects motion data.
+Information we collect from lines designated as child lines (including children under 13)
+. We collect location from the wireless network; cellular call and text activity and network usage; and mobile device info, such as phone number and device identifiers for devices that parents identify as a child line in the Smart Family parent app. When parents download the Smart Family Companion app on a child’s device, we may also collect additional information from the device and app including: device identifiers, device type, app version, IP address, contact list, app activity, location and motion activity including driving data described below. When parents set up the Smart Family Virtual Private Network (VPN) on a device designated as a child line, we may also collect information about websites visited and apps launched on that device. When parents set up content filtering on a child line, the Smart Family Companion app will access the device’s IP address and information about the websites and apps requested by the companion device.
+When parents enable driving insights on a child’s device, parents may use the Smart Family parent app to designate a child as a driver or passenger and we will collect driving data, such as trip route and distance, top speed, braking, accelerating, cornering, and potential crash events. If parents designate a child as a driver, in addition to the driving data described here, we will also collect device usage while in a moving vehicle, and use driving data and device usage to calculate a driving score.
+For mobile devices connected to the Verizon network, including lines designated as child lines, we collect an E-911 address for emergency response.
+Location information we collect from parents and designated child lines and other information we collect concerning designated child lines, may be considered sensitive personal information under some state laws.
+We use the information we collect to deliver, maintain and support Smart Family services and for analytics. We do not use information collected from or about designated child lines for targeted advertising purposes.
+We do not collect more information from designated child lines than is reasonably necessary to render Smart Family services. Smart Family does not enable users of child line devices to make their personal information publicly available.
+Information we share.
+We disclose personal information and sensitive personal information to
+vendors who work on our behalf
+. These vendors may use personal information disclosed to them only for purposes related to providing Smart Family services to parents and families, and are required to delete the information when it is no longer needed to provide the service. We do not sell or share information we collect as part of this service or information from or about designated child lines for any other purpose.
+Vendors who work on our behalf
+We share personal information collected from or about child lines with Here Technologies and Mapbox for mapping and location services when parents share their location or view their child’s location in the Smart Family app. When parents enable it, PubNub receives parent and child line device IDs to deliver alerts that parents set about their child’s location or activity. We also share the device identifier for the child’s device with Google Analytics to provide app analytics services so that Smart Family can optimize app performance. Device identifiers are not shared with Google Analytics if the parent or the child have not allowed ad tracking on the child’s Apple devices or if the parent or child “Opt Out of Ads Personalization” on Android devices.  If the parent sets content filters, the child’s device and online activity is shared with Cloudflare who provides content filtering services for Smart Family. Finally, if driving activity monitoring is enabled, location and motion data from the child’s device is shared with Smart Family’s telematics provider, Cambridge Mobile Telematics, which provides driving scores and the driving analytics that are visible in the Smart Family app.
+Parent choices and controls.
+When parents set up Smart Family services, parents are asked to provide consent for the Smart Family app to collect information from designated child lines including location; call and text activity and data usage; mobile telephone number; device identifiers, device type, app version, and IP address; child name and photo; contact lists; websites and apps accessed; driving activity such as trip details and crash events; device motion sensor data and phone usage for Smart Family’s driving features and E-911 address.
+Parents may choose to share device location with each other or with all Smart Family members. Parents can view or change their location sharing choices in the Smart Family app.
+Parents can revoke permission for us to collect Smart Family data from lines designated as child lines at any time by changing the device settings on the child’s device. Parents can revoke consent for the Smart Family Companion app to collect GPS location information from their child’s device using the device location settings but device location from the wireless network will continue to be collected.
+Driving activity monitoring can be turned off from the settings menu inside the Smart Family Companion app on the child’s device.
+When the Smart Family VPN is uninstalled from the child’s device, some web browsing and app activity monitoring services are disabled, but screen time information may still be collected if the child device uses an Android operating system and the Android device settings permit it. Parents can disable web and app activity, and screen time monitoring by Smart Family by uninstalling the Smart Family Companion app from the child’s device.
+If parents remove the Smart Family Companion app from the child’s device, the app’s GPS location, and web, app and driving activity monitoring services will not be available within Smart Family for those child lines, but device location from the wireless network will continue to be collected.
+Removing the Smart Family child profile will stop collection of Smart Family information from the child line but we will continue to collect information to provide wireless service to the line.
+Parents may review the device information, geolocation, web browsing and app activity, contact list and driving data that has been collected from designated child lines. For more information or assistance with these choices, you can contact us at
+verizonsmartfamily@verizonwireless.com.
+Your Rights Under State Laws.
+You may have additional privacy rights under state privacy laws. You can read more in the
+full privacy policy.
+Last Update: September, 2023
+General Privacy Policies
+Verizon Privacy Policy Summary
+Full Verizon Privacy Policy
+California Privacy
+Verizon Privacy Dashboard
+Fios Privacy Policy
+International Privacy Centre
+Visible
+BlueJeans
+Tracfone
+Apps and Service Policies
+Message+
+Hum
+Smart Family
+Gizmo
+Wild and Seek
+Care Smart
+Advanced Messaging
+Replica App
+Notices
+Mobile Location Analytics
+Mobile Device Installment Plan
+Automated License Plate Recognition
+Services & Solutions
+Verizon.com
+Mobile Plans
+Mobile Devices
+Home Services
+Small and Medium Business
+Enterprise Solutions
+Verizon Connect
+Public Sector
+Partner Solutions
+Support
+Mobile Online Support
+Home Online Support
+Contact Customer Support
+Sign in to your Account
+Store Locator
+Account Security & Fraud Claims
+The Relay Blog
+Accessibility
+Innovation
+Innovation Labs
+The Verizon Story & Museum
+Verizon Ventures
+Network Technologies
+4G LTE
+5G
+Fiber Optics
+Multi-Access Edge Compute (MEC)
+Careers
+Welcome to the #NetworkLife
+Life at Verizon
+Culture & Diversity
+Search Open Roles
+Careers Site Map
+Follow Verizon News
+twitter
+instagram
+Follow Inside Verizon
+twitter
+instagram
+Follow Verizon Careers
+twitter
+instagram
+Follow Customer Support
+facebook-official
+twitter
+Follow VerizonGreen
+twitter
+Privacy Policy
+California Privacy Notice
+Your Privacy Choices
+Terms & Conditions
+Accessibility
+Open Internet
+Important Consumer Information
+About Our Ads
+Site Map
+©
+2023
+Verizon

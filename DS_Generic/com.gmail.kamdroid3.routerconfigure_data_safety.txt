@@ -1,0 +1,15 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Location                
+<d_attr>               Precise location              
+<d_valu>             Analytics, Advertising or marketing            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Advertising or marketing            
+<d_prac>          No data collected         
+<d_detl>          The developer says that this app doesn’t collect user data         
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             Data can’t be deleted            
+<s_attr>             The developer doesn’t provide a way for you to request that your data be deleted            

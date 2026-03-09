@@ -1,0 +1,90 @@
+GameLead Privacy Policy
+GameLead Privacy Policy
+GameLead Dreaming towards the Revolution of the Games Industry. Our Aim is to target Mobile Users to play all games. We at GameLead believe that privacy of our customers is an issue to be taken seriously. Thus we take great measures to respect and protect our usersâ€™ privacy. We believe that users have the right to know the personal information that is being collected. This document explains how we may collect some personal and non-personal information of our customers. In this document GameLead is referred to as GameLead â€˜weâ€™ and â€˜companyâ€™, whereas users of our games are referred to as â€˜usersâ€™ and â€˜youâ€™.
+EUâ€™s General Data Protection Regulation (GDPR) notices for EEA Customers
+The privacy of your personal and non-personal information is afforded the highest level of importance by GameLead . We will strictly comply with all relevant legislative requirements, and, in the event of any inconsistency, the legislative requirements will override the provisions of this document. We reserve the right to amend our Privacy Policy at any time without notice to you, and such amendments will take effect from the date of issue on our website. If you are a minor at law (which usually means you are aged under 18 in countries including Australia and the United States, though this age may vary depending on where you are located), you must get your parent or guardianâ€™s permission before providing us with any personal information. We may collect Non-Personal Information, such as a device ID or other persistent identifier linked to the device or computer, which may be used by a child to play our Websites/Apps/Games.
+Consent
+We would like to make it clear that by downloading, installing and using our games, you agree to the terms of this privacy policy and you also agree with the collection of the information mentioned in this document. You can always choose to not give this consent by deciding to not use our mobile games. We understand that a significant number of our games are played by kids under 13 years of age, and we must protect childrenâ€™s privacy and safety by restricting the marketing to these children. A child under 13 can only play our games only with consent from the guardian. You should uninstall and erase our games if you or your legal guardian disagree with our privacy policy. GameLead respects all these rights. GameLead does not knowingly and directly collect and store any personal information from a kid under the age of 13, and we hereby specifically prohibit children from giving us any personal information.
+Collection of Information
+We may collect information to improve user experience. Please read the types of information below.
+Non Personal Information
+This is the anonymous information from which one cannot find out the identity of the user. Non personal information includes technical information, behavioral data, and statistical data. Non-personal Information collected by Third Parties may include the following technical information: type of operation system (e.g. Android, iOS, etc.), type of browser (e.g. Explorer, Firefox, Chrome, Safari, etc.), screen resolution (e.g. 800Ã—600, 1024Ã—768, etc.), language (e.g. English), device type (e.g. Galaxy, HTC, iPhone, etc.), geo-location â€“ only general location may be collected. This information is usually gathered by third-party services during your usage of our games. They analyze your activities when you interact with our games. This information is used to do statistical research, measure traffic, and make applications that are customized to your preferences. These third-party service providers include but are not limited to â€˜Admobâ€™, â€˜Metaâ€™ and â€˜Unity Adsâ€™. We advise you to read privacy policies of these companies which can be found at the following links:
+Admob:
+https://policies.google.com/privacy?hl=en
+Firebase:
+https://policies.google.com/privacy?hl=en
+Google Analytics:
+https://www.google.com/intl/en/policies/privacy/
+Chartboost:
+https://answers.chartboost.com/en-us/articles/200780269
+Unity Ads:
+https://unity3d.com/legal/privacy-policy
+Mintegral SDK:
+https://www.mintegral.com/en/privacy/
+Facebook:
+https://www.facebook.com/policy.php
+pangle:
+https://www.pangleglobal.com/privacy/enduser-en
+Personal Information
+This information may identify an individual or maybe of a private and/or sensitive nature. Users of the Site/App/Game automatically provide their IP address (or Mac Address) mainly for enhancing the Userâ€™s experience and for geo-location and security purposes as further detailed below. In addition, Personal Information that is being gathered consists of any personal details provided consciously and voluntarily by the User.
+We do not collect any Personal Information from you or related to you without your approval, which is obtained, through your active acceptance of the Terms and the Privacy Policy and from Consent Dialog from within App/Game.
+We may also collect the following information:
+IP address
+Country code
+IDFAs, IDFVs, Advertising IDs
+Language
+Locale (specific location where a given language is spoken)
+Time zone, session start/stop time
+Network status (WiFi, etc.), browser plug-in types and versions
+User-agent string (UA), platform, SDK version, timestamp
+Technical device information (e.g. device model and name, operating system name and version, CPU information, storage size, screen size, firmware, software, mobile phone carrier, Internet service provider, API key identifier for application, International Mobile Equipment Identity (IMEI) on Android, Android ID, Android Serial No)
+How Information is Collected
+Information can be collected automatically and programmatically.
+When you are browsing our Site
+When you are using/playing our App/Game
+When you contact us through Email/Facebook and/or other Support Channels
+Purpose of Information Collection
+Non-Personal Information is used for statistical and research purposes and for customization and improvement of our Site/App/Game
+Personal Information is used to be able to reply to you when you contact through support channels (Facebook/Email)
+Personal Information like Location/IP is used to show you ads according to your location, this is called contextual advertisement
+We use the information we collect about you/your device to deliver services to you and to operate our business. Such use by us and by our Partners may include:
+Delivering Our Services: Developing, delivering, and improving our products, services, and content, tailoring our products and services, providing software updates and product support, understanding and analyzing trends in connection with usage of the Apps, administering the Apps, and customer communications.
+Displaying Advertisements: Displaying third-party advertisements in our Apps and showing advertisements for our Apps in other publisherâ€™s apps.
+Cross-promotion: Cross-promoting our Apps and services, meaning we may promote one of our Apps while you are playing a different App of ours.
+Analytics and Research: Understanding and analyzing trends in connection with the usage of the Apps, gathering demographic information about our user base, data about where the App was downloaded from. We may also create reports and analyses for the purposes of research or business intelligence, for example, to track potential problems or trends with our Apps and services, or to test our new game features and content. We use the data we receive from Third Party Social networks only for internal analytics. For opting out from analytics please visit the Opt-Out Section of this Privacy Policy.
+Cookies and Local Data
+Cookies are small pieces of information stored on your device which enable applications to enable certain features. For example, user preferences like the muted sound of the game shall be stored locally on your device, frequency capping to make sure that if we decide to promote an app, we do not run the ad of the same game over and over again. We shall store and access such information to enhance your experience. Third-party services might use session cookies (which are deleted once you close the app) or persistent cookies (which remain stored until the user clears the cookies). The data stored can be personal or non-personal. Most devices allow you to block and clear cookies. Thus if you have allowed cookies on your device, your local device storage might be used to store and access information.
+Advertising
+We work together with third-party service providers to integrate ads (video interstitials, sticky ads, static interstitials, and banners) into our games. These ads shall be displayed in our games. These service providers also track your interaction with the ads and the performance of the ads. This information may be personal and/or non-personal. This information is used by us in understanding the way our games are used by you, enhancing our marketing efforts, and making games that are better customized for you. The third-party service providersâ€™ usage of this information is not covered in this privacy policy. We hereby also inform you that we shall advertise in our games, other games made by GameLead. Your information may be used to make personalized ads to promote our games in other publisherâ€™s games. We advise you to read the privacy policies of these service providers:
+Admob:
+https://policies.google.com/privacy?hl=en
+Firebase:
+https://policies.google.com/privacy?hl=en
+Unity Ads:
+https://unity3d.com/legal/privacy-policy
+Chartboost:
+https://answers.chartboost.com/en-us/articles/200780269
+Facebook:
+https://www.facebook.com/policy.php
+Ironsource:
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Tapjoy:
+https://www.tapjoy.com/legal/privacy-policy/
+Vungle:
+https://vungle.com/privacy/
+Disclosure of Information
+We may disclose personal information to third parties in the following circumstances:
+If we are required to do so by law or legal process;
+To law enforcement authorities or other government officials;
+When we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity;
+If necessary, to protect the vital interests of any person;
+In the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution, or liquidation);
+With your consent or at your discretion.
+Security
+We take reasonable measures to protect the information you provide to us and to protect your information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no transmission over the internet or electronic storage method is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Children's Privacy
+We understand the importance of protecting children's privacy, especially in an online environment. Our games are not directed at children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately so that we can take necessary actions to remove the information.
+Contact Us
+If you have any questions or concerns about our privacy policy or practices, you can contact us at:
+Email: gamelead223@gmail.com
+Please note that this privacy policy may be subject to change. It is your responsibility to review this privacy policy periodically for any updates or changes.

@@ -1,0 +1,36 @@
+SAI Privacy Policy
+Русский
+| English
+SAI (Split APKs Installer) Privacy Policy
+Overview
+SAI (Split APKs Installer) ("app") uses Firebase and Google Play Services ("Google") to collect app
+         errors logs and gather some analytics data.
+By using app, you agree with this privacy policy as
+            well as with
+Google's
+and
+Firebase's
+privacy policies.
+            Please note, that SAI developer is not responsible for the actions of apps you install with SAI
+What personal data is collected by developer?
+Developer gets some of the data collected by Google and Firebase:
+• Device Information - brand, model, OS version, device orientation, RAM usage stats, root status, unique
+            identifiers, errors logs
+            • User gender, age and country
+            • App usage events such as viewing settings screen
+What personal data is collected by Google?
+Refer to Google's
+privacy policy
+What personal data is collected by Firebase?
+Refer to Firebase's
+privacy policy
+How is personal data being used?
+Developer uses data exclusively to analyze app errors and keep track of app usage stats, however Firebase and
+         Google can use the data for any purpose stated in their
+         privacy policies
+Who is personal data shared with?
+Developer doesn't share the data, however Google and Firebase can share the data with their partners as stated
+         in their privacy policies
+How is personal data protected?
+Developer doesn't store the data, Firebase and Google do. The data is protected as stated in their privacy
+         policies

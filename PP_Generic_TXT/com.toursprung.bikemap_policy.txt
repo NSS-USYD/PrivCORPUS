@@ -1,0 +1,445 @@
+Privacy Policy - 🚲 Bikemap
+Bikemap
+Premium Badge
+Download on the App Store
+Get it on Google Play
+Privacy Policy
+Bikemap takes the protection of your personal data very seriously. We treat your personal data with confidentiality in accordance with the statutory data protection regulations and this privacy policy.
+When using Bikemap services, personal data is collected and processed. Personal data is data with which you can be personally identified. This privacy policy clarifies the type, scope and purpose of the processing of personal data (hereinafter referred to as "data") within the online offering of Bikemap GmbH. The online offering includes related websites, applications (including apps for iOS and Android), features and content, also external online presences, such as social media profiles (collectively referred to as "online offering"). With regard to the terminology used, e.g., "Processing" or "Responsible Officer," we refer to the definitions in Article 4 of the General Data Protection Regulation (GDPR).
+1. Data Collection at Bikemap 🚲
+1.1. Who is responsible for the data collection on this website?
+The party responsible for data processing on this website and related sites is:
+Bikemap GmbH
+Hegelgasse 21/7
+A-1010 Vienna
+Represented by Managing Director: Matthias Natmessnig.
+For questions regarding the handling of your personal data, you can contact our User Support or our Data Protection Coordinator at
+privacy@bikemap.net
+or
+support@bikemap.net
+.
+The controller is the natural or legal person who, alone or jointly with others, decides on the purposes and means of processing personal data.
+1.2. How do we collect your data?
+Your data is collected by communicating it to us, including by:
+Creating a user account;
+Creating a route, saving it and adding pictures and descriptions;
+By choosing a premium model and sharing your credit card or account information with our payment providers;
+Interacting with Bikemap social media accounts;
+Interacting with our in-app advertisements;
+Sending us an email or support request; and,
+If you are applying for a job with us.
+1.3. What do we use your data for?
+We need your data to be able to create your user account in order to provide our services, as well as to store and manage your created routes. You can decide for yourself whether these will be publicly accessible when creating routes or afterwards via the privacy configuration in your account. Please keep in mind that if you publish your routes for public access, your profile information could appear in a Google search. Some of the data is collected in order to ensure an error-free provision of
+Bikemap.net
+. In addition, other data may be used to analyse your user behaviour in order to improve our offer, such as the route editor.
+In this case, the processing takes place on the legal basis of contract performance according to Art. 6 Para. 1 lit.b GDPR).
+1.4. Automated data collection 🔁
+Other data is collected automatically when accessing our website for technical reasons by our IT systems. These are mainly technical data (e.g., IP address, Internet browser, operating system, or time of the page call). This data is collected automatically as soon as you enter our website, anonymised and stored separately from other data that you may transmit to us for only 90 days.
+In this case, the processing takes place on the basis of our predominantly legitimate interests mentioned above (Art. 6 Para. 1 lit.f GDPR).
+1.5. What rights do you have regarding your data? ⚖️
+You are the owner of your data; thus, you have the right at any time to request information free of charge about the origin, recipient, and purpose of your stored personal data. You also have a right to request the correction or deletion of this data. If you have given your consent to data processing, you can revoke this consent at any time in the future. In addition, you have the right to request the restriction of the processing of your personal data in certain circumstances. You also have the right to lodge a complaint with us or the competent supervisory authority. You can find a more detailed list of your rights in point 6 of this privacy policy.
+1.6. Third-party analysis tools
+🛠️
+When visiting this website and when using
+Bikemap.net
+or related apps, your surfing behaviour can be statistically evaluated. This is done primarily with so-called analysis programs. Detailed information about these analysis programs can be found in point 11 of this privacy policy.
+2. Registration Data
+When creating an account with Bikemap, you must provide the following necessary information:
+Email 📧
+Full name
+Password.
+Your registration data is required to set up and manage a user account for you so that you can use all the features of our service. In this case, you conclude a (free) usage contract with us on the basis of which we collect this data (Art. 6 Para. 1 b GDPR). In order to conclude the contract, you have to provide us with this data. However, you are neither contractually nor legally obliged to conclude the contract and thus provide the data. When you log in to Bikemap, we also save your IP address for a short period of time in order to be able to detect and prevent possible attacks and mass misuse of logins to Bikemap (e.g., so-called brute force attacks) by blocking these IP addresses temporarily if necessary.
+The processing takes place in order to ensure the security of the processing, according to Art. 32 GDPR and based on our legitimate interest in protecting us from misuse of our service (Art. 6 Para. 1 lit.f GDPR). Data is only stored for as long as it is necessary for these purposes.
+2.1. Registration with Google 📐
+Instead of registering directly on this website, you can register with Google. The provider of this service is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland. To register with Google, you only need to enter your Google name and password. Google will identify you and confirm your identity on our website.
+When you sign in with Google, we can use certain information from your account to complete your profile with us. You decide whether and which information this is within the scope of your Google security settings, which you can find here:
+https://myaccount.google.com/security
+and
+https://myaccount.google.com/permissions
+.
+The data processing associated with Google registration is based on our legitimate interest in providing our users with the simplest possible registration process (Art. 6 para. 1 lit. f GDPR).
+Since the use of the registration function is voluntary and the users themselves can decide on the respective access options, no conflicting overriding rights of the data subjects are apparent.
+2.2. Registration with Facebook Connect
+👤
+Instead of registering directly on this website, you can register with Facebook Connect. The provider of this service is Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland. However, according to Facebook, the collected data is also transferred to the USA and other third countries.
+If you decide to register with Facebook Connect and click on the "Login with Facebook"/"Connect with Facebook" button, you will automatically be redirected to the Facebook platform. There you can log in with your user data. This will link your Facebook profile to our services. Through this link, we gain access to your data stored on Facebook. These are mainly:
+Facebook name;
+Facebook profile picture and cover picture;
+Facebook stored email address;
+Facebook ID;
+Facebook friend list;
+Facebook likes;
+Birthday;
+Gender;
+Country; and,
+Language.
+This data is used to set up, provide and personalise your account.
+The registration with Facebook Connect and the associated data processing operations are based on your consent (Art. 6 para. 1 lit. a GDPR). You can revoke this consent at any time with effect in the future.
+Insofar as personal data is collected on our website with the help of the tool described here and forwarded to Facebook, we and Facebook Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland, are jointly responsible for this data processing (Art. 26 GDPR). The joint responsibility is limited exclusively to the collection of the data and its forwarding to Facebook. The processing by Facebook that takes place after the onward transfer is not part of the joint responsibility. The obligations incumbent on us jointly have been set out in a joint processing agreement. You can find the text of the agreement on
+Facebook
+. According to this agreement, we are responsible for providing private information when using the Facebook tool and for the privacy-secure implementation of the tool on our website. Facebook is responsible for the data security of Facebook products. You can assert data subject rights (e.g., requests for information) regarding the data processed by Facebook directly with Facebook. If you assert data subject rights with us, we are obliged to forward them to Facebook.
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. You can find details here:
+Facebook
+,
+What are Standard Contractual Clauses? | Facebook Help Center
+and
+Meta Privacy Policy - How Meta collects and uses user data
+For more information, see the Facebook Terms of Use and the Facebook Privacy Policy. You can find them at
+Meta Privacy Policy - How Meta collects and uses user data
+and
+Facebook
+.
+The data processing associated with Facebook registration is based on our legitimate interest in providing our users with the simplest possible registration process (Art. 6 para. 1 lit. f GDPR).
+2.3. Registration with Apple
+🍎
+The Sign in with Apple option allows you to sign in to Bikemap while maintaining your privacy. Apple knows that you have enabled the "Sign in with Apple" option for an app or website but does not track which apps or websites you sign in to or when. When you first sign in to an app using Sign in with Apple, Apple uses information about your account and your experience with Apple, along with information about your device and device usage patterns, to prevent fraud.
+When you sign in using the "Sign in with Apple" option, Apple provides us with a unique ID instead of your email address. Because we may have legitimate reasons to collect more information about you (such as to contact you via email), we may ask you for your name or email address when you use Sign in with Apple. By default, we use the name associated with your Apple ID. If you choose to hide your email address, Apple generates a unique email address for us to use to communicate with you. Apple forwards emails received from this address to an email address associated with your Apple ID. Apple then deletes these messages after they are sent or after a short period of time if they are undeliverable. In iOS or iPadOS, you can change the email address to which messages are forwarded or disable message forwarding.
+The first time you use Sign in with Apple for a new app, for fraud prevention and security reasons, Apple tells Bikemap a simple numeric code so it can trust that you are a real person. This code is derived from your current Apple account activity and combined with information extracted from your device and device usage patterns. Neither Apple nor the developer receives any specific information about how you use your device.
+Apple uses your information as required by law and for fraud prevention. By using "Sign in with Apple," you consent to Apple, its affiliates and agents transferring, collecting, managing, processing and using this information as described above.
+Information collected by Apple will be used in accordance with Apple's
+Privacy Policy
+.
+The data processing associated with the Apple registration is based on our legitimate interest in providing our users with the simplest possible registration process (Art. 6 para. 1 lit. f GDPR).
+3. Web Hosting 🕸️
+The provider is Amazon Web Services EMEA SARL, 38 Avenue John F Kennedy, 1855 Luxembourg (hereinafter: AWS). When you visit our website, your personal data is processed on the AWS servers. Personal data may also be transferred to the parent company of AWS in the USA. Data transmission to the USA is based on the EU standard contractual clauses. Details can be found here:
+https://aws.amazon.com/de/blogs/security/aws-gdpr-data-processing-addendum/
+. For more information, please refer to the AWS Privacy Policy:
+https://aws.amazon.com/de/privacy/?nc1=f_pr
+.
+The use of AWS is based on Article 6, paragraph 1 lit. f GDPR. We have a legitimate interest in the most reliable presentation of our website. If a corresponding consent has been requested, the processing takes place exclusively on the basis of Article 6 Paragraph 1 lit. a GDPR; the consent is revocable at any time.
+4. Retention period 🗓️
+If no special storage period has been specified within this privacy policy, your personal data will remain with us until the purpose for data processing no longer applies. If you make a subject request for deletion or revoke your consent to data processing, your data will be deleted unless we have other legally permissible reasons for storing your personal data (for example, retention periods under tax or commercial law); in the latter case, the deletion takes place after these reasons have ceased.
+5. International Data Transfers
+🌎
+We may use tools from companies based in the USA or other third countries that might not count with an EU adequacy decision. If these tools are active, your personal data might be transferred to these third countries and processed there. Although the level of data protection in these countries is not comparable to the EU, all companies that Bikemap contracts with are previously assessed through a Transfer Impact Assessment (TIA) to ensure that they implement good privacy practices. In countries such as the US, companies might be required to disclose personal data to governmental authorities without you, as a data subject, being able to take legal action against this. It can, therefore, not be excluded that US authorities (such as secret services) process, evaluate, and permanently store your data on US servers for monitoring purposes. We have no influence on these processing activities.
+However, we refer to these services below and implement the standard data protection clauses approved by the EU Commission in accordance with Art. 46 para 2 lit. c GDPR.
+6. Rights of Data Subjects
+6.1. Right to information
+As a Data Subject, you have the right to request information from us at any time about the personal data processed by us in the scope and under the conditions of Art. 15 GDPR and § 44 DSG. To do this, you can submit your request through your account, email at
+privacy@bikemap.net
+or
+support@bikemap.net
+, or postal service to the address specified in our
+Imprint
+.
+6.2. Revocation of consent to data processing
+Many data processing operations are only possible with your express consent. You can revoke your consent at any time. The legality of the data processing carried out before the revocation remains unaffected by the revocation.
+6.3. Right to rectification and erasure
+As a Data Subject, you have the right to request Bikemap for the immediate correction of your personal data if it is incorrect. You also have the right to request the erasure of your data in the scope and under the conditions of Art. 17 GDPR and § 45 DSG. For this, please get in touch with the contact addresses given above.
+6.4. Right to object (Article 21 GDPR)
+Suppose the data processing is based on Article 6 para 1 lit. e or f GDPR, you have the right at any time to object to the processing of your personal data for reasons arising from your particular situation; this also applies to profiling based on these provisions. The respective legal basis on which processing is based can be found in this privacy policy. If you object, we will no longer process your personal data unless we can demonstrate compelling, legitimate reasons for the processing that are your interests, Rights and freedoms predominate or the processing serves to assert, exercise or defend legal claims (objection pursuant to Article 21 paragraph 1 GDPR).
+If your personal data is processed for direct marketing purposes, you have the right to object at any time to the processing of personal data concerning you for the purpose of such advertising; this also applies to profiling, as far as it is connected with such direct advertising. If you object, your personal data will no longer be used for direct marketing purposes (objection pursuant to Article 21 paragraph 2 GDPR).
+6.5. Right to lodge complaints
+In the event of violations of the GDPR, data subjects have the right to lodge a complaint with a supervisory authority, in particular in the Member State of their habitual residence, place of work or place of the alleged infringement. The right of appeal is without prejudice to other administrative or judicial remedies.
+6.6. Right to data portability
+You have the right to have data that we process on the basis of your consent or in fulfilment of a contract automatically handed over to you or to a third party in a commonly used, machine-readable format. If you require the direct transfer of the data to another person responsible, this will only be done as far as it is technically feasible.
+6.7. Right to restriction of processing
+You have the right to request the restriction of the processing of your personal data by contacting us at any time. The right to restriction of processing exists in the following cases:
+If you contest the accuracy of your personal data stored by us, we usually need time to verify this. For the duration of the examination, you have the right to request the restriction of the processing of your personal data;
+If the processing of your personal data was/is unlawful, you could request the restriction of data processing instead of deletion;
+If we no longer need your personal data, but you need it to exercise, defend or assert legal claims, you have the right to request the restriction of the processing of your personal data instead of deletion, and
+If you have filed an objection under Article 21 Paragraph 1 GDPR, a balance must be made between you and our interests. As long as it still needs to be made clear whose interests prevail, you have the right to demand the restriction of the processing of your personal data.
+If you have restricted the processing of your personal data, this data - apart from its storage - may only be used with your consent or for asserting, the exercise or defence of legal claims or the protection of the rights of another natural or legal person or on the grounds of an important public interest of the European Union or of a Member State.
+7. SSL or TLS encryption
+🔐
+Bikemap uses for security reasons and to protect the transmission of confidential content, such as the creation of an account with an email address and password, which you send to us as the site operator, an SSL or. TLS encryption. An encrypted connection is recognised by the fact that the browser's address bar changes from http://" to https:/" and the lock icon in your browser bar. If SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.
+7.1. Encrypted payment transactions on our website
+After the conclusion of a fee-based contract, you are obliged to provide payment information (for example, the account number for direct debit authorisation), for the processing of the payment. In order to ensure all users' confidentiality and safety in their payments, we implement the use of payment providers such as described in point 14.3 of this privacy policy. At no time will we process payment information directly from you nor store it in our systems. This is always done via the below-mentioned payment providers.
+8. Data Collection on this Website
+8.1. Cookies
+🍪
+Cookies are small text files that do not cause any damage to your device. They are either temporarily stored on your device for the duration of a session (session cookies) or permanently stored(permanent cookies). Session cookies are automatically deleted at the end of your visit. Permanent cookies remain stored on your device until you delete them yourself or your web browser automatically deletes them.
+We use cookies on our website, among other things, to keep track of services you have used, record registration information, record your user preferences, keep you logged into the site, facilitate purchase procedures, and track the pages you visit. Bikemap has a legitimate interest in the storage of cookies for the technically error-free and optimised provision of its services. If consent to the storage of cookies has been requested, the storage of the cookies in question takes place exclusively on the basis of this consent (Article 6 paragraph 1 lit. a GDPR); the consent can be revoked at any time.
+In some cases, third-party cookies can also be stored on your device when you enter our website (third-party cookies). These enable you or us to use certain third-party services (such as payment cookies).
+You can set your browser so that you are informed about the setting of cookies and allow cookies only in individual cases, accept cookies for certain cases, or generally exclude them and activate the automatic deletion of cookies when closing the browser. If cookies are deactivated, the functionality of the website may be restricted.
+If cookies are used by third parties or for analysis purposes, we will inform you separately within the scope of this privacy policy and, if necessary, request consent.
+To learn about how cookies are used at Bikemap, please visit our
+Cookie Declaration
+.
+You can change your cookie settings at any time by accessing the "Privacy Controls" at the end of this page.
+8.2. Comments and contributions 💬
+When users contribute with community reports, leave comments or make other contributions, their IP addresses may be stored for up to seven (7) days on the basis of our legitimate interests as defined in Art. 6 (1) lit. f. GDPR. This is done for the security of Bikemap GmbH and our users in case someone leaves illegal content in comments and posts (insults, forbidden political propaganda, etc.), and further administrative or legal steps of Bikemap GmbH, against the user(s) or third parties, become necessary.
+I
+n addition, we reserve the right, on the basis of our legitimate interests pursuant to Art. 6 para. 1 lit. f. GDPR, to process the users' data for the purpose of spam detection.
+9. Server log files
+🗂️
+The provider of the pages automatically collects and stores information in so-called server log files, which your browser automatically transmits to us. These are:
+Browser type and version;
+Operating system;
+Referrer URL;
+Hostname of the accessing computer;
+Time of the server request; and,
+IP address.
+This data is not combined with other data sources.
+This data is collected on the basis of Article 6 paragraph 1 lit. f GDPR. Bikemap has a legitimate interest in the technically error-free presentation and optimisation of its website. For this purpose, the server log files must be recorded.
+10. Inquiries❓
+When contacting us with inquiries, your request, including anything related to personal data (name, request type, etc.), will be stored and processed by us for the purpose of processing your request. We do not pass on this data without your consent.
+These data are processed on the basis of Article 6 Paragraph 1 lit. b GDPR, if your request is related to the performance of a contract or is necessary for the implementation of pre-contractual measures. In all other cases, the processing is based on our legitimate interest in the effective processing of inquiries addressed to us (Article 6 paragraph 1 lit. f GDPR) or on your consent (Article 6 paragraph 1 lit. a GDPR) if this has been requested.
+The data sent by you to us via contact requests will remain with us until you request deletion, revoke your consent to storage or the purpose for data storage no longer applies (for example, after the complete processing of your request). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
+11. Analysis tools and advertisements
+11.1. Google Analytics Stack
+This website uses functions of the web analytics service Google Analytics. The provider is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
+Google Analytics enables the website operator to analyse the behaviour of website visitors. In doing so, the website operator receives various usage data, such as page views, duration of visit, operating systems used and origin of the user. This data may be summarised by Google in a profile that is assigned to the respective user or their end device.
+Furthermore, Google Analytics can record your mouse and scroll movements and clicks, among other things. Furthermore, Google Analytics uses various modelling approaches to complement the collected data sets and uses machine learning technologies in data analysis.
+Google Analytics uses technologies that enable the recognition of the user for the purpose of analysing user behaviour (e.g., cookies or device fingerprinting). Some of the technologies that Bikemap implements are Firebase, BigQuery and Google Tag. The information collected by Google about the use of this website is usually transferred to a Google server in the USA and stored there.
+For a compliant use of Google Analytics, Bikemap applies the recommendations provided by the European Data Protection Board (EDPB). We also implement the Standard Contractual Clauses as required by the GDPR.
+The use of this analysis tool is based on Art. 6 para. 1 lit. f GDPR. Bikemap has a legitimate interest in analysing user behaviour in order to optimise both our website and our advertising. If a corresponding consent has been requested (e.g., consent to the storage of cookies), the processing is carried out exclusively on the basis of Art. 6 para. 1 lit. a GDPR; the consent can be revoked at any time.
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. You can find details here:
+https://privacy.google.com/businesses/controllerterms/mccs/
+11.2. Google Ads
+Bikemap uses Google Ads to draw website visitors' attention to our Bikemap App. Google Ads is an online advertising program of Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
+Google Ads enables us to display advertisements in the Google search engine or on third-party websites when the user enters certain search terms on Google (keyword targeting). Furthermore, targeted advertisements can be played on the basis of user data available at Google (e.g. location data and interests) (target group targeting). As the website operator, we can evaluate this data quantitatively by analysing, for example, which search terms led to the display of our advertisements and how many ads resulted in corresponding clicks.
+T
+he use of Google Ads is based on Art. 6 para. 1 lit. f GDPR. Bikemap has a legitimate interest in marketing our services and products as effectively as possible
+.
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. You can find details here:
+Data transfer frameworks – Privacy & Terms – Google
+and
+https://privacy.google.com/businesses/controllerterms/mccs/
+11.3. Google Conversion Tracking
+Bikemap uses Google Conversion Tracking. The provider is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
+With the help of Google conversion tracking, Google and we can recognise whether the user has performed certain actions. For example, we can evaluate which buttons on our website were clicked how often and which products were viewed or purchased particularly frequently. This information is used to create conversion statistics. We learn the total number of users who clicked on our ads and what actions they took. We do not receive any information with which we can personally identify the user. Google itself uses cookies or comparable recognition technologies for identification.
+The use of Google conversion tracking is based on Art. 6 (1) lit. f GDPR. Bikemap has a legitimate interest in analysing user behaviour in order to optimise both our website and our advertising. If a corresponding consent has been requested (e.g. consent to store cookies), the processing is based exclusively on Art. 6 (1) lit. a GDPR; the consent can be revoked at any time.
+You can find more information about Google conversion tracking in Google's privacy policy:
+Privacy Policy – Privacy & Terms – Google
+11.4. Browser Plugin
+You can prevent the collection and processing of your data by Google by downloading and installing the browser plugin available at the following link:
+Google Analytics Opt-out Browser Add-on Download Page
+You can find more information about the handling of user data at Google Analytics in the Privacy
+statement from Google:
+Safeguarding your data - Analytics Help
+Data stored by Google at user and event level that is linked to cookies, user identifiers (e.g. User ID) or advertising IDs (e.g. DoubleClick cookies, Android advertising ID) is anonymised or deleted after two (2) months. Details on this can be found under the following link:
+Data retention - Analytics Help
+11.5. App Store Connect
+Bikemap uses App store Connect's services to work with the Apple app store. The provider is Apple Inc. With the help of App Store Connect, we can keep monitoring our App's sales and downloads, reply to App Store Review, get notified of new reviews, respond to reviews, etc.
+The use of App Store Connect is based on Art. 6 (1) lit. f GDPR. Bikemap has a legitimate interest in keeping track of app store activity and behaviour in order to optimise both our App and our advertising. If a corresponding consent has been requested (e.g. consent to store cookies), the processing is based exclusively on Art. 6 (1) lit. a GDPR; the consent can be revoked at any time.
+Information collected by Apple will be used in accordance with Apple's Privacy Policy
+Apple Legal - Legal - Apple Privacy Policy - Apple
+12. Newsletter and email communication
+🗞️
+12.1. Newsletter data
+If you would like to receive the newsletter offered on
+Bikemap.net
+, we require an email address from you as well as information that allows us to verify that you are the owner of the specified email address and agree to receive the newsletter. Further data will not be collected or only on a voluntary basis. For the handling of the newsletter, we use newsletter service providers, which are described below.
+12.1.1. MailChimp 🐒
+Bikemap uses the services of MailChimp for sending system-generated emails and newsletters. The provider is Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA.
+MailChimp is a service with which, among other things, the sending of emails and newsletters can be organised and analysed. If you create an account with Bikemap or enter data for the purpose of receiving newsletters (e.g. email address), this data will be stored on MailChimp's servers in the USA.
+With the help of MailChimp, we can analyse our newsletter campaigns. When you open an email sent with MailChimp, a file contained in the email (so-called web beacon) connects to the servers of MailChimp in the USA. This makes it possible to determine whether a newsletter message has been opened and which links, if any, have been clicked. In addition, technical information is recorded (e.g. time of retrieval, IP address, browser type and operating system). This information cannot be assigned to the respective newsletter recipient.
+They are used exclusively for the statistical analysis of newsletter campaigns. The results of these analyses can be used better to adapt future newsletters to the interests of the recipients.
+If you do not want any analysis by MailChimp, you must unsubscribe from the newsletter. For this purpose, we provide a corresponding link in every newsletter message.
+The data processing is based on your consent (Art. 6 para. 1 lit. a GDPR). You can revoke this consent at any time by unsubscribing from the newsletter. The legality of the data processing operations already carried out remains unaffected by the revocation. The data you provide for the purpose of receiving the newsletter will be stored by the newsletter service provider or us until you unsubscribe from the newsletter and will be deleted from the newsletter distribution list after you unsubscribe from the newsletter. Data that has been stored by us for other purposes remains unaffected by this.
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here:
+Mailchimp's Approach to International Data Transfers after Privacy Shield | Mailchimp
+and
+Mailchimp Data Processing Addendum Preview | Mailchimp
+After you have unsubscribed from the newsletter distribution list, your email address will be stored by us or the newsletter service provider in a blacklist, if necessary, to prevent future mailings. The data from the blacklist will only be used for this purpose and will not be merged with other data.
+This serves both your interest and our interest in complying with the legal requirements for sending newsletters (legitimate interest within the meaning of Art. 6 (1), lit. f GDPR). The storage in the blacklist is not limited in time. You can object to the storage if your interests outweigh our legitimate interests.
+You can find more details in the privacy policy of MailChimp at
+Mailchimp's Standard Terms of Use | Mailchimp
+13. Plugins and tools 🛠️
+13.1. Google maps
+🗺️
+This site uses the map service Google Maps. The provider is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
+To use the functions of Google Maps, your IP address must be stored. This information is usually transferred to a Google server in the USA and stored there. The provider of this site has no influence on this data transmission. If Google Maps is activated, Google may use Google Web Fonts for the purpose of the uniform display of fonts. When calling up Google Maps, your browser loads the required web fonts into its browser cache in order to display texts and fonts correctly.
+The use of Google Maps is in the interest of an appealing presentation of our online offers and an easy location of the places indicated by us on the website. This represents a legitimate interest within the meaning of Art. 6 para. 1 lit. f GDPR. If a corresponding consent has been requested, the processing is based exclusively on Art. 6 para. 1 lit. a GDPR; the consent can be revoked at any time.
+13.2. Google Drive
+📐
+We have integrated Google Drive into this website. The provider is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
+Google Drive allows us to include an upload area on our website where you can upload content. When you upload content, it is stored on Google Drive's servers. When you enter our website, a connection to Google Drive is also established so that Google Drive can determine that you have visited our website.
+The use of Google Drive is based on Art. 6 (1) lit. f GDPR. The website operator has a legitimate interest in a reliable upload area on its website. If a corresponding consent was requested, the processing is based exclusively on Art. 6 para. 1 lit. a GDPR; the consent can be revoked at any time.
+13.3. New Relic
+We use NewRelic, a service provided by NewRelic, Inc. 188 Spear Street, Suite 1200, San Francisco, CA 94105 ("NewRelic"), which we use as a processor. This allows us to monitor the proper operation of our website, detect errors and correct them in a timely manner. NewRelic collects your IP address and determines the approximate geographic region in which you are located so that we can detect when our website is not functioning properly in certain regions (e.g., due to network problems). After the region has been assigned, your IP address is deleted by NewRelic.
+No other personal data is processed. This processing is necessary to ensure the smooth operation of our contractual services (Art. 6 para. 1 lit. b GDPR) and to safeguard our legitimate interest in the proper and secure operation of our website (Art. 6 para. 1 lit. f GDPR).
+The processing is carried out by NewRelic in the USA. There is no adequacy decision of the EU Commission for the USA. Therefore, we have concluded the standard data protection clauses approved by the EU Commission pursuant to Art. 46 (2) lit. c GDPR with NewRelic.
+13.4. Typeform
+We use Typeform for occasional user surveys. The provider is TYPEFORM S.L., Carrer Bac de Roda, 163, 08018 Barcelona, Spain (hereinafter Typeform).
+Typeform allows us to create online forms and embed them on our website or send them as surveys. The data you enter in our Typeform forms are stored on Typeform's servers until you request us to delete it, revoke any consent you have given to store it, or the purpose for storing the data no longer applies (e.g. after we have finished processing your request). Mandatory legal provisions - in particular retention periods - remain unaffected.
+The use of Typeform is based on Art. 6 para. 1 lit. f GDPR. Bikemap has a legitimate interest in a functioning user survey. If a corresponding consent was requested, the processing is based exclusively on Art. 6 para. 1 lit. a GDPR; the consent can be revoked at any time.
+13.5. Maptoolkit
+We integrate the map tools of the service "Maptoolkit" of Toursprung GmbH, Mariahilferstraße 93, 1070 Vienna, Austria (
+Maptoolkit - Geo APIs for developers
+). The data of the users are used by Maptoolkit exclusively for the purpose of displaying the map functions and temporary storage of the selected settings. This data may include, in particular, IP addresses and location data of users, which, however, will not be collected without their consent (usually executed within the settings of their mobile devices). The data may be processed in the USA. For more information, please refer to Maptoolkit's privacy policy:
+https://www.toursprung.com/privacy
+.
+The use of Maptoolkit is based on Art. 6 para. 1 lit. b GDPR, this ensures the operation of our contractual services.
+13.6. Maptier
+We integrate the mapping tools of the "Maptier" service of Maptier AG, Höfnerstrasse 98, Unterägeri, Zug 6314, Switzerland (
+Maps for developers | MapTiler
+). User data is used by Maptier exclusively for the purpose of displaying map functions and temporary storage of selected settings. This data may include, in particular, IP addresses and location data of users, which, however, will not be collected without their consent (usually executed within the settings of their mobile devices). For more information, please refer to Maptier's privacy policy:
+Privacy policy | MapTiler
+The use of Maptier is based on Art. 6 para. 1 lit. b GDPR, this ensures the operation of our contractual services.
+13.7. Canny
+To receive and analyse user feedback, we integrate "Canny" tools from Canny Inc., 831 N Tatnall St Suite M #140 Wilmington, DE 19801, USA. (
+Canny: Customer Feedback Management Tool
+) User data is used by Canny exclusively for the purpose of optimising the quality of service we provide to our users. This data may include, in particular, personal information such as names and email addresses, potential users and other users and visitors of its websites, applications, and other properties. The data may be processed in the United States. For more information, please see Canny's privacy policy:
+https://canny.io/privacy
+The use of Canny is based on Art. 6 para. 1 lit. f GDPR. Bikemap has a legitimate interest in optimising the quality of its services. If a corresponding consent was requested, the processing is based exclusively on Art. 6 para. 1 lit. a GDPR; the consent can be revoked at any time
+13.8. Google reCAPTCHA
+We use "Google reCAPTCHA" (hereinafter "reCAPTCHA") on this website. The provider is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
+The purpose of reCAPTCHA is to check whether the data input on this website (e.g. in a contact form) is made by a human or by an automated program. For this purpose, reCAPTCHA analyses the behaviour of the website visitor based on various characteristics. This analysis begins automatically as soon as the website visitor enters the website. For the analysis, reCAPTCHA evaluates various information (e.g., IP address, time spent by the website visitor on the website or mouse movements made by the user). The data collected during the analysis is forwarded to Google.
+The reCAPTCHA analyses run completely in the background. Website visitors are not notified that an analysis is taking place.
+The storage and analysis of the data are based on Art. 6 para. 1 lit. f GDPR. The website operator has a legitimate interest in protecting its web offers from abusive automated spying and from spam. If a corresponding consent was requested, the processing is based exclusively on Art. 6 para. 1 lit. a GDPR; the consent can be revoked at any time.
+13.9. Zendesk
+We use the CRM system Zendesk to process user requests. The provider is Zendesk, Inc., 1019 Market Street in San Francisco, CA 94103 USA.
+We use Zendesk to be able to process your requests quickly and efficiently. This constitutes a legitimate interest within the meaning of Art. 6 para. 1 lit. f GDPR.
+The messages sent to us remain with us until you request us to delete them or the purpose for storing the data no longer applies (e.g. after processing your request has been completed). Mandatory legal provisions - in particular retention periods - remain unaffected.
+Zendesk has Binding Corporate Rules (BCR) that have been approved by the Irish Data Protection Authority. These are binding corporate rules that legitimise corporate data transfers to third countries outside the EU and EEA. Details can be found here:
+Binding Corporate Rules (BCR)
+If you are not comfortable with us processing your request through Zendesk, you may alternatively communicate with us by email, phone, or fax.
+For more information, see Zendesk's privacy policy:
+Privacy Policy - Zendesk
+14. eCommerce and payment providers
+💸
+14.1. Processing of data (customer and contract data)
+We collect, process and use personal data only to the extent that they are necessary for the establishment, content or modification of the legal relationship (inventory data).
+This is done on the basis of Art. 6 para. 1 lit. b GDPR,
+which permits the processing of data for the fulfilment of a contract or pre-contractual measures. We collect, process and use personal data about the use of this website (usage data) only to the extent necessary to enable the user to use the service or to bill the user.
+The collected customer data will be deleted after the completion of the order or termination of the business relationship. Statutory retention periods remain unaffected.
+14.2. Data transfer upon conclusion of a contract for services and digital content
+We transmit personal data to third parties only if this is necessary for the processing of the contract, for example, to the credit institution entrusted with the processing of payments.
+A further transmission of the data does not take place or only if you have expressly consented to the transmission. Your data will not be passed on to third parties without your express consent, for example, for advertising purposes.
+The basis for data processing is Art. 6 para. 1 lit. b GDPR, which permits the processing of data for the fulfilment of a contract or pre-contractual measures.
+14.3. Payment services
+We integrate payment services from third-party companies on our website. When you make a purchase from us, your payment data (e.g., name, payment amount, account details, credit card number) is processed by the payment service provider for the purpose of processing the payment. For these transactions, the respective contract and data protection provisions of the respective providers apply. The payment service providers are used on the basis of
+Art. 6 para. 1 lit. b GDPR (contract processing) and in the interest of a smooth, convenient and secure payment process (Art. 6 para. 1 lit. f GDPR). Insofar as your consent is requested for certain actions, Art. 6 para. 1 lit. a GDPR is a legal basis for data processing; consents can be revoked at any time in the future.
+We use the following payment services/payment service providers within the scope of this website:
+14.3.1. Paypal
+The provider of this payment service is PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (hereinafter "PayPal").
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here:
+https://www.paypal.com/at/webapps/mpp/ua/pocpsa-full?locale.x=en_AT
+For details, please refer to PayPal's privacy policy:
+https://www.paypal.com/at/webapps/mpp/ua/privacy-full?locale.x=en_AT
+14.3.2. Stripe
+The provider for customers within the EU is Stripe Payments Europe, Ltd.,1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland (hereinafter "Stripe").
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here:
+Privacy Policy - Stripe
+and
+https://stripe.com/en-nl/guides/general-data-protection-regulation
+15. Bikemap Social Media
+🤳
+Bikemap uses pages or profiles on different social media platforms to promote its content, new features, and interact with its users. In this context, the processing of personal data described below takes place.
+If you interact with us via our social media pages or our posts, we could collect and process the data you have provided, including your username and your profile photo (if applicable). The relevant processing takes place regularly on the basis of our legitimate interest in making the corresponding functions available on our social media pages
+(Art. 6 Para. 1 lit. f GDPR) and, if necessary, on the basis of your consent to the operator of the respective network (Art . 6 (1) (a) GDPR) or your contractual relationship with the operator (Art. 6 (1) (b) GDPR).
+Please also note that this content will be published on our relevant social media pages according to your account settings and may be accessible by anyone worldwide.
+Further data processing by us can be carried out in order to be able to receive and process inquiries or messages via our social media pages (Art. 6 Para. 1 lit. b GDPR).
+Uploaded content can be stored for an unlimited period of time. If you would like us to remove content you have uploaded to our social media site, please send us an email with your request to the contact details given under point 6.1 of this privacy policy.
+In addition, the respective operators collect and process personal data from you under their own data protection responsibility when you visit our social media pages and/or interact with them or our contributions. This applies in particular if you are registered or logged in to the relevant social media network. Even if you are not logged into a social media network, the operators collect certain personal data when you visit the site, such as unique identifiers that are linked to your browser or your device. Please note that this data may be merged across different platforms and services if they are operated by the same operator. Further information can be found in the data protection notices of the respective operators, to which we refer below.
+Specifically, we operate the following social media presences:
+15.1. Facebook App Page
+👥
+You can also find us on Facebook at
+Bikemap
+.
+For users outside of the USA and Canada, Facebook is operated by Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland. For users in the USA and Canada, Meta Platforms Inc., 1601 Willow Road Menlo Park, CA 9402, USA, operates Facebook.
+Even if you are not registered with Facebook and visit our Facebook fan page, Meta Platforms can collect pseudonymous usage data from you. You can find more information in the Meta Platforms data policy at
+Meta Privacy Policy - How Meta collects and uses user data
+and at
+Facebook
+. In the data policy, you will also find information about the setting options for your Facebook account.
+Meta Platforms may share your data within the Meta group of companies and with other third parties. This can lead to a transfer of personal data to the USA and other third countries for which there is no adequacy decision by the EU Commission. In this case, Facebook Ireland will use the standard contractual clauses approved by the EU Commission in accordance with Article 46(2)(c) GDPR. You can also refer to the Meta Platforms Data Policy for more information.
+In addition, together with Meta Platforms Ireland Limited, we are responsible for the processing of so-called insights data when you visit our Facebook fan page. With the help of this insight data, Meta Platforms Ireland Limited analyses the behaviour on our Facebook fan page and makes this data available to us in an anonymous form. To this end, we have entered into a joint data controllership agreement with Meta Platforms Ireland Limited, which you can view
+here
+. Among other things, Meta Platforms Ireland Limited undertakes the primary responsibility under the GDPR for the processing of Insights data and to fulfil all obligations according to all GDPR regulations regarding the processing of Insights data. The processing serves our legitimate economic interests in the optimisation and needs-based design of our Facebook fan page, Art. 6 Para. 1 lit f. GDPR. Additionally, we also draw your attention to the following:
+If you visit or like our Facebook page as a registered Facebook user, Meta Platforms Ireland Limited collects personal data from you. If you are not registered with Facebook and visit the Facebook page, Meta Platforms can collect pseudonymous usage data from you.
+In detail, the following information is collected by Meta Platforms:
+Going to a page, post or video from a page
+Subscribing or unsubscribing to/from a page
+Liking or unliking a page or post
+Recommending a page in a post or comment
+Commenting, sharing, or reacting to a page post (including how you react)
+Hiding a page post or reporting it as spam
+Clicking a link that leads to the page from another page on Facebook or from a website outside of Facebook
+Hovering over a page's name or profile picture to see a preview of the page's contents
+Clicking the website, phone number, "Get Directions" button, or any other button on a page
+Information about whether you are logged in from a computer or mobile device while visiting or interacting with a site or its content.
+You can find more information in Meta's privacy policy. This includes further information on how Meta Platforms uses your data when you like our Facebook page. Meta's privacy policy:
+Facebook
+15.2. Instagram Bikemap Account
+📸
+You can also find us on Instagram at
+https://www.instagram.com/bikemap/?hl=en
+For users outside of the USA and Canada, Instagram is operated by Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland. For users in the USA and Canada, Meta Platforms Inc., 1601 Willow Road Menlo Park, CA 9402, USA, operates Facebook.
+Even if you are not registered with Instagram and visit our Instagram fan page, Meta Platforms can collect pseudonymous usage data from you. You can find more information in the Meta Platforms data policy at
+Meta Privacy Policy - How Meta collects and uses user data
+. In the data policy, you will also find information about the setting options for your Instagram account.
+Meta Platforms may share your data within the Meta group of companies and with other third parties. This can lead to a transfer of personal data to the USA and other third countries for which there is no adequacy decision by the EU Commission. In this case, Facebook Ireland will use the standard contractual clauses approved by the EU Commission in accordance with Article 46(2)(c) GDPR. You can also refer to the Meta Platforms Data Policy for more information.
+Additionally, If you visit or like our Instagram account as a registered Instagram user, Meta Platforms Ireland Limited collects personal data from you. If you are not registered with Instagram and visit the Instagram page, Meta Platforms can collect pseudonymous usage data from you.
+In detail, the following information is collected by Meta Platforms:
+Going to a profile, post or upload from an account
+Following or unfollowing an account
+Liking or unliking a page or post
+Tagging an account in a post or comment
+Commenting, sharing, or reacting to a post
+Hiding a page post or reporting it as spam
+Clicking a link that leads to a website outside of Facebook
+Clicking the website, phone number, "Get Directions" button, or any other button on a page
+Information about whether you are logged in from a computer or mobile device while visiting or interacting with a site or its content.
+You can find more information in Meta's privacy policy. This includes further information on how Meta Platforms uses your data when you like our Instagram account. Meta's privacy policy:
+Meta Privacy Policy - How Meta collects and uses user data
+.
+15.3. LinkedIn Account
+🔗
+You can also find us on LinkedIn at
+https://www.linkedin.com/company/bikemap/
+If you are outside of the US and Canada, LinkedIn Ireland Unlimited Company ("LinkedIn Ireland") will be the controller of your personal data provided to, collected by or for, or processed in connection with their Services. If you are based in the US or Canada, LinkedIn Corporation will be the controller of your personal data provided to, or collected by or for, or processed in connection with their Services.
+Even if you are not registered with LinkedIn and visit our business page, LinkedIn can collect pseudonymous usage data from you. You can find more information in the LinkedIn data policy at
+https://www.linkedin.com/legal/privacy-policy
+. In the data policy, you will also find information about the setting options for your LinkedIn account.
+Additionally, If you visit or follow our LinkedIn business page account as a registered LinkedIn user, LinkedIn Ireland collects personal data from you. If you are not registered with LinkedIn and visit the business page, LinkedIn Ireland can collect pseudonymous usage data from you. To control privacy settings as a guest on LinkedIn, you can access the following link:
+https://www.linkedin.com/psettings/guest-controls
+16. Job Openings and Applicants Pool
+16.1. Handling of applicant data
+We offer you the opportunity to apply to us either by mail at
+join@bikemap.net
+or through the application form available on our webpage. In the following, we inform you about the scope, purpose and use of your personal data collected as part of the application process. We assure you that the collection, processing and use of your data will be carried out in accordance with applicable data protection law and all other statutory provisions and that your data will be treated in strict confidence.
+16.1.1. Personio
+🫂
+The application form provided on our webpage is powered by Personio.
+Bikemap uses Personio's services to maintain and improve its human resource management. The provider is Personio SE & Co. KG., Seidlstraße 3 80335 Munich, Germany. With the help of Personio, we can efficiently receive applications, track on and off-boarding processes and manage and generally have an overall good human resource management process in the company. The use of Personio is based on Art. 6 (1) lit. f GDPR. When applying with us, you acknowledge that Bikemap has a legitimate interest in processing your information for the position you applied for with us or in keeping you in our applicants' pool for other positions that might be a better fit for you. The consent can be revoked at any time.
+You can find more information about the handling of user data at Personio in their privacy policy
+Privacy Policy | Personio
+16.1.2. LinkedIn
+It is also possible for you to apply to open positions through our LinkedIn business page, which you can find at
+https://www.linkedin.com/company/bikemap/
+.
+If you are outside of the US and Canada, LinkedIn Ireland Unlimited Company ("LinkedIn Ireland") will be the controller of your personal data provided to, or collected by or for, or processed in connection with their Services. If you are based in the US or Canada, LinkedIn Corporation will be the controller of your personal data provided to, or collected by or for, or processed in connection with their Services.
+Even if you are not registered with LinkedIn and visit our business page, LinkedIn can collect pseudonymous usage data from you. You can find more information in the LinkedIn data policy at
+https://www.linkedin.com/legal/privacy-policy
+. In the data policy, you will also find information about the setting options for your LinkedIn account.
+Additionally, If you visit or follow our LinkedIn business page account as a registered LinkedIn user, LinkedIn Ireland collects personal data from you. Any data that you include on your profile and any content you post or social action (e.g., likes, follows, comments, shares) you take on our Services will be seen by others, consistent with your settings. If you are not registered with LinkedIn and visit the business page, LinkedIn Ireland can collect pseudonymous usage data from you. To control privacy settings as a guest on LinkedIn, you can access the following link:
+https://www.linkedin.com/psettings/guest-controls
+16.2. Scope and purpose of data collection
+If you send us an application, we will process your associated personal data (e.g., contact and communication data, application documents, notes taken during interviews, etc.) insofar as this is necessary to decide on the establishment of an employment relationship. The legal basis for this is Article 88 GDPR (initiation of an employment relationship), Article 6 (1) (b) GDPR (general contract initiation) and - if you have given your consent - Article 6 (1) (a) GDPR. The consent can be revoked at any time. Your personal data will only be passed on within our company to persons who are involved in processing your application.
+If the application is successful, the data submitted by you will be stored in our data processing systems on
+the basis of Article 88 GDPR and Art. 6 (1) lit. b GDPR for the purpose of implementing the employment relationship.
+16.3. Retention period
+f we are unable to make you a job offer, if you reject a job offer or withdraw your application, we reserve the right to retain the data you have provided on the basis of our legitimate interests (Art. 6 Para. 1 lit. f GDPR) for up to six (6) months from the end of the application process (rejection or withdrawal of the application). The data will then be deleted and the physical application documents destroyed. This storage serves in particular as evidence in the event of a legal dispute. If it is apparent that the data will be required after the 6-month period has expired (e.g. due to an impending or pending legal dispute), it will not be deleted until the purpose for continued storage no longer applies.
+Longer storage can also take place if you have given corresponding consent (Art. 6 para. 1 lit. a GDPR) or if legal storage obligations oppose the deletion.
+16.4. Inclusion in the applicants' pool
+If we do not make you a job offer, we may include you in our applicant pool. In the event of inclusion, all documents and details from the application will be transferred to the applicant pool in order to contact you in the event of suitable vacancies.
+Inclusion in the applicant pool takes place exclusively on the basis of your express consent (Art. 6 para. 1 lit. a GDPR). The provision of consent is voluntary and is not related to the current application process. The data subject may revoke their consent at any time. In this case, the data from the applicant pool will be irrevocably deleted, unless there are legal reasons for retention. The data from the applicant pool will be irrevocably deleted no later than two years after consent has been given.
+Last update: 31st March, 2023.
+Privacy Policy
+English
+Meters / km
+Discover
+Cycling routes
+Route Planner
+Bikemap Premium
+Premium as a gift
+Invite Friends
+Community Reports
+Bikemap Apps
+Apple Watch
+Bikemap
+About Bikemap
+What's New
+Jobs
+Help Center
+Terms of Service
+Privacy Policy
+Cookie Declaration
+Privacy Controls
+Imprint
+Made in Austria with 💙.
+BLOG

@@ -1,0 +1,92 @@
+Privacy Policy - Nutnut
+Home
+Support
+Privacy Policy
+Effective Date: May 12, 2022
+Version: 6
+What does this privacy policy update change: the list of third-party has been updated.
+By installing, using or accessing the service, including any nutnut website or game, software or app, you agree to this privacy policy. If you disagree with this privacy, please do not install or use the service.
+What this policy covers
+This policy covers how nutnut treats personal and anonymous information that we collect and receive. Personal information is information about you that is personally identifiable like your name or email address and that is not otherwise publicly available.
+This Privacy Policy applies to all of the products, software, services and websites offered by nutnut.
+In this Privacy Policy, references to “we”, “our” and “us” refer to nutnut while “you” and “your” refer to nutnut customer or user. In this Privacy Policy, “application”, refers to software developed by nutnut for iOS, Android, PC and other platforms and “device” refers to your smartphone or tablet.
+Nutnut is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer.
+What do we collect
+We automatically collect general information such as your in-game activity, your device ID, MAC address, advertising identifier, OpenUDID, Facebook ID, IMEI number, hardware type, the version of your operating system (“OS”), and your location (based on your Internet Protocol (“IP”) address). This information helps us define trends toward the use of our service. It can be also used to help you for customer service purposes and to troubleshoot issues.
+The data we collect this way is anonymous, it does not include personal or any other information kept on your device or computer that is not related to our services.
+We may also acquire other information from you through email exchange for customer service purposes or through our Social network page.
+How we use the information we collect
+Nutnut uses the information for the following purpose: improving the quality of our services, customer service, marketing, and research. We do not use your data for any other purpose than helping us build better applications, websites and customer services.
+The data we process using third party tool is anonymized under the form of aggregated information. It does not allow us to track or identify you personally.
+How do we collect information
+To improve our service within our application, we use different third-party tools that collect data. Those third-party are used for the following reasons: collect analytical information about user experience, send notifications, send custom advertisement and manage payment transactions.
+Those third-party include Google Play Services, App Store Services, Firebase Analytics, Firebase Authentication, Firebase Storage, Firebase Firestore, OneSignal, Facebook Connect, Adjust and third-party listed below in the Advertisement section.
+The third parties may have access to your personal information in connection with our service. These third-party tools are sharing some data with us. In most cases, it is under the form of aggregated information that does not allow us to identify you personally.
+This list of third-party privacy policies is at the end of this document.
+We may also acquire other information from you through email exchange for customer service purposes or through our Social network page.
+How to withdraw consent
+For our apps, you may withdraw consent from the app settings menu in the category related to data privacy. You may also withdraw consent by enabling the “Limit Ad Tracking” setting on iOS devices or “Opt-out of Ads Personalisation” setting on Android devices.
+Facebook Connect
+If you sign into the Service with Facebook Connect into some of our services, we will only collect a Facebook ID. This allows us to help you with the support if you have an issue and contact us. Facebook Connect will also give us under an aggregate form personal information from our users. Those information does not allow us to identify you. They help up collect analytical data about our users.
+We will never collect information about what you like, share and post on Facebook. We will only have access to information in an anonymized form.
+Advertisement
+We use AdMob, Google Ad Manager, Unity Ads, IronSource, AppLovin, Chartboost, Fyber, InMobi, Ogury, Smaato, Vungle, Yahoo, Tapjoy and Facebook Audience Network for advertisement. They might target their advertisement according to data they previously collected from you. It may also collect and use information about you, including platform, application and OS version, device identifiers, advertising identifiers, etc. They are also likely to collect information related to the performance of their service: how many times an advertisement is shown, how many advertisements have been seen etc.
+Cookies
+Nutnut may require to use cookies on its website. Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you. Cookies can be “persistent” or “session” cookies.
+When you use and access the Service, we may place several cookies files in your web browser. We use cookies for the following purposes: to enable certain functions of the Service, to provide analytics, to store your preferences, to enable advertisement delivery, including behavioral advertising.
+We use both session and persistent cookies on the Service and we use different types of cookies to run the Service. In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.
+If you’d like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser. Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+Information sharing and confidentiality
+We limit access to personal information we collect about you to employees and contractors who we believe need to use this information to contact you or do their jobs [With a usage restricted to what this privacy is defining].
+Except for third-party tools, we might provide the information to trusted partners who work on behalf of nutnut. These companies or persons may use your personal information to help us communicate with you about offers. However, these companies or persons do not have any independent right to share this information, nor are they permitted to keep or store that information.
+We will never sell or give away your personal information. They might be only used for the purposes previously stated.
+How long do we retain your personal data
+We retain personal data as long as you have an open account with us or as otherwise necessary to provide the Services to you and improve the Services for all users generally. We might still hold data afterward in a depersonalized form that will in no way allow us to identify you personally.
+Note that we will erase emails we received to our support
+every two years.
+We might retain personal data longer in some cases if we have to, to comply with legal obligation: for example in the case of a court conflict.
+How can you control your personal information you share using our service?
+When accessing our service, we automatically inform you about the information we collect and with whom we share them. We offer you the possibility to tailor the data you agree to share.
+If you want to know the information we collected about you, or if you want us to delete any personal information we collected about you, please send an email to
+contact@nutnut-games.com
+with the main object “Personal Data”, detailing your request.
+We will do our best to remove every personal information in our hands. Note that some information might remain under the form of aggregated data, which won’t allow us to identify you personally. Also, we won’t be responsible for the information shared with a third party service.
+About data security
+We are working with tools offering standard data protection and encryption. We are committed to never store unnecessary information about you on our server and on the tool we use. As we store very little personal information about our users, the risk of personal information leak on our side is highly narrowed.
+However, we cannot guarantee you we will never face an unauthorized entry into our database, software or hardware that may compromise your data.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at
+contact@nutnut-games.com
+We may update this privacy policy. It will be noticed at the beginning of this privacy policy by an update of its date. When you are using our services you are responsible to ensure you agree with any updates of this privacy policy.
+Links of third-party privacy policies:
+Firebase: https://firebase.google.com/support/privacy
+OneSignal: https://onesignal.com/privacy_policy
+Apple: https://www.apple.com/legal/privacy/en-ww/
+Adjust: https://www.adjust.com/terms/privacy-policy/
+Unity: https://unity3d.com/legal/privacy-policy
+Google: https://policies.google.com/privacy
+Facebook/Meta: https://www.facebook.com/privacy/explanation
+IronSource: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+AppLovin: https://www.applovin.com/privacy/
+Tapjoy: https://www.tapjoy.com/legal/players/privacy-policy/
+Chartboost: https://answers.chartboost.com/en-us/articles/200780269
+Fyber: https://www.fyber.com/services-privacy-statement/
+Ogury: https://ogury.com/privacy-policy/
+InMobi: https://www.inmobi.com/privacy-policy
+Yahoo: https://legal.yahoo.com/us/en/yahoo/privacy/index.html
+Vungle: https://vungle.com/privacy/
+Smaato: https://www.smaato.com/privacy/
+About us
+Nutnut is an independent French video game developer. We are the authors of the “Hey Love” franchise on Android and iOS.
+We are currently working on our new game: “Luna Ravel”.
+CONTACT
+If you want to contact us for work-related reasons, you are very welcome. Please ping us here:
+contact@nutnut-games.com
+Note that we will not answer support issues at this address.
+Newsletter
+Be warned about our next game release :)
+Email
+LANGUAGE
+English
+TERMS OF SERVICE
+PRIVACY POLICY

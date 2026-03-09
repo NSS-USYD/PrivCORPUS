@@ -1,0 +1,268 @@
+Informativa Privacy - App ClasseViva
+Informativa Privacy - App ClasseViva
+0. Premessa
+Ai sensi del Regolamento Europeo 679/2016 c.d. “GDPR”, la presente Informativa Privacy descrive come
+				Gruppo Spaggiari Parma S.p.A. (“Spaggiari”) gestisce le proprie applicazioni mobile “ClasseViva” e
+				“Diario Inalpi” (di seguito “App ClasseViva” o “App”) in relazione al trattamento dei dati personali
+				riferibili a clienti/utenti che vi accedono.
+La presente Informativa attiene esclusivamente all’App ClasseViva e non si riferisce al trattamento dei
+				dati degli utenti eseguito all’interno della differente soluzione web del Registro elettronico
+				“ClasseViva” accessibile tramite l’indirizzo
+https://web.spaggiari.eu
+oppure ad altri siti web eventualmente consultati dall’utente tramite link ipertestuali eventualmente
+				presenti nell’App.
+L'utilizzo di altri siti e servizi, anche se tramite link presente nell’App, può essere soggetto a
+				diversi termini e informative sulla privacy.
+1. Ruoli del trattamento
+A seguito dell’utilizzo dell’App possono essere trattati dati relativi a persone fisiche identificate o
+				identificabili Spaggiari agisce con ruoli diversi in base al Servizio fruito dall’utente all’interno
+				della App. Si precisa sinora che tali Servizi (meglio dettagliati nelle "
+Condizioni Generali di Utilizzo
+") non
+				condivideranno informazioni tra di loro.
+Ciò premesso, Gruppo Spaggiari Parma S.p.A., società con sede legale in Via F. Bernini n. 22/A, 43126
+				Parma (PR), P.IVA/C.F. 00150470342,
+privacy@spaggiari.eu
+,
+				ricopre i seguenti ruoli in base ai Servizi elencati: per le funzionalità del Registro Elettronico è
+				Responsabile del trattamento dei dati personali (di seguito "Responsabile"), formalmente designato dal
+				Titolare del trattamento dati personali (l’Istituto scolastico di riferimento dell’utente) ai sensi
+				dell’art. 28 del GDPR; per il servizio di Didattica a Distanza (meglio descritto nelle "
+Condizioni Generali di Utilizzo
+"), trattandosi
+				di semplice rimando a piattaforme esterne c.d. "generaliste" e non gestite da Spaggiari, i rapporti
+				giuridici in materia di protezione dei dati personali sono regolati direttamente tra gli interessati e
+				le soluzioni terze; per le funzionalità del Diario e i contenuti informativi e di edutainment, è
+				Titolare del trattamento dei dati personali (di seguito "Titolare").
+1.1 Responsabile della protezione dei dati
+Gruppo Spaggiari Parma S.p.A. ha formalmente designato un Responsabile della protezione dei dati ("RPD"
+				o "DPO") ed una Funzione Compliance interna, che l'utente potrà contattare per esercitare i propri
+				diritti e ricevere qualsiasi informazione relativa alla gestione degli stessi.
+Il DPO e la Funzione
+				Compliance possono essere contattati all'indirizzo e-mail:
+privacy@spaggiari.eu
+.
+2. Tipi di dati trattati
+Tutti i dati raccolti e trattati sono gestiti nel rispetto della vigente normativa comunitaria e
+				nazionale, incluse leggi, reg olamenti impartiti da Autorità a ciò legittimate.
+Spaggiari tratterà, in qualità di Resp. del Tratt. dell’Istituto scolastico, i dati che emergono dal
+				Registro elettronico inseriti da personale scolastico e in caso di minori dai genitori/tutori dello
+				studente.
+Spaggiari tratterà inoltre i dati forniti dall’utente attraverso l’utilizzo dei servizi fruibili
+				attraverso l’App (funzionalità del Diario, contenuti informativi e contenuti di edutainment, per i quali
+				Spaggiari figura come Titolare): nome e cognome, tipologia e nome dell’Ente associato all’utente
+				(Istituto scolastico), ruolo (studente, genito re/tutore, docente, etc.), dati tecnici di funzionamento
+				non inviati a terzi (ID univoci e dati del dispositivo informatico utilizzato).
+2.1 Risorse del dispositivo utilizzate
+Per consentire l’erogazione dei servizi disponibili nell’App (meglio esplicitati nelle "
+Condizioni Generali di Utilizzo
+"), all’utente
+				sarà richiesta la disponibilità delle seguenti risorse:
+Fotocamera - Per l’acquisizione automatica del QR Code presente sulle giustifiche (se la funzione è
+					disponibile);
+Libreria foto - Per l’accesso alle immagini salvate sul dispositivo per allegarle ai compiti ed alla
+					bacheca;
+Permessi scrittura sullo storage (solo Android) - Per salvare i file scaricati dalle sezioni:
+					bacheca, didattica, compiti (didattica) e scrutini.
+In ogni momento è facoltà dell’utente disattivare la disponibilità delle risorse sopracitate accedendo
+				all’apposita sezione dei permessi all’interno del sistema operativo e disattivando il permesso per la
+				specifica App.
+Quando l’utente accede all’App ClasseViva i sistemi informatici e le procedure software preposte al
+				funzionamento dell’App acquisiscono, nel corso del loro normale esercizio dati di accesso e navigazione
+				che non consentono l’identificazione dell’utente (ad esempio: informazioni e parametri sul sistema
+				operativo e sul dispositivo informatico impiegato dall’utente).
+2.2 Servizi terzi tecnici
+Gli strumenti di tracciamento c.d. "
+TECNICI
+" sono servizi di terze parti utilizzati al solo fine
+				di "
+effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica, o nella
+					misura strettamente necessaria al fornitore di un servizi o della società dell'informazione
+					esplicitamente richiesto dal contraente o dall'utente a erogare tale servizio
+" (cfr. art. 122,
+				comma 1 del D.Lgs. 196/2003 e s.m.i.). Spaggiari utilizza questo genere di servizi per
+(i)
+rilevare bug e/o errori all’interno della propria App consentendo al reparto tecnico una veloce
+				risoluzione minimizzando i possibili disservizi subiti dall’utente e per
+(ii)
+l’invio di
+				notifiche al fruitore dell’App (a mero titolo esemplificativo e non esaustivo: segnalare la presenza di
+				un nuovo voto scolastico, un nuovo contenuto inserito, etc.).
+2.3 Servizi terzi analitici anonimizzati
+Gli strumenti di tracciamento tecnici "
+ANALITICI
+", come previsto dall’Autorità Garante, sono
+				utilizzati per valutare l’efficacia di un servizio fornito o per contribuire a misurarne il "traffico",
+				ovvero il numero di visitatori anche eventualmente ripartiti per area geografica, fascia oraria della
+				connessione o altre caratteristiche. Spaggiari utilizza questi servizi terzi solo attraverso il ricorso
+				a misure di minimizzazione del dato, nonché limitata unicamente alla produzione di statistiche
+				aggregate.
+Nome
+Proprietà
+Tipologia
+Funzione
+Informativa
+Crashlytics
+Google Ireland Limited
+TECNICO
+Rilevazione bug/errori
+https://policies.google.com/privacy
+Firebase Cloud Messaging
+Google Ireland Limited
+TECNICO
+Invio notifiche all'utente
+https://policies.google.com/privacy
+Google Analytics for Firebase
+Google Ireland Limited
+ANALITICO ANONIMIZZATO
+Statistico
+https://policies.google.com/privacy
+Apple Push Notification Service
+Apple Italia S.r.l.
+TECNICO
+Invio notifiche all'utente
+https://developer.apple.com/app-store/app-privacy-details
+Huawei Analytics
+Huawei Technologies Italia S.r.l.
+ANALITICO ANONIMIZZATO
+Statistico
+https://developer.huawei.com/consumer/en/doc/development/
+								HMSCore-Guides/android-personal-data-0000001050705120
+Huawei Crash
+Huawei Technologies Italia S.r.l.
+TECNICO
+Rilevazione bug/errori
+https://developer.huawei.com/consumer/en/doc/development/
+								HMSCore-Guides/android-personal-data-0000001050705120
+Huawei Notifications
+Huawei Technologies Italia S.r.l.
+TECNICO
+Invio notifiche all'utente
+https://developer.huawei.com/consumer/en/doc/development/
+								HMSCore-Guides/android-personal-data-0000001050705120
+3. Finalità del trattamento e basi giuridiche
+I dati sono trattati con le seguenti finalità e relative basi legittime:
+Finalità
+Base Giuridica
+(i)
+Accesso e utilizzo tramite App del Servizio funzionalità del Registro Elettronico
+Nomina a Resp. del Tratt. ex art. 28 GDPR
+(ii)
+Adempimento di obblighi previsti dalla legge, da un regolamento, dalla normativa
+							comunitaria o da un ordine dell’Autorità
+Art. 6, comma 1, lett. c del GDPR
+(iii)
+Controllo del corretto funzionamento dei servizi offerti dalla App attraverso
+							servizi forniti da terze parti
+Considerando 26 del GDPR
+Trattamento dei dati in forma anonima e aggregata.
+(iv)
+Accesso e utilizzo dell’App da parte dell’utente e fruizione delle funzionalità
+							in essa presenti, con particolare riferimento ai Servizi e funzionalità del Diario e
+							contenuti di edutainment
+Art. 6, comma 1, lett. b del GDPR
+La base giuridica è l'adempimento di obblighi
+							precontrattuali e contrattuali derivanti da rapporti in essere.
+(v)
+Gestione e proposta all’utente di contenuti informativi per il fruitore dell’App
+Contenuti informativi inviati alla totalità degli utenti senza processi di profilazione e/o
+							altri trattamenti di dati (c.d. “broadcasting”)
+Per il funzionamento della funzionalità di Registro Elettronico distinta dagli altri Servizi
+(i)
+,
+				Spaggiari tratta i dati in qualità di Responsabile del trattamento dei dati personali formalmente
+				designato dal Titolare del trattamento dati personali (l’Istituto scolastico di riferimento dell’u
+				tente) ai sensi dell’ art. 28 del GDPR.
+I dati personali
+(ii)
+sono raccolti per garantire la qualità del servizio fornito ed
+				eventualmente per obblighi derivanti da norme, per finalità difensive o per tutela in relazione a
+				controversie in essere o potenziali.
+Le informazioni relative al funzionamento inviate a terzi
+(iii)
+sono raccolte automaticamente in
+				forma anonima ed aggregata sia per rilevare eventuali problemi tecnici che per finalità statistiche
+				legate alla fruizione delle sezioni presenti nell’App, per migliorare la facilità di utilizzo e
+				l’accesso alle funzionalità fornite. Il trattamento di tali dati non necessita del consenso
+				dell’interessato (art. 6, comma 1, lett. f del GDPR).
+Il conferimento dei dati personali per le finalità indicate al
+(iv)
+(ad esempio: contenuti sul
+				Diario, nome utente, ID univoco e dati del dispositivo informatico utilizzato) non è obbligatorio, ma il
+				rifiuto a fornirli comporta l’imposs ibilità di erogare i Servizi presenti nell’App ad eccezione della
+				funzionalità di Registro Elettronico. Il trattamento di tali dati non necessita del consenso
+				dell’interessato (art. 6, comma 1, lett. b del GDPR) ed è strettamente strumentale all’esecuzione dei
+				rapporti contrattuali (meglio esplicitati nelle "
+Condizioni
+					Generali di Utilizzo
+").
+Per i contenuti informativi
+(v)
+, utili all’utente fruitore dell’App ClasseViva non vengono
+				trattati dati personali e non viene richiesto il consenso all’interessato.
+3.1 Preferenze
+Questa App può utilizzare le informazioni presenti sul dispositivo (ad esempio: informazioni e parametri
+				sul sistema operativo, ID univoci e altri dati del dispositivo informatico impiegato dall’utente) per
+				offrire dati sempre aggiornati e non riproporre gli stessi contenuti all’utente.
+Dati strettamente necessari
+Dati necessari per il funzionamento dell’App che non possono essere disattivati, archiviano informazioni
+				personali e consentono a Spaggiari di contare visite e fonti di traffico al fine di misurare e
+				migliorare le prestazioni dell’App. Questo genere di informazioni consente anche di monitorare e
+				prevenire attività fraudolente e assicurare che i sistemi funzionino in modo sicuro.
+Contenuti informativi
+Contenuti di carattere informativo in grado di educare, coinvolgere o divertire l’utente. Le
+				informazioni, anche multimediali, sono diversificate in base all’App scaricata dall’utente (Studente,
+				Famiglia o Docente). Questi dati sono raccolti nel rispetto della normativa vigente per informare
+				l’utente e non per pubblicizzare un prodotto/servizio.
+I contenuti di terze parti raggiungibili attraverso link presenti all’interno dell’App non sono coperti
+				dalla presente informativa. Spaggiari declina ogni responsabilità in merito ad essi. La tipologia e le
+				modalità di trattamento dei dati personali da parte di questi soggetti esterni sono regolati in
+				conformità all'informativa resa da queste realtà.
+4. Modalità di trattamento e tempi di conservazione
+I trattamenti avvengono in formato elettronico, con logiche strettamente correlate alle finalità
+				suddette, conservati per il solo tempo necessario a conseguire gli scopi per cui sono stati raccolti e
+				saranno cancellati al termine di tale periodo, salvo che i dati stessi debbano essere conservati per
+				obblighi di legge o per far valere un diritto in sede giudiziaria. Ad esempio, potremmo aver bisogno di
+				conservare i dati personali dell’utente per garanzia di qualità del servizio fornito, o per difenderci
+				da rivendicazioni legali future.
+La nostra policy prevede l’eliminazione dei dati personali degli utenti al termine dell’anno scolastico
+				e/o in caso di variazione dell’Istituto scolastico di riferimento per l’utente.
+Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non
+				corretti ed accessi non autorizzati.
+5. Destinatari dei dati
+I dati potranno, per il perseguimento delle finalità descritte nel precedente art. 3, essere comunicati
+				e conosciuti a/da: dipendenti e lavoratori subordinati e, in genere, al personale di Spaggiari, che
+				opereranno in qualità di Autorizzati al trattamento dei dati personali, appositamente nominati dal
+				Titolare.
+I dati dell’utente potranno essere trattati anche da fornitori di servizi per la gestione dei sistemi
+				informatici (per la manutenzione dell’infrastruttura IT), tali soggetti opereranno in qualità di
+				Responsabili del trattamento appositamente nominati dal Titolare ai sensi dell’art. 28 del GDPR,
+				elencati di seguito.
+Nome
+Finalità
+Ruolo
+Stardata S.r.l.
+Relativamente all'erogazione tecnica dei servizi informatici e manutenzione
+							dell'infrastruttura IT.
+Responsabile del trattamento dati personali (ex art. 28 del GDPR)
+Akamai Technologies S.r.l.
+Relativamente all'erogazione dei servizi di Content Delivery Network "CDN". Per maggiori
+							dettagli si rimanda all'informativa di terze parti:
+https://www.akamai.com/it/legal/compliance/privacytrust-center
+Responsabile del trattamento dati personali (ex art. 28 del GDPR)
+Il trattamento e la conservazione dei dati vengono effettuati in Italia e UE e non sono previsti
+				trasferimenti in altri Paesi extra UE, né tali dati saranno oggetto di diffusione al pubblico, in ogni
+				caso, in caso di trasferimento sarà nostra premura adottare i meccanismi a tutela dell’interessato di
+				cui agli artt. 44 e ss. del GDPR.
+Partner e fornitori possono accedere solo a informazioni anonime e/o aggregate impedendo la correlazione
+				tra la persona fisica-utente dell’App per non consentire in alcun modo l'identificazione.
+6. Diritti degli interessati
+L'utente dell’App potrà esercitare i diritti previsti dal GDPR contattando il Titolare attraverso
+				l'indirizzo e-mail
+privacy@spaggiari.eu
+. In particolare, potrà
+				richiedere l'accesso ai dati personali che la riguardano, la rettifica o la cancellazione o potrà
+				richiedere la limitazione al trattamento e/o opporsi al trattamento. Inoltre, avrà il diritto alla
+				portabilità dei dati e qualora volesse proporre reclamo potrà presentarlo anche all'Autorità Garante per
+				la protezione dei dati personali.
+v.20/10/2021

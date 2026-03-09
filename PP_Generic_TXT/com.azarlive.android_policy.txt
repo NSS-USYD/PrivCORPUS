@@ -1,0 +1,526 @@
+PRIVACY POLICY HIGHLIGHTS
+Introduction
+Hyperconnect LLC ("
+Company
+", “
+we
+”, “
+our
+”, or “
+us
+”)
+20F, ASEM Tower, 517, Yeongdong-daero, Gangnam-gu, Seoul, Republic of Korea respects your concerns about privacy. This Privacy Policy applies to the personal information we process in the context of the operation of our
+video communication service AZAR ("
+Service
+")
+and is incorporated into and is subject to our Terms of Service which can be found at
+[link]
+. Please
+find below a summary of the key topics addressed in this Privacy Policy. For more detailed information on how we process your information, please click on the headings or continue to read below
+. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, you may not use the Service and must immediately terminate your use of the Service.
+Note that the "Supplementary Terms" contain specific additional regulations for certain jurisdictions such as the EU or California.
+1. Personal Information We Collect
+2. How We Use this Information
+3. Sharing of Information
+4. Retention of Personal Information
+5. Your Choices
+6. Your Rights
+7. How We Protect Personal Information
+8. Personal Information of Children
+9. Contact Us
+10. Updates to Our Privacy Policy
+Supplementary Terms
+PRIVACY POLICY
+Effective Date:
+May 17
+, 2023
+1. Personal Information We Collect
+When we refer to “personal information” in this Privacy Policy, we mean information that relates to an identifiable individual. The following types of personal
+information are collected in connection with our Service:
+Information You Provide Directly to Us or we receive from Third Parties
+We may collect information directly from you or from other companies with whom you have a relationship. For example:
+When you create an account and register for our Service, you provide us with information such as, your email address,
+date of birth, gender, mobile phone number.
+When you login with a third party account, we receive information about you from third parties including from other companies such as Facebook, Apple,
+Google, LINE, Twitter, or Kakao. For example, we will get access to information such as your social media account information, nickname, email address, date of birth, gender, profile information and your friend list (depending on your choices).
+If you choose to, additional information that you can add to your profile, such as a bio, links to your social media accounts.
+When you start using the Service, we collect user-generated contents, including comments, short messages, photos, voice and videos calls (including captured picture thereof), that you choose to share, transmit, broadcast and/or upload on our
+Service.
+When you subscribe to a paid service or make a purchase directly from us (rather than through a platform such as iOS or Android), you provide us or our payment service provider with information, such as your debit or credit card number or other financial information.
+When you choose to participate in our promotions, events or contests, we collect the information that you use to register or enter.
+When you win a prize from a promotional event, or when you decide to participate in our rewards programs, you will provide us with information such as, a copy of identification card, your name, account information.
+If you contact us (e.g., through our customer care team
+)
+, we collect the information you give us during the interaction.
+Users may provide information about you as they use our Services, for instance as they interact with you or if they submit a report involving you.
+Information about Your Use of Our Service
+In addition to the information you provide, we will collect information about your use of our Service through software on your devices and by other electronic means, including by the use of cookies (For more information, please see our
+Cookie Policy
+.
+This includes:
+Device information
+: OS platform of your device, device information including type of device, brand, model and version of OS, IP address, advertising identifier, device language, device timezone, version of application that you are using, locale country and language of the device, the location (country and city) where you log in, your purchase history in application store, available languages, device capability, bandwidth, network type, and traffic to and from our websites, error-reporting information, the time the error occurred, the feature being used and the state of the Application when the error occurred.
+Log information
+: Usage information, such as, URL, redirected URL,
+performance timing, referrer, network type, network info, charge status, ad block info, cookies, access and reports history.
+Location information
+: We will process your location or geographical information based on your consent or if permitted, where this is necessary to deliver the Service you have requested.
+Service usage information
+: Service use history, Service activity history, gifting history, purchases, consumption and refund history, details of your interactions with other users including following or followed history, details of interaction between you and the Service or you and our website including report history, time broadcasted or time spent watching broadcasting on our Service, and other information about your use of our Service, such as bookmarks and visit history.
+Facial information
+: Facial marks and any additional facial information from Apple’s TrueDepth API technologies. We will use Apple’s TrueDepth API technologies to recognize user faces in camera experiences based on your consent or if permitted. We may track the movement of your eyes, mouth and face and use this facial information, where this is necessary to deliver the Service you have requested.
+Links to Other Websites, Devices, Apps and Features
+Our Service may enable you to connect to other websites, devices, apps and other features, which may operate independently from us and have their own privacy notices or policies. If you accessed a website, product or service provided by a third party, including through the Service or Company's website, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
+2. How We Use this Information
+Provision of our Service based on your contractual relationship with us
+We process your personal information when this is necessary under our contract with you, to:
+Provide you with our Service, and specific features you select when using our Service, which may require personalizing the content of our Service;
+When you use our live streaming feature, we use your information to broadcast the live stream on our Service, that can be viewed by other users as well as non-users on the web and
+on other third-party apps;
+Provide you with augmented reality or beautifying features via the Apple’s TrueDepth API. Such information may also be used to improve features provided by our Service (such as photo, video, effects, avatar and more), in particular to provide users with more suitable contents and to apply avatar function, makeup, filters on the appropriate position. We will not use this information to personally identify any user. This information is processed in real time for delivering and improving these features only, and discarded when the use of the features is finished. We do not share this information with third parties, do not store it on our servers, or process for any other purpose other than the Service’s functionality mentioned above;
+Process orders, payments and refunds and deliver to you our products that you purchase through our Service and allow you to exercise your rights that you have under your contract;
+Identify and authenticate you so that you may use our Service and to prevent illegal or inappropriate use of the Service;
+Restrict the collection of personal information of children under certain age as defined in this Privacy Policy;
+Deliver to you any administrative notices, alerts and communications relevant to your use of the Service;
+Effectively manage our relationship with our customers, including by communicating with you, responding and handling queries and reports, resolving technical issues, providing you with customer care support and sending you necessary information relating to our Services
+Use of information for further purpose
+To improve the Service, and to develop and offer new services. We may use your information to improve the performance of or develop new services, for example, we may use de-identified conversation between you and our Azar Chatbots to improve them
+or other chatbots we own or to build new services;
+To provide information about various events and opportunities to participate in the events, to provide advertising information;
+To contact you via email, SMS, app push notification or otherwise for the purpose of informing you about new products, services or promotions offered by the Company (you can opt-out of such emails or SMSs by sending an email to
+[email protected]
+);
+To collect statistics on the use of Service including Service usage history, access frequency and interaction between users, to analyze customer behaviors, build up customer usage patterns and profiles in order to identify regional and global user trends and optimize our offering to customers globally and to improve the Service and its environments using the statistics;
+To protect against, identify, monitor and prevent fraud and other criminal activities, any other activities that may violate our Terms of Service or other applicable laws, or lead to claims or other liabilities.
+To restrict use of Service that violates laws and our Terms of Service, to prevent use of Service that interfere with the operation of the Service, including fraudulent use, and to prevent account theft.
+Other
+Comply with and enforce requirements under applicable laws, relevant industry
+standards
+and our policies, including this Privacy Policy.
+Comply with court orders and subpoenas, and respond to legally binding requests from government, law enforcement agencies, public authorities and/or regulators.
+Protect our legal rights, including by handling complaints, obtaining legal advice and
+establishing
+, exercising or defending legal claims relating to us or other companies in our group and our Service.
+3. Sharing of Information
+We transfer or disclose your personal information to third parties as described below:
+Affiliates, subsidiaries, partners and personnel
+: We share your information with our personnel, including contractors and agents, and other companies, to the extent this is necessary to provide our Service and to fulfill
+the purposes set out in Section 2 above.
+Service providers
+: We also transfer or disclose your information to carefully selected companies that provide services on our behalf; for example companies that help us develop and operate systems for our Service, payment and refund service providers, providers of IT services, security, hosting, analytics, mailing, billing or marketing services. These entities are only authorized to access and use your personal information to the extent this is necessary for them to provide us with their services and they are not allowed to use this information for other purposes.
+Business advisors
+: We may share, for example, your information with our lawyers, accountants, business consultants, insurers, and auditors, to the extent it is necessary for them to provide us with their services.
+Government authorities, judicial authorities, regulators or other third parties where required
+: We will disclose personal information to government authorities, judicial authorities, regulators or other third parties where we have a legal requirement to do so or where we believe this is necessary:
+to comply with the law or respond to compulsory legal processes (such as a search warrant, subpoena or court order);
+to verify or enforce compliance with the terms and policies governing our Service and to investigate fraud or other unlawful activity relating to the use of our Service or affecting our business, to the extent such disclosure is permitted by applicable data protection laws; and
+to protect and defend our rights, property, and the security or safety of our business operations and those of any of our respective affiliates, staff, business partners, our customers or members of the public.
+Corporate transactions:
+We may transfer your information if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control.
+Other parties with your consent or on your request
+. In addition to the disclosures described in this Privacy Policy, we may share information about you with third parties when you separately consent to or request such sharing.
+Any information or content that you voluntarily disclose for posting to the Service ("User Contents") may become available to the public. Once you have shared User Contents or made it public, that User Contents may be re-shared by others. This Privacy Policy does not apply to such public information.
+4. Retention of Personal Information
+We take appropriate steps to ensure that we process and retain information in accordance with the following principles:
+at least
+for the duration for which the information is used to provide you with our Service;
+as required under law, a contract, or with regard to our statutory obligations (e.g., tax laws); or
+only for as long as it is necessary for the purpose for which it was collected, is processed, or longer if required under any contract, by applicable law, or, in anonymized form, for statistical purposes, subject to appropriate safeguards. For example, if a dispute arises between you and Company or you fail to make payment for our Service, we may retain relevant information until such dispute is resolved or until such payment is made, respectively.
+Where we process your information with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of your requests in order to respect them in future.
+5. Your Choices
+Where permitted we may contact you via email, phone call, text messages or push notifications through our mobile apps. To submit a request concerning the receipt of such communications from us, please contact us using the information specified in the “
+Contact Us
+” Section below.
+You can unsubscribe from our marketing communications at any time by contacting us directly (see
+“Contact Us” section below). As noted in the
+Your Rights
+section below, you have the right to object to use of personal data for direct marketing purposes at any time.
+Please note that if you unsubscribe from our marketing communications, we will still send you service messages to provide you with necessary information in relation to your contract and the Service you use (for example, to update you on changes to our Terms of Use).
+6. Your Rights
+To the extent provided by applicable law, you can request access to your personal information, or correct or update out-of-date or inaccurate personal information we hold about you. You may also have the right to request that we delete personal information that we hold about you. You may access and update some of your information through your account settings. You are responsible for keeping your personal information up-to-date.
+To the extent provided by applicable laws, you can also ask us to restrict or limit the processing of your personal information, as well as to provide you with personal information that we have collected from you so that you may use it for your own purposes, and to ask us to share (port) this data to another controller.
+In addition, to the extent provided by applicable law, you can
+object to the processing
+of your personal data in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement).
+You also may have the right under applicable law to object at any time to the use of your personal information for direct marketing purposes, including profiling relating to direct marketing.
+However, these
+rights may be limited
+, for example if fulfilling your request would reveal personal data about another person, where they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping. We will inform you of relevant exemptions we rely upon when responding to any request you make. To make a request concerning your rights or to make an inquiry, use the contact details under the “
+Contact Us
+” section below.
+7. How We Protect Personal Information
+We take the protection of your information seriously and we have in place safeguards designed to protect the information we collect through our Service. However, please note that although we take reasonable steps to protect your information, no website, Internet transmission, computer system, or wireless connection is completely secure.
+Please note, however, that the Service allows you to share text messages, photos, screenshots, videos and other communications in the Service with other users, and if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending and sharing text messages, photos, screenshots, videos or other communications in the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). The Service is not responsible for any use or misuse of information you share.
+8. Personal Information of Children
+The Service is not directed to children under the age of fourteen (14) and we do not knowingly solicit or collect personally identifiable information from children under the age of fourteen (14) as part of the Service. Additionally, we do not knowingly sell the personal information of children under the age of sixteen (16). If we become aware that we have inadvertently received personally identifiable information from a user under the age of fourteen (14) as part of the Service, we will immediately delete such information from our records. If you believe that a child under the age of fourteen (14) may have provided us with personal information, please contact us using the information specified in
+the “
+Contact Us”
+section
+below.
+9. Contact Us
+For more information about our privacy practices, or to exercise any rights you may have pursuant to applicable law, please contact us at
+[email protected]
+or via post 20F, ASEM Tower, 517, Yeongdong-daero, Gangnam-gu, Seoul, Republic of Korea. In addition, our Data Protection Officer can be contacted at
+[email protected]
+10. Updates to Our Privacy Policy
+We reserve the right at our discretion to make changes to this Privacy Policy from time to time. We will notify you before we make changes to this Privacy Policy. You may also review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Service and our website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you may not use the Service at any time.
+Supplementary Terms
+The following additional terms apply respectively to users having residence in or nationality of certain countries. In the event of any conflict between the following additional terms and the provisions of the main body of this Privacy Policy, the following terms shall prevail.
+1. For Users Having Usual Residence in European Economic Area (EEA), UK or Switzerland
+A. International Transfer of Personal Information
+If you are a resident in the EEA (that is in the European Union and Iceland, Lichtenstein, Norway), UK or Switzerland, we will transfer your personal information to the Republic of Korea and other countries outside the EEA, UK or Switzerland including the United States, Turkey, Malta, Thailand, Egypt, India, Hong Kong and Columbia.
+We are a company based in South Korea. In the event that
+there are no adequacy decisions between South Korea and your country of residence, the data transfer to Korea is
+justified because all data we collect is also necessary to provide the Services.
+Where we share your data with recipients as described, we will take appropriate measures, in compliance with applicable laws, to ensure that your personal information remains adequately protected. Such measures include for instance the use of EU approved Standard Contractual Clauses or similar instruments under local law. In some instances, we will also rely on your explicit consent, where this is appropriate. To request more information or obtain a copy of the contractual agreements or other safeguards in place, use the contact details set out in the “
+Contact Us
+” Section.
+B. How We Use this Information – additional information
+The purposes and legal grounds for processing personal information are described above in section 2. In this section, we describe in which cases we will rely on consent:
+Place cookies and use similar technologies in accordance with our Cookie Policy and the information provided to you when those technologies are used. For more information, see our
+Cookie Policy
+Send you marketing communications (where this is required by law or where we otherwise elect to rely on consent).
+Provide you with customized advertisements of content, products and services that we think you would like, by analysing information relating to your use of the Service combined with various information that you provide to us by other means, for the purposes consistent with this Privacy Policy. This may involve delivering marketing via various channels including through, email, our websites or mobile applications or on third party platforms (including social networks).
+On other occasions where we ask you for consent, we will use the data for the purpose explained to you at that time. When we rely on your consent, you always have the right to
+withdraw your consent at any time
+. This will not affect the lawfulness of any processing we carried out before you withdrew your consent. To exercise this right, please see the “Your Rights” section.
+C. Personal Information of Children
+For the users having usual residence in the EEA, UK or Switzerland, Section 8 should read as follows; Our Service is designed for a general audience and is not directed towards children. In connection with our Service, we do not knowingly collect or maintain personal information from anyone under the age of sixteen (16) or knowingly allow such persons to use our Service. If you are under sixteen (16), please do not attempt to register for our Service or provide us with any personal information. If we learn that a person under the age of sixteen (16) has provided us with any personal information, we will promptly delete such personal information. If you believe that a child under age sixteen (16) may have provided us with personal information, please contact us using the information specified in the “
+Contact Us
+” section.
+D. Contact
+To comply with the General Data protection Regulation (2016/679) we have appointed a European and a UK representative. If you wish to contact them, their details are as follows:
+EU Representative
+Bird & Bird GDPR Representative Ireland
+29 Earlsfort Terrace
+Dublin 2
+D02 AY28
+Ireland
+[email protected]
+Main point of contact : Vincent Rezzouk-Hammachi.
+UK Representative
+Bird & Bird GDPR Representative Services UK
+12 New Fetter Lane
+London
+EC4A 1JP
+United Kingdom
+[email protected]
+You can also contact a data protection authority in case of complaints.
+2. For California Consumers
+This additional term supplements this Privacy Policy and applies solely to consumers in California (excluding Company job applicants and personnel).
+A. Collection and Disclosure
+In the past 12 months, we may have:
+Collected the following categories of personal information about you:
+identifiers, such as, a real name,
+postal address, unique personal identifier (such as a device identifier; cookies, mobile ad identifier and similar technology; telephone number and other forms of persistent or probabilistic identifiers), online identifier, Internet Protocol address, email address, account name, other similar identifiers, and identifiers associated with other users of the Services;
+commercial information, records of services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies;
+geolocation data (including geolocation information collected from your devices);
+internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements;
+audio, electronic, visual, or similar information (such as profile photos, voice, video, device diagnostic information, and information collected via device sensors); and
+inferences drawn from some of the above categories of information to create a profile.
+Collected personal information about you from the following categories of sources:
+from you or your devices, for example, through your use of our Service;
+our affiliates (e.g., K.K. Movefast Company, Belogical Pte. Ltd.)
+;
+vendors who provide services on our behalf;
+social media networks; and
+online advertising companies.
+Collected personal information about you for the following business or commercial purposes (in addition to the purposes listed above in this Privacy Policy ):
+performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, providing advertising or marketing services, providing analytics services, or providing similar services;
+auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance;
+short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction;
+detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity;
+debugging to identify and repair errors that impair existing intended functionality;
+undertaking internal research for technological development and demonstration; and
+undertaking activities to verify or maintain the quality or safety of a service that is owned or controlled by us, and to improve, upgrade, or enhance the service that is owned or controlled by us.
+We may share or disclose all of the above categories of information with service partners that assist with our internal functions, such as analyzing data, maintain the security of our systems, ensuring our compliance with the law. We may also share the above information with our affiliates (e.g., K.K Movefast Company, Belogical Pte. Ltd.) in order to better serve you or maintain our business
+Category of Personal Information
+Recipient Categories
+Identifiers
+Our affiliated companies, solution provider, partners, system management and operation service provider
+Commercial Information
+Solution provider, system management and operation service provider
+Geolocation Data
+Solution provider, system management and operation service provider
+Internet and Other Electronic Network Activity Information
+Our affiliated companies, partners, solution provider, system management and operation service provider
+Audio, Electronic, Visual, or Similar Information
+Solution provider, system management and operation service provider
+Inferences
+Solution provider, system management and operation service provider
+Sold the following categories of personal information about you to third parties particularly online advertising networks:
+Identifiers, such as, unique personal identifier (such as a device identifier, cookies, mobile ad identifiers and similar technology), online identifier, and IP address;
+Commercial information, including records of services purchased, obtained or considered and other purchasing or consuming histories or tendencies;
+Geolocation data (including geolocation information collected from your device)
+Internet and other electronic network activity information, including but not limited to browsing history, search history, and information regarding your interaction with websites, applications or advertisements; and
+Inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior attitudes, intelligence, abilities and aptitudes.
+B. Privacy Rights
+You have the right to request, twice in a 12-month period, the following information about the personal information we have collected about you during the past 12 months:
+the categories and specific pieces of personal information we have collected about you;
+the categories of sources from which we collected the personal information;
+the business or commercial purpose for which we collected or sold the personal information;
+the categories of third parties with whom we shared the personal information; and
+the categories of personal information about you that we sold or
+disclosed for a business purpose, and the categories of third parties to whom we sold or
+disclosed that information for a business purpose.
+You also may have the right to request that we provide you with (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (2) the identity of those third parties. In addition, you have the right to request that we delete the personal information we have collected from you. You also have the right to opt out of the sale of your personal information by clicking here:
+Do Not Sell My Information.
+Additionally, you have the right to not be discriminated against as a result of exercising these rights.
+You or your authorized agents may submit an access or deletion request, by
+clicking
+here
+or by contacting us as specified in the
+“
+Contact Us
+”
+section of this Privacy Policy. In order for us to honor a request made by your agent, you must submit proof of your written authorization of the agent. To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or complying with your request.
+If you have an account with us, we may verify your identity by requiring you to sign into your account. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request.
+3. For Japan
+This additional term supplements this Privacy Policy and applies solely to Users in Japan
+A. How We Use this Information
+Provision of our Service based on your contractual relationship with us
+We process your personal information when this is necessary under our contract with you, to:
+Provide you with our Service, and specific features you select when using our Service, which may require personalizing the content of our Service;
+When you use our live streaming feature, we use your information to broadcast the live stream on our Service,
+that can be accessed by other users as well as
+un-registered users on the web and/or on other third-party apps;
+Process orders, payments and refunds and deliver to you our products that you purchase through our Service and allow you to exercise your rights that you have under your contract;
+Provide you with augmented reality or beautifying features via the Apple’s TrueDepth API. Such information may also be used to improve features provided by our Service (such as photo, video, effects, avatar and more), in particular to provide users with more suitable contents and to apply avatar function, makeup, filters on the appropriate position. We will not use this information to personally identify any user. This information is processed in real time for delivering and improving these features only, and discarded when the use of the features is finished. We do not share this information with third parties, do not store it on our servers, or process for any other purpose other than the Service’s functionality mentioned above;
+Identify and authenticate you so that you may use our Service and to prevent illegal or inappropriate use of the Service;
+Restrict the collection of personal information of children under certain age as defined in this Privacy Policy;
+Deliver to you any administrative notices, alerts and communications relevant to your use of the Service;
+Effectively manage our relationship with our customers, including by communicating with you, responding
+and handling queries and reports, resolving technical issues, providing you with customer care support and sending you necessary information relating to our Services
+Use of information for further purpose
+To improve the Service, and to develop and offer new services. We may use your information to improve the performance of or develop new services, for example, we may use de-identified conversation between you and our Azar Chatbots to improve themit or other chatbots we own or to build new services;
+To provide information about various events and opportunities to participate in the events, to provide advertising information;
+To contact you via email, SMS, app push notification or otherwise for the purpose of informing you about new products, services or promotions offered by the Company (if you opt-in of such emails or SMSs);
+To collect statistics on the use of Service including Service usage history, access frequency and interaction between users, to analyze customer behaviors, build up customer usage patterns and profiles in order to identify regional and global user trends and optimize our offering to customers globally and to improve the Service and its environments using the statistics;
+To protect against, identify, monitor and prevent fraud and other criminal activities, any other activities that may violate our Terms of Service or other applicable laws, or lead to claims or other liabilities.
+To restrict use of Service that violates laws and our Terms of Service, to prevent use of Service that interfere with the operation of the Service, including fraudulent use, and to prevent account theft.
+Other
+Comply with and enforce requirements under applicable laws, relevant industry standards and our policies, including this Privacy Policy.
+Comply with court orders and subpoenas, and respond to legally binding requests from government, law enforcement agencies, public authorities and/or regulators.
+Protect our legal rights, including by handling complaints, obtaining legal advice and establishing, exercising or defending legal claims relating to us or other companies in our group and our Service;
+B. Sharing of Information
+Company does not provide personal information to a third party without obtaining in advance your consent, except in those cases set forth in the following.
+cases based on laws and regulations;
+cases in which there is a need to protect a human life, body or fortune, and when it is difficult to obtain your consent;
+cases in which there is a special need to enhance public hygiene or promote fostering healthy children, and when it is difficult to obtain your consent;
+cases in which there is a need to cooperate in regard to a central government organization or a local government, or a person entrusted by them performing affairs prescribed by laws and regulations, and when there is a possibility that obtaining your consent would interfere with the performance of the said affairs;
+cases in which personal information is provided accompanied by Company entrusting a whole or part of the handling of the personal information within the necessary scope to achieve a utilization purpose; or
+cases in which personal information is provided accompanied with business succession caused by a merger or other reason.
+Company may transfer personal information to foreign third parties as follows:
+Name of third parties
+Transferred Country
+Transferred Item
+Purpose
+Twilio
+U.S.A.
+Mobile Phone Number
+To improve the Service
+Amazon Web Services Inc.
+U.S.A.
+All information collected in connection with the Service
+To analyze the Service and the usage of the Service
+Google Cloud Platform
+U.S.A.
+All information collected in connection with the Service
+Data Storage and System Operation
+Google Analytics
+U.S.A.
+Device information, Gender, Age, IP, Location Information, Purchase history
+To analyze the usage of the Service
+Google Firebase
+U.S.A.
+Device information, Gender, Age, IP, Location Information, Purchase history
+To analyze the usage of the Service
+Sentry
+U.S.A.
+IP, User ID
+To analyze error information
+Facebook
+U.S.A.
+Device information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history(including Gender),
+Mobile network information
+To analyze statistics
+Braze Inc.
+U.S.A.
+Gender, Date of birth, Country information, Device Information, IP, Purchase history, Access history, App activity history
+To analyze the usage of the Service
+Play Co., Ltd.
+Republic of Korea
+Video, Captured picture of the video, Voice, User generated contents, Profile, Gender, Age, Nationality, Device information
+To improve the Service
+Tiktok Pte. Ltd.
+Singapore
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history, Mobile network information
+To analyze statistics
+Apple search ads
+U.S.A.
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history, Mobile network information
+To analyze statistics
+Snapchat
+U.S.A.
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history, Mobile network information
+To analyze statistics
+Google Ads
+U.S.A.
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history (including Gender), Mobile network information
+To analyze statistics
+Twitter
+U.S.A.
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history (including Gender), Mobile network information
+To analyze statistics
+Google DV360
+U.S.A.
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history (including Gender), Mobile network information
+To analyze statistics
+Liftoff
+U.S.A.
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history (including Gender), Mobile network information
+To analyze statistics
+Moloco
+U.S.A.
+Device Information, Device language, Advertising identifier, IP, Location information, Access history, Purchase history, App activity history (including Gender), Mobile network information
+To analyze statistics
+Zendesk, Inc.
+U.S.A.
+Email address, Name or nickname, Azar ID, Phone number, Device information, Country information
+To improve the Service
+Besedo Ltd.
+Colombia
+Video, Captured picture of the video, Voice, User generated contents, Gender, Age, Nationality, Device information, Device language
+To improve the Service
+Denkai Digital Limited
+Egypt, India, Bulgaria
+Profile contents, Gender, Age, Nationality, Device information, Device language, User generated contents
+To improve the Service
+MoPub Inc.
+U.S.A.
+Device information, Advertising identifier, IP, Ad types and usage information
+To analyze statistics
+Unity Technologies
+U.S.A.
+Device information, Advertising identifier, IP, Ad types and usage information, App activity history, Purchase history
+To analyze statistics
+Cloudflare, Inc.
+U.S.A. and/or
+other countries
+All information collected in connection with the Service
+Data Storage and System Operation
+Bigo Technology Pte. Ltd.
+Singapore
+Advertising identifier, App activity history, IP
+To analyze statistics
+Payoneer Europe Ltd.
+Ireland
+Name, ID number, Settlement Information, Address, Date of birth, Email address, Phone number
+To provide the Service
+Reddit Ads
+U.S.A.
+Advertising identifier, Device information, Purchase history
+To analyze statistics
+Taboola
+U.S.A.
+Advertising identifier, Purchase history, App activity history
+To analyze statistics
+Appier
+Taiwan
+Country and city information, Advertising identifier, Access history, IP, Mobile network information, Device information, Purchase history, App activity history
+To analyze statistics
+Typeform
+Spain
+Name, Email address, User generated contents, App activity history, Account history
+To improve the Service and analyze statistics
+MONITRIBE REKLAM EĞİTİM DANIŞMANLIK GIDA TİCARET LİMİTED ŞİRKETİ
+Turkiye
+Profile contents (nickname, status message, hashtags), Gender, Age, Nationality, Device information, Device language, User generated contents
+To improve the Service
+Paybox Elektronik Ticaret Anonim Sirketi (Gpay)
+Turkiye
+Name, Settlement Information, Phone number, Payment information (payment history)
+To provide and improve the Service
+UnityAds
+U.S.A.
+Device information, Device identifier, IP,
+Ad types and usage information
+, App activity history, Purchase history
+To analyze statistics
+Massive Media Match NV
+Belgium
+Video,
+User generated contents, Device language,
+Captured picture of the video, Profile, Contents, Gender, Age, Nationality, Device language
+To provide the Service
+Bidease Inc.
+U.S.A.
+IP,
+Country and city information,
+Device information,  Mobile network information,
+App activity history,
+Ad types and Attribution information
+, Purchase history
+To analyze statistics and
+to improve
+the Service
+SHAREit
+Singapore
+Advertising identifier, Device identifier, Device Information, Country, Device Language
+To analyze statistics and
+to improve
+the Service
+Sinch AB
+Sweden
+Mobile Phone number
+To provide the Service
+AWS Pinpoint
+U.S.A.
+Mobile Phone number
+To provide the Service
+Mintegral
+(
+[email protected]
+)
+Singapore
+Advertising identifier, Device Information, Country, City, Device Language, ISP, IP address, Attribution information, App activity history
+To analyze statistics
+Onetrust(
+[email protected]
+)
+U.S.A.
+IP Address, Cookie Consent history
+To improve
+the Service
+Xiaomi Technologies Singapore Pte. Ltd.(https://privacy.mi.com/)
+Singapore
+Advertising identifier, Device Information, Device Language, App activity history
+To analyze statistics
+Tinder Service Platform (Match Group, LLC) (
+[email protected]
+)
+U.S.A.
+Mobile phone number, Email address, IP, Country
+To improve the Service
+Sentinel (Match Group, LLC) (
+[email protected]
+)
+U.S.A.
+Azar ID, Email Address, Date of Birth, Profile contents, Country, City, Registration Date
+To improve
+the Service
+Any information or content that you voluntarily disclose for posting to the Service ("User Contents") may become available to the public. Once you have shared User Contents or made it public, that User Contents may be re-shared by others. This Privacy Policy does not apply to such public information.
+C. Updates to Our Privacy Policy
+We reserve the right at our discretion to make changes to this Privacy Policy from time to time. We will notify you before we make changes to this Privacy Policy. You may also review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Service and our website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you may not use the Service at any time.
+Notwithstanding the foregoing, the Company shall obtain the User’s consent in a manner specified by the Company for the amendment or change of the Privacy Policy which requires such consent under the applicable laws.
+In this case, the modified Policy will only apply to those Users who have consented to the change in a manner prescribed by us.
+4. For Singapore
+This section supplements this Privacy Policy and applies solely to any collection, use and disclosure of personal information to which the Singapore Personal Data Protection Act (No. 26 of 2012) applies:
+The first sentence of Section 1 of the Privacy Policy shall be deleted and replaced with: "When we refer to "personal information" in this Privacy Policy, we mean data, whether true or not, about an individual who can be identified from that data alone or with other information which we have or are likely to have access to".
+Privacy Policy for whom using Azar from the United States
+Privacy Policy for whom using Azar from Global
+Privacy Policy for whom using Azar from Japan
+Privacy Policy for whom using Azar from Singapore
+Privacy Policy for whom using Azar from South Korea

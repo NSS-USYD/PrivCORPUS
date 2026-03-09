@@ -1,0 +1,65 @@
+Video Lyrics - Privacy policy
+Privacy policy
+Please read this privacy policy carefully. By using the "Video Lyrics" app you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all of
+            the terms and conditions set forth below, you may not use this app.
+What information we collect
+Some information may be collected by AdMob for advertising purposes (
+Google Privacy & Terms
+).
+Google Drive application data folder
+The
+application data folder
+is a special hidden folder placed in your
+Google Drive
+account that the
+Video Lyrics
+app uses to store some necessary information. 
+            In this case, the amount of coins you have available.
+            To know more about what this coins are and what its purpose is, visit the
+app home page
+.
+This
+application data folder
+is automatically created when the application saves this information (number of coins) in your
+Google Drive
+account. 
+            You, as a user, don't interact directly with it. This folder is only accessible by the application and its contents are hidden from you and from other
+Drive apps
+.
+The
+application data folder
+is deleted from your
+Drive
+when you uninstall the
+Video Lyrics
+application.
+            You can also delete this folder manually by accessing your
+Google Drive
+account and going to the
+Manage Apps
+section in your settings.
+In order for the
+Video Lyrics
+app to have access to this folder, you need to grant permissions to the application through OAuth 2.0 authentication.
+            Through this process, a minimum scope (not restricted) will be requested.
+            This scope (https://www.googleapis.com/auth/drive.appdata) is the minimum requirement for the application to be able to save the necessary data in the
+application data folder
+.
+For more information about the
+Application Data folder
+, you can go to this
+link
+.
+Requested permissions of Android device
+Camera:
+used to allow the user take a picture from the device camera.
+Read external storage:
+used to allow the user select a picture from the device photo gallery.
+Read from Google Photos:
+used to allow the user select a picture from Google Photos.
+Write external storage:
+used to save the created video.
+Wake lock:
+this allows the video to be rendered while the phone is locked.
+Internet:
+used by AdMob for advertising.

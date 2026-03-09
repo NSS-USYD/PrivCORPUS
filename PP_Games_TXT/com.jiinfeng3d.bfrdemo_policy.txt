@@ -1,0 +1,27 @@
+Privacy Policy of Fighting Tiger - Liberal
+Fighting Tiger - Liberal
+Privacy Policy
+Fighting Tiger - Liberal ("us", "we", or "our") operates the Fighting Tiger - Liberal mobile application (hereinafter referred to as the "Service").
+This page informs you of our policies regarding the collection, use and share of personal data when you use our Service and the choices you have associated with that data.
+We use your data for advertising. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+Data collected and shared
+We collect several different types of information for advertising. We use AdMob(Google Mobile Ads SDK) to show advertisements to you. AdMob is provided by Google Inc. The Google Mobile Ads SDK collects and shares the following data types automatically for advertising, analytics, and fraud prevention purposes.
+IP address : The device's IP address, which may be used to estimate the general location of a device. We do not collect your precise location.
+User product interactions : User product interactions and interaction information, including app launch, taps, and video views.
+Diagnostic information : Including crash logs, app launch time, hang rate, and energy usage.
+Device and Account identifiers : Android advertising (ad) ID, app set ID.
+More information...
+You can opt-out from the AdMob by Google service by following the instructions described by Google:
+https://support.google.com/ads/answer/2662922?hl=en
+For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page:
+https://policies.google.com/technologies/partner-sites
+or visit the Privacy Policy of Google:
+https://policies.google.com/privacy
+Security of Data
+All of the user data collected by Google Mobile Ads SDK is encrypted in transit using the Transport Layer Security (TLS) protocol. The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+Links to Other Sites
+Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+By email: support@jiinfeng.com

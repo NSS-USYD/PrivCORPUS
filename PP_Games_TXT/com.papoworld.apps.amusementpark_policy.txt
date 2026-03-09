@@ -1,0 +1,117 @@
+Privacy Policy
+Privacy Policy
+Last Updatedï¼šJuly 28,2022
+Papo World (collectively referred to as
+â€œweâ€, or â€œusâ€) respect the privacy of its users, both parents and children (hereinafter referred to as â€œyouâ€ or â€œuserâ€). We believe that it is important for you to make informed decisions regarding the use of our applications (â€œAppsâ€). Therefore, we have provided our privacy policy (â€œPrivacy Policyâ€) which describes our privacy practices while you use our Apps. Please read it carefully as it will help you understand what we do with the information that we collect.
+If you are a minor child or under the legal age to consent, please read the following this privacy policy with your parent. Also, you must obtain parental consent before playing our Apps.
+Color Games is committed to protecting the privacy of children who use our Apps. This privacy policy explains our information collection, disclosure, and parental consent practices concerning the information provided by children. Accordingly, this Privacy Policy aims to comply with the requirement of the U.S. Children's Online Privacy Protection Act ("COPPA"), the General Data Information Protection Regulation and(â€œGDPRâ€) and any other applicable laws. We reserve the right to amend this Privacy Policy.
+We may translate this Policy into other languages. If there is any difference between the English version and any other language version of this Agreement, (subject to applicable laws and regulations) the English version will prevail to the extent of the inconsistency.
+1. What information do we collect from you and how do we use it?
+In short, we collect information directly or passively and w. We wonâ€™t aim to minimize how much personal information we collect from users. require a child to disclose more information than is reasonably necessary.
+(a) Information we collect directly from you
+Type of information
+Why we use it
+Legal basis
+Email Address
+To create your account for the App as per your request
+With your consent
+IP Address
+Collects device's IP address, which may be used to estimate the general location of a device.
+With your consent
+User product interactions
+Collects user product interactions and interaction information, including app launch, taps, and video views.
+With your consent
+Diagnostic information
+Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+With your consent
+Device and Account identifiers
+Collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
+With your consent
+(b) Information we collect passively:
+We also collect certain information automatically through your use of our Apps. This type of data does not identify you personally but may uniquely identify the device you are using. Under some legislation, these data might be considered as personal information:
+Internet Protocol (IP) address;
+oBroad geographic location (e.g. country or city-level location) based on your IP address;
+oLog and usage data, such as game progress, game time, achievements, and error and crash reports;
+oDevice information, including the device type, device model, device maker, device operating system and its language or other technical data. We use these information to:
+allow you to connect to the server;
+operate, provide, maintain, protect, manage, customize our Apps and the way in which we offer them;
+enhance the experience with our Apps, detect fraud, security or technical issues in connection with the Apps.
+(c) Information collected by third parties:
+Please read Part 2(Advertising) and Part 3(a)(Authorized third parties) of the Privacy Policy carefully .
+2. How is my personal information used for advertising?
+(a)Ad Partner Technologies
+In order to allow us to continue offering out Apps free of charge or at low cost, we integrate Ad Partners' technologies into our Apps to display advertisements to you.
+(b) Do Ad Partners show Targeted Ads? How to Opt-Out of them?
+Some Ad Partners may collect device identifiers (i.e. IDFA on iOS) that may be used to enable advertising tracking and thus display targeted ads. By reviewing the permissions in Ad Partnersâ€™ technologies, we have effectively disabled their collection function by default. However, such technologies methods can not be fully guaranteed. In order to prevent Targeted Ads, we encourage you to disable our Apps from collecting this device identifier when prompted for an authorization notification or through the privacy settings on your phone system.
+(c) Ad Partners we use in this app:
+AdMob by Google (Google Inc.)
+AdMob is a mobile advertising platform which allows developers to monetize their app(s) by displaying in-app ads from other advertisers. AdMob allows to set TFUA (Tag for Users under the Age of Consent in Europe) on ad requests. All ad requests that include TFUA disables ads personalization for users under the age of consent and collection of data by third party partners. Admob uses Personal and Non-Personal Data only for internal purposes.
+Legal basis of processing:
+legitimate interests (support for internal operations).
+Place of processing: US
+Privacy Policy: https://policies.google.com/privacy?hl=en
+Address: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+Contact: https://support.google.com/policies/troubleshooter/7575787?visit_id=636888632405295138-51672301&hl=en&rd=2
+Firbase by Google (Google Inc.)
+Firebase is a mobile analytics platform which allows developers to analyse crash reporting and retention. Firebase uses Personal and Non-Personal Data only for internal purposes.
+Legal basis of processing:
+legitimate interests (support for internal operations).
+Place of processing: US
+Privacy Policy: https://policies.google.com/privacy?hl=en
+Address: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+Contact: https://firebase.google.com/support/troubleshooter/contact/
+AppLovin Corporation
+AppLovin is an advertising service provided by AppLovin Corporation, a Delaware corporation. AppLovin uses Personal and Non-Personal Data only for internal purposes.
+Legal basis of processing:
+legitimate interests (support for internal operations).
+Privacy Policy: https://www.applovin.com/terms/
+Address: 849 High St., Palo Alto, California, 94301, United States
+Contact: care@applovin.com
+Unity Analytics (Unity Technologies)
+Unity Analytics is a data platform that provides analytics. Unity Analytics uses Personal and Non-Personal Data only for internal purposes.
+Legal basis of processing:
+legitimate interests (support for internal operations).
+Privacy Policy: https://unity3d.com/legal/privacy-policy
+Address: 30 3rd Street, San Francisco, CA 94103, United States
+Contact: DPO@unity3d.com
+3.Do we share the information we collect?
+WeÂ do not sellÂ any of your personal information to any independent third parties. Situations where we willÂ discloseÂ orÂ allowÂ a third party to collect your information are:
+(a) Business transfers
+We may transfer our information bases containing personal information in the event of a merger, acquisition, reorganization, bankruptcy or other similar events. We will make an announcement in advance, disclose the details of the event and information about the successor, and with the express consent of you and/or your parent and/or guardian (if applicable) again.
+(b) Law enforcement-related disclosure
+We may be required to share information (including personal information) collected if the information is required by law to prevent, investigate, or take action regarding illegal activities, situations involving potential threats to physical safety, rights, property or of any person, suspected fraud and violations of our terms and agreements and in response to legal process, court orders, subpoenas, or to establish or exercise our legal rights.
+4.How do we protect and secure your information?
+We may take proper physical, technical and administrative measures based on the existing technologies to prevent the illegal copying, loss, misuse, unauthorized access, download, disclosure, and changes of your information security. These measures include, but are not limited to, SSL, encrypted storage, information center access control, and dedicated network channels and proxies.
+Unfortunately, the transmission of information via the internet is not completely secure. While we strive to protect your personal information, we would also remind you to be aware of hacking, cyber-attacks, and other risks on the Internet.
+5.
+At any time, parents can refuse to permit us to collect further personal information from their children and can request that we delete the personal information we have collected in connection with that account. Please keep in mind that a request to delete personal information may lead to the deletion of an account.
+Parents can request access to and delete their childrenâ€™s personal information by logging into the children's account.
+Parents can also contact us to request access to, change, or delete their child's personal information by sending an email to us at jinyi.ac@gmail.com.
+6.Your rights
+Data protection law is jurisdiction-specific and we seek to abide by all relevant applicable laws.
+(1) For EEA (European Economic Area) Residents, please read Part 6.2 (Your rights as an EEA resident) , Part 6.5 (EU&UK representative) and Part 7 (International Transfer) of the Privacy Policy carefully.
+(2) For California Resident, please read Part 6.3 (Your rights as a California Resident) of the Privacy Policy carefully.
+(3) For other residents, please read Part 6.1 (General rights), and other parts if applicable carefully.
+6.1. General rights
+Your rights are determined by the country in which you reside. Many counties have specific laws relating to privacy. We seek to abide by all relevant national laws.
+(1) Right to Know
+If you request in writing via email, we will provide you a copy of your personal information in an electronic format after passing our verification process.
+(2) Right to Rectify
+If we process your personal information, we shall endeavor to ensure by implementing suitable measures that your personal information is accurate and up-to-date for the purposes for which it was collected. If your personal information is inaccurate or incomplete, you have the right to obtain rectification of your inaccurate personal information without undue delay and you can modify the information you provided via email.
+(3) Right to Delete
+You have the right to delete your personal information by contacting us at jinyi.ac@gmail.com. You acknowledge and agree that as a result of deleting your Color Games account, you will lose access to our services, including the Color Games account, subscriptions and App-related information linked to such account and lose the possibility to access other services through the Color Games account.
+(4) Other Rights
+You may request any other rights as provided herein or regulated in the applicable laws from authorities (including but not limited to the GDPR and the CCPA) by sending an email at jinyi.ac@gmail.com. Upon receiving your request via email, we will promptly conduct a verification process including but not limited to instructing you to provide information to confirm that you are the user from whom we have collected information from.
+7. International transfer
+We store information on the server closest to the end user's location to provide a secure and fast service The locations of servers for the game services include:
+(1) the United States, in which the CCPA and the COPPA shall govern our services conducted as stipulated in this Privacy Policy;
+(2) Hong Kong; and
+(3) Germany(where EEA users' data is stored), in which the GDPR shall govern our services conducted as stipulated in this Privacy Policy.
+You acknowledge and agree that your data is processed on our servers or our processorsâ€™ servers which may not locate in your country of residence. We use European Commission-approved contract clauses or other appropriate safeguards that are defined in Art. 46 GDPR to protect your personal information.
+However, we will only keep your data for as long as your account is active or is only necessary to provide your services unless they are deleted in accordance with your request or in accordance with legal requirements and matter where the servers are located. We will make great efforts to take appropriate measures to guarantee your rights in conformity with this Privacy Policy.
+8.How long do we keep information about you?
+We will only store your information as long as necessary to fulfill the purposes for which the information is collected and processed. Upon the expiration of such period, your personal data will be deleted or anonymized, as requested by applicable law.
+9. Contact us with your questions
+If you have any questions about this Privacy Policy or have any requests for resolving issues regarding your personal information while using our services, please contact us as soon as possible by emailing us at jinyi.ac@gmail.com.
+10. Will there be changes to this policy?
+We may occasionally update this Privacy Policy. When we do, we will indicate the date that this Privacy Policy was last updated. Any changes we make will be effective immediately upon notice. The updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we protect your information.

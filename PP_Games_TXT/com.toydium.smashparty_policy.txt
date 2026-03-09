@@ -1,0 +1,81 @@
+Toydium Inc.
+Creating fun
+Privacy Policy
+日本語
+│
+English
+Toydium Inc. (hereinafter the “Company”) provides for the following privacy policy (hereinafter the “Policy”) regarding the handling of user information (including user personal information, as defined below. Hereinafter, “User Information”) for every kind of service provided by the Company (hereinafter “Services”) and will take all possible measures to protect the information.
+Article 1. User Information to be Collected and Purpose of Collection
+The Company will use collected User Information for the following purposes of utilization or to the extent necessary for the achievement of the purposes of utilization. Should it need to change a purpose of utilization, the Company will notify users or announce it. The Company will legitimately collect User Information and will never collect it by fraudulent or otherwise illegal means.
+(1) Information Collected by User Input
+When using the Services, users may be asked to voluntarily enter and provide the User Information described below to the Company. User Information provided will be used for the following purposes of utilization.
+(A) Information Collected: Age information
+Information Details: User date of birth
+Purpose of Utilization: To set the maximum purchase limit based on the user’s age, and   to respond to inquiries
+(B) Information Collected: Information related to inquiries
+Information Details: Information entered in various inquiry forms
+Purpose of Utilization: To respond to inquiries and improve the Services and the Apps
+(2) Information Collected through Linked External Services
+When using the Services, if users give their permission for external services such as social networking sites to be linked, users may be asked to provide the following User Information described below from linked external services to the Company, based on the content the user agreed to at the time permission was granted. User Information provided will be used for the following purposes of utilization.
+(A) Information Collected: User IDs from linked external services
+Purpose of Utilization: To save and transfer play data
+(B) Information Collected: Information the user has authorized to be provided through the
+privacy settings of the external linked service
+Purpose of Utilization: To link with external services
+(3) Information Automatically Collected
+When using the Services, the following User Information will be automatically collected via the Apps and used for the following purposes of utilization.
+(A) Information Collected: Device information
+Information Details: UUID, MAC address, OS version, device model name, cookies, ADID, IDFA
+Purpose of Utilization: To identify users when providing the Services, to distribute and display advertisements suited to the user, to measure the effectiveness of advertisements, and to respond to inquiries
+(B) Information Collected: IP address
+Information Details: IP address
+Purpose of Utilization: To survey usage trends, to investigate problems, and to respond to inquiries
+(C) Information Collected: Purchase information
+Information Details: Information relating to the purchase of in-app currency and other app content
+Purpose of Utilization: To survey usage trends, and to respond to inquiries
+(4) Information Collected with the Consent of the User when using the Services
+When using the Services, the following User Information will be automatically collected via the Apps with the consent of the user and used for the following purposes of utilization.
+(A) Information Collected: Location information
+Information Details: Device location information
+Purpose of Utilization: To distribute and display advertisements suited to the user, and to measure the effectiveness of advertisements
+Article 2. External Data Transmission
+The User Information collected by the Company in accordance with Article 1 shall be transferred to the Company’s servers and used to the extent necessary for the achievement of the purposes of utilization.
+Article 3. Third Party Provision, Entrustment and Joint Use of Collected Personal Information
+1. Unless it is permitted under the Personal Information Protection Act or other laws and regulations, the Company will not provide any third party with any email addresses, social network accounts, or any other information that may identify a specific individual (including information that may not identify a specific individual by itself, but may be easily collated with other information and will thereby enable identification of a specific individual), or information containing an individual identification code as defined in Article 2, Paragraph 2 of the Personal Information Protection Act that it has collected from a user (hereinafter, collectively, “Personal Information”) without the consent of that user.
+2. To the extent necessary for the achievement of the purposes of utilization, the Company may entrust all or part of the handling of Personal Information to an outsourcee. In this case, the Company will sufficiently examine the competence of the outsourcee as an operator of the outsourced business, and will, in making a contract, check relevant matters, including concerning confidentiality obligations, and will develop a system for adequate management of the information.
+3. If in providing Services to users in the future, the Company requires another company to conduct operations (hereinafter the “Cooperating Company”), the Company may use Personal Information jointly with the Cooperating Company. In such cases, prior to joint use, the Company will announce the types of personal user data to be used jointly, identification of the parties that will use the personal user data jointly, the purpose of utilization for the personal user data to be shared, and the name or title of the person responsible for management of the personal user data.
+Article 4. Disclosure, Correction and Discontinuation of Use of Personal Information
+1. If disclosure of Personal Information is requested by the user concerned under the Personal Information Protection Act, the Company will, to the extent that the Company is obliged to disclose it under the same Act, disclose the information without delay after having confirmed that it is a request made by the user concerned. When disclosing Personal Information, the Company may charge a disclosure fee in accordance with a procedure separately provided for by the Company.
+2. When a user requests under the Personal Information Protection Act, correction, addition, or deletion (“Personal Information Correction”) to his/her Personal Information as the Personal Information is not accurate, or discontinuation of use or deletion (“Suspension of Personal Information Usage”) of his/her Personal Information as it is used beyond the purposes of utilization announced in advance, or it is collected by any fraudulent or otherwise illegal means, the Company will make necessary examination without delay after having confirmed that it is a request made by the user concerned, and will, based on the results of the examination, carry out the Personal Information Correction or Suspension of Personal Information Usage it and give the user notice to such effect.
+3. When a user requests deletion of his/her Personal Information, the Company will, only if the Company finds that it needs to accept the request, delete the Personal Information without delay after having confirmed that it is a request made by the user concerned and will give the user notice to such effect.
+4. A user who makes a request under the preceding paragraphs shall provide the Company with the information in items (1) and (2) below, and make available the information and materials designated by the Company in item (3) below.
+Name, address, telephone number and e-mail address;
+Contents of the request, circumstances, and supporting materials; and
+Materials for identity verification (a copy of the user’s ID)
+5. A request under paragraphs 1 and 2 may be unable to be accepted, in any of the following cases.
+In this case, the Company will give the user notice to such effect and explain the reason.
+If it is likely to harm the life, body, property, or other rights or interests of the user or a third party.
+If it is likely to significantly impede adequate implementation of the business of the Company
+If it violates laws and regulations
+If the Company cannot confirm that it is a request made by the user concerned
+Article 5. Link
+While a company other than the Company may collect Personal Information on its website to which the website of the Company is linked, this Privacy Policy, however, does not apply to it, and the Company will not undertake any obligations or responsibilities whatsoever regarding the handling of Personal Information by any company other than the Company.
+Article 6. Cookies and Behavioral Targeting Advertising
+The Company may collect, by using cookies, attribute information, device information, and history of a user’s actions in Services (accessed URL, content, access sequence, period of stay, etc.) that may not identify a specific individual, to improve or expand Services; to create statistical data about the use of Services; to plan or draw up a plan for a new Service or implement it; to distribute or display advertising of the Company or a third party; or to be used for marketing. Services hereunder use a service for behavioral targeting advertising to distribute appropriate advertising of the Company or a third party. Any user who does not wish display of behavioral targeting advertising will access the opt-out page below and follow the procedure:
+Google
+Apple
+Article 7 Point of Contact for Inquiries
+For any inquiries about the handling of User Information in relation to the Services, and requests under Article 4, please contact the inquiry center below:
+Toydium Inc. Inquiry Center
+101-0021
+5F Assorti Seuhirocho, 5-2-3 Sotokanda, Chiyoda-ku, Tokyo
+Email: support@toydium.co.jp
+The Company will provide answers to inquiries, as a rule, by e-mail only. Unless otherwise provided for in the Personal Information Protection Act or other relevant laws and regulations, the Company will not be obliged to answer any inquiries.
+Article 8 Revision
+Whenever needed, the Company may revise this Policy. When revising this Policy, the Company will promptly announce the date and contents of the revision in our website.
+Established on October 1, 2019
+Revised on June 1, 2021
+Privacy policy
+│
+App Terms of Service
+© 2021  Toydium Inc.

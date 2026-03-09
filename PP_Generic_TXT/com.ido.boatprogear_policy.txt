@@ -1,0 +1,205 @@
+Privacy Policy
+Privacy Policy
+Respected users:
+boAt ProGear Terminals (hereinafter referred to as "boAt ProGear" "we" and "our") know the
+      importance of privacy and will do their utmost to protect your privacyPlease read, understand and agree to this
+      Privacy Policy (hereinafter referred to as "this policy") before submitting personal or privacy data to our
+      product boAt ProGear.
+Our policy is designed to help you understand the following:
+1. How will we use your personal data
+2. How will we use cookies and similar technologies
+3. How will we disclose your personal data
+4. How to access or modify your personal data
+5. How will we protect your personal data
+6. How do we deal with children's personal data
+7. Our third party suppliers and their services
+8. How your personal data is transferred around the world
+9. How this policy is updated
+10. How to Contact us
+Please note that this policy applies only to boAt ProGear consumer electronics products,
+      including data cards, computer applications, tools, software, Web sites, and services that show or refer to this
+      policy. This policy describes how boAt ProGear handles your personal and privacy data and affirms boAt ProGear's
+      commitment to protecting privacy.
+This policy describes how boAt ProGear handles your personal and privacy data and affirms boAt
+      ProGear's commitment to protecting privacy.It is recommended that you read this policy to fully understand the
+      privacy policy of boAt ProGear specific products or services.
+1. How will we use your personal data
+Personal data refers to information that can be used to determine an individual's identity when
+      used alone or in combination with other information. Such data is collected when you use a boAt ProGear product or
+      service, including name, date of birth, address, account number, photo, and location and date of access to the
+      product or service. boAt ProGear will only collect and use your personal data for the purposes stated in this
+      policy.
+The following examples illustrate the personal data that we may collect and how we can use such
+      data:
+1.1 Personal Data We collect
+About your information: we may collect and use account number, Avatar, nickname, sex, time
+      zone, language and locale data.
+Personal information: After starting boAt ProGear, we need you to provide data on birthdays,
+      height, weight, sex.
+Device Record Data: When you use boAt ProGear Sync device data, we record personal data,
+      including but not limited to activity information, sleep, heart rate, weight, Call Information: When you use the
+      caller, SMS prompt function, you will get calls, SMS status. If you have permission to obtain contact information,
+      it will be displayed when the appliance receives incoming calls and SMS.
+However, your contacts and other related data are not stored.
+Mobile Information: When you use boAt ProGear, we need to obtain your mobile phone operating
+      system version and mobile phone brand model.
+Network usage data: We may collect network types, network signals, etc. related to boAt ProGear
+      specific functions.
+Location data: When you use location-based program services or features, we may collect your
+      location data.
+Log information: When you browse the boAt ProGear server, our server automatically records a
+      number of record data, including but not limited to: IP address, browser type, browser language, reference source
+      page, operating system, timestamp, and click Stream data. Device information: When you connect a hardware device
+      using boAt ProGear, including but not limited to the unique identifier of the appliance, the version and the
+      approximate geographic location of data (not personal data) will be transferred to the server.
+      The above data collection may also apply to your update system or software, restore the original settings, and so
+      on.
+Debug information: When you choose to upload debugging information to help us analyze the
+      problem, your debugging information will be transferred to the server.
+Android IDï¼šIf you use the Android system and use the app in the guest state,we will obtain your
+      Android ID through the public API of the Android system,which will be used as a unique identifier for your use of
+      the app.If the app is in the background,it will also be read when it needs to get the Android ID.
+How we use personal data The collection of personal data is intended to provide you with
+      services and/or products, and we are also subject to the applicable laws and regulations.
+You hereby agree that the company deals with and discloses personal data to affiliates
+      (communications, social media, technology and cloud business), third party service providers (hereinafter defined)
+      for the purposes set out in this privacy policy.
+We may use your personal data for the following purposes:
+More details on how we can use your data, including your personal data, are available here.
+      Registered app account: Personal data collected via app will be used to create personal accounts and user data
+      pages.
+Calculated motion results: We use personal body data to accurately calculate motion results.
+Provides boAt ProGear services: The appliance data will show the user the data associated with
+      it.
+Display caller information: When you receive a call, text message, the device will display the
+      caller's data.
+Determine if your phone is supported: Mobile information will be used to determine whether your
+      phone can use boAt ProGear. Provide network related services.
+We will use the network type, the network signal and so on prompts the user to download the
+      updated version in the different network environment. Provides location-based services. The location data is used
+      to record the position in the move during the use of boAt ProGear.
+For example, when you record running tracking information through the boAt ProGear running
+      function, use location-based advertising, use location to optimize weather features, or request map information,
+      and your location information is sent back to boAt ProGear so boAt ProGear can provide you with accurate content.
+      Optimization Service: We use record data to improve service quality.
+Provides device management: This type of data provides for the management of bundled devices.
+Improve software Stability: Collect fault records for analysis of software quality to provide
+      better service.
+1.2 How we will use your personal data
+We will use your personal data for the following purposes:
+(a) Make changes at your request and provide technical support.
+(b) Send you notifications of operating system or application updates and installations.
+(c) to provide you with personalized user experience and personalized content, and activate after-sales
+        service.
+(d) Conducting internal audits, data analysis and research to improve our products and services.
+(e) Analysis of operational efficiency and measurement of market share.
+(f) Improve customer communications and ensure that customers are provided with safe and quality services.
+(g) Troubleshoot errors if you choose to send us error details.
+(h) Synchronize, share, and store the data that you upload or download, as well as the data needed to perform
+        uploads and downloads.
+(i) To improve our protection against damage and anti-fraud programmes.
+1.3 location-based Services
+When accessing some location-based services, such as performing a search, using navigation
+      software, or viewing weather at a particular location, We collect, use, and process the exact location or location
+      of your equipment.We need these location information to provide Stated service.We will collect your equipment
+      identification code (IMEI, ESN, MEID and SN), device type, model and real-time Location data (obtained via GPS,
+      WLAN, and service provider network IDs).We collect location data for the purpose ofTo provide and improve
+      location-based products and services. We will ask you which applications you want to enable location-based
+      services for. You can choose to turn off location-based services on your device and deny sharing your location
+      data.For more information on how to disable location-based services, please contact your network operator.
+1.4 Collection and use of non-identifiable data Non-identifiable data refers to data that cannot
+      be used to determine personal identity. For example, we collect aggregated statistics, such as the amount of
+      traffic. We collect this data to understand how users use their products and services. In this way, we can improve
+      our services to better meet customer needs.
+We may decide to collect, use, process, transfer or disclose the unrecognized data for other
+      purposes.
+2. How will we use cookies and similar technologies
+2.1 Cookies To ensure that the site works, we sometimes store small data files called cookies
+      on mobile devices. A Cookie is a plain text file that a network server stores on a computer or on a mobile device.
+      The contents of a Cookie can only be retrieved or read by the server that created it. Each Cookie is unique to
+      your mobile application. Cookies usually contain identifiers, site names, and some numbers and characters.
+Cookies allow us to store user preference data. Most Internet service providers enable cookies
+      to improve the user experience. With cookies, you can remember a user's single access (using a session cookie) or
+      multiple accesses (using a permanent cookie). Cookies enable you to save settings such as the language, personal
+      data, and other data for your mobile device. This means that users do not need to reconfigure user preferences on
+      each visit. If a mobile device does not use cookies, the mobile device treats it as a new visitor every time the
+      user opens the device.
+For example, if you are logged on to a mobile device, the device will not recognize you when
+      you log on again, and you will be logged off again.
+We do not use cookies for any purpose other than those stated in this policy.
+3. How will we disclose your personal data We will not sell your personal data to third parties.
+However, we will disclose your personal data in the following circumstances:
+3.1 with the explicit consent of the disclosure: we have your express consent, we will share
+      your personal data with other parties. 3.2 Disclosure to authorized partners (hereinafter referred to as "our
+      partners"): Some of our services are provided by our partners. We may share some of your personal data with our
+      partners to provide a better customer service and user experience. For example, when you are online to purchase
+      our products, we must share your personal data with the logistics service provider to arrange delivery, or arrange
+      for the partner to provide services. We will only process your personal data for specific, clear and lawful
+      purposes and will only disclose the data necessary to provide the service.
+Our partners do not have the right to use shared personal data for any other purpose. 3.3
+      Disclosure on the basis of law or reasonableness: we may disclose your personal data in the event of legal, legal,
+      litigation or public and government authorities ' request. In some jurisdictions, if we are involved in
+      reorganization, merger or bankruptcy and clean-up proceedings, your personal data will also be disclosed to the
+      counterparty.
+We also disclose your data in the presence of reasonable requirements, such as the terms and
+      conditions of implementation and the purpose of protecting the customer.
+4 How to access or modify your personal data According to our terms and conditions, you can
+      manage your personal data at any time, such as your account information. You should ensure that all personal data
+      submitted is accurate.
+We will do our best to maintain the accuracy and integrity of our personal data and update the
+      data in a timely manner. You have the right to access your personal data, except for certain legal exceptions. If
+      the privacy and information laws of some jurisdictions are different, we will comply with these laws. If you want
+      to exercise data access, please email us with feedback.
+To ensure security, you may need to provide a written request. You also have the right to
+      delete or modify any personal information that we have in our custody regarding you. We will delete or modify such
+      information at your request. To make such a request, please send us an email feedback.
+If we have reasonable grounds to believe that these requests are deceptive, impossible to
+      enforce, or if the local law does not provide access, we will refuse to process the request.
+5 How we will protect your personal data
+We value personal data security. We adopt industry standard practices to protect your personal
+      data against unauthorized access, disclosure, use, modification, damage, or loss of data. We will take all
+      reasonable and feasible measures to protect your personal data. For example, we use encryption to ensure data
+      confidentiality, we use trusted protection to protect against malicious data, and we deploy access control
+      mechanisms to ensure that only authorized personnel have access to personal data, and that we organise security
+      and privacy protection training courses,Enhance employee awareness of the importance of protecting personal data.
+We will take all reasonable and practicable measures to ensure that unrelated personal data are
+      not collected.
+We will only retain your personal data within the time frame required to achieve the purpose
+      stated in this policy, unless the retention period is extended or permitted by law.We will do our best to protect
+      your personal data, but please note that no security measures are invulnerable.
+6 How we deal with children's personal data
+Our products, and services are mainly for adults.A child may not create his or her own user
+      account without the consent of the parent or guardian. In cases where a child's personal data is collected with
+      parental consent, we will use or disclose the data only if the law allows, parents or guardians expressly agree or
+      protect the child.Although local laws and customs have different definitions of children, we treat anyone under
+      the age of 13 as a child.
+If we find ourselves collecting the child's personal data without prior verifiable parental
+      consent, we will try to delete the relevant data as soon as possible.
+7 third party suppliers and their services
+We cannot control third party privacy and data protection policies, and such third parties are
+      not bound by this policy.Please refer to these third party privacy policies before submitting personal information
+      to third parties.
+8 How your personal data is transferred globally
+We deliver our products and services through our global resources and servers. This means that
+      your personal data may be transferred to other jurisdictions outside the country/region where you use the product
+      or service, or access from those jurisdictions. Such jurisdictions may have different data protection laws or even
+      laws.In such cases, we ensure that your data is adequately protected by all applicable legal and regulatory
+      requirements.
+9 European representative information
+The name of the companyï¼šDEAEON GmbH
+addressï¼šFrankenstrasse 29ï¼Œ20097 Hamburg
+The contactï¼š Yu Wang
+Contact phone numberï¼š+49ï¼ˆ0ï¼‰40 63739686
+emailï¼šinfo@derudolph.de
+10 How this policy is updated
+We reserve the right to update or modify this policy from time to times.We will send you a
+      change notification through a version update.
+11 How to contact us
+If you have any questions, comments or suggestions, please send the boAt ProGear user Feedback
+      module via email just to us. Important NOTE: In view of local legal and linguistic differences, the local language
+      version of the boAt ProGear privacy policy may be different from this version.
+Important NOTE: In view of local legal and linguistic differences, the local language version
+      of the boAt ProGear privacy policy may be different from this version.If there is any discrepancy, please refer to
+      the local language version.
+Last update: May 2018.
+All rights reserved by boAt ProGear terminals.

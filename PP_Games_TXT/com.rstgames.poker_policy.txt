@@ -1,0 +1,99 @@
+Privacy policy
+Privacy policy
+The "Poker Online" app requests access to the camera and the gallery.
+Itâ€™s necessary to have an opportunity to use the Images as your avatar and send in chats to your friends.
+User avatar is a public Image, available for everybody.
+Images are stored on the Servers of the Owner.
+The owner have the right to remove Images from the Server at any time without explanation.
+The "Poker Online" app requests access to your Google account.
+It is necessary for registration, authorization and synchronization of your account data.
+The app uses Name and profile Picture from Google account as a nickname and avatar by default, with the option to change them at any time.
+The IDs of the Google accounts stored on the app Owner servers and not passed on to third parties.
+The app does not publish the ID of the Google Account.
+User agreement.
+1. Terms and definitions
+1.1. Owner - LLC "Magic Board".
+1.2. Client â€“ an application designed for downloading a game service at User`s device.
+1.3. Server â€“ a computer available online to maintain the game, linking and connection between the Clients.
+1.4. Content â€“ any Game information received by User while using the Client. Includes account stats, counters, top lists, text messages and chats, pictures, sounds.
+1.5. Distributor â€“ an organization, which distributes Client digitally and has services for buying Client in Game and for communication between Server and Clients.
+1.6. Game â€“ the whole of Clients of different platforms, Server, Content and other options and services for non-commercial using by User.
+1.7. User â€“ anyone registered as a Player and agreed this User agreement.
+1.8. Administrator â€“ a person authorized by Owner to control and manage the Server unless otherwise stated.
+1.9. Rules â€“ a set of terms, conditions and procedures for Users for Playing the Game. Rules are available at Â«RulesÂ» section in Main menu.
+1.10. Data â€“ all the information set by Users upon authorization of stakeholders.
+2. General conditions
+2.1. User guarantees that he has not any legislative limitations on using on-line services and he has all requisite powers for making this
+  agreement or received permission from parents or guardians as required by law.
+2.2. This Agreement with Rules hereinafter called â€œAgreementâ€. The Annexes to this Agreement constitute an integral part of the Agreement and are
+  mandatory for both Parts of Agreement.
+2.3. This Agreement may be changed or updated by Owner at any time by setting its new version or edits. Notification about changes in the Agreement is set at "News" page.
+  Continuation of using the Service means that User agrees the changes. In case of non-acceptance the changes the User stops using the Service by himself (by remove application from device).
+2.4. Game is available as it is. There are no guarantees that the Game and its options and services will operate continuously,
+  correctly and satisfy User`s requirements and expectations. The Owner, Administration and theirs representatives are not responsible for
+  any damage or harm while using the Game.
+2.5. The User agrees all the conditions of this Agreement and assures to fulfill them by Register in the Game.
+  Registration is to fill the user name and press the button â€œComplete the Registrationâ€ with a startup interface.
+2.6. The game is not a game of chance for money. Ratings and counters can not be exchanged for cash.
+2.7. Selling scores, ratings and other attributes are permitted, deliberately playing through exploits, errors (bugs) of Clent or Server, or in any other way. All content that an administrator or moderator deems not obtained according to the rules of the game, can be removed.
+2.8. Paid services (in-app) are available only to the user who paid for it, and only on the user account in the application active at the moment.
+2.9. Values â€‹â€‹of counters (including in-app leaderboard) belong to the Owner. Owner reserves the right to dispose of these counters on your own. Ownership of the counters player is not available.
+2.10. Credits and coins are not payment account or payment instrument.
+2.11. In-app purchase is consumable function that increases the number of coins from the user. Spending coins by any method is not paying functions.
+2.12. All User Content, including assets, coins, credits, rating, achievements and other data, stored on the Game Server.
+  To gain access to this content authentication is required, produced with a special unique id - Authorization Token stored on the device.
+  In case of loss Token authorization because the device is reset to factory settings, reinstall the firmware, operating system, or other method,
+  the user creates a new account and a new Authorization Token, and access to data according to the old account is lost.
+  To maintain access to user data the user can take advantage of advance external storage for Authentication Token (for example, iCloud).
+3. Rights and duties of Administration.
+3.1. Administration can block User`s access wholly or partially, look through, delete or change User`s Content or Data and refuse providing
+  Game services without prior notice. Administration is not responsible for any harm or damage of these actions.
+3.2. Administration reserves the right to block Game access wholly or partially on technical, operational, preventative or other reasons with
+  or without prior notice.
+3.3. Content is an ownership of the Owner. The User can access to Content only while playing the Game.
+4. Rights and duties of User.
+4.1. User agrees to be bound by terms of this agreement and be aware of its updating.
+4.2. In case of non-acceptance User must stop using the Game and uninstall the application.
+4.3. User agrees not to examine the code, not to decompile and not to disassemble the Client, not to modify it,
+  not to connect with Server using unauthorized software, not to examine and publish networking protocol,
+  not to attack the Server and not to take actions, which can damage successful project running.
+4.4. User can take actions according to the Rules, exchange messages with other Users and report about unsatisfactory by theirs opinion
+  user name or user pic.
+4.5. User agrees not to use images or text contained objectionable information, threatening, blackmail, obscene words, elements of ethnics and racism,
+  violence proclivity, commercial offers and advertising and any other lawless information.
+4.6. User agrees not to send spam.
+4.7. User agrees not to use automatic hard and software (bots) for getting advantage.
+4.8. User can resort to support service if a fault or a dispute is detected. To do this User must click on e-mail address on Rules page or
+  mail to this address using any other mail client.
+4.9. User agrees game rules.
+4.10. Deliberately losing and playing by prior agreement is not permitted, including for a fee.
+4.11. Forbidden gifts of coins on a reimbursable basis.
+4.12. Reverse engineering, abusing bugs, using and making bots, using emulators are prohibited. Abusing accounts may be blocked or counters may be desreased.
+5. Exclusive rights.
+5.1. Exclusive rights on intellectual properties are ownership of the Owner. All right reserved.
+5.2. Authors` rights of User Content are the ownership of its User or legal holder.
+5.3. Exclusive rights of using images or other Data that are intellectual properties   are passed to the Owner once the User publish them at the Game.
+  The Owner do not have to pay author`s or any other consideration to the User.
+  The User is obliged to guarantee the legal pass of exclusive rights of Data that was published by this User but resided to other person.
+  Exclusive rights are included the right to use Data by any method in any country, to make them public, to distribute, to modify,
+  to adapt or revise them as well without mention the author`s name.
+5.4. Administration allows User to use other Users` Data only by looking through it non commercially, except cases when it can harm Holder`s rights.
+5.5. It is strictly forbidden to use exclusive rights` objects wholly or partially without holder`s written permission.
+5.6. All rights, which are not obviously mentioned in this Agreement, are the ownership of the Owner.
+6. Liability of the parties.
+6.1. User is personally liable for all Data and all information he publish or report in the Game.
+6.2. User is liable to Administration and third parties for nonobservance of the Terms of this Agreement.
+6.3. User must pay the damages for Administration and third parties if his actions ended with this damage including but not limited to infringement
+  of authors, exclusive of other rights by this Agreement.
+6.4. Administration is not responsible for quality and speed of User`s Internet access. In case of technical problems,
+  User should contact his provider.
+6.5. Administration is not responsible for any Users` behavior.
+7. Concluding provisions.
+7.1. This Agreement is a contract between the Owner represented by Administration and the User.
+  The object of a contract is the conditions of User`s participation in the Game,
+  his usage of free Game options and service and his opportunity to use paid options as well.
+  This Agreement becomes valid since the User agrees it and extends for indefinite duration.
+7.2. This Agreement is regulated and interpreted according to the Law of User`s country and terms and conditions of Distributors Agreement.
+  User is responsible for enforcement of local laws and distributor`s agreements if they are acceptable and to the extent necessary.
+  In case if any part of this Agreement turns out to be invalid on any reason it should be considered to be separated from this
+  Agreement and there will not be any sequences to present Agreement.

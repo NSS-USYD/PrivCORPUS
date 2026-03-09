@@ -1,0 +1,13 @@
+п»ї
+Privacy police
+РљРѕРЅС„РёРґРµРЅС†РёР°Р»СЊРЅРѕСЃС‚СЊ
+РџСЂРѕРіСЂР°РјРјР° "AlReader" РЅРµ РёСЃРїРѕР»СЊР·СѓРµС‚ РєР°РєРёС…-Р»РёР±Рѕ Р»РёС‡РЅС‹С… РґР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.
+Р Р°Р·СЂРµС€РµРЅРёРµ РґРѕСЃС‚СѓРїР° Рє РґР°РЅРЅС‹Рј С‚РµР»РµС„РѕРЅР° (android.permission.READ_PHONE_STATE) РЅРµРѕР±С…РѕРґРёРјРѕ 
+РґР»СЏ РѕР±РµСЃРїРµС‡РµРЅРёСЏ РѕСЃС‚Р°РЅРѕРІРєРё TTS РІРѕ РІСЂРµРјСЏ РІС…РѕРґСЏС‰РµРіРѕ РёР»Рё РёСЃС…РѕРґСЏС‰РµРіРѕ Р·РІРѕРЅРєР°.
+РќРѕРјРµСЂР° С‚РµР»РµС„РѕРЅРѕРІ Рё РїСЂРѕС‡РёРµ РґР°РЅРЅС‹Рµ РїСЂРѕРіСЂР°РјРјРѕР№ РЅРµ Р°РЅР°Р»РёР·РёСЂСѓСЋС‚СЃСЏ, РЅРµ СЃРѕС…СЂР°РЅСЏСЋС‚СЃСЏ Рё 
+РЅРµ РёСЃРїРѕР»СЊР·СѓСЋС‚СЃСЏ.
+~~~
+Statement of customer privacy.
+The AlReader application does not use any private data of the customer.
+The permission to access the phone state (android.permission.READ_PHONE_STATE) is solely requested to provide ability to stop TTS on an incoming call.
+Any phone numbers or other data are not analyzed, saved or otherwise used by the application.

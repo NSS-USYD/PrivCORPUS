@@ -1,0 +1,129 @@
+TERMS OF USE and DATA PROTECTION REGULATIONS
+TERMS OF USE and DATA PROTECTION REGULATIONS
+The FITAPP app (hereafter refered to as app), as installed on this device has been developed and is operated by FITAPP GmbH, Gadollaokatz 1, 8010 Graz, Austria (hereafter referred to as FITAPP).
+Contact Details
+FITAPP GmbH
+Gadollaplatz 1
+8010 Graz
+AUSTRIA
+Web:
+www.fitapp.info
+Email:
+support@fitapp.info
+1. Scope of Service
+FITAPP provides its users with an app which the user can utilise to capture, save and share their performance and activity information. FITAPP reserves the right to amend, extend, delete or erase any services offered without prior notice nor reason given.
+2. Changes to the terms of use and data protection regulations
+FITAPP has the right to make alterations to the terms of use as set out within this document in order to correspond to any technical or economic influences which affect the app. The user will be informed of all changes and notification of when those changes take effect. The altered terms of use become valid if the user does not withdraw consent within six weeks prior to the changes taking effect by cancelling their contract in the appropriate app store. FITAPP will ensure that any notification of change makes express mention of this notice period and of the legal consequences of any steps taken.
+3. Subscription
+In order to make full use of all that FITAPP offers, a user must effectively sign a contract with FITAPP (â€˜FITAPP Premiumâ€™). The parameters of this contract are specified through the terms of use of the app store where the app is purchased. A contract can only be cancelled via the app store where the app was purchased.
+4. Liability
+FITAPP is not able to accept liability for any damages which occur as a result of using the app. FITAPP accepts no liability for performance, results or the availability of the app, not for functionality or lack thereof.
+Any claims against FITAPP would only be permissible in case of gross and wilful negligence, though this is not applicable in the case of personal damage. FITAPP accept no liability for any loss of data or damage to the user device or data stored on it.
+5. Device Authorisations
+The app only uses APIs (application programming interfaces) as dictated by the operating system of the device. When installing FITAPP, the user will be notified of any authorisations required by the app. The user is able to see and to amend access rights and therefore data capture via the settings on the device used.
+6. Access to Location Information
+In order for the app to function to its full potential, the app requires access to GPS and to be able to capture and process location information (such as sending data relating to distance travelled).
+7. Internet Connection
+The app requires internet access in order to access data which it then provides for the user. Data is processed and prepared by FITAPP itself.
+The app only supplies information in a manner in accordance with the Data Protection Act.
+8. Data Protection Regulations
+The app and the website save and process data solely in accordance with legal specifications as set out in the GDPR (in Austria, the DSGVO, DSG 2018, TKG 2003).
+Basics
+We are responsible for processing any data ourselves here at FITAPP GmbH, Mail:
+office@fitapp.info
+, for further contact details please see above.
+Â
+Our data protection officer is Marlene Wohlmuth, MA, Mail:
+office@fitapp.info
+We take the protection of your personal data seriously. This document provides further information about how we use and process your data.
+The following data is used by FITAPP:
+Contact Details
+When you send us an email or use the feedback function in the app to take up contact with us, we will use your data in order to respond to your request and for cases when further communication is necessary, we will retain your data for a maximum of 6 months. The legal purpose of us retaining this information is in order to respond to your request. We will never pass this information on without your permission.
+User Data
+FITAPP stores the data provided by the user, i.e. the data provided as a result of using the app (such as email address, social media ID from Facebook or Google, first name, surname, creation date, date user was last active, height, weight, desired weight, date of birth, gender, language, country) as well as technical data such as the IP address, app version, language version and operating system information. The user data is solely used in order to administer the user account and to carry out that required by the contractual relationship. Examples of this include:
+- to enable FITAPP users to interact and to release content,
+- to send messages to inform users about new functionality available on the platform,
+- to improve the services offered, especially to optimise advertising and content which the user can access on the site,
+- to match the services to the user preferences, to test the efficacy of the network and FITAPP services and to develop new tools for users, as well as
+- to prevent misuse of services and to pursue any unauthorised access.
+Delete User Data & Revoke Terms of Use
+To delete all collected user data and your user profile navigate to the settings (Gear Icon). Click on â€˜App Settingsâ€™ and select your connected account. Click on â€˜Revoke Terms of Userâ€™. This action will permanently delete all your data and cannot be restored.
+Activity Data
+FITAPP stores the following activity data: date, time, duration, duration of breaks, calories used, heart rate, GPS coordinates (latitude, longitude, time stamp, speed, altitude), average speed, maximum speed, number of paces, notes, emoticons, altitude, country and town. This data is retained until the user deletes his/her account.
+The collected personal data is necessary for us to be able to carry out our contractual obligations to the user and to provide customer service. Moreover, we use data for marketing purposes, i.e. to show interest-based content. Most user data and activity data is necessary for us to provide our services. If a user does not wish to provide this data, we are not able to provide the service we can offer, or only to a reduced extent. The legal basis for us to use user and activity data is in order to fulfil our contractual obligations to you, to be able to optimise the services we offer and your consent to volunteer your data.
+We process your user and activity data, as far as is necessary, for the duration of our business relationship and additionally the length of time as required by the legal obligation towards the safekeeping of documents as specified in, amongst others, the Austrian Commercial Code and the Austrian Fiscal Code. Data is also retained as long as may be required in the event of a legal dispute, or any guarantee or warranty time limits. User data remains stored at FITAPP until an account is deleted.
+Ranking Lists
+FITAPP releases user names and the corresponding profile photograph along with ranking on the FITAPP ranking list. Should you prefer not to be known by your real name or to have your real photograph in the FITAPP community, please choose a nickname and a profile picture which is not a photograph of you (please note that you may not use someone elseâ€™s photograph).
+User Searches
+The user name and profile picture of each user will be available in the FITAPP search list to enable other FITAPP users to find you.
+Content Sharing
+FITAPP only shares personal data and related content to third parties if the user actively chooses to â€˜shareâ€™ this data with other users within the FITAPP community. In addition to this, FITAPP will only otherwise share data in individual cases if a legal requirement or if the courts or authorities deem it necessary.
+Server Logs
+It is not necessary to provide any personal data in order to use the website fitapp.info. Our webserver does however store any data which your web browser shares with us (including web pages or data looked at, date, time, internet browser used, the page which sent you to our site (referral page), screen resolution and operating system). We use this data in order to ascertain if there are any errors and to improve the service we provide. This data is stored for a maximum of one year. The data itself cannot be traced back to the user.
+App Logs
+When you install and open our app, the webserver stores the following information: IP, device ID, OS and time the server request was sent. We use this data to find any errors and thus to improve the service we provide.
+Server logs and app logs are used to safeguard our legitimate interests in providing technically optimal service and safety for the app.
+Contract Processor
+In order to provide its services, FITAPP uses some third party contractors (â€˜contract processorsâ€™). The agreements in place between these companies and FITAPP ensure the data processed is used solely to fulfil FITAPP mandates and in accordance with data protection law.
+Cookies
+The fitapp.info website uses Cookies. These are small amounts of text data which are stored via your browser onto your device. They do not cause any harm.
+We use cookies to make our service more user-friendly. Some cookies remain stored on your device until you delete them. They enable us to recognise your browser next time you visit the website.
+Should you prefer not to store cookies, you can set your browser up so it informs you before cookies are stored and allows you to make individual choices as to when you accept them.
+If you deactivate cookies, it can mean that the functionality of our website is limited when you view it.
+Web and App Data Analysis
+Our website and other applications make use of a variety of web analytics services to analyse website and app user behaviour. We use the following specific analytics providers:
+Google Analytics
+Google Analytics, a service provided by Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; â€žGoogleâ€œ): Google uses Cookies. The information generated through cookies deals with how a user utilises the online provision. This information is generally transferred to and stored on a Google server in the USA.
+Google Analytics deposits the following cookies on your device and tracks information from these:
+_ga (Stores info for 2 years)
+_gid (Stores info for 24 hours)
+_gat (Stores info for 1 minute)
+Google uses this information as part of their contractual obligation to us, to evaluate the manner in which our online services are used, to draw up reports on the activities offered within various areas of our online provision and in addition to inform us about the manner in which this online provision and internet-related services are used. We have configured Google Analytics in such a way that all IP addresses from within the EU member states or from other countries which have signed bilateral agreements via the European Economic Area are shortened. Only in exceptional circumstances will a complete IP address be sent to the USA and there shortened. The IP addresses as sent by the userâ€™s web browsers, will not be synchronised with other data from Google. You may use the setting in your web browser configuration to prevent cookies from being saved. You may also prevent the capture of information from cookies on your browser, by downloading and installing the following link:Â
+http://tools.google.com/dlpage/gaoptout?hl=de
+.Google Analytics
+Should you wish to know which cookies Google Analytics can use to save information, how long the cookies remain saved and what purpose they serve, you can read the following link:
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+. For further information as to how Google uses the data it collects, please read: Â
+http://www.google.com/intl/de/policies/privacy/partners/.
+Firebase Analytics
+We utilise the development platform Google Firebase and its related functionality and services. The company is based at Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, (â€žGoogleâ€œ). Firebase Analytics helps us to gather information on user interactions. Events such as the first time the app is opened, if it is uninstalled, updates, crashes or frequency of use. Specific user interests are also captured and evaluated. The information tracked by Firebase Analytics is sometimes shared with other Google service providers such as Google Analytics and Google Marketing Services. When this is the case, anonymous data is used such as Android Advertising ID or the Advertising Identifier for iOS in order to identify the mobile device used. For further information relating to the manner in which Google uses data for marketing purposes can be found here: Â
+https://www.google.com/policies/technologies/ads
+. Googleâ€™s data protection statement can be read here:
+https://policies.google.com/privacy.
+If users wish to opt out of the interest-based advertising provided by Google marketing services, users may follow this link in order to reach Googleâ€™s settings and opt-out options:
+https://adssettings.google.com.
+AppsFlyer
+We also analyse the manner in which our app is used via an analysis tool provided by AppsFlyer Inc. (111 New Montgomery Street, San Francisco, California 94105). A variety of user session and interaction data is gathered and collated. We need this information to improve content, to make our services more user-friendly and to optimise app use for you. Session and interaction data is only ever used anonymously. For further information about data processing at AppsFlyer, please see their data protection statement here:
+https://www.appsflyer.com/privacy-policy/
+. Should you wish to opt-out and prevent your data from being used, please follow this link to do so:
+https://www.appsflyer.com/optout
+Crashlytics
+In order to locate errors within the app and to improve app stability we use the services of Crashlytics to evaluate error messages which occur within the app. Crashlytics is an analysis tool offered by Fabric, a subsidiary of Google Inc., USA (
+https://fabric.io/kits/android/crashlytics
+). Within the context of the error messages, Fabric receives data on the make and version of the device, the time the error occurred, the feature used and the usage status when the error took place. In addition, the current load on memory, how much storage space is available and the stack trace are all relevant. All data is anonymous.
+Facebook SDK
+We have integrated the Software Development Kit (SDK) of Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA (also Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland) into our app. This enables us to link certain services provided by Facebook with our own app. This gives users, for example, the possibility to share content or their achievements on their Facebook timeline or to message to other Facebook users. For further information on Facebook SDK on iOS please read:
+https://developers.facebook.com/docs/ios
+. For android devices, please read:
+https://developers.facebook.com/docs/android.
+Facebook App Events: We employ the Facebook App Events service to enable us to measure the reach of our marketing campaigns and to measure the use of Facebook SDK. We only receive an aggregated evaluation of user behaviour. Should you wish to opt out of the use of App Events you can do so in our app settings (Opt-Out).
+We have signed a contract for service processing with our analysis providers. In so far as it is necessary, for data analysis for the data to be send to countries outside the EU or EEA, this contract is based on the use of standard clauses dictated by the European Commission which guarantee the level of data protection as required by the GDPR. Data processing carried out by the above mentioned providers is carried out on the basis of legal specification as set out in Â§ 96 Para 3 TKG as well as Art 6, Para 1 lit a (cookies permission) and or f (legitimate interests, namely to improve our service offering and our web provision) of the GDPR (DSGVO in Austria).
+All data processed by FITAPP are encrypted at the device and transferred to FITAPP.
+Your Rights
+You have a legal right to enquire about, amend, limit, data transfer and to withdraw consent. Should you be of the opinion that our use of your personal data is not in line with the current data protection regulations or should you feel that your rights with regard to data protection have in some other way been breached, a complaint may be raised with the responsible regulatory authority. In Austria this authority is the Data Protection Authority.
+The user can withdraw consent for data to be used at any time within the settings of the app. FITAPP would then delete all data and it is then no longer possible to use FITAPP.
+You can contact us here
+FITAPP GmbH
+Gadollaplatz 1
+8010 Graz
+AUSTRIA
+Web:
+www.fitapp.info
+Email:
+office@fitapp.info
+Our Data Protection Officer is:
+Marlene Wohlmuth
+Gadollaplatz 1
+8010 Graz
+Email:
+office@fitapp.info

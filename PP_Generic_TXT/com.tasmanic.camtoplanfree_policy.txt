@@ -1,0 +1,201 @@
+ï»¿
+Privacy Policy
+PRIVACY POLICY
+updated October 19th, 2023
+
+
+Welcome to CamToPlanâ€™s privacy policy! We are a company called Tasmanic Editions S.A.S. We are registered in France with number 794114934. Our address is 91 Rue du Faubourg Saint-HonorÃ©, 75008 Paris, FRANCE.
+This policy describes how we (referred in this policy as â€˜Tasmanicâ€™ or â€˜weâ€™, usâ€™ and â€˜ourâ€™) collect, use, process and share information that Tasmanic collects about you when you use the apps 'CamToPlan' or 'CamToPlan PRO'.
+If you have any concerns about this privacy policy you should not use our apps or other Services.
+1- Age requirements
+THIS SERVICE IS NOT MEANT FOR PEOPLE UNDER 16. We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. We do not knowingly collect information from children under the age of 16 and we do not target this Service to children under 16. If we receive a valid notice through dpo@tasmanic.com that a minor under age of 16 has provided us with personal information, we will take measures to delete it as soon as possible.
+2- Why Do we Collect data ?
+Like most of the other app publishers, Tasmanic Editions needs to perform some R&D, analysis and marketing tasks. We explain here the reasons why we and our partners may collect data:
+- Internal analytics and reporting,
+- Operate our business and app,
+- App mechanics or functionality,
+- Maintaining and enhancing service, debugging,
+- Detecting/Protecting against security event,
+- Product development/improvement,
+- Internal research,
+- Customer service,
+- User acquisition,
+- Advertising and direct marketing,
+- Detecting/protecting against security events, preventing fraud and abuse of our policies,
+- Compliance purposes and meeting legal/regulatory requirements.
+3- Data that may be collected
+We collect the following categories of your personal information and may sell it to third parties: identifiers, commercial information, internet or other electronic network activity information, geolocation data, and inferences drawn from these categories.
+App usage
+Examples: navigation inside the app, actions in the app such as clicks on buttons, duration of sessions, frequency of use... 
+This data is generally analyzed through aggregated reports.
+Technical Data
+Examples: ad identifiers, IP address, device country or language, device screen size, operating system and version...
+ad identifiers are non-permanent identifiers such as the Android advertising ID and/or Apple's ID for advertising (the â€˜IDFAâ€™), which are uniquely associated with your device.
+These technologies may allow us and our partners to recognize the users devices, provide interest-based advertising and allow us to understand how the users interact with our app.
+Messages
+If you contact us, for instance by email, we may keep a record of that correspondence.
+Your interactions with us on our social media channels.
+4- Data we don't collect and don't share
+All the plans, measures, documents titles and folders that you create within the app are only stored on your device. We don't collect information about them and we ensure our partners can't access them.
+Please take appropriate measures to backup your device frequently because there's no way for us to help you retrieve this data in case a problem occurs (ex: device broken ...)
+5- Our Partners
+We currently work with carefully selected and trustful partners. You can opt-out from those partners anytime. See 'opt-out' section.
+Data Processors:
+- Firebase
+learn more
+You can learn more about the data collected
+here
+- Tenjin
+learn more
+- Gandi
+It's our Web hosting service provider.
+learn more
+- RevenueCat
+Allows us to manage the inapp subscriptions.
+learn more
+- Kochava
+Allows us to measure the performance of our ad campaigns.
+learn more
+- Adjust
+Allows us to measure the performance of our ad campaigns (attribution).
+learn more
+Data Controllers:
+- Google
+learn more
+- Google Admob
+learn more
+you can learn more about the
+retention policy
+Admob works with different partners which may have different policies. You can learn more about them in the
+commonly used list
+- Facebook
+learn more
+Facebook processes data in order to measure the performance and reach of advertising campaigns and report back insights about the people who saw and interacted with the ads. (
+learn more
+) 
+You can learn more about the
+data collected
+.
+
+Please check their policies to know how they manage the data collected.
+
+This application runs on
+ARCore
+, which is provided by Google LLC and governed by the Google Privacy Policy listed above.
+6- Opt-out
+You can choose to prevent your device's ad identifier being used for interest-based advertising, or you can reset your device's ad identifier, by changing the settings of your device. See
+optout.networkadvertising.org
+for details.
+
+The collection of personal data in the app by Tasmanic Editions and its Analytics & Marketing partners depends on your consent through a 'pop-up' shown at the first launch of the app.
+You can give or withdraw your consent at anytime in the app itself : in the menu on the main page, open the 'privacy settings'.
+You can select 'Option 1' to allow the collection of personal data or 'Option 2' to restrict the collection of personal data.
+Then force the app to close  (Phone settings => Applications => CamToPlan => Force close)
+Then restart the app.
+
+You can also contact our partners directly to ask for a full opt out or deletion of your data from their services, with the links provided above. You can also click on the AdChoices logo within an advertisement (where available).
+7- Payments
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors, whose use of your personal information is governed by their Privacy Policy. 
+The payment processors we work with are:
+PayPal
+Their Privacy Policy can be viewed
+here
+Apple Store In-App Payments
+Their Privacy Policy can be viewed
+here
+more info
+Google Play In-App Payments
+Their Privacy Policy can be viewed
+here
+more info
+8- GDPR - Additional rights in the EEA or Switzerland
+- Request access to and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, restrict or to object to the processing of your Personal Information, have the information anonymized or deleted, as appropriate, or exercise your right to data portability to easily transfer your Personal Information to another company. In addition, you may also have the right to lodge a complaint with the CNIL which is the supervisory authority In France.
+
+- Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal.
+
+Those rights may be limited in some circumstances by local law requirements. You may exercise these rights by using the How to Contact Us below.
+9- CCPA Consumer Rights (Additional California Privacy Rights)
+This section provides additional details for California consumers about the rights afforded to them under the California Consumer Privacy Act or 'CCPA'.
+California Children Under 16
+THIS SERVICE IS NOT MEANT FOR CALIFORNIA-LOCATED PEOPLE UNDER 16.
+Your Rights Regarding Personal Information.
+Under the California Consumer Privacy Act of 2018 ('the CCPA'), California consumers have the right to request access to the specific pieces of personal information we have collected about them in the last 12 months. You may also request additional details about our information practices, including the categories of personal information we have collected about you, the categories of sources of such collection, the business or commercial purpose for collecting personal information, the categories of third parties with whom we share your personal information, the categories of personal information we have disclosed about you in the preceding 12 months. If you are a California consumer, you also have the right to request deletion of your personal information (subject to certain exceptions), to opt out of sales of personal information and to receive equal service and price and not be discriminated against even if you exercise any of their other CCPA rights.
+You can only make a personal information request twice in a 12-month period, we will respond within 45 days of receiving a personal information request.
+
+To exercise any of the above rights, please contact us using the following information and submit the required verifying information, as further described below: please email dpo@tasmanic.com or contact us using this address: Tasmanic Editions, 91 rue du Faubourg Saint HonorÃ©, 75008 Paris, France
+Verification Process and Required Information :
+Note that we may need to request additional information from you to verify your identity or understand the scope of your request, although you will not be required to create an account with us to submit a request or have it fulfilled. In the event you designate an authorized agent to make a CCPA request on your behalf, we will require verification of identity and authorization.
+Personal information that have been collected in the past 12 months
+Categories of personal information
+Examples
+Sources
+Purposes
+Identifiers
+Device identifier, Advertising ID, IP Address, Name, Email address, Social Media identifier, Username
+Third party (Social Networks, Advertising networks or Data Analytics Providers) cookies or other tracking technologies  installed in our apps and websites,
+Directly from users through communications by emails or social networks,
+Web hosting service temporary logs
+Internal analytics and reporting,
+Operate our business and app,
+App mechanics or functionality,
+Maintaining and enhancing service, debugging,
+Detecting/Protecting against security event,
+Product development/improvement,
+Internal research,
+Customer service,
+User acquisition,
+Advertising and direct marketing,
+Detecting/protecting against security events, preventing fraud and abuse of our policies,
+Compliance purposes and meeting legal/regulatory requirements
+Customer records information
+Name
+Directly from users through communications by emails
+Commercial information
+Transaction information, purchase history. This does not include any payment information, which is collected directly by the mobile app distribution platform.
+Third party (Social Networks, Advertising networks or Data Analytics Providers) cookies or other tracking technologies installed in our apps and websites
+Internet/electronic activity
+Interaction with the application or advertisements
+Third party (Social Networks, Advertising networks or Data Analytics Providers) cookies or other tracking technologies  installed in our apps and websites,
+Web hosting service temporary logs
+Geolocation data
+Country, State, City
+Derived from the IP address by Third party (Social Networks, Advertising networks or Data Analytics Providers) cookies or other tracking technologies  installed in our apps and websites
+Inferences from the foregoing
+Profile reflecting a consumerâ€™s behavior
+May be computed and used by our partners
+Sale of personal information and Opt-out
+Please Notice that we do not 'sell' Personal Information about our users as most people would typically understand that term. 
+However, the CCPA defines a sale as the exchange of someoneâ€™s personal information for money 'or other valuable consideration.'
+As a consequence, the collection of personal information by some of our partners could be considered a sale regarding the CCPA.
+In order to opt-out to the collection of personal information in the app for such purposes, 
+US users can open the privacy settings with the 'Do Not Sell My Personal Information' button which is on the pop-up shown at the first launch of the app and also in the main menu of the app.
+Please refer to the section 'Opt-out' for more details.
+
+List of the categories of personal information sold in the past 12 months:
+Identifiers, Commercial information, Internet/electronic activity, Geolocation data, Inferences from the foregoing
+Personal information disclosed for a business purpose
+List of the categories of personal information disclosed for a business purpose in the past 12 months:
+Identifiers, Commercial information, Internet/electronic activity, Geolocation data, Inferences from the foregoing
+10- Changes to our privacy policy and practices
+We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically.
+From time to time, we may desire to use or disclose Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, then we will make reasonable efforts to provide notice and obtain consent prior to any such uses as may be required by law.
+11- How to Contact Us
+If you have any questions, would like to share suggestions for improving the Privacy Policy or the Service, or otherwise would like to contact us, then please feel free to contact us at:
+
+contact@tasmanic.com
+or:
+Tasmanic Editions
+91 rue du Faubourg Saint HonorÃ©
+75008 Paris
+France
+
+
+If you would like to exercise your rights then please feel free to contact us at:
+dpo@tasmanic.com
+or:
+Tasmanic Editions
+Ã  l'intention du dÃ©lÃ©guÃ© Ã  la protection des donnÃ©es
+91 rue du Faubourg Saint HonorÃ©
+75008 Paris
+France

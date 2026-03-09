@@ -1,0 +1,35 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Location                
+<d_attr>               Approximate location              
+<d_valu>             Analytics, Advertising or marketing            
+<d_cata>                 App activity                
+<d_attr>               App interactions              
+<d_valu>             Analytics, Advertising or marketing            
+<d_attr>               Other actions              
+<d_valu>             Analytics, Advertising or marketing            
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Location                
+<d_attr>               Approximate location              
+<d_valu>             Analytics, Advertising or marketing            
+<d_cata>                 Financial info                
+<d_attr>               Purchase history              
+<d_valu>             App functionality, Analytics            
+<d_cata>                 App activity                
+<d_attr>               App interactions              
+<d_valu>             Analytics, Advertising or marketing            
+<d_attr>               Other actions              
+<d_valu>             Analytics, Advertising or marketing            
+<d_cata>                 App info and performance                
+<d_attr>               Crash logs              
+<d_valu>             Analytics            
+<d_attr>               Diagnostics              
+<d_valu>             Analytics            
+<d_attr>               Other app performance data              
+<d_valu>             Analytics            
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             Data can’t be deleted            
+<s_attr>             The developer doesn’t provide a way for you to request that your data be deleted            

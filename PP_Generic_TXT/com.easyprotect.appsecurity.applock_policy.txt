@@ -1,0 +1,71 @@
+Trang chủ
+Search this site
+Skip to main content
+Skip to navigation
+AppLock
+Privacy policy
+Your privacy is important to AVNSoftware.Inc and we are committed to protecting your privacy. So we’ve developed a Privacy Policy. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
+This Privacy Policy explains how we collect, use, disclose and otherwise process personal information. Privacy Policy describes the practices concerning the information collected through the use of our mobile applications. In addition to describing how we collect, use, disclose and otherwise process personal information, this Privacy Policy explains the rights and choices available to individuals with respect to their personal information.
+1. INFORMATION WE COLLECT
+PERSONAL INFORMATION
+In order to provide and maximize your experience with the Services, we may need to collect and use certain information.
+Personal information is data that can be used to uniquely identify or contact a single person: a real name, alias, unique personal identifier, online identifier, IP address, email address, account or other similar identifiers.
+We DO NOT collect, store or use any personal information while you visit, download or upgrade our products, excepting the personal information that you submit to us when you send an error report and other activities.
+NON-PERSONAL INFORMATION
+Non-personal information is data in a form that does not permit direct association with any specific individual, such as your Android ID, CPN model, memory size, phone model, rom, installed application name and package name, the data of install, country, equipment and channel.
+If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+2. HOW WE USE INFORMATION WE COLLECT
+The information We collect from you ensures you can use Our Services in a safe environment. As part of this mission, We may use your information for the following purposes:
+Enable you to access and use the Services; processing or fulfilling orders and transactions, verifying user information, processing payments; providing customer care and support;
+Help us develop, deliver, and improve our products and services and supply higher quality service; detect, prevent and address technical issues;
+Provide and maintain the Service and notify you about changes to our Service;
+Manage online surveys and other activities you’ve participated in, provide analysis or valuable information so that we can improve the Service
+Conduct research for further development of Our Services;
+We, and Our third-party advertisers, use your Personal Information to serve you with advertisements that may interest you;
+Investigate and prevent security issues and abuse;
+Other purposes that may be described at the time you choose to provide personal information to us
+3. HOW WE SHARE INFORMATION
+In the following circumstances, we may disclose your personal information according to your wish or regulations by law:
+(1) Your prior permission;
+(2) By the applicable law within or outside your country of residence, legal process, litigation requests;
+(3) By requests from public and governmental authorities;
+(4) To protect our legal rights and interests.
+4.  YOUR CHOICES AND RIGHTS.
+You may in some cases have the option to decline providing Us information. However, your choice to not provide information may impact your use of certain features or Services. Please find below some choices you have over your Personal Information:
+You can change information about your account by accessing your Account and modifying the information listed in the “Edit Profile” and/or “About Me” tabs.
+You are not required to provide any information to Us that is unnecessary to provide the Services;
+Subject to local law, you may have certain rights regarding information that We have collected and that is related to you:
+Access: you may request access to your personal information and receive copies of it;
+Correction: you may have inaccurate/incomplete personal information corrected and updated;
+Object to, or Limit or Restrict, Use of Data: you can ask us to stop using all or some of your personal information or to limit our use of it;
+Deletion: in certain circumstances, you can request a right "to be forgotten" (this is a right to have your information deleted or our use of your data restricted). We will honor such requests unless we have to retain this information to comply with a legal obligation or unless we have an overriding interest to retain it;
+Consent Management: where we rely on consent to process your personal data, you may withdraw consent at any time. You do not have to provide a reason for your withdrawal where processing is based on consent.
+5. HOW WE PROTECT YOUR PERSONAL INFORMATION
+We care about the security of your Personal Information. We implement technical and organizational measures to ensure a level of security appropriate to the risk to the Personal Information We process. These measures are aimed at ensuring the on-going integrity and confidentiality of your Personal Information. However, no company can guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards. We need your help too: it is your responsibility to make sure that your Personal Information is accurate and that your password is unique, secure and not shared with third parties.
+6. THE MAIN PERMISSION USED BY APPLOCK IS DESCRIBED BELOW
+* Appear on top:
+Display the lock screen on another app.
+* Usage access:
+Allows access to data related to using other apps to display the lock screen.
+* Auto-start:
+Allows the app to manually launch the Service to show the lock screen.
+Cho phép ứng dụng tự khởi chạy Service để hiển thị khóa
+* Start in background:
+Allows the app to run the Service in the background
+* BIND_DEVICE_ADMIN: Prevent intruder to uninstall Applock
+* CAMERA: Take Photo of intruders, who try to break in your phone
+* PHONE_STATE: Manage calls to show the lock screen
+* EXTERNAL_STORAGE: Access memory, photos, videos
+We also require other permission to make our app work influence such as: USE_FINGERPRINT; VIBRATE; ACCESS_NETWORK_STATE; READ_EXTERNAL_STORAGE; WRITE_EXTERNAL_STORAGE; FOREGROUND_SERVICE;
+SYSTEM_ALERT_WINDOW; RESTART_PACKAGES; GET_TASKS; CLEAR_APP_CACHE
+7. UPDATE TO OUR PRIVACY POLICY
+From time to time We may modify or update this Privacy Policy.
+When required by applicable law, we may inform you by additional means, such as through a notification on the website or in our mobile applications if we make material changes to how your personal information is collected, accessed or otherwise used as a result of your use of the Services or if your rights under this Privacy Policy are materially impacted by changes to our privacy practices. We recommend that you check this page from time to time to inform yourself of any changes in this Privacy Policy.
+8. HOW TO CONTACTS US
+If you still have questions or concerns regarding the way in which your Personal Information has been used, please feel free to contact us by email at: applockhelper@gmail.com.
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

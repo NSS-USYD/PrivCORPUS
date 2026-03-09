@@ -1,0 +1,319 @@
+PRIVACY POLICY | Exient Publishing Limited
+HOME
+GAMES
+EULA
+PRIVACY POLICY
+CONTACT US
+Select Page
+PRIVACY AND DATA POLICY
+ISSUED BY EXIENT PUBLISHING LIMITED (FORMALLY SAD PUPPY LIMITED)
+Last Updated: 28 January 2021
+INTRODUCTION AND GENERAL TERMS
+These terms apply to the use of games and other products developed by Exient Publishing Limited (
+“Exient Publishing”
+/ “
+we
+” / “
+us
+”). Our registered office is at Vault 2, Pinto Wharf, Valletta Waterfront, Floriana, FRN 1913, Malta. We are a company registered in Malta, with company number C78780.
+This privacy and data policy (“
+Privacy Policy
+”) applies and has effect in respect of all games, related online services (including online network play connectivity and interactivity) and other software and products made available by us (together the “
+Game(s)
+“), as well as any other online features relating to the Games including our website (
+https://exientpublishing.com
+) (the “
+Website
+”) and email support.  Together the Game(s), the Website and email support are referred to as the “
+Online Services
+”.
+If you have any questions or comments about this Privacy Policy, you can contact us at
+MALTAGDPR@exient.com
+You have the right to object to the processing of your personal data, including where your personal data is being processed: (i) for direct marketing purposes; (ii) on the basis of our or a third party’s legitimate interests; or (iii) on the basis of being necessary for the performance of a task carried out in the public interest. Your right to object includes the right to object to related profiling activities. To make an objection you can email us at
+MALTAGDPR@exient.com
+.
+Except where it may otherwise be expressly set out in the terms of use for our relevant Online Service, our Online Service is not directed at or marketed to users under the age of 13 and those aged under-13 should not use our Online Services.
+We do not use our Online Services to knowingly solicit information from, or market or direct our Online Services to, those under the age of 13.
+We are committed to protecting and respecting your privacy. This Privacy Policy explains the basis on which personal data we collect from you will be processed by us or on our behalf. Where we decide the purpose and means for which personal data you supply through these Online Services is processed, we are the controller for the purposes of the General Data Protection Regulation 2016/679 and the UK Data Protection Act 2018.
+Please read this Privacy Policy carefully as it contains important information about the following:
+What information we may collect about you;
+How we will use information we hold about you;
+Whether we will disclose your details to anyone else; and
+Your choices and rights regarding the personal data you have provided to us.
+This Privacy Policy forms a part of and should be read in conjunction with our Terms of Use, which can be viewed here:
+https://exientpublishing.com/eula/
+.
+The Online Services may contain hyperlinks to services owned and operated by third parties. These third party services may have their own privacy policies and we recommend that you review them.  They will govern the use of personal data that you submit or which is collected by cookies and other tracking technologies whilst using these services.  We do not accept any responsibility or liability for the privacy practices of such third party services and your use of these is at your own risk.
+We may make changes to this Privacy Policy in future, which will be posted on this page. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of changes through the Games.
+INFORMATION WE MAY COLLECT ABOUT YOU
+We collect and process the following information which may include your personal data, together being the “
+Submitted Data
+”:
+Information provided by you when using the Games
+(“
+Basic Information
+”)
+We will collect, or you may submit, the following information when you play our Games:
+·         your device’s unique device ID (Device ID);
+·         technical information (such as IP address, device name, hardware model, operating system and version, mobile network information, browser information, date/time of usage, requested action and referring page/system (if applicable)).
+·         core information milestones and events related to your gameplay of our Games, such as your overall progression to  a particular level or stage, your virtual currency stores and virtual item and currency purchases (where applicable), the occurrence of Game events or the completion  of certain  activities  during your gameplay (for example, completing a tutorial, passing a level, making a purchase or viewing a video ad).
+Information provided by you when contacting email support.
+(“Contact Information”)
+We may ask you for, or you may submit, certain information to us whenever you contact us via social media, through the Games,
+support@exientpublishing.com
+,
+info@exientpublishing.com
+OR
+lemmingssupport@exientpublishing.com
+.
+This may include:
+·         your email address;
+·         your name or username;
+·         your IP address; and
+·         any other information you include in your message.
+Information used for the purposes of serving advertisements
+(“Advertising Data”)
+Through our third party advertising network partners, we may gather information about your devices when you install or play our Games or use our other Online Services, depending on the permissions you’ve granted. This may include:
+·         the make, model and operating system of your device;
+·         properties of your device, such as screen size and orientation, audio volume and battery;
+·         the mobile network operator linked to your device and your network connection type and speed;
+·         the Games played;
+·         the country, time zone and locale settings on your device (i.e. country and preferred language);
+·         IP Address;
+·         location information (based upon your IP address);
+·         gameplay or other usage session timestamp and duration;
+·         your unique device identifier (UDID);
+·         MAC address;
+·         internet browser used to access the Games and browser settings;
+·         milestones and events related to your gameplay of our Games and your in-Game purchases and behaviour (e.g. your purchases of virtual items and services);
+·         advertising campaign information (e.g. whether you installed an advertiser’s app following an ad served by us, and other information that the third party advertiser may choose to share with us, such as about your purchases within the third party app and the number of times you use it);
+·         Limit Ad Tracking setting;
+·         Identifier for Vendors (IDFV), which is an identifier assigned to your device;
+·         our user identifier number for you;
+·         the Identifier for Advertisers (IDFA), which is an identifier assigned to your device;
+·         the advertiser ID, which is an identifier unique to you if you use an Apple or Android device, but which doesn’t reveal your name;
+·         Bundle ID;
+·         SDK version, App version, OS version; and
+·         OS Platform.
+Information collected for the purposes of providing analytics
+(“Analytics”)
+We may collect technical information about your use of the Online Services through the use of tracking technologies and analytics.
+Personal data we may collect includes the following:
+·         your device ID;
+·         your user ID (which is generated by us and allocated to you when you first play our games);
+·         your device operating system & version;
+·         your device make and model;
+·         game play attempts, progression and results;
+·         session game time start, end and duration;
+·         purchase transaction types and spend you have made using virtual items in the Games;
+·         the country of your device;
+·         the time, date and install source of your first download (e.g. from a clicked advertisement);
+·         advertisements viewed and clicked; and
+·         identification of crashes and defects.
+We use the following third party analytics providers:
+·         Get Braavo (Braavo Capital Inc.) (“
+Braavo
+”) (
+https://www.getbraavo.com/privacy-policy/
+);
+·         Tenjin (
+https://www.tenjin.io/privacy
+);
+·         Singular (
+https://www.singular.net/privacy-policy
+);
+·         Unity Analytics (
+https://unity3d.com/legal/privacy-policy
+); and
+·         DeltaDNA (
+https://deltadna.com/privacy/
+).
+The above third parties may collect analytics data on our behalf and in accordance with our instructions, and their applicable privacy notices. If you would like to find out more about the way in which the above third parties may collect and process this information please refer to their respective privacy policies and/or terms and conditions by clicking on the links provided above. We use Braavo’s services for analytics and collation of analytics (and to assist us with monetisation) and we, and our vendors, may share your personal data with Braavo for those purposes.
+Information about you collected from third parties
+(“Third Party Log In Information”)
+When you access the Games via a third party social media provider such as Facebook, we may collect and store technical data relating to you in order to ensure the Games connect to the correct Facebook account.
+WHY WE COLLECT INFORMATION ABOUT YOU
+To provide our Games to you
+We will use information about you (including Basic Information, Third Party Log In Information and Analytics) for delivering our Games to you under the terms of use agreed between us. The processing of information in this way is necessary for us to record your progress and current status within a Game, and to ensure the Games deliver the features promised and function properly, so that you have the best experience when playing any one of our Games.
+To help us improve the Online Services and fix any problems
+We may process information about you (including Basic Information and Analytics) so that we can understand your usage of our Online Services and analyse and improve our Online Services.
+This processing is also necessary for us to pursue our legitimate interests of (i) ensuring that our Online Services function properly so that you and other users have the best experience when playing any of our Game(s) and using the other Online Services; (ii) improving the quality of our Online Services, and providing a better experience to our users; (iii) identifying and correcting any bugs in the Games and Online Services and iv) understanding the effectiveness of our marketing to attract new users and re-engage our current users at an aggregated level.
+To respond to your enquiries and requests for support
+We may process Contact Information so that we are able to properly respond to your enquiries and support requests through
+support@exientpublishing.com
+,
+info@exientpublishing.com
+and
+lemmingssupport@exientpublishing.com
+in accordance with the terms of use agreed between us.
+To improve the monetisation of the Games via in-app purchases
+We may process information (including Basic Information, Advertising Data and Analytics) to understand how users use our Games, and to compile statistical reports regarding that activity, as well as understanding how users progress, and their current status within a Game. This processing is necessary for us to pursue our legitimate interests of improving the Games and increasing the amount of revenue generated via in-app purchases. This may include the implementation of dynamic pricing models, so that in-app purchases are priced according to relevant factors, such as location and gameplay progression so that we can offer temporary promotional discounts.
+For advertising purposes
+We may process Advertising Data and other Submitted Data, to show you advertisements for third party services; including advertising that may reward you with benefits during your use of the Games.
+The information we collect about you may be used to understand how advertisements placed in our Games have performed or how many people have viewed certain advertisements. We aggregate this information so that it does not personally identify you or permit you to be treated individually. Where we process your Submitted Data for serving advertising to you which is untargeted (for example, display advertising which is not tailored to your perceived interests), we do so on the basis of our legitimate interests, being our commercial interests in generating revenues to support our business and our ability to make the Online Services available to you.
+We may also use this information to reward users with benefits that can be used for further enjoyment of the Games from the viewing of certain advertising placed in our Games.
+We or our trusted partners (including those partners set out in the tables in Clause 4 below) may use the information we collect about you to serve you with more relevant advertisements in our Online Services or on third party services.  We, and our partners and vendors, do this to provide you with more relevant advertising content that we think will be more interesting for you. For these purposes, we work with the third party advertising networks, mediators and vendors as set out in the table of cookie and similar technology providers in Clause 4 below. If you would like to find out more about the way these third parties collect and process your information please refer to their respective privacy policies and/or terms and conditions by clicking on the links provided below.
+To prevent fraud and illegal activity
+We may process your Submitted Information for our legitimate interests of ensuring that your use of our Online Services is lawful and in compliance with our agreement (being the terms of use agreed between us), to prevent disruption to our Online Service, to enforce our rights, to protect any individual or otherwise to ensure our compliance with our legal obligations.
+Where we reasonably believe that you are or may be in breach of any applicable laws or our terms of use, we may use your personal data to inform relevant third parties such as your law enforcement agencies about the content.
+We work with Apple and Google to assist us with fraud prevention and the detection of any illegal activity (e.g. to verify in-app purchases made through iTunes and Google Play).
+To understand which publisher of our advertisements referred you to us
+We process personal data, including without limitation the Basic Information and Analytics, so that we can understand which publisher of our advertisements referred you to us and, for example, to which advertisement and/or advertising or marketing campaign that referral related. This information is helpful for our purposes of understanding which marketing and advertisement activity is successful. We process this personal data on the basis of our legitimate interests, being our interests in promoting and improving our Games and their commercial success (including by improving our advertising and marketing).
+To keep you up to date
+Where you have consented, or where it is otherwise lawful for us to do so, we use your Submitted Information to send you emails in order to keep you informed about our news and products. You can withdraw your consent at any time by letting us know by email to:
+MALTAGDPR@exient.com
+.
+Push notifications about our Game and similar notifications
+Where you have consented or where it is otherwise lawful to do so, we may use your Submitted Information to send you ‘push notifications’ or in-service notifications (for example, on your device and in relation to the Game). The third party platform (i.e. your device provider such as Apple) is responsible for obtaining your consent to activities such as push notifications.
+To reward and empower you with free charitable giving directed to charities and initiatives.
+Where you have consented, or where it is otherwise lawful for us to do so, we work with Karmafy Holding Limited (Karmafy) to allow you to give directly to charities and initiatives.
+Karmafy may use your information to merge ‘Karmafy Points’ across multiple devices.
+COOKIES
+A cookie is a text file placed onto your device when you access our Website. We and our partners use cookies and other similar online tracking devices and technologies such as web beacons, SDKs in our mobile Games and flash object storage to deliver, improve and monitor our Website and our Games, including in the following ways:
+Analytics
+To help us understand how you use our Website, and how often, so we can improve them to deliver a better experience for our users.
+To carry out research and statistical analysis to help improve our content, products and services.
+Advertising and marketing attribution
+To help us to understand which advertising publisher referred you to us.
+Advertising on our Online Service
+To serve advertising to you on our Online Service.
+Advertising out of our Online Service
+To serve advertising to you on third party services.
+For our Website, a notice is displayed alerting you to our use of cookies and other similar technologies and linking to this privacy policy. Please note that if you choose to disable cookies, or similar technologies, on your device you may be unable to make full use of our Website.
+We work with the following third parties who may set cookies or similar technologies such as SDKs on your device via our Online Services:
+Name and description
+Further information for you
+Google Analytics, which we use to monitor how visitors use our Website. Google is responsible for the cookies they set on your device.
+If you want to learn about how to opt out of Google’s use of cookies, please visit
+https://tools.google.com/dlpage/gaoptout/
+or your Google Ads Settings (
+https://www.google.com/settings/u/0/ads/authenticated
+). The Google Analytics terms of service can be accessed here:
+www.google.co.uk/analytics/terms/us.html
+. For further information please visit the website of the relevant third party.
+Tenjin, in our Games for analytics and marketing attribution.
+For more information about Tenjin’s data processing activities you can visit their privacy policy here:
+https://www.tenjin.io/privacy
+.
+Singular, in our Games for analytics and marketing attribution
+For more information about Singular’s data processing activities you can visit their privacy policy here:
+https://www.singular.net/privacy-policy/
+Delta DNA, in our Games for analytics purposes (as further detailed in Clause 3 above).
+For more information about Delta DNA’s data processing activities you can visit their privacy policy here:
+https://deltadna.com/privacy/
+Unity Analytics, for analytics and analysis in our Games.
+For more information about Unity Analytics data processing activity you can visit their privacy policy here:
+https://unity3d.com/legal/privacy-policy
+https://unity3d.com/legal/gdpr
+IronSource, for advert mediation services with third party advertising networks and to serve advertising to players in our Games
+For more information about IronSource’s data processing activities you can visit their privacy policy here:
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+IronSource mediates with the following advertising networks for these purposes of serving advertising in our Games (and you can visit their respective privacy policies for further information about their data processing activities):
+·         Facebook Advertising Network (
+https://www.facebook.com/privacy/explanation
+)
+·         Admob (
+https://policies.google.com/technologies/ads
+or
+https://policies.google.com/privacy
+)
+·         AppLovin (
+https://www.applovin.com/privacy/
+)
+·         Vungle (
+https://vungle.com/privacy/
+)
+·         TapJoy (
+https://www.tapjoy.com/legal/#privacy-policy
+)
+·         Unity Ads (
+https://unity3d.com/legal/gdpr
+)
+Google Play Games, in connection with providing you with platform-specific services relating to the Game
+For more information about Google’s data processing activities, you can visit their privacy policy here:
+https://policies.google.com/privacy
+Karmafy Holdings Limited (Karmafy)
+For more information about Karmafy’s data processing activities, you can visit their privacy policy here:
+https://karmafy.com/privacy
+If you would like to find out more about the way these third parties collect and process your information please refer to their respective privacy policies and/or terms and conditions by clicking on the links provided above.
+DATA SHARING
+We will share your information with third parties only in the ways that are described in this Privacy Policy
+Sony Interactive Entertainment Europe Limited
+We may transfer and share information which may include your personal data with Sony Interactive Entertainment Europe Limited (the Licensor of the PlayStation video games) under this Privacy Policy.
+Group members, personnel, suppliers or subcontractors
+: We keep your information confidential, but may disclose it to any member of our group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006), our personnel, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the basis that they do not make independent use of the information, and have agreed to safeguard it.
+Merger or acquisition:
+If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via, account message and/or a prominent notice on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+Required by law:
+In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
+Enforcement:
+We may also disclose your personal data to third parties (e.g. mobile network operators, gaming platform operators, game console manufacturers or networks) in order to enforce or apply the terms of agreements, to investigate potential breaches, or to protect the rights, property or safety of Exient Publishing, our customers, or others.
+Digital Content Stores
+: Where the Games are downloaded though platforms including without limitation Google Play and/or iTunes, we may disclose your personal data to those platforms for the purposes of facilitating any in-Game payments made through these platforms.
+AUTOMATED DECISION MAKING
+We may use automated decision-making methods which do not involve human involvement to process your information, and shall do so only in the ways that are described in this Privacy Policy.
+CONSUMER CONTROL AND OPT-OUT OPTIONS
+If you do not wish to receive promotional or other marketing material from us or third parties then you can opt-out by contacting us via
+MALTAGDPR@exient.com
+and let us know that you no longer wish to receive promotional or other marketing material from us or third parties.
+If you are using an iOS device, you can opt out of personalised adverts by visiting
+https://oo.apple.com
+. For Android devices, you can visit
+https://support.google.com/ads/answer/2662922?hl=en-GB
+for information about opting out of personalised adverts.
+We may provide a link to the Website within the Games through which users can request the deletion of their personal data.
+YOUR RIGHTS IN RELATION TO PERSONAL DATA WHICH WE PROCESS RELATING TO YOU
+You have the following rights over the way we process personal data relating to you, as set out in the table below.  We aim to comply with requests without undue delay, and within one month at the latest.
+To make a request, please let us know by sending an email to
+MALTAGDPR@exient.com
+.
+Ask for a copy of data we are processing about you and have inaccuracies corrected
+You have the right to request a copy of the personal data we hold about you and to have any inaccuracies corrected.
+We will use reasonable efforts to the extent required by law to comply with requests to supply, correct or delete personal data held about you on our files (and request that any third parties to whom it has been disclosed to).
+We may provide a link to the Website within the Games through which users can request what personal data of theirs is being stored and also request us to amend such information.
+Object to us processing personal data about you
+You can ask us to restrict, stop processing, or to delete your personal data if:
+·          you consented to our processing the personal data, and have withdrawn that consent;
+·         we no longer need to process that personal data for the reason it was collected;
+·         we are processing that personal data because it is in the public interest or it is in order to pursue a legitimate interest of Exient Publishing or a third party, you don’t agree with that processing, and there is no overriding legitimate interest for us to continue processing it;
+·         the personal data was unlawfully processed;
+·         you need the personal data to be deleted in order to comply with legal obligations; and/or
+·         the personal data is processed in relation to the offer of a service to a child.
+Obtain a machine readable copy of your personal data, which you can use with another service provider
+·         If we are processing data in order to perform our obligations to you, or because you consented, or if that processing is carried out by automated means, we will help you to move, copy or transfer your personal data to other IT systems.
+·         If you request, we will supply you with the relevant personal data in in a commonly used, machine-readable and interoperable format. Where it is technically feasible, you can ask us to send this information directly to another IT system provider if you prefer.
+Make a complaint to a Supervisory Authority
+·         If you are unhappy with the way we are processing your personal data, please let us know by contacting us via the support services.
+·         If you do not agree with the way we have processed your data or responded to your concerns, an alternative is to submit a complaint to a Data Protection Supervisory Authority. Contact information for the Information Commissioner’s Office, the UK’s independent authority setup to uphold information rights, is available here:
+https://ico.org.uk/
+.
+DATA RETENTION
+In accordance with data protection laws and good commercial practice, we do not retain data in a form that permits identification of the person(s) to whom it relates for any longer than is necessary.
+CHILDREN
+We do not use our Online Services to knowingly solicit information from or market to children under the age of 13. Our terms of use prohibit users aged under 13 years from accessing our Online Services.  In the event that we learn that we have collected personal data from a child under 13 years of age we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age please contact us at
+MALTAGDPR@exient.com
+.
+SECURITY
+We will take all reasonable technical and organisational precautions to prevent the loss misuse or alteration of your personal data. In particular, we will take precautions to protect against the accidental or unlawful destruction, loss or alteration, and unauthorised disclosure of or access to the personal data transmitted, stored or otherwise processed by us. For example, databases containing personal data are encrypted at rest and encrypted in transit. In addition, roll based user access control is used and where possible. We also use multi factor authentication, IP whitelisting and SSH Keys for additional protection.
+Please be aware that, while we make the security of our Online Services and your personal data a high priority, no security system can prevent all security breaches.
+Unfortunately, the transmission of information via the internet is not completely secure. We do our best to protect your personal data, but we cannot guarantee the security of your data transmitted through our Online Services; the sharing of your personal data with us and any transmission is at your own risk.
+INTERNATIONAL DATA TRANSFERS
+Where you make in-Game purchases via iTunes or Google’s Play store, the confirmation that your purchase is valid as required by Apple or Google for such purchases will be processed using servers hosted in Singapore in the event that there is a problem with the servers hosted in Ireland.
+The Online Services are hosted by servers located at a data centre in the United States of America, hosted by Amazon Web Services.
+Where your personal data is transferred outside of the EEA to a territory not subject to an adequacy decision by the European Commission, we have agreements in place with the relevant parties which include either (i) standard data protection clauses adopted by the relevant data protection regulator and approved by the European Commission or (ii) standard data protection clauses adopted by the European Commission, to ensure that appropriate safeguards are used to protect your personal data. Alternatively, we may put in place other appropriate safeguards. If you require more information about these safeguards, you can contact us at
+MALTAGDPR@exient.com
+.
+CONTACT INFORMATION
+We have appointed a data protection officer who is responsible for overseeing questions in relation to this policy. If you have questions about this policy, or requests to exercise your rights, please contact our data protection officer using the below details.
+Company name: Exient Publishing Limited
+Company address: Vault 2, Pinto Wharf, Valletta Waterfront, Floriana, FRN 1913, Malta
+Email address:
+MALTAGDPR@exient.com
+Please direct questions or requests to Exient Publishing at
+MALTAGDPR@exient.com
+.   We will endeavour to respond to any query or questions within a reasonable amount of time (usually being within three business days).
+© 2021 Exient Publishing Limited. All rights reserved.
+Copyright © 2017 Exient Publishing Limited. All rights reserved.
+Our site uses cookies so that we can remember you and understand how you use our site. You can also read more about cookies and similar technologies in our Privacy Policy. You agree to the use of the cookies as they are currently set by clicking any links on our site.
+Ok
+Privacy policy

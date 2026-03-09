@@ -1,0 +1,31 @@
+Network Browser Privacy Policy
+Network Browser Privacy Policy
+Updated November 6, 2022
+Network Browser is developed and published by
+Ape Apps, LLC
+.  Ape Apps collects absolutely no personally identifiable information about our users without express consent.  Network Browser does utilize some online services, and you should review how they are used below.
+Install and Error Tracking
+Network Browser utilizes Ape Apps' own in-house installation and error tracking server, and absolutely no information is shared with any third parties whatsoever.  The server keeps a record of the date and time that the app was installed, what operating system the device is using (Android, iOS, Windows, etc), and which version of the app was installed.  In the event that the app has a crash or error, a message is also sent to the server containing which line of code caused the crash so that the developers can identify and address the issue for the next update.
+Google AdMob
+Network Browser is monetized using the Google AdMob advertising network, for non-premium users.  Unless opted out by the user, AdMob utilizes the device advertising id in order to serve personalized ads to the user.  Ape Apps, LLC does not see, intercept or exchange any of this information with Google in any way.  Please refer to
+Google's Privacy Policy
+for more information.
+Ape Apps Account
+Optionally, Network Browser gives users the ability to create and log in using an
+Ape Apps Account
+.  There is no requirement to do so.  Logging in with Ape Apps allows you to sync your in-app purchases across platforms and to sync your saved game data between devices.  No personal information is collected besides your email address, and no private or payment information is ever stored on our servers.
+Cloud Sync
+As a free service to all Network Browser users, users who are signed in using an Ape Apps account (again, optional) will have their Network Browser settings, data and progress automatically synced between their various devices.  Again, no personal information is captured.  To disable this feature, simply sign out of Ape Apps from within the app.
+Anti-Piracy Measures
+The first time the user launches Network Browser, anonymous data is transmitted to the Ape Apps server to verify the integrity of the install, in an effort to combat software piracy.  In addition, a similar check is made with the Ape Apps server when conducting an in-app purchase, or when unlocking the app using a
+Premium License Key
+file.  No personal information is collected during these anti-piracy checks.
+Non-Online Features
+In addition to the online features mentioned above, Network Browser includes some offline capabilities in which you may want to be aware of.  Specifically, Network Browser has the ability to detect specific state changes with your device, such as when the device is rotated, or when the device has an incoming phone call or notification.  These abilities are only there in order to improve app usability.  For instance, Network Browser can detect movements in your device in order to facilitate the handling of shake related gestures.  In addition, Network Browser can detect when a phone call is received in order to disable in-app sound effects during a phone call.  In any event, no information relative to your device or your phone calls or contacts is ever collected or stored by Ape Apps.
+Underlying Philosophy
+At the end of the day, Ape Apps, LLC exists to provide entertainment and utility to our users.  Ape Apps is an entertainment company first and foremost, and we have absolutely no interest in data mining our customers, or selling their information to third parties.  Your privacy is a top concern for Ape Apps, and Network Browser users can rest assured that we take your privacy seriously.  If you have any additional questions or concerns regarding your privacy relative to Network Browser, do not hesitate to contact us at
+support@ape-apps.com
+, or visit our
+Support Forum
+where we will be happy to answer any concerns that you may have.
+Copyright ©2010-2023 Ape Apps, LLC

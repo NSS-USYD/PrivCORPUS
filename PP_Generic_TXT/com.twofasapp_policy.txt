@@ -1,0 +1,279 @@
+Privacy Policy - 2FAS
+Privacy Policy - 2FAS. Two Factor Authentication Service, Inc.
+Skip to main content
+MENU
+CLOSE
+HOME
+DOWNLOAD APP
+DOWNLOAD
+iOS App
+Android App
+BROWSER EXTENSION
+BROWSER EXT
+HELP CENTER
+HELP
+ABOUT US
+DONATE
+GITHUB
+Privacy Policy
+Two Factor Authentication Privacy Policy – Effective Date Aug 18, 2022.
+Who We Are
+. Two Factor Authentication Service, Inc. (“2FAS”) provides security tokens for Users to use as secondary login authentication on any website that supports TOTP or HOTP two-factor authentication tokens. We are a registered Delaware corporation, with a registered office at 16192 Coastal Highway, Lewes, DE 19958 and a mailing address at 1887 Whitney Mesa Dr #2130 Henderson, Nevada 89014.
+Our Commitment to Your Privacy
+. Two Factor Authentication Service, Inc. , (“we”, “our”, “us”, or “2FAS”) is committed to protecting your privacy. The term “you”, “your”, and “User” is used to refer to individuals and business entities that use all pages associated with our Site, 2FAS BE and 2FAS Application. This Privacy Policy sets forth how we use and protect Personal Information that you give when you sign up for the 2FAS Services under the
+Terms of Service
+, use the pages associated with our Site, 2FAS BE or use the 2FAS Application. By using our Site, 2FAS BE or 2FAS Application, you agree to this Privacy Policy.
+Scope of this Privacy Policy
+. You recognize that this Privacy Policy does not apply to any data, including Personal Information, that you may give to, or store in the, websites and mobile applications that you access using 2FAS’s solution. We provide tokens solely for the purpose of providing you with a secure manner of accessing your online accounts. 2FAS has posted additional privacy provisions that apply to residents of California and the European Economic Area (EEA).
+Consent to Changes
+. We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this Privacy Policy at any time, without prior notice to you. All revisions will be posted on this page. Please check the Effective Date of the Privacy Policy for the most recent version. Please review this Privacy Policy for changes. Your continued use of the pages associated with this website constitutes your acceptance of any changes. Notwithstanding the foregoing, we will endeavor to notify those Users who have provided us with an email address via email when a new version of this Privacy Policy goes into effect.
+Definitions
+.
+Device means the mobile device (phone, tablet, and the like) that you use to download and use the 2FAS Services.
+2FAS Application means our application that allows Users to generate TOTP (Time-based one-time password) or HOTP (HMAC-based one-time password algorithm) tokens for any website or other application that supports TOTP or HOTP two-factor authentication tokens.
+2FAS Browser Extension (“2FAS BE”) means a small software module for customizing a web browser in a way to receive tokens from the 2FAS Application.
+Personal Information means information that identifies or can be reasonably linked to you or someone in your household. This includes, but is not limited to: Device ID, Email address, and records of services purchased from us.
+PIN means the Personal Identification Number you can set in order to open the 2FAS Application on your Device.
+Privacy Policy means this document, which includes California specific provisions and GDPR specific provisions.
+2FAS Services or Services means all products and services that 2FAS currently provides or may provide in the future.
+Site means all webpages and 2FAS Application screens associated with the Services provided by 2FAS.
+Terms of Service means the document that you agreed to be bound to when you use 2FAS’s Application. The most recent version of the Terms of Service can be found
+here
+.
+Information Collected
+. As part of our commitment to your privacy, we work to reduce the amount of Personal Information that we collect and store about our Users. However, you recognize that in order to provide the 2FAS Services, we must collect and store certain information. By using the 2FAS Services and agreeing to this Privacy Policy, you grant us consent to use and store such information. In accordance with the terms and conditions of our
+Terms of Service
+, we collect and store the following information:
+Device ID (including brand, model, unique ID, operating system info, and storage state)
+Cookies and analytics
+Collection Purpose
+. We collect Personal Information about you for a variety of reasons.
+In order for you to use 2FAS Services and receive tokens, we must have access to your Device ID. In order to receive push notifications from the 2FAS Application, you must provide us with your Device ID. We collect information to detect and prevent fraud and security breaches.
+We collect information to improve the 2FAS Services and provide customer support. This may include detecting technical issues, maintaining Services, improving Services through the use of analytics, and conducting research and reviewing analytics to improve current Services and develop new Services.
+We collect information to comply with applicable laws and assert and defend claims brought against us.
+We do not use your Personal Information for purposes that are not in the spirit of the original collection purpose.
+How we use the Personal Information that we collect about you
+. We only use the Personal Information you provide for the reasons listed above. We do not and will never sell, trade, or otherwise transfer your Personal Information to an unrelated third party for marketing, advertising, or other uses. We do share your information with third parties only in order to provide the 2FAS Services, including push notifications, payment processors for donors, email processing for those who provided it to us in order to contact us, and security and fraud prevention. You can read more about the Personal Information that we share with third parties in Section 13.
+Cookies, Analytics, Etc.
+In addition to Personal Information, we collect information about your visit to our Site and use of our Services. This data may be entered voluntarily or collected passively. We use this information to operate, provide, and improve our Services and monitor for fraud and security breaches. You can change the settings on your computer, tablet, or mobile Device to disable certain passive tracking data.
+Cookies. Our Site uses cookies to track the pages that you visit and the links that you click. A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website on your computer, tablet, or smartphone, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, however, to protect your privacy, your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Information is compiled in an aggregate manner and used for marketing and analytics purposes.
+Analytics. Analytics allow us to understand how and why Users use our Services, Site, and the 2FAS Application. Understanding how and why allows us to tailor and improve our Services to better serve our Users’ needs.
+What analytics we use. We use Google Analytics to understand our Users’ how and why. You can read more about Google Analytics here (
+https://policies.google.com/technologies/partner-sites
+),
+How to opt-out on your end. If you do not want cookies, analytics to be collected about you, please disable cookies on your web and mobile browsers.
+Opt-Out
+.
+Right to opt-out of sale of your Personal Information. We do not and will never sell, trade, or otherwise transfer your Personal Information to an unrelated third party for marketing, advertising, or other uses.
+Deletion
+. You have the right to request that we delete the Personal Information we have gathered on you. However, if any of the Personal Information is required in order to provide you with 2FAS Services, then you will not be able to use 2FAS Services if we delete your Personal Information. Please read the Section 7 above to learn about what Personal Information is required for us to provide you the 2FAS Services.
+Children’s Privacy
+. 2FAS is committed to the privacy and security of Personal Information relating to children. For this reason, the Services provided by us are not to be used by anyone under the age of 16. If we discover that you are under the age of 16, we reserve the right to remove your access to all Services. By agreeing to this Privacy Policy and using the Services, you represent that you are over the age of 16.
+Sharing Information with Third Parties
+. We do not and will never sell, trade, or otherwise transfer your Personal Information to an unrelated third party for marketing, advertising, or other uses. Unrelated third parties do not include those that assist us in performing the 2FAS Services. We may release your Personal Information when it is appropriate to comply with the law, enforce this Privacy Policy, assert and defend claims brought against us, or protect its or others’ rights, property, or safety.
+Links to Other Websites
+. 2FAS’s Site, 2FAS BE and the 2FAS Application may contain links to other websites which are of interest to our Users. These third party websites have separate and independent privacy policies. 2FAS has no responsibility or liability for the content or activities of the websites accessible via the links and it is your responsibility to review and comply with any applicable privacy policy. 2FAS is not responsible for and does not endorse any third party website.
+Contact Us
+. You may contact us via email at
+[email protected]
+with the subject line “Privacy Policy” and a description of your question, issue, or deletion request in the body of the email.
+Notice
+. Notices under this Privacy Policy may be posted to our Site and sent via email to Users who have provided us with an email address.
+California Consumer Privacy Act Compliance Supplement
+Application
+. Who does the CCPA applies to?
+The California Consumer Privacy Act of 2018 (“CCPA”) only applies to residents of California. A “resident” is a natural person who resides in California.
+Definitions
+.
+Device means the mobile device (phone, tablet, and the like) that you use to download and use the 2FAS Services.
+2FAS Application means the application that allows Users to generate TOTP (Time-based one-time password) or HOTP (HMAC-based one-time password algorithm) tokens for any website or other application that supports TOTP or HOTP two-factor authentication tokens.
+2FAS Browser Extension (“2FAS BE”) means a small software module for customizing a web browser in a way to receive tokens from the 2FAS Application.
+Personal Information means information that identifies or can be reasonably linked to you or someone in your household. This includes, but is not limited to: Device ID, Email address, and records of services purchased from us.
+PIN means the Personal Identification Number you can set in order to open the 2FAS Application on your Device.
+Privacy Policy means this document, which includes California specific provisions and GDPR specific provisions.
+2FAS Services or Services means all products and services that 2FAS currently provides or may provide in the future.
+Site means all webpages and 2FAS Application screens associated with the Services provided by 2FAS.
+Terms of Service means the document that you agreed to be bound to when you use 2FAS’s Application. The most recent version of the Terms of Service can be found
+here
+.
+Notice at Collection
+. We are providing you this Notice at Collection in compliance with the CCPA. You must read and accept this Notice at Collection prior to submitting any Personal Information to us as part of creating your account and signing up for the 2FAS Services.
+Right to Know
+. As a California resident, you have the Right to Know certain information regarding the Personal Information that we gather about you. We will respond to your Right to Know request within forty-five (45) calendar days. If we are unable to process your request within forty-five (45) calendar days, then we will inform you that we have extended the deadline for an additional forty-five (45) days. As part of our process for answering your Right to Know request, we will need to ask you additional information in order to verify that you are actually the person you claim to be. We will only use this requested information as part of our verification process and not for any other reason.
+We collect the following Personal Information:
+Categories of Personal Information collected
+Device ID
+Email address of users who contacted us through email
+Specific pieces of Personal Information collected
+Device ID
+Brand
+Model
+Unique ID
+Operating system info
+Storage state
+Contact Information of users who contacted us through email
+Email address
+Categories of sources from which we collect your Personal Information
+We store the email address of users who contacted us through email.
+Once you download the 2FAS Application and begin to use the 2FAS Services, the 2FAS Application will record your Device ID.
+Purpose for which we collect your Personal Information
+We collect the Personal Information listed above in order to provide Services to you. In order for you to use 2FAS Services and receive tokens, we must have access to your Device ID. In order to receive push notifications from the 2FAS Application, you must provide us access to your Device ID.
+We collect the email addresses of users who sent us an email in order to reply and contact them back.
+Categories of third parties with whom we share your Personal Information
+We may share your email address with third parties in order to send email to you through 3rd party service.
+We may share your Personal Information (including email address) for processing payment companies if you want to donate to us.
+Categories of Personal Information that we share, sell, or disclose to third parties
+We do not and will never sell, trade, or otherwise transfer your Personal Information to an unrelated third party for marketing, advertising, or other uses.
+Unrelated third parties do not include those that assist us in performing our Services (including but not limited to include 2FAS Application push notifications, payment processors, email processing, and security and fraud prevention).
+We may release your Personal Information when it is appropriate to comply with the law, enforce this Privacy Policy, or protect ours or others’ rights, property, or safety.
+Procedure for requesting your Personal Information:
+You may contact us via email at
+[email protected]
+with the subject line “CCPA Right to Know” and a description of the Personal Information that you are requesting in the body of the email.
+We may refuse to disclose your Personal Information if:
+We cannot verify your request.
+Your request is manifestly unfounded or excessive.
+If we have already provided you with the requested Personal Information more than two times in the prior 12-month period.
+You request that we disclose Personal Information that is your password or PIN. 2FAS does not collect any of this information from Users.
+Right to Delete
+. As a California resident, you have the Right to Delete certain Personal Information that we gather about you. We will respond to your Right to Delete request within forty-five (45) calendar days. If we are unable to process your request within forty-five (45) calendar days, then we will inform you that we have extended the deadline for an additional forty-five (45) days. As part of our process for answering your Right to Delete request, we will need to ask you additional information in order to verify that you are actually the person you claim to be. We will only use this requested information as part of our verification process and not for any other reason.
+Procedure to request your Personal Information be deleted:
+You may contact us via email at
+[email protected]
+with the subject line “CCPA Right to Delete” and a description of the Personal Information that you are requesting in the body of the email
+In some cases, we may not be able to delete the Personal Information that you request and still provide you Services under the
+Terms of Service
+. For example, in order for you to use 2FAS Services and receive tokens, we must have access to your Device ID. In order to receive push notifications from the 2FAS Application, you must provide us access to your Device ID.
+Right to Opt-Out
+. As a California resident, you have the Right to “Opt-Out” from a business’s practice of selling your Personal Information. 2FAS has the policy of not selling, trading, or otherwise transferring your Personal Information to an unrelated third party for marketing, advertising, or other uses. If our policy changes in the future, we will notify you prior to selling, trading, or otherwise transferring your Personal Information to an unrelated third party for marketing, advertising, or other uses and obtain your consent for such practices. At such a time, this Privacy Policy will be updated to outline the procedure for opting out of such sale, trade, or transfer.
+Right to Non-Discrimination
+. We will not discriminate against you based on your exercise of your rights under the CCPA. However, if we are unable to process your CCPA request and continue to provide you 2FAS Service under the
+Terms of Service
+, then you may no longer be able to receive 2FAS Service under the
+Terms of Service
+.
+No Sale
+. 2FAS has not sold California residents’ Personal Information over the past 12-month time frame and does not intend to do so. This includes the Personal Information of children under the age of sixteen (16).
+Data Breaches. In accordance with California Civ. Code s. 1798.82(a), we will notify you if your unencrypted Personal Information was, or we have reason to believe has been, acquired by an unauthorized person. In addition, we will notify you if your encrypted Personal Information was, or we have reason to believe has been, acquired by an unauthorized person and the encryption key was, or we have reason to believe has been, acquired by an unauthorized person and we have reason to believe that the encryption key could be used to make your Personal Information readable or usable. Such notification may be posted to our Site and sent via email to Users who have provided us with an email address. It will be titled “Notice of Data Breach”, and it will include:
+What Happened
+What Personal Information was Involved
+What We Are Doing
+What You Can Do
+Where to go For More Information
+Contact Us
+.
+You may contact us via email at
+[email protected]
+with the subject line “CCPA Privacy Policy” and a description of your question, issue, or deletion request in the body of the email.
+Notice
+. Notices under this Privacy Policy may be posted to our Site and sent via email to Users who have provided us with an email address.
+General Data Protection Regulation of the European Union Compliance Supplement
+Application
+. Who does the GDPR applies to?
+The General Data Protection Regulations of the European Union (“GDPR”) applies to residents and citizens of countries in the European Union. A “resident” is a natural person who resides in a European Union Country.
+Definitions
+.
+Device means the mobile device (phone, tablet, and the like) that you use to download and use the 2FAS Services.
+2FAS Application means the application that allows Users to generate TOTP (Time-based one-time password) or HOTP (HMAC-based one-time password algorithm) tokens for any website or other application that supports TOTP or HOTP two-factor authentication tokens.
+2FAS Browser Extension (“2FAS BE”) means a small software module for customizing a web browser in a way to receive tokens from the 2FAS Application.
+Personal Information means information that identifies or can be reasonably linked to you or someone in your household. This includes, but is not limited to: Device ID, Email address, and records of services purchased from us.
+PIN means the Personal Identification Number you can set in order to open the 2FAS Application on your Device.
+Privacy Policy means this document, which includes California specific provisions and GDPR specific provisions.
+2FAS Services or Services means all products and services that 2FAS currently provides or may provide in the future.
+Site means all webpages and 2FAS Application screens associated with the Services provided by 2FAS.
+Terms of Service means the document that you agreed to be bound to when you use 2FAS’s Application. The most recent version of the Terms of Service can be found
+here
+Who We Are
+.
+Two Factor Authentication Service, Inc. (“2FAS”) provides security tokens for Users to use as secondary login authentication on any website that supports TOTP or HOTP two-factor authentication tokens. We are a registered Delaware corporation, with a registered office at 16192 Coastal Highway, Lewes, DE 19958 and a mailing address at 1887 Whitney Mesa Dr #2130 Henderson, Nevada 89014. You can contact us via email at
+[email protected]
+with the subject line “GDPR.”
+What Personal Data We Collect
+. 2FAS takes the security of your Personal Data seriously. To that end, we minimize the Personal Data that we collect about you and are transparent in how it is processed and used. 2FAS collects minimal to no Personal Data for Users who only download and use the 2FAS Application. You recognize and agree that in order for 2FAS to provide you 2FAS Service under the
+Terms of Service
+, you must grant us consent to use and process the Personal Data that we request at sign-up. Processing the requested Personal Data is necessary for us to perform Services under the
+Terms of Service
+. The requested Personal Information includes:
+Device ID
+Brand
+Model
+Unique ID
+Operating system info
+Storage state
+Contact Information of users who contacted us
+We collect the email addresses of users who sent us an email in order to reply and contact them back.
+If you fail to provide such Personal Data or request that we delete such Personal Data, we will be unable to provide you 2FAS Service under the
+Terms of Service
+and your access to the 2FAS Service will be canceled pursuant to the
+Terms of Service
+.
+Analytic Data. In addition to the Personal Data that is required to provide 2FAS Services, we collect cookies, Google Analytics for improving the 2FAS Services. We retain and analyze this information to evaluate how you, and other Users, move around our Site and the 2FAS Applications. This helps us to understand how our Site and the 2FAS Applications are used so that we can continually provide improved Services.
+How we use your Personal Data
+. We use your Personal Data for the following reasons:
+We use the Personal Information listed above in order to provide Services to you. In order for you to use 2FAS Services and receive tokens, we must have access to your Device ID. In order to receive push notifications from the 2FAS Application, you must provide us access to your Device ID.
+How We Collect Your Personal Data
+. You provide us with Personal Data directly when you use our 2FA Application. In addition, we collect and process data when you view or use our Site via your web browser’s cookies.
+Who receives the Personal Data
+. The Personal Data that you provide will be shared with our third party providers only when sharing such information is necessary to provide portions of the 2FAS Services to you. These third party providers include those that assist us in performing the 2FAS Services (including but not limited to 2FAS Application push notifications, payment processors for donors and email processing in order to contact you). In addition, we will release your Personal Data when it is required to comply with the law, enforce this Privacy Policy, or protect ours or others’ rights, property, or safety.
+No Sale
+. We do not and will never sell, trade, or otherwise transfer your Personal Information to an unrelated third party for marketing, advertising, or other uses.
+Who can access the Personal Data
+. Your Personal Data can only be accessed by 2FAS employees, contractors, and third parties who have a legitimate interest in processing the Personal Data.
+How We Store Your Personal Data
+. We store your Personal Data on a secure Amazon Web Services cloud located In the United States. All Personal Data is encrypted using industry standard encryption methods. We will update this GDPR Supplement if we change the location of your Personal Data.
+How Long We Store Your Personal Data
+. We will store your Personal Data as long as you have an active account and use the 2FAS Services. After you cancel your Services and ask to delete your account, we will delete all your Personal Data within 7 days. However, we will maintain all records of payment and invoices for the period of time required by applicable governmental and regulatory bodies.
+Data transfer outside of the EU
+. We may transfer and store your Personal Data in countries other than the country in which the Personal Data was originally collected. These countries may be outside of the European Economic Area (“EEA”). These countries may not have the same data protection laws as the country in which you reside or provide the Personal Data. If your Personal Data is transferred, we will protect your Personal Data as described in this Privacy Policy and comply with applicable legal requirements for transferring Personal Data outside of the EEA. If you reside in the EEA, we will only transfer your Personal Data if:
+The country to which the Personal Data is being transferred to has been granted a European Commission adequacy decision;
+The recipient of the Personal Data is located in the US and has certified to the US-EU Privacy Shield Framework or its successor frameworks; OR
+We have put in place appropriate safeguards for the transfer.
+Children under 16
+. Pursuant to Article 8 of GDPR, children under the age of 16 are not allowed to give us consent to use and process their Personal Data. Therefore, if you are under the age of 16, you cannot consent to this Privacy Policy or the
+Terms of Service
+. If we discover that you are under the age of 16, your consent will be revoked and your license to use the 2FAS Service under the Terms of Service will be canceled effective immediately.
+GDPR Rights
+.
+Pursuant to Article 15 of GDPR, you have the right to obtain from 2FAS confirmation as to whether your Personal Data is being processed. If we are processing your Personal Data, you have the right to know the purposes of the processing, the categories of your Personal Data being processed, who the recipients of your Personal Data, and how long we believe your Personal Data will be stored for. We will respond to your request within thirty (30) calendar days. We will provide this information to you in a machine-readable format. We may charge you a small fee to provide this information.
+Pursuant to Article 16 of GDPR, you have the right to request that we correct any of your Personal Data that is incorrect or incomplete. We will endeavor to correct and/or complete your Personal Data within thirty (30) calendar days of your request.
+Pursuant to Article 17 of GDPR, you have the right to request that we erase your Personal Data when the Personal Data is no longer necessary for the purpose for which it was collected and processed, there is no legal grounds for processing, there is no overriding legitimate interest for us to process your Personal Data, your Personal Data has been unlawfully processed, or we have been compelled to comply with a legal obligation from a country in the European Union or Member States. We will respond to your request within thirty (30) calendar days.
+Pursuant to Article 18 of GDPR, you have the right to require us to restrict processing your Personal Data when you are contesting the accuracy of your Personal Data, the processing is unlawful, we no longer need your Personal Data but are storing it for the establishment, exercise, or defense of legal claims, or you are exercising your right to object to processing under Article 21 of the GDPR.
+Complaints
+. If you are not satisfied with how we have handled your Personal Data, please contact us at
+[email protected]
+with the subject line “GDPR Complaint” and a summary of your issue(s) in the body of the email. You also have the right to lodge a complaint with the supervisory authority of the EU/EEA country in which you reside or are a citizen of.
+Changes
+. We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this Privacy Policy GDPR Supplement any time, without prior notice to you. All revisions will be posted on this page. Please check the Effective Date of the Privacy Policy for the most recent version. Please review this Privacy Policy for changes. Your continued use of the pages associated with this website constitutes your acceptance of any changes. Notwithstanding the foregoing, we will endeavor to notify those Users who have provided us with an email address via email when a new version of this Privacy Policy goes into effect.
+2FAS
+How to enable 2FA
+Your branding
+Donate
+About us
+Press Kit
+Open Source Licenses
+Privacy Policy
+Terms of Service
+Cookie Policy
+Products
+2FAS Auth - iOS
+2FAS Auth - Android
+2FAS Browser Extension
+Support
+2FAS Support
+Check generated token
+2FAS Help Center
+Comparisons
+Google Authenticator vs. 2FAS
+Authy vs. 2FAS
+Microsoft Authenticator vs. 2FAS
+Duo vs. 2FAS
+Code distributed under
+GPLv3 license
+Cookies on the 2FAS website
+We use your information – collected through cookies – to improve your experience on our site and analyse how you use it.
+You can find out more in our
+privacy policy
+and
+cookie policy
+, and manage your consent at any time.
+OK

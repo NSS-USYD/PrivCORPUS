@@ -1,0 +1,34 @@
+Dasar Privasi | Quran Android
+Dasar Privasi
+Apabila anda menggunakan aplikasi kami, anda mempercayai kami dengan maklumat anda. Kerana kami sangat fokus dengan privasi anda, maka Dasar Privasi ini bertujuan untuk membantu anda memahami data apa yang kami kumpulkan dan mengapa kami memerlukannya. Ini penting; Kami harap anda meluangkan masa untuk membacanya dengan saksama. Kami akan menjelaskannya dengan semudah mungkin.
+Mengumpul Maklumat Peranti
+Aplikasi Al-Qur'an Melayu ini menggunakan
+Google Firebase Analytics
+(salah satu produk Google) untuk mengumpulkan maklumat, seperti: model peranti, versi sistem operasi dan apa sahaja ciri yang sering dibuka dalam aplikasi ini.. 
+									Kami menggunakan maklumat ini sehingga kami mengetahui pengalaman pengguna dalam aplikasi ini, 
+									agar aplikasi ini dapat menjadi lebih baik dalam pembaruan berikutnya. 
+									Anda pasti tahu, hampir semua aplikasi di Google Play Store dan Apple Store menggunakan Google Firebase Analytics.
+Mengumpulkan E-mel
+Aplikasi Al-Qur'an Melayu ini menggunakan
+Google Firebase Authentication
+untuk "Sign-In" dalam aplikasi kami, sehingga kami dapat mengenal pasti data Terakhir Baca dan Bookmark anda 
+									ketika menggunakan fitur automatik untuk menyimpan data ini ke Server kami. Oleh itu secara tidak langsung alamat Gmail anda akan disimpan ke dashboard Firebase dan Server kami. Anda harus tahu, Firebase adalah salah satu produk Google, Google tidak akan membenarkan semua developer (termasuk kami) mengetahui password anda dengan cara apa pun, 
+									jadi anda tidak perlu risau kehilangan akaun Gmail anda kerana "Sign-In" dalam aplikasi kami, 
+									kami hanya mengumpulkan alamat Gmail untuk mempermudah mengenal pasti data Terakhir Baca dan Bookmark anda, 
+									kami juga tidak akan membagikan alamat Gmail anda dengan siapa pun untuk tujuan apa pun.
+Memerlukan Maklumat Lokasi
+Aplikasi Al-Qur'an Melayu ini memerlukan GPS dihidupkan ketika membuka fitur Jadual Solat agar fitur tersebut berfungsi dengan baik. 
+									Hal ini diperlukan untuk mendapatkan koordinat lokasi anda berada agar aplikasi ini dapat mengira waktu solat dengan tepat. 
+									Anda harus tahu, kami tidak mengumpulkan maklumat mengenai koordinat lokasi anda ke server kami, kami hanya menyimpan koordinat anda pada peranti anda. 
+									Yang kami kumpulkan hanya lokasi umum anda (nama bandar) ke dalam Google Firebase Analytics, seperti yang dijelaskan pada titik pertama.
+Memerlukan Akses Penyimpanan
+Aplikasi Al-Qur'an Melayu ini memerlukan akses kepada penyimpanan di peranti anda, sehingga salah satu ciri-ciri berfungsi dengan baik. Hal ini diperlukan agar anda boleh memuat turun fail audio murottal dari server kami ke tempat penyimpanan anda. Sehingga audio murottal boleh diakses secara offline. Anda perlu tahu, kami tidak akan dan niat untuk mencuri data dari tempat penyimpanan anda ke server kami.
+Maklumat Keselamatan
+Kami telah melaksanakan keselamatan pentadbiran dan teknikal yang diyakini sangat
+advance
+untuk melindungi data dan privasi anda.
+Disemak semula terakhir 9 Juni 2022.
+Copyright © 2023
+Mobile Apps by Andi Unpam
+|
+Dasar Privasi

@@ -1,0 +1,109 @@
+STCodesApp - TextToSpeech
+Search this site
+Skip to main content
+Skip to navigation
+STCodesApp
+হোম
+NoteIt
+Apps
+TextToSpeech
+SpeechToText
+Image To PDF
+Video Compressor, Converter
+Image Compressor
+Add Audio To Video
+BPL2019
+Video Trimmer - Video Cutter
+Audio Trimmer And Editor
+Slide Show Maker - Video Maker
+Add Text On Photo
+STCodesApp
+হোম
+NoteIt
+Apps
+TextToSpeech
+SpeechToText
+Image To PDF
+Video Compressor, Converter
+Image Compressor
+Add Audio To Video
+BPL2019
+Video Trimmer - Video Cutter
+Audio Trimmer And Editor
+Slide Show Maker - Video Maker
+Add Text On Photo
+More
+হোম
+NoteIt
+Apps
+TextToSpeech
+SpeechToText
+Image To PDF
+Video Compressor, Converter
+Image Compressor
+Add Audio To Video
+BPL2019
+Video Trimmer - Video Cutter
+Audio Trimmer And Editor
+Slide Show Maker - Video Maker
+Add Text On Photo
+Text to Speech
+Privacy Policy
+Internet Access and Usage
+This app use internet connection for fetching data from internet. The internet access permission is required for couple of reason. The app
+Contains Ads
+and
+In App Purchase
+. For showing ad and fetching in app purchase information access to internet is necessary. The app also use couple of
+Firebase Services
+like
+Firebase Crashlytics
+(For logging crash info),
+Firebase RemoteConfig
+(For storing and fetching app specific value). These services also required internet connection access.
+Storage Access
+This app takes the permission of writing the internal or external storage of your phone. For saving individual image to Gallery as file
+Writing Storage Permission
+is required. While saving
+Text To Speech as Audio
+files inside
+App private folder
+no special permission is required. But when you wish to save
+them
+inside your
+Gallery
+then
+Storage Write Permission
+is required for. For
+Android 6.0 Marshmallow - Android 9 Pie
+Storage Write Permission is required for saving
+audio files
+inside gallery as these files are saved inside Public Folder. For
+Android 10.0 and Onwards
+No special permission is required for saving
+audio files
+inside gallery as these files are saved inside
+Music
+Folder. You may find these permission inside Google Play as
+Photos / Media / Files
+- read the contents of your USB storage
+Storage
+- read the contents of your USB storage
+Others
+The app also has the following access to your device according to Android Permission Information displayed on the
+PlayStore
+*
+view Wi-Fi connections
+* full network access
+* prevent device from sleeping
+* view network connections
+Any Question?
+We always encourage user's feedback and queries. If you have any question or queries regarding to any feature and privacy policy related issue feel free to drop us an email at
+stappsbd@gmail.com
+We are looking forward to assist you.
+Further Clarification
+Without the provides information and privacy policy we do not access any other user's data. We strongly claim not to view these data or store these data anywhere in the universe. We also confident about not to share your data with anyone. STCodesApp also hold the right to modify this privacy policy with proper consideration under certain circumstances. Thanks
+Google Sites
+Report abuse
+Google Sites
+Report abuse

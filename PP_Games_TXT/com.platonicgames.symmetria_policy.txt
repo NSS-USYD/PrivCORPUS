@@ -1,0 +1,106 @@
+Privacy Policy
+PRIVACY POLICY - Symmetry
+General
+Symmetry
+collects some user data for different purposes.
+This document explains as simply and complete as possible:
+which data is collected
+why is it collected
+how is it stored and transfered
+where and how long is it stored
+who has access to it
+what can a user do about it
+which 3rd party services and platforms are included in the game, and their own Privacy Policies
+The data we (Platonic Games) directly collect is always anonymous and used to provide services to the user, improve those services, improve the game's design and our marketing strategies.
+As mentioned, you will find below all the details about the data we collect, plus the data 3rd parties collect and the details about how they do it as well.
+Game Data
+We call game data all the information related to the game content and game configuration the user generates when playing the game. That would be, for instance: coins amount, user level, unlocked characters, sound options, character customization...
+We store that information to provide a persistence service across different user devices and app installations. We sometimes use the stored information to provide user support under demand of the user itself.
+This data is stored and identified by the user's Google Play Games or Game Center user identification. The user can choose not to log into these services, disabling our data persistence services. No data of this kind is then transferred or stored outside the device.
+Specific information:
+Platonic Games
+Game Data itself is not personal data.
+It is stored in Firebase Database, encrypted and transferred using HTTPS protocol.
+This data is not automatically erased after a period of time.
+This data is not shared with any party outside Platonic Games.
+We use this data to provide data persistance service purposes and give user support under their own demand.
+Firebase
+Services used are Firebase Authentication and Firebase Realtime Database.
+Firebase Privacy Policy
+Apple Game Center
+We use the ID provided by Apple Game Center to identify the same user across different game setups and user devices.
+Apple Game Center Legal Terms
+Apple Privacy Policy
+Google Play Games
+We use the ID provided by Google Play Games to identify the same user across different game setups and user devices.
+Google Play Games Terms of Service
+Google Privacy Policy
+Google Play Developer Privacy Policy
+Analytics
+We call analytics all the information collected in order to examine and understand user behavior and validate game design, marketing actions or software quality. That would be, for instance: time spent playing, gameplay user choices, mission success rate, moment of purchase, device model and OS version...
+We use 3rd party services to collect, store and process that information. It can only be read by the 3rd party platform operators, ourselves, and specific partners of our choice in an aggregate manner. Aggregate manner means that it sums up anonymously the data of many players, for instance: "10% of the players that downloaded the game reach level 5" or "there were 25000 new players on April 24th" would be aggregate data, but "player 2362345 has 342 coins" is not, as it reveals information about an individual player.
+Specific information:
+Platonic Games
+No party outside Platonic Games or the corresponding analytics operator can read the data in a non aggregate manner.
+Individual data is automatically erased after a period of time.
+We use this data for analytics and marketing purposes.
+Unity Analytics
+Unity Monetization Terms of Service
+Unity Privacy Policy
+Unity on GDPR
+Game Analytics
+Game Analytics Privacy Policy
+Game Analytics Terms of Use
+Game Analytics GDPR FAQ
+Advertising
+This game includes ads. Our advertising partners collect some information about the way users use our game so they can advertise products and services that are more likely to be relevant to them.
+Ad networks are companies that manage the advertising process on this and many other apps. For that reason, they may know information about users based on the way they use all the apps where they provide advertising services. They compile this information to paint a picture of which types of adverts specific users are likely to be interested in.
+Specific information:
+Platonic Games
+We only have access to this data in an anonymous, aggregate manner.
+We use this data for advertising revenue and performance check purposes.
+IronSource has access to this data in an anonymous, aggregate manner.
+Each 3rd party network has access to the data collected by itself.
+AdMob
+Admob Privacy Policy
+Admob on GDPR
+Unity Ads
+Unity Monetization Terms of Service
+Unity Privacy Policy
+Unity on GDPR
+Chartboost
+Chartboost Privacy Policy
+Chartboost Terms & Conditions
+IronSource
+IronSource Privacy Policy
+IronSource Terms of Service
+Ironsource on GDPR
+Facebook Audience Network
+Facebook Audience Network Privacy Policy
+Facebook Terms
+Facebook on GDPR
+Payments
+This game contains the possibility to purchase virtual content with real money. To do this, it allows 3rd party services to process user payments.
+You can find out more about how they secure your sensitive information in their legal terms below.
+Specific information:
+Platonic Games
+We only have partial access to this data and in an anonymous manner (order numbers, refunds, product, date, country, payment denials).
+We use this data for in-app products revenue and performance check purposes.
+Google Play
+Google Play Terms of Service
+Google Privacy Policy
+Google Play Developer Privacy Policy
+App Store
+App Store Privacy Plocy
+Apple Privacy Policy
+Security and Control
+Sensitive information is encrypted during transit via HTTPS protocol and during storage to our best knowledge, and data encryption at rest relies on each 3rd party service or platform involved as mentioned for each section of this document.
+We recognize users as the rightful owners of their data, and thus provide users the possibility to retrieve, remove, ammend or control the data collected from them. Please contact us as specified below to use this posibility and apply your rights.
+Contact
+For any questions, concerns, anything we can help you with, please contact us at
+privacy@platonicgames.com
+!
+Also, you can reach out our Data Protection Officer (DPO) Ãlvaro GutiÃ©rrez anytime at
+alvaro@platonicgames.com
+We'll be glad to talk with you! :D
+Platonic Games S.L., 2018 - Last modified: 21/05/2018

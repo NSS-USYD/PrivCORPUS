@@ -1,0 +1,70 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Personal info                
+<d_attr>               Name              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Email address              
+<d_valu>             App functionality, Account management            
+<d_attr>               User IDs              
+<d_valu>             App functionality, Account management            
+<d_attr>               Address              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Phone number              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Other info              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_cata>                 Financial info                
+<d_attr>               User payment info              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Purchase history              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_cata>                 Photos and videos                
+<d_attr>               Photos              
+<d_valu>             App functionality            
+<d_cata>                 App activity                
+<d_attr>               App interactions              
+<d_valu>             App functionality, Developer communications            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Analytics, Developer communications            
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Personal info                
+<d_attr>               Name              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Email address              
+<d_valu>             App functionality, Account management            
+<d_attr>               User IDs              
+<d_valu>             App functionality, Account management            
+<d_attr>               Address              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Phone number              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Other info                          · Optional            
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_cata>                 Financial info                
+<d_attr>               User payment info              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_attr>               Purchase history              
+<d_valu>             App functionality, Fraud prevention, security and compliance            
+<d_cata>                 Photos and videos                
+<d_attr>               Photos              
+<d_valu>             App functionality            
+<d_cata>                 App activity                
+<d_attr>               App interactions              
+<d_valu>             App functionality, Developer communications            
+<d_cata>                 App info and performance                
+<d_attr>               Crash logs              
+<d_valu>             Analytics            
+<d_attr>               Diagnostics              
+<d_valu>             Analytics            
+<d_attr>               Other app performance data              
+<d_valu>             Analytics            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Analytics, Developer communications            
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             You can request that data be deleted            
+<s_attr>             The developer provides a way for you to request that your data be deleted            

@@ -1,0 +1,495 @@
+Zaza Remote Privacy Policy
+Zaza Remote Privacy Policy
+Last Update: 2023-06-13
+Effective Date: 2023-06-13
+Introduction
+This application respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with the provisions of this privacy policy.
+However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, the application will not disclose or provide such information to third parties without your prior permission. This application will update this privacy policy from time to time. When you agree to this application service usage agreement, you are deemed to have agreed to the full content of this privacy policy. This privacy policy is an integral part of this application service usage agreement.
+Part I Definitions
+Service provider:
+refers to Tianjia (Shanghai) Information Technology Co., Ltd., the operator of zaza Remote.
+Personal information:
+refers to all kinds of information recorded electronically or in other ways that can identify the identity of a specific natural person or reflect the activities of a specific natural person alone or in combination with other information.
+Personal sensitive information:
+refers to personal information including ID card number, personal biometric information, bank account number, property information, whereabouts, transaction information, information of children under the age of 12 (including children) (Tianjia will clearly identify specific personal sensitive information
+in bold
+in this Privacy Policy).
+Personal information deletion:
+refers to the act of removing personal information from the system involved in the realization of daily business functions, so that it can not be retrieved and accessed.
+Part II Privacy Policy
+This privacy policy section will help you understand the following:
+1. How does Tianjia collect and use your information.
+2. How does Tianjia use cookies and similar technologies.
+3. How can Tianjia share, transfer and publicly disclose your information.
+4. How does Tianjia protect your information.
+5. How do you manage your information.
+6. How does Tian family handle the information of minors.
+7. How is your information stored.
+8. How is this Privacy Policy updated.
+9. How to contact Tianjia.
+[1] How does Tianjia collect and use your information
+When you use Tianjia's products and / or services, Tianjia needs / may need to collect and use your personal information, including the following two types:
+1. In order to realize the basic functions of providing you with Tianjia products and / or services, you must authorize Tianjia to collect and use the necessary information. If you refuse to provide corresponding information, you will not be able to use Tianjia's products and / or services normally;
+2. In order to realize the additional functions of providing you with Tianjia products and / or services, you can choose to authorize Tianjia to collect and use the information. If you refuse to provide, you will not be able to normally use the relevant additional functions or achieve the functional effects intended by Tianjia, but it will not affect your normal use of the basic functions of Tianjia products and / or services.
+You understand and agree that:
+1. Tianjia is committed to creating a variety of products and services to meet your needs. Because Tianjia provides you with many kinds of products and services, and the specific product / service range selected by different users is different, the corresponding basic / additional functions and the type and range of personal information collected and used will be different. Please refer to the specific product / service function;
+The technical modules of some functions in the zaza Remote app are provided with the assistance of the third-party SDK. For your information security, we have signed a strict data security confidentiality agreement with the third-party SDK service providers. These companies will strictly abide by our data privacy and security requirements. We will not share your personally identifiable information with you unless we get your consent. See the following table for details about the collection and use of user information by the third-party SDK used by the zaza Remote:
+SDK name
+Alipay SDK
+Usage scenario
+It is used to provide Alipay payment or cash withdrawal function.
+Information shared
+Network status information.
+Device information.
+phone number (IMEI/Android ID/IDFA/OPENUDID/GUID, SIM card IMSI information).
+SDK provider
+Alibaba
+Privacy policy
+https://render.alipay.com/p/f/agreementpages/alipaywalletprivacypolicy_en.html
+SDK name
+Xiaomi push SDK
+Usage scenario
+It is used to push messages to Xiaomi brand mobile phones when necessary.
+Information shared
+Network status information.
+Device information.
+Store information.
+SDK provider
+Xiaomi
+Privacy policy
+https://privacy.mi.com/all/en_US/
+SDK name
+Huawei push SDK
+Usage scenario
+It is used to push messages to Huawei brand mobile phones when necessary.
+Information shared
+Network status information.
+Device information.
+Store information.
+Location information.
+SDK provider
+Huawei
+Privacy policy
+https://www.huawei.com/en/privacy-policy
+SDK name
+umeng SDK
+Usage scenario
+For message push.
+It is used for statistical analysis, calibrate the accuracy of report data through geographical location, and provide basic anti cheating ability.
+Information shared
+Device MAC address.
+Unique device ID (IMEI/Android ID/IDFA/OPENUDID/GUID, SIM card IMSI/ICCID information).
+Location information.
+SDK provider
+umeng
+Privacy policy
+https://www.umeng.com/page/policy
+SDK name
+Tencent Location SDK
+Usage scenario
+Used to get location information.
+Information shared
+Device information (Android ID, etc.).
+Network status information.
+Location information.
+SDK provider
+Tencent
+Privacy policy
+https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0
+SDK name
+Stripe SDK
+Usage scenario
+Used to provide payment function.
+Information shared
+Network status information.
+Device information.
+SDK provider
+Stripe
+Privacy policy
+https://stripe.com/privacy-center/legal
+SDK name
+Braintree SDK
+Usage scenario
+Used to provide payment function.
+Information shared
+Network status information.
+Device information.
+SDK provider
+Braintree
+Privacy policy
+https://www.braintreepayments.com/legal/braintree-privacy-policy
+SDK name
+Google AdMob SDK
+Usage scenario
+Used to provide advertising services.
+Information shared
+Device and usage information.
+Advertising interactive information.
+Location information.
+SDK provider
+Google
+Privacy policy
+https://policies.google.com/privacy
+2. In order to bring you a better product and service experience, Tianjia is making continuous efforts to improve Tianjia's technology. Then Tianjia may launch new or optimized functions from time to time, and may need to collect and use new personal information or change the purpose or mode of use of personal information. In this regard, Tianjia will separately explain the purpose, scope and use of the corresponding information to you by updating this policy, pop-up window, page prompt, etc., and provide you with the way of independent choice and consent, and collect and use it with your express consent.
+During this process, if you have any questions, opinions or suggestions, you can contact Tianjia through various contact methods provided by Tianjia, and Tianjia will answer them for you as soon as possible.
+Tianjia will collect and use your personal information to realize the following functions of this policy:
+(1) Description of application permission requested to realize app function
+Permission
+android.permission.DISABLE_KEYGUARD
+Description
+Allows the program to disable the keyboard lock.
+Usage scenario
+App provides videos of smart remote control accessories and other products. This permission is requested to prevent the mobile phone from automatically locking screen when users watch the video.
+Permission
+android.permission.ACCESS_FINE_LOCATION
+Description
+Allows the APP to receive satellite positioning information through the GPS chip.
+Usage scenario
+App needs to obtain the user's location to provide the user's current set-top box remote control code, EPG information. App needs this permission to add smart devices through WiFi scanning, please check
+https://developer.android.com/guide/topics/connectivity/wifi-scan
+for more information. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. After real-time processing, the app will return the processing results to you and will not save your data in the server.
+Permission
+android.permission.ACCESS_COARSE_LOCATION
+Description
+Allow the program to obtain the user's rough latitude and longitude information through WiFi or mobile base station.
+Usage scenario
+When the app cannot obtain a more accurate location, it is necessary to obtain the user's rough location to provide the set-top box remote control code and EPG information of the user's current location. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. After real-time processing, the app will return the processing results to you and will not save your data in the server.
+Permission
+android.permission.VIBRATE
+Description
+Allow app to call vibration API.
+Usage scenario
+App requests this permission to realize the vibration effect of the mobile phone when the user clicks the remote control button, and the vibration reminder of the mobile phone when the app pushes a message.
+Permission
+android.permission.CHANGE_CONFIGURATION
+Description
+Allow current app to change rotate configuration.
+Usage scenario
+Some users use mobile phones without built-in infrared transmitter. At this time, it is necessary to insert an external infrared transmitter accessory into the USB port of the mobile phone to assist in the remote control of the mobile phone. Since the USB port of most mobile phones is located at the bottom of the mobile phone, it is necessary to take the mobile phone upside down after inserting accessories. In order to facilitate users to operate according to the app remote control panel, APP requests this permission to facilitate users to rotate the mobile phone screen in corresponding scenarios.
+Permission
+android.permission.INTERNET
+Description
+Allow App to access network connections
+Usage scenario
+App needs to get the cloud code library online and synchronize the remote control data configuration backed up by users in the cloud.
+Permission
+android.permission.WRITE_EXTERNAL_STORAGE
+Description
+Allow App to write to external storage.
+Usage scenario
+App requests this permission to save files. For example, when saving image to local, it needs to be written to the external storage.
+Permission
+android.permission.READ_EXTERNAL_STORAGE
+Description
+Allow App to read from external storage.
+Usage scenario
+App requests this permission to read the external storage space such as the phone's photo album. For example, users need to access the phone's photo album when setting the app avatar function. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. When you publish avatar pictures using avatar editing and other functions, Tianjia needs to save your above information to ensure your normal use; When you take the initiative to delete the above information, Tianjia will delete the corresponding information.
+Permission
+android.permission.READ_MEDIA_IMAGES
+Description
+Allow App to read from external storage.
+Usage scenario
+App requests this permission to read photo album. For example, users need to access the phone's photo album when setting the app avatar function. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. When you publish avatar pictures using avatar editing and other functions, Tianjia needs to save your above information to ensure your normal use; When you take the initiative to delete the above information, Tianjia will delete the corresponding information.
+Permission
+android.permission.WRITE_SETTINGS
+Description
+Allows App to read or write system settings.
+Usage scenario
+Some users use mobile phones without built-in infrared transmitter. At this time, an external infrared transmitter accessory can be inserted into the USB port of the mobile phone to assist in mobile phone remote control. Since the USB port of most mobile phones is located at the bottom of the mobile phone, it is necessary to take the mobile phone upside down after inserting accessories. In order to facilitate users to operate according to the app remote control panel, APP requests this permission to facilitate users to rotate the mobile phone screen in corresponding scenarios.
+Permission
+android.permission.ACCESS_WIFI_STATE
+Description
+Allow App to obtain the status of current WiFi access and WLAN hotspot information.
+Usage scenario
+When the user configures the smart remote control socket or U gateway with the app, the app requests this permission to obtain the WiFi status, so as to find the smart socket or U gateway and facilitate the next configuration connection.
+Permission
+android.permission.NEARBY_WIFI_DEVICES
+Description
+Allow App to discover nearby WiFi devices.
+Usage scenario
+When the user configures the smart remote control socket or U gateway with the app, the app requests this permission to obtain the WiFi status, so as to find the smart socket or U gateway and facilitate the next configuration connection.
+Permission
+android.permission.CHANGE_WIFI_STATE
+Description
+Allow App to change the current WiFi access status and WLAN hotspot information.
+Usage scenario
+When the user configures the smart remote control socket or U gateway with the app, the app requests this permission to change the WiFi status in order to configure and connect the smart socket or U gateway.
+Permission
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+Description
+Allow App to change WiFi multicast status.
+Usage scenario
+When the user configures the smart remote control socket or U gateway with app, APP requests this permission to change the multicast status of WiFi in order to configure and connect the smart socket or U gateway.
+Permission
+android.permission.ACCESS_NETWORK_STATE
+Description
+Allows App to obtain network information status, such as whether the current network connection is valid.
+Usage scenario
+When the app needs networking, it requests this permission to judge whether the current network state is OK, so as to prompt the user.
+Permission
+android.permission.CHANGE_NETWORK_STATE
+Description
+Allows App to change the network state, such as whether it is connected to the network.
+Usage scenario
+When the app needs networking, it requests this permission to prompt the user to open the network when the network is not connected. If the user agrees, it helps the user to open the network connection.
+Permission
+android.permission.WAKE_LOCK
+Description
+Allow screen to remain awake.
+Usage scenario
+App provides intelligent remote control accessories and other products to watch videos. This permission is requested to keep the screen always on when users watch videos.
+Permission
+com.android.launcher.permission.INSTALL_SHORTCUT
+Description
+Create shortcut.
+Usage scenario
+App requests this permission to add some functions to the desktop shortcut. For the convenience of users, APP provides the function of adding shortcuts to the desktop for functions often used by users, such as intelligent scenes, price comparison tools, etc.
+Permission
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+Description
+Delete shortcut.
+Usage scenario
+App requests this permission to delete the shortcut added to the desktop. In order to facilitate users' use, APP provides the function of adding / deleting desktop shortcuts for functions often used by users, such as intelligent scenes, price comparison tools, etc.
+Permission
+com.android.launcher.permission.READ_SETTINGS
+Description
+Read desktop settings.
+Usage scenario
+App requests this permission to see if the shortcut has been created successfully. In order to facilitate users' use, APP provides the function of adding / deleting desktop shortcuts for functions often used by users, such as intelligent scenes, price comparison tools, etc.
+Permission
+android.permission.BLUETOOTH_ADMIN
+Description
+Allows App to discover and pair new Bluetooth devices.
+Usage scenario
+App requests this permission to discover and pair remote controls connected via Bluetooth. Some mobile phones used by users have no built-in infrared transmitter, and can realize the mobile phone remote control function through external mobile phone remote control accessories, intelligent remote control socket, U gateway and other auxiliary devices. If such auxiliary devices use Bluetooth connection, they need to use Bluetooth permission to configure and connect.
+Permission
+android.permission.BLUETOOTH
+Description
+Allow App to connect to paired bluetooth devices.
+Usage scenario
+App requests this permission to pair a remote control connected via Bluetooth. Some mobile phones used by users have no built-in infrared transmitter, and can realize the mobile phone remote control function through external mobile phone remote control accessories, intelligent remote control socket, U gateway and other auxiliary devices. If such auxiliary devices use Bluetooth connection, they need to use Bluetooth permission to configure and connect.
+Permission
+android.permission.CAMERA
+Description
+Camera permissions.
+Usage scenario
+App requests this permission to realize QR code scanning function. Since smart remote control accessories, U gateway and other devices are mostly used in the home, in order to facilitate users to authorize the configured smart devices to other families, APP provides QR code scanning authorization function of such smart devices. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. After real-time processing, the app will return the processing results to you and will not save your data in the server.
+Permission
+android.permission.FLASHLIGHT
+Description
+Flash light permissions.
+Usage scenario
+App requests this permission to realize QR code scanning function. Since smart remote control accessories, U gateway and other devices are mostly used in the home, in order to facilitate users to authorize the configured smart devices to other families, APP provides the code scanning authorization function of such smart devices. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. After real-time processing, the app will return the processing results to you and will not save your data in the server.
+Permission
+android.permission.RECORD_AUDIO
+Description
+Allows App to record audio through the phone or headset microphone.
+Usage scenario
+App requests this permission to realize voice remote control function. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. PP after real-time processing, the processing results will be returned to you, and your data will not be saved in the server.
+Permission
+android.permission.MODIFY_AUDIO_SETTINGS
+Description
+Allows APP to modify audio setting information.
+Usage scenario
+App requests this permission to adapt the remote control accessories of audio port mobile phone. When the user inserts audio accessories, in order to achieve better remote control effect, such as remote control at a longer distance, the app needs to turn up the volume of the mobile phone.
+Permission
+android.permission.RAISED_THREAD_PRIORITY
+Description
+Allows APP to get elevated thread priority.
+Usage scenario
+App requests this permission to realize the function of real-time broadcasting voice.
+Permission
+android.permission.TRANSMIT_IR
+Description
+Infrared emission permission.
+Usage scenario
+App requests this permission to realize the function of sending infrared remote control signal.
+Permission
+android.permission.SYSTEM_ALERT_WINDOW
+Description
+Allow APP to display system Windows.
+Usage scenario
+App requests this permission to realize the floating button of generating price comparison tool, so as to facilitate users to find products with more favorable prices when shopping.
+Permission
+android.permission.READ_PHONE_STATE
+Description
+Allow APP to access phone status.
+Usage scenario
+App requests this permission to obtain a unique device identifier to distinguish users. Because there will be corresponding benefit distribution for newly installed users in app member benefit activities, app needs to distinguish whether users are new users when participating in such benefit activities. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app. After you participate in such welfare activities, Tianjia needs to keep your above information to ensure your normal use; When you take the initiative to delete the above information, Tianjia will delete the corresponding information.
+Permission
+android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+Description
+MIUI system push related permissions.
+Usage scenario
+App requests this permission to realize the relevant functions of Xiaomi's MIUI push.
+Permission
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+Description
+MIUI system push related permissions.
+Usage scenario
+App requests this permission to realize the relevant functions of Xiaomi's MIUI push.
+Permission
+android.permission.FOREGROUND_SERVICE
+Description
+Start front service.
+Usage scenario
+App requests this permission to start a foreground service to support status bar shortcuts.
+Description of application data requested to realize app function
+Data
+WiFi SSID
+Description
+Current connected WiFi name
+Usage scenario
+When the user configures the smart remote control socket or U gateway with the app, the app requests read this data to find the smart socket or U gateway and facilitate the next configuration connection. App does not collect this data.
+(2) Help you become a member of Tianjia
+1. Membership services
+When you register this app account, Tianjia will collect your nickname, avatar and email address. This information is collected to help you complete the registration of this app account and protect your account security. If you do not provide such information, you can still use functions such as adding / deleting the remote control as a tourist, but you cannot normally use services such as remote control backup and online purchase of intelligent remote control goods. You can also choose to associate your app account with your mobile phone number and wechat number according to your own needs.
+2. Account information display
+If you already have a zaza Remote app account, Tianjia may display your above personal information in the zaza Remote app service, as well as your operations in the products and services of the zaza Remote app, including centralized display of your personal data, membership rights and interests and transaction orders through the zaza Remote app account. Tianjia will respect your choice of zaza Remote app service and zaza Remote app account settings.
+3. Account security
+In order to enhance the security of the app account you use, Tianjia will collect the mobile phone number, wechat number and other information from you after obtaining your express consent, and associate the above information with the app account as an important basis for the authentication of the app account, so as to facilitate you to use the account security related functions such as third-party login and account retrieval. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app.
+(3) Provide you with product or service display
+In the process of using Tianjia service, Tianjia may automatically collect your usage and store it as network log information in order to identify the abnormal status of your account, understand the product adaptability and mobile app crash data, including:
+Device information: Tianjia will receive and record the device related information (including device model, operating system version, device settings, unique device identifier, device environment and other software and hardware feature information) and the location of the device according to your specific operations in software installation and / or use (including your authorized GPS location and sensor information such as WLAN access point, Bluetooth and base station).
+Service log information: when you use the products or services provided by Tianjia, Tianjia will automatically collect your detailed use of Tianjia's services and save them as a service log, including browsing, click to view, search query, download, transaction, after-sales, evaluation information, release information, as well as login IP address, version number of this app software, mode, type and status of accessing the network , network quality data, operation log, service log information (such as service failure information), etc. this kind of information is the basic information that must be collected to provide services.
+Please note that separate device information and service log information are information that cannot identify a specific natural person.
+If Tianjia combines such non personal information with other information to identify a specific natural person, or combines it with personal information, such non personal information will be regarded as personal information during the combined use, unless otherwise authorized by you or laws and regulations In addition to regulations, Tianjia will anonymize and de-identify such information.
+(4) Provide you with Avatar setting / modification, intelligent device sharing and authorization functions
+When you use this app to set / modify avatars and share smart device authorization by scanning QR codes, in order to provide you with this service, Tianjia will access your album and camera after obtaining your express consent. The above information is sensitive. Refusing to provide this information will not affect your normal use of other functions of this app.
+(5) Provide you with the function of downloading / matching the remote control
+When you use this app to download local remote control data, match intelligent remote control devices and other functions, Tianjia will obtain your geographic location information after obtaining your express consent, in order to provide you with this service. This information is sensitive. Refusing to provide this information will only make you unable to use the above functions, but will not affect your normal use of other functions of this app.
+(6) Provide you with DIY remote control upload function
+When you upload the DIY remote control code using this app, the remote control code, appliance model and remarks you released will be stored in Tianjia's server, because storage is necessary to realize this function. Tianjia will store it in an encrypted way, and you can delete this information at any time. Unless you choose by yourself or comply with the requirements of relevant laws and regulations or the agreement of the service agreement, Tianjia will not provide the above information or use it for other purposes other than this function.
+(7) Provide you with voice remote control function
+When you use this app for voice remote control, Tianjia will collect your voice content, because collection is necessary to realize the above functions. After real-time processing, Tianjia will return the processing results to you without saving your data.
+(8) Provide you with the function of inviting friends
+When you use the invite friends function, Tianjia will read the information in your mobile phone address book after obtaining your express consent. The above information is sensitive. Refusing to provide this information will only make you unable to use the above functions, but it will not affect your normal use of other functions of this app.
+(9) Help you complete the order and order management
+When you order specific goods and / or services in the products and / or services of the remote control wizard, Tianjia will generate an order for you to purchase the goods and / or services through the system. In the process of placing an order, you must at least provide your consignee's name, receiving address and consignee's contact number. At the same time, the order will contain the information of the goods and / or services you purchased, the specific order number, the creation time of the order and the amount you should pay. Tianjia collects these information to help you successfully complete the transaction, ensure your transaction security, query order information Provide customer service and after-sales service and other purposes clearly informed by Tianjia.
+You can order goods and / or services for others through the remote control wizard. You need to provide the above personal information of the actual subscriber.
+In order to facilitate you to understand and query the order information and manage the order information, Tianjia will collect the order information generated during your use of Tianjia service for display and management.
+(10) Help you complete your payment
+In order to complete the order payment, you need to provide the payment account and select the payment method.
+Tianjia will share your payment account member name, order payment related information and other necessary information required by anti money laundering laws with the corresponding financial institution you choose.
+In order to make Tianjia know and confirm your payment progress and status in time and provide you with after-sales and dispute resolution services, you agree that Tianjia can collect information related to payment progress from the trading partner you choose and other financial institutions you choose.
+(11) Customer service and dispute settlement
+When you contact Tianjia or apply for settlement of after-sales disputes and disputes during sale,
+Tianjia needs you to provide necessary personal information to verify your membership in order to ensure the security of your account and system.
+In order to contact you, help you solve problems as soon as possible or record the solutions and results of relevant problems, Tianjia may keep your communication / call records and relevant contents (including account information, order information, other information you provide to prove relevant facts, or contact information you leave) with Tianjia. If you consult for specific orders For complaints or suggestions, Tianjia will use your account information and order information.
+In order to provide services and improve service quality, Tianjia may also use your other information, including the relevant information you provide when you contact customer service.
+(12) Provide you with the public release function of comments, evaluations and other information
+You can publicly publish information through the comment, list sharing and other information publishing functions provided by Tianjia, including the evaluation and evaluation content that can be published as a member. Tianjia may judge whether you can enjoy the corresponding function permissions according to your member type and network log information (for example, only members who have purchased a commodity can publish the evaluation / evaluation related to the commodity).
+Please note that your publicly released information may involve your or others' personal information or even personal sensitive information. For example, you choose to upload pictures containing personal information during evaluation. Please consider more carefully whether to share or even publicly share relevant information when using Tianjia's services.
+(13) Provide you with security
+In order to improve the security of the services provided by Tianjia, protect the personal and property safety of you or other users or the public from infringement, better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks and network intrusion, and more accurately identify violations of laws and regulations or Zaza remote related agreements and rules, Tianjia may use or integrate your member information, transaction information, equipment information, service log information and information that Tianjia obtains your authorization or shares according to law to comprehensively judge your account number and transaction risk, conduct identity verification, detect and prevent security events, and take necessary recording, audit, analysis and disposal measures according to law.
+(14) Provide you with widget
+App provides two widgets, Remote Control and EPG, which you can add to the home screen of your mobile phone, and you can remotely control and view TV programs without entering the App. When using widgets, apps may automatically launch in the background in response to the system's android.appwidget.action.APPWIDGET_UPDATE broadcasts.
+(15) Provide you with other additional services
+In order to provide you with more convenient and high-quality products and services and strive to improve your experience, Tianjia may collect and use your location information in the following additional services provided to you.
+If you do not provide this information, it will not affect your basic services such as browsing, matching the remote control and purchasing with Zaza remote, but you may not be able to obtain the user experience brought to you by these additional services. These additional services include:
+1. Data blocking service based on location information: Tianjia will access and obtain your location information after you open the location permission, and provide you with cable TV remote control data suitable for your current region according to your location information.
+2. Additional services based on camera / album (picture library / Video Library): you can use this function to access the mobile phone album and upload your photos / pictures after turning on the camera / camera permission, so as to realize the functions of changing avatars, commenting / sharing, etc. Tianjia may use comments containing photos or pictures you uploaded.
+You understand and agree that the above additional services may require you to open your access rights to location information (geographical location), camera (camera) and photo album (Picture Library) in your device to realize the collection and use of the information involved in these rights. You can check the status of the above permissions one by one in your phone settings, and you can decide whether to turn them on or off at any time.
+Please note that if you open any permission, you authorize Tianjia to collect and use relevant personal information to provide you with corresponding services. Once you close any permission, you cancel the authorization. Tianjia will no longer continue to collect and use relevant personal information based on the corresponding permission, nor can it provide you with the services corresponding to the permission. However, your decision to close the permission will not affect the previous information collection and use based on your authorization.
+(16) Other
+1. If the information you provide contains the personal information of other users, you need to ensure that you have obtained legal authorization before providing these personal information to Zaza remote.
+2. If Tianjia uses the information for other purposes not specified in this policy, or uses the information collected for specific purposes for other purposes, or Tianjia takes the initiative to obtain your personal information from a third party, it will obtain your consent in advance.
+If Tianjia indirectly obtains your information from a third party, Tianjia will explicitly require the third party in writing to collect personal information after obtaining your consent according to law before collection, and inform you of the shared information content. If sensitive information is involved, it shall be clearly confirmed by you before being provided to Tianjia for use, Require the third party to make a commitment to the legitimacy and compliance of personal information sources. If the third party violates, Tianjia will clearly require the other party to bear corresponding legal responsibilities; At the same time, Tianjia's professional security team will strengthen the security of personal information (including sensitive information reporting, encrypted storage of sensitive information, access control, etc.). Tianjia will use the same protection means and measures as Tianjia for its own users' personal information to protect the indirectly obtained personal information.
+3. Exceptions with authorized consent
+You fully understand and agree that Tianjia does not need your authorization and consent to collect and use your personal information under the following circumstances, and Tianjia may not respond to your requests for correction / modification, deletion, cancellation, withdrawal of consent and request for information:
+(1) Related to national security and national defense security;
+(2) Related to public safety, public health and major public interests;
+(3) Related to judicial or administrative law enforcement such as criminal investigation, prosecution, trial and judgment execution;
+(4) For the purpose of safeguarding your or other personal life, property and other major legitimate rights and interests, but it is difficult to obtain my consent;
+(5) Your personal information disclosed to the public by yourself;
+(6) Collecting personal information from legally disclosed information, such as legal news reports, government information disclosure and other channels.
+(7) Necessary for signing and performing relevant agreements or other written documents with you;
+(8) It is necessary to maintain the safe and stable operation of the provided products and / or services, such as finding and handling the faults of products and / or services;
+(9) Necessary for legitimate news reporting;
+(10) When an academic research institution is necessary to carry out statistics or academic research based on the public interest and provides the results of academic research or description to the outside world, it de identifies the personal information contained in the results;
+(11) Other circumstances stipulated by laws and regulations.
+Please know that according to laws, if Tianjia takes technical measures and other necessary measures to process personal information, so that the data receiver cannot re identify specific individuals and cannot recover, or Tianjia may de identify, statistically analyze and predict the collected information to improve the content and layout of Zaza remote, Provide product or service support for business decisions and improve Tianjia's products and services, the use of such processed data does not need to be notified to you and approved by you again.
+4. If Tianjia stops operating Zaza remote products or services, Tianjia will stop collecting your personal information in time, notify you of the notice of stopping operation one by one or in the form of announcement, and delete or anonymize the personal information held by Tianjia related to the closed business.
+[2] How does Tianjia use cookies and similar technologies
+Tianjia may collect your information by placing secure cookies and related technologies, in order to ensure the normal operation of the app and make it easier for you to access the experience. You can also manage cookies through browser settings. However, please note that if cookies are disabled, you may not enjoy the best service experience, and some services may not work properly.
+[3] How can Tianjia share, transfer and publicly disclose your information
+(1) Share
+Tianjia will not share your personal information with companies, organizations and individuals other than Zaza remote service providers, except in the following cases:
+1. Sharing under legal circumstances: Tianjia may share your personal information according to laws and regulations, litigation and dispute resolution needs, or according to the requirements of administrative and judicial organs according to law.
+2. Sharing with explicit consent: after obtaining your explicit consent, Tianjia will share your personal information with other parties.
+3. Share when you choose: when you purchase third-party goods or services through Zaza RemoteApp, Tianjia will share the necessary information related to the transaction in your order information to the providers of relevant goods or services according to your choice, so as to realize your transaction and after-sales service needs.
+4. Sharing with affiliated companies: in order to facilitate Tianjia to provide you with products and services based on Zaza RemoteApp account, identify abnormal member account, and protect the personal and property safety of affiliated companies or other users or the public from infringement, your personal information may be shared with Tianjia's affiliated companies and / or their designated service providers. Tianjia will only share the necessary personal information and is bound by the purpose stated in this privacy policy. If Tianjia shares your personal sensitive information or the affiliated company changes the purpose of using and processing personal information, it will ask for your authorization and consent again.
+5. Sharing with authorized partners:
+Tianjia may entrust authorized partners to provide you with certain services or perform functions
+on behalf of Tianjia. Tianjia will only share your information for the legal, legitimate, necessary, specific and clear purposes of this privacy policy statement. Authorized partners can only access the information they need to perform their duties, and shall not use this information for any other purpose.
+At present, Tianjia's authorized partners include the following types:
+(1) Authorized partners in advertising and analysis services. Unless approved by you, Tianjia will not share your personal identity information with partners providing advertising and analysis services. Tianjia will entrust these partners to process the information related to advertising coverage and effectiveness, but will not provide your personal identity information, or Tianjia will de identify the information so that it will not identify you personally. Such partners may combine the above information with other data legally obtained by them to implement the advertising services or decision-making suggestions entrusted by Tianjia.
+(2) Suppliers, service providers and other partners. Tianjia sends information to suppliers, service providers and other partners supporting Tianjia's business. These supports include technical infrastructure services entrusted by Tianjia, analyzing the use of Tianjia's services, measuring the effectiveness of advertising and services, providing customer service, facilitating payment or conducting academic research and investigation.
+Tianjia will conduct strict security inspection on the application program interface (API) and software tool development kit (SDK) for authorized partners to obtain relevant information, and agree strict data protection measures with authorized partners to enable them to process personal information in accordance with Tianjia's entrusted purpose, service description, this Privacy Policy and any other relevant confidentiality and security measures.
+(2)Transfer
+Tianjia will not transfer your personal information to any company, organization or individual, except for the following circumstances:
+1. Transfer with explicit consent: after obtaining your explicit consent, Tianjia will transfer your personal information to other parties;
+2. In case of merger, acquisition or bankruptcy liquidation of Zaza remote service provider, or other situations involving merger, acquisition or bankruptcy liquidation, if personal information transfer is involved, Tianjia will require the new company and organization holding your personal information to continue to be bound by this policy, otherwise Tianjia will require the company, organization and individual to ask you for authorization and consent again.
+(3)Public disclosure
+Tianjia will only publicly disclose your personal information under the following circumstances:
+1. With your explicit consent or based on your active choice, Tianjia may publicly disclose your personal information;
+2. If Tianjia determines that you have violated laws and regulations or seriously violated Zaza RemoteApp related agreements and rules, or in order to protect the personal and property safety of Zaza RemoteApp users or the public from infringement,
+Tianjia may disclose your personal information in accordance with laws and regulations or with your consent
+, Including relevant violations and Zaza Remote App measures taken against you.
+(4)Exceptions to prior authorization and consent for sharing, transferring and publicly disclosing personal information
+In the following cases, your authorization and consent are not required for sharing, transferring and public disclosure of your personal information:
+1. Related to national security and national defense security;
+2. Related to public safety, public health and major public interests;
+3. Related to judicial or administrative law enforcement such as criminal investigation, prosecution, trial and judgment execution;
+4. For the purpose of safeguarding your or other personal life, property and other major legitimate rights and interests, but it is difficult to obtain my consent;
+5. Your personal information disclosed to the public by yourself;
+6. Collecting personal information from legally disclosed information, such as legal news reports, government information disclosure and other channels.
+Please note that according to applicable laws, if Tianjia takes technical measures and other necessary measures to process personal information, so that the data receiver cannot re identify specific individuals and cannot recover, the sharing, transfer and public disclosure of such processed data do not need to be notified to you and obtain your consent.
+[4] How does Tianjia protect your information
+(1) Tianjia has taken reasonable and feasible security measures in line with industry standards to protect your information and prevent unauthorized access, public disclosure, use, modification, damage or loss of personal information. The technical protection means used by Tianjia include but are not limited to firewall, encryption (such as SSL), de identification or anonymization processing, access control measures, etc. In addition, Tianjia will continue to strengthen the security of the software installed on your device. For example, Tianjia will complete some information encryption locally on your device to consolidate secure transmission; Tianjia will know the application information installed and running process information of your device to prevent viruses, Trojans and other malicious programs./p>
+(2) Tianjia has built a data security management system with data as the core and around the data life cycle to improve the security of the whole system from the aspects of organization construction, system design, personnel management, product technology and so on. For example, Tianjia strictly limits the scope of personnel accessing information and requires them to abide by the obligation of confidentiality. Those who violate the obligation will be punished according to the regulations. Tianjia will also review the management system, process and organization to prevent unauthorized personnel from accessing, using or disclosing users' information.
+(3) Tianjia will take reasonable and feasible measures to avoid collecting irrelevant personal information.
+Tianjia will only retain your personal information within the period required to achieve the purpose stated in the cost policy, unless there are mandatory retention requirements by law. For example, the e-commerce law of the people's Republic of China requires that the storage time of commodity and service information and transaction information shall not be less than three years from the date of completion of the transaction. The criteria for Tianjia to judge the above-mentioned period include:
+1. Complete the transaction purpose related to you, maintain corresponding transaction and business records, and respond to your possible inquiries or complaints;
+2. Ensure the safety and quality of Tianjia's services for you;
+3. Whether you agree to a longer retention period;
+4. Whether there is any other special agreement on the retention period.
+After your personal information exceeds the retention period, Tianjia will delete your personal information or anonymize it according to the requirements of applicable laws.
+(4) The Internet is not an absolutely safe environment. When using Zaza RemoteApp service for online transactions, you will inevitably disclose your personal information, such as contact information or contact address, to the counterparty or potential counterparty. Please protect your personal information properly and provide it to others only when necessary. If you find that your personal information, especially your account or password, has been leaked, please contact Zaza RemoteApp customer service immediately so that Tianjia can take corresponding measures according to your application.
+Please note that the information you voluntarily share or even publicly share when using Tianjia service may involve your or others' personal information or even personal sensitive information. Please consider more carefully whether to share or even publicly share relevant information when using Tianjia's services.
+(5) After an unfortunate personal information security incident, Tianjia will inform you of the basic situation and possible impact of the security incident, the disposal measures Tianjia has taken or will take, the suggestions you can independently prevent and reduce risks, and the remedial measures for you in accordance with the requirements of laws and regulations. Tianjia will inform you of the relevant information of the event by e-mail, letter, telephone, push notice, etc. when it is difficult to inform the personal information subject one by one, Tianjia will take a reasonable and effective way to publish the announcement.
+Meanwhile, Tianjia will also report the disposal of personal information security incidents in accordance with the requirements of regulatory authorities.
+[5] How do you manage your information
+During your use of this app, in order to make it easier for you to access, correct and delete your personal information, and protect your right to withdraw your consent to the use of personal information and cancel your account, Tianjia has provided you with corresponding operation settings in the product design. You can refer to the following steps for operation. In addition, Tianjia has also set up a complaint reporting channel, and your opinions will be handled in time.
+(1) Query and update your information
+You have the right to inquire, correct or update your information. You can do this by yourself through the following steps:
+1. Log in to Zaza RemoteApp and click the bottom tabbar "mine";
+2. Click personal avatar or "personal information";;
+3. On the "personal information" page, you can view the current avatar and name of the account, and click the above personal information to change or update it;
+4. Click "account Association" on the "personal information" page to view the email, mobile phone number and wechat currently associated with the account.
+(2) Change the scope of your authorization and consent
+Each business function needs some basic personal information to be completed. In addition, you can give or withdraw your authorization consent in the settings of the mobile device.
+When you withdraw your consent, Tianjia will no longer process the corresponding personal information. However, your decision to withdraw your consent will not affect the previous personal information processing based on your authorization.
+(3) Cancel your account
+You can apply for cancellation of your account through the following steps:
+1. Log in to Zaza RemoteApp and click the bottom tabbar "mine";
+2. Click personal avatar or "personal information";
+3. Click "Cancel Account" on the "personal information" page.
+After you voluntarily cancel your account, Tianjia will stop providing you with products or services, delete your personal information or anonymize it according to the requirements of applicable laws.
+[6] How does Tian family handle the information of minors
+In e-commerce activities, Tianjia presumes that you have corresponding civil capacity. If you are a minor, before using the e-commerce function of app, Tianjia requires you to ask your parents or guardians to carefully read this Privacy Policy and use Tianjia's services or provide information to Tianjia with the consent of your parents or guardians.
+For the collection of minors' personal information by using Tianjia's products or services with the consent of parents or guardians, Tianjia will only use, share, transfer or disclose this information when permitted by laws and regulations, explicitly agreed by parents or guardians or necessary to protect minors.
+[7] How is your information stored
+(1) Location of information storage
+Tianjia will store the user's personal information collected in China in accordance with laws and regulations. At present, Tianjia will not transmit or store your personal information across borders. If cross-border transmission or storage is required in the future, Tianjia will inform you of the purpose, receiver, security assurance measures and security risks of information leaving the country, and obtain your consent.
+(2) Information storage mode and duration
+Mobile phone number: if you log in to this app with your mobile phone number, Tianjia needs to keep your mobile phone number during your use of this app function to ensure your normal use of the service. After you log out of this app account, Tianjia will delete the corresponding information;
+Picture: when you use the avatar editing and other functions to publish avatar pictures, Tianjia needs to save your above information to ensure your normal use; When you take the initiative to delete the above information, Tianjia will delete the corresponding information.
+When Tianjia's products or services stop operating, Tianjia will notify you in the form of push notice, announcement, etc., and delete your personal information or anonymize within a reasonable period of time.
+[8] How is this Privacy Policy updated
+Tianjia's privacy policy may change. When the terms of the app privacy protection policy are changed, Tianjia will show you the changed app privacy protection policy in the form of push notification and pop-up window when you log in and update the version. Please note that only after you click the Agree button in the pop-up window will Tianjia collect, use and store your personal information in accordance with the updated app privacy protection policy.
+[9] How to contact Tianjia
+When you have other complaints, suggestions and minor personal information related problems, please contact http://www.tiqiaa.com/cn/aboutus.php Contact Tianjia. You can also send your questions to tianjia@tiqiaamail.com or to the following address:
+Tianjia, floor 2, building 1B, No. 2588, Jinhai Road, Pudong New Area, Shanghai, China
+Postal Code: 201209
+Tianjia will review the issues involved as soon as possible and reply within 15 days after verifying your user identity.

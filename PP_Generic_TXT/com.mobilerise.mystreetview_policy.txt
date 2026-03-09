@@ -1,0 +1,28 @@
+Privacy&Policy | MobileRise
+Privacy&Policy
+This app
+is
+not
+collect any privacy or non-privacy information of you or your device by itself, but some included 3rd party sdks might collect some non privacy data.
+This app
+shows
+advertising
+and uses
+analytics
+services to determine how the app is used and when it crashes. The following companies are currently used:
+Google Admob
+,
+Google Firebase
+Analytics â€“ Google uses cookies and the device advertising identifier to identify users. Google describes how they use this data at the site “How Google uses data when you use our partners’ sites or apps” which can be accessed at
+http://www.google.com/policies/privacy/partners/
+We don't  save or pass your location data to our servers. We are using the
+Google Places API
+for Android and  Google privacy policy  is here Â
+http://www.google.com/privacy.html
+.
+---------------------------------------------
+A general information about  Mobilerise and Mobilerise Apps:
+Mobilerise         	    is very careful about privacy data. Our apps never saves user privacy content*.
+*We don’t collect any information about devices or user id's etc on Mobilerise servers.  We work with some  3rd party companies sdks on some of our apps. They might collect some device information etc. But we did not put untrusted 3rd party companies sdks. We work only with trusted ones.
+Privacy Policy last updated 26 August 2016
+Mobilerise LTD - support@mobilerise.com

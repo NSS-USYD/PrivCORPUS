@@ -1,0 +1,82 @@
+Privacy Policy -
+Privacy Policy
+User Privacy Policy
+1. Introduction
+YZ-Game An international entertainment company specializing in the publishing of mobile games and applications.
+The purpose of this policy is to provide you with all important information and explanations on how and why certain data about you is collected and processed when you use our apps or browse our website. This Privacy Policy sets out and details the main principles that apply to our collection and processing of data;
+Develop, publish and monetize mobile games and applications;
+This policy also aims to remind you of your rights and provide you with all the elements you need to exercise them.
+If you have any questions about this policy or our general privacy and data protection practices, please feel free to email as indicated in the contact section of this policy;
+Apps and Games
+Why collect data from its apps and games?
+When you install and use the mobile application, we may collect and process some of your data for different lawful purposes.
+2. The data collected is limited to
+What data can be processed:
+the application you are using
+your IP address
+Your Mobile Advertising ID (Apple IDFA or Google AAID - this is a technical identifier developed by the mobile operating system for advertising purposes, it remains under your control and can be reset or cleared at any time through your device settings )
+Technical information about the device and connection you use (user agent, connection type, timestamp)
+Data related to your activities on our Apps, in particular how you interact with our Apps (for example, how and when you use our Apps), and related to advertisements on our Apps ( e.g. number of ads, potential clicks)
+3. Purpose of processing your personal data
+Our mission is to continuously improve our app and provide you with new experiences. As part of this mission, we use your information for the following purposes:
+Who shares your data and why?
+In countries where applicable laws and regulations may require the collection of user consent, your personal data will not be shared with third parties without your prior consent.
+When you consent to the collection of data for advertising and analytics purposes, we may share the above data with the following categories of recipients:
+Advertising Partners: Enables us to monetize our app's ad inventory and provide users with free products and services
+These partners typically collect data through their own tools (software development kits or "SDKs"). You will see a list of the privacy policies of our partners who implement the Advertising SDK and their services through our applications, which describe their practices and allow you to exercise your rights directly against them below:
+AdColony - https://www.adcolony.com/privacy-policy/
+Admob - https://policies.google.com/technologies/partner-sites
+AppLovin - https://www.applovin.com/privacy/
+Unity - https://unity3d.com/legal/privacy-policy
+Vungle - https://vungle.com/privacy/
+Pangle - https://ad.oceanengine.com/union/media/privacy
+Facebook - https://www.facebook.com/privacy/explanation
+InMobi - https://www.inmobi.com/privacy-policy/
+ironSource - https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Mintegral - https://www.mintegral.com/en/privacy/
+Analytical Companies: Provide us with tools and technologies that allow us to better understand how users interact with our Services and help us improve our Services. These partners also typically collect data through their own SDKs. Below is a list of our partners who implement the Analytics SDK through apps:
+Tenjin - https://www.tenjin.io/privacy/
+GameAnalytics - https://gameanalytics.com/privacy
+Permissions: Only to the extent we are required to comply with applicable laws and regulations
+Disclose your information
+We will not share your personal information without your consent except in the following cases:
+When you agree to share your information with third parties for their own marketing purposes.
+We may disclose information about you as permitted by law or when we believe the release is appropriate to comply with the law, that is, government requests, to exercise our rights, or to protect our or our users' rights, property, or safety.
+We may engage other companies or individuals to perform services on our behalf, i.e. to provide customer support.
+We may share aggregated or anonymous information about you with business partners, advertisers, publishers and other third parties.
+We may also share your information with any merger, sale of our assets, or the financing or acquisition of all or part of our business to another company. You will be notified by email and/or on our website of any changes in ownership of your personal information or other users.
+We use cookies and similar technologies (including local storage) to help us:
+Sessions are maintained while using the service.
+Enhanced security.
+Remember information about your browser and preferences.
+Learn how people use the service to improve it.
+User Information Security
+We follow generally accepted industry standards and maintain reasonable safeguards to ensure the security, integrity and privacy of the information we hold. As a further security measure, we have implemented the following technical and administrative safeguards to ensure that no personal information of users we process is lost, leaked or damaged:
+Improve network security - We implement various technical measures to prevent the leakage of your personal information through unauthorized access to its network through hacker attacks, computer viruses, etc., and continuously monitor network access. Additionally, to secure communications between its servers and the database, we employ strong encryption.
+Conduct security training and designate a privacy officer - We regularly conduct security training for our employees on protecting your personal information. In addition, we have appointed a Privacy Officer to develop expertise in handling your personal information and minimise the risk of information leakage.
+Restricted Access and Storage - Locations where personal information is processed and stored have been designated as secure areas and access is restricted to those with the necessary permissions. Documents, storage media and electronic records containing personal information are stored in locked locations or on computers with limited access.
+Collection and Use of Children's Personal Information
+We do not knowingly collect any personal information from anyone under the age of 13 (under 16 in Europe) unless we have the consent of a parent or legal guardian. If you are under the age of 13 (16 in Europe), please do not send us any information about yourself and you should not use or attempt to use our Services. Some of our services are age-restricted and may vary by country, region, operating system, platform, etc. If you are under the applicable age limit, please do not send us any information about yourself and you should not use or attempt to use our Services.
+If we learn that we have inadvertently collected personal information from a child under the age of 13 (16 in Europe), we will take reasonable steps to delete such information from their records promptly and in a safe manner. If you think we may have any information from a child under 13 (16 in Europe) please let us know by emailing jyoo28291@gmail.com.
+Please note that all persons under the age of majority must have a parent or guardian in their respective jurisdiction to read and accept this Privacy Policy and Terms of Service on their behalf. We encourage parents to monitor their children's use of our Services and to become familiar with the types of content available through our Services.
+What rights do you have?
+Withdrawal of consent and opt-out of sale of information
+You can change your consent status at any time from the privacy settings available in mobile games and applications.
+Please note that without selling personal information about its users, we may share this information with third parties, such as analytics and advertising companies, in order to improve and personalize your experience and to tailor the content and advertising of our services.
+Adjusting your consent settings in Apps & Games will allow you to prevent the collection of data for the purposes described above and actually prevent the sharing of information with our analytics and/or advertising partners.
+access rights
+Upon request, you will be provided with information on whether we hold your personal information. You can access or request deletion of your personal information directly through the mobile application or as indicated in the "Contact Email" section below. We will respond to your request within a reasonable time.
+Correct and clear
+You can request correction of inaccurate personal data about you, as well as incomplete personal data. You can also request that your personal data be deleted if it is no longer necessary to keep the data.
+In order to delete or make your data inaccessible, you can:
+If you choose to enable the "Limit Ad Tracking" option, reset your Mobile Advertising Identifier (IDFA on iOS, GAAID on AndroÃ¯d) or activate "Limit Ad Tracking" in your device settings so that previously collected data can no longer be linked to you or your device and restrict further data collection
+Contact a data protection officer (as indicated in the Contacts section below) to permanently delete or anonymize data previously collected about you and/or your device
+contact us
+Email: jyoo28291@gmail.com.
+Upon request, the personal data you have provided to us will be provided to you and, if possible, when processing is based on consent or contract, this information will be transferred directly to another data controller of your choice in a portable format.
+right to lodge a complaint
+Policy change
+We may revise this Privacy Policy from time to time to reflect improvements in our business or any other changes. We will attempt to notify you of any material changes to this Privacy Policy that we believe may have any material adverse effect on you. If you object to any changes, you should immediately stop using our services and close any accounts you may have with us.
+Children's Privacy
+In order to maintain our app's family-friendly reputation, we age-restrict some features in the app so that children under the age of 13 cannot use these features. After downloading some of our apps, age restrictions are applied to specific regions to ensure the privacy and protection of young users of our apps.
+We consider ourselves family-oriented, but we have decided to voluntarily implement higher standards of child protection, even if our products and services are not targeted, and we do not knowingly collect personal information from children under 13, with the only exceptions being persistent Identifiers are described below. If we learn that we have collected personal information other than a permanent identifier from a child under the age of 13, we will take all reasonable steps to delete that information as soon as possible.

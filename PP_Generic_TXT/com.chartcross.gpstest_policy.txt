@@ -1,0 +1,25 @@
+Privacy Policy - Chartcross Limited
+Privacy Policy
+We are using advertising identifiers to personalise the adverts shown to you and to also gather usage analytics.
+We share these identifiers and other personally non-identifiable information from your device with our
+advertising and analytics providers. Currently the following 3
+rd
+party providers and sdk's used
+for this are:
+Google AdMob - for advertisements
+AppBrain - for advertisements
+Google Firebase Analytics - for gathering app usage analytics
+Google Firebase Remote Config - for app configuration and informing of app sales
+Google's privacy policy
+can be viewed here
+.
+AppBrain's privacy policy
+can be viewed here
+.
+You can opt-out from targeted advertisements on the AdMob network
+here
+or
+on your device in:
+Settings -> Google -> Ads
+We do not collect any information that could personally identify you without your explicit consent.
+Copyright © 2018 Chartcross Ltd

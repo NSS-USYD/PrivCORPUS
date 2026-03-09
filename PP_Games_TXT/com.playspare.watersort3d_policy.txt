@@ -1,0 +1,887 @@
+Cookies – TapNation
+array (
+  'SERVER_SOFTWARE' => 'Apache',
+  'REQUEST_URI' => '/legal-notice/',
+  'USER' => 'tapnatiotq',
+  'SCRIPT_NAME' => '/index.php',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'GET',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'REDIRECT_URL' => '/legal-notice/',
+  'REMOTE_PORT' => '38122',
+  'SCRIPT_FILENAME' => '/home/tapnatiotq/www/index.php',
+  'SERVER_ADMIN' => 'postmaster@www.tap-nation.io',
+  'DOCUMENT_ROOT' => '/home/tapnatiotq/www',
+  'REMOTE_ADDR' => '129.78.56.167',
+  'SERVER_PORT' => '443',
+  'SERVER_ADDR' => '10.27.20.8',
+  'SERVER_NAME' => 'www.tap-nation.io',
+  'SERVER_SIGNATURE' => '',
+  'HTTP_REMOTE_IP' => '129.78.56.167',
+  'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+  'HTTP_ACCEPT' => '*/*',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33',
+  'HTTP_X_OVHREQUEST_ID' => '4ad61ca7f22a3289c20a1d41057e2a2b',
+  'HTTP_X_FORWARDED_PROTO' => 'https',
+  'HTTP_X_FORWARDED_FOR' => '129.78.56.167',
+  'HTTP_X_PREDICTOR' => '1',
+  'HTTP_COOKIE' => 'PHPSESSID=d7504c0460d35cc6e6a461a394b97f50',
+  'HTTP_HOST' => 'www.tap-nation.io',
+  'ENVIRONMENT' => 'production',
+  'CFG_CLUSTER' => 'cluster027',
+  'HTTP_AUTHORIZATION' => '',
+  'HTTPS' => 'on',
+  'SCRIPT_URI' => 'https://www.tap-nation.io:443/legal-notice/',
+  'SCRIPT_URL' => '/legal-notice/',
+  'GEOIP_LONGITUDE' => '151.200607',
+  'GEOIP_LATITUDE' => '-33.871498',
+  'GEOIP_AREA_CODE' => '0',
+  'GEOIP_DMA_CODE' => '0',
+  'GEOIP_CITY' => 'Sydney',
+  'GEOIP_REGION' => '02',
+  'GEOIP_COUNTRY_NAME' => 'Australia',
+  'GEOIP_COUNTRY_CODE' => 'AU',
+  'UNIQUE_ID' => 'ZMuAabta1eql3gCDYJRRZgAAAFo',
+  'REDIRECT_STATUS' => '200',
+  'FCGI_ROLE' => 'RESPONDER',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME_FLOAT' => 1691058281.617383,
+  'REQUEST_TIME' => 1691058281,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+Submit your game
+YOUR GAME
+Game title
+*
+Gameplay link
+*
+Tell us more about your game
+*
+YOUR TEAM
+Studio name
+*
+Portfolio link
+*
+Team Size
+*
+1
+2-5
+6-10
+11-20
+21-50
+50+
+Number of published game(s)
+*
+0
+1
+2-5
+6-10
+11-20
+21-50
+50+
+Do you have previous experience with publisher(s) ?
+*
+Yes
+No
+Do you have previous experience updating SDKs ?
+*
+Yes
+No
+Do you work with 3D ?
+*
+Yes
+No
+Development platform
+*
+iOS
+Android
+Both
+YOUR CONTACT DETAILS
+Your name
+*
+Your email
+*
+Country
+*
+Language
+*
+By submitting this form, you accept the
+Terms & Conditions
+and
+Privacy
+Publishing
+Games
+Technology
+Careers
+Blog
+Submit your game
+Cookies
+Tweet
+Share
+Share
+Pin
+75
+75
+Shares
+2.1       TAPNATION (hereinafter “we/us”) is, among other things, in the business of promoting and monetizing mobile video games developed by third parties that have licensed or assigned all rights required for the use of such games.
+To find out more about TAPNATION,
+press here
+[insert a link to the legal notice – see my previous email on this point]
+2.2       TAPNATION operates the website accessible to the public at the following URL: tap-nation.io (hereinafter “the Site”).
+The purpose of this site is to give any internet user who visits it information that will allow them to learn of the activities, services and games marketed by TAPNATION, as well as employment and internship offers advertised by TAPNATION.
+It also presents functions and/or information that allow users to contact TAPNATION (e.g. a contact request in relation to a video game or a planned video game that you wish to present to TAPNATION).
+2.3       TAPNATION also markets mobile game applications that allow the user to play on their smartphone, with the stipulation that some of these games have in-app purchase functions that allow the player to have a better user experience (e.g. by blocking advertising), to buy virtual objects, to unlock a level, etc.
+2.5 TAPNATION also administers pages that present its business and allow it to publish content on social media, and to use these media to interact with internet users (i.e. Linkedin, Facebook, Instagram, Discord, and Twitter).
+2.5       During your browsing and your interactions on the Site or on the mobile game applications, cookies, tags, pixels or other trackers or similar technologies (hereinafter “the Cookies”) are likely to be installed on your computer or your user terminal subject to the choices and options that you express or can express at any time in accordance herewith. These Cookies and the data they collect are used by TAPNATION and by third-party/partner companies, a list of which is available below.
+Our Cookie Management Policy explains what “the Cookies” are, details the types of cookies we use on the site and on the mobile game applications we publish, and stipulates the rights you have to accept or reject the installation of cookies.
+What is a cookie?
+A cookie is a small file for the storage and retrieval of information, generally consisting of alphanumeric characters (i.e. letters and numbers), distributed by a web server to the computer or electronic terminal of the user of the Site or our mobile applications to send status information to the browser and receive the same information back from the browser. Status information may comprise, for example, a session identifier, a language, an expiration date, a response domain, etc.
+Cookies usually make it possible to obtain certain information about the browsing habits of the user, their computer or terminal, in order specifically to improve the content and service offered by the website or by the mobile application in question, to establish the level of traffic on the site or application in question, and to provide internet users with personalized services.
+1.3       The term “the Cookies” as used herein covers all types of tracker or other similar technologies, such as:
+HTTP cookies;
+but also the use of other technologies:
+locale shared objects, sometimes called “Flash cookies”;
+local storage implemented in HTML 5;
+device fingerprinting;
+identifiers generated by operating systems (whether for advertising purposes or otherwise: IDFA, IDFV, Android ID, etc.);
+hardware identifiers (MAC address, serial number, or other device identifier);
+1.4       In addition, the Cookies can be:
+session cookies which disappear when the user closes their browser or the website or the mobile game application, or
+permanent cookies which remain until their lifetime validity expires or until the user deletes them using, for example, the functions of their browser (where this is possible) or via the cookie management module made available on our Site or on our mobile game applications.
+What are the major categories of cookies?
+There are two major categories of cookies that correspond to different legal regimes.
+Functional cookies that are not subject to the user’s consent
+Functional cookies are those the only purpose of which is to allow or facilitate communication by electronic means on, from or to the Site or mobile application in question, or which are strictly necessary for the provision of an online communication service at the express request of the user, that are exempt from the requirement for the publisher of the site or the mobile application in question to obtain the user’s consent for their installation.
+We can use such functional cookies in this way, specifically technical cookies that are indispensable for browsing the site or using the mobile game applications, and cookies that are strictly necessary for providing certain services specifically requested by the user, without seeking your prior consent. If the user deactivates functional cookies, for example by using the functions offered by their browser or their terminal, they risk not being able to access the site or the mobile application in question, and/or not receiving the content and information available on the site or on the mobile application correctly, and/or not being able to benefit from all the functionality of the site or the mobile application .
+Other cookies that are strictly subject to the user’s consent
+The use of other cookies as described below is strictly subject to prior consent of the user, who may freely:
+either accept them by expressly consenting to their installation and use (it being specified that the user will then have the possibility of retracting their consent at any time under the conditions and according to the methods stipulated in Article 4 hereunder),
+or refuse them.
+To find out more information about the Cookies used on the Site and on the mobile applications, and their corresponding pu
+rposes, the user is invited to consult Article 3 hereunder.
+What are the cookies that we use on our Site and on our mobile game applications, and what purpose do they serve?
+Important: The following details of the cookies that we use must be distinguished between our Site and between each of our mobile game applications. In reality, we do not use the same cookies if you are using our Site or our mobile game applications.
+The cookies that our partners and we ourselves may install on your device can serve the following purposes:
+No.
+Name of cookie (name of publisher/distributor)
+Purpose
+Categories of data collected
+Companies using the cookies/data destinations
+Lifespan
+1
+Functional cookies
+These functional cookies are those the only purpose of which is to allow or facilitate communication by electronic means, or which are strictly necessary for the provision of an online communication service at the express request of the user, allowing the Site and/or our mobile game applications to function (and the user to browse/use the Site and/or our mobile applications) optimally, and to provide the user with certain online services at their request.
+These cookies are not subject to user consent and are installed by default. Insofar as these cookies are necessary to offer you a better user experience or to allow you to benefit from certain functions of our Site and/or our mobile applications, we do not offer you any dedicated technical means to refuse the installation of these cookies or to disable them. Nonetheless, you do have the option of disabling them (as with certain other cookies) by other means. For example, with regard to such cookies used on our Site, you can disable them using the functions offered by you browser, while bearing in mind that in this case you risk not being able to access the Site, and/or not receiving the content and information available on the Site correctly, and/or not being able to benefit from all the Site’s functionality.
+ON OUR SITE
+GeniusCookieAccept
+This cookie allows for storage of the user’s consent with regard to cookies.
+Consent
+User
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: TapNation
+12 months
+CONSENT
+This cookie allows for storage of the user’s consent with regard to cookies.
+Consent
+User
+Companies using this type of cookies: Google
+Companies receiving the data collected by these cookies: Google
+2 years
+SOCS
+This cookie allows for storage of the user’s consent with regard to cookies.
+Consent
+User
+Companies using this type of cookies: Google
+Companies receiving the data collected by these cookies: Google
+13 months
+NID
+This cookie allows for storage of the user’s preferred language
+Browser language
+Companies using this type of cookies: Google
+Companies receiving the data collected by these cookies: Google
+6 months
+AEC
+This cookie is used to verify that an http request is initiated by a site user and not a third party site
+Security
+Companies using this type of cookies: Google
+Companies receiving the data collected by these cookies: Google
+6 months
+ON OUR MOBILE GAME APPLICATIONS
+IDFV TapNation
+ABtest
+All games
+This tracker is used to perform A/B testing
+Identifying
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: GameAnalytics
+www.gameanalytics.com/privacy
+AndroidID TapNation ABtest
+All games
+This tracker is used to perform A/B testing
+Identifying
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: GameAnalytics
+www.gameanalytics.com/privacy
+2
+Cookies for evaluation, tracking, and measurement of audience and browsing
+The purpose of these cookies is to generate statistics on visits to the Site and/or our mobile game applications: tests, tracking, measurement and analysis of audience, traffic, browsing and performance.
+The purpose of these cookies is to collect data regarding your use of our Site and/or our mobile game applications in order to: (i) generate statistics on visits and measure and analyze audience, traffic and browsing; (ii) evaluate, understand, and report on the way you use our Site and/or our mobile game applications (e.g. determining the way you arrive at our Site or the way you use it, determining the way you use our mobile game applications, reconstructing navigation paths); (iii) allow us to perform positioning research with regard, for example, to third-party websites or mobile applications; (iv) allow us, depending on the results obtained (depending, for example, on analysis of users’ navigation paths) to adapt our Site and/or our mobile game applications within the framework of ongoing improvement of performance and user experience.
+Their functioning is based on identifying “unique visitors”, which makes it possible to measure the number of visits, the number of visitors, the number of pages viewed, the length of visit and the navigation path followed by a user, the actions and interactions of a user with our Site and/or our mobile game applications, the frequency of visits (to the Site or to specific pages on the Site or on our mobile applications), and the performance of our Site and/or our mobile applications…
+[to be completed with as much detail as possible]
+Installation of the  is subject to your prior consent obtained in accordance with Article 4 hereof.
+ON OUR SITE
+_ga (Google Analytics)
+These cookies are used to distinguish unique visitors to a website by assigning a randomly generated number as a user ID. This number is updated with each page view, and makes it possible to calculate the number of visitors, sessions, etc.
+To find out more:
+https://support.google.com/analytics/answer/6004245
+Analytical
+Companies using this type of cookies: Google
+Companies receiving the data collected by these cookies: Google
+To
+find out more about the way Google may handle your data, see the Google Privacy Policy:
+https://policies.google.com/privacy
+or
+https://policies.google.com/technologies
+400 days
+_gid (Google Analytics)
+These cookies are used to distinguish unique visitors to a website by assigning a randomly generated number as a user ID. This number is updated with each page view, and makes it possible to calculate the number of visitors, sessions, etc.
+To find out more:
+https://support.google.com/analytics/answer/6004245
+Analytical
+365 days
+_gat
+Analytical cookies from Google Analytics
+Analytical
+60 sec
+PHPSESSID
+A session cookie generated automatically by the server that contains a randomly generated long number that is assigned by the server itself
+Analytical
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: TapNation
+session time
+_hjAbsoluteSessionInProgress
+Used to detect the first pageview session of a user
+Analytical
+Companies using this type of cookies:  Hotjar
+Companies receiving the data collected by these cookies:  Hotjar
+To
+find out more about the way Hotjar may handle your data, see the Hotjar Privacy Policy:
+https://www.hotjar.com/legal/policies/privacy/
+30 min
+_hjFirstSeen
+Identifies a new user’s first session
+Analytical
+30 min
+_hjIncludedInSessionSample
+Set to determine if a user is included in the data sampling defined by your site’s daily session limit.
+Analytical
+2 min
+_hjSessionUser
+Set when a user arrives on a page for the first time.
+Persists the Hotjar User ID that is unique to that site. Hotjar does not track users across different sites.
+Ensures data from subsequent visits to the same site are attributed to the same user ID.
+Analytical
+365 days
+_hjSession
+Holds current session data
+Analytical
+30 min
+ON OUR MOBILE GAME APPLICATIONS
+IDFV TapNation
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: TapNation
+AndroidID TapNation
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: TapNation
+IDFV GameAnalytics
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: GameAnalytics
+www.gameanalytics.com/privacy
+AndroidID GameAnalytics
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: GameAnalytics
+www.gameanalytics.com/privacy
+IDFV Firebase
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation, Google
+Companies receiving the data collected by these cookies: Google
+https://policies.google.com/privacy
+AndroidID Firebase
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation, Google
+Companies receiving the data collected by these cookies: Google
+https://policies.google.com/privacy
+IDFV Adjust
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: Adjust
+www.adjust.com/terms/privacy-policy/
+AndroidID  Adjust
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: Adjust
+www.adjust.com/terms/privacy-policy/
+IDFV Max
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: Applovin
+www.applovin.com/privacy
+AndroidID Max
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: Applovin
+www.applovin.com/privacy
+IDFV Network
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies:  Amazon, Applovin, BidMachine, Chartboost, Criteo, DT Exchange, Google Ad Manager, Google Ad Mob, HyprMX, InMobi, IronSource, Line, Maio, Meta, Mintegral, Mobile Fuse, Nend, Ogury, Pangle, Smaato, Tapjoy, Tencent, Unity Ads, Verve, Vungle, Yahoo, Yandex
+Companies receiving the data collected by these cookies: Amazon, Applovin, BidMachine, Chartboost, Criteo, DT Exchange, Google Ad Manager, Google Ad Mob, HyprMX, InMobi, IronSource, Line, Maio, Meta, Mintegral, Mobile Fuse, Nend, Ogury, Pangle, Smaato, Tapjoy, Tencent, Unity Ads, Verve, Vungle, Yahoo, Yandex
+AndroidID  Network
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session and game duration)
+Activity on the application
+Companies using this type of cookies:  Amazon, Applovin, BidMachine, Chartboost, Criteo, DT Exchange, Google Ad Manager, Google Ad Mob, HyprMX, InMobi, IronSource, Line, Maio, Meta, Mintegral, Mobile Fuse, Nend, Ogury, Pangle, Smaato, Tapjoy, Tencent, Unity Ads, Verve, Vungle, Yahoo, Yandex
+Companies receiving the data collected by these cookies: Amazon, Applovin, BidMachine, Chartboost, Criteo, DT Exchange, Google Ad Manager, Google Ad Mob, HyprMX, InMobi, IronSource, Line, Maio, Meta, Mintegral, Mobile Fuse, Nend, Ogury, Pangle, Smaato, Tapjoy, Tencent, Unity Ads, Verve, Vungle, Yahoo, Yandex
+IDFV Other partner tracking
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies:  Audio Mob, Odeeo, Adverty, Anzu, Gadsme
+Companies receiving the data collected by these cookies:
+Audio Mob, Odeeo, Adverty, Anzu, Gadsme
+Android ID
+Other partner tracking
+This ID is used to distinguish unique visitors to a site by assigning a random number generated by the operating system. Data are sent when an important event happens in the application (new session, game duration, launching of a level, etc.)
+Activity on the application
+Companies using this type of cookies:  Audio Mob, Odeeo, Adverty, Anzu, Gadsme
+Companies receiving the data collected by these cookies:
+Audio Mob, Odeeo, Adverty, Anzu, Gadsme
+3
+Cookies for the selection and distribution of personalized and/or targeted and/or geolocated content on our Site and/or our mobile game applications
+The purpose of these cookies is to allow us to personalize the editorial content or the display of our products and/or services, i.e. to select and distribute, on our Site and/or on our mobile game applications, content, products and/or services for your attention based on your usage of our Site and/or our mobile game applications, your location, and also the content you have previously viewed on our Site and/or our mobile game applications, and then to evaluate their distribution and their effectiveness (i.e. audience and performance, among other things).
+To this end, information regarding your usage of our Site and/or our mobile game applications is collected (e.g. information that allows us to find out where you are located, what content was displayed, how often it was displayed, how long it was displayed for, at what time and where it was displayed, and also if you reacted in response to the content, for example if you clicked on it) in order to determine by deduction your areas of interest, among other things, for the purposes of distributing to you personalized/targeted/geolocated content.
+[to be completed with as much detail as possible]
+Installation of the cookies detailed below is subject to your prior consent obtained in accordance with Article 4 hereof.
+ON OUR MOBILE GAME APPLICATIONS
+IDFV TapNation Remote Configuration
+This tracker is used to offer specific content for certain countries
+Identifying
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: GameAnalytics
+www.gameanalytics.com/privacy
+AndroidID TapNation Remote Configuration
+This tracker is used to offer specific content for certain countries
+Identifying
+Companies using this type of cookies: TapNation
+Companies receiving the data collected by these cookies: GameAnalytics
+www.gameanalytics.com/privacy
+4
+Cookies for the selection and distribution of personalized and/or targeted and/or geolocated advertising on our Site and/or our mobile game applications
+The purpose of these cookies is to allow us to personalize advertising, i.e. to select and distribute, on our Site and/or on our mobile game applications, content, products and/or services for your attention based on your usage of our Site and/or our mobile game applications, your location, and also the content and/or products and/or services and/or advertisements you have previously viewed on our Site and/or our mobile game applications, and then to evaluate their distribution and their effectiveness (i.e. audience and performance, among other things).
+To this end, information regarding your usage of our site and/or our mobile game applications is collected (e.g. information that allows us to find out where you are located, what content and/or products and/or services and/or advertisements were displayed, how often they were displayed, how long they were displayed for, at what time and where they was displayed, and also if you reacted in response to the content and/or products and/or services and/or advertisements, for example if you clicked on them or made a purchase) in order to determine by deduction your areas of interest, among other things, for the purposes of distributing to you personalized/targeted/geolocated advertisements on our Site and/or our mobile game applications.
+[to be completed with as much detail as possible]
+Installation of the cookies detailed below is subject to your prior consent obtained in accordance with Article 4 hereof.
+IDFA / Android id Applovin Max Ads
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies: Applovin
+Companies receiving the data collected by these cookies: Applovin
+www.applovin.com/privacy
+IDFA / Android id AdColony Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies: AdColony
+Companies receiving the data collected by these cookies: Applovin
+www.adcolony.com/privacy-policy/
+IDFA / Android id Amazon Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies: Amazon
+Companies receiving the data collected by these cookies: Amazon
+https://aps.amazon.com/aps/privacy-policy/
+IDFA / Android id Applovin Max Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies: Applovin
+Companies receiving the data collected by these cookies: Applovin
+www.applovin.com/privacy
+IDFA / Android id BidMachine Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies: BidMachine
+Companies receiving the data collected by these cookies: BidMachine
+https://bidmachine.io/privacy-policy/
+IDFA / Android id Chartboost Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Chartboost
+Companies receiving the data collected by these cookies: Chartboost
+https://answers.chartboost.com/en-us/articles/200780269
+IDFA / Android id Criteo Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Criteo
+Companies receiving the data collected by these cookies: Criteo
+www.criteo.com/privacy/
+IDFA / Android id DT Exchange Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+DT Exchange
+Companies receiving the data collected by these cookies:
+DT Exchange
+https://www.digitalturbine.com/privacy-policy/
+IDFA / Android id Google Ad Manager Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Google
+Companies receiving the data collected by these cookies: Google
+https://policies.google.com/privacy
+IDFA / Android id HyprMX Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+HyprMX
+Companies receiving the data collected by these cookies: HyprMX
+https://www.hyprmx.com/privacy-policy
+IDFA / Android id InMobi Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+InMobi
+Companies receiving the data collected by these cookies: InMobi
+https://www.inmobi.com/privacy-policy
+IDFA / Android id IronSource Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+IronSource
+Companies receiving the data collected by these cookies: IronSource
+https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-
+policy/
+IDFA / Android id Line Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Line
+Companies receiving the data collected by these cookies: Line
+https://line.me/en/terms/policy/
+IDFA / Android id Maio Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Maio
+Companies receiving the data collected by these cookies: Maio
+IDFA / Android id Meta Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Meta
+Companies receiving the data collected by these cookies: Meta
+https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy
+IDFA / Android id Mintegral Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies: M
+integral
+Companies receiving the data collected by these cookies: Mintegral
+https://www.mintegral.com/en/privacy/
+IDFA / Android id Mobile Fuse Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Mobile Fuse
+Companies receiving the data collected by these cookies: Mobile Fuse
+https://mobilefuse.com/privacy-policy/
+IDFA / Android id Nend Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Nend
+Companies receiving the data collected by these cookies: Nend
+https://www.fancs.com/en/privacy
+IDFA / Android id Ogury Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Ogury
+Companies receiving the data collected by these cookies: Ogury
+https://ogury.com/privacy-policy/
+IDFA / Android id Pangle Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Pangle
+Companies receiving the data collected by these cookies: Pangle
+https://www.pangleglobal.com/privacy
+IDFA / Android id Smaato Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Smaato
+Companies receiving the data collected by these cookies: Smaato
+https://www.smaato.com/privacy/
+IDFA / Android id Tapjoy Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Tapjoy
+Companies receiving the data collected by these cookies: Tapjoy
+https://dev.tapjoy.com/en/legal/Privacy-Policy
+IDFA / Android id Tencent Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Tencent
+Companies receiving the data collected by these cookies: Tencent
+IDFA / Android id Unity Ads Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Unity Ads
+Companies receiving the data collected by these cookies: Unity Ads
+https://unity.com/legal/privacy-policy
+IDFA / Android id Verve Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Verve
+Companies receiving the data collected by these cookies: Verve
+https://verve.com/product-privacy-policies/
+IDFA / Android id Vungle Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Vungle
+Companies receiving the data collected by these cookies: Vungle
+https://vungle.com/privacy/
+IDFA / Android id Yahoo Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Yahoo
+Companies receiving the data collected by these cookies: Yahoo
+https://developer.yahoo.com/flurry/legal-
+privacy/terms-service/
+IDFA / Android id Yandex Network
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Yandex
+Companies receiving the data collected by these cookies: Yandex
+https://yandex.com/legal/confidential/
+IDFA / Android id Audio Mob
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Audio Mob
+Companies receiving the data collected by these cookies: Audio Mob
+https://audiomob.com/privacy-policy
+IDFA / Android id Odeeo
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Odeeo
+Companies receiving the data collected by these cookies: Odeeo
+https://odeeo.io/privacy-policy/
+IDFA / Android id Adverty
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Adverty
+Companies receiving the data collected by these cookies: Adverty
+https://adverty.com/privacy-policy-2021
+IDFA / Android id Anzu
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Anzu
+Companies receiving the data collected by these cookies: Anzu
+https://www.anzu.io/privacy-policy
+IDFA / Android id Gadsme
+This tracker makes it possible to target advertisements based on various data, geolocation, previous installation of other applications, previous purchases, etc.
+Gaming habits
+Companies using this type of cookies:
+Gadsme
+Companies receiving the data collected by these cookies: Gadsme
+https://www.gadsme.com/privacy-policy
+6
+Cookies for the selection and distribution of personalized and/or targeted and/or geolocated advertising on third-party websites
+The purpose of these cookies is to allow us to personalize advertising, i.e. to select and distribute advertising for your attention based on your browsing, your location, and also the content and/or products and/or services and/or advertisements you have previously viewed, and then to evaluate their distribution and their effectiveness (i.e. audience and performance, among other things), and in this case in contexts other than on our Site and/or our mobile game applications, e.g. on third-party websites or applications.
+To this end, information regarding your usage of our Site and/or our mobile game applications, and also of other websites and applications is collected and cross-referenced (e.g. information that allows us to find out where you are located, what content and/or products and/or services and/or advertisements were displayed, how often they were displayed, how long they were displayed for, at what time and where they were displayed, and also if you reacted in response to the content and/or products and/or services and/or advertisements, for example, if you clicked on them or made a purchase) in order to determine by deduction your areas of interest, among other things, for the purposes of selecting and distributing to you personalized/targeted/geolocated advertisements on various third-party websites or applications.
+[to be completed with as much detail as possible]
+Installation of the cookies detailed below is subject to your prior consent obtained in accordance with Article 4 hereof.
+ON OUR MOBILE GAME APPLICATIONS
+IDFA / Android id Mintegral
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Mintegral
+Companies receiving the data collected by these cookies: Mintegral
+https://www.mintegral.com/en/privacy/
+IDFA / Android id Applovin
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Applovin
+Companies receiving the data collected by these cookies: Applovin
+www.applovin.com/privacy
+IDFA / Android id Google_Ads
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Google_Ads
+Companies receiving the data collected by these cookies: Google_Ads
+https://policies.google.com/privacy
+IDFA / Android id Ironsource
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Ironsource
+Companies receiving the data collected by these cookies: Ironsource
+https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+IDFA / Android id Appnext
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Appnext
+Companies receiving the data collected by these cookies: Appnext
+https://www.appnext.com/privacy-policy-oem-operators/
+IDFA / Android id Adjoe
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Adjoe
+Companies receiving the data collected by these cookies: Adjoe
+https://adjoe.io/privacy/
+IDFA / Android id Shareit
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Shareit
+Companies receiving the data collected by these cookies: Shareit
+http://w.ushareit.com/w/privacy/a/index.html
+IDFA / Android id Unityads
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Unityads
+Companies receiving the data collected by these cookies: Unityads
+https://unity.com/legal/privacy-policy
+IDFA / Android id Facebook
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Facebook
+Companies receiving the data collected by these cookies: Facebook
+https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy
+IDFA / Android id Tapjoy
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Tapjoy
+Companies receiving the data collected by these cookies: Tapjoy
+https://dev.tapjoy.com/en/legal/Privacy-Policy
+IDFA / Android id Bytedance
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Bytedance
+Companies receiving the data collected by these cookies: Bytedance
+https://www.tiktok.com/legal/privacy-policy
+IDFA / Android id Adgatemedia
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Adgatemedia
+Companies receiving the data collected by these cookies: Adgatemedia
+https://adgatemedia.com/privacy/
+IDFA / Android id Pinsightmedia
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Pinsightmedia
+Companies receiving the data collected by these cookies: Pinsightmedia
+https://pinsightmedia.com/boost-privacy.html
+IDFA / Android id Engage
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Engage
+Companies receiving the data collected by these cookies: Engage
+https://engage.org/privacy-policy/
+IDFA / Android id Apple Search Ads
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Apple Search Ads
+Companies receiving the data collected by these cookies: Apple Search Ads
+https://searchads.apple.com/privacy
+IDFA / Android id Qverse
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Qverse
+Companies receiving the data collected by these cookies: Qverse
+https://www.qverse.id/privacy
+IDFA / Android id Adaction
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Adaction
+Companies receiving the data collected by these cookies: Adaction
+https://www.adaction.com/privacy-policy
+IDFA / Android id Skyfall
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Skyfall
+Companies receiving the data collected by these cookies: Skyfall
+https://skyfallservices.com/privacy-policy/
+IDFA / Android id Google Organic Search
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Google
+Companies receiving the data collected by these cookies: Google
+https://policies.google.com/privacy
+IDFA / Android id Ad4Game
+This tracker allows us to measure the performance of advertising campaigns that we run, e.g. which creatives perform best, how many installations occurred, etc.
+Measuring performance
+Companies using this type of cookies: Ad4Game
+Companies receiving the data collected by these cookies: Ad4Game
+https://www.ad4game.com/privacy/
+In what circumstances and how do we obtain your consent to install cookies? What are your rights with regard to cookies?
+Circumstances for obtaining consent, the scope of your consent, and exceptions
+Important: The information below regarding your consent to or refusal of the use of cookies applies independently to our Site and to each of our mobile game applications. Furthermore, your consent or refusal/retraction of consent is obtained independently with regard to the use of cookies on our Site and on each of our game applications.
+For example, your consent to the use of one or other cookie(s) on our Site does not constitute consent to the use of the same cookies or similar cookies on all or any of our mobile game applications. Furthermore, your settings for cookies used on our Site are separate from any settings you may opt for on our mobile game applications.
+4.1.1     The installation of a cookie on a computer or terminal, as well as reading of this cookie via our Site or our mobile game applications, are in principle
+subject to the consent of the user
+, i.e. to a free, specific, clear and unequivocal demonstration of the user’s will granting their agreement for this purpose, and doing so
+separately for each purpose pursued by the cookies concerned
+. This consent is obtained via our
+cookie management module (accessible from
+the footer of every page of our Site by clicking on the Cookie Management Module link or, in the case of our mobile applications, directly in the application)
+under the terms and conditions detailed below.
+Furthermore, during the user’s first visit to our Site or to one of our mobile game applications, they are asked if they accept the cookies for which consent must be obtained, classed into different categories according to their purpose, before such cookies are installed on their computer or terminal. The cookies that are subject to such consent  are not installed until the user expressly accepts them, either comprehensively by clicking on the Accept All button, which allows you to accept all cookies, or distributively for each purpose by clicking the Accept button, which allows you to accept each of the categories (i.e. by purpose) of the cookies concerned using our cookie management module (i.e. the module provides the user with the opportunity to consent to or refuse the use of cookies depending on their purpose).
+Important:
+– In cases where your consent is required, such consent is strictly optional, and you can simply refuse to grant it.
+In any case, if you give your consent to the installation and reading of all or some of these cookies,
+you will of course retain the possibility to retract your consent at any later date using the cookie management module.
+– Furthermore, unless you express your will to the contrary using our cookie management module under the terms and conditions detailed below,
+your choice (comprehensive
+consent, partial consent, or refusal) will be retained for a period of 6 months, at the end of which time you will be asked again for your consent to or refusal of the installation of such cookies.
+4.1.2
+Exception to consent for so-called “functional” cookies used by our Site and our mobile game applications.
+Such cookies are not subject to your prior consent. Furthermore, these cookies are installed automatically when you browse our Site or use our mobile game applications, without your prior consent being obtained. Insofar as these cookies are necessary to offer you a better user experience or to allow you to benefit from certain functions of our Site and/or our mobile applications, we do not offer you any dedicated technical means to refuse the installation of these cookies or to disable them. However, you have the option of (as you do with certain other cookies) disabling them by other means, for example by using the functions offered by your browser or terminal, while bearing in mind that in this case you risk not being able to access our Site or our mobile game applications, and/or not receiving correctly the content and information available on, and/or not being able to benefit from all the functionality of our Site or our mobile game applications.
+The practical methods of obtaining your choices with regard to cookies (consent/refusal)
+The cookie management module holds information for the user about the cookies that may be installed/read in their terminal as a result of browsing our Site and/or using our mobile game applications (see also the details of these cookies in Article 3 hereof). It displays on our Site and on our mobile game applications during the user’s first visit and then, regardless of the user’s choice (comprehensive consent, partial consent, or refusal), displays again every 6 months. It will also display again if the user deletes their cookies using the functions of their browser or their terminal.
+The module offers the user several choices:
+either to consent comprehensively to the use of all the cookies by clicking on Accept All: all the cookies will then be installed,
+or to refuse comprehensively the use of all the cookies by clicking on Refuse All: only “functional” cookies will then be installed,
+or to personalize their choice by managing in a more careful way the cookies they accept (or refuse). In this case, the user is asked to click on the Authorize or Refuse buttons for each category of cookies concerned in our cookie management module, and in order to personalize their choices (on the understanding that, in the case of “functional” cookies that are not subject to prior consent, such cookies will be installed by default and cannot be refused by the user via our cookie management module), the user will then have to register their choices by clicking on Validate My Choices. It is accepted as a principle that if the user has not clicked Authorize for a cookie (regardless of whether or not they have clicked Refuse for that cookie), the cookie will be regarded as refused and not installed. This page also offers the user to Accept All or Refuse All.
+The user can also configure their choices with regard to the companies (third parties) using cookies on the Site and/or on our mobile game applications and the destination companies of the data collected through such cookies by specifying if they want to identify such companies as Authorized or Blocked, it being understood that:
+in principle, when a user consents to a category/a purpose of cookies, then all the partners using those cookies and/or all the companies that may be destinations of the data collected in this way are automatically considered Authorized (but only for the purposes of cookies authorized by the user);
+the user has the ability to refuse some of the partners using these cookies and/or all the companies that may be destinations for the data collected in this way by clicking, on the appropriate page of the cookie management module accessed via a button, on the Block button corresponding to the partners or destination companies that they want to refuse.
+To access our cookie management module, click on the Cookie Management Module link that can be found in the footer of all the pages of our Site. In the case of our mobile game applications, the location of the module depends on the application.
+In any case, all consent on your part to the use of cookies can be freely retracted at any time by deactivating one or more of the cookies in the manner described below.
+The practical methods of modifying your choices with regard to cookies (retracting your consent or refusal)
+You have available to you at all times several options for modifying the choices that you have made regarding cookies, in particular, retract your consent to or refuse their use (i.e. the installation/reading of cookies in your terminal).
+4.3.1     You can at any time, simply and free of charge, on a distributive basis according to the purposes pursued by such cookies, choose to retract your consent to or refuse the use of cookies other than “functional” cookies on your computer or terminal using the cookie management module.
+To do this, simply click on the Cookie Management Module link that can be found in the footer of all the pages of our Site. In the case of our mobile game applications, the location of the module depends on the application. Then:
+click on the Refuse button corresponding to the cookies you want to uninstall,
+register your choices by clicking on Validate My Choices.
+Or:
+click on the Refuse All button.
+The user has the ability to configure their choices with regard to the partner companies using these cookies and the destinations for the data collected through such cookies by clicking, on the appropriate page of the cookie management module accessed as described above, the Block button corresponding to the partners or destination companies that they want to refuse.
+4.3.2     You can also, if you prefer, have recourse to one of the options below.
+Your browser settings (with regard to the cookies that may be used on our Site)
+While most browsers are configured by default and accept the installation of cookies, the user has the possibility, if they wish to, of choosing in their browser settings to accept all cookies or to reject them systematically, or also to choose those cookies that they accept according to the issuer (on the condition that such a function is offered by their browser). Furthermore, the user can regularly delete the cookies on their terminal using their browser.
+In any case, these operations must be performed for each terminal: tablets, smartphones, computers, etc.
+You can thus freely configure your browser (Internet Explorer, Firefox, Google Chrome, etc.) in such a way that cookies will be:
+accepted and installed on your computer or terminal: in this case, the cookies integrated into the pages and content that you view will be systematically installed,
+refused: in this case, the cookies integrated into the pages and content that you view will not be installed,
+subject every time to your choice: in this case, the installation of cookies will each time be subject to your acceptance or refusal.
+To configure your choices for acceptance or refusal of cookies, you will have to take into account the configuration of each browser, as they are all different and change regularly. You will therefore need to refer to the help menu of your browser, which will allow you to find out how to change your cookie preferences. Examples:
+For more information about Google Chrome:
+https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en
+;
+For more information about Firefox:
+https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites?redirectlocale=fr&redirectslug=activer-desactiver-cookies-preferences
+and
+https://support.mozilla.org/fr/kb/desactiver-cookies-tiers
+;
+For more information about Internet Explorer:
+https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies
+;
+For more information about Safari:
+https://www.apple.com/legal/privacy/fr-ww/cookies/
+and
+https://www.apple.com/legal/privacy/fr-ww/
+;
+For more information about Edge:
+https://support.microsoft.com/fr-fr/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy
+;
+For more information about Opera™:
+https://help.opera.com/en/latest/security-and-privacy/
+and
+https://help.opera.com/en/latest/web-preferences/#cookies
+.
+Finally, it should be noted that in their current iterations, browsers:
+do not all allow you to sort cookies by their purpose (which means that you are often constrained to choosing between Accept All and Refuse All) ;
+do not all allow the user to give a valid expression of consent (which means that, despite the fact that you possibly have given consent to cookies via your browser, we will ask again for your specific consent under the conditions and in the manners cited above before any installation/reading by us of cookies that are subject to your consent);
+do not all allow you to express a choice on technologies other than “cookies for tracking browsing” in the strictly limited sense of the term. Furthermore, it is possible that certain cookies, trackers, or other similar technologies are in principle not blocked (e.g.
+device fingerprinting
+) and can be installed and/or activated despite the fact that you have expressed your refusal via the settings of your browser.
+As a result, it is recommended that you use our cookie management module (see above) to manage your choices with regard to cookies on our Site.
+Configuration via professional digital advertising platforms
+Several professional advertising platforms also offer users the opportunity to define their preferences with regard to targeted/behavioral advertising operated by member companies. In general, these centralized mechanisms do not block the display of all advertisements but prevent targeted/behavioral advertising adapted to the interests of the user, which are defined through their activity on the internet and their browsing history.
+For example, the website youronlinechoices.com lists a large number of companies that work with websites to collect and use the information necessary for targeted/behavioral advertising. This website is offered by digital advertising professionals grouped together in the EDAA (European Digital Advertising Alliance) and managed in France by the Interactive Advertising Bureau France. This European platform is shared by hundreds of online advertising professionals and constitutes a centralized interface that allows the user to find out which companies are registered on the platform and offer the option of refusing or accepting the display of targeted/behavioral advertising on the user’s terminal with regard to their browsing information:
+http://www.youronlinechoices.com/fr/controler-ses-cookies
+.
+You can thus control and define your preferences with regard to targeted/behavioral advertising on this website by selecting or deselecting all companies, or by defining your preferences company by company, bearing in mind that you will have to follow the same process on each different browser that you may use.
+For another example, a similar platform published by the NAI (Network Advertising Initiative) is available on the page
+https://optout.networkadvertising.org/?c=1
+and also offers the same functions.
+Although these platforms can allow you to manage your preferences regarding targeted advertising, they do not necessarily block advertising in general nor the installation of all cookies.
+As a result, it is recommended that you use our cookie management module (see above) to manage your choices with regard to cookies.
+Use of third-party tools available online
+Certain publishers of the cookies that we use on our Site and on our mobile game applications offer dedicated deactivation modules. It is thus recommended that users familiarize themselves with the information pages listed in the table above (
+see the details of the cookies we use in Paragraph 3
+) in order to identify these modules if required.
+For example, users can familiarize themselves with specific information regarding the Google Analytics deactivation module on the page:
+https://support.google.com/analytics/answer/181881?hl=fr&ref_topic=2919631
+. The user can also choose to deactivate all Google Analytics cookies directly by visiting the following page:
+https://tools.google.com/dlpage/gaoptout
+.
+4.3.3     You can obtain information on how to control your data while browsing the internet on the website of the French agency on data protection, the Commission Nationale de l’Informatique et des Libertés or CNIL (
+https://www.cnil.fr/fr/maitriser-mes-donnees
+, particularly
+https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser
+). In this regard, third-party cookies are not normally necessary for you to enjoy the resources available on the internet. If you wish to limit your digital footprint, you are advised to refuse them by default, as recommended by CNIL.
+How does TAPNATION process your personal data?
+Cookies do not in and of themselves constitute personal data. However, they may effect the collection of information that can be qualified as personal data and therefore lead to the processing of such data.
+In this regard, you are hereby informed that, by consenting to the installation of all or part of the cookies, you consent to the processing of your personal data collected in this way for the relevant purposes, it being understood that this processing may involve the processing, combining and cross-referencing of a significant volume of such data about you from various sources.
+For all information regarding the processing of your personal data by TAPNATION, particularly the processing of personal data obtained via the cookies integrated into our Site and/or our mobile game applications, we ask you to consult our Data Protection Policy [insert a link to the Data Protection Policy].
+Date of last update: [to be completed] 2023
+Tweet
+Share
+Share
+Pin
+75
+75
+Shares
+Product
+Games
+Technology
+Publishing
+Company
+Blog
+Careers
+Cookies
+Data Protection
+隐私政策
+Contact
+Submit your game
+Copyright 2020 © TAPNATION

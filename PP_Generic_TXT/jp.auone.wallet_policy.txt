@@ -1,0 +1,90 @@
+送信情報の概要
+送信情報の概要
+au PAY（旧 au WALLET）
+は、以下のお客様情報を外部送信します。
+■送信するお客様情報
+本アプリ画面上でご入力頂いたau ID（暗号化されたau IDを含みます）
+au IDに紐づくお客様情報（属性情報及びKDDI株式会社のサービスへの加入・利用状況等）
+インストール済みのアプリ情報
+お客様を認証するクッキー情報
+端末に保存されているアドレス帳情報
+位置情報（最大数分間隔、一定距離移動時の定期測位）
+端末のシステムログ情報・端末固有の情報・その他
+端末から取得する広告用ID（端末の設定で送信停止設定ができます）
+本アプリの不具合によるクラッシュの情報（日時、原因と推測される不具合の場所等）
+利用規約および個別同意項目の許諾（同意、非同意）情報
+AndroidID（OSが発行するID）
+アプリ起動情報
+画面の閲覧数、クリック数等の数値情報
+画面の閲覧履歴及び操作履歴
+au IDに紐づくPonta ID
+■送信する目的
+アプリ・サービス本来の機能の提供および運営（お客様の認証・識別を含みます）
+アプリ・サービスの不具合調査・利用状況解析
+当社がお客様にとって有益と考える情報の提供
+広告効果の検証・改善及び最適な広告の配信
+お客様にて同意、許諾状態が確認可能なユーザ管理機能の提供
+アプリ・サービスのサービス品質向上と新サービス開発
+当社およびグループ会社のサービスに係る調査、分析、マーケティング活動
+現在地周辺の情報表示・配信
+官公庁、公共団体、一般企業等への人口動態分析、マーケティング分析等に係る調査の提供（なお、第三者に開示する場合、個人を特定しないように義務付けます。
+詳しくはKDDIオフィシャルウェブサイト内、「位置情報の活用について」をご確認下さい。 ）
+端末を紛失された際の位置検索
+送信先のサービスでお客様認証を行うため
+その他KDDI株式会社が別途定める「プライバシーポリシー」に定める利用目的
+■送信先
+KDDI株式会社
+KDDI株式会社（業務委託先：Supership株式会社）
+KDDI株式会社（業務委託先：株式会社KDDI総合研究所）
+KDDI株式会社（業務委託先：株式会社ARISE analytics）
+KDDI株式会社（業務委託先：技研商事インターナショナル株式会社）
+KDDI株式会社（業務委託先：DATUM STUDIO株式会社）
+Supership株式会社
+Google LLC
+adjust, Inc.
+Unity Technologies
+株式会社アイモバイル
+株式会社サイバーエージェント
+株式会社ファンコミュニケーションズ
+Repro株式会社
+Mintegral
+株式会社Zucks
+株式会社Gunosy
+Liftoff Mobile, Inc.
+Pangle
+CRITEO株式会社
+UNICORN
+Moloco
+Appier
+LINE
+Aarki
+Adform
+Adikteev
+Affle India
+Amazon
+Beeswax.io
+Bidease
+Bigabid
+Basis Technologies
+Chartboost
+InMobi
+Jampp
+Kayzen
+LifeStreet Media
+MediaMath
+Mobvista
+Remerge
+RTB House
+ScaleMonk Inc.
+Sift Media
+Smadex
+Snap
+The Trade Desk
+Twitter,Inc.
+Boundless
+Yandex
+株式会社ロイヤリティマーケティング
+株式会社プレイド
+より詳細なアプリケーションプライバシーポリシーを
+こちら
+でご覧いただけます。

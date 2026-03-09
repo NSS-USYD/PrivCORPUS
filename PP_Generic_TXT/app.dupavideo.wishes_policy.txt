@@ -1,0 +1,167 @@
+Privacy Policy
+Privacy Policy
+Update date: February 24, 2023
+We recognize the importance of maintaining your privacy. To provide you with our personalized app
+( â€œ
+Vinkle.aiâ€) and services(the â€œServiceâ€), we need to collect some privacy information about you, and this privacy policy explains the information we collect, how we treats your information and protects your privacy. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Thanks for choosing our App and Service. Please read this Privacy Policy carefully to understand it. If you use the App and Service, we consider you to consent to the terms and conditions described in this document. IF YOU DO NOT AGREE WITH ANY TERM IN THIS POLICY, PLEASE DO NOT USE OUR SERVICES.
+Face Data Policy
+What face data is our app collecting?
+We analyze users' photos and find out the feature
+points(
+like eyes, nose, mouth points) of the face in photo for face processing purpose. We do not collect face data. After the analyzing process ends, all data will be deleted, no data will be saved.
+For what purposes are we collecting this information?
+In order to provide users their "Change face" effects, the app needs to find out the feature
+points(
+like eyes, nose, mouth points). The complete process is: (1) You transfer pictures to our server. (2) The server analyzes your photo and returns the result of facial data processing. (3) The application automatically synthesizes the facial data processing results and materials into the final effect. (4) This information is temporarily stored in Alibaba Cloud's encrypted storage. After the synthesis process is completed, your pictures will be automatically deleted immediately.
+Will the data be shared with any third parties? Where will this information be stored?
+The data will not be shared with any third parties. The photos you uploaded will be
+deleted after the analyzing process ends.
+What kinds of information do we collect from you?
+There are two general categories of information we will process:
+1. Information may be automatically collected
+When you use or access the Software and the Service, some information about you may be automatically collected as follows:
+Technical Information. We may use
+UIDevice
+to collect your configurations and settings of the Software and the Service, version of the Software and the Service, and use Universally Unique
+Identifier(
+UUID) to collect anonymous user identifiers.
+2. Information that you provide to us
+(1) Facial features data. When you first use the face recognition function,
+You
+may voluntarily grant us the permission to access to your camera and album to obtain your facial photo in your mobile device. Only if you confirm the permission, will we gain access to your camera and album. We will then use the
+sdk
+provided by third parties to analyze the facial features data, recognize the position and shape of the five sense organs
+ï¼Œ
+gender
+ï¼Œ
+race in the photos, and process the photos, feedback the effect drawing or conclusion to you. Such effect drawing or conclusion will not contain any personally identifiable information. For such data, photo, effect drawing and conclusion, we will neither store nor share them with any third parties.
+The purpose of processing such information is only to operate the face recognition functions of the App.
+(2) Support Related Information. If you communicate with us via our support section or via email, we may also collect your email address, name and any information voluntarily submitted by you in connection with such support (for example, your name, company name, and particular support query or request). Such information will only be used to provide you with support services and will not be connected with any other information collected from you on or through the Software and Service, including, any individual User ID (as defined below) generated or collected by us. When you use the Software and Service, we automatically generate an anonymous internal user ID (which does not personally identify you), which is assigned to your use of the Software and Service (the â€œUser IDâ€) and may be combined with any of the above information.
+How do we use your information?
+1. The main reason we use your information is to deliver and improve the service.
+Read on for a more detailed explanation of the various reasons we use your information:
+l to operate and update the Software and the Service, and provide you with existing and new functionality and features;
+(1) To improve and customize the Software and the Service;
+(2) To maintain, test, monitor and improve the quality and operation of the Software;
+(4) To comply and satisfy any applicable law regulation, legal process or enforceable governmental request.
+2. If any new purposes for processing your information arise, we will let you know we will start to process information for that other purpose by introducing the corresponding changes to this Privacy policy.
+How can your information be shared?
+1. We will share your information with third parties only in the ways that are described in this Privacy Policy.
+2. We will not rent or sell your personal information to the third- party, but for your better use of the services provided by third-party organizations, we may share your information with third-party organizations that provide automatic data processing technologies for the Software or providing service to the Software. We do not have power to control or influence these third- partiesâ€™ tracking technologies or how they may be used. Therefore, if you do not want to share your personal information with any third-party organizations, please do not use such services provided by those third-party organizations.
+3.We may access software development kits (SDK) provided by third parties for relevant purposes. In order to protect data security, we will strictly monitor the software development Kit (SDK) from which our partners obtain information. Relevant third-party SDK we access are listed in this Privacy Policy. These SDKS may collect and use your personal information, which we will collect and use after your authorization and consent. Note that the data processing type of third-party SDK may change due to version upgrade or policy adjustment. Please refer to the official instructions published by the third-party SDK.
+Third-party SDK name: Alibaba Cloud HTTPDNS
+Collect personal information purpose: domain name anti - hijacking
+Collect personal information: Embed information SDK, SDK collects personal information
+Scope of personal information collection: IP address
+Name of the third party: Ali Cloud Computing Co., LTD
+Privacy policy links:
+http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html
+Third-party SDK Name: Ali Cloud Log Service (SLS)
+The purpose of collecting personal information is to collect user operation logs and locate faults
+Collect personal information: Embed information SDK, SDK collects personal information
+Collect personal information: Device manufacturer, device brand, device model, device name, device operating system information, device configuration information, device environment information, network operator information, network type, and network status
+Name of the third party: Ali Cloud Computing Co., LTD
+Privacy policy link:
+https://terms.aliyun.com/legal-
+agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202112131013_69952.html
+Third-party SDK names: FirebaseAnalytics, FirebaseCrashlytics, FirebaseDynamicLinks
+The purpose of collecting personal information: statistical analysis and defect analysis; provides the scene restoration function to wake up applications from the H5 sharing page with one click.
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Personal information collection scope: Device information (IDFA/IDFV/UDID/IP)
+Third party organization name: Google
+Privacy policy links:
+https://firebase.google.com/support/privacy
+Third-party SDK names: FBSDKCoreKit, FBSDKLoginKit, FBSDKShareKit
+The purpose of collecting personal information: to help users log in and share
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third party organization name: Meta
+Privacy policy links:
+https://developers.facebook.com/terms/
+Third-party SDK name: GoogleSignIn
+The purpose of collecting personal information: to help users log in
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third party organization name: Google
+Privacy policy links:
+https:// policies.google.com/privacy
+Third-party SDK name: Google-Mobile-Ads-SDK
+Purpose of collecting personal information: To provide personalized advertising
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third party organization name: Google
+Privacy policy links:
+https:// www.google.com/adsense/new/localized-terms
+Third-party SDK name: SnapSDK
+The purpose of collecting personal information: to help users share it
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third party organization name: Snap
+Privacy policy links:
+https://snap.com/privacy/privacy-policy
+Third-party SDK name: TikTokOpenSDK
+The purpose of collecting personal information: to help users share it
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name: TikTok
+Privacy policy links:
+https:// www.t
+iktok.com/legal/privacy-policy-row
+Third-party SDK name: AppsFlyerSDK
+Purpose of collecting personal information: attributing advertising data and statistical analysis
+Personal information collection method: Embed third-party SDK to collect and transmit personal information
+Scope of personal information collection: Browser type, device type and model, CPU, system language, memory, operating system version, Wi-Fi status, time stamp and region, device motion parameters and carrier, IP address (may also provide general location) information), user agent, IDFA (advertiser identifier), Android ID (for Android) Equipment); Google advertiser ID, customer published user ID, and other similar unique identifiers
+Third party: AppsFlyer
+Privacy policy links:
+https:// www.appsflyer.com/legal/services-privacy-policy/
+Third-party SDK name: VungleSDK
+Purpose of collecting personal information: To provide personalized advertising
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party organization name: Vungle
+Privacy policy links:
+https://vungle.com/privacy/
+Third party SDK name: UnityAds
+Purpose of collecting personal information: To provide personalized advertising
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third party Organization Name: Unity
+Privacy policy links:
+https://unity3d.com/cn/legal/privacy-policy
+Third-party SDK name: FBAudienceNetwork
+Purpose of collecting personal information: To provide personalized advertising
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Scope of personal information collection: device identification information
+Third party organization name: Meta
+Privacy policy links:
+https://developers.facebook.com/terms/
+Third-party SDK name: AliyunOSS
+Purpose of collecting personal information: file upload
+Personal information collection: The third-party SDK is embedded to collect and transmit personal information
+Collect personal information: Device manufacturer, device brand, device model, device name, device operating system information, device configuration information, device environment information, network operator information, network type, and network status
+Name of the third party: Ali Cloud Computing Co., LTD
+Privacy policy links:
+http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html
+4. We may disclose your personal information if needed for objective reasons, due to public interest or in other unforeseen circumstances:
+(1)as required by law;
+(2)when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+Transfer of data outside your territory
+1. We work in the international space and provide software to our users around the world. We and third-party organizations that provide automatic data processing technologies for the Software or our third-party advertising partners may transfer the automatically processed information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+2. You should express your consent to our processing of your data content within legal compliance, and you may withdraw your consent at any time.
+Right of access, modification and deletion of your information
+In compliance with legal provisions, you have a general right to access, edit and delete your personal information which has been collected pursuant to your access to and/or use of the Service. In order to exercise this right, please contact us through the email displayed below
+ï¼Œ
+vinklebhb@gmail.com.
+Security of your personal information
+1. The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+We take reasonable and appropriate measures to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in the processing and the nature of personal information.
+2. We implement appropriate technical and organizational measures, which are
+designed to implement data-protection principles, such as data minimization, in an effective manner and to integrate the necessary safeguards into the processing. We seek your personal information to be encrypted with proper and strong encryption algorithms, including hashing where possible.
+3. Unfortunately, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We do our best to protect your personal information. Nevertheless, we
+can not
+guarantee its absolute security. In the event that your personal information is compromised as a breach of security, we will promptly notify you in compliance with applicable law.
+If you have any questions about security of the Software, you can contact us through the email displayed below.
+Changes to this privacy policy
+This Privacy policy may change from time to time. Whenever we change this Privacy policy, we will post those changes to this Privacy policy and other places that we consider appropriate. Please check and pay close attention to this Privacy Policy from time to time.
+ContactÂ  us
+If you have any questions about the Service or this Privacy Policy, or if you would like to obtain a previous version of the current document, feel free to contact us by sending email to vinklebhb@gmail.com.

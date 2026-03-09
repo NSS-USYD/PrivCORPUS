@@ -1,0 +1,16 @@
+Add Music to Voice - Privacy policy
+Privacy policy
+Please read this privacy policy carefully. By using the "Add Music to Voice" app you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all of the terms and conditions set forth below, you may not use this app.
+What information we collect
+Some information may be collected by AdMob for advertising purposes (
+Google Privacy & Terms
+).
+Requested permissions of Android device
+Read external storage:
+used to allow the user choose an audio files from the device.
+Write external storage:
+used to allow the user save, rename or delete an audio file.
+Wake lock:
+this allows audio to be created while the phone is locked.
+Internet:
+used for advertising.

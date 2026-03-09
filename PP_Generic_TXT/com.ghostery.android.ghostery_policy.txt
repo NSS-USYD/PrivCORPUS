@@ -1,0 +1,195 @@
+Ghostery
+Become a contributor
+Sign in
+Ghostery Privacy Suite
+Tracker & Ad Blocker
+Private Browser
+Private Search
+Tracker Analytics
+Privacy Digest
+Home
+Support
+Blog
+Privacy
+Mobile Browser Privacy Policy
+Table of contents
+Scope of this privacy policy
+Protecting your privacy is part of our DNA
+History and bookmarks are always processed only locally and never sent to us
+No identification required
+No IP addresses collected
+Targeted offers and privacy with Rewards
+Add-ons
+Strictly anonymous data that is collected by GMB
+Strictly anonymous data that users can choose to share
+Where is the data processed?
+The Ghostery-technology is open source
+Disclosure of data
+Contract Conclusion
+Right to Withdraw
+Costs
+Warranty for Fee-based Services
+Cancellation of Fee-based Services
+Redirect to search engines
+GMB for Android
+GMB for iOS
+Effective Date:
+September 19
+, 2018
+Scope of this privacy policy
+Protecting your privacy is part of our DNA and hence we apply privacy to all of Ghostery’s products. This specific privacy policy applies to the Ghostery Mobile Browser (“GMB”). It has recently been purchased from Ghostery, Inc., now renamed Evidon, and is owned by Ghostery GmbH (“Ghostery”), headquartered at Arabellastrasse 23, 81925 München (Munich), Germany (“Company”).
+This Mobile Browser Privacy Policy (“Privacy Policy”) is subject to the End User License Agreement (“EULA”). As Ghostery GmbH is a company based in Germany, the Ghostery GmbH (“we”, “us”, “Ghostery”) is also subject to the strict German and European data protection regulations. But our standards and policies go far beyond that. Our primary principle is “Privacy by Design”: We never store any data that could be used to identify a user of Ghostery (“you”). Because of such design, we never store what you are searching or doing on the web in an identifiable manner. Our guiding principle is to – where technically possible – never even initiate a transfer of personally identifiable information (“PII”) at all.
+Protecting your privacy is part of our DNA
+Why? To help you search and browse the web, we do not need to know anything about you as a person. Your name, age, gender, interests and preferences are none of our business. That is why – unlike most other internet businesses – we do not even want to gather such information in the first place.
+On the other hand – we do not fool ourselves: Data is an important part to build complex systems like search. However, we strongly believe, and have proof, that such systems can be built without compromising the privacy of users. In everything we implement we ask ourselves: If somebody evil would get access to the data we have on our servers, if we get hacked, if we need to hand over the data to a (foreign) government – would anyone of our users be at risk? If the answer to this question is yes, then the data itself should never ever be collected in the first place. And so we simply don’t collect it.
+Last but not least: We do know privacy policies are hard to read and most often literally impossible to fully understand: the line between anonymous and pseudo-anonymous can be very fine. To gain your trust we have open-sourced all of our front-end code (and hence everything that sends something from your computer). We know very few people will ever look into the code, but: you or everyone else could every time check that we’re honest. And hence we cannot hide anything. And we will never do – because protecting your privacy is part of our DNA.
+History and bookmarks are always processed only locally and never sent to us
+While you are typing queries or web addresses into GMB we offer you website suggestions. These suggestions are based on our web search technology and/or on your browser data (e.g., history and bookmarks). It is important to note that Ghostery processes your browser data only locally. This data (e.g., your history and your bookmarks) never leaves your computer.
+No identification required
+Ghostery does not require you to log in nor provide us with your name or email address. We don’t need and we don’t want to know who you are. Ghostery therefore doesn’t collect or process data such as email addresses or names.
+No IP addresses collected
+For our servers to communicate with your computer (in particular, to provide you with results from the Ghostery Search backend), it is technically inevitable to receive your IP address and use it in the exchange of messages between the two machines. This IP address is only and exclusively used to send and receive the information described in this privacy policy and to provide results for a given query. It is discarded immediately thereafter. Other than that, we do not store our user’s IP addresses on our servers. In some cases, as described below in the section on the Human Web, we use a proxy network so that we do not even receive user’s IP addresses.
+Targeted offers and privacy with Rewards
+The technology behind Rewards is a part of the GMB and works solely on the user’s device. Among other things, it analyzes which websites the user visits and what the user has searched previously for on the Internet. This provides the basis for determining potential purchase intent. Rewards doesn’t send any information whatsoever to a server that identifies individual users. Instead, it sends out only anonymous and purely statistical data.
+Campaigns developed in collaboration with our business clients are always tied to particular trigger rules. This means that various rules (e.g. when, then, and, or, not at all) are used to define specific requirements that must be met before a relevant offer is displayed in a user’s browser. The entire process of verifying the extent to which the governing requirements have been met is also carried out locally on the device itself – nowhere else.
+All offers are sent in advance to all available browsers and add-ons, where they remain in the background until they are called up. The right offer is activated and displayed in the browser at the right moment only when the user’s behavior corresponds to the previously defined trigger rules and other additional requirements. All offers are sent in advance to all available browsers and add-ons, where they remain in the background until they are called up. The right offer is activated and displayed in the browser at the right moment only when the user’s behavior corresponds to the previously defined trigger rules and other additional requirements.
+Add-ons
+GMB is based on Firefox, so you can install all Firefox for Android compatible add-ons from addons.mozilla.org, accessible through the add-ons entry in the menu bar. GMB periodically connects with Mozilla to install updates to Add-ons. Your installed Add-ons, Firefox version, language, and device operating system are used to apply the correct updates.
+Ghostery recommends to only install add-ons if you really trust them. It cannot guarantee full compatibility of add-ons with the GMB.
+Strictly anonymous data that is collected by GMB
+To maintain and improve our search technology and browsing experience, GMB does collect strictly anonymous data from you using GMB through three channels: telemetry (signals about your system and usage data), atomic units of query logs (query-URL required to improve the search results from the Ghostery SEarch backend), and Human Web (statistical data that are used to detect websites to add to the Ghostery-index and assess their relevance and safety). At no occasion is any PII collected from any of these channels. In fact, we break URL and search down to atomic units that make even the connection between two data points (as harmless as they individually might be) impossible, and hence makes it impossible for us, or any other entity that might gain access to the data, to build a user profile by aggregating all your data points. Such profiles are technically impossible because different data points have no key which would allow aggregating or connecting them. In detail:
+1) Telemetry
+GMB logs signals about your system and how you use GMB (telemetry) solely to operate and for further development. In this channel, two kinds of data are collected:
+1. a) System Data to improve performance and stability for users everywhere
+For statistical purposes, GMB logs the following information about the system environment it is run on:
+The current state and characteristics of the GMB software. This is all software versioning information of GMB, plus the information when and through which distribution channel GMB has been installed. We use this information to identify and associate potential bugs with specific versions that we provide either on our premises or to distribution partners.
+A system profile identifier: this is a fully anonymized tag that allows us to improve GMB’s search experience through long-term studies by recognizing a given system environment. The identifier is never (not even at browser level) connected to any information about your online behavior, e.g., websites you visit or searches you make.
+1. b) Structural usage data
+Structural usage data collected through the telemetry channel is used to improve the experience you have when using GMB’s search. This is statistical data about HOW you perform searches (i.e. the way you interact with GMB), but not WHAT searches you perform.
+N.B.: As these GMB data sets contain no personally identifiable details and are not combined with any, it is impossible to draw any conclusions about users’ online behavior.
+Activate and deactivate Telemetry
+You can turn this on and off at any time with these steps:
+In the GMB for Android:
+Click the three-dots-button and choose
+Settings
+Select the
+Privacy
+panel
+Scroll down to the
+Data Choices
+section
+Check or uncheck the box next to
+Telemetry
+In the GMB for iOS:
+Tap on
+Settings
+In the section
+Help
+, tap on
+Send usage data
+Set the button next to Send usage data to
+Off
+2) Query logging
+This channel collects signals about WHAT you search and where you land. That is why we do not collect any personal identifier here, which makes it impossible to associate searches with users. Moreover, all query entries and clicks on website suggestions are evaluated only as a single event, disentangling these signals from everything else. Thus, we are neither able to combine data from multiple entries or multiple clicks on website suggestions, nor to link this information with personal information like your email address or an IP address, either.
+Query logging data is used to further improve the Ghostery backend. More specifically:
+To be able to suggest websites in real-time while you are typing into GMB’s combined browser-and-search-bar, GMB sends your keystrokes to our servers. With every new keystroke, our backend scans our index and predicts the most relevant results for your search query.
+“Relevant” to that regard is (very simplified) defined by the frequency a given website is clicked on for a given query. In other words, GMB predicts the most probable site you will navigate to, based on the (partial) query that you type. In order to further improve this mechanism of relevancy, GMB logs the taps on its search result cards and the respective queries.
+3) Human Web
+Our search technology works with the “wisdom of the crowd” and a technology called Human Web. Users contribute anonymously to the statistical data that are used to detect websites and assess their relevance and safety. This way each of our users makes searching for everyone else better and the web a safer place.
+The more users use Ghostery, the better it gets for everyone. However, all query entries and website visits are evaluated only as a single event, disentangling these signals from everything else. Thus, we are neither able to combine data from multiple entries or multiple visits to websites, nor to link this information with any personal information like your email address, either. In particular:
+GMB sends to our servers data about your website visits and how you interact with this website. This is carried out entirely anonymously, without reference to any personally identifiable information or user identity.
+In cases where it adds to the improvement of result ranking and result snippet information, GMB also collects the site’s content. This is done only for sites for which at no point the Ghostery, Inc. can draw any conclusion about a single user, i.e. we do not collect any information from sites that require any form of login.
+All Human Web communication is routed through a proxy network. This ensures that when we receive the data we do not know anything about the user because the proxy network removes the user’s IP address etc. (we only get the IP from the proxy network and cannot infer any user from it). The proxy itself cannot read or learn anything about the message content (as it is encrypted). Hence we fully separate sender and content and make it impossible for all involved parties to ever connect user and usage data. IP addresses are removed automatically from the Human Web data before we even receive it.
+4) Rewards
+We never process personal data, we don’t store such data centrally on a server and, on top of that, we don’t profile you. This means we can’t pass on or sell your data to third parties. With Rewards, you as a user are always anonymous.
+All we record on our server are statistical data regarding offer clicks and data entries on the website of the business client making the offer. But we keep these data completely separate from the information on website visits and search queries. This makes it impossible from the outset to infer anything about your identity! All the operators of Rewards can see is that a user has responded to an offer he received – not who that user is.
+Using a proxy network ensures that no exchange of personal data takes place between the browser and the Rewards server. A proxy network also makes sure when measuring how the offers are accepted that your anonymity is protected at all times.
+The way we record and store data also precludes any subsequent de-anonymization and profiling. Neither we nor third parties can create user profiles by connecting several data points, because the data stored on the server do not at all contain any reference points. Your anonymity is assured at all times! Even if we wanted to or were obliged to do so by law, we could never share or sell personally identifiable information, because our Privacy by Design architecture makes it technically impossible to store such data on our servers.
+Strictly anonymous data that users can choose to share
+When using GMB, you can choose to share your location with the Ghostery backend. In this case, GMB uses this information only and exclusively to add local results and local information to result snippets in its dropdown. Also, here we technically limit ourselves to not be able to infer any information about a single user. In detail: In case the user chooses to share the information, the Ghostery backend receives latitude and longitude information, but only after reducing the initial 6 decimal places of this information to only 3. This translates to a precision of roughly a square area with a diagonal of 130 meters around your actual location. Thus, Ghostery can provide accurate local results without being able to identify e.g. your home or work address. Please also note this is a feature that you must actively enable, your location is never shared by default.
+Where is the data processed?
+To offer the best-possible performance worldwide, the technical infrastructure for the operation of the Ghostery-technology and -browser is distributed across computer centers in Germany and the United States and can – when required – also use computers across the world. We don’t believe it matters where the servers are located, but what is stored on the servers. In our case: only non-personally identifiable information, i.e. nothing that could be linked to a particular person. Data is only used to build Ghostery features like search; data stored in our servers cannot be repurposed to learn profiles or track individual people.
+The Ghostery-technology is open source
+We have nothing to hide. Please feel free to check our code at any time on our publicly accessible Github repository run by Ghostery (
+https://github.com/ghostery
+).
+Disclosure of data
+We never do (and are not even technically able to) disclose any personally identifiable information to 3rd parties.
+We might be legally required to disclose available data to 3rd parties. However, even if such data was disclosed, no personally identifiable information of any kind is present in that data, thus your total anonymity is guaranteed from 3rd parties that are granted access to the data. The disclosed data cannot be used to track or to build a profile of a user in any way.
+Redirect to search engines
+To offer you a complete browser experience, GMB offers you various options for redirecting to external search engines. When you take advantage of these options, GMB forwards your query to the external search engine. Your data then becomes subject to the respective provider’s rules and methods.
+GMB for Android
+This app asks for accessing the following:
+Precise location (GPS and network based)
+When using GMB, you can choose to share your location with the Ghostery backend. In this case, GMB uses this information only and exclusively to add local results and local information to result snippets on the result cards. Please also note this is a feature that you must actively enable, your location is never shared by default.
+Photos / Media / Files
+GMB needs these permissions for you to be able to upload and download files to and from websites.
+Contacts
+In order to receive push messages, GMB requires access to the contact group. As of Android 6.0 (Marshmallow) access is blocked by default and is only allowed if you actively agree as soon as the permission is required. This is not the actual contacts, but an authorization within the ’Contact Group’.
+Data from the Internet
+This is technically required, since it is the basic function of a browser.
+Retrieve network connections
+This is technically required for the basic function of a browser and the search engine.
+To access all networks
+This is technically required for the basic function of a browser and the search engine.
+Install Shortcuts
+This permission allows you to add the app icon on the home screen.
+From Android 6.0 onwards you choose whether and when to grant the mentioned permissions to GMB. Older versions of Android require permissions to be given upon installation of the app. But the philosophy is the same: We only use the granted permissions when they are needed to perform the specific functionality.
+GMB for iOS
+This app asks for accessing the following:
+Location Services (GPS and network based)
+When using GMB, you can choose to share your location with the Ghostery backend. In this case, GMB uses this information only and exclusively to add local results and local information to result snippets on the result cards. Please also note this is a feature that you must actively enable, your location is never shared by default.
+Photo Library
+GMB needs this permission for you to be able to upload and download files to and from websites.Formularbeginn
+Changes to Privacy Policy:
+We may occasionally change this Privacy Policy and when we do, we will also revise the “Effective Date” at the top of the Privacy Policy. Ultimately, however, it is your responsibility to periodically review this Privacy Policy to stay informed about our data practices and any changes to them. Your continued use of the GMB constitutes your agreement to this Privacy Policy and any changes to it.
+Contacting Company:
+All inquiries, comments or concerns about these practices should be sent either by email to
+privacy@ghostery.com
+, or regular mail to Ghostery, doing business as Ghostery GmbH, Arabellastrasse 23, 81925 München (Munich), Attention: Privacy Department.
+—
+Follow us on
+Twitter
+Linkedin
+Facebook
+GitHub
+Privacy Suite
+Tracker & Ad Blocker
+Private Browser
+Private Search
+Tracker Analytics
+Privacy Digest
+Browser Extensions
+Ghostery for
+Chrome
+Ghostery for
+Firefox
+Ghostery for
+Safari
+Ghostery for
+Opera
+Ghostery for
+Edge
+Comparisons
+uBlock Origin
+Adblock Plus
+AdGuard
+Privacy Badger
+Ghostery
+Ghostery Manifesto
+Become a contributor
+Sign in
+Blog
+Community
+Help
+FAQ
+Contact Support
+Submit a Tracker
+Data request
+Design guidelines
+About Privacy
+© 2023 Ghostery, Inc. All rights reserved.
+Ghostery, the Ghostery logos, Ghostery Insights are registered trademarks of Ghostery GmbH.
+Privacy Policy
+Terms & Conditions
+Imprint

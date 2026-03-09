@@ -1,0 +1,537 @@
+Privacy policy
+Effective Date: July
+	27, 2021
+This Privacy Policy describes how Lyrebird Studio
+Teknoloji
+Ltd.
+Åž
+irketi
+(
+"Lyrebird Studio"
+,
+"We"
+,
+"Us"
+,
+	or
+"Our"
+) protects your privacy when you use Lyrebird
+	Studio (the "
+Lyrebird Studio Service
+") which includes the
+	Web site located at www.lyrebirdstudio.net (the
+"Site"
+)
+	and all Lyrebird Studio mobile phone applications (
+each,
+	the "
+App
+").
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING
+	THE LYREBIRD STUDIO SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS
+	DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. THIS
+	PRIVACY POLICY IS PART OF AND INCORPORATED INTO LYREBIRD STUDIO'S
+TERMS OF USE
+(
+"Terms of Use"
+).
+	IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY
+	NOT USE THE LYREBIRD STUDIO SERVICE.
+This Privacy Policy
+	applies to information (including personal information) collected through the Lyrebird
+	Studio Service.
+If you decide not
+	to read this entire Privacy Policy, we want you to walk away with a few key
+	points about our privacy practices:
+Â·
+The App is a photo editor that allows
+	users to edit portraits based on neural network technology that automatically
+	generates highly realistic facial transformations.
+Â·
+We use third-party cloud provider â€“
+	Amazon Web Services â€“ to process and edit photographs.
+Â·
+The App only uploads to the cloud the
+	photographs that you specifically select for editing.
+Â·
+Photographs are temporarily cached on
+	the cloud servers during the editing process and encrypted using a key stored
+	locally on your mobile device.
+Â·
+Photographs remain in the cloud for a
+	limited period of 24-48 hours after you have last edited the photograph, so that
+	you can return to the image and make additional changes if you so choose.
+Â·
+We do not use the photographs you
+	provide when you use the App for any reason other than to provide you with the
+	portrait editing functionality of the App.
+Personal Information We Collect
+When you use the App, we may collect information about you,
+	including:
+Photographs you provide when you use the App
+,
+			 via your camera or camera roll (if you have granted us permission to
+			 access your camera or camera roll), the in-App internet search
+			 functionality, or your social media account (if you choose to connect your
+			 social media account). We obtain only the specific images you chose to
+			 modify using the App; we do not collect your photo albums even if you
+			 grant us your access to them. We encrypt each photograph that you upload
+			 using the App. The encryption key is stored locally on your device. This
+			 means that the only device that can view the photo is the device from
+			 which the photograph was uploaded using the App â€“ the userâ€™s device.
+			 Please note that while we do not require or request any metadata attached
+			 to the photographs you upload, metadata (including, for example, geotags)
+			 may be associated with your photographs by default. We take steps to
+			 delete any metadata that may be associated with a photograph you provide
+			 when you use the App.
+App usage information
+, such as information
+			 about how you use the App and interact with us, including your preferred
+			 language, the date and time when you first installed the App and the date
+			 and time you last used the App.
+Purchase history
+, if you choose to purchase an App
+			 subscription, such as confirmation that you are a paid subscriber to the
+			 App.
+Social media information
+, if you choose to
+			 login to the App via a third-party platform or social media network (for
+			 example, Facebook), or otherwise connect your account on the third-party
+			 platform or network to the App. We may collect information from that
+			 platform or network, such as your social media alias, first and last name,
+			 number of â€œfriendsâ€ on the social media platform and, if depending on your
+			 Facebook or other network settings, a list of your friends or connections
+			 (though we do not use or store this information). Our collection and
+			 processing of the information we obtain from social media platforms is
+			 governed by the requirements these social media platforms impose on us in
+			 their relevant terms and conditions.
+Device data
+, such as your computer and mobile device
+			 operating system type and version number, manufacturer and model, device
+			 ID, push tokens, Google Advertising ID, Apple ID for Advertising, browser
+			 type, screen resolution, IP address (and the associated country in which
+			 you are located), the website you visited before visiting our Site; and
+			 other information about the device you are using to visit the App.
+Online activity data
+, such as information
+			 about your use of and actions on the App and the Sites, including pages or
+			 screens you viewed, how long you spent on a page or screen, navigation
+			 paths between pages or screens, information about your activity on a page
+			 or screen, access times, and length of access. Our service providers and
+			 certain third parties (e.g., online advertising networks and their clients)
+			 also may collect this type of information over time and across third-party
+			 websites and mobile applications. This information may be collected on our
+			 Site using cookies, browser web storage (also known as locally stored
+			 objects, or â€œLSOsâ€), web beacons, and similar technologies. We may collect
+			 this information directly or through our use of third-party software
+			 development kits (â€œSDKsâ€). SDKs may enable third parties to collect
+			 information directly from our App.
+How We Use Your Personal Information
+We do not use the photographs you provide when you use the App
+	for any reason other than to provide you with the editing functionality of the
+	App. We may use information other than photographs for the following purposes:
+To operate and improve the App:
+Enable you to use the Appâ€™s
+features;
+Establish and maintain your account, if you choose to login to
+			 the App using your social media
+account;
+Communicate with you about the App, including by sending you
+			 announcements, updates, and security alerts, which we may send through a
+			 push notification, and responding to your requests, questions and
+feedback;
+Provide technical support and maintenance for the App; and
+Perform statistical analysis about use of the App (including
+			 through the use of
+Google
+			 Analytics
+).
+To send you marketing and promotional communications.
+We may
+	send you marketing communications as permitted by law. You will have the
+	ability to opt-out of our marketing and promotional communications as described
+	in the
+Opt
+out of marketing section below.
+To display advertisements to you.
+If you
+	use the free version of the App, we work with advertising partners to display
+	advertisements within the App. These advertisements are delivered by our
+	advertising partners and may be targeted based on your use of the App or your
+	activity elsewhere online. To learn more about your choices in connection with
+	advertisements, please see the section below titled â€œTargeted online advertising.â€
+For compliance, fraud prevention, and safety.
+We may
+	use your personal information and disclose it to law enforcement, government
+	authorities, and private parties as we believe necessary or Appropriate to: (a)
+	protect our, your or othersâ€™ rights, privacy, safety or property (including by
+	making and defending legal claims); (b) enforce the terms and conditions that
+	govern the Service; and (c) protect, investigate and deter against fraudulent,
+	harmful, unauthorized, unethical or illegal activity.
+With your consent.
+In some cases, we may
+	specifically ask for your consent to collect, use or share your personal
+	information, such as when required by law.
+To create anonymous, aggregated or de-identified data.
+We may
+	create anonymous, aggregated or de-identified data from your personal
+	information and other individuals whose personal information we collect. We
+	make personal information into anonymous, aggregated or de-identified data by
+	removing information that makes the data personally identifiable to you. We may
+	use this anonymous, aggregated or de-identified data and share it with third
+	parties for our lawful business purposes.
+How We Share
+	Your Personal Information
+We do not
+	disclose user photographs or videos to third parties (
+with
+	the exception of
+uploading an encrypted image to our cloud providers
+	Google Cloud Platform and Amazon Web Services to provide the photo editing
+	features of the App). We may share your non-photograph and non-video
+	information in the following circumstances:
+Affiliates.
+We may share App
+	usage information with our subsidiaries and affiliates, for purposes
+	consistent with this Privacy Policy.
+Service providers.
+We may share your personal information with services
+	providers that perform services on our behalf or help us operate the App (such
+	as customer support, hosting, analytics, email delivery, marketing, and
+	database management services). These third parties may use your personal
+	information only as directed or authorized by us and in a manner consistent
+	with this Privacy
+Policy, and
+are prohibited from
+	using or disclosing your information for any other purpose.
+Advertising partners.
+When we use third-party cookies and other tracking tools,
+	our advertising partners may collect information from your device to help us
+	analyze use of the Site and the App, display advertisements on the App and
+	advertise the Site and App (and related content) elsewhere online.
+Third-party platforms and social media networks.
+If you have enabled features or functionality that connect
+	the App to a third-party platform or social media network (such as by logging
+	into the App using your account with the third-party, providing your API key or
+	similar access token for the App to a third-party, or otherwise linking your
+	account with the App to a third-partyâ€™s services), we may disclose the personal
+	information that you authorized us to share (such as when you elect to upload a
+	photograph or video to your social media account). We do not control the
+	third-party platformsâ€™ use of your personal information, which is governed by
+	that third partyâ€™s privacy policy and terms and conditions.
+Professional advisors.
+We may disclose your personal information to professional
+	advisors, such as lawyers, bankers, auditors and insurers, where necessary in
+	the course of the professional services that they render to us.
+For compliance, fraud prevention and safety.
+We may share your personal information for the compliance,
+	fraud prevention and safety purposes described above.
+Business transfers.
+We may sell, transfer or otherwise share some or all of
+	our business or assets, including your personal information, in connection with
+	a business transaction (or potential business transaction) such as a corporate
+	divestiture, merger, consolidation, acquisition, reorganization or sale of assets,
+	or in the event of bankruptcy or dissolution.
+Compliance
+	with Law
+We may be
+	required to use and share your personal information to comply with applicable
+	laws, lawful requests, and legal process, such as to respond to subpoenas or
+	requests from government authorities.
+Your Choices
+In this
+	section, we describe the rights and choices available to all users. Users who
+	are located within European can find additional information about their
+	rights below.
+Opt
+out of marketing communications
+	and other push notifications.
+You may opt out of marketing-related communications and
+	other notifications we may send you via push notification by changing the
+	settings on your mobile device.
+Device permissions.
+You may revoke any permissions you previously granted to
+	us, such as permission to access your camera, camera roll, or microphone
+	through the settings on your mobile device.
+Cloud processing.
+You may request that we remove your information, including
+	photographs, from the cloud before the 24-48 hour period after which Google
+	Cloud Platform or Amazon Web Services automatically deletes the information by
+	clicking the â€œRequest cloud data removalâ€ button in the â€œSupportâ€ section of
+	the App Settings on your mobile device.
+Cookies & Browser Web Storage.
+Most browsers let you remove or reject cookies. To do
+	this, follow the instructions in your browser settings. Many browsers accept
+	cookies by default until you change your settings. Please note that if you set
+	your browser to disable cookies, the Site may not work properly. Similarly,
+	your browser settings may allow you to clear your browser web storage.
+Targeted online advertising.
+Some of the business partners that collect information
+	about usersâ€™ activities on or through the Site or App may be members of
+	organizations or programs that provide choices to individuals regarding the use
+	of their browsing behavior or mobile application usage for purposes of targeted
+	advertising.
+Site users may
+	opt out of receiving targeted advertising on websites through members of the
+	Network Advertising Initiative by clicking
+here
+or the Digital Advertising Alliance by clicking
+here
+. App users may opt out of receiving targeted advertising in
+	mobile apps through participating members of the Digital Advertising Alliance
+	by installing the
+AppChoices
+mobile app,
+	available
+here
+, and selecting the userâ€™s choices. Please note that we also may
+	work with companies that offer their own opt-out mechanisms and may not
+	participate in the opt-out mechanisms that we linked above.
+In addition,
+	your mobile device settings may provide functionality to limit our, or our
+	partnersâ€™, ability to engage in ad tracking or targeted advertising using the
+	Google Advertising ID or Apple ID for Advertising associated with your mobile
+	device.
+If you choose
+	to opt-out of targeted advertisements, you will still see advertisements
+online
+but they may not be relevant to you. Even if you do
+	choose to opt out, not all companies that serve online behavioral advertising
+	are included in this list, so you may still receive some cookies and tailored
+	advertisements from companies that are not listed.
+Choosing not to share your personal information.
+Where we are required by law to collect your personal
+	information, or where we need your personal information in order to provide the
+	App to you, if you do not provide this information when requested (or you later
+	ask to delete it), we may not be able to provide you with our services. We will
+	tell you what information you must provide to use the App by designating it as
+	required at the time of collection or through other appropriate means.
+Third-party platforms or social media networks.
+If you choose to connect to the App via a third-party
+	platform or social media network, such as by using Facebook login, you may have
+	the ability to limit the information that we may obtain from the third-party at
+	the time you login to the App using the third-partyâ€™s authentication service or
+	otherwise connect your account. Subsequently, you may be able to control your
+	settings through the third-partyâ€™s platform or service. For example, you may
+	access and change your settings through the Facebook
+settings page
+for Apps and Websites. If you withdraw our ability to
+	access certain information from a third-party platform or social media network,
+	that choice will not apply to information that we have already received from
+	that third party.
+Other Sites,
+	Mobile Applications and Services
+The App may
+	contain links to other websites, mobile applications, and other online services
+	operated by third parties. These links are not an endorsement of, or
+	representation that we are affiliated with, any third party. In addition, our
+	content may be included on web pages or in mobile applications or online
+	services that are not associated with us. We do not control third party
+	websites, mobile applications or online services, and we are not responsible
+	for their actions. Other websites, mobile applications and online services
+	follow different rules regarding the collection, use and sharing of your
+	personal information. We encourage you to read the privacy policies of the
+	other websites, mobile applications and online services you use.
+Security
+	Practices
+We use
+	commercially reasonable security practices to help keep the information
+	collected through the App secure and take reasonable steps to verify your
+	identity before granting you access to your account (if you have an account
+	with us). However, Lyrebird Studio cannot ensure the security of any
+	information you transmit to Lyrebird Studio Service or guarantee that
+	information on the App may not be accessed, disclosed, altered, or destroyed.
+Please do your
+	part to help us. You are responsible for maintaining the confidentiality of
+	your login information and device identifiers, and for controlling access to
+	communications between you and Lyrebird Studio Service,
+at
+	all times
+. Your privacy settings may also be affected by changes the
+	social media services you connect to Lyrebird Studio Service make to their
+	services. We are not responsible for the functionality, privacy, or security
+	measures of any other organization.
+Retention
+We configure
+	Google Cloud Platform and Amazon Web Services to delete photographs, and the
+	information associated with the photographs within 24-48 hours after the
+	photograph was last edited using the App. This allows you to revisit the image
+	for additional modifications during that time.
+With respect
+	to non-photograph information that we may collect, we will retain such
+	information in a personally identifiable format only for as long as necessary
+	to fulfill the purposes we have set out in this Privacy Policy. You may also
+	ask that we delete your information using the â€œRequest cloud data removalâ€
+	button as described above or by
+contacting us
+.
+Cross-Border
+	Data Transfers
+We store the
+	information we collect in connection with the App on Amazon Web Services and
+	Google Cloud Platform. For Amazon Web Services, we specify the US as the data
+	storage location, for Google Cloud Platform, we specify data storage at an
+	available location closest to you when you use the App. Your personal
+	information may be accessed by our service providers in other locations outside
+	of your state, province, or country. Your device ID (and general App usage
+	information) may also be accessed by the Companyâ€™s technical support team in
+	other locations outside of your state, province, or country. We rely on the
+	Privacy Shield, as described below, for transfers of data from the EU and
+	Switzerland to Lyrebird Studio in the United States.
+Children
+The App is not
+	directed at children under the age of 13, and our
+Terms of Use
+do not allow children under 13 years of age to use the
+	App. If we learn that we have collected personal information of a child under
+	the age of 13, we will delete it. We encourage parents with concerns to
+contact us
+.
+California
+	Residents
+This section
+	contains disclosures required by the California Consumer Privacy Act (â€œCCPAâ€)
+	and applies only to â€œpersonal informationâ€ that is subject to the CCPA.
+California Children Under 16 and Advertising. THE LYREBIRD
+	STUDIO SERVICES THAT FEATURE ADVERTISING ARE NOT MEANT FOR CALIFORNIA-LOCATED
+	PEOPLE UNDER 16.
+We do not knowingly collect information for use in
+	connection with advertising from California children under the age of 16. If we
+	receive a verifiable notice through
+support@lyrebirdstudio.net
+that a
+	California minor under the age of 16 has signed up for an advertising-based Lyrebird
+	Studio Services account and provided us with personal information, we will take
+	measures to delete it as soon as possible. Additional details regarding
+	California consumer rights follow below.
+Personal Information We Collect and Disclose for Business
+	Purposes.
+We collect the following categories of personal information about California
+	consumers from social networks, service providers and directly from California
+	consumers and have disclosed this information in the past 12 months to third
+	parties for business purposes: personal and online identifiers (i.e., username,
+	email address, IP address, or unique online identifiers), internet or other
+	electronic network activity information (i.e., advertisement interaction), and geolocation
+	information, as well as other information about California consumers that is
+	linked to these categories of personal information. We also draw inferences
+	from this information about your predicted characteristics and preferences.
+	Business Purposes: our business purposes for use of California consumer
+	personal information include the purposes described in this Privacy Policy,
+	including, without limitation, marketing; auditing related to our interactions
+	with you; legal compliance; detecting and protecting against security
+	incidents, fraud, and illegal activity; debugging; performing services (by us
+	or our service providers), such as account servicing and analytics; research
+	for technological improvement; internal operations; activities to maintain and
+	improve our services; and other one-time uses. We disclose the categories of
+	personal information designated above to the following categories of third
+	parties for business purposes: service providers; government entities;
+	operating systems and platforms; and social networks.
+Personal Information We Collect and Disclose for Advertising
+	Purposes â€“ Applicable to Subscriptions with Advertising Only.
+In the event a California consumer has a Lyrebird Studio Service subscription
+	that features advertisements, we collect and disclose the following information
+	for the purpose of delivering relevant advertising: personal and online
+	identifiers such as IP address and device identifiers, internet or other
+	electronic network activity information (i.e., advertisement interaction),
+	geolocation information, as well as other information about California
+	consumers that is linked to these categories of personal information. We also
+	draw inferences from this information about your predicted characteristics and
+	preferences. We disclose the categories of personal information designated
+	above to the following categories of advertising-related third parties:
+	advertising/marketing companies; advertising networks; and social networks.
+Your Rights
+	Regarding Personal Information. California residents have certain rights with
+	respect to the personal information collected by businesses. If you are a
+	California resident, you may exercise the following rights regarding your
+	personal information, subject to certain exceptions and limitations:
+Â·
+The
+right to know
+the
+	categories and specific pieces of personal information we collect, use,
+	disclose, and sell about you, the categories of sources from which we collected
+	your personal information, our purposes for collecting or selling your personal
+	information, the categories of your personal information that we have either
+	sold or disclosed for a business purpose, and the categories of third parties
+	with which we have shared personal information;
+Â·
+The
+right to request that we
+	delete
+the personal information we have collected from you or maintain
+	about you.
+Â·
+The right to
+opt out of our
+	sale(s)
+of your personal information. Please note that if you opt out
+	of certain types of sales, we will be unable to provide you with the services
+	that rely on such sales.
+Â·
+The
+right not to receive
+	discriminatory treatment
+for the exercise of the privacy rights
+	conferred by the CCPA
+To exercise any of the above rights, please contact us using the
+	following information and submit the required verifying information, as further
+	described below: please email
+support@lyrebirdstudio.net
+or contact us
+	using this address: Lyrebird Studio
+Teknoloji
+Ltd.
+Åž
+irketi
+,
+Altunizade
+Mahallesi
+,
+KÄ±sÄ±klÄ±
+Caddesi
+No:35/A
+ÃœskÃ¼dar
+/
+Ä°
+stanbul.
+Verification
+	Process and Required Information. Note that we may need to request additional
+	information from you to verify your identity or understand the scope of your
+	request, although you will not be required to create an account with us to
+	submit a request or have it fulfilled. In the event you designate an authorized
+	agent to make a CCPA request on your behalf, we will require verification of
+	identity and authorization.
+How to Contact Us
+Please direct
+	any questions or comments about this Policy or privacy practices to
+support@lyrebirdstudio.net
+. You may also write to us via postal mail at:
+Lyrebird
+	Studio
+Teknoloji
+Ltd.
+Åž
+irketi
+Altunizade
+Mahallesi
+KÄ±sÄ±klÄ±
+Caddesi
+No:35/A
+ÃœskÃ¼dar
+/
+Ä°
+stanbul
+support@lyrebirdstudio.net
+Changes to the Privacy Policy
+We reserve the
+	right to modify this Privacy Policy at any time. If we make material changes to
+	this Privacy Policy, we will notify you by updating the date of this Privacy
+	Policy and posting it on the App. We may, and if required by law, will, provide
+	notification of changes in another way that we believe is reasonably likely to
+	reach you, such as through the App.
+Any
+	modifications to this Privacy Policy will be effective upon our posting the new
+	terms and/or upon implementation of the new changes on the App (or as otherwise
+	indicated at the time of posting). In all cases, your continued use of the App
+	after the posting of any modified Privacy Policy indicates your acceptance of
+	the terms of the modified Privacy Policy.

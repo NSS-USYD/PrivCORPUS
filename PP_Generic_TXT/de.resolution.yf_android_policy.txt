@@ -1,0 +1,93 @@
+Your Freedom - Data Protection Statement
+Acceptable Use
+Data Protection Statement
+Not logged in.
+Data Protection Statement "Your Freedom"
+TL;DR
+Protecting your personal data is very important to us. This is why you can partially use our web site and our services without providing any personal data. We only need a working email address if you want to set up a personal account for our VPN service. Providing further details about yourself (your name, address, phone number) is optional; these details are only used for providing invoices, attributing payments to your account, and contacting you if there are problems. By providing these details to us, you agree that we use this data for these  purposes.
+We store your data exclusively on servers in Germany, and we do not pass them on to anyone, except if we receive a request for information from authorities of the Federal Republic of Germany who are entitled by law to request such information.
+Your data is stored in a secured environment, and all transmission while you provide your details to us or while we are processing them is encrypted (except if you choose not to use encryption when visiting our web site). There is of course no such thing as absolute security.
+Legal basis of this Data Protection Statement is the EU GDPR (General Data Protection Regulation).
+Definitions
+We want you to be able to understand what we write, and we therefore use terms in accordance with the DS-GVO, defined as follows.
+Personal Data
+All information related to an identified or identifiable natural person, e.g. name, address, phone number or email address.
+Affected person
+An individual whose personal data is stored and processed by us.
+Data processing
+Any procedure (collection, storage, modification, extraction, use, or deletion) that makes use of your personal data.
+Responsible person
+Natural or legal person making decisions about the processing of your data. In our case, this is the board of directors of the company.
+Consent
+By setting up a personal account with us, you give consent to process your data in accordance with this Data Protection Statement.
+Log data
+Log data are automatically collected and stored records of your use of our VPN service, as required by the Telekommunikationsgesetz (TKG, Telecommunications Act). Log data is also recorded when you use our web site, and even though no personal data is contained in these records, it may be possible to attribute such records with your account. These records are only collected for diagnostic purposes; they are kept for a few days at most. The same holds true for debugging output of our servers and their software.
+Entitled Authorities
+Authorities of the Federal Republic of Germany who are entitled by law (particularly the Telekommunikationsgesetz, Telecommunications Act) to request information from us about your personal data.
+Name and address of responsible person
+Responsible person in terms of the Data Protection Regulation and other data protection laws and regulations within the jurisdiction of the European Union is the board of directors. You may contact us at:
+Applied Wizardry GmbH
+         Oklahomastr. 14
+         66482 Zweibrücken
+         Deutschland
+
+         info@applied-wizardry.net
+Cookies
+Cookies are small texts that web sites offer your web browser and that your web browser stores locally on your system, that are sent again to these web sites with the next request by your browser. We use cookies for session tracking while you are logged in to our web site. These cookies only contain random texts without any particular meaning. We also use cookies as counters to protect our web site against abusive use. All cookies used by us only have a short lifespan (several hours); after this period, your browser will not transmit them to us anymore, and they will normally get deleted. Our use of cookies is limited to our own web site.
+Most, if not all, web browsers offer functionality that lets you limit the use of cookies, and edit and delete them. We advise that while you are of course free to make use of such functionality, it will interfer with the proper function of our web site if you do.
+Log data of our web site
+While you are using our web site, each access to elements on it will be logged. We record a time stamp, the source IP address, what has been accessed, as well as your web browser's and your operating system's make and version, if provided by your web browser. We also record the so-called referer (i.e. the web page you came from) if sent by your browser. While you are logged in to our web site, your account name is logged along with these data. No personal data is contained in the web server log, but it is possible to attribute log file records with your personal account.
+The log is only used for analyzing bugs and problems, and for defensive purposes. No-one (except for entitled authorities on request) outside the company has access to this log. All log records are automatically deleted after a few days.
+Debugging output of servers, programs, and scripts
+Operation of our VPN service generates debug output that we use for troubleshooting and defensive action. There is no personal data in it except for account names. Using the account name, some debug output may be associated with an affected person. No-one (except entitled authorities) is given access to debug output, and all such output is deleted automatically after several days.
+Data recorded when you use our VPN service
+When you use our VPN service, we are required by the Telekummunikationsgesetz (TKG, Telecommunications Act) to record some data. In order to comply with these requirements, we record: login and logout, type of tunnel (mode, parameters), source IP address, and data connections established (see below). All log records have a time stamp, your account name, and a unique but entirely meaningless device identifier. If you use a time-limited connection profile (free usage), we also record the duration of your connection (time between login and logout events) to be able to limit the use. We need these data to be able to attribute activities of our public IP addresses to user accounts when required by entitled authorities to provide such information, because we use address translation (NAT).
+When logging established connections, we only record the absolute minimum detail needed: source port on our servers, and destination port (type of service used). We take no record of what you are accessing; neither destination IP address nor URL, and most definitely no content is recorded. Instead, we generate a hash and record it; this hash lets us determine from a given IP address which user account has been used to access it. This way it is possible to determine in case of abuse of our service which of our customers is responsible without having to breach the confidentiality of everyone's data traffic.
+All data is only stored on well-protected servers in Germany, to which only a very limited number of people have access. When archived according to the TKG's requirements, all records are encrypted with an asymmetric key; even if someone obtained unauthorized access to these records or the servers, they would not be able to read them. We only use these records when required to provide information to entitled authorities, and to defend us and third parties against abusive activity. Nothing is stored a single day longer than required by the TKG.
+Registration on our web site
+In order to use our VPN service to the fullest, you need to register on our web site. This can equally be achieved through our mobile app. All you need to provide is a working email address, and you need to choose an account name to your liking (if not in use so far). Further personal details (like your name, address, phone number) are optional; if you do not want us to process these details, we ask that you do not provide them to us. You can always check out, edit, and delete your personal data on our web site. It is also possible to request on the web site that we entirely delete your personal account with all personal data; your data will be deleted within one month.
+Personal accounts that have been inactive for more than half a year are marked for deletion automatically. They get deleted in the same process within one additional month.
+Use of our web site
+When you log in to our web site, we record time and source IP address of your last login. This record is used for support and for automatic expiry of inactive accounts, as well as to fight abusive activity like impersonments.
+Payments
+When you use services that are only available to paying customers, and you make purchases from us either on our web site or in the in-app store, we record a time and type of purchase, your IP address, and all details that the payment provider passes on to us. We also record incomplete purchases. All purchase data is automatically deleted once the retention period required by law has expired. Our support uses these records to sort out problems recorded by you or the payment provider. No-one else (except entitled authorities) has access to these records.
+Please consult the payment provider to learn about details they provide to us and that we record when processing your payment.
+We only transmit reference data to the payment provider, i.e.: your account name with us, type of purchase, and purchase price, all of which are needed to ensure that we can attribute feedback from the payment provider about completed purchases to your account and purchase request. No personal data is sent to payment providers. Please check with the payment provider to learn what they store and process about your purchase.
+Your rights as an affected person
+Right of verification
+You are entitled to require verification whether or not your personal data is stored and processed by us. However, you may assume that this is only the case if you have provided these data to us during the process of a registration. Since we expire and delete inactive personal accounts after some months automatically, the same applies to all personal data associated with them.
+If you still require information from us, please contact us. We are here to help!
+Right of information
+Of course you are entitled to require information from us about your personal data that we store and process. You can check out these data on our web site. What you don't see there is not on our record.
+Regardless of this possibility, affected persons may request information about:
+Reasons for processing
+Categories of personal data that are processed
+Who has access to your personal data
+Retention periods
+Your right to correct or delete personal data
+Your right to object or limit processing of personal data
+Your right to complain to regulating authorities
+Source of data, if not provided by the affected person
+We believe that we are providing answers to all these informatory rights, but you may of course request such information from us.
+Right of corretion
+You may check out your personal data on our website, and you can correct mistakes there yourself. Of course we will do it for you if you tell us about mistakes.
+Right of deletion ("right to be forgotten")
+If you mark your account for deletion on our web site, it will get deleted within one month, and all personal data will be deleted along with it.
+Regardless of this, you may request deletion from us. Please note however that we may be legally required by law to retain payment details and VPN usage records longer, even if you request deletion of all personal data.
+Right of limited processing
+You may exercise this right yourself by deleting all data you do not want us to store and process on our web site. All we need is your email address. Since we only use your personal data in a very limited way, there is no way to further restrict processing; this would effectively be equal to deleting your account.
+Right of data transferral
+Since all we store is your email address and (optionally) your name, address, and phone number, data transferral to a different provider is not intended. We believe that it is much easier for you to just provide your details yourself; most likely we don't have anyway what other provider require. But of course you may request your personal data from us should you no longer have it ready.
+Right of objection
+You may object to processing of your personal data. This is most easily done by not providing those details to us in the first place, or by deleting them on the web site. All we really need is your email address. Every further objection is equal to a request for deletion of your account (see above).
+Automated decisions, including profiling
+In some cases we may reject purchases because of general criteria (like duration of your custom, previous defaults, country of residence, etc.). You are entitled to request individual verification if you feel that you are unjustly put in disadvantage. Please do not hesitate to contact us in this case; we have no intention to discriminate anyone!
+Revocation of consent
+You consent that we store and process your personal data by making use of our service and providing these data. This implicit consent, of which we have advised you during the registration process, is of course revocable. Please note however that this is equal to requesting deletion of your personal account.
+Have you got further questions? Please do not hesitate to contact us, we are here to help!
+Contact/Impressum
+|
+Help Us
+Acceptable Use
+|
+Data Protection Statement

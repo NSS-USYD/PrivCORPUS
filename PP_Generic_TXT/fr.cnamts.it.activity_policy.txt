@@ -1,0 +1,190 @@
+﻿
+» Aide, accessibilité et recommandations de sécurité
+Aller au contenu de la page
+Didacticiel du compte ameli, Aide, accessibilité et recommandations de sécurité
+Aide et Accessibilité
+Recommandations de sécurité
+Aide et Accessibilité
+Aide
+Accéder au didacticiel du compte web
+Accéder au didacticiel de l’application tablette
+Accéder au didacticiel de l’application smartphone
+Accessibilité
+Qu’est-ce que l’accessibilité numérique ?
+Un site web accessible est un site qui permet aux personnes en situation de handicap d’accéder à ses contenus et ses fonctionnalités sans difficulté.
+Un site accessible permet par exemple de :
+naviguer avec une synthèse vocale et/ou une plage braille (notamment utilisées par les personnes aveugles et malvoyantes) ;
+personnaliser l’affichage du site selon ses besoins (grossissement des caractères, modification des couleurs, etc.) ;
+naviguer sans utiliser la souris (avec le clavier uniquement, via un écran tactile, à la voix ou tout autre périphérique adapté).
+Pour cela, le site doit respecter les normes en vigueur lors de sa réalisation et de ses mises à jour.
+Déclaration d’accessibilité
+Le compte ameli s’engage à rendre son site internet et son applications mobile accessibles conformément à l’article 47 de la loi n°2005-102 du 11 février 2005.
+À cette fin, le compte ameli met en œuvre la stratégie et les actions suivantes :
+Schéma pluriannuel de mise en accessibilité 2022-2024
+;
+Actions réalisées en 2021-2022
+;
+Plan d’actions 2023-2024
+.
+Cette déclaration d’accessibilité s’applique à
+https://assure.ameli.fr/
+.
+Etat de conformité
+Compte ameli web
+Le compte ameli (
+https://assure.ameli.fr/
+) est non-conforme avec le référentiel général d’amélioration de l’accessibilité (RGAA), version 4 en raison des non-conformités et des dérogations énumérées dans le paragraphe « contenus non accessibles ».
+Cependant, a été mené à bien un travail de mise en accessibilité de 7 démarches du compte ameli, parmi les 250 démarches administratives les plus utilisées recensées par l’Observatoire du numérique. Ces 7 démarches sont :
+La déclaration de naissance : accessible à 82% ;
+Le changement d’adresse postale : accessible à 83% ;
+L’attestation de droits : accessible à 84% ;
+L’attestation de paiement d’Indemnités Journalières : accessible à 76% ;
+La commande de la Carte Européenne d’Assurance Maladie (CEAM) : accessible à 75% ;
+La commande de carte vitale : accessible à 79% ;
+La demande de complémentaire santé solidaire : accessible à 76%.
+Ces démarches ont fait l’objet d’un audit évaluant une accessibilité partielle des critères de contrôle du RGAA. Ces démarches mises en accessibilité sont disponibles sur le compte ameli pour les assurés depuis le 28 février 2023.
+Ce projet de mise en accessibilité des 7 démarches listées ci-dessus a fait l’objet d’un cofinancement de France Relance et de l’Union Européenne dans le cadre du plan NEXT GEN EU.
+Résultats des tests
+L’audit de conformité réalisé par la société mandatée Capgemini révèle que :
+46,51% des critères du RGAA version 4 sont respectés ;
+Le taux moyen de conformité du site s’élève à 73,2%.
+Application smartphone Compte ameli
+L’application smartphone Compte ameli n’ayant pas subi d’audit sur un échantillon de pages représentatif, il est réputé non-conforme avec le référentiel général d’amélioration de l’accessibilité (RGAA).
+Pour l’application Compte ameli présente sur les stores IOS et Androïd, des travaux de mise en accessibilité ont également été menés sur les démarches suivantes :
+La déclaration de naissance : accessible à 80% sur IOS et 74% sur Androïd;
+Le changement d’adresse postale : accessible à 77% sur IOS et 75% sur Androïd;
+L’attestation de droits : accessible à 78% sur IOS et 74% sur Androïd;
+L’attestation de paiement d’Indemnités Journalières : accessible à 76% sur IOS et 69% sur Androïd ;
+La commande de la Carte Européenne d’Assurance Maladie (CEAM) : accessible à 75% sur IOS et 76% sur Androïd;
+La commande de carte vitale, y compris la déclaration deperte et vol : accessible à 73% sur IOS et 79% sur Androïd.
+Ces démarches ont fait l’objet d’un audit évaluant une accessibilité partielle des critères de contrôle à partir du RAAM 1. L’intégralité de ces démarches mises en accessibilité est disponible pour les usagers de l’application Compte ameli depuis le 13 janvier 2023.
+Ce projet de mise en accessibilité des 7 démarches listées ci-dessus a fait l’objet d’un cofinancement de France Relance et de l’Union Européenne dans le cadre du plan NEXT GEN EU.
+Contenus non accessibles
+Non-conformités
+Les non-conformités relevées sont les suivantes :
+Les cadres en ligne n’ont pas de titre ou celui-ci n’est pas pertinent.
+Certaines informations ne sont données que par la couleur.
+Certains contrastes entre les textes et leurs arrière-plans ne sont pas suffisants.
+L’intitulé de certains liens (des liens images essentiellement) ne sont pas explicites.
+Quelques liens et boutons n’ont pas d’intitulés.
+Certains scripts doivent être corrigés pour être accessibles au lecteur d’écran et à la navigation au clavier.
+Certaines balises sont utilisées uniquement à des fins de présentations.
+Les titres (balise <title>) de page ne sont pas toujours pertinents.
+Les titres ne structurent pas toujours le contenu de manière appropriée.
+Certaines listes ne sont pas ou pas correctement balisées sous forme de liste.
+Certains attributs de styles sont parfois présents dans les pages.
+Le contenu des pages n’est plus compréhensible lorsque le style est désactivé.
+Lorsque le zoom texte du navigateur est au moins à 200%, certains contenus ne sont plus lisibles.
+Les propriétés d’espacement du texte, modifiées, rendent quelquefois des portions de texte illisibles.
+La prise de focus n’est pas visible sur certains composants. Cette erreur a été corrigée depuis l’audit.
+Une durée de session maximum est fixée, déconnectant l’utilisateur sans qu’il n’ait l’information ni la possibilité de prolonger cette dernière.
+Lorsque la taille de l’écran est réduite à 320px, un scroll horizontal apparait.
+Certains champs de formulaire n’ont pas d’étiquette.
+Le contrôle de saisie n’est pas toujours implémenté de manière pertinente.
+L’ordre de tabulation n’est pas toujours cohérent. Cette erreur a été corrigée depuis l’audit.
+Les champs de même nature ne sont pas toujours regroupés.
+Aucun lien d’évitement n’a été prévu. Cette erreur a été corrigée depuis l’audit.
+Sur certaines pages, les liens d’accès au contenu ne fonctionnent pas.
+Dérogations pour charge disproportionnée
+Aucune.
+Contenus non soumis à l’obligation d’accessibilité
+Aucun
+Établissement de cette déclaration d’accessibilité
+Cette déclaration a été établie le 10 mars 2021. Elle a été mise à jour le 08 mars 2023.
+Technologies utilisées pour la réalisation du site
+HTML5
+CSS
+JavaScript
+Environnement de test
+Les vérifications de restitution de contenus ont été réalisées sur la base de la combinaison fournie par la base de référence du RGAA, avec les versions suivantes :
+Chrome version 88.0.4324.192 (Build officiel) (x86_64)
+Firefox version 86.0 (64 bits)
+Outils pour évaluer l’accessibilité
+Wave,
+Web Developer,
+HeadingMap,
+Disable JavaScript,
+Assistant RGAA (basé sur la version précédente du référentiel mais est utilisable pour des critères étant encore présents dans la dernière version).
+VoiceOver
+Pages du site ayant fait l’objet de la vérification de conformité
+Espace personnel avant connexion
+Accueil avant connexion
+Page de création de compte ameli
+Accueil après connexion
+Modale donner son avis
+Prendre rendez-vous (étapes 2, 3, modale, récapitulatif et modale de confirmation)
+Mes informations
+Mes info // Ajout / Modification de RIB (étape 2 et erreur de saisie)
+Mes info // Modification d’adresse mail, d’adresse postale, téléphone, mot de passe
+Mes démarches // Commander CEAM
+Portail page de connexion (login)
+Mes paiements // Mes paiements
+Mes paiements // Particip. forfaitaires, franchises
+Mes démarches // Écrire message
+Mes démarches // Message(s) reçu(s)
+Mes démarches // Attestation paiement (indemnité journalière)
+Mes démarches // Déclaration nouveau-né
+Message d’erreur / exemple : commande de carte vitale si une carte valide est déjà détenu par l’utilisateur
+Démarches // Commande de carte vitale (étapes 1,2 et piéce jointe) »
+Démarches // Commande carte vitale (étapes 3 et 4)
+Démarches // Suivi commande de carte vitale (étape 2)
+Démarches // Déclarer perte de carte vitale
+Démarches // Demande de complémentaire santé solidaire
+Démarches // Arrêt de travail
+Pré-connexion et acceptation des conditions générales d’utilisation (CGU)
+Plan de site
+Page Aide / Accessibilité
+Retour d’information et contact
+Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du compte ameli pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme.
+Contacter
+application.ameli.cnam@assurance-maladie.fr
+.
+Voies de recours
+Si vous constatez un défaut d’accessibilité vous empêchant d’accéder à un contenu ou une fonctionnalité du site, que vous nous le signalez et que vous ne parvenez pas à obtenir une réponse de notre part, vous êtes en droit de faire parvenir vos doléances ou une demande de saisine au Défenseur des droits.
+Plusieurs moyens sont à votre disposition :
+Écrire un message au Défenseur des droits
+Contacter le délégué du Défenseur des droits dans votre région
+Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre) Défenseur des droits. Libre réponse 71120 75342 Paris CEDEX 07
+Schéma pluriannuel de mise en accessibilité 2022-2024
+Contenu en cours de rédaction. Publication à venir.
+Actions réalisées en 2021-2022
+Un travail de mise en accessibilité de 7 démarches du compte ameli (
+https://assure.ameli.fr/
+), parmi les 250 démarches administratives les plus utilisées recensées par l’Observatoire du numérique, a été mené. Ces 7 démarches sont :
+La déclaration de naissance : accessible à 82% ;
+Le changement d’adresse postale : accessible à 83% ;
+L’attestation de droits : accessible à 84% ;
+L’attestation de paiement d’Indemnités Journalières : accessible à 76% ;
+La commande de la Carte Européenne d’Assurance Maladie (CEAM) : accessible à 75% ;
+La commande de Carte Vitale : accessible à 79% ;
+La demande de Complémentaire santé solidaire : accessible à 76%.
+Ces démarches ont fait l’objet d’un audit évaluant une accessibilité partielle des critères de contrôle du RGAA respectés. Ces démarches mises en accessibilité seront disponibles sur le compte ameli pour les assurés depuis le 28 février 2023.
+Pour l’application smartphone Compte ameli présente sur les stores IOS et Androïd, des travaux de mise en accessibilité ont également été menés sur les démarches suivantes :
+La déclaration de naissance : accessible à 80% sur IOS et 74% sur Androïd;
+Le changement d’adresse postale : accessible à 77% sur IOS et 75% sur Androïd;
+L’attestation de droits : accessible à 78% sur IOS et 74% sur Androïd;
+L’attestation de paiement d’Indemnités Journalières : accessible à 76% sur IOS et 69% sur Androïd ;
+La commande de la Carte Européenne d’Assurance Maladie (CEAM) : accessible à 75% sur IOS et 76% sur Androïd;
+La commande de carte vitale, y compris la déclaration deperte et vol : accessible à 73% sur IOS et 79% sur Androïd ;
+Ces démarches ont fait l’objet d’un audit évaluant une accessibilité partielle des critères de contrôle à partir du RAAM 1. L’intégralité de ces démarches mises en accessibilité est disponible pour les usagers de l’application Compte ameli depuis le 13 janvier 2023.
+Plan d’actions 2023-2024
+D’ici fin 2024, il est prévu une mise en accessibilité des démarches suivantes :
+Pour le compte ameli web :
+La prise de rendez-vous
+Le changement de coordonnées bancaires
+Le chevauchement d’organisme complémentaire
+La déclaration de perte et vol de carte vitale
+Pour l’application Compte ameli :
+La demande de complémentaire santé solidaire
+Le changement de coordonnées bancaires
+Le chevauchement d’organisme complémentaire
+Recommandations de sécurité
+Le mot de passe du compte ameli est strictement personnel, il convient de le garder secret ;
+Le mot de passe du compte ameli doit obéir aux recommandations de robustesse et garantir un niveau satisfaisant de sécurité ;
+L’adresse email associée au compte ameli doit être tenue à jour par l’assuré  notamment pour recevoir correctement les messages d’information et de sécurité en cas d’accès au compte, de changement de mot de passe ou encore de modification de l’adresse mail ;
+Assurez-vous que l’ordinateur sur lequel vous consultez votre compte ameli est bien protégé par un antivirus et que celui-ci est à jour ;
+Vérifiez l’adresse (URL) dans la barre de votre navigateur lorsque vous consultez votre compte ameli depuis internet :
+https://assure.ameli.fr
+;
+L’adresse (URL) doit débuter par https:// et un cadenas doit apparaître ;
+N’oubliez pas de vous déconnecter de votre session ameli avant de fermer votre navigateur internet. Ceci plus particulièrement si vous utilisez un ordinateur partagé (cybercafé, etc.).

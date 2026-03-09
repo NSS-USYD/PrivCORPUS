@@ -1,0 +1,46 @@
+Privacy Policy
+Privacy Policy
+Last Updatedï¼š May 24, 2022
+Our O Launcher Group products ("service", "we," "us," or "our") collects some necessary information from you in order to provide better service and a better user experience. Your privacy is a top priority to us, and this Privacy Policy explains how we collect, use, and protect your information.
+What information we use and how we use it:
+We may collect and use non-personal information in the following circumstances. To have a better understanding in user's behaviour, solve problems in products and services, improve our products, services and advertising, we may collect information such as click of app, installed app list, frequency of use, country, and equipment, etc.
+"Non-personal information" is data in a form that does not permit direct association with any specific individual.
+Third party service and SDK we used
+We use analytics service providers Umeng Analytics to better understand how people use our services so that we can improve the design and usability of our products, we do not engage in "tracking" users outside of our services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to provide statistics service, it use location to adjust data report, provides basic anti-cheating capabilities, its privacy policy can be find in https://www.umeng.com/page/policy
+To show you relevant advertising, we work with advertising networks such as Google Admob and Facebook Audience Network. These providers may collect information on our behalf using cookies, advertising identifiers and similar technologies. This information may be used, in the future, to show you content that is more likely to be relevant, or that you're likely to engage with. You may find their related privacy policy in their official website, Google Admob privacy policy https://policies.google.com/privacy, Facebook Audience Network privacy policy https://www.facebook.com/policies_center/
+Following are the explaination for the used permissions:
+Query all packages
+This is needed by launcher's basic function which is help to manage all apps icon, arrangement, size, position,etc.
+Access the contents of your USB storage
+This permission allows users to view/delete product wallpaper stored on their SD card.
+Read Google service configuration
+This information is used to acquire advertising ID. our product provides users with better advertising service by using such anonymous ID.
+Change network connectivity
+This permission is used in our product settings and notification toolbar, in order to change network connectivity.
+Full network access
+This permission is used to access the device's network for certain functions including receiving launcher update notifications or accessing app classification labels.
+Close other apps
+This permission is used in our product Boost in order to turn off the back-end apps and make the phone run faster.
+Retrieve running apps
+This permission is used in our product Boost in order to view the running apps.
+Run as startup
+Our product will run as startup to provide users with a launcher service.
+Control vibration
+This permission allows our product to make the phone vibrate once after users set the device on vibrate, confirming the setting has been turned on.
+Toggle sync on and off
+This permission is used in our product power's save mode, and allows our product to synchronize with the user's sync settings.
+Install shortcuts
+This permission is used to install shortcuts on other launchers, so users can continue to use our product related functions.
+Modify system settings
+This permission is used in our product settings, in order to switch or adjust ringtone, vibration and brightness level of the screen.
+Draw over other apps
+This permission needed by Eyes Protection feature, it show a layer over other apps.
+How we protect your information
+We have implemented commercially reasonable technical and organizational measures to protect your personal information from accidental loss and from loss, misuse and unauthorized access, disclosure, alteration and destruction. However, please note that although we take reasonable measures to protect your information, no app, website, Internet transmission, computer system or wireless connection is completely secure.
+How we share your information
+We may retain third parties to perform services on our behalf and we may collaborate with third parties with respect to particular products or services. These third parties may be provided with access to the information needed to perform their functions, as long as they agree to keep the information confidential. We reserve the right to disclose your information as required by law, when we believe disclosure is necessary to comply with a regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety, rights, or property of our users, the public or our product.
+Changes to the Privacy Policy
+Our product may, in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, so please review it periodically.
+Contact us
+If you have any suggestions, feedback or requests, please:
+Contact us through our developer email in Google Play Store

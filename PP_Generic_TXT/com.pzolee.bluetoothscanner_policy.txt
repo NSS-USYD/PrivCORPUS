@@ -1,0 +1,183 @@
+Privacy: mobile apps - AndroidUtils
+Skip to content (Press Enter)
+AndroidUtils
+Use your mobile as a useful tool
+Home
+WIFI ANALYZER
+SD CARD TEST
+WIFI SPEED TEST
+About
+Blog
+Privacy
+Home
+WIFI ANALYZER
+SD CARD TEST
+WIFI SPEED TEST
+About
+Blog
+Privacy
+Privacy: mobile apps
+Home
+>
+Privacy: mobile apps
+Privacy Policy
+last modified: 2020.12.03
+Zoltan Pallagi built the next apps:
+WiFi Analyzer Pro (com.pzolee.wifiinfoPro),
+WiFi Speed Test Pro (com.pzolee.android.localwifispeedtesterpro),
+SD Card Test Pro (com.pzolee.sdcardtesterpro),
+WiFi Analyzer Classic Pro (com.pzolee.wifianalyzer.classicpro) apps
+as Commercial apps.
+WiFI Speed Test (com.pzolee.android.localwifispeedtester),
+WiFi Analyzer (com.pzolee.wifiinfo),
+WiFi Analyzer Classic (com.pzolee.wifiinfoclassic),
+SD Card Test (com.pzolee.sdcardtester) apps
+as Ad Supported apps.
+Network Scanner (com.pzolee.networkscanner),
+Bluetooth Scanner (com.pzolee.bluetoothscanner),
+Ping ICMP (com.pzolee.ping) apps
+as Ad Supported apps with In-app purchase possibility (commercial) apps.
+These
+SERVICES
+are provided by Zoltan Pallagi and are intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my
+SERVICES
+.
+If you choose to use my
+SERVICES
+, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the
+SERVICES
+. I will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at
+SERVICES
+unless otherwise defined in this Privacy Policy.
+Information Collection and Use
+For a better experience, while using our
+SERVICES
+, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is
+not collected by me in any way.
+The
+SERVICES
+use Google Firebase Libraries to collect possible crash details and improve the quality of the application (statistics data)  that may collect information used to identify you (called Log Data).
+Link to privacy policy of third party service providers used by the
+SERVICES
+:
+Google Play Services
+Privacy of Google Firebase
+Terms of Google Firebase
+Google Firebase may collect the following data (For more details see
+https://firebase.google.com/support/privacy#crash-stored-info
+)
+Instance IDs
+Crash traces
+The app bundle identifier and full version number
+The device operating system name and version number
+The device model name, CPU architecture, amount of RAM and disk space
+Installation UUID
+Secure Android ID
+Mobile ad IDs (if the app contains ads)
+Google Admob (ads in the
+SERVICES
+):
+The Ad Supported versions can contain mobile ads. If you are an EU citizens, you can choose between using personalized (relevant) ads or you can buy the paid version that does not contain mobile ads at all.
+Policy:
+https://www.google.com/about/company/user-consent-policy.html
+WiFi Speed Test & WiFi Speed Test Pro
+These apps use speedchecker.com as external service for Internet speed test (using WIFI/INTERNET tab). This service is not owned or controlled by the developer of this app.The app share data with this external service.
+You consent to share your location as well as other information about your device &amp; network to help speedchecker.com improve its quality.
+Collected Location Data
+This section describes how the app determines your location and explains that it cannot be used to personally identify you.
+We may collect approximate location information that is provided or generated in any of the following ways:
+* GPS coordinates
+* Using the MAC address of wireless routers (an alphanumeric code that is unique to that hardware device)
+* Using the Received Signal Strength Indicator (a measurement of the strength of the access point’s signal at the time it is received by the mobile device) to identify the cell ID of nearby cell towers
+This location data is collected
+anonymously
+in a form that does not personally identify the user.
+We do not send or store any user/device IDs that could allow tracking location overperiod of time.
+The location data along with network measurements may be shared with third parties to compile aggregate information about network statistics and bandwidth usage in particular areas but does not allow 3rd parties to track your location or movement over period of time
+For more information about Internet speed test please check
+https://www.speedchecker.com/
+Data collection opt in/out:
+When you start the
+SERVICES
+first time, you must enable or disable the data collection, you cannot continue using the
+SERVICES
+without any explicit consent.
+You can change it any time in the application settings, but you may require to restart the
+SERVICES
+after the change.
+Log Data
+I want to inform you that whenever you use my
+SERVICES
+,
+and
+you enabled data collection
+, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address as anonymized way, device name, operating system version, the configuration of the app when utilizing my
+SERVICES
+, the time and date of your use of the
+SERVICES
+, and other statistics.
+Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
+These
+SERVICES
+do not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this
+SERVICES
+.
+Service Providers
+I may employ third-party companies and individuals due to the following reasons:
+To facilitate our
+SERVICES
+;
+To provide the
+SERVICES
+on our behalf;
+To perform
+SERVICES
+-related services; or
+To assist us in analyzing how our
+SERVICES
+is used.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Security
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Links to Other Sites
+These
+SERVICES
+may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Children’s Privacy
+These
+SERVICES
+do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Changes to This Privacy Policy
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+Keresés:
+Screenshot1
+Read More
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+Cookie Policy
+About Us
+Hello, My name is Zoltan Pallagi and I'm the developer of WiFi Analyzer, WiFi Speed Test, SD Card Test and other popular Android applications.
+AndroidUtils
+Home
+WIFI ANALYZER
+SD CARD TEST
+WIFI SPEED TEST
+About
+Blog
+Privacy
+© 2023
+AndroidUtils
+. App Landing Page | Developed By
+Rara Theme
+. Powered by
+WordPress
+.
+Privacy
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+Elfogadom

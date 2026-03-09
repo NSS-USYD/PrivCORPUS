@@ -1,0 +1,918 @@
+ï»¿
+Language:
+EN
+DE
+FR
+ES
+IT
+PT
+RU
+Preamble:
+We are aiming to make this policy as transparent and easy to understand as possible. If you have any questions regarding our policies or if you feel there is any missing information, feel free to contact us.
+General:
+Everyone can download the game and play it for free. To earn money, we use in-app purchases and advertisements. Ads are an important part of our income.
+We use analytics to recognize things that need to be improved and to validate that our own marketing efforts are profitable.
+Without ads and analytics, we couldn't run and sustain this game as a service. Therefore, your Advertising id is processed. You can disable the id in the privacy settings of your phone, if you don't want this.
+Data Usage:
+The collected data is used for analytics, the game's functionality, product personalization and advertising & marketing (including third-party advertising).
+Data Sensitivity:
+We don't process or have access to sensitive data (e.g. credit card numbers or your address). All the personal data we process is used to identify something: Your savegame, you as a player, you as a recipient of consumer information, the game installation on your phone or an in-app purchase.
+You can opt-in to use your email address to bind your account. The email address is only used for the purpose of account management.
+Data Security:
+We use an encrypted connection (https) to transfer personal data to our servers or to third-party processors. Some of the third-party processors are located in countries outside the EU, but all off them comply with the GDPR. Access to our own game databases is protected and limited to authorized employees.
+Risk Assessment:
+We did a risk assessment to identify the potential damage of a data breach. The worst-case scenario would be that someone has access to all the data processed by us. This person could manipulate your savegame, see how you play the game or send you game notification. All this is a local damage that only affects this game and your progress in this game.
+With our data alone, you cannot be identified as a person unless in combination with sensitive personal data from different sources.
+If you opt-in to use your email address to bind your account, the worst case scenario of a data breach means, that someone can use this email address to send you spam. But it's not possible to figure out the password you used.
+Policy Changes:
+We reserve the right to make changes to this privacy policy at any time in the future. We recommended to check this page regularly, especially the date of the last modification at the bottom. If you object to the changes, you can stop using the application and delete your account and/or ask us to remove your personal data. A changed privacy policy will apply to all personal data we have about users.
+We are processing the following kind of personal data:
+Savegame Identifiers:
+The game automatically connects to our server to create an online savegame (cloud save). We generate an UserId and AuthToken to access and authenticate for this savegame. The game also creates a BlingHubId, which contains a pointer to your UserId. In general, it's the same concept as the UserId, but it allows you to authenticate with Google Play Games, Game Center and other services, so that you won't lose your progress after a re-install.
+We store your progress as well as all premium transactions in our database.
+In-App Purchases:
+We store the order ids of in-app purchases to be able to support payers and for fraud detection. Please recognize that we don't have access to your payment information or your name, address etc. when you make a purchase.
+Server Logs:
+We log server requests in our server logs. The server logs contains the UserId, which allows us to debug and fix errors.
+Ad Measurement:
+We use the Advertising Identifier (Android) or IDFA (iOS). The Id is used to identify you as a user across multiple apps. It also helps us track the success of our own marketing campaigns.
+If you don't like this, you can globally disable the id in the privacy settings of your operating system.
+Tailored Ads:
+If you have agreed to tailored ads, we and our partners will collect data and use the advertising id for ad personalization.
+You can change your choice at any time in the options menu. You have to restart the game to fully apply the change.
+Please note that some of our advertising partners provide their own privacy settings and/or adjust them based on the privacy laws of your country.
+Auth Tokens:
+Use an authentication method like Google Play Games, Game Center or Facebook to bind your account. If you do this, we request an authentication token that allows us to identity you as a user independently of your current local progress. The token is just something that we can use to confirm that you are the owner of that account. This way we can restore an old savegame after a re-install or if you are using a different device.
+The auth tokens are generated for this specific app. We can't use the token to authenticate for other apps.
+Email Sign In:
+You can opt-in to use your email address as an authentication method. This allows you to play the same game on multiple platforms like Android and iOS. The email address is stored within an additional security layer and we don't store or transfer your original passwords of course.
+IP Addresses:
+We don't store or process IP addresses ourselves, but some of our third-party processors process IP addresses.
+Android Id:
+The Android Id is for Android version 8.0 and above a unique id based on the combination of our app-signing key, a user, and a device. This means that this id can be used by us and our third-party processors to identify you as a user, but can't be connected to the usage data of apps or services from other developers. If you are running an Android version lower than 8.0 on your device, the Android id is the same for all developers, which means a data breach is more relevant here. Please consider to upgrade your Android OS.
+Instance Identifier:
+The Instance Id is used to identify the current app installation on your phone. The id becomes invalid if you uninstall the app. If you re-install the app, you get a new id.
+Other Data:
+Additionally to the personal data and identifiers mentioned above, we or our third-party processors do also process the following data:
+Game progression data, session starts and durations, usage of premium items or advertisements, the hardware model & manufacturer, operating system version, crash logs, display screen size & orientation, audio volume, battery, system language or locale settings, the type of internet connection, the mobile carrier, your time zone, free space available on your device, IP based location data and segmentation and attribution data.
+Support:
+If you contact our support, we will process your contact data like your email address and other information provided to handle your request.
+We will store the information provided for up to 12 months to be able to handle follow up requests. We don't forward your contact data to third-party processors. Only our authorized employees can access your contact data.
+We need to forward parts of the data to the following services:
+AWS:
+We use Amazon Web Services for our scalable backend infrastructure. Amazon guarantees not to access or process any personal data. The only exception is the processing for data security reasons or to comply with the law. Only our authorized employees can access the game data or order ids. The data can be stored outside of the EU.
+Show details...
+Firebase:
+We use multiple services from Firebase by Google. The services process Advertising Ids, Instance Ids and app usage data. The data is deleted automatically 14 months after the last session. The processing can happen outside of the EU.
+Show details...
+Google Analytics:
+Google Analytics identifies users with Advertising Ids and Instance Ids. It collects data about your progress and play behavior. The data is deleted automatically 14 months after the last session. The processing can happen outside of the EU.
+Show details...
+Facebook Analytics:
+Facebook Analytics identifies users with Advertising Ids and Instance Ids. It collects data about your progress and play behavior. The processing can happen outside of the EU.
+Show details...
+FacebookSignIn:
+You can sign in with your existing Facebook account to bind your game to Facebook. We use only the authentication service and will only access your user name from your Facebook profile. The user name is not sent to our server or any third party services. We don't post any content on your Facebook profile.
+Unity Ads & Analytics:
+Unity Ads and Unity Analytics identifies users with Advertising Ids and Instance Ids. It collects data about your progress and play behavior. The processing happens mostly in the EU, but can happen outside of the EU.
+Show details...
+Tenjin:
+Tenjin is an attribution tracking service, which helps us to determine where new users are coming from. It processes your Advertising Id, IP addresses and other data about your progress, play behavior and specification of your phone. The processing happens mostly in the EU, but can happen outside of the EU.
+Show details...
+AppsFlyer:
+AppsFlyer is an attribution tracking service, which helps us to determine where new users are coming from. It processes your Advertising Id, IP addresses and other data about your progress, play behavior and specification of your phone. The processing can happen outside of the EU.
+Show details...
+Iron Source:
+Iron Source is an advertisement network and mediation service. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+Google AdMob:
+Google AdMob is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+Ad tech providers:
+Google AdMob shares data with ad technology providers. We are using the commonly used set of ad technology providers listed on their website.
+Show details...
+Facebook Ads:
+Facebook Audience Network is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+AppLovin:
+AppLovin is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+AdColony:
+AdColony is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+Tapjoy:
+Tapjoy is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Vungle:
+Vungle is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Snapchat:
+Snapchat is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+InMobi:
+InMobi is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+HyprMX:
+HyprMX is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+MyTarget:
+MyTarget is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Chartboost:
+Chartboost is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Zendesk:
+We use services from Zendesk, Inc. to handle customer requests via Email or Social Media. The processing can happen outside of the EU.
+Show details...
+You have the following rights as a data subject:
+Data Access:
+You have the right to access the personal data processed by us. Please contact us to request your data.
+Data Erasure:
+You can delete all savegames and stored account data by using the delete account button in the Bling Hub menu. All Instance Ids are invalidated if you uninstall the app. You can request a new Advertising Id / IDFA in the privacy settings of your operating system. Please contact us if you want us to delete other personal data (e.g. data from support requests).
+Complaints:
+You have the right to lodge a complaint with a supervisory authority.
+Show details...
+Owner and Data Controller:
+Bling Bling Games GmbH
+MozartstraÃŸe 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Last Updated: October 16, 2021
+PrÃ¤ambel:
+Unser Ziel ist es, diese Bestimmungen so transparent und verstÃ¤ndlich wie mÃ¶glich zu gestalten. Falls du Fragen bezÃ¼glich unserer Bestimmungen hast oder falls du denkst, dass wichtige Informationen fehlen, kannst du uns gerne kontaktieren.
+Allgemein:
+Jeder kann das Spiel herunterladen und kostenlos spielen. Um Geld zu verdienen, verwenden wir In-App KÃ¤ufe und Werbung. Werbung ist ein wichtiger Teil unseres Einkommens.
+Wir verwenden Analysetools, um herauszufinden, was wir verbessern kÃ¶nnen und um sicherzustellen, dass unsere WerbemaÃŸnahmen profitabel sind.
+Ohne Werbung und Analysetools kÃ¶nnten wir dieses Spiel nicht weiterbetreiben. Daher verarbeiten wir die Werbe-ID des Telefons. Du kannst diese Werbe-ID in den PrivatsphÃ¤re-Einstellungen deines Telefons deaktivieren, falls du das nicht mÃ¶chtest.
+Datannutzung:
+Die gesammelten Daten werden fÃ¼r Analysen, die FunktionalitÃ¤t des Spiels, Produktpersonalisierungen und Marketing bzw. Werbung (inklusive von Drittanbietern) verwendet.
+DatensensibilitÃ¤t:
+Weder haben wir Zugriff, noch verarbeiten wir sensible Daten wie Kreditkarteninformationen oder deine Anschrift. Alle personenbezogenen Daten, die wir verarbeiten, werden verwendet, um etwas zu identifizieren: Deinen Spielstand, dich als Spieler, dich als EmpfÃ¤nger von Verbraucherinformationen, das Spiel auf deinem Telefon oder In-App-KÃ¤ufe.
+Du hast die Option, deinen Account mit deiner E-Mail-Adresse zu verknÃ¼pfen. Die E-Mail-Adresse wird ausschlieÃŸlich zur Account-Verwaltung verwendet.
+Datensicherheit:
+Wir verwenden verschlÃ¼sselte Verbindungen (https), wenn wir personenbezogene Daten zu unseren Servern oder an Dritte senden. Daten werden auch auÃŸerhalb der EU verarbeitet, wobei sich alle Auftragsverarbeiter, die uns bei der Datenverarbeitung unterstÃ¼tzen, an die DSGVO halten. Der Zugriff auf unsere eigene Spieldatenbank ist geschÃ¼tzt und nur autorisierten Mitarbeitern mÃ¶glich.
+Risikoanalyse:
+Wir haben eine Risikoanalyse durchgefÃ¼hrt, um den potentiellen Schaden einer Datenpanne zu identifizieren. Das schlimmste vorstellbare Szenario wÃ¤re, wenn jemand Zugang zu allen Daten hÃ¤tten, die wir verarbeiten. Diese Person kÃ¶nnte in dem Fall deinen Spielstand manipulieren, einsehen, wie du das Spiel spielst oder dir Spielbenachrichtigungen schicken. Dies wÃ¤re ein lokaler Schaden, der nur das Spiel und deinen Fortschritt darin betrifft.
+Mit unseren Daten allein kannst du nicht als Person identifiziert werden; dies ist nur in Kombination mit sensiblen Daten aus anderen Quellen.
+Falls du dich entscheidest, deine E-Mail-Adresse mit deinem Account zu verknÃ¼pfen, kÃ¶nnte im schlimmstmÃ¶glichen Fall einer Datenpanne jemand Spam an diese E-Mail-Adresse senden. Es ist allerdings nicht mÃ¶glich, dadurch an dein Passwort zu gelangen.
+Ã„nderungen:
+Wir behalten uns das Recht vor, in der Zukunft Ã„nderungen an dieser DatenschutzerklÃ¤rung vorzunehmen. Wir empfehlen daher, diese Seite regelmÃ¤ÃŸig zu Ã¼berprÃ¼fen, insbesondere das Datum der letzten Ã„nderung am Ende der ErklÃ¤rung. Falls du einer Ã„nderung nicht zustimmst, kannst du aufhÃ¶ren, diese App zu benutzen und deinen Account lÃ¶schen und/oder uns bitten, deine personenbezogenen Daten zu lÃ¶schen. Eine Ã„nderung der Datenschutzbestimmungen wirkt sich auf alle personenbezogenen Daten aus, die wir von Benutzern haben.
+Wir verarbeiten folgende personenbezogenen Daten:
+Spielstand Ids:
+Das Spiel verbindet sich automatisch mit unseren Servern, um einen Online-Spielstand (cloud save) anzulegen. Wir generieren eine UserId und einen AuthToken, welche verwendet werden, um auf deinen Spielstand zuzugreifen. Das Spiel erzeugt auÃŸerdem eine BlingHubId, welche einen Verweis auf deine UserId enthÃ¤lt. Im Prinzip ist dies das selbe Konzept wie die UserId, aber es erlaubt dir, dich mit Google Play Spiele, Game Center oder anderen Diensten zu authentifizieren, so dass du deinen Spielstand nach einer Neuinstallation nicht verlierst.
+Wir speichern deinen Spielfortschritt sowie alle Premiumtransaktionen.
+In-App KÃ¤ufe:
+Wir speichern Bestellnummern von In-App-KÃ¤ufen, um Bezahlkunden einen besseren Kundendienst zu ermÃ¶glichen und um Betrug vorzubeugen. Bitte beachte hierbei, dass wir keinen Zugriff auf Zahlungsinformationen oder persÃ¶nliche Daten wie Namen, Anschrift usw. haben.
+Server Logs:
+Wir speichern Server-Anfragen in unseren Server Logs. Die Server Logs enthalten die UserId, die es uns ermÃ¶glicht, Fehler zu identifizieren und zu beheben.
+Werbemessung:
+Wir benutzen die Werbe-ID (Android) bzw. Ad-ID (iOS). Diese ID wird verwendet, um dich als Nutzer verschiedener Apps zu identifizieren. Sie hilft uns auÃŸerdem, den Erfolg unserer eigenen Werbekampagnen zu bewerten.
+Falls du dies nicht mÃ¶chtest, kannst du diese ID global in den PrivatsphÃ¤re-Einstellungen deines Betriebssystems deaktivieren.
+Pers. Werbung:
+Falls du personalisierter Werbung zugestimmt hast, werden wir und unsere Partner Daten sammeln und deine Werbe-ID verwenden, um fÃ¼r dich relevantere Werbung anzeigen zu kÃ¶nnen.
+Du kannst deine Wahl jederzeit in den Optionen Ã¤ndern. Damit die Ã„nderung vollstÃ¤ndig wirksam wird, musst du das Spiel ggf. neu starten.
+Bitte beachte, dass einige unserer Werbepartner eigene PrivatsphÃ¤re-Einstellungen anbieten und/oder die Einstellungen an die Datenschutzgesetze deines Landes anpassen.
+Authentifizierungs-Tokens:
+Nutze eine Authentifizierungsmethode wie Google Play Spiele, Game Center oder Facebook, um deinen Account damit zu verbinden. Falls du dies zulÃ¤sst, kÃ¶nnen wir einen Authentifizierungs-Token abrufen, der es uns ermÃ¶glicht, dich als Nutzer unabhÃ¤ngig von deinen lokalen Daten zu identifizieren. Dieser Token wird nur verwendet, um zu Ã¼berprÃ¼fen, ob du wirklich der Inhaber des Accounts bist. Auf diese Weise ist es mÃ¶glich, einen alten Spielstand nach einer Neuinstallation oder einem Telefonwechsel wiederherzustellen.
+Diese Tokens werden explizit fÃ¼r diese App erstellt. Wir kÃ¶nnen sie nicht benutzen, um uns fÃ¼r andere Apps zu authentifizieren.
+E-Mail-Anmeldung:
+Du kannst zustimmen, deine E-Mail-Adresse als Authentifizierungsmethode zu nutzen. Das ermÃ¶glicht dir, das selbe Spiel auf mehreren Plattformen, wie Android und iOS, zu spielen. Die E-Mail-Adresse wird auf eriner zusÃ¤tzlichen Sicherheitsebene gespeichert. Deine ursprÃ¼nglichen PasswÃ¶rter werden von uns selbstverstÃ¤ndlich weder gespeichert noch transferiert.
+IP Adressen:
+Wir selbst speichern oder verarbeiten keine IP-Adressen, aber einige unserer Auftragsverarbeiter verarbeiten IP-Adressen.
+Android ID:
+Die Android ID ist ab Android Version 8.0 und hÃ¶her eine einmalige ID, basierend auf einer Kombination aus unserem App-SignaturschlÃ¼ssel, einem Benutzer, und einem GerÃ¤t. Dies bedeutet, dass die ID von uns und Auftragsverarbeitern verwendet werden kann, um Benutzer zu identifizieren, aber nicht mit anderen Apps oder Diensten verknÃ¼pft werden kann. Falls du eine Android-Version unter 8.0 auf deinem Telefon hast, ist die Android ID fÃ¼r alle Entwickler identisch. Bitte ziehe in diesem Fall in ErwÃ¤gung, ein Update durchzufÃ¼hren.
+Instanz Ids:
+Die Instanz-ID wird verwendet, um die Installation einer App auf einem Telefon zu identifizieren. Die ID wird nutzlos, sobald du die App deinstallierst. Bei einer Neuinstallation wird eine neue ID generiert.
+Andere Daten:
+ZusÃ¤tzlich zu den oben erwÃ¤hnten personenbezogenen Daten und IDs verarbeiten wir oder unsere Auftragsverarbeiter auch folgende Daten:
+Daten zum Spielfortschritt, Sitzungsdaten und -dauer, Verwendung von PremiumgegenstÃ¤nden und Werbung, GerÃ¤tetyp und -hersteller, Betriebssystemversion, Absturzberichte, DisplaygrÃ¶ÃŸe und -orientierung, LautstÃ¤rke, AkkustÃ¤rke, Sprach- und LÃ¤ndereinstellungen, die Art der Internetverbindung, den Mobilfunkanbieter, deine Zeitzone, verfÃ¼gbarer Platz auf dem GerÃ¤t, IP basierte Positionsdaten und Segmentierungs- und Zuordnungsdaten fÃ¼r Werbekampagnen.
+Kundendienst:
+Wenn du unseren Support kontaktierst, werden wir deine Kontaktdaten, wie deine E-Mail-Adresse sowie andere Daten, die du uns sendest, verarbeiten, um dein Anliegen zu bearbeiten.
+Wir speichern diese Informationen bis zu 12 Monate, um eventuelle Nachfolgeanfragen zuordnen zu kÃ¶nnen. Deine Kontaktdaten werden nicht an Dritte weitergegeben. Nur unsere autorisierten Mitarbeiter haben Zugriff auf deine Kontaktdaten.
+Wir leiten teile der Daten an folgende Dienste weiter:
+AWS:
+Wir verwenden Amazon Web Services fÃ¼r unsere skalierbare Serverinfrastruktur. Amazon garantiert, auf keine personenbezogenen Daten zuzugreifen oder diese zu verarbeiten. Die einzige Ausnahme ist die Verarbeitung von Daten zur Sicherstellung der Datensicherheit bzw. der Angriffsabwehr, sowie die Verarbeitung von Daten aufgrund von Gesetzen. Nur unsere autorisierten Mitarbeiter kÃ¶nnen auf Spieldaten oder Bestellnummern zugreifen. Die Daten kÃ¶nnen auch auÃŸerhalb der EU gespeichert werden.
+Details anzeigen...
+Firebase:
+Wir verwenden mehrere Dienste von Google Firebase. Diese Dienste verarbeiten Werbe-IDs, Instanz-IDs und App-Nutzungsdaten. Die Daten werden automatisch 14 Monate nach der letzten Sitzung gelÃ¶scht. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Google Analytics:
+Google Analytics ist ein Analysedienst. Er verwendet Werbe-IDs und Instanz-IDs und verarbeitet Daten Ã¼ber App-Nutzung und Spielverhalten. Die Daten werden automatisch 14 Monate nach der letzten Session gelÃ¶scht. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Facebook Analytics:
+Facebook Analytics ist ein Analysedienst. Er verwendet Werbe-IDs und Instanz-IDs und verarbeitet Daten Ã¼ber App-Nutzung und Spielverhalten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+FacebookSignIn:
+Du kannst dich mit deinem bestehenden Facebook-Account anmelden, um das Spiel mit Facebook zu verknÃ¼pfen. Wir nutzen ausschlieÃŸlich den Authentifizierungsdienst und werden nur auf den Benutzernamen deines Facebook-Profils zugreifen. Der Benutzername wird weder an unseren Server noch an irgendwelche Drittparteien Ã¼bermittelt. Wir posten keine Inhalte auf deinem Facebook-Profil.
+Unity Ads & Analytics:
+Unity Ads und Unity Analytics verwenden Werbe-IDs und Instanz-IDs und verarbeiten Daten Ã¼ber App-Nutzung und Spielverhalten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Tenjin:
+Tenjin ist ein Attribution Tracking Dienst, der uns dabei hilft herauszufinden woher neue Benutzer kommen. Der Dienst verarbeitet die Werbe-ID, IP Adressen und weitere Daten Ã¼ber App-Nutzung, Spielverhalten und Spezifikationen des Telefons. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+AppsFlyer:
+AppsFlyer ist ein Attribution Tracking Dienst, der uns dabei hilft herauszufinden woher neue Benutzer kommen. Der Dienst verarbeitet die Werbe-ID, IP Adressen und weitere Daten Ã¼ber App-Nutzung, Spielverhalten und Spezifikationen des Telefons. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Iron Source:
+Iron Source ist ein Werbenetzwerk und Vermittlungsdienst. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Google AdMob:
+Google AdMob ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Werbedienste:
+Google AdMob arbeitet mit diversen Werbetechnologiediensten zusammen. Wir verwenden die Standarddienste (commonly used set), die auf ihrer Webseite aufgefÃ¼hrt sind.
+Details anzeigen...
+Facebook Ads:
+Facebook Audience Network ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+AppLovin:
+AppLovin ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+AdColony:
+AdColony ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Tapjoy:
+Tapjoy ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Vungle:
+Vungle ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Snapchat:
+Snapchat ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+InMobi:
+InMobi ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+HyprMX:
+HyprMX ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+MyTarget:
+MyTarget ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Chartboost:
+Chartboost ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Zendesk:
+Wir verwenden Dienste von Zendesk, Inc., um Kundenanfragen per Email oder Soziale Medien zu bearbeiten. Die Verarbeitung findet zum Teil auÃŸerhalb der EU statt.
+Details anzeigen...
+Du hast folgende Rechte als betroffene Person:
+Auskunftsrecht:
+Du hast das Recht, alle deine von uns verarbeiteten personenbezogenen Daten einzusehen. Bitte kontaktiere uns, um deine Daten anzufordern.
+Recht auf LÃ¶schung:
+Du kannst all deine SpielstÃ¤nde und gespeicherten Account-Daten lÃ¶schen, indem du den "Account LÃ¶schen"-Button im BlingHub-MenÃ¼ verwendest. Alle Instanz-IDs werden unbenutzbar, sobald du die App deinstallierst. Du kannst eine neue Werbe-ID in den PrivatsphÃ¤re-Einstellungen deines Telefons anfordern. Bitte kontaktiere uns, falls wir weitere bzw. sÃ¤mtliche personenbezogenen Daten von dir lÃ¶schen sollen (z.B. Daten von Supportanfragen).
+Beschwerderecht:
+Du hast das Recht auf eine Beschwerde bei einer AufsichtsbehÃ¶rde.
+Details anzeigen...
+Verantwortlicher und Daten Verarbeiter:
+Bling Bling Games GmbH
+MozartstraÃŸe 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Letzte Ã„nderung: 16. Oktober 2021
+PrÃ©ambule:
+Nous souhaitons rendre cette politique aussi transparente et facile Ã  comprendre que possible. Si vous avez des questions concernant nos politiques ou si vous pensez quâ€™il manque des informations, nâ€™hÃ©sitez pas Ã  nous contacter.
+GÃ©nÃ©ral:
+Notre jeu peut Ãªtre tÃ©lÃ©chargÃ© gratuitement. Nous sommes uniquement rÃ©munÃ©rÃ©s par les achats in-app et, en grande partie, par la publicitÃ©.
+Nous analysons vos donnÃ©es pour savoir ce que nous devons amÃ©liorer dans notre jeu et vÃ©rifier que notre travail est rentable.
+Sans publicitÃ©, sans analyses de donnÃ©es, il serait impossible de financer ce jeu. VoilÃ  pourquoi votre identifiant de publicitÃ© est utilisÃ©. Vous pouvez dÃ©sactiver l'ID dans les paramÃ¨tres de confidentialitÃ© de votre tÃ©lÃ©phone, si vous n'Ãªtes pas d'accord avec cela.
+Usage des donnÃ©es:
+Les donnÃ©es sont collectÃ©es Ã  des fins d'analyse pour les fonctionnalitÃ©s du jeu, la personnalisation du produit ainsi que la publicitÃ© et le marketing (y compris la publicitÃ© de tierces parties).
+SensibilitÃ© des donnÃ©es
+:
+Nous ne traitons pas et n'avons pas accÃ¨s aux donnÃ©es sensibles (votre numÃ©ro de carte de crÃ©dit ou votre adresse, par exemple). L'ensemble des donnÃ©es personnelles que nous utilisons nous permet d'identifierÂ : vos sauvegardes, vous en tant que joueur, vous en tant que destinataire de communication informative adressÃ©e aux consommateurs, l'installation du jeu sur votre tÃ©lÃ©phone ou un achat rÃ©alisÃ© dans l'application.
+Vous pouvez choisir d'associer votre adresse e-mail Ã  votre compte. Celle-ci est alors uniquement utilisÃ©e dans le cadre de la gestion de votre compte.
+SÃ©curitÃ© des donnÃ©es:
+Nous utilisons une connexion cryptÃ©e (https) pour transfÃ©rer des donnÃ©es personnelles sur nos serveurs ou vers ceux de nos sous-traitants. Certains de ses sous-traitants sont situÃ©s dans des pays extÃ©rieurs Ã  l'UE, mais ils respectent tous le RGPD. L'accÃ¨s Ã  nos propres bases de donnÃ©es de jeu est protÃ©gÃ© et limitÃ© aux employÃ©s autorisÃ©s.
+Ã‰valuation des risques
+:
+Nous avons fait une Ã©valuation des risques pour identifier les dommages potentiels d'une violation de donnÃ©es. Le pire scÃ©nario serait que quelqu'un ait accÃ¨s Ã  toutes les donnÃ©es que nous traitons. Cette personne pourrait accÃ©der Ã  vos sauvegardes, voir comment vous jouez ou vous envoyer une notification de jeu. Tout cela est un dommage local qui ne touche que le jeu et votre progression dans le jeu.
+Avec nos seules donnÃ©es, vous ne pouvez pas Ãªtre identifiÃ© en tant que personne, sauf si celles-ci sont combinÃ©es avec des donnÃ©es personnelles sensibles provenant de diffÃ©rentes sources.
+Si vous choisissez d'associer votre adresse e-mail Ã  votre compte et qu'une violation de donnÃ©es a lieu, celle-ci devient alors susceptible d'Ãªtre utilisÃ©e par des campagnes de pourriels. Il reste toutefois impossible de dÃ©chiffrer votre mot de passe, mÃªme avec votre adresse.
+Modifications de la politique
+:
+Nous nous rÃ©servons le droit d'apporter des modifications Ã  cette politique de confidentialitÃ© Ã  tout moment dans le futur. Nous vous recommandons de consulter cette page rÃ©guliÃ¨rement, en particulier la date de la derniÃ¨re modification en bas. Si vous vous opposez aux modifications, vous pouvez cesser d'utiliser l'application et supprimer votre compte et/ou nous demander de supprimer vos donnÃ©es personnelles. Une politique de confidentialitÃ© modifiÃ©e s'appliquera Ã  toutes les donnÃ©es personnelles que nous avons sur les utilisateurs.
+Nous traitons les donnÃ©es personnelles suivantesÂ :
+Identifiants de sauvegarde
+:
+Le jeu se connecte automatiquement Ã  notre serveur pour crÃ©er une sauvegarde de jeu en ligne (sauvegarde cloud). Nous gÃ©nÃ©rons une ID utilisateur et un token d'auth pour cette sauvegarde. Le jeu crÃ©e Ã©galement une ID Bling Hub liÃ©e Ã  votre ID utilisateurÂ : c'est le mÃªme concept que l'ID utilisateur et elle vous permet de vous authentifier Ã  Google Play Games ou au Game Center, de sorte que vous ne perdrez pas votre progression aprÃ¨s une nouvelle installation.
+Nous enregistrons votre progression, ainsi que toutes les transactions premium dans notre base de donnÃ©es.
+Achat In-App:
+Nous enregistrons les numÃ©ros de commande des achats rÃ©alisÃ©s dans lâ€™application pour gÃ©rer le suivi avec les acheteurs et pour dÃ©tecter les fraudes. Nous nâ€™avons pas accÃ¨s Ã  vos donnÃ©es de paiement ou votre nom, adresse, etc. lorsque vous effectuez un achat.
+Journaux du serveur:
+Nous enregistrons des demandes de serveur dans nos journaux de serveur. Ceux-ci contiennent votre ID utilisateur, qui nous permet de corriger les divers bugs et erreurs qui peuvent survenir.
+Ajouter des mesures:
+Nous utilisons l'identifiant publicitaire (Android) ou IDFA (iOS). Cet ID est utilisÃ© pour vous identifier en tant qu'utilisateur sur plusieurs applications. Il nous aide Ã©galement Ã  suivre l'Ã©volution de nos campagnes marketing.
+Si cela ne vous convient pas, vous pouvez dÃ©sactiver cet ID dans les paramÃ¨tres de confidentialitÃ© de votre systÃ¨me d'exploitation.
+Pubs ciblÃ©es:
+Si vous acceptez de recevoir des publicitÃ©s ciblÃ©es, nous et nos partenaires pourrons recueillir vos donnÃ©es et utiliser un identifiant publicitaire pour personnaliser les publicitÃ©s.
+Vous pouvez revenir sur votre dÃ©cision Ã  tout moment dans le menu des options. Vous devez redÃ©marrer le jeu pour que ses changements sâ€™appliquent.
+Veuillez noter que certains de nos partenaires publicitaires ont leurs propres paramÃ¨tres de confidentialitÃ© et que ceux-ci sont adaptÃ©s aux lois sur la confidentialitÃ© des donnÃ©es de votre pays.
+Tokens d'auth.:
+Vous Ãªtes invitÃ© Ã  vous connecter Ã  Google Play Games ou au Game Center. Si vous ne le faites pas, nous demandons un token d'authentification qui nous permet de vous identifier en tant qu'utilisateur indÃ©pendamment de votre progression locale actuelle. Nous pouvons envoyer ce token Ã  Google/Apple pour qu'ils nous confirment que vous Ãªtes le propriÃ©taire de ce compte. De cette faÃ§on, nous pouvons restaurer une ancienne sauvegarde aprÃ¨s une nouvelle installation ou si vous utilisez un autre appareil.
+Ces tokens d'auth. sont gÃ©nÃ©rÃ©s pour cette application en particulier et nous ne pouvons pas utiliser ce token pour vous authentifier sur d'autres applications.
+Connexion via e-mail:
+Vous pouvez choisir d'utiliser votre adresse e-mail comme mÃ©thode d'authentification. Ceci vous permet de jouer Ã  la mÃªme partie sur plusieurs plateformes comme Android ou iOS. L'adresse e-mail est stockÃ©e dans un environnement sÃ©curisÃ© et vos mots de passe ne sont Ã©videmment ni stockÃ©s ni transfÃ©rÃ©s.
+Adresses IP:
+Nous ne stockons pas et nous n'utilisons pas les adresses IP nous-mÃªmes, mais certains de nos sous-traitants le font.
+Id Android:
+L'ID Android est utilisÃ© pour la version Android 8.0 et les versions ultÃ©rieures. Il s'agit d'un identifiant unique basÃ© sur la combinaison de notre clÃ© de connexion, utilisateur et dispositif. Cela signifie que cet identifiant peut Ãªtre utilisÃ© par nous et nos processeurs tiers pour vous identifier en tant qu'utilisateur, mais il ne peut pas Ãªtre reliÃ© aux donnÃ©es d'utilisation des applications ou services d'autres dÃ©veloppeurs. Si vous utilisez une version Android infÃ©rieure Ã  8.0 sur votre appareil, l'identifiant Android est le mÃªme pour tous les dÃ©veloppeurs, ce qui signifie qu'une violation de donnÃ©es est plus probable. Dans ce cas, nous vous conseillons de mettre Ã  jour votre systÃ¨me d'exploitation Android.
+Identifiant d'instance:
+L'ID d'instance est utilisÃ©e pour identifier l'installation de l'application sur votre tÃ©lÃ©phone. L'ID devient invalide si vous dÃ©sinstallez l'application. Si vous rÃ©installez l'application, vous obtiendrez une nouvelle ID.
+Autre donnÃ©es:
+En plus des donnÃ©es personnelles et des identifiants mentionnÃ©s prÃ©cÃ©demment, nous et nos sous-traitants utilisons Ã©galement les donnÃ©es suivantesÂ :
+donnÃ©es de progression dans le jeu, dÃ©but de session et durÃ©e de session, lâ€™utilisation des articles premium ou des publicitÃ©s, le modÃ¨le et la marque de votre dispositif, votre systÃ¨me dâ€™exploitation, les journaux dâ€™incidents, la taille de votre Ã©cran et son orientation, le volume audio, la batterie, la langue du systÃ¨me ou les paramÃ¨tres rÃ©gionaux, votre connexion Internet, lâ€™opÃ©rateur mobile, votre fuseau horaire, lâ€™espace libre disponible sur votre appareil, les donnÃ©es de localisation en fonction de votre IP, votre segmentation et vos donnÃ©es dâ€™attribution.
+Assistance:
+Si vous communiquez avec notre centre dâ€™assistance, nous utiliserons vos coordonnÃ©es comme votre adresse e-mail, mais aussi dâ€™autres donnÃ©es nÃ©cessaires pour traiter votre demande.
+Nous stockons ses donnÃ©es pendant une pÃ©riode maximum de 12 mois afin dâ€™Ãªtre en mesure de gÃ©rer le suivi de vos demandes. Nous ne partagerons pas vos donnÃ©es avec un sous-traitant. Seuls nos employÃ©s sont autorisÃ©s Ã  accÃ©der Ã  vos donnÃ©es.
+Nous devons rediriger une partie des donnÃ©es vers les services suivantsÂ :
+AWS:
+Nous utilisons les services d'Amazon Web pour notre infrastructure Cloud. Amazon garantit ne pas accÃ©der ou traiter les donnÃ©es personnelles. Vos donnÃ©es ne pourront Ãªtre utilisÃ©es que pour des raisons de sÃ©curitÃ© ou pour se conformer Ã  la loi. Seuls nos employÃ©s autorisÃ©s peuvent accÃ©der aux donnÃ©es de jeu ou aux IDs de commande. Ces donnÃ©es peuvent Ãªtre stockÃ©es en dehors de l'UE.
+Afficher les informations...
+Firebase:
+Nous utilisons plusieurs services de Firebase by Google. Ces derniers gÃ¨rent les ID de publicitÃ©, les ID d'instance et les donnÃ©es d'utilisation de l'application. Ces donnÃ©es sont supprimÃ©es automatiquement 14 mois aprÃ¨s la derniÃ¨re session. Le traitement de vos donnÃ©es peut Ãªtre rÃ©alisÃ© en dehors de l'UE.
+Afficher les informations...
+Google Analytics:
+Google Analytics identifie les utilisateurs avec des IDs de publicitÃ© et des IDs dâ€™instance. Ils recueillent des donnÃ©es sur votre Ã©volution et votre comportement de jeu. Les donnÃ©es seront supprimÃ©es automatiquement 14 mois aprÃ¨s la derniÃ¨re session. Le traitement de vos donnÃ©es pourra Ãªtre rÃ©alisÃ© en dehors de lâ€™UE.
+Afficher les informations...
+Facebook Analytics:
+Facebook Analytics identifie les utilisateurs avec des IDs de publicitÃ© et des IDs dâ€™instance. Ils recueillent des donnÃ©es sur votre Ã©volution et votre comportement de jeu. Le traitement de vos donnÃ©es pourra Ãªtre rÃ©alisÃ© en dehors de lâ€™UE.
+Afficher les informations...
+FacebookSignIn:
+Vous pouvez vous connecter Ã  l'aide de votre compte Facebook afin d'associer votre jeu au rÃ©seau social. Nous n'utilisons que le service d'authentification et nous accÃ©dons uniquement Ã  votre nom d'utilisateur issu de votre compte Facebook. Le nom d'utilisateur n'est pas transmis Ã  notre serveur ni Ã  aucun tiers et nous ne publions aucun contenu sur votre profil Facebook.
+Unity Ads & Analytics:
+Unity Ads et Unity Analytics identifient les utilisateurs avec des ID publicitaires et avec des IDs d'instance. Ils collectent des donnÃ©es sur votre Ã©volution et votre comportement de jeu. Ce traitement de vos donnÃ©es est principalement rÃ©alisÃ© dans l'UE, mais il est possible que vos donnÃ©es soient traitÃ©es en dehors de l'UE.
+Afficher les informations...
+Tenjin:
+Tenjin est un service de suivi dâ€™attribution, il nous permet de dÃ©terminer dâ€™oÃ¹ viennent les nouveaux utilisateurs. Il traite votre identifiant publicitaire, les adresses IP et dâ€™autres donnÃ©es comme votre Ã©volution et votre comportement dans le jeu, mais aussi les caractÃ©ristiques de votre tÃ©lÃ©phone. Le traitement de vos donnÃ©es est principalement rÃ©alisÃ© dans lâ€™UE, mais il est possible quâ€™il soit occasionnellement rÃ©alisÃ© en dehors de lâ€™UE.
+Afficher les informations...
+AppsFlyer:
+AppsFlyer est un service de suivi dâ€™attribution, il nous permet de dÃ©terminer dâ€™oÃ¹ viennent les nouveaux utilisateurs. Il traite votre identifiant publicitaire, les adresses IP et dâ€™autres donnÃ©es comme votre Ã©volution et votre comportement dans le jeu, mais aussi les caractÃ©ristiques de votre tÃ©lÃ©phone. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+Iron Source:
+Iron Source est un rÃ©seau publicitaire et un service de mÃ©diation. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement de vos donnÃ©es pourra Ãªtre rÃ©alisÃ© en dehors de lâ€™UE.
+Afficher les informations...
+Google AdMob:
+Google AdMob est un rÃ©seau publicitaire. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement de vos donnÃ©es pourra Ãªtre rÃ©alisÃ© en dehors de lâ€™UE.
+Afficher les informations...
+Fournisseurs de tech publicitaire
+:
+Google AdMob partage vos donnÃ©es avec les fournisseurs de technologie publicitaire. Nous utilisons les technologies publicitaires figurant sur leur site web.
+Afficher les informations...
+Facebook Ads:
+Facebook rÃ©seau public est un rÃ©seau publicitaire. Il traite votre identifiant publicitaire et les donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+AppLovin:
+AppLovin est un rÃ©seau publicitaire. Il traite votre identifiant publicitaire et les donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+AdColony:
+AdColony est un rÃ©seau de publicitÃ©. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+Tapjoy:
+Tapjoy est un rÃ©seau de publicitÃ©. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Vungle:
+Vungle est un rÃ©seau de publicitÃ©. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Snapchat:
+Snapchat est un rÃ©seau de publicitÃ©. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+InMobi:
+InMobi est un rÃ©seau de publicitÃ©. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+HyprMX:
+HyprMX est un rÃ©seau de publicitÃ©. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+MyTarget:
+MyTarget est un rÃ©seau de publicitÃ©. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Chartboost:
+Chartboost est un rÃ©seau publicitaire. Il traite votre identifiant publicitaire et vos donnÃ©es d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Zendesk:
+Nous utilisons les services de Zendesk, Inc. pour traiter les demandes de nos clients par e-mail ou via les rÃ©seaux sociaux. Ce traitement peut avoir lieu en dehors de l'UE.
+Afficher les informations...
+En tant que personne concernÃ©e, vous disposez des droits suivantsÂ :
+AccÃ¨s aux donnÃ©es:
+Vous avez le droit d'accÃ©der aux donnÃ©es personnelles que nous traitons. Veuillez nous contacter pour les obtenir.
+Suppression des donnÃ©es
+:
+Vous pouvez supprimer l'ensemble de vos sauvegardes, achats et donnÃ©es en utilisant le bouton Â«Â Supprimer compteÂ Â» du menu Bling Hub. Toutes les ID d'instances seront invalidÃ©es si vous dÃ©sinstallez l'application. Vous pouvez demander une nouvelle ID publicitaire/IDFA dans les paramÃ¨tres de confidentialitÃ© de votre systÃ¨me d'exploitation. Veuillez nous contacter si vous souhaitez supprimer d'autres donnÃ©es personnelles (par exemple des donnÃ©es provenant de vos demandes au centre d'assistance).
+Plaintes:
+Vous avez le droit de dÃ©poser une plainte auprÃ¨s d'une autoritÃ© de surveillance.
+Afficher les informations...
+PropriÃ©taire et ContrÃ´leur de donnÃ©esÂ :
+Bling Bling Games GmbH
+MozartstraÃŸe 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+DerniÃ¨re mise Ã  jour effectuÃ©e le 16Â octobreÂ 2021
+PreÃ¡mbulo:
+Nuestro objetivo es hacer que esta polÃ­tica sea lo mÃ¡s transparente y fÃ¡cil de entender como sea posible. Si tienes alguna pregunta sobre nuestras polÃ­ticas o si crees que falta alguna informaciÃ³n, no dudes en comunicarte con nosotros.
+General:
+Todo el mundo puede descargar el juego y jugar de forma gratuita. Para ganar dinero, usamos compras y anuncios dentro de la aplicaciÃ³n. Los anuncios son una parte importante de nuestros ingresos.
+Utilizamos anÃ¡lisis para reconocer los aspectos que se deben mejorar y para validar que nuestros esfuerzos de marketing sean rentables.
+Sin anuncios y anÃ¡lisis, no podrÃ­amos ofrecer y mantener este juego como un servicio. Por lo tanto, se procesa tu ID de publicidad. Puedes desactivar el ID en los ajustes de privacidad de tu telÃ©fono, si no quieres esto.
+Uso de datos:
+Los datos recolectados se usan para anÃ¡lisis, la funcionalidad del juego, personalizaciÃ³n de productos, anuncios y mercadotecnia (que incluye anuncios de terceros).
+Confidencialidad de datos
+:
+No procesamos ni accedemos a datos confidenciales (por ejemplo, nÃºmeros de tarjetas de crÃ©dito o tu direcciÃ³n). Todos los datos personales que procesamos se utilizan para identificar algo: tu partida guardada, a ti como jugador, a ti como receptor de informaciÃ³n para el consumidor, la instalaciÃ³n del juego en tu telÃ©fono o una compra dentro de la aplicaciÃ³n.
+Puedes optar por usar tu direcciÃ³n de correo electrÃ³nico para vincular tu cuenta. La direcciÃ³n de correo electrÃ³nico solo se usa con el propÃ³sito de administrar la cuenta.
+Seguridad de datos:
+Utilizamos una conexiÃ³n cifrada (https) para transferir datos personales a nuestros servidores o para procesadores de terceros. Algunos de los procesadores de terceros se encuentran en paÃ­ses fuera de la UE, pero todos ellos cumplen con el RGPD. El acceso a nuestras bases de datos de juego estÃ¡ protegido y limitado a los empleados autorizados.
+EvaluaciÃ³n de riesgos:
+Hicimos una evaluaciÃ³n de riesgos para identificar el daÃ±o potencial de una fuga de datos. El peor de los casos serÃ­a que alguien tuviera acceso a todos los datos que procesamos. Esta persona podrÃ­a manipular tu partida guardada, saber cÃ³mo juegas el juego o enviarte una notificaciÃ³n de juego. Todo esto representa un daÃ±o local que sÃ³lo afecta a este juego y tu progreso en Ã©l.
+Solo con nuestros datos, no es posible identificarte como persona a menos que estos se usen en combinaciÃ³n con datos personales confidenciales de diferentes fuentes.
+Si optas por usar tu direcciÃ³n de correo electrÃ³nico para vincular tu cuenta, el peor de los casos en una fuga de datos implicarÃ­a que alguien usara esta direcciÃ³n de correo electrÃ³nico para enviarte correo no deseado. Pero no serÃ­a posible descifrar la contraseÃ±a que utilizaste.
+Cambios en la polÃ­tica:
+Nos reservamos el derecho de realizar cambios en esta polÃ­tica de privacidad en cualquier momento en el futuro. Te recomendamos consultar esta pÃ¡gina regularmente, especialmente la fecha de la Ãºltima modificaciÃ³n en la parte inferior. Si te opones a los cambios, puedes dejar de usar la aplicaciÃ³n y eliminar tu cuenta y/o solicitarnos que eliminemos tus datos personales. La polÃ­tica de privacidad modificada se aplicarÃ¡ a todos los datos personales que tenemos sobre los usuarios.
+Procesamos los siguientes tipos de datos personales:
+Identificadores de juegos
+:
+El juego se conecta automÃ¡ticamente a nuestro servidor para crear una partida guardada en lÃ­nea (partida en la nube). Generamos un ID de usuario y un token de autenticaciÃ³n para autenticar dicha partida guardada y acceder a ella. El juego tambiÃ©n crea un ID de BlingHub que contiene un indicador para tu ID de usuario. En general, es el mismo concepto que el del ID de usuario, pero te permite autenticarte con Google Play Games, Game Center y otros servicios para que no pierdas tu progreso despuÃ©s de una reinstalaciÃ³n.
+Almacenamos tu progreso, asÃ­ como tambiÃ©n todas las transacciones prÃ©mium en nuestra base de datos.
+Compras en la aplicaciÃ³n
+:
+Almacenamos el ID de los pedidos de compras dentro de la aplicaciÃ³n para poder brindar asistencia a los compradores y para la detecciÃ³n de fraudes. Por favor, ten en cuenta que no accedemos a tu informaciÃ³n de pago ni a tu nombre, direcciÃ³n, etc., cuando realizas una compra.
+Registros del servidor:
+Registramos las solicitudes al servidor en nuestros registros del servidor. Estos contienen el ID de usuario, lo que nos permite eliminar fallos y corregir errores.
+MediciÃ³n de anuncios:
+Utilizamos el identificador de publicidad (Android) o IDFA (iOS). El ID se utiliza para identificarte como usuario en varias aplicaciones. TambiÃ©n nos ayuda a hacer un seguimiento del Ã©xito de nuestras campaÃ±as de marketing.
+Si no te gusta esto, puedes desactivar globalmente el ID en los ajustes de privacidad de tu sistema operativo.
+Anuncios personalizados
+:
+Si has aceptado la personalizaciÃ³n de anuncios, nosotros y nuestros socios recopilaremos datos y utilizaremos el ID de publicidad para la personalizaciÃ³n de anuncios.
+Puedes cambiar tu elecciÃ³n en cualquier momento en el menÃº de opciones. Debes reiniciar el juego para aplicar plenamente el cambio.
+Por favor, ten en cuenta que algunos de nuestros socios publicitarios proporcionan sus propios ajustes de privacidad y/o los ajustan en funciÃ³n de las leyes de privacidad de tu paÃ­s.
+Tokens de autenticaciÃ³n
+:
+Usa un mÃ©todo de autenticaciÃ³n como Google Play Games, Game Center o Facebook para vincular tu cuenta. Si lo haces, solicitamos un token de autenticaciÃ³n que nos permite identificarte como usuario independientemente de tu progreso local actual. El token es solo algo que podemos usar para confirmar que eres el propietario de dicha cuenta. De esta manera, puedes restaurar una partida guardada antigua tras una reinstalaciÃ³n o si utilizas un dispositivo diferente.
+Los tokens de autenticaciÃ³n se generan para esta aplicaciÃ³n especÃ­fica. No podemos utilizar el token de autenticaciÃ³n para otras aplicaciones.
+Inicio de sesiÃ³n con correo electrÃ³nico:
+Puedes optar por usar tu direcciÃ³n de correo electrÃ³nico como mÃ©todo de autenticaciÃ³n. Esto permite jugar la misma partida en mÃºltiples plataformas, como Android y iOS. La direcciÃ³n de correo electrÃ³nico se almacena bajo una capa de seguridad adicional y, por supuesto, no almacenamos ni transferimos tus contraseÃ±as originales.
+Direcciones IP:
+No almacenamos ni procesamos direcciones IP, pero algunos de nuestros procesadores de terceros sÃ­ procesan direcciones IP.
+ID de Android:
+El ID de Android es para la versiÃ³n Android 8.0 y superior, un identificador Ãºnico basado en la combinaciÃ³n de la clave de acceso a nuestra aplicaciÃ³n, un usuario y un dispositivo. Esto significa que este ID puede ser usado por nosotros y nuestros procesadores de terceros para identificarte como usuario, pero no se puede conectar a los datos de uso de aplicaciones o servicios de otros desarrolladores. Si estÃ¡s ejecutando una versiÃ³n de Android inferior a 8.0 en tu dispositivo, el ID de Android es el mismo para todos los desarrolladores, lo que significa que una violaciÃ³n de datos es mÃ¡s probable. Por favor, considera actualizar tu sistema operativo Android.
+Identificador de instancia
+:
+El ID de instancia se utiliza para identificar la instalaciÃ³n de la aplicaciÃ³n actual en tu telÃ©fono. El ID deja de ser vÃ¡lido si desinstalas la aplicaciÃ³n. Si vuelves a instalar la aplicaciÃ³n, obtienes un nuevo ID.
+Otros datos:
+Adicionalmente a los datos personales y los identificadores mencionados anteriormente, nosotros o nuestros procesadores de terceros tambiÃ©n procesan los siguientes datos:
+datos de progreso del juego, inicios y duraciÃ³n de las sesiones, el uso de artÃ­culos Premium o anuncios, el modelo y fabricante de hardware, versiÃ³n del sistema operativo, registros de errores, tamaÃ±o y orientaciÃ³n de la pantalla de visualizaciÃ³n, volumen de audio, baterÃ­a, idioma del sistema o ajustes locales, tipo de conexiÃ³n a Internet, operador de telefonÃ­a mÃ³vil, zona horaria, espacio libre disponible en tu dispositivo, datos de localizaciÃ³n basados en IP y datos de segmentaciÃ³n y atribuciÃ³n.
+Asistencia:
+Si te comunicas con nuestro servicio de asistencia, procesaremos tus datos de contacto, como tu direcciÃ³n de correo electrÃ³nico y otra informaciÃ³n proporcionada para gestionar tu solicitud.
+Almacenaremos la informaciÃ³n proporcionada por hasta 12 meses para poder hacer el seguimiento de las solicitudes. No enviamos tus datos de contacto a procesadores de terceros. SÃ³lo nuestros empleados autorizados pueden acceder a tus datos de contacto.
+Tenemos que enviar partes de los datos a los siguientes servicios:
+AWS:
+Utilizamos Amazon Web Services para nuestra infraestructura de backend escalable. Amazon garantiza no acceder a, ni procesar ningÃºn dato personal. La Ãºnica excepciÃ³n es el procesamiento de datos por motivos de seguridad o para cumplir con la ley. SÃ³lo nuestros empleados autorizados pueden acceder a los datos del juego o ID de pedidos. Los datos pueden ser almacenados fuera de la UE.
+Mostrar detalles...
+Firebase:
+Utilizamos varios servicios de Firebase de Google. Los servicios procesan ID de publicidad, ID de instancia y datos de uso de aplicaciones. Los datos se eliminan automÃ¡ticamente despuÃ©s de 14 meses de la Ãºltima sesiÃ³n. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Google Analytics:
+Google Analytics identifica a los usuarios con ID de publicidad e ID de instancia. Recopila datos acerca de tu progreso y comportamiento de juego. Los datos se eliminan automÃ¡ticamente despuÃ©s de 14 meses de la Ãºltima sesiÃ³n. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Facebook Analytics:
+Facebook Analytics identifica a los usuarios con ID de publicidad e ID de instancia. Recopila datos acerca de tu progreso y comportamiento de juego. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+FacebookSignIn:
+Puedes iniciar sesiÃ³n con tu cuenta de Facebook actual para vincular tu partida con Facebook. Usamos solo el servicio de autenticaciÃ³n y solo accederemos al nombre de usuario de tu perfil de Facebook. El nombre de usuario no se envÃ­a a nuestro servidor ni a servicios de terceros. No publicamos nada de contenido en tu perfil de Facebook.
+Unity Ads & Analytics:
+Unity Ads y Unity Analytics identifican a los usuarios con ID de publicidad e ID de instancia. Recopilan datos acerca de tu progreso y comportamiento de juego. El procesamiento ocurre principalmente en la UE, pero puede ocurrir fuera de la UE.
+Mostrar detalles...
+Tenjin:
+Tenjin es un servicio de rastreo de atribuciÃ³n, que nos ayuda a determinar de dÃ³nde provienen los nuevos usuarios. Procesa tu ID de publicidad, direcciones IP y otros datos sobre tu progreso, comportamiento de juego y las especificaciones de tu telÃ©fono. El procesamiento ocurre principalmente en la UE, pero puede ocurrir fuera de la UE.
+Mostrar detalles...
+AppsFlyer:
+AppsFlyer es un servicio de rastreo de atribuciÃ³n, que nos ayuda a determinar de dÃ³nde provienen los nuevos usuarios. Procesa tu ID de publicidad, direcciones IP y otros datos sobre tu progreso, comportamiento de juego y las especificaciones de tu telÃ©fono. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Iron Source:
+Iron Source es una red de publicidad y servicio de mediaciÃ³n. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Google AdMob:
+Google AdMob es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Proveedores de tecnologÃ­a
+:
+Google AdMob comparte datos con proveedores de tecnologÃ­a publicitaria. Utilizamos el conjunto de proveedores de tecnologÃ­a publicitaria comÃºnmente utilizado que aparecen en su pÃ¡gina web.
+Mostrar detalles...
+Facebook Ads:
+Facebook Audience Network es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+AppLovin:
+AppLovin es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+AdColony:
+AdColony es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Tapjoy:
+Tapjoy es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Vungle:
+Vungle es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Snapchat:
+Snapchat es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+InMobi:
+InMobi es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+HyprMX:
+HyprMX es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+MyTarget:
+MyTarget es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Chartboost:
+Chartboost es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Zendesk:
+Utilizamos los servicios de Zendesk, Inc. para manejar las solicitudes de los clientes por correo electrÃ³nico o redes sociales. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Tienes los siguientes derechos como propietario de datos:
+Acceso a los datos:
+Tienes derecho a acceder a los datos personales que procesamos. Por favor, comunÃ­cate con nosotros para solicitar tus datos.
+EliminaciÃ³n de datos:
+Puedes eliminar todas las partidas guardadas y la informaciÃ³n almacenada de la cuenta con el botÃ³n de eliminaciÃ³n de cuenta del menÃº de Bling Hub. Todas las ID de instancia se invalidan si desinstalas la aplicaciÃ³n. Puedes solicitar un nuevo ID de publicidad o IDFA en los ajustes de privacidad de tu sistema operativo. ComunÃ­cate con nosotros si quieres que eliminemos otros datos personales (por ejemplo, datos de solicitudes de asistencia).
+Quejas:
+Tienes derecho a presentar una reclamaciÃ³n ante una autoridad supervisora.
+Mostrar detalles...
+Propietario y controlador de datos:
+Bling Bling Games GmbH
+MozartstraÃŸe 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Ãšltima actualizaciÃ³n: 16 de octubre de 2021
+Preambolo:
+Puntiamo a rendere questa politica il piÃ¹ trasparente e facile da capire possibile. Se avete domande riguardanti le nostre politiche o se ritenete che ci siano delle informazioni mancanti, non esitate a contattarci.
+Generale:
+Tutti possono scaricare il gioco e giocare gratuitamente. Per guadagnare soldi, utilizziamo acquisti in-app e pubblicitÃ . Gli annunci sono una parte importante del nostro reddito.
+Utilizziamo l'analisi per riconoscere le cose che devono essere migliorate e per comprovare la redditivitÃ  dei nostri sforzi di marketing
+Senza pubblicitÃ  e analisi, non potremmo correre e sostenere questo gioco come un servizio. Pertanto, il tuo ID pubblicitÃ  viene elaborato. Puoi disabilitare l'ID nelle impostazioni di privacy del tuo telefono, se non lo desideri.
+Utilizzo dei dati:
+I dati raccolti vengono utilizzati per analisi, funzionalitÃ  del gioco, personalizzazione del prodotto e per pubblicitÃ  e marketing (inclusi gli annunci pubblicitari di terze parti).
+SensibilitÃ  dei dati:
+Non elaboriamo nÃ© abbiamo accesso a dati sensibili (es. numeri di carta di credito o indirizzo di casa). Tutti i dati personali che elaboriamo vengono utilizzati per identificare qualcosa: i salvataggi, l'utente come giocatore, l'utente in quanto destinatario di informazioni per consumatori, l'installazione del gioco sul telefono o gli acquisti in-app.
+Puoi scegliere di utilizzare il tuo indirizzo e-mail per associare l'account. L'indirizzo e-mail viene utilizzato solo a scopo di gestione dell'account.
+Sicurezza dei dati:
+Utilizziamo una connessione crittografata (https) per trasferire i dati personali ai nostri server o ai processori di terze parti. Alcuni processori di terze parti si trovano in paesi al di fuori dell'UE, ma tutti sono conformi al GDPR. L'accesso ai nostri database di gioco Ã¨ protetto e limitato ai dipendenti autorizzati.
+Valutazione del rischio
+:
+Abbiamo eseguito una valutazione dei rischi per identificare i danni potenziali di una violazione dei dati. Lo scenario peggiore sarebbe quello in cui un individuo potrebbe avere accesso a tutti i dati elaborati da noi. Questa persona potrebbe manipolare i salvataggi, vedere come giochi o inviarti notifiche di gioco. Tutto questo rappresenta un danno locale che interessa solo questo gioco e i tuoi progressi.
+I nostri dati, da soli, non sono sufficienti per identificare il giocatore come persona, se non in combinazione con dati personali sensibili provenienti da fonti diverse.
+Se si sceglie di utilizzare il proprio indirizzo e-mail per associare il proprio account, lo scenario peggiore di una violazione dei dati significherebbe che qualcuno potrebbe utilizzare questo indirizzo e-mail per inviare spam. Ma non sarebbe possibile individuare la password utilizzata.
+Cambiamenti di politica
+:
+Ci riserviamo il diritto di apportare modifiche alla presente informativa sulla privacy in qualsiasi momento in futuro. Si consiglia di controllare questa pagina regolarmente, in particolare la data dell'ultima modifica in fondo. Se ci si oppone alle modifiche, Ã¨ possibile interrompere l'utilizzo dell'applicazione e cancellare il proprio account e / o chiedere di rimuovere i propri dati personali. Una politica sulla privacy modificata si applicherÃ  a tutti i dati personali che abbiamo sugli utenti.
+Stiamo elaborando il seguente tipo di dati personali:
+Identificatori del gioco
+:
+Il gioco si collega automaticamente al nostro server per creare un salvataggio online (salvataggio su cloud). Generiamo UserId (ID utente) e AuthToken (token di autorizzazione) per l'accesso e l'autenticazione per questo salvataggio. Il gioco crea anche un BlingHubId, che contiene un puntatore al tuo UserId. In generale, Ã¨ lo stesso concetto di UserId, ma ti consente di autenticarti con Google Play Giochi, Game Center e altri servizi, in modo da non perdere i progressi dopo una reinstallazione.
+Memorizziamo i tuoi progressi e tutte le transazioni premium nel nostro database.
+Acquisti in-app:
+Archiviamo gli ID ordine degli acquisti in-app per poter supportare i pagamenti e il rilevamento delle frodi. Si prega di riconoscere che noi non abbiamo accesso ai dati di pagamento o il tuo nome, indirizzo, ecc quando effettui un acquisto.
+Log del server:
+Registriamo le richieste del server nei nostri registri di server. I registri di server contengono lo UserId, che ci consente di eseguire il debug e correggere gli errori.
+Misura degli annunci:
+Utilizziamo l'identificatore pubblicitario (Android) o IDFA (iOS). L'ID viene utilizzato per identificarti come utente su piÃ¹ app. Ci aiuta anche a monitorare il successo delle nostre campagne di marketing
+Se non ti piace, puoi disabilitare globalmente l'ID nelle impostazioni per la privacy del tuo sistema operativo.
+Annunci personalizzati
+:
+Se hai accettato di creare annunci personalizzati, noi e i nostri partner raccogliamo dati e utilizziamo l'ID pubblicitÃ  per la personalizzazione degli annunci.
+Puoi cambiare la tua scelta in qualsiasi momento nel menu delle opzioni. Devi riavviare il gioco per applicare completamente la modifica.
+Ti preghiamo di notare che alcuni dei nostri partner pubblicitari forniscono le proprie impostazioni sulla privacy e/o le regolano in base alle leggi sulla privacy del proprio paese.
+Token di autenticitÃ :
+Usa un metodo di autenticazione come Google Play Giochi, Game Center o Facebook per associare il tuo account. In tal caso, richiediamo un token di autenticazione che ci consente di identificarti come utente a prescindere dai tuoi progressi locali attuali. Il token possiamo usarlo solo per confermare che sei il proprietario di quell'account. In questo modo siamo in grado di ripristinare un vecchio salvataggio dopo una reinstallazione o se utilizzi un dispositivo diverso.
+I token di autenticazione vengono generati per questa app specifica. Non possiamo usare il token di autenticazione per altre app.
+Accesso tramite e-mail:
+Puoi scegliere di utilizzare il tuo indirizzo e-mail come metodo di autenticazione, per poter giocare allo stesso gioco su piÃ¹ piattaforme come Android e iOS. L'indirizzo e-mail viene memorizzato a un ulteriore livello di sicurezza e ovviamente non memorizziamo nÃ© trasferiamo le tue password originali.
+Indirizzi IP:
+Non memorizziamo o elaboriamo noi stessi gli indirizzi IP, ma alcuni dei nostri processori di terze parti elaborano gli indirizzi IP.
+ID Android:
+L'ID Android Ã¨ per la versione Android 8.0 e superiore un ID univoco basato sulla combinazione della nostra chiave di firma app, un utente e un dispositivo. CiÃ² significa che questo ID puÃ² essere utilizzato da noi e dai nostri processori di terze parti per identificarti come utente, ma non puÃ² essere collegato ai dati di utilizzo di app o servizi di altri sviluppatori. Se stai utilizzando una versione Android inferiore a 8.0 sul tuo dispositivo, l'ID Android Ã¨ lo stesso per tutti gli sviluppatori, il che significa che una violazione dei dati Ã¨ piÃ¹ rilevante qui. Ti consigliamo di aggiornare il tuo sistema operativo Android.
+Identificatore di istanza
+:
+L'ID istanza viene utilizzato per identificare l'installazione corrente dell'app sul telefono. L'ID non Ã¨ piÃ¹ valido se si disinstalla l'app. Se installi di nuovo l'app, ottieni un nuovo ID.
+Altri dati:
+Oltre ai dati personali e agli identificatori sopra menzionati, noi o i nostri processori di terze parti elaboriamo anche i seguenti dati:
+Dati di progressione del gioco, inizio e durata della sessione, utilizzo di oggetti o pubblicitÃ  premium, modello hardware e produttore, versione del sistema operativo, registri degli arresti anomali, dimensioni e orientamento dello schermo, volume audio, batteria, lingua di sistema o impostazioni locali, il tipo di connessione internet, il gestore di telefonia mobile, il fuso orario, lo spazio disponibile sul dispositivo, i dati sulla posizione basati su IP e i dati di segmentazione e attribuzione.
+Supporto:
+Se contatti il nostro supporto, elaboreremo i tuoi dati di contatto come il tuo indirizzo email e altre informazioni fornite per gestire la tua richiesta.
+Conserveremo le informazioni fornite per un massimo di 12 mesi per essere in grado di gestire le richieste di follow-up. Non inoltriamo i tuoi dati di contatto a processori di terze parti. Solo i nostri dipendenti autorizzati possono accedere ai tuoi dati di contatto.
+Dobbiamo inoltrare parti dei dati ai seguenti servizi:
+AWS:
+Utilizziamo Amazon Web Services per la nostra infrastruttura di back-end scalabile. Amazon garantisce di non accedere o elaborare alcun dato personale. L'unica eccezione Ã¨ l'elaborazione per motivi di sicurezza dei dati o per rispettare la legge. Solo i nostri dipendenti autorizzati possono accedere ai dati di gioco o agli ID degli ordini. I dati possono essere memorizzati al di fuori dell'UE.
+Mostra dettagli...
+Firebase:
+Utilizziamo diversi servizi di Firebase di Google. I servizi elaborano Id di pubblicitÃ , ID di istanza e dati di utilizzo dell'app. I dati vengono cancellati automaticamente 14 mesi dopo l'ultima sessione. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Google Analytics:
+Google Analytics identifica gli utenti con ID pubblicitÃ  e ID istanza. Raccoglie dati sui tuoi progressi e sul comportamento di gioco. I dati vengono cancellati automaticamente 14 mesi dopo l'ultima sessione. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Facebook Analytics:
+Facebook Analytics identifica gli utenti con ID pubblicitÃ  e ID istanza. Raccoglie dati sui tuoi progressi e sul comportamento di gioco. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+FacebookSignIn:
+Puoi eseguire l'accesso con il tuo account Facebook esistente e associarvi il tuo gioco. Utilizziamo solo il servizio di autenticazione e accederemo solo al tuo nome utente dal tuo profilo di Facebook. Il nome utente non viene inviato al nostro server nÃ© ad alcun servizio di terze parti. Non pubblichiamo nessun contenuto sul tuo profilo di Facebook.
+Unity Ads & Analytics:
+Unity Ads e Unity Analytics identificano gli utenti con ID pubblicitÃ  e ID istanza. Raccolgono dati sui tuoi progressi e sul comportamento di gioco. Il trattamento avviene principalmente nell'UE, ma puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Tenjin:
+Tenjin Ã¨ un servizio di tracciamento delle attribuzioni, che ci aiuta a determinare da dove provengono i nuovi utenti. Elabora il tuo ID pubblicitario, gli indirizzi IP e altri dati relativi ai tuoi progressi, al tuo comportamento e alle specifiche del tuo telefono. Il trattamento avviene principalmente nell'UE, ma puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+AppsFlyer:
+AppsFlyer Ã¨ un servizio di tracciamento delle attribuzioni, che ci aiuta a determinare da dove provengono i nuovi utenti. Elabora il tuo ID pubblicitario, gli indirizzi IP e altri dati relativi ai tuoi progressi, al tuo comportamento e alle specifiche del tuo telefono. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Iron Source:
+Iron Source Ã¨ una rete pubblicitaria e un servizio di mediazione. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Google AdMob:
+Google AdMob Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Fornitori di tecnologia
+:
+Google AdMob condivide i dati con i fornitori di tecnologie pubblicitarie. Stiamo utilizzando il set di fornitori di tecnologia pubblicitaria comunemente utilizzato sul loro sito web.
+Mostra dettagli...
+Facebook Ads:
+Facebook Audience Network Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+AppLovin:
+AppLovin Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+AdColony:
+AdColony Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Tapjoy:
+Tapjoy Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Vungle:
+Vungle Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Snapchat:
+Snapchat Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+InMobi:
+InMobi Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+HyprMX:
+HyprMX Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+MyTarget:
+MyTarget Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Chartboost:
+Chartboost Ã¨ una rete pubblicitaria. Elabora il tuo ID pubblicitÃ  e i dati di utilizzo. Il trattamento puÃ² avvenire al di fuori dell'UE.
+Zendesk:
+Utilizziamo i servizi di Zendesk, Inc. per gestire le richieste dei clienti tramite email o social media. L'elaborazione puÃ² avvenire al di fuori dell'UE.
+Mostra dettagli...
+Hai i seguenti diritti come soggetto dei dati:
+Accesso ai dati:
+Hai il diritto di accedere ai dati personali trattati da noi. Ti preghiamo di contattarci per richiedere i tuoi dati.
+Cancellazione dei dati:
+Puoi eliminare tutti i salvataggi e i dati dell'account memorizzati utilizzando il pulsante Elimina account nel menu BlingHub. Tutti gli ID delle istanze vengono resi non validi quando si disinstalla l'app. Puoi richiedere un nuovo ID annunci/IDFA dalle impostazioni sulla privacy del tuo sistema operativo. Contattaci se desideri cancellare altri dati personali (es. i dati sulle richieste di supporto).
+Reclami:
+Avete il diritto di sporgere denuncia presso un'autoritÃ  di vigilanza.
+Mostra dettagli...
+Proprietario e controllore dei dati:
+Bling Bling Games GmbH
+MozartstraÃŸe 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Ultimo aggiornamento: 16 ottobre 2021
+PreÃ¢mbulo:
+Estamos tentando ao mÃ¡ximo tornar essa PolÃ­tica de Privacidade transparente e fÃ¡cil de entender. Se tiver dÃºvidas sobre nossa PolÃ­tica, ou se achar que faltam informaÃ§Ãµes, fique Ã  vontade para entrar em contato conosco.
+Geral:
+Todos podem baixar e jogar esse game gratuitamente. Para ganhar dinheiro, utilizamos compras no app e anÃºncios. Os anÃºncios sÃ£o uma parte importante da nossa receita.
+Utilizamos analytics para identificar pontos de melhoria e validar que nossos prÃ³prios esforÃ§os de marketing sÃ£o lucrativos.
+Sem anÃºncios e analytics, nÃ£o seria possÃ­vel a longo prazo oferecer esse jogo como um serviÃ§o. Por isso, sua ID de publicidade Ã© processada. VocÃª pode desabilitÃ¡-la nas configuraÃ§Ãµes de privacidade do seu celular, se desejar.
+Uso de dados:
+Os dados coletados sÃ£o usados para fins analÃ­ticos, funcionalidade do jogo, personalizaÃ§Ã£o de produtos, anÃºncios e marketing (incluindo anÃºncios de terceiros).
+Confidencialidade de dados
+:
+NÃ£o processamos ou obtemos acesso a dados confidenciais, como nÃºmeros de cartÃµes de crÃ©dito ou o seu endereÃ§o. Todos os dados pessoais que processamos sÃ£o utilizados para identificar o seu jogo salvo, vocÃª como jogador, vocÃª como receptor de informaÃ§Ãµes de consumo, a instalaÃ§Ã£o do jogo no seu celular ou as compras no app.
+VocÃª pode optar por usar o seu endereÃ§o de e-mail e vincular a sua conta a ele. O endereÃ§o de e-mail sÃ³ Ã© usado com o objetivo de gerenciar a sua conta.
+SeguranÃ§a de dados:
+Utilizamos uma conexÃ£o criptografada (https) para transferir dados pessoais para os nossos servidores ou processadores de terceiros. Alguns desses processadores estÃ£o localizados em paÃ­ses fora da UE, mas todos eles estÃ£o em conformidade com a GDPR. O acesso aos nossos prÃ³prios bancos de dado do jogo Ã© protegido e restrito a funcionÃ¡rios autorizados.
+AvaliaÃ§Ã£o de risco:
+Fizemos uma avaliaÃ§Ã£o de risco para identificar o dano potencial de uma violaÃ§Ã£o de dados. O pior cenÃ¡rio seria se alguÃ©m tivesse acesso a todos os dados processados por nÃ³s. Essa pessoa poderia manipular o seu jogo salvo, ver como vocÃª joga ou enviar a vocÃª notificaÃ§Ãµes do jogo. Tudo isso seria um dano local que sÃ³ afetaria esse jogo e o seu progresso nesse jogo.
+Apenas com os nossos dados, nÃ£o Ã© possÃ­vel identificar vocÃª como uma pessoa, somente combinando dados pessoais confidenciais de diferentes fontes.
+Se vocÃª optar por usar o seu endereÃ§o de e-mail para vincular a sua conta a ele, em caso de violaÃ§Ã£o de dados, o pior cenÃ¡rio seria alguÃ©m usar o seu endereÃ§o de e-mail para enviar spam. NÃ£o Ã© possÃ­vel descobrir a senha que vocÃª usou.
+AlteraÃ§Ãµes na PolÃ­tica:
+Reservamos o direito de fazer alteraÃ§Ãµes nesta polÃ­tica de privacidade a qualquer momento futuro. Recomendamos que vocÃª verifique essa pÃ¡gina regularmente, especialmente a data da Ãºltima modificaÃ§Ã£o na parte inferior. Se vocÃª se opuser Ã s alteraÃ§Ãµes, vocÃª pode parar de usar o aplicativo e excluir sua conta ou nos pedir para remover os seus dados pessoais. Uma polÃ­tica de privacidade alterada serÃ¡ aplicada a todos os dados pessoais dos usuÃ¡rios.
+Estamos processando os seguintes tipos de dados pessoais:
+Identificadores de jogos
+:
+O jogo se conecta automaticamente ao nosso servidor para criar um jogo salvo (armazenamento em nuvem). Geramos um ID de usuÃ¡rio e um token de autenticaÃ§Ã£o para acessar e autenticar esse jogo salvo. O jogo tambÃ©m cria um ID BlingHub, que contÃ©m um direcionador para o seu ID de usuÃ¡rio. Em geral, esse Ã© o mesmo conceito do ID de usuÃ¡rio, mas que tambÃ©m permite que vocÃª autentique a sua conexÃ£o com o Google Play Games e outros serviÃ§os, para que vocÃª nÃ£o perca o seu progresso apÃ³s reinstalar o app.
+Armazenamos o seu progresso e todas as transaÃ§Ãµes premium em nosso banco de dados.
+Compras no app:
+Armazenamos a ordem dos IDs de compras no app para podermos dar suporte a clientes pagantes e detectar fraudes. Observe que nÃ£o temos acesso Ã s suas informaÃ§Ãµes de pagamento ou seu nome, endereÃ§o e outros dados pessoais quando vocÃª faz uma compra.
+Registros do servidor:
+Armazenamos as solicitaÃ§Ãµes de servidor em nossos registros de servidor. Os registros de servidor contÃªm o ID do usuÃ¡rio, o que nos permite analisar e corrigir os erros.
+MensuraÃ§Ã£o de anÃºncios
+:
+Utilizamos o Identificador de Publicidade (Android) ou IDFA (iOS). O ID Ã© utilizado para identificar vocÃª como usuÃ¡rio em diferentes apps. Ele tambÃ©m nos permite monitorar o sucesso de nossas prÃ³prias campanhas de marketing.
+Se vocÃª nÃ£o quer isso, vocÃª pode desabilitar a ID nas configuraÃ§Ãµes de privacidade do seu sistema operacional.
+AnÃºncios personalizados
+:
+Se vocÃª concordou em utilizar os anÃºncios personalizados, nÃ³s e nossos parceiros coletaremos dados e utilizaremos a ID de publicidade para personalizÃ¡-los.
+VocÃª pode alterar essa opÃ§Ã£o a qualquer momento no menu de opÃ§Ãµes. SerÃ¡ necessÃ¡rio reinicializar o jogo para aplicar as alteraÃ§Ãµes.
+Observe que alguns dos anunciantes parceiros fornecem suas prÃ³prias configuraÃ§Ãµes de privacidade e/ou as ajustam com base nas leis de privacidade do seu paÃ­s.
+Tokens de autenticaÃ§Ã£o
+:
+Use um mÃ©todo de autenticaÃ§Ã£o como Google Play Games, Game Center ou Facebook para vincular a sua conta. Se fizer isso, solicitamos um token de autenticaÃ§Ã£o que nos permite identificÃ¡-lo como um usuÃ¡rio, independentemente do seu progresso local atual. O token serve apenas para confirmar que vocÃª Ã© o dono da conta. Dessa forma, podemos restaurar um jogo salvo antigo apÃ³s uma reinstalaÃ§Ã£o ou caso vocÃª esteja usando um dispositivo diferente.
+Os tokens de autenticaÃ§Ã£o sÃ£o gerados especificamente para este app. NÃ£o podemos usar o token para fazer autenticaÃ§Ãµes em outros apps.
+Entrar com e-mail:
+VocÃª pode optar por usar o seu endereÃ§o de e-mail como mÃ©todo de autenticaÃ§Ã£o. Isso lhe permite jogar o mesmo jogo em diversas plataformas, como Android e iOS. O endereÃ§o de e-mail Ã© armazenado dentro de uma camada adicional de seguranÃ§a. Obviamente, nÃ£o armazenamos ou transferimos as suas senhas originais.
+EndereÃ§os IP:
+NÃ£o armazenamos ou processamos endereÃ§os IP, mas alguns de nossos processadores terceiros fazem isso.
+ID Android:
+A ID Android Ã© para versÃµes 8.0 ou superior. Ã‰ um identificador Ãºnico baseado na combinaÃ§Ã£o de nossa chave de login de app, o usuÃ¡rio e o dispositivo. Isso significa que essa ID pode ser utilizada por nÃ³s e processadores terceiros para identificar vocÃª como usuÃ¡rio, mas nÃ£o pode ser conectada a dados de uso de apps ou serviÃ§os de outros desenvolvedores. Se vocÃª estÃ¡ utilizando uma versÃ£o Android mais antiga que a 8.0 em seu dispositivo, a ID Ã© a mesma para todos os desenvolvedores, o que significa que violaÃ§Ãµes de dados sÃ£o ainda mais relevantes. Considere atualizar seu SO Android.
+Identificador de InstÃ¢ncia
+:
+A ID de instÃ¢ncia Ã© utilizada para identificar a instalaÃ§Ã£o atual do app em seu celular. A ID se torna invÃ¡lida se vocÃª desinstalar o app. Se vocÃª reinstalÃ¡-lo, receberÃ¡ uma nova ID.
+Outros dados:
+AlÃ©m dos dados pessoais e identificadores mencionados acima, nÃ³s ouÂ nossos processadores de terceiros tambÃ©m processamÂ os seguintes dados:
+Dados de progressÃ£o de jogo, inÃ­cio e duraÃ§Ã£o de sessÃµes, uso de itens Premium ou anÃºncios, modelo e fabricante do celular, versÃ£o do sistema operacional, registros de travamentos, orientaÃ§Ã£o e tamanho da tela, volume de Ã¡udio, bateria, idioma do sistema, configuraÃ§Ãµes de localizaÃ§Ã£o, tipo de conexÃ£o de internet, operadora de dados mÃ³veis, seu fuso horÃ¡rio, espaÃ§o livre disponÃ­vel em seu dispositivo, dados de localizaÃ§Ã£o com base em IP e dados de atribuiÃ§Ã£o e segmentaÃ§Ã£o.
+Suporte:
+Se vocÃª entrar em contato com o nosso suporte, processaremosÂ seus dados de contato como o seu endereÃ§o de e-mail e outras informaÃ§Ãµes fornecidas para atender Ã  sua solicitaÃ§Ã£o.
+Armazenaremos essas informaÃ§Ãµes por atÃ© 12 meses para podermos atender Ã s solicitaÃ§Ãµes seguintes. NÃ£o encaminhamos seus dados de contato para processadores de terceiros. Somente nossosÂ funcionÃ¡rios autorizados tÃªm acesso a esses dados.
+Ã‰ necessÃ¡rio encaminhar parte dos dados para os serviÃ§os a seguir:
+AWS:
+Utilizamos a Amazon Web Services para a escalabilidade da nossa infraestrutura de backend. A Amazon garante nÃ£o acessar ou processar nenhum dado pessoal. A Ãºnica exceÃ§Ã£o Ã© o processamento por razÃµes de seguranÃ§a de dados ou para obedecer Ã  lei. Somente nossos funcionÃ¡rios autorizados podem acessar os dados de jogo ou IDs de pedidos. Os dados podem ser armazenados fora da UE.
+Exibir detalhes...
+Firebase:
+Utilizamos diversos serviÃ§os do Firebase da Google. Esses serviÃ§os processam IDs de publicidade, IDs de instÃ¢ncia e dados de uso do app. Os dados sÃ£o excluÃ­dos automaticamente 14 meses apÃ³s a Ãºltima sessÃ£o. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Google Analytics:
+O Google Analytics identifica os usuÃ¡rios com IDs de publicidade e de instÃ¢ncia. Ele coleta dados sobre o seu progresso e comportamento no jogo. Os dados sÃ£o ExcluÃ­dos automaticamente 14 meses apÃ³s a Ãºltima sessÃ£o. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Facebook Analytics:
+O Facebook Analytics identifica os usuÃ¡rios com IDs de publicidade e de instÃ¢ncia. Ele coleta dados sobre o seu progresso e comportamento no jogo. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+FacebookSignIn:
+VocÃª pode entrar com a sua conta existente do Facebook para vincular o seu jogo ao Facebook. Usamos apenas o serviÃ§o de autenticaÃ§Ã£o e sÃ³ acessaremos o seu nome de usuÃ¡rio a partir do seu perfil do Facebook. O nome de usuÃ¡rio nÃ£o Ã© enviado ao nosso servidor ou a nenhum outro serviÃ§o terceirizado. NÃ£o postamos nenhum conteÃºdo no seu perfil do Facebook.
+Unity Ads & Analytics:
+O Unity Ads e o Unity Analytics identificam os usuÃ¡rios com IDs de publicidade e instÃ¢ncia. Ele coleta dados sobre o seu progresso e comportamento no jogo. O processamento ocorre em sua maior parte na UE, mas pode ocorrer fora da UE.
+Exibir detalhes...
+Tenjin:
+O Tenjin Ã© um serviÃ§o de rastreamento de atribuiÃ§Ã£o, que nos a ajuda a determinar de onde os novos usuÃ¡rios estÃ£o vindo. Ele processa sua ID de publicidade, EndereÃ§o IP e outros dados sobre seu progresso, comportamento de jogo e as especificaÃ§Ãµes do seu celular. O processamento ocorre em sua maior parte na UE, mas pode ocorrer fora da UE.
+Exibir detalhes...
+AppsFlyer:
+O AppsFlyer Ã© um serviÃ§o de rastreamento de atribuiÃ§Ã£o, que nos a ajuda a determinar de onde os novos usuÃ¡rios estÃ£o vindo. Ele processa sua ID de publicidade, EndereÃ§o IP e outros dados sobre seu progresso, comportamento de jogo e as especificaÃ§Ãµes do seu celular. O processamento pode acontecer fora da UE.
+Exibir detalhes...
+Iron Source:
+A Iron Source Ã© um serviÃ§o de mediaÃ§Ã£o e redes de anÃºncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Google AdMob:
+O Google AdMob Ã© um serviÃ§o de redes de anÃºncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Fornecedores de tecnologia
+:
+O Google AdMob compartilha dados com fornecedores de tecnologias de anÃºncios. Utilizamos os fornecedores mais comuns, listados em seu website.
+Exibir detalhes...
+Facebook Ads:
+O Facebook Audience Network Ã© um serviÃ§o de redes de anÃºncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+AppLovin:
+O AppLovin Ã© um serviÃ§o de redes de anÃºncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+AdColony:
+O AdColony Ã© uma rede de publicidade. Ele processa os seus dados de identificaÃ§Ã£o e usa para a publicidade. O processamento pode acontecer fora da UE.
+Exibir detalhes...
+Tapjoy:
+O Tapjoy Ã© uma rede de publicidade. Ele processa os seus dados de identificaÃ§Ã£o e usa para a publicidade. O processamento pode acontecer fora da UE.
+Vungle:
+O Vungle Ã© uma rede de publicidade. Ele processa os seus dados de identificaÃ§Ã£o e usa para a publicidade. O processamento pode acontecer fora da UE.
+Snapchat:
+O Snapchat Ã© uma rede de publicidade. Ele processa os seus dados de identificaÃ§Ã£o e usa para a publicidade. O processamento pode acontecer fora da UE.
+InMobi:
+O InMobi Ã© uma rede de publicidade. Ele processa os seus dados de identificaÃ§Ã£o e usa para a publicidade. O processamento pode acontecer fora da UE.
+HyprMX:
+O HyprMX Ã© uma rede de publicidade. Ele processa os seus dados de identificaÃ§Ã£o e usa para a publicidade. O processamento pode acontecer fora da UE.
+MyTarget:
+O MyTarget Ã© uma rede de publicidade. Ele processa os seus dados de identificaÃ§Ã£o e usa para a publicidade. O processamento pode acontecer fora da UE.
+Chartboost:
+O Chartboost Ã© um serviÃ§o de redes de anÃºncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Zendesk:
+Utilizamos os serviÃ§os da Zendesk, Inc. para lidar com solicitaÃ§Ãµes de clientes via e-mail ou mÃ­dia social. O processamento pode acontecer fora da UniÃ£o EuropÃ©ia.
+Exibir detalhes...
+Como titular dos dados, vocÃª possui os seguintes direitos:
+Acesso aos dados:
+Temos o direito de acessar os dados pessoais processados por nÃ³s. Entre em contato conosco para solicitar seus dados.
+RemoÃ§Ã£o de dados:
+VocÃª pode deletar todos os jogos salvos e dados de conta armazenados usando o botÃ£o â€œDeletar Contaâ€, no menu do Bling Hub. Todos os IDs de instÃ¢ncia sÃ£o invalidados caso vocÃª desinstale o app. VocÃª pode solicitar um novo ID de AnÃºncios / IDFA nas configuraÃ§Ãµes de privacidade do seu sistema operacional. Entre em contato conosco se vocÃª quiser que apaguemos outros dados pessoais (como dados de solicitaÃ§Ã£o de suporte, por exemplo).
+ReclamaÃ§Ãµes:
+VocÃª tem o direito de oficializar uma reclamaÃ§Ã£o junto a uma autoridade de supervisÃ£o.
+Exibir detalhes...
+Propriedade e controle de dados:
+Bling Bling Games GmbH
+MozartstraÃŸe 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Ãšltima atualizaÃ§Ã£o: 16 de outubro de 2021
+ÐŸÑ€ÐµÐ°Ð¼Ð±ÑƒÐ»Ð°:
+ÐœÑ‹ ÑÑ‚Ñ€ÐµÐ¼Ð¸Ð¼ÑÑ ÑÐ´ÐµÐ»Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»Ð¸Ñ‚Ð¸ÐºÑƒ ÐºÐ°Ðº Ð¼Ð¾Ð¶Ð½Ð¾ Ð±Ð¾Ð»ÐµÐµ Ð¿Ñ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ð¾Ð¹ Ð¸ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ð¹ Ð´Ð»Ñ Ð¿Ð¾Ð½Ð¸Ð¼Ð°Ð½Ð¸Ñ. Ð•ÑÐ»Ð¸ Ñƒ Ð²Ð°Ñ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ°ÑŽÑ‚ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹, ÐºÐ°ÑÐ°ÑŽÑ‰Ð¸ÐµÑÑ Ð½Ð°ÑˆÐ¸Ñ… Ð¿Ð¾Ð»Ð¸Ñ‚Ð¸Ðº, Ð¸Ð»Ð¸ Ð²Ñ‹ ÑÑ‡Ð¸Ñ‚Ð°ÐµÑ‚Ðµ, Ñ‡Ñ‚Ð¾ Ð² Ð½Ð¸Ñ… Ð½Ðµ Ñ…Ð²Ð°Ñ‚Ð°ÐµÑ‚ ÐºÐ°ÐºÐ¾Ð¹-Ð»Ð¸Ð±Ð¾ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, ÑÐ²ÑÐ¶Ð¸Ñ‚ÐµÑÑŒ Ñ Ð½Ð°Ð¼Ð¸.
+ÐžÐ±Ñ‰ÐµÐµ:
+Ð›ÑŽÐ±Ð¾Ð¹ Ñ‡ÐµÐ»Ð¾Ð²ÐµÐº Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ð¸Ð³Ñ€Ñƒ Ð¸ Ð¸Ð³Ñ€Ð°Ñ‚ÑŒ Ð² Ð½ÐµÐµ Ð±ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð¾. Ð”Ð»Ñ Ñ‚Ð¾Ð³Ð¾ Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð·Ð°Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ, Ð¼Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ Ð¿Ð¾ÐºÑƒÐ¿ÐºÐ¸ Ð² Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¸ Ð¸ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ðµ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ. Ð ÐµÐºÐ»Ð°Ð¼Ð° ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¾Ñ‡ÐµÐ½ÑŒ Ð²Ð°Ð¶Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚ÑŒÑŽ Ð½Ð°ÑˆÐµÐ³Ð¾ Ð´Ð¾Ñ…Ð¾Ð´Ð°.
+ÐœÑ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÑƒ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð²Ñ‹ÑÐ²Ð¸Ñ‚ÑŒ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚Ð¸ Ð´Ð»Ñ Ð¿Ð¾Ñ‚ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑƒÐ»ÑƒÑ‡ÑˆÐµÐ½Ð¸Ð¹ Ð¸ Ð´Ð»Ñ Ñ‚Ð¾Ð³Ð¾, Ñ‡Ñ‚Ð¾Ð±Ñ‹ ÑƒÐ±ÐµÐ´Ð¸Ñ‚ÑŒÑÑ, Ñ‡Ñ‚Ð¾ Ð½Ð°ÑˆÐ¸ Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð¾Ð²Ñ‹Ðµ Ð¼ÐµÑ€Ð¾Ð¿Ñ€Ð¸ÑÑ‚Ð¸Ñ Ð¿Ñ€Ð¸Ð½Ð¾ÑÑÑ‚ Ð¿Ñ€Ð¸Ð±Ñ‹Ð»ÑŒ.
+Ð‘ÐµÐ· Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹ Ð¸ Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÐ¸ Ð¼Ñ‹ Ð½Ðµ Ð¼Ð¾Ð³Ð»Ð¸ Ð±Ñ‹ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°Ñ‚ÑŒ ÑÑ‚Ñƒ Ð¸Ð³Ñ€Ñƒ. Ð”Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð¼Ñ‹ Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÐ¼ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð½Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€. Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ð½Ðµ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑÑ‚Ð¾Ð³Ð¾, Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ Ð²Ð°ÑˆÐµÐ³Ð¾ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°.
+Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ…:
+Ð”Ð°Ð½Ð½Ñ‹Ðµ ÑÐ¾Ð±Ð¸Ñ€Ð°ÑŽÑ‚ÑÑ Ð´Ð»Ñ Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÐ¸, Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð¸Ð³Ñ€Ñ‹, Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð¾Ð², Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹ Ð¸ Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð° (Ð² Ñ‚Ð¾Ð¼ Ñ‡Ð¸ÑÐ»Ðµ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ñ… Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ¾Ð²).
+ÐšÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ñ…
+:
+ÐœÑ‹ Ð½Ðµ Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÐ¼ Ð¸ Ð½Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÐ¼ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð´Ð°Ð½Ð½Ñ‹Ð¼ (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, Ð½Ð¾Ð¼ÐµÑ€Ð°Ð¼ ÐºÑ€ÐµÐ´Ð¸Ñ‚Ð½Ñ‹Ñ… ÐºÐ°Ñ€Ñ‚ Ð¸Ð»Ð¸ Ð²Ð°ÑˆÐ¸Ð¼ Ð°Ð´Ñ€ÐµÑÐ°Ð¼). Ð’ÑÐµ Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÐ¼Ñ‹Ðµ Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑŽÑ‚ÑÑ Ð´Ð»Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸: ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¹ Ð¸Ð³Ñ€Ñ‹, Ð²Ð°Ñ Ð² ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð¸Ð³Ñ€Ð¾ÐºÐ°, Ð²Ð°Ñ Ð² ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸, ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¸Ð³Ñ€Ñ‹ Ð½Ð° Ð²Ð°ÑˆÐµÐ¼ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ðµ Ð¸Ð»Ð¸ Ð¿Ð¾ÐºÑƒÐ¿Ð¾Ðº Ð² Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¸.
+Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð°Ð´Ñ€ÐµÑ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹ Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸. ÐÐ´Ñ€ÐµÑ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÑŒÑŽ.
+Ð‘ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ñ…
+:
+Ð”Ð»Ñ Ð¿ÐµÑ€ÐµÐ´Ð°Ñ‡Ð¸ Ð»Ð¸Ñ‡Ð½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð½Ð° Ð½Ð°ÑˆÐ¸ Ð¸Ð»Ð¸ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ðµ ÑÐµÑ€Ð²ÐµÑ€Ñ‹ Ð¼Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ Ð·Ð°ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ðµ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ (https). ÐÐµÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ðµ ÑÐµÑ€Ð²ÐµÑ€Ñ‹ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ñ€Ð°ÑÐ¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ñ‹ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ ÑÑ‚Ñ€Ð°Ð½ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ Ð¡Ð¾ÑŽÐ·Ð°, Ð½Ð¾ Ð²ÑÐµ Ð¾Ð½Ð¸ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð°Ð¼ GDPR. Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½Ð°ÑˆÐ¸Ð¼ ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¼ Ð±Ð°Ð·Ð°Ð¼ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¸Ð³Ñ€Ñ‹ Ð·Ð°Ñ‰Ð¸Ñ‰ÐµÐ½ Ð¸ Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ°Ð¼.
+ÐžÑ†ÐµÐ½ÐºÐ° Ñ€Ð¸ÑÐºÐ°:
+ÐœÑ‹ Ð¿Ñ€Ð¾Ð²ÐµÐ»Ð¸ Ð¾Ñ†ÐµÐ½ÐºÑƒ ÑƒÐ³Ñ€Ð¾Ð· Ð´Ð»Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð¿Ð¾Ñ‚ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ ÑƒÑ‰ÐµÑ€Ð±Ð° Ð¾Ñ‚ ÑƒÑ‚ÐµÑ‡ÐºÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…. Ð¡Ð°Ð¼Ñ‹Ð¹ Ñ…ÑƒÐ´ÑˆÐ¸Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹: Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ðµ ÐºÐµÐ¼-Ð»Ð¸Ð±Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° ÐºÐ¾ Ð²ÑÐµÐ¼ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð½Ñ‹Ð¼ Ð½Ð°Ð¼Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ð¼. Ð­Ñ‚Ð¾ Ð»Ð¸Ñ†Ð¾ Ð¼Ð¾Ð³Ð»Ð¾ Ð±Ñ‹ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ð¸Ð³Ñ€Ð°Ð¼Ð¸, Ð½Ð°Ð±Ð»ÑŽÐ´Ð°Ñ‚ÑŒ Ð·Ð° Ñ‚ÐµÐ¼, ÐºÐ°Ðº Ð²Ñ‹ Ð¸Ð³Ñ€Ð°ÐµÑ‚Ðµ, Ð¸Ð»Ð¸ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ Ð²Ð°Ð¼ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ Ð² Ð¸Ð³Ñ€Ðµ. Ð’ÑÐµ ÑÑ‚Ð¾ Ð¾Ñ‚Ð½Ð¾ÑÐ¸Ñ‚ÑÑ Ðº Ð»Ð¾ÐºÐ°Ð»ÑŒÐ½Ð¾Ð¼Ñƒ ÑƒÑ‰ÐµÑ€Ð±Ñƒ Ð¸ Ð²Ð»Ð¸ÑÐµÑ‚ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° ÑÑ‚Ñƒ Ð¸Ð³Ñ€Ñƒ Ð¸ Ð½Ð° Ñ‚Ð¾, ÐºÐ°Ðº Ð²Ñ‹ Ð¿Ñ€Ð¾Ñ…Ð¾Ð´Ð¸Ñ‚Ðµ ÐµÐµ.
+Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑ ÑÑ‚Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ, Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ð°Ñ. Ð¢Ð°ÐºÐ¾Ðµ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ñ€Ð¸ ÑÐ¾Ð²Ð¼ÐµÑÑ‚Ð½Ð¾Ð¼ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸ ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¸Ð· Ñ€Ð°Ð·Ð½Ñ‹Ñ… Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¾Ð².
+Ð•ÑÐ»Ð¸ Ñ€ÐµÑˆÐ¸Ñ‚Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð°Ð´Ñ€ÐµÑ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹ Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸, Ñ‚Ð¾ Ð² Ñ…ÑƒÐ´ÑˆÐµÐ¼ ÑÐ»ÑƒÑ‡Ð°Ðµ ÑƒÑ‚ÐµÑ‡ÐºÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð·Ð»Ð¾ÑƒÐ¼Ñ‹ÑˆÐ»ÐµÐ½Ð½Ð¸ÐºÐ¸ ÑÐ¼Ð¾Ð³ÑƒÑ‚ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ ÑÐ¿Ð°Ð¼ Ð½Ð° Ð²Ð°Ñˆ Ð°Ð´Ñ€ÐµÑ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹, Ð¾Ð´Ð½Ð°ÐºÐ¾ Ð¾Ð½Ð¸ Ð½Ðµ ÑÐ¼Ð¾Ð³ÑƒÑ‚ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ñ‹Ð¹ Ð²Ð°Ð¼Ð¸ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ.
+Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ:
+ÐœÑ‹ Ð¾ÑÑ‚Ð°Ð²Ð»ÑÐµÐ¼ Ð·Ð° ÑÐ¾Ð±Ð¾Ð¹ Ð¿Ñ€Ð°Ð²Ð¾ Ð²Ð½Ð¾ÑÐ¸Ñ‚ÑŒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² ÑÑ‚Ñƒ Ð¿Ð¾Ð»Ð¸Ñ‚Ð¸ÐºÑƒ ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ Ð² Ð»ÑŽÐ±Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ. ÐœÑ‹ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼ Ñ€ÐµÐ³ÑƒÐ»ÑÑ€Ð½Ð¾ Ð¿Ð¾ÑÐµÑ‰Ð°Ñ‚ÑŒ ÑÑ‚Ñƒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¸ Ð¿ÐµÑ€ÐµÑ‡Ð¸Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ, Ð¾Ð±Ñ€Ð°Ñ‰Ð°Ñ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ Ð½Ð° Ð´Ð°Ñ‚Ñƒ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ð¸Ð¶Ðµ. Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ð½Ðµ ÑÐ¾Ð³Ð»Ð°ÑÐ½Ñ‹ Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸ÑÐ¼Ð¸, Ñ‚Ð¾ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ñ€ÐµÐºÑ€Ð°Ñ‚Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÐµÐ¼ Ð¸ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ²Ð¾ÑŽ ÑƒÑ‡ÐµÑ‚Ð½ÑƒÑŽ Ð·Ð°Ð¿Ð¸ÑÑŒ Ð¸/Ð¸Ð»Ð¸ Ð¿Ð¾Ð¿Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð½Ð°Ñ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²Ð°ÑˆÐ¸ Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ. Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð½Ð°Ñ Ð¿Ð¾Ð»Ð¸Ñ‚Ð¸ÐºÐ° ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ Ð±ÑƒÐ´ÐµÑ‚ Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÑÑ‚ÑŒÑÑ ÐºÐ¾ Ð²ÑÐµÐ¼ Ð¸Ð¼ÐµÑŽÑ‰Ð¸Ð¼ÑÑ Ñƒ Ð½Ð°Ñ Ð»Ð¸Ñ‡Ð½Ñ‹Ð¼ Ð´Ð°Ð½Ð½Ñ‹Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹.
+ÐœÑ‹ Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÐ¼ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ñ‚Ð¸Ð¿Ñ‹ Ð»Ð¸Ñ‡Ð½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…:
+Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹ Ð¸Ð³Ñ€
+:
+Ð˜Ð³Ñ€Ð° Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð°ÐµÑ‚ÑÑ Ðº Ð½Ð°ÑˆÐ¸Ð¼ ÑÐµÑ€Ð²ÐµÑ€Ð°Ð¼ Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÑÐµÑ‚ Ð¿Ñ€Ð¾Ð³Ñ€ÐµÑÑ Ð² Ð¾Ð±Ð»Ð°ÐºÐµ. Ð”Ð»Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¸Ð³Ñ€Ñ‹ Ð¼Ñ‹ Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÐµÐ¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð¸ Ñ‚Ð¾ÐºÐµÐ½ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸. Ð˜Ð³Ñ€Ð° Ñ‚Ð°ÐºÐ¶Ðµ ÑÐ¾Ð·Ð´Ð°ÐµÑ‚ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ BlingHubId, ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‰Ð¸Ð¹ ÑƒÐºÐ°Ð·Ð°Ð½Ð¸Ðµ Ð½Ð° Ð²Ð°Ñˆ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ. Ð’ Ð¾Ð±Ñ‰ÐµÐ¼ Ð¸ Ñ†ÐµÐ»Ð¾Ð¼, ÑÑ‚Ð¾ Ñ‚Ð¾Ñ‚ Ð¶Ðµ Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð¿, Ñ‡Ñ‚Ð¾ Ð¸ Ñƒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ, Ð½Ð¾ Ð¾Ð½ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒ Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑŽ Ñ‡ÐµÑ€ÐµÐ· Google Play Games, Game Center Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ðµ ÑÐ»ÑƒÐ¶Ð±Ñ‹, Ð±Ð»Ð°Ð³Ð¾Ð´Ð°Ñ€Ñ Ñ‡ÐµÐ¼Ñƒ Ð²Ñ‹ Ð½Ðµ Ñ‚ÐµÑ€ÑÐµÑ‚Ðµ Ð¿Ñ€Ð¾Ð³Ñ€ÐµÑÑ Ð¸Ð³Ñ€Ñ‹ Ð¿Ð¾ÑÐ»Ðµ Ð¿ÐµÑ€ÐµÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸.
+ÐœÑ‹ Ñ…Ñ€Ð°Ð½Ð¸Ð¼ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¸ Ð²ÑÐµ Ð¿Ñ€ÐµÐ¼Ð¸ÑƒÐ¼-Ñ‚Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ð¸ Ð² Ð½Ð°ÑˆÐµÐ¹ Ð±Ð°Ð·Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ….
+ÐŸÐ¾ÐºÑƒÐ¿ÐºÐ¸ Ð² Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¸
+:
+ÐœÑ‹ Ñ…Ñ€Ð°Ð½Ð¸Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð¾Ð² Ð¿Ð¾ÐºÑƒÐ¿Ð¾Ðº Ð² Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¸ Ð´Ð»Ñ Ð¾ÐºÐ°Ð·Ð°Ð½Ð¸Ñ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¸Ð³Ñ€Ð¾ÐºÐ°Ð¼ Ð¸ Ð´Ð»Ñ Ð¾Ð±Ð½Ð°Ñ€ÑƒÐ¶ÐµÐ½Ð¸Ñ Ð¼Ð¾ÑˆÐµÐ½Ð½Ð¸Ñ‡ÐµÑÑ‚Ð²Ð°. ÐœÑ‹ Ð¿Ð¾Ð´Ñ‡ÐµÑ€ÐºÐ¸Ð²Ð°ÐµÐ¼, Ñ‡Ñ‚Ð¾ Ñƒ Ð½Ð°Ñ Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ð¸Ð»Ð¸ Ð²Ð°ÑˆÐµÐ¼Ñƒ Ð¸Ð¼ÐµÐ½Ð¸ Ð¸ Ñ„Ð°Ð¼Ð¸Ð»Ð¸Ð¸, Ð°Ð´Ñ€ÐµÑÐ°Ð¼ Ð¸ Ñ‚.Ð´., ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ñ‹ ÑƒÐºÐ°Ð·Ñ‹Ð²Ð°ÐµÑ‚Ðµ Ð¿Ñ€Ð¸ ÑÐ¾Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ð¸ Ð¿Ð¾ÐºÑƒÐ¿ÐºÐ¸.
+Ð–ÑƒÑ€Ð½Ð°Ð»Ñ‹ ÑÐµÑ€Ð²ÐµÑ€Ð°:
+ÐœÑ‹ Ð·Ð°Ð¿Ð¸ÑÑ‹Ð²Ð°ÐµÐ¼ Ð·Ð°Ð¿Ñ€Ð¾ÑÑ‹ ÑÐµÑ€Ð²ÐµÑ€Ð° Ð² Ð¶ÑƒÑ€Ð½Ð°Ð»Ñ‹ ÑÐµÑ€Ð²ÐµÑ€Ð°. Ð’ ÑÑ‚Ð¸Ñ… Ð¶ÑƒÑ€Ð½Ð°Ð»Ð°Ñ… ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑÑ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ, Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹Ðµ Ð´Ð»Ñ Ð¾Ñ‚Ð»Ð°Ð´ÐºÐ¸ Ð¸Ð³Ñ€Ñ‹ Ð¸ Ð¸ÑÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¾ÑˆÐ¸Ð±Ð¾Ðº.
+ÐœÐµÑ‚Ñ€Ð¸ÐºÐ¸ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹:
+ÐœÑ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ (Android) Ð¸Ð»Ð¸ IDFA (iOS). Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð´Ð»Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð²Ð°Ñ Ð² ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð² Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¸Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÑ…. ÐžÐ½ Ñ‚Ð°ÐºÐ¶Ðµ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð¾Ñ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ñ‚ÑŒ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ÑÑ‚ÑŒ Ð½Ð°ÑˆÐ¸Ñ… Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð¾Ð²Ñ‹Ñ… ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¹.
+Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ð½Ðµ ÑÐ¾Ð³Ð»Ð°ÑÐ½Ñ‹ Ñ ÑÑ‚Ð¸Ð¼, Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ Ð²Ð°ÑˆÐµÐ¹ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹.
+Ð˜Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ð°Ñ Ñ€ÐµÐºÐ»Ð°Ð¼Ð°
+:
+Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ð´Ð°Ð»Ð¸ ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ðµ Ð½Ð° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ðµ Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ð¾Ð¹ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹, Ð½Ð°Ð¼Ð¸ Ð¸ Ð½Ð°ÑˆÐ¸Ð¼Ð¸ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð°Ð¼Ð¸ Ð±ÑƒÐ´ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ ÑÐ±Ð¾Ñ€ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¸ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð¾Ð³Ð¾ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð° Ð´Ð»Ñ Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹.
+Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð² Ð»ÑŽÐ±Ð¾Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ‚ Ð¿Ð¾Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð² Ð¼ÐµÐ½ÑŽ Ð¾Ð¿Ñ†Ð¸Ð¹. Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ Ð¿Ñ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ, Ð½ÑƒÐ¶Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ Ð¸Ð³Ñ€Ñƒ.
+ÐžÐ±Ñ€Ð°Ñ‰Ð°ÐµÐ¼ Ð²Ð°ÑˆÐµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, Ñ‡Ñ‚Ð¾ Ð½ÐµÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð¸Ð· Ð½Ð°ÑˆÐ¸Ñ… Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ñ… Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð¾Ð² Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑŽÑ‚ ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ Ð¸/Ð¸Ð»Ð¸ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð¸Ñ€ÑƒÑŽÑ‚ Ð¸Ñ… Ð² Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚ Ð·Ð°ÐºÐ¾Ð½Ð¾Ð² Ð¾ Ð·Ð°Ñ‰Ð¸Ñ‚Ðµ ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ Ð²Ð°ÑˆÐµÐ¹ ÑÑ‚Ñ€Ð°Ð½Ñ‹.
+Ð¢Ð¾ÐºÐµÐ½Ñ‹ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸:
+Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚Ðµ Ð¿Ð¾Ð´Ñ…Ð¾Ð´ÑÑ‰Ð¸Ð¹ ÑÐ¿Ð¾ÑÐ¾Ð± Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ (Google Play Games, Game Center Ð¸Ð»Ð¸ Facebook), Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ñ‚ÑŒ ÑÐ²Ð¾ÑŽ ÑƒÑ‡ÐµÑ‚Ð½ÑƒÑŽ Ð·Ð°Ð¿Ð¸ÑÑŒ. Ð•ÑÐ»Ð¸ Ð²Ñ‹ ÑÐ´ÐµÐ»Ð°ÐµÑ‚Ðµ ÑÑ‚Ð¾, Ð¼Ñ‹ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ð¼ Ñ‚Ð¾ÐºÐµÐ½ Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð½Ð°Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ð°Ñ Ð² ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð½ÐµÐ·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ Ð¾Ñ‚ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ Ð»Ð¾ÐºÐ°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ Ð¸Ð³Ñ€Ñ‹. Ð”Ð°Ð½Ð½Ñ‹Ð¹ Ñ‚Ð¾ÐºÐµÐ½ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð½Ð°Ð¼ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ, Ñ‡Ñ‚Ð¾ Ð²Ñ‹ ÑÐ²Ð»ÑÐµÑ‚ÐµÑÑŒ Ð²Ð»Ð°Ð´ÐµÐ»ÑŒÑ†ÐµÐ¼ ÑÑ‚Ð¾Ð¹ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸. Ð‘Ð»Ð°Ð³Ð¾Ð´Ð°Ñ€Ñ ÑÑ‚Ð¾Ð¼Ñƒ Ð¼Ñ‹ Ð¼Ð¾Ð¶ÐµÐ¼ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½ÑƒÑŽ Ð¸Ð³Ñ€Ñƒ Ð¿Ð¾ÑÐ»Ðµ Ð¿ÐµÑ€ÐµÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¸Ð»Ð¸ ÐµÑÐ»Ð¸ Ð²Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚Ðµ Ð´Ñ€ÑƒÐ³Ð¾Ðµ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾.
+Ð¢Ð¾ÐºÐµÐ½Ñ‹ Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÑŽÑ‚ÑÑ Ð´Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ. ÐœÑ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÐ¼ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‚Ð¾ÐºÐµÐ½ Ð´Ð»Ñ Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð² Ð´Ñ€ÑƒÐ³Ð¸Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÑ….
+Ð­Ð». Ð¿Ð¾Ñ‡Ñ‚Ð° Ð´Ð»Ñ Ð²Ñ…Ð¾Ð´Ð°:
+Ð”Ð»Ñ Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð¼Ð¾Ð¶Ð½Ð¾ Ñ‚Ð°ÐºÐ¶Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð°Ð´Ñ€ÐµÑ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹. Ð­Ñ‚Ð¾ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð¸Ð³Ñ€Ð°Ñ‚ÑŒ Ð² Ð¸Ð³Ñ€Ñƒ Ð½Ð° Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¸Ñ… Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°Ñ…, Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, Ð½Ð° Android Ð¸ iOS. ÐÐ´Ñ€ÐµÑ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹ Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑÑ Ð½Ð° Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¼ ÑƒÑ€Ð¾Ð²Ð½Ðµ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚Ð¸, Ð¸ Ð¼Ñ‹ Ð½Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð¼ Ð¸ Ð½Ðµ Ð¿ÐµÑ€ÐµÐ´Ð°ÐµÐ¼ Ð²Ð°ÑˆÐ¸ Ð¾Ñ€Ð¸Ð³Ð¸Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ð¿Ð°Ñ€Ð¾Ð»Ð¸.
+IP-Ð°Ð´Ñ€ÐµÑÐ°:
+ÐœÑ‹ Ð½Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð¼ Ð¸ Ð½Ðµ Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÐ¼ IP-Ð°Ð´Ñ€ÐµÑÐ° ÑÐ°Ð¼Ð¾ÑÑ‚Ð¾ÑÑ‚ÐµÐ»ÑŒÐ½Ð¾, Ð¾Ð´Ð½Ð°ÐºÐ¾ Ð½ÐµÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð¸Ð· Ð½Ð°ÑˆÐ¸Ñ… ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ñ… Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð² Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÑŽÑ‚ IP-Ð°Ð´Ñ€ÐµÑÐ°.
+Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Android
+:
+Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Android, Ð¿Ñ€ÐµÐ´Ð½Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ‹Ð¹ Ð´Ð»Ñ Android 8.0 Ð¸ Ð²Ñ‹ÑˆÐµ, Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÑÐµÑ‚ ÑÐ¾Ð±Ð¾Ð¹ ÑƒÐ½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€, Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð½Ð° ÐºÐ¾Ð¼Ð±Ð¸Ð½Ð°Ñ†Ð¸Ð¸ Ð½Ð°ÑˆÐµÐ³Ð¾ ÐºÐ»ÑŽÑ‡Ð° Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ, Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð¸ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°. Ð­Ñ‚Ð¾ Ð¾Ð·Ð½Ð°Ñ‡Ð°ÐµÑ‚, Ñ‡Ñ‚Ð¾ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð¶ÐµÑ‚ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ Ð½Ð°Ð¼Ð¸ Ð¸ Ð½Ð°ÑˆÐ¸Ð¼Ð¸ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ð¼Ð¸ Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°Ð¼Ð¸ Ð´Ð»Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð²Ð°Ñ Ð² ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ, Ð½Ð¾ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½ Ðº Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸ÑŽ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð¸Ð»Ð¸ ÑƒÑÐ»ÑƒÐ³ Ð¾Ñ‚ Ð´Ñ€ÑƒÐ³Ð¸Ñ… Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ¾Ð². Ð•ÑÐ»Ð¸ Ð½Ð° Ð²Ð°ÑˆÐµÐ¼ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð° ÐžÐ¡ Android Ð²ÐµÑ€ÑÐ¸Ð¸ Ð½Ð¸Ð¶Ðµ 8.0, Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Android, Ð¾Ð´Ð¸Ð½Ð°ÐºÐ¾Ð²Ñ‹Ð¹ Ð´Ð»Ñ Ð²ÑÐµÑ… Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ¾Ð², Ñ‡Ñ‚Ð¾ Ð¿Ð¾Ð²Ñ‹ÑˆÐ°ÐµÑ‚ Ð²ÐµÑ€Ð¾ÑÑ‚Ð½Ð¾ÑÑ‚ÑŒ ÑƒÑ‚ÐµÑ‡ÐºÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…. ÐœÑ‹ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼ Ð¿ÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° Ð±Ð¾Ð»ÐµÐµ Ð¿Ð¾Ð·Ð´Ð½ÑŽÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹ Android.
+Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€Ð°
+:
+Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð´Ð»Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¹ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð½Ð° Ð²Ð°ÑˆÐµÐ¼ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ðµ. Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑÑ Ð½ÐµÐ´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼ Ð¿Ñ€Ð¸ Ð´ÐµÐ¸Ð½ÑÑ‚Ð°Ð»Ð»ÑÑ†Ð¸Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ. ÐŸÑ€Ð¸ Ð¿ÐµÑ€ÐµÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð²Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÑ‚Ðµ Ð½Ð¾Ð²Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€.
+Ð”Ñ€ÑƒÐ³Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ:
+ÐŸÐ¾Ð¼Ð¸Ð¼Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ñ… Ð²Ñ‹ÑˆÐµ Ð»Ð¸Ñ‡Ð½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¸ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð², Ð½Ð°Ð¼Ð¸ Ð¸Ð»Ð¸ Ð½Ð°ÑˆÐ¸Ð¼ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ð¼ Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð¼ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ñ‚Ð°ÐºÐ¶Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…:
+Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¸Ð³Ñ€Ñ‹, Ð½Ð°Ñ‡Ð°Ð»Ð¾ Ð¸ Ð´Ð»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ ÑÐµÐ°Ð½ÑÐ°, Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€ÐµÐ¼Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¸Ð»Ð¸ Ð°ÐºÑ†Ð¸Ð¹, Ð¼Ð¾Ð´ÐµÐ»ÑŒ Ð¸ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°, Ð²ÐµÑ€ÑÐ¸Ñ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹, Ð¶ÑƒÑ€Ð½Ð°Ð»Ñ‹ ÑÐ±Ð¾ÐµÐ², Ð¾Ñ€Ð¸ÐµÐ½Ñ‚Ð°Ñ†Ð¸Ñ Ð¸ Ñ€Ð°Ð·Ð¼ÐµÑ€ ÑÐºÑ€Ð°Ð½Ð°, Ð³Ñ€Ð¾Ð¼ÐºÐ¾ÑÑ‚ÑŒ Ð·Ð²ÑƒÐºÐ°, Ð°ÐºÐºÑƒÐ¼ÑƒÐ»ÑÑ‚Ð¾Ñ€, ÑÐ·Ñ‹Ðº ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹ Ð¸Ð»Ð¸ Ð»Ð¾ÐºÐ°Ð»ÑŒÐ½Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸, Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ñ, Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð±Ð¸Ð»ÑŒÐ½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸, Ð²Ð°Ñˆ Ñ‡Ð°ÑÐ¾Ð²Ð¾Ð¹ Ð¿Ð¾ÑÑ, ÑÐ²Ð¾Ð±Ð¾Ð´Ð½Ð¾Ðµ Ð¼ÐµÑÑ‚Ð¾ Ð½Ð° ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ðµ, Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¸ Ð½Ð° Ð±Ð°Ð·Ðµ IP, Ð° Ñ‚Ð°ÐºÐ¶Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ð°Ñ†Ð¸Ð¸ Ð¸ Ð°Ñ‚Ñ€Ð¸Ð±ÑƒÑ†Ð¸Ð¸.
+ÐŸÐ¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°:
+Ð’ ÑÐ»ÑƒÑ‡Ð°Ðµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ Ð² Ð½Ð°ÑˆÑƒ ÑÐ»ÑƒÐ¶Ð±Ñƒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¼Ñ‹ Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÐ¼ Ð²Ð°ÑˆÐ¸ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ, Ñ‚Ð°ÐºÐ¸Ðµ ÐºÐ°Ðº Ð°Ð´Ñ€ÐµÑ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹ Ð¸ Ð´Ñ€ÑƒÐ³ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ, Ð¿Ñ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð½ÑƒÑŽ Ð´Ð»Ñ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°.
+ÐœÑ‹ Ñ…Ñ€Ð°Ð½Ð¸Ð¼ Ð¿Ñ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 12 Ð¼ÐµÑÑÑ†ÐµÐ². Ð­Ñ‚Ð¾ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð´Ð»Ñ Ð¾Ñ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¾Ð². ÐœÑ‹ Ð½Ðµ Ð¿ÐµÑ€ÐµÐ´Ð°ÐµÐ¼ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ð¼ Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°Ð¼Ð¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…. Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ð¼ Ð´Ð°Ð½Ð½Ñ‹Ð¼ ÐµÑÑ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ñƒ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð².
+ÐÐ°Ð¼ Ð½ÑƒÐ¶Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ´Ð°Ñ‚ÑŒ Ñ‡Ð°ÑÑ‚ÑŒ ÑÑ‚Ð¸Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð² Ð¿ÐµÑ€ÐµÑ‡Ð¸ÑÐ»ÐµÐ½Ð½Ñ‹Ðµ ÑÐ»ÑƒÐ¶Ð±Ñ‹:
+AWS:
+ÐœÑ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ Ð²ÐµÐ±-ÑÐ»ÑƒÐ¶Ð±Ñ‹ Amazon Ð´Ð»Ñ Ð½Ð°ÑˆÐµÐ¹ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€ÑƒÐµÐ¼Ð¾Ð¹ Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÐµÐ¹ Ð¸Ð½Ñ„Ñ€Ð°ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ñ‹. Amazon Ð´Ð°ÐµÑ‚ Ð³Ð°Ñ€Ð°Ð½Ñ‚Ð¸ÑŽ Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ð¸Ð»Ð¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð»ÑŽÐ±Ñ‹Ñ… Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…. Ð•Ð´Ð¸Ð½ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ Ð¸ÑÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ - ÑÑ‚Ð¾ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¸Ð· ÑÐ¾Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ð¹ Ð¾Ð±ÐµÑÐ¿ÐµÑ‡ÐµÐ½Ð¸Ñ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¸Ð»Ð¸ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ñ Ñ‚Ñ€ÐµÐ±Ð¾Ð²Ð°Ð½Ð¸ÑÐ¼ Ð·Ð°ÐºÐ¾Ð½Ð°. Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð´Ð°Ð½Ð½Ñ‹Ð¼ Ð¸Ð³Ñ€Ñ‹ Ð¸ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼ Ð·Ð°ÐºÐ°Ð·Ð¾Ð² Ð¸Ð¼ÐµÑŽÑ‚ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð°ÑˆÐ¸ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¸. Ð”Ð°Ð½Ð½Ñ‹Ðµ Ð¼Ð¾Ð³ÑƒÑ‚ Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ Ð¡Ð¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Firebase:
+ÐœÑ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ ÑÐ»ÑƒÐ¶Ð± Firebase ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ Google. Ð¡Ð»ÑƒÐ¶Ð±Ñ‹ Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÑŽÑ‚ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ðµ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹, Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹ Ids Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ. Ð”Ð°Ð½Ð½Ñ‹Ðµ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ ÑƒÐ´Ð°Ð»ÑÑŽÑ‚ÑÑ Ñ‡ÐµÑ€ÐµÐ· 14 Ð¼ÐµÑÑÑ†ÐµÐ² Ð¿Ð¾ÑÐ»Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ ÑÐµÐ°Ð½ÑÐ°. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ Ð¡Ð¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Google Analytics:
+Google Analytics Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€ÑƒÐµÑ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð¿Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¼Ð¸ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼ Ð¸ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼ ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€Ð¾Ð². Google Analytics ÑÐ¾Ð±Ð¸Ñ€Ð°ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¸Ð³Ñ€Ñ‹ Ð¸ Ð¿Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ð¸ Ð² Ð¸Ð³Ñ€Ðµ. Ð”Ð°Ð½Ð½Ñ‹Ðµ ÑƒÐ´Ð°Ð»ÑÑŽÑ‚ÑÑ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ñ‡ÐµÑ€ÐµÐ· 14 Ð¼ÐµÑÑÑ†ÐµÐ² Ð¿Ð¾ÑÐ»Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ ÑÐµÐ°Ð½ÑÐ°. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ Ð¡Ð¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Facebook Analytics:
+Facebook Analytics Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€ÑƒÐµÑ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð¿Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¼Ð¸ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼ Ð¸ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼ ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€Ð¾Ð². Google Analytics ÑÐ¾Ð±Ð¸Ñ€Ð°ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¸Ð³Ñ€Ñ‹ Ð¸ Ð¿Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ð¸ Ð² Ð¸Ð³Ñ€Ðµ. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ Ð¡Ð¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+FacebookSignIn:
+Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð²Ð¾Ð¹Ñ‚Ð¸ Ð² Ð¸Ð³Ñ€Ñƒ Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ ÑÐ²Ð¾ÐµÐ¹ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸ Facebook Ð¸ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ñ‚ÑŒ Ð¸Ð³Ñ€Ñƒ Ðº Facebook. ÐœÑ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ð¼ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ðº Ð²Ð°ÑˆÐµÐ¼Ñƒ Ð¸Ð¼ÐµÐ½Ð¸ Ð¸ Ð±ÑƒÐ´ÐµÐ¼ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Facebook Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸. ÐœÑ‹ Ð½Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÑÐµÐ¼ Ð¸Ð¼ÐµÐ½Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð½Ð° Ð½Ð°ÑˆÐ¸ ÑÐµÑ€Ð²ÐµÑ€Ð° Ð¸Ð»Ð¸ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ð¼ ÑÐ»ÑƒÐ¶Ð±Ð°Ð¼. ÐœÑ‹ Ð½Ðµ Ð±ÑƒÐ´ÐµÐ¼ Ð½Ð¸Ñ‡ÐµÐ³Ð¾ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ñ‚ÑŒ Ð½Ð° Ð²Ð°ÑˆÐµÐ¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð² Facebook.
+Unity Ads & Analytics:
+Unity Ads Ð¸ Unity Analytics Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€ÑƒÐµÑ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð¿Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼ Ð¸ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼ ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€Ð¾Ð². Ð¡Ð»ÑƒÐ¶Ð±Ð° ÑÐ¾Ð±Ð¸Ñ€Ð°ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¸Ð³Ñ€Ñ‹ Ð¸ Ð²Ð°ÑˆÐµÐ¼ Ð¿Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ð¸ Ð² Ð¸Ð³Ñ€Ðµ. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ Ð² Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¼ Ð² Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð¼ ÑÐ¾ÑŽÐ·Ðµ, Ð½Ð¾ Ñ‚Ð°ÐºÐ¶Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð¸ Ð·Ð° ÐµÐ³Ð¾ Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Tenjin:
+Tenjin - ÑÐ»ÑƒÐ¶Ð±Ð° Ð¾Ñ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ð½Ð¸Ñ Ð°Ñ‚Ñ€Ð¸Ð±ÑƒÑ†Ð¸Ð¸, Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÑŽÑ‰Ð°Ñ Ð½Ð°Ð¼ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ, Ð¾Ñ‚ÐºÑƒÐ´Ð° Ð¿Ñ€Ð¸Ñ…Ð¾Ð´ÑÑ‚ Ð½Ð¾Ð²Ñ‹Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸. Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€, IP-Ð°Ð´Ñ€ÐµÑÐ° Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¸Ð³Ñ€Ñ‹, Ð¿Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ð¸ Ð² Ð¸Ð³Ñ€Ðµ Ð¸ Ñ…Ð°Ñ€Ð°ÐºÑ‚ÐµÑ€Ð¸ÑÑ‚Ð¸ÐºÐ¸ Ð²Ð°ÑˆÐµÐ³Ð¾ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð² Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¼ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ Ð² Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð¼ ÑÐ¾ÑŽÐ·Ðµ, Ð½Ð¾ Ñ‚Ð°ÐºÐ¶Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð¸ Ð·Ð° ÐµÐ³Ð¾ Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+AppsFlyer:
+AppsFlyer - ÑÐ»ÑƒÐ¶Ð±Ð° Ð¾Ñ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ð½Ð¸Ñ Ð°Ñ‚Ñ€Ð¸Ð±ÑƒÑ†Ð¸Ð¸, Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÑŽÑ‰Ð°Ñ Ð½Ð°Ð¼ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ, Ð¾Ñ‚ÐºÑƒÐ´Ð° Ð¿Ñ€Ð¸Ñ…Ð¾Ð´ÑÑ‚ Ð½Ð¾Ð²Ñ‹Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸. Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€, IP-Ð°Ð´Ñ€ÐµÑÐ° Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¸Ð³Ñ€Ñ‹, Ð¿Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ð¸ Ð² Ð¸Ð³Ñ€Ðµ Ð¸ Ñ…Ð°Ñ€Ð°ÐºÑ‚ÐµÑ€Ð¸ÑÑ‚Ð¸ÐºÐ¸ Ð²Ð°ÑˆÐµÐ³Ð¾ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Iron Source:
+Iron Source - Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ Ð¸ ÑÐ»ÑƒÐ¶Ð±Ð° Ð¿Ñ€ÐµÐ¾Ð±Ñ€Ð°Ð·Ð¾Ð²Ð°Ð½Ð¸Ñ. Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Google AdMob:
+Google AdMob - Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+ÐŸÐ¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ¸ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹
+:
+Google AdMob Ð¿ÐµÑ€ÐµÐ´Ð°ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ñ€ÑƒÐ³Ð¸Ð¼ Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°Ð¼ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ñ… Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹. ÐœÑ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ Ð¾Ð±Ñ‰ÐµÑ€Ð°ÑÐ¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ð¹ Ð½Ð°Ð±Ð¾Ñ€ Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ¾Ð² Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ñ… Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹, ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ð½Ð° Ð¸Ñ… Ð²ÐµÐ±-ÑÐ°Ð¹Ñ‚Ðµ.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Facebook Ads:
+Facebook Audience Network - Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+AppLovin:
+AppLovin - Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+AdColony:
+AdColony - ÑÑ‚Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Tapjoy:
+Tapjoy - ÑÑ‚Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+Vungle:
+Vungle - ÑÑ‚Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+Snapchat:
+Snapchat - ÑÑ‚Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+InMobi:
+InMobi - ÑÑ‚Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+HyprMX:
+HyprMX - ÑÑ‚Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+MyTarget:
+MyTarget - ÑÑ‚Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+Chartboost:
+Chartboost - Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÑÐµÑ‚ÑŒ. ÐžÐ±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ Ð²Ð°Ñˆ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒÑÑ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+Zendesk:
+ÐœÑ‹ Ð¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼ÑÑ ÑƒÑÐ»ÑƒÐ³Ð°Ð¼Ð¸ Zendesk, Inc. Ð´Ð»Ñ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¾Ð² ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð² Ð¿Ð¾ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ðµ Ð¸Ð»Ð¸ Ð² ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐµÑ‚ÑÑ…. ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð¸ÑÑ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ð¼Ð¸ Ð•Ð²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð°.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ñ… Ð¿Ñ€Ð°Ð² Ð½Ð° ÑÑƒÐ±ÑŠÐµÐºÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…:
+Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð´Ð°Ð½Ð½Ñ‹Ð¼:
+Ð£ Ð²Ð°Ñ ÐµÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð»Ð¸Ñ‡Ð½Ñ‹Ð¼ Ð´Ð°Ð½Ð½Ñ‹Ð¼, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ñ‹ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð»Ð¸. ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ðº Ð½Ð°Ð¼, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð²Ð°ÑˆÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ.
+Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ…:
+Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²ÑÐµ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð¸Ð³Ñ€Ñ‹ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸, Ð½Ð°Ð¶Ð°Ð² ÐºÐ½Ð¾Ð¿ÐºÑƒ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð² Ð¼ÐµÐ½ÑŽ Bling Hub. ÐŸÑ€Ð¸ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð²ÑÐµ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹ ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€Ð¾Ð² ÑÑ‚Ð°Ð½Ð¾Ð²ÑÑ‚ÑÑ Ð½ÐµÐ´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼Ð¸. Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€/IDFA Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÐºÐ¾Ð½Ñ„Ð¸Ð´ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ Ð²Ð°ÑˆÐµÐ¹ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹. Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¸Ðµ Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð½Ð° Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÑƒ), Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¾Ð±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð½Ð°Ð¼.
+Ð ÐµÐºÐ»Ð°Ð¼Ð°Ñ†Ð¸Ð¸:
+Ð’Ñ‹ Ð¸Ð¼ÐµÐµÑ‚Ðµ Ð¿Ñ€Ð°Ð²Ð¾ Ð¿Ð¾Ð´Ð°Ñ‚ÑŒ Ð¶Ð°Ð»Ð¾Ð±Ñƒ Ð² Ð½Ð°Ð´Ð·Ð¾Ñ€Ð½Ñ‹Ð¹ Ð¾Ñ€Ð³Ð°Ð½.
+ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ...
+Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ† Ð¸ and Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…:
+Bling Bling Games GmbH
+MozartstraÃŸe 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Ð”Ð°Ñ‚Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ: 16Â oÐºÑ‚ÑÐ±Ñ€ÑŒ 2021Â Ð³.

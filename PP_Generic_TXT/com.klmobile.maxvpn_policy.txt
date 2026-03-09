@@ -1,0 +1,146 @@
+MaxVPN Privacy Policy And Term Of Service – Cùng dev
+Chuyển đến nội dung
+Cùng dev
+Cùng nhau chia sẻ kiến thức, cùng dev, cùng tiến lên
+Menu và các widget
+Trang chủ
+Android
+Các bài viết hướng dẫn từ (cực kỳ) cơ bản đến (cực kỳ) nâng cao về lập trình Android. Chúng có thể giúp bạn từ 1 người mới làm quen với lập trình trở thành 1 lập trình viên có thể tham gia các dự án thực tế. Các bài viết vẫn đang được cập nhật đều đặn theo thời gian. Hãy theo dõi nhé
+Android cơ bản
+Bao gồm các loạt bài hướng dẫn cơ bản, từ làm quen ngôn ngữ lập trình đến các vấn đề cơ bản của Android sdk. Tất cả sẽ có trong mục Android cơ bản này.
+Android nâng cao
+Loạt bài viết về phát triển ứng dụng Android cho những người đã có kinh nghiệm. Mình viết các bài chia sẻ tất cả những kiến thức mình có trong quá trình dev Android. Mong rằng sẽ giúp các bạn có thêm những kiến thức hay ho và bổ ích về Android
+Seri lập trình Kotlin cơ bản
+Loạt bài hướng dẫn về ngôn ngữ lập trình Kotlin dành cho những người mới bắt đầu làm quen với Kotlin. Loạt bài bao gồm 15 bài viết bao quát toàn bộ các khái niệm căn bản của Kotlin. Chúng sẽ giúp cho các bạn có được nền tảng để làm các dự án Android sau này.
+React Native
+Các bài viết hướng dẫn về React Native
+Chia sẻ
+Những bài viết chia sẻ tin tức mới, hoặc góc nhìn của tác giả, hoặc tài liệu hay cho mọi người.
+Góc nhìn
+Chia sẻ góc nhìn, suy nghĩ của tác giả về các vấn đề liên quan đến lập trình, công nghệ
+Giới thiệu
+Liên hệ
+Max Diary – Privacy and Policy
+MaxVPN Terms & Conditions
+KOLs.asia Policy
+About
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.
+Recent Comments
+PlayerUnknown's Battlegrounds
+trong
+Generics trong Java
+React Native bài 2: Text, Image và Button - Cùng dev
+trong
+React Native bài 1: Cài đặt React Native và viết ứng dụng đầu tiên
+Xây dựng ứng dụng chụp ảnh và filter camera trên Android (p2) - Cùng dev
+trong
+Xây dựng ứng dụng chụp ảnh và filter camera trên Android (p1)
+Kotlin Bài 8: Kế thừa trong Kotlin - Cùng dev
+trong
+Kotlin Bài 7: Lớp, thuộc tính và phương thức
+Kotlin Bài 7: Lớp, thuộc tính và phương thức - Cùng dev
+trong
+Kotlin Bài 3: Null Safety – Kiểm tra biến null an toàn trong Kotlin
+Tag Cloud
+Android
+Android Studio
+brooklyn
+fashion
+IDE
+IntelliJ IDEA
+Java
+Kotlin
+Kotlin cơ bản
+React Native
+seri
+Seri Kotlin
+seri React Native
+style
+Swift
+tutorial-filter
+women
+Chuyên mục
+Android nâng cao
+(8)
+Chưa được phân loại
+(1)
+Góc nhìn
+(1)
+Khác
+(1)
+React Native
+(2)
+Rx
+(2)
+Seri lập trình Java
+(5)
+Seri lập trình Kotlin cơ bản
+(8)
+Style
+(5)
+Uncategorized
+(3)
+Lưu trữ
+Tháng Mười Hai 2021
+(1)
+Tháng Sáu 2021
+(1)
+Tháng Ba 2019
+(2)
+Tháng Sáu 2018
+(1)
+Tháng Tư 2018
+(4)
+Tháng Ba 2018
+(4)
+Tháng Hai 2018
+(12)
+Tháng Mười Một 2015
+(1)
+Tháng Mười 2015
+(2)
+Tháng Một 2014
+(1)
+Tháng Mười Hai 2013
+(2)
+Tháng Tám 2013
+(2)
+MaxVPN Privacy Policy And Term Of Service
+These are the terms of service that you agree to by using the services of MaxVPN. It is only under these conditions that MaxVPN allows users to use its service. MaxVPN is not a service to be used for criminal acts. It is an Internet security and privacy service. You accept not to violate any law of any jurisdiction that you are originating from. It is user’s responsibility to know and comprehend any and all relevant laws related to any jurisdiction or venue that concerns you and your actions.
+MaxVPN will not be liable in any way or form for actions done by its users including criminal liability and civil liability for harm executed or not executed beyond any money paid to MaxVPN for its services by a specific individual.
+You agree to preserve your username/password and the MaxVPN system from unauthorized usage. You are responsible for every single action that occurs on MaxVPN where your username/password was used for establishing the VPN connection. You agree not to use our services for port scanning, sending spam, sending opt-in email, scanning for open relays or open proxies, sending unsolicited e-mail or any version or type of email sent in vast quantities even if the email is lastly sent off through another server. It is forbidden to launch any pop-ups from our service. You accept not to assault in any way or form any other Newsletterwork or computer while using our services.
+MaxVPN is intolerant about exploiting children photographically, digitally or in any other way.
+Ads Policy
+Ads
+MaxVPN does not contain deceptive or disruptive ads.
+Usage of Android Advertising ID
+Google Play Services version 4.0 introduced new APIs and an ID for use by advertising and analytics providers. Terms for the use of this ID are below.
+Usage
+. The Android advertising identifier must only be used for advertising and user analytics. The status of the “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting must be verified on each access of the ID.
+Association with personally-identifiable information or other identifiers
+. The advertising identifier must not be connected to personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) without explicit consent of the user.
+Respecting users’ selections
+. If reset, a new advertising identifier must not be connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user. Also, you must abide by a user’s “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting. If a user has enabled this setting, you may not use the advertising identifier for creating user profiles for advertising purposes or for targeting users with personalized advertising. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and security and fraud detection.
+Transparency to users
+. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our
+User Data
+policy.
+Abiding by the terms of use
+. The advertising identifier may only be used in accordance with these terms, including by any party that you may share it with in the course of your business. Beginning August 1st 2014, all updates and new apps uploaded to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes.
+Privacy Policy
+MaxVPN does not keep or store any logs about its users.
+Cookies – we may obtain information about your general Internet usage by using a cookie file, which is stored on your browser. Cookies are used by TEFINCOM S.A. and our marketing partners, affiliates, or analytics to analyze trends, administer the site, track user’s movements around the site and gather demographic information about our user base as a whole. No information is stored or collected that could reveal your identity. For more information about cookies, please visit http://en.wikipedia.org/wiki/HTTP_cookie.
+Fair And Reasonable Use
+You accept not to give or share your username and password to others.
+MaxVPN, its owners, employees, agents and others that are involved with the MaxVPN services are not in any way or form liable for any harm of any sort executed or not executed, resulting from or arising through or from the use of any account registered with MaxVPN services.
+MaxVPN does guarantee a 99.9% server uptime. In any event, MaxVPN will never be liable for any monetary harm beyond what the client paid to MaxVPN, and this shall not include attorney fees or court costs irrespective of any laws or statutes that may be treated otherwise. That is our binding agreement when you accept these terms of service.
+Prohibited Activities
+Criminal Activity: MaxVPN account will be terminated for any client who commits any of these criminal actions in or through our service using our resources: use of stolen credit cards, credit card fraud, PayPal fraud, bank fraud, e-gold fraud, Paysera fraud, WebMoney fraud, Bitcoin fraud, mail fraud, extortion, blackmail, kidnapping, rape, murder, sale of stolen credit cards, sale of stolen goods, sending email or operating websites to perform identity theft, hacking, pharming, phishing, or spamming of any form. In addition, MaxVPN forbids web scraping through its service in any form or scale.
+That is the whole agreement. MaxVPN may rewrite the terms of service from time to time. The terms of service become binding from the time it is updated on our website. It is the responsibility of the client to check for the new Terms of Service periodically.
+MaxVPN can terminate any user account for violating terms of service instantly without refund and notice or suspend the account until clarification, investigation or the user comment. If your account has been suspended, you must contact us in order to see if the case can be rectified. We shall wait a reasonable period of time before we close a user account permanently and shut down all billing.
+Logging Policy
+MaxVPN guarantees a strict no-logs policy of their VPN service, meaning that your activities using privacy solutions created by MaxVPN are not monitored, recorded, logged, stored or passed to any third party. We do not store connection time stamps, session information, used bandwidth, traffic logs nor IP addresses. In order to maintain the VPN service, the MaxVPN website does collect limited personal user information and site performance data (see Privacy Policy for more details).
+With that said, MaxVPN does not endorse any criminal activity perpetrated by using the Service. Therefore, MaxVPN reserves the right to suspend or terminate an account in case any violation of the Terms of Service becomes apparent. As MaxVPN protects and respects customer privacy, it does not log or track their activity in any way. However, in the eventuality that MaxVPN would find out about an offense outside of those means (i.e., a customer would notify MaxVPN of them having done so), it would have the right to suspend or terminate the account.
+Acceptance Of Terms
+By logging in to or using any MaxVPN service, you agree to the MaxVPN Terms of Service including all other policies incorporated by reference.
+Tự hào được phát triển từ WordPress

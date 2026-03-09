@@ -1,0 +1,1636 @@
+Privacy Policy | OPPO Global
+Smartphones
+Smartphones
+OPPO Find N2 Flip
+New
+OPPO Find X5 Pro
+OPPO Reno10 Pro+ 5G
+New
+OPPO Reno10 Pro 5G
+New
+OPPO Reno10 5G
+New
+OPPO A38
+New
+Find N Series
+Find X Series
+Reno Series
+A Series
+Compare
+View All Phones
+Tablets
+Tablets
+OPPO Pad 2
+New
+OPPO Pad Air
+View Tablets
+Audio
+Audio
+OPPO Enco Air3
+New
+OPPO Enco X2
+OPPO Enco Buds2
+OPPO Enco Air2
+OPPO Enco Free2
+OPPO Enco Buds
+OPPO Enco Air
+View Audio
+Wearables
+Wearables
+OPPO Watch Free
+OPPO Watch
+OPPO Band
+View Wearables
+Routers
+Routers
+OPPO 5G CPE T2
+OPPO 5G CPE T1a
+OPPO 5G CPE Omni
+View Routers
+About OPPO
+About OPPO
+Our Story
+OPPO imagine IF
+OPPO 5G
+News
+Events
+ColorOS
+ColorOS
+ColorOS 13 Official Website
+Rollout Timeline
+Community
+Support
+{{userInfo.name}}
+{{userData.txtSignUp}}
+{{userData.txtSigniIn}}
+{{userData.txtLogOut}}
+{{userData.textOrder}}
+{{userData.txtUser}}
+{{userData.txtMember}}
+{{ memberData.levelName }}
+{{userData.textDownLoad}}
+{{dataCart.txtYourCart}} (
+{{dataList.cartItems.length}}
+)
+{{dataCart.txtStock}}
+{{item.attachment.productDisplayName || item.displayName}}
+{{productType(item.attachment.skuSelectOptions)}}
+{{filterStock(item.salesStatus, item.stockStatus)}}
+x{{item.qty}}
+{{dataList.symbol}}{{item.originPrice}}
+{{dataList.symbol}}{{item.nowPrice}}
+{{list.displayName}}
+{{filterStock(list.salesStatus, list.stockStatus)}}
+x{{list.qty}}
+{{dataList.symbol}}{{list.originPrice}}
+-{{dataList.symbol}}{{list.nowPrice}}
+{{item.evaluateOrder.productName}}
+-{{dataList.symbol}}{{item.evaluateOrder.tradeInDiscount}}
+{{showAllFlag ? dataCart.txtCollapseAll : dataCart.txtViewAll}} ({{ outOfStorck }})
+Total
+{{dataList.symbol}}{{dataList.subtotalPrice}}
+You are
+{{dataList.symbol}}{{dataList.freeLimit}}
+away from free shipping.
+{{dataCart.txtViewCart}}
+{{dataCart.txtCheckOut}}
+{{dataCart.txtYourCart}} (0)
+{{dataCart.txtSign}}
+{{dataCart.txtEmpty1}}
+{{dataCart.txtEmpty2}}
+{{dataCart.txtShopping}}
+{{item}}
+Quick Links
+{{item}}
+{{baseData.historyTitle}}
+{{decodeURI(item)}}
+Smartphones
+OPPO Find N2 Flip
+New
+OPPO Find X5 Pro
+OPPO Reno10 Pro+ 5G
+New
+OPPO Reno10 Pro 5G
+New
+OPPO Reno10 5G
+New
+OPPO A38
+New
+Find N Series
+Find X Series
+Reno Series
+A Series
+OPPO Find N2 Flip
+OPPO Find X5 Pro
+OPPO Reno10 Pro+ 5G
+OPPO Reno10 Pro 5G
+OPPO Reno10 5G
+OPPO A38
+Compare
+View All Phones
+Tablets
+OPPO Pad 2
+New
+OPPO Pad Air
+OPPO Pad 2
+OPPO Pad Air
+View Tablets
+Audio
+OPPO Enco Air3
+New
+OPPO Enco X2
+OPPO Enco Buds2
+OPPO Enco Air2
+OPPO Enco Free2
+OPPO Enco Buds
+OPPO Enco Air
+OPPO Enco Air3
+OPPO Enco X2
+OPPO Enco Buds2
+OPPO Enco Air2
+OPPO Enco Free2
+OPPO Enco Buds
+OPPO Enco Air
+View Audio
+Wearables
+OPPO Watch Free
+OPPO Watch
+OPPO Band
+OPPO Watch Free
+OPPO Watch
+OPPO Band
+View Wearables
+Routers
+OPPO 5G CPE T2
+OPPO 5G CPE T1a
+OPPO 5G CPE Omni
+OPPO 5G CPE T2
+OPPO 5G CPE T1a
+OPPO 5G CPE Omni
+View Routers
+About OPPO
+Our Story
+OPPO imagine IF
+OPPO 5G
+News
+Events
+Our Story
+OPPO imagine IF
+OPPO 5G
+News
+Events
+Our Story
+OPPO imagine IF
+OPPO 5G
+News
+Events
+ColorOS
+ColorOS 13 Official Website
+Rollout Timeline
+ColorOS 13 Official Website
+Rollout Timeline
+ColorOS 13 Official Website
+Rollout Timeline
+Community
+Support
+{{userInfo.name}}
+{{userData.txtSignUp}}
+{{userData.txtSigniIn}}
+{{userData.txtLogOut}}
+{{userData.textOrder}}
+{{userData.txtMember}}
+{{ memberData.levelName }}
+{{userData.txtUser}}
+{{userData.textDownLoad}}
+{{dataCart.txtYourCart}} (
+{{dataList.cartItems.length}}
+)
+{{dataCart.txtStock}}
+{{item.attachment.productDisplayName || item.displayName}}
+{{productType(item.attachment.skuSelectOptions)}}
+{{filterStock(item.salesStatus, item.stockStatus)}}
+x{{item.qty}}
+{{dataList.symbol}}{{item.originPrice}}
+{{dataList.symbol}}{{item.nowPrice}}
+{{list.displayName}}
+{{filterStock(list.salesStatus, list.stockStatus)}}
+x{{list.qty}}
+{{dataList.symbol}}{{list.originPrice}}
+-{{dataList.symbol}}{{list.nowPrice}}
+{{item.evaluateOrder.productName}}
+-{{dataList.symbol}}{{item.evaluateOrder.tradeInDiscount}}
+{{showAllFlag ? dataCart.txtCollapseAll : dataCart.txtViewAll}} ({{ outOfStorck }})
+Total
+{{dataList.symbol}}{{dataList.subtotalPrice}}
+You are
+{{dataList.symbol}}{{dataList.freeLimit}}
+away from free shipping.
+{{dataCart.txtViewCart}}
+{{dataCart.txtCheckOut}}
+{{dataCart.txtSign}}
+{{dataCart.txtEmpty1}}
+{{dataCart.txtEmpty2}}
+{{dataCart.txtShopping}}
+Cancel
+{{item}}
+Quick Links
+{{item}}
+{{baseData.historyTitle}}
+{{decodeURI(item)}}
+Your privacy and security
+How we protect your privacy
+Manage your privacy
+Privacy Notice
+Your privacy and security is important to us
+We believe that your privacy is as important as our product quality. We treat your privacy as the
+                    security
+                    baseline of our products. From the beginning of designing a product, we lay emphasis on the
+                    protection of
+                    personal privacy, and require privacy protection throughout the process of product research and
+                    development.
+                    All your personal information stored on your mobile phone, including photos, SMS, contacts, chat
+                    histories,
+                    visited website information and information stored on the Cloud Service will be properly protected.
+                    You will
+                    be explicitly informed of all permissions to be obtained from your mobile phone and the methods
+                    employed to
+                    collect your personal data. In addition, where indicated, your explicit consent must be obtained.
+                    You can
+                    actively control your personal content and information that are shared.
+We try our best to ensure
+the security of your personal data
+Your personal information is protected by encryption during transfer and storage. For
+                            example, when you
+                            use the Cloud Service, we adopt industry-leading cloud storage technologies and disaster
+                            recovery
+                            strategies that ensure your data is appropriately protected. We adopt industry mainstream
+                            encryption
+                            algorithms to ensure that your data can only be stored and transferred after encryption. No
+                            one can view
+                            your data except yourself.
+We only
+collect the minimum amount of data
+In order to provide you with the necessary services or personalized user experiences, we
+                            need to collect
+                            and use some of your information. This may include your account number, device ID, phone
+                            number, etc.
+                            However, please rest assured that all our products must go through a privacy compliance
+                            review at the
+                            beginning of the design process. For information collection, we only allow products to
+                            collect the minimum
+                            information required for the purpose of that product's business functions. In addition, for
+                            personalized
+                            user experiences your explicit consent will be required in order to collect the information.
+Your
+personal data
+Whether you are taking photos, sending SMS, or using the Cloud Service, we will never
+                            disclose or sell
+                            your data to any third-party organization without your permission.
+You can
+manage your personal data at any time
+Only after being authorized by you in advance can an app installed on your OPPO device
+                            access your
+                            information, such as photos and contacts. You can control the permissions requested by an
+                            installed app,
+                            separately allowing an app to use some permissions or blocking the app from using a
+                            particular permission.
+                            For example, you can block an app from accessing and obtaining your personal data, such as
+                            contacts, SMS,
+                            and location data. Before being authorized, the app is unable to access these protected
+                            resources and data
+                            in your device.
+We are committed to
+protecting your privacy
+How We Protect Your Privacy
+Learn more
+Manage Your Privacy
+Learn more
+Privacy Policy
+Learn more
+If you have any questions or doubts about our Privacy Policy or practice, please contact us
+                            at the
+                            following
+address: 18 Haibin Road, Wusha, Chang'an Town, Dongguan, Guangdong, China
+Email:
+privacy@oppo.com
+How we protect your privacy
+The security of your personal information is important to us. Therefore, we are striving to develop
+                    a variety
+                    of products to ensure the security of your personal information throughout the product life cycle.
+Secure keyboard
+The system automatically switches to the OPPO Secure Keyboard when you need to enter
+                                    sensitive
+                                    information and connect to the Internet, or autocomplete words. This ensures that
+                                    your sensitive
+                                    information remains private.
+Protection against unauthorized access
+Protect your information from being leaked. Any access by an app to your call
+                                    history, contacts,
+                                    messages, and schedules requires your prior approval. Where no approval is given,
+                                    the respective
+                                    function will either be blocked or blank information is provided.
+Private Safe
+You can move photos, videos, audio and documents into the Private Safe, edit the
+                                    title by touching and
+                                    holding the album or file, and view private files after confirming your access
+                                    privilege through the
+                                    privacy password. This can help prevent the leaking of important personal files and
+                                    private data.
+Prevent Background Recordings or Audio/Image
+Even if you have generally granted an app the permission to use your microphone, you
+                                    will be prompted
+                                    via the status bar or any use of your microphone by an app running in the
+                                    background. When a
+                                    background app wants to use the camera, you will be requested to grant permission.
+Screenshots & Screen Recordings Prevention
+If you activate this feature, the system will block screenshots and screen
+                                    recordings when you use
+                                    functions that relate to your private information such as the Secure Keyboard and
+                                    Private Safe. The
+                                    screenshot action will then be intercepted, and you will be notified of such
+                                    blocking. The screen
+                                    recording action will only show a blank, black screen.
+Payment Protection
+During your payment process with an OPPO mobile phone, we will run automated checks
+                                    on the URLs
+                                    accessed when using the OPPO browser, as well as URLs contained in received
+                                    messages. This is to
+                                    recduce risks to your secure payments.
+App Lock
+Before enabling App lock, you need to set the privacy password first. When the app
+                                    is launched, you
+                                    can access the app only when you enter the correct privacy password, or use
+                                    fingerprint or facial
+                                    verification. After App Lock is enabled, the incoming notifications will be hidden
+                                    by default, and you
+                                    can view them only when you pass the identity verification. You can also choose the
+                                    lock timing, so
+                                    that if you choose "no verification before locking the screen", you won't need to
+                                    verify your identity
+                                    before the next time the screen locks, which is more convenient.
+OPPO App Market
+You can browse, download, install, update, and uninstall apps through the Oppo App
+                                    Market. These apps
+                                    are uploaded by developers. Any upload of an app musst pass an Oppo test where Oppo
+                                    provides a
+                                    security labal based on security scan reports and reported entries on the resource
+                                    details page. Users
+                                    can report any advertisements, paid features, viruses and other unsafe content in
+                                    the app at any time.
+                                    The App Market tightly controls app permissions. You can view which permissions are
+                                    used on the
+                                    details page of each app. This will help you clearly know which permissions are used
+                                    by the app.
+Manage your privacy
+OPPO provides a variety of tools and funtions to help you improve your privacy and manage it more
+                    conviniently
+Your priacy management tool
+3D facial recognition
+3D face recognition is a type of biometric identification technology that uses
+                                artificial intelligence
+                                to verify your identity based on the 3D recognition of your face. You can use this 3D
+                                facial recognition
+                                to verify your identity and unlock the device. In addition to traditional facial
+                                information, 3D face
+                                recognition also performs a 3D scan of the face to extract three-dimensional features
+                                such as contours
+                                and skin texture on a living object. This provides a higher level of biometric
+                                recognition. 3D facial
+                                recognition adopts secure image acquisition technology. The whole process, from image
+                                acquisition to
+                                feature extraction/matching, as well as unique features information storage is carried
+                                out in a
+                                completely isolated, secure and trusted environment. The unique features information is
+                                always encrypted
+                                by chip-level encryption algorithms to ensure that your personal identity information
+                                will not be
+                                intercepted, leaked or distorted.
+Fingerprint unlock
+Fingerprints are inherent physiological features of the human body, and are
+                                characterized by uniqueness
+                                and lifelong invariance. After the personal fingerprint information is extracted through
+                                the enrolling
+                                operation, it will be saved to the secure zone of the device through a powerful
+                                encryption algorithm.
+                                When unlocking the device, the fingerprint image is obtained when you lightly press the
+                                fingerprint
+                                icon/sensor, and this will then be comprehensively compared with the saved fingerprint
+                                information. The
+                                correct finger will unlock the device successfully. All the above steps are run in the
+                                TrustZone, a
+                                secure and isolated environment, and will not be affected by other Android apps.
+We protect your account
+Account registration
+When you register an account, you are required to use a strong password with a length of
+                                at least 6
+                                characters (up to 16 characters), and the password needs to contain two of the following
+                                options:
+                                numbers, letters or symbols. This means you can use your account more conveniently and
+                                safely.
+Account login
+In order to ensure the security of your account, two-factor authentication is required
+                                when you login on
+                                an unfamiliar device/new device. You can also verify the security of your account
+                                through the device
+                                that is already logged in to make your account more secure.
+Login history
+The login status of your account on other devices will be synced to your current device,
+                                allowing you to
+                                keep track of the security status of the account in real time. You can also remove
+                                devices that are
+                                logged in to the account.
+Manage your privacy
+Cloud Service
+Cloud Service uses industry-leading cloud storage technology, disaster recovery
+                                strategies and
+                                encryption algorithms to ensure the safety of your data,it also takes multiple
+                                protection measures to
+                                ensure that personal information is not stolen.No one but you can see your data stored
+                                in the cloud.
+Data and privacy management platform
+In order to give you more control over your personal information, we are gradually
+                                introducing on the
+                                account page a set of tools dedicated to your privacy management. With these tools, you
+                                can access,
+                                request data correction, obtain a copy of your personal data, and disable or delete your
+                                account.
+Visit your "Data and Privacy
+                                    Management Platform"
+Privacy Notice
+Last updated: 15 December 2021
+To help you understand how we process your personal data, we have prepared a brief summary of our
+                    Privacy
+                    Notice. For more details, please see the full version of the Privacy Notice below. We recommend that
+                    you also
+                    read the full version of the Privacy Notice so that you fully understand how we handle your personal
+                    data and
+                    what options and rights you have in relation to your personal data.
+Key Points
+Summary
+Who is responsible for collecting and using your data?
+Generally, OPPO is responsible for collecting and using your personal data. However, to
+                                the extent you
+                                are in Europe, the controller of your personal data is OROPE Germany GmbH.
+Data we use
+We process data about you that you directly provide to us or that we collect when you
+                                use our
+                                Services. We may also receive personal data about you from third parties.
+What we use it for
+We will use your personal data only when we have a lawful basis to do so, such as the
+                                performance of
+                                contract to provide you with Services, for our legitimate interest, with your consent or
+                                to comply with
+                                our legal obligations.
+We may also process your personal data when you participate in promotional activities
+                                such as prize
+                                draws.
+How long we keep your data
+We will not keep your personal data for longer than we need it. In most cases, we will
+                                keep your
+                                personal data only for as long as necessary to use it for the purposes that we tell you
+                                about.
+                                Sometimes, though, the law requires us to keep it for longer.
+Marketing
+We may send you information about Services or offers that you may be interested in. If
+                                we need your
+                                consent to do that, we will only do so with your consent and you can opt out of such
+                                marketing
+                                communications at any time.
+Sharing your personal data with third parties
+We may share your personal data with other companies that are controlled by, or under
+                                common control
+                                with us, third parties such as our business partners and service providers or where we
+                                are required to
+                                do so by law. We will ensure that our business partners and service providers are
+                                subject to appropriate
+                                data protection obligations.
+Security
+We take the security of your data very seriously. We have implemented various technical
+                                and
+                                organisational measures to protect your personal data.
+Your rights
+Some data protection laws may grant you rights in relation to your personal data,
+                                including, for
+                                example, the right:
+• to be informed of how we process your personal data;
+• to access the personal data we hold about you and information about their
+                                processing;
+• to request that we delete or update inaccurate personal data; or
+• to complain to the relevant regulator if you think that we have infringed any of your
+                                rights.
+If you are living in Europe, you will have specified rights further outlined in this
+                                Privacy Notice.
+Children
+Our Services are aimed at users who are at least 18 years old. We try not to collect and
+                                use
+                                children’s data.
+International transfer
+We are a global business, so we may transfer your personal data to other countries. We
+                                will ensure
+                                that we abide by storage localisation requirements and put appropriate legal safeguards
+                                in place for
+                                such transfers.
+Updates
+We may update this Privacy Notice from time to time and will notify you of any updates
+                                in an adequate
+                                manner.
+Contact us
+If you have any questions, you can contact us at
+https://www.oppo.com/en/privacy-feedback/
+.
+Privacy Notice
+This Privacy Notice describes how we collect, use, disclose, transfer, store and otherwise
+                        process
+                        your
+                        personal data when you are using our services, including our websites, our smartphones or
+                        wearable
+                        devices,
+                        apps, online services and other products (hereinafter collectively referred to as
+"Services")
+. Please read the
+                        Privacy Notice carefully and familiarise yourself with our privacy practices before using our
+                        Services or
+                        providing your personal data.
+In addition to this Privacy Notice, specific privacy notices might apply depending on the
+                        Services used. We will, in each case, provide you with the applicable privacy
+                        notice.
+The general provisions of Section A shall apply to you, regardless of your location. Section B
+                        only applies to customers located in the European Union, Liechtenstein, Norway, the United
+                        Kingdom or Switzerland ("
+Europe
+").
+This Privacy Notice will help you understand the following:
+A. General Provisions
+I     Responsibilities
+We operate and offer our Services globally. However, our Services partially
+                                        differ depending on
+                                        where you live.
+• OROPE Germany GmbH as Controller:
+If you live in Europe,
+                                        OROPE Germany GmbH, a
+                                        company
+                                        incorporated in Germany whose registered address is Graf-Adolf-Platz 15, 40213
+                                        Düsseldorf, is solely
+                                        responsible for any processing of your personal data, as described in this
+                                        Privacy Notice.
+• In general, OPPO is responsible for and controls the processing of your
+                                        personal data with respect
+                                        to personal data collected by the Services outside of Europe, and is committed
+                                        to protecting and
+                                        respecting your privacy. To the extent that personal data localisation
+                                        requirements apply, we will
+                                        comply with these requirements. If you would like to better understand how we
+                                        process your personal
+                                        data in your jurisdiction, please contact us using the
+"Contact Us"
+section.
+The terms
+"OPPO"
+,
+"we"
+and
+"us"
+therefore refer to either OROPE Germany GmbH or the
+                                        relevant entity, depending
+                                        on where you live.
+Please note that, in relation to aftersales-services, we work
+                                        with authorised
+                                        exclusive distributors. These authorised exclusive distributors are responsible
+                                        for the processing
+                                        of personal data that you provide to them in connection with your requested
+                                        customer service, or in
+                                        connection with their marketing activities.
+II     How We Collect Personal Data and What Types
+                                of
+                                Personal Data We Collect
+The term personal data is broadly defined and means any
+                                        information relating to
+                                        an identified or identifiable individual. This means that not only the data
+                                        that, for example,
+                                        identifies you directly, such as your name or address, is personal data but also
+                                        other data, which
+                                        when combined with other information accessible to us, enables us to link that
+                                        data to you, for
+                                        example, an IP address.
+Our channels for collecting personal data include: 1. personal
+                                        data that you
+                                        provide to us directly; 2. personal data that we automatically obtain when you
+                                        interact with our
+                                        Services, such as information on your interactions with our Services or us,
+                                        and/or; 3. personal data
+                                        that we obtain about you from third parties.
+The personal data we collect depends on the environment in
+                                        which you interact
+                                        with us and the choices you make, including your privacy settings and the
+                                        features and Services you
+                                        use.
+1. Personal Data Directly Provided by You
+You may provide personal data to us directly, in which case
+                                        you are generally
+                                        free to choose which personal data you want to provide to us. However, if some
+                                        personal data is
+                                        required for the performance of our Services and you choose not to provide that
+                                        personal data, we
+                                        may not be able to provide you with the Services you requested. Personal data we
+                                        directly collect
+                                        from you may, for instance, include the following:
+• If you order Services from us, or use a paid
+                                            Service:
+We may
+                                        collect your
+                                        delivery details, bank account number, credit card details, billing address and
+                                        other financial
+                                        information relating to the transaction, order number, name and contact details,
+                                        information about
+                                        purchase/return/refund requests or other requests and any other communication
+                                        records, so we can
+                                        process your order.
+• When you follow our social media accounts or
+                                            interact with us in
+                                            any other
+                                            way:
+We may collect your profile information, the content and
+                                        details of the timing of
+                                        the
+                                        communication exchanged or other personal data as required to respond to your
+                                        request. The data we
+                                        receive is dependent on your privacy settings with the social
+                                        network.
+• When you share
+                                            content
+                                            with others:
+Some of our Services allow you to communicate and
+                                        share content with others.
+                                        The
+                                        communicated or shared content shall be transmitted through and stored in our
+                                        system.
+•
+                                            When you
+                                            sign up for our User Experience Program:
+When participating in this
+                                        program, we may
+                                        collect your
+                                        device information (device identification data, configuration data, system and
+                                        app data, advertising
+                                        ID, IP address and time zone), your usage data (such as product function usage
+                                        statistics, product
+                                        upgrade statistics and data about app installation, uninstallation and error
+                                        logs), information
+                                        about the location of your device (to the extent you allow such location tracking separately; you may disable the collection of location data at any time via device level setting) and
+                                        your log information (such as the time and duration for which the service was
+                                        used, any search terms
+                                        that were entered using the service and information about device and software
+                                        events such as
+                                        reboots, upgrades, errors and crashes). This program may require a network
+                                        connection, and some data
+                                        can only be uploaded over Wi-Fi.
+• We may ask you to provide personal
+                                            data or collect it
+                                            under
+                                            other circumstances such as in connection with marketing:
+Such
+                                        activities include when
+                                        you enter
+                                        prize draws, use coupons or enter other competitions, participate in promotional
+                                        or marketing
+                                        activities organised by us or our business partners on our behalf, complete
+                                        questionnaires or
+                                        participate in user forums or blogs hosted by us or our business partners. To
+                                        this extent, we may
+                                        ask you to provide personal data such as your name, address, email address,
+                                        phone number and other
+                                        personal data as indicated in connection with such activities.
+• When
+                                            you subscribe to
+                                            our
+                                            newsletters:
+We may collect your name, email address and
+                                        information on how you interact
+                                        with our
+                                        promotional communication (such as whether or not you have opened the email or
+                                        tapped on an
+                                        accompanying link).
+• In some jurisdictions we may be required to
+                                            conduct real name
+                                            authentication for certain Services you might use:
+In such a case,
+                                        we will also collect
+                                        your full
+                                        name and details of your government-issued ID. If you refuse to provide such
+                                        personal data we may
+                                        not be able to provide you with the corresponding Services.
+2. Personal Data We Automatically Collect About Your
+                                            Use of Our
+                                            Services
+In addition to the personal data you provide yourself, we may
+                                        also automatically
+                                        collect information about your use of our Services, particularly when you are
+                                        using your device. The
+                                        personal data we may collect includes the following:
+• Device
+                                            information:
+This
+                                        may
+                                        include the device name, device model, region and language settings, device
+                                        identification number
+                                        (IMEI number), device hardware information and status, IP address, MAC address,
+                                        operating system
+                                        version and the settings of the device used to access the Service.
+•
+                                            Log
+                                            information:
+This may
+                                        include when and how long the Service is used, search terms entered through the
+                                        Service and the
+                                        device error logs. The Android system on your smartphone and/or wearable is
+                                        designed in such a way
+                                        that your error or crash log will contain information collected at the time of
+                                        the event, which
+                                        allows us to analyse the reasons for the crash. Such information may sometimes
+                                        include your personal
+                                        data, such as phone number, email address, Google account or Facebook account.
+                                        However, we have
+                                        implemented security measures to ensure that this information is used only for
+                                        error log analysis
+                                        and not for personal identification or other purposes.
+• Location
+                                            information:
+This may include
+                                        the GPS signal of the device or information about Wi-Fi access points and base
+                                        stations near you, or
+                                        the device location ID and network service provider ID when you access some
+                                        location-based services
+                                        (for example when you use the weather app). We will ask you if you want to
+                                        enable location-based
+                                        services for each of the various location-based apps. You can disable the
+                                        location settings of your
+                                        device from the device settings. If you disable location information, the
+                                        functionalities of the
+                                        apps that use location information to provide Services to you may be
+                                        impaired.
+•
+                                            Camera:
+To
+                                        ensure the camera app functions properly, we collect operational data (such as
+                                        how many times you
+                                        use the app and the number of photos taken), information about the photos taken
+                                        (such as the
+                                        photosensitivity and number of faces captured) and information about the
+                                        available space left on
+                                        your mobile phone.
+• Other information about your use of the
+                                            Service:
+This may
+                                        include the
+                                        version of the app or browser type being used, language settings, IP address,
+                                        device type, IMEI,
+                                        websites visited and how you interact with content provided through the Service.
+Please also see the Section
+"How We Use Cookies and Similar
+                                                Technologies"
+below
+                                        for further information on personal data that we automatically collect via
+                                        cookies and other
+                                        tracking technology when you visit our website.
+3. Personal Data We Obtain From Third Parties
+We may obtain personal data about you from third parties. For
+                                        example, where
+                                        permitted by law, we may obtain data about you from public or commercial
+                                        sources, including your
+                                        activity on social networks you use, and may combine it with other information
+                                        received from you or
+                                        relevant to you. In particular, if you interact with us through a social media
+                                        site or third-party
+                                        service, such as when you like, follow or share OPPO content on Facebook,
+                                        Twitter or other sites, we
+                                        may receive information from the social network, including your profile
+                                        information, picture, user
+                                        ID associated with your social media account and any other information you
+                                        permit the social network
+                                        to share with third parties.
+4. Types of Data Processed Locally on Your
+                                            Device
+For the avoidance of doubt and to ensure transparency about
+                                        the
+                                        processing of data, please note that the data set out in this section will only
+                                        be collected and
+                                        processed locally on your device and not uploaded to our servers. Therefore, we
+                                        will neither
+                                        access, collect nor otherwise process such data, nor will we be able to disclose
+                                        this information
+                                        to any third party or use it for any other purpose. This also means that this
+                                        data processing is
+                                        done by you only and is thus not subject to this Privacy Notice. If you want to
+                                        exercise your
+                                        rights in relation to such data or would like to modify or delete it, we will
+                                        not be able to
+                                        support you, except to provide information on how you can handle your data
+                                        yourself.
+• When you use facial and fingerprint
+                                            recognition:
+These
+                                        functionalities
+                                        enable rapid unlocking of your device with your pre-recorded facial or
+                                        fingerprint information. To
+                                        activate this function, you will need to provide your facial information or your
+                                        fingerprint
+                                        information captured from different angles. This type of information will be
+                                        encrypted and stored
+                                        using a unique secret key.
+• Photos information:
+The
+                                        "Photos" app uses local
+                                        image and video
+                                        recognition algorithms on your device to enable you to organise your photos and
+                                        videos. If you allow
+                                        the app to use your location information, the device will record latitude and
+                                        longitude information
+                                        for your photo and video files. If you do not want to record your location when
+                                        you take a photo,
+                                        you can disable this feature at any time in your device's settings. When you
+                                        search for a picture,
+                                        the device's technology will identify photos that match the search terms,
+                                        allowing you to quickly
+                                        view relevant photos.
+5. Other Non-personal Data
+Non-personal data refers to information which cannot be
+                                        directly or indirectly
+                                        associated with any specific individual. We may process aggregated or otherwise
+                                        anonymised data.
+We collect non-personal data to understand users' preferences,
+                                        improve our
+                                        operational efficiency and optimise our websites and your product experience. If
+                                        the non-personal
+                                        data is combined with personal data, all such data will be treated as personal
+                                        data.
+III    How We Use Your
+                                Personal Data
+1. We will use your personal data for the following purposes:
+• to provide you with OPPO's Services, process your orders or
+                                        fulfil the
+                                        contract between you and OPPO;
+• to activate Services you have purchased,
+                                        your warranty service
+                                        and specific software licenses and provide notifications for software
+                                        updates;
+• to diagnose
+                                        product issues and provide other customer care and support Services;
+• to
+                                        conduct customer
+                                        surveys in order to enhance your user experience and improve our Services along
+                                        with their security
+                                        features;
+• to analyse the customer market on the basis of the country where
+                                        the users use our
+                                        Services;
+• to analyse the efficiency of our business operations;
+• to
+                                        analyse error logs to
+                                        improve phone quality and app functions;
+• to provide you with personalised
+                                        Services and to
+                                        recommend and display content and advertisements tailored to you through our
+                                        Services;
+• to allow
+                                        and manage your participation in prize draws, contests or similar promotional
+                                        activities held by
+                                        us;
+• to communicate with you and reply to your questions or comments
+                                        submitted through email or
+                                        our online platforms, including social media accounts;
+• to ensure the
+                                        functionality and safety
+                                        of our Services, verify your identity, conduct internal auditing and prevent and
+                                        investigate fraud,
+                                        cybersecurity threats or other improper use;
+• to enhance and develop our
+                                        Services, so as to
+                                        improve the product usage experience, user-friendliness, operational
+                                        performance, functions and
+                                        design;
+• to pursue or defend against legal claims;
+• to comply with our
+                                        legal obligations.
+2. When we want to use the personal data for other purposes
+                                        not covered by this
+                                        Privacy Notice, we will inform you thereof and ensure that said use of your
+                                        personal data is lawful.
+3. We do not make any decisions involving the use of
+                                        algorithms or profiling
+                                        that produces legal effects or other effects that significantly affect you.
+IV    How We Use Cookies and
+                                Similar Technologies
+We use cookies and similar tracking technologies on our
+                                        website and other
+                                        Services.
+1. What Are Cookies?
+Cookies are small text files that are transferred from our
+                                        Services and
+                                        stored on your device. Our Services may use "cookies" and other technologies
+                                        such as pixel tags
+                                        and web beacons (collectively referred to as
+"Cookies")
+.
+                                        Cookies may be stored on
+                                        your computer.
+                                        Cookies not set by us will not be accessible to us.
+2. How We Use Cookies
+We and our third-party partners use Cookies to better
+                                        understand the
+                                        functionality of our mobile software on your device, and to monitor and analyse
+                                        how you use and
+                                        interact with our Services so that we can continue to improve them (such as to
+                                        evaluate information
+                                        on how often you use the Services, events that occur on our Services and where
+                                        an app was
+                                        downloaded). We do not link information that we store in analytics software to
+                                        any personal data you
+                                        may submit through our mobile apps.
+We and our third-party partners also use Cookies to analyse
+                                        trends, manage
+                                        websites, track user activity across these websites and collect aggregate
+                                        demographic information
+                                        about our user base.
+3. Types of Personal Data We Collect
+This information may include Internet protocol (IP) addresses,
+                                        browser type,
+                                        Internet service provider (ISP), referring/exit pages, files viewed on our site
+                                        (such as html pages
+                                        and graphics), operating system, date/time stamp and/or touch stream data.
+4. Third-Party Tracking and Online
+                                            Advertising
+We partner with third parties to display advertisements on our websites and apps or to manage our advertisements on other sites. Our third-party partners may use cookies or similar tracking technologies to provide advertisements to you based on your browsing activities and interests. If you wish to opt out of interest-based advertising,  you can manage Cookies as described in the following paragraph, click
+here
+, or if located in the European Union click
+here
+. Please note that opting out of interest-based advertising does not mean you will no longer see advertising on your device – it just means that adverts may no longer be tailored to your interests.
+5. Clear/Disable Cookies
+Depending on your mobile device and operating system, you may
+                                        not be able to
+                                        delete or block all cookies. Please note that if you choose to refuse all
+                                        cookies, you may not be
+                                        able to use the full functionality of our Services. These settings will
+                                        typically be found in the
+                                        "Options" or "Preferences" menu of your browser.
+See the instructions below on how to manage cookies in some
+                                        common web browsers:
+•
+Microsoft Internet Explorer
+•
+Microsoft Edge
+•
+Mozilla Firefox
+•
+Google Chrome
+•
+Safari for macOS
+•
+Safari for iOS
+For more information about cookies and instructions on how to
+                                        configure your
+                                        browser to accept, delete or reject cookies, see www.allaboutcookies.org.
+Please note that deleting or blocking cookies may not be
+                                        effective for all types
+                                        of tracking technologies, such as Local Storage Objects (LSOs) like HTML5.
+If the "Do Not Track" function is enabled in your
+                                            browser, we will
+                                            respect your choice.
+Where required by law, we will provide you with further
+                                        information about
+                                        cookies.
+V      How Long We Keep Your Personal Data
+We will only store your personal data for as long as necessary
+                                        to achieve the
+                                        collection purposes set out in this Privacy Notice, unless a longer retention
+                                        period is required by
+                                        law. If we are required by law to store your personal data beyond this period
+                                        (such as for tax and
+                                        commercial law reasons), we will delete the personal data at the end of this
+                                        storage period.
+After the expiry of the aforementioned retention periods, we
+                                        will delete or
+                                        anonymise your personal data.
+To determine the appropriate retention period for personal
+                                        data, we consider the
+                                        amount, nature and sensitivity of the personal data, the potential risk of harm
+                                        from unauthorised
+                                        use and disclosure of your personal data, the purposes for which we process the
+                                        personal data and
+                                        the applicable legal requirements.
+If, after you sign up for our promotional emails, you
+                                        unsubscribe from receiving
+                                        our promotional emails, we will delete your personal data from our mailing
+                                        lists. However, we will
+                                        continue to store your email address in a blocklist to ensure that you will not
+                                        receive any further
+                                        communication.
+VI     How We Disclose Your Personal Data
+At times OPPO may make certain personal data available to
+                                        other companies that
+                                        are wholly or jointly controlled by us (
+"Affiliates"
+) and other
+                                        third parties that
+                                        work with OPPO in
+                                        order to provide Services to you. Your personal data will not be shared with
+                                        third parties for their
+                                        own independent marketing purposes.
+• Affiliates:
+Your personal data may be
+                                        shared with OPPO's
+                                        Affiliates for the
+                                        purpose of rendering our Services to you. If Affiliates wish to process data for
+                                        a different
+                                        purpose, they must first seek your consent, unless another lawful basis
+                                        exists.
+• Service
+                                            providers and partners:
+Some of our Services will be provided with
+                                        the assistance of
+                                        third parties.
+                                        We may also share some personal data with our partners in particular so as to
+                                        deliver you a better
+                                        service and improve your user experience. For example, when you use the security
+                                        centre app,
+                                        third-party service providers are used to scan for viruses and free up storage
+                                        space on your phone,
+                                        and we engage third-party service providers to provide you with enhanced
+                                        customer service. We may
+                                        also rely on service providers to identify and serve targeted advertisements,
+                                        provide email
+                                        services, provide tax and accounting services, organise competitions and deliver
+                                        web hosting or
+                                        analytics services. Any such service providers will, through appropriate data
+                                        processing agreements,
+                                        be bound to only process personal data on OPPO's behalf and under our
+                                        instructions, unless such
+                                        service providers act as independent controllers.
+• Purchasers and
+                                            third parties in
+                                            connection
+                                            with a business transaction:
+Where a merger, acquisition,
+                                        bankruptcy liquidation or
+                                        similar action
+                                        takes place, we may transfer or disclose your personal data to a limited, but
+                                        necessary extent to
+                                        the applicable third party.
+• Law enforcement, regulators and other
+                                            parties for legal
+                                            reasons:
+We
+                                        may also disclose your personal data to third parties as required by law, or if
+                                        we reasonably
+                                        believe that such action is necessary (a) to comply with a subpoena or other
+                                        legal proceedings,
+                                        legal actions or government agency requests; (b) when we believe in good faith
+                                        that a disclosure is
+                                        necessary to comply with the law and the reasonable requests of law enforcement;
+                                        (c) to protect and
+                                        exercise our legal claims, rights and property; (d) to protect your rights,
+                                        property or personal
+                                        safety or that of others; (e) to investigate fraud and (f) to protect the
+                                        security or integrity of
+                                        our Services.
+• The public, when posted in certain public
+                                            spaces:
+Some of our
+                                        Services allow you
+                                        to connect and interact with others. Your profile information or information
+                                        that you post in a
+                                        forum or on a blog, including personal data, will be accessible to other users
+                                        or the general public
+                                        by default when you create it. Such content will be accessible by the general
+                                        public or the members
+                                        of the Service depending on the Service used.
+• Otherwise with
+                                            consent:
+We may
+                                        disclose your personal data to certain other third parties with your consent.
+VII     How Your Personal Data Is Transferred
+                                Globally
+1. We leverage our resources and servers around the world to
+                                        provide Services.
+                                        We have data centres in France, Singapore, India and Indonesia, which means that
+                                        in compliance with
+                                        applicable laws, your personal data might be transferred to or accessed from
+                                        countries or regions
+                                        outside of where you use our Services.
+2. Please note that different countries or regions offer
+                                        different levels of
+                                        data protection. This means that your personal data could be stored in a country
+                                        that offers a level
+                                        of protection that may, in certain instances, be less protective of your
+                                        personal data than the
+                                        country or region in which you are located. However, in such cases, we will take
+                                        measures to ensure
+                                        that the personal data we collect is processed in accordance with this Privacy
+                                        Notice and applicable
+                                        laws, and that your personal data is adequately protected. For example, we might
+                                        ask your permission
+                                        to transfer your personal data across borders, and we will implement adequate
+                                        security measures
+                                        (such as encryption and de-identification where feasible) and sign the necessary
+                                        data
+                                        transmission/sharing agreements with the recipients of your personal data prior
+                                        to the transfer
+                                        taking place. We will also specifically ensure that we comply with laws that
+                                        require us to store
+                                        data locally within a specific country or region.
+VIII    How We Protect Your Personal Data
+1. The security of your personal data is very important to us. We have taken
+                                        reasonably practical,
+                                        technical and organisational measures in accordance with industry standards to
+                                        protect personal data
+                                        collected in connection with our Service and prevent it from accidental or
+                                        unlawful destruction,
+                                        loss, alteration, unauthorised disclosure or access. However, please note that
+                                        while we have taken
+                                        reasonable measures to protect your personal data, no websites, Internet
+                                        transmissions, computer
+                                        systems or wireless connections are absolutely secure. In particular:
+• Where appropriate, we will de-identify your personal data to mitigate the risk
+                                        that other
+                                        organisations or individuals may identify you on the basis of that personal
+                                        data. We may also
+                                        implement full security encryption during storage and transmission to prevent
+                                        your personal data
+                                        from unauthorised access, use or disclosure (such as by using SSL to encrypt
+                                        many Services). We
+                                        regularly review practices regarding personal data collection, storage and
+                                        processing (including
+                                        physical security measures) to prevent unauthorised access to or tampering with
+                                        our various systems
+                                        and your personal data.
+• We only allow OPPO employees and personnel of
+                                        authorised service
+                                        companies to access such personal data on a need-to-know basis, in order to
+                                        process such personal
+                                        data or provide relevant Services to you. These employees and external personnel
+                                        are subject to
+                                        strict contractual confidentiality obligations. If they fail to perform these
+                                        obligations, they may
+                                        be held liable and/or their relationship with OPPO may be terminated.
+• When
+                                        transmitting and
+                                        storing special categories of personal data, we use extra security measures,
+                                        such as encryption of
+                                        the transmitted content. We also use technical measures to process your personal
+                                        biometric
+                                        information so that we only need to store essential data (such as basic
+                                        parameters necessary to
+                                        identify a person, but not the raw facial and fingerprint data).
+• We
+                                        carefully select our
+                                        business partners and service providers and ensure that they are sufficiently
+                                        bound to protect
+                                        personal data and will be subject to privacy audits and assessments.
+• We
+                                        conduct security and
+                                        privacy protection training, testing and other activities to enhance employee
+                                        awareness of and
+                                        proficiency in personal data protection.
+• We use international and
+                                        industry-recognised standards
+                                        to protect your personal data and actively pursue relevant security and privacy
+                                        protection
+                                        accreditation.
+2. In case of a personal data security incident, we will act
+                                        in accordance with
+                                        applicable law and notify you and/or the competent data protection authority of
+                                        any such security
+                                        incident where required, and take measures to mitigate any risks arising
+                                        therefrom.
+IX     Your Rights Regarding Your Personal Data
+1. Subject to applicable laws in your jurisdiction, you may have specific rights
+                                        regarding your
+                                        personal data. This may include the following rights in particular:
+• The right to be informed:
+OPPO is publishing this Privacy
+                                        Notice to keep you
+                                        informed as to how we
+                                        handle your personal data and what options and rights you have regarding your
+                                        personal
+                                        data.
+• The right to access:
+If you wish to access your
+                                        personal data, some of our Services provide an interface through which you may
+                                        directly search for or
+                                        access certain personal data. You may also request access to the personal data
+                                        we hold about you and information about its processing by contacting us using
+                                        the "
+Contact Us
+"
+                                        section.
+• The right to
+                                            rectification:
+If you find that the personal data we process about
+                                        you is inaccurate or
+                                        incomplete,
+                                        you are entitled to ask us to make rectifications without undue delay and
+                                        request the completion of
+                                        your personal data where appropriate.
+• You can opt out of the User
+                                            Experience Program at
+                                            any
+                                            time through your device settings or by contacting us:
+(please
+                                        refer to the section
+                                        "
+Contact Us
+"
+                                        below). After you opt out of the Program, we will delete or anonymise all data
+                                        collected from your
+                                        device for the Program.
+• Unsubscribe from marketing
+                                            communications:
+If you no
+                                        longer wish to
+                                        receive marketing communications, you may unsubscribe from such communications
+                                        at any time using the
+                                        method provided in each promotional message.
+2. You may also have further legal rights concerning your
+                                        personal data,
+                                        depending on the jurisdiction in which you are located. In this respect, please
+                                        see the
+                                        GDPR-specific Section if you live in Europe.
+3. If you wish to make a request, you can submit it through
+                                        our Data Subject
+                                        Requests platform (
+"DSR platform"
+), which is accessible through
+https://www.oppo.com/en/privacy-feedback/
+.
+4. Please note that, in the interest of security, we may ask
+                                        you to verify your
+                                        identity before processing your request.
+5. Certain jurisdictions might entitle you to refer the
+                                        complaint to the
+                                        relevant regulatory authority if you are not satisfied with the response you
+                                        received.
+6. In principle, we do not charge a fee for responding to your
+                                        reasonable
+                                        request. However, for multiple and repetitive requests that exceed a reasonable
+                                        limit, we may charge
+                                        a reasonable fee to cover some of our costs, depending on the nature of the
+                                        request. We are entitled
+                                        to refuse requests in whole or in part, and we may refuse requests that are
+                                        manifestly unfounded,
+                                        unreasonably repetitive or that require disproportionate technical effort (for
+                                        instance, requests
+                                        that require the development of new systems). In addition, we may not respond to
+                                        requests that
+                                        directly concern significant issues of public interest or may cause serious
+                                        damage to the legitimate
+                                        rights and interests of you or other individuals or entities.
+X      How We Process Children's Personal Data
+1. Our Services are mainly intended for adults. A child should not use our
+                                        Services without his/her
+                                        legal guardian's consent. We treat anyone less than 18 years of age (or the
+                                        equivalent minimum age
+                                        for full legal capacity in the relevant jurisdiction) as a child.
+2. If we discover that a child's personal data has been collected, we will
+                                        delete the corresponding
+                                        data as soon as possible.
+3. If you believe that we might have any personal data concerning a child,
+                                        please contact us using
+                                        the "
+Contact Us
+" section.
+XI      Third-Party Websites
+1. OPPO Services may contain links to third-party websites, products and
+                                        services. You can choose
+                                        whether to access websites or accept products and services provided by third
+                                        parties or not. For
+                                        example, the "Follow us" function on our official website provides links to our
+                                        official social
+                                        media accounts (such as Facebook, Instagram, LinkedIn and Twitter) where you can
+                                        view marketing or
+                                        promotional information published by OPPO.
+2. We do not control third-party privacy and data protection policies and do not
+                                        accept any
+                                        responsibility or liability for such policies. At the same time, such third
+                                        parties are not bound by
+                                        this Privacy Notice. Therefore, before submitting personal data to third
+                                        parties, we strongly
+                                        recommend that you refer to the privacy protection practices of such third
+                                        parties.
+XII      How This Privacy
+                                Notice Is Updated
+We reserve the right to update or modify this Privacy Notice from time to time.
+                                        We will, as
+                                        appropriate, send you notifications of material updates to this Privacy Notice
+                                        in a form we deem
+                                        appropriate and we will update the "last updated" date at the start of this
+                                        Privacy Notice.
+XIII      Contact Us
+If you have questions or concerns regarding our Privacy Notice or practices,
+                                        please submit your
+                                        request through our DSR platform (
+https://www.oppo.com/en/privacy-feedback/
+)
+or, if you are located in Europe,
+OROPE Germany GmbH
+Graf-Adolf-Platz 15, 40213 Düsseldorf, Germany
+Att:
+                                        Compliance Officer
+If you have an unresolved privacy or data use concern that we
+                                        have not addressed
+                                        satisfactorily, please contact our U.S.-based third-party dispute resolution
+                                        provider (free of
+                                        charge) at
+https://feedback-form.truste.com/watchdog/request
+.
+B. GDPR-Specific Provisions
+The following provisions only apply to you if you live in Europe.
+I     Legal Bases for the Processing of Personal
+                                Data
+Our processing of your personal data as described in the Section "How We Use
+                                        Your Personal Data" is
+                                        based on the following legal grounds:
+1. Consent:
+We may process your personal data
+                                        with your
+                                        consent. In
+                                        particular, we may ask for your consent to participate in promotional
+                                        activities, such as to send
+                                        you promotional messages or enable you to participate in the User Experience
+                                        Program and certain
+                                        Services, including services through which we collect location information. You
+                                        have the right not
+                                        to provide consent, or to withdraw it at any time. The withdrawal of your
+                                        consent does not affect
+                                        the lawfulness of our use of your personal data before your withdrawal. If you
+                                        have granted us
+                                        consent to use your personal data, we will use it only for the purposes
+                                        specified in the consent
+                                        declaration. Please note that to the extent our processing is based on your
+                                        consent and you deny
+                                        your consent or withdraw it, we may not be able to provide the service relating
+                                        thereto. Besides
+                                        from that, neither the initial denial nor a withdrawal will have any negative
+                                        consequences for
+                                        you.
+2. Perform or enter into a contract with you:
+We rely on this legal basis in particular in the following
+                                        cases:
+• to
+                                        provide you with OPPO's Services, process your orders or fulfil the contract
+                                        between you and
+                                        OPPO;
+• to activate Services you have purchased, your warranty service and
+                                        specific software
+                                        licenses and provide notifications for software updates;
+• to allow and
+                                        manage your participation
+                                        in prize draws, contests or similar promotional activities held by us; and
+•
+                                        to diagnose product
+                                        issues, repair customer equipment and provide other customer care and support
+                                        Services.
+3. Compliance with a legal obligation:
+OPPO
+                                        may be obliged to
+                                        process personal data to comply with our legal obligations, for example where
+                                        OPPO is required to
+                                        retain data for tax law or commercial purposes.
+4. Legitimate interests:
+The processing of
+                                        your personal data
+                                        may also be
+                                        necessary for OPPO's legitimate interests. In particular, such cases may include
+                                        the following:
+•
+                                        to conduct customer surveys to enhance your user experience;
+• to analyse the
+                                        customer market on
+                                        the basis of the country where you use our Services, including the number of
+                                        users for product
+                                        marketing and promotion;
+• to analyse the efficiency of our business
+                                        operations;
+• to analyse
+                                        error logs to improve phone quality and app functions;
+• to provide you with
+                                        personalised
+                                        Services and to recommend and display content and advertisements tailored to you
+                                        through our
+                                        Services;
+• to communicate with you and reply to your questions or comments
+                                        submitted to us by
+                                        any means;
+• to ensure the functionality and safety of our Services;
+• to
+                                        verify your
+                                        identity;
+• to conduct internal auditing and to prevent and investigate
+                                        fraud, cybersecurity
+                                        threats or other improper use;
+• to enhance and develop our Services,
+                                        including relevant security
+                                        features, so as to improve the product usage experience, user-friendliness,
+                                        operational performance,
+                                        functions and design;
+• to pursue or defend against legal claims.
+Your
+                                        personal data will only
+                                        be processed on the above grounds after we have appropriately assessed and
+                                        balanced our interests
+                                        against your right to privacy.
+II      Additional Information on How Your Personal
+                                Data Is
+                                Transferred Globally
+In case your personal data is transferred to jurisdictions located outside of
+                                        Europe, we will ensure
+                                        that appropriate safeguards exist and are applied, such as:
+1. the recipient of the personal data is located within a
+                                        country that benefits
+                                        from an "adequacy" decision of the European Commission;
+2. the recipient has signed a contract based on "model
+                                        contractual clauses"
+                                        approved by the European Commission, obliging them to protect your personal
+                                        data;
+3. or in the absence of the above appropriate safeguards, we
+                                        will ask you for
+                                        your explicit consent for the cross-border transfer of your personal data or
+                                        take any other measures
+                                        that are recognised as providing a sufficient level of protection for your
+                                        personal data.
+For more information about the safeguards relating to personal
+                                        data transfers
+                                        outside of Europe, please submit your request via our DSR platform
+                                        (
+https://www.oppo.com/en/privacy-feedback/
+).
+III      Additional Information on Cookies and
+                                Other Tracking
+                                Technology
+If you wish to obtain detailed information on the use of cookies and other
+                                        tracking technology,
+                                        please read our Cookies Statement.
+IV      Additional Information on Your Rights
+                                Regarding Personal
+                                Data
+Subject to the legal requirements under the GDPR, you have the following rights:
+•
+The right to access:
+You may request access to the personal
+                                        data we hold about
+                                        you.
+•
+The right
+                                            to rectification:
+If you find that the personal data we process
+                                        about you is inaccurate or
+                                        incomplete, you are entitled to ask us to make rectifications without undue
+                                        delay and to request the
+                                        completion of your personal data where appropriate.
+•
+The right to
+                                            erasure:
+You
+                                        can submit a
+                                        request to us to delete personal data, and we shall have the obligation to erase
+                                        it without undue
+                                        delay in some circumstances – for example, if we do not have a legal reason to
+                                        continue to process
+                                        the personal data to the extent required by applicable laws and regulations.
+                                        Please note in so far
+                                        as you delete all the data that is contained in your device, this does not mean
+                                        that you have
+                                        deleted all data that OPPO collects and processes about you. Therefore, we
+                                        encourage you to contact
+                                        us (please refer to the section
+"Contact Us"
+above) to request that your personal
+                                        data is
+                                        deleted.
+•
+The right to restriction of processing:
+You have
+                                        the right, in
+                                        certain circumstances,
+                                        to request OPPO to temporarily restrict the processing of your personal data,
+                                        such as where the
+                                        accuracy of that personal data is contested by you, while we verify the accuracy
+                                        of that personal
+                                        data. We will keep just enough data, or process such data as is necessary to
+                                        ensure that we comply
+                                        with your restriction request in the future.
+•
+THE RIGHT TO
+                                            OBJECT:
+You have the
+                                        right to object
+                                        to any processing justified by legitimate interests based on grounds relating to
+                                        your particular
+                                        situation at any time. Should you decide to object to the processing of your
+                                        personal data, we will
+                                        stop processing personal data that concerns you, unless we can demonstrate
+                                        compelling reasons for
+                                        continuing to process your personal data that override your interests, rights
+                                        and freedoms, or in
+                                        the case that we establish, exercise or defend our legal claims. You can object
+                                        to direct marketing
+                                        activities at any time for any reason whatsoever.
+•
+The right to data
+                                            portability:
+You have the
+                                        right to obtain a copy of your personal data in a structured, commonly-used and
+                                        machine-readable
+                                        format and transmit such data to another provider or have such data transmitted
+                                        to another provider
+                                        under certain circumstances.
+•
+The right to withdraw
+                                            consent:
+If you have given
+                                        us your consent
+                                        to process your personal data but change your mind later, you have the right to
+                                        withdraw your
+                                        consent at any time. The withdrawal of your consent does not affect the
+                                        lawfulness of our use of
+                                        your personal data before your withdrawal. If you want to withdraw your consent
+                                        with regard to
+                                        receiving promotional communications, you can unsubscribe through the method
+                                        described in each
+                                        promotional message. If you withdraw your consent, we may no longer be able to
+                                        provide you with the
+                                        corresponding Service.
+•
+The right to lodge a
+                                            complaint:
+You have the right to
+                                        lodge a complaint
+                                        with a competent supervisory authority about the way we handle or process your
+                                        personal data, or
+                                        file a lawsuit in a court with jurisdiction. Information about how to contact
+                                        your local data
+                                        protection supervisory authority is available
+here
+.
+V      Contact Details of the
+                                Data Protection Officer
+You can submit your request through our Data Subject Rights platform
+                                        (
+https://www.oppo.com/en/privacy-feedback/
+),
+                                        or you can also contact our data protection officer at:
+Collegium Auditores GmbH
+Datenschutz OROPE
+Wilhelmstrasse 74, 53721
+                                        Siegburg, Germany
+Smartphones
+OPPO Find N2 Flip
+OPPO Find X5 Pro
+OPPO Find X5
+OPPO Reno10 Pro+ 5G
+OPPO Reno10 Pro 5G
+OPPO Reno10 5G
+OPPO A38
+See All Smartphones
+IoT Products
+OPPO Pad 2
+OPPO Enco Air3
+OPPO Enco X2
+OPPO Watch
+OPPO Enco Buds2
+OPPO Enco Free2
+Support
+Contact Us
+Warranty Status
+Android Enterprise
+User Guide
+FAQ
+HeyTap
+Declaration of Conformity
+Game Space
+Security Response Center
+Quick Start Guide
+About OPPO
+Our Story
+OPPO imagine IF
+OPPO 5G
+Newsroom
+Campaign
+OPPO Sustainability
+Intellectual Property
+Supplier Portal
+OPPO Community
+OPPO Community
+Get Support From OPPO
+Email Us
+Service Center
+Global (English)
+Global (English)
+Privacy
+Terms of Use
+Legal & Compliance
+Copyright © 2004-2023 OPPO. All rights reserved.
+Back to Top
+Email Us
+Service Center
+We use cookies and similar technologies to make this site work properly and to analyse traffic and optimise your browsing experience. By continuing to browse the site, you agree to the use of such cookies.
+Read More
+.

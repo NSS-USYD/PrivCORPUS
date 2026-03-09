@@ -1,0 +1,52 @@
+Bazooka Studio
+Skip to content
+Bazooka Studio
+Privacy Policy
+Blog
+Menu
+Privacy Policy
+All our applications on the Google Play is Free application about Photo and Video editor.
+We’re do not store any user information such as Cookies, email, passwords, user-data ….
+Explain permissions in our Applications:
++
+Access Internet
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+These permissions can help us get resources from our server such as: photo effects, photo frame; check network connection …
++
+Access Storage (Sdcard)
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+These permissions can help us access your storage for save photo and video files edited, then for share to all your friends.
++
+Set Live Wallpaper
+<uses-permission android:name="android.permission.SET_WALLPAPER" />
+This permission use in Photo Editor application for set beauty live wallpaper with photo edited.
++
+Access Camera
+<uses-permission android:name="android.permission.CAMERA" />
+This permission help us to get an image from your Camera (take picture from Camera) for photo edit.
++
+Check Network is available?
+<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+This permission help us check network is available to show message to request turn on network for download resources from our server.
+Important
+: We respect the confidentiality of information, and we are committed do not store, collect any user information on your device.
+Thanks for support!
+Share this:
+Twitter
+Facebook
+Privacy Policy
+Blog
+Blog at WordPress.com.
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+Cookie Policy
+Bazooka Studio
+Customize
+Sign up
+Log in
+Copy shortlink
+Report this content
+Manage subscriptions

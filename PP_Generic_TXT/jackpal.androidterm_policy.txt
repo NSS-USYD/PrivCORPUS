@@ -1,0 +1,170 @@
+Privacy Policy · jackpal/Android-Terminal-Emulator Wiki · GitHub
+Skip to content
+Toggle navigation
+Sign up
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Case Studies
+Customer Stories
+Resources
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+In this repository
+All GitHub
+↵
+Jump to
+↵
+No suggested jump to results
+In this repository
+All GitHub
+↵
+Jump to
+↵
+In this user
+All GitHub
+↵
+Jump to
+↵
+In this repository
+All GitHub
+↵
+Jump to
+↵
+Sign in
+Sign up
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.
+You switched accounts on another tab or window.
+Reload
+to refresh your session.
+This repository has been archived by the owner on Jan 14, 2022. It is now read-only.
+jackpal
+/
+Android-Terminal-Emulator
+Public archive
+Notifications
+Fork
+1.1k
+Star
+2.9k
+Code
+Pull requests
+0
+Actions
+Projects
+0
+Wiki
+Security
+Insights
+More
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Privacy Policy
+Jump to bottom
+jackpal edited this page
+Sep 25, 2014
+·
+6 revisions
+Pages
+15
+Home
+Action Bar (Android 3.0+) UI
+Android Shell Command Reference
+Buttonless Device Support
+Frequently Asked Questions
+Installing BusyBox and ssh without Rooting your Device
+Launching Terminal Emulator for Android from another App
+Privacy Policy
+Terminal Emulator for Android Privacy Policy
+Externally Observable Actions
+Logging of ANR and FC Events
+Permissions
+Access Superuser
+Recent Updates
+Roadmap
+Tips for Including Terminal Emulator for Android in a Custom ROM
+Translating to Other Languages
+Troubleshooting Lack of Color in Vi
+Unicode UTF 8 Support
+Wrapping up Development on Terminal Emulator for Android
+Clone this wiki locally
+Terminal Emulator for Android Privacy Policy
+Terminal Emulator for Android does not collect, store, transmit, or share any personally identifiable information with anyone or anything.
+Externally Observable Actions
+If you use Terminal Emulator for Android to run a command line application that connects to the network (such as an IRC chat program, or a ssh shell, or an FTP client, or a BitTorrent client), then it may be possible for third parties to observe your activities by observing your network traffic. The risks are similar to the risks of using "Incognito Mode" in a web browser.
+Logging of ANR and FC Events
+If you experience an "Application Not Responding", or "Forced Close" event while using Terminal Emulator for Android, you may be asked for permission to upload a crash report. If you agree, some information about the crash will be uploaded. This information is designed to not contain any personally identifiable information, but may include information such as the stack crawl of what the program was trying to do when it crashed, as well as limited information about your phone's software (such as which version of Terminal Emulator for Android you were using.)
+Permissions
+Terminal Emulator for Android asks for several permissions on behalf of command line tools that run from within the emulator. The current set of permissions that are requested is.
+android.permission.INTERNET allows access the Internet. Examples of programs that use this permission are rcp, telnet, ssh, and ftp.
+WRITE_EXTERNAL_STORAGE allows writing to the SD card. Used by cp, mv, and any tool that writes files.
+ACCESS_SUPERUSER - this is a special permission, see "Access Superuser" below.
+WAKE_LOCK allows keeping the screen and/or CPU turned on. This is controlled using the "Take Wake Lock" menu items. This is helpful for people trying to run long-duration commands such as compilers.
+Access Superuser
+This permission is not a standard Android system permission. It is an informal standard developed by
+the enthusiast community. It allows a program to indicate that it would like to acquire super-user
+permission. This permission is ignored by normal Android devices. It only does something if you have installed an enthusiast ROM (such as CyanogenMOD) that supports the permission.
+Terminal Emulator for Android does nothing with the Access Superuser permission by itself. It asks for the permission in order to allow command-line tools to run as root. The "su" command is an example of a command
+that will use this permission.
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.

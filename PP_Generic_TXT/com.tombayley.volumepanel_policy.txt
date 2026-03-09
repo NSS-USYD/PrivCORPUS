@@ -1,0 +1,32 @@
+Volume Styles - Privacy Policy - Tom Bayley Apps
+Tom Bayley Apps
+Apps
+Volume Styles
+Super Status Bar
+Tile Shortcuts
+Bottom Quick Settings
+MIUI-ify
+Contact
+Translate
+Volume Styles - Privacy Policy
+Information Collection and Use
+Volume Styles uses Google's Admob to show ads inside the app, subject to their
+privacy policy
+.
+Volume Styles uses Google Sign-In in the "Style Feed" part of the app to allow saving and favoriting different customizations. Submitted customizations to the "Style Feed" will include your Google name, which will show next to your submitted customization in the feed. Volume Styles uses your Google Account ID to link styles you create to your account. This is so that if you log into the app with the same account on another device, you will still be able to see styles your submitted and favorited previously.
+No other information related to your Google Account is collected or shared.
+Log Data
+Whenever you use our Service, in case of an error in the app we collect information (through
+Google's Firebase
+) on your phone called Log Data. This Log Data may include information such as device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other app statistics, but not any personal information. This data is used solely to fix crashes and bugs in the app.
+App Permissions
+Volume Styles uses the following sensitive permissions:
+Accessibility Service
+The Accessibility Service is required to detect when you press the volume keys so that the custom volume panel can be shown.
+It is also used so you can choose which apps you don't want the custom volume panel to show in. Volume Styles will see the package name of apps you navigate to so it can see if you chose to hide the custom volume panel in that app.
+Volume Styles does not collect any Accessibility data other than mentioned above. No data from the Accessibility Service is stored or shared.
+On some devices, when enabling the Accessibility Service, a popup may show saying Volume Styles will be able to read text you type, including private information. Volume Styles does not read any of this information and does not monitor the text you type. The volume buttons are the only buttons/keys that the Accessibility Service monitors, so that the custom volume panel can be shown.
+Query All Apps
+This permission is used to allow you to choose which apps you do not want the custom volume panel to show in. Inside Volume Styles, this is called the "App blacklist".
+The data from this permission is not stored or shared. Volume Styles only remembers the package names of the apps you select so it knows when to not show the custom volume panel, with help from the Accessibility Service as described under the Accessibility Service permission.
+Follow us on:

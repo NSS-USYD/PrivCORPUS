@@ -1,0 +1,61 @@
+Not Doppler Privacy Policy
+Data collected in Not Doppler games
+Last updated 24 April 2018
+Not Doppler is committed to not collecting personally identifiable or sensitive information about you. Our games do collect some non-sensitive, anonymous data as outlined in this privacy policy.
+By playing Not Doppler games you are consenting to the collection of anonymous, non-sensitive data as outlined in this privacy policy. You also accept that this privacy policy can be updated from time to time for any reason, with the latest date of changes published at the top of this page.
+Data collected for Analytics
+We have implemented Analytics tools to help us understand how our games are being used in order to help us improve our games and plan for future game releases. For example we use Flurry Analytics, Google Analytics and Firebase Analytics to keep track of how many players are engaging with our games, player progress, any in-app purchases, as well as device type, operating system, language settings, play session lengths  and broad geographic information like your country and city.
+Data collected for Advertising
+Because many Not Doppler games are free-to-play, we periodically display in-game advertising by third parties to generate revenue. In order to display relevant advertising (also known as interest based advertising) and measure performance of advertising campaigns we have implemented several ad-networks within the game which collect and transfer non-sensitive device information including:
+The advertisement you have viewed and if you have engaged with it
+Device make and manufacturer
+Operating System
+Generic geographic location, such as the city you are located in
+Carrier
+Language settings
+IP Address
+Android Advertising identifier or Apple Identifier for Advertisers
+Why collect data?
+By collecting data on app usage and about your device and location, we are better able to integrate updates, find potential device specific problems and bugs, explore localisation opportunities and make better games that are tailored to our user's needs.
+When we offer our games as free-to-play, we still require the game to generate income to help fund development costs and efforts to make the best game possible. Advertising is one way we can help cover our costs, and in order to implement relevant advertising a certain amount of non-sensitive information is required by each ad network.
+What happens if I log into Facebook
+Some Not Doppler games will allow you to login to Facebook to compete against your friends. Any data about your full name, gender or friends will not be stored on our server, and is only saved locally on your device and within your linked Facebook account to allow us to correctly display your friends in game.
+The use of Facebook Login is completely optional, and you must hold a valid Facebook account, which also means you must be above the age of 13 to use this service.
+Children
+All Not Doppler games are designed for people who are at least 13 years of age. In playing our games, you represent that you are aged 13 or older.  If you are a guardian or parent who is concerned that we may have any information from or about a child under the age of 13, please
+contact us
+.
+Opt Out
+If you would like to opt-out of interest based advertising, we recommend following the below steps.
+Apple devices:
+Follow the steps outlined on
+this Apple support page
+Android devices:
+Navigate to the Google settings App, select Ads and then choose to reset your Android Ad ID or opt-out of personalized ads.
+If you wish to opt out of collection of data for analytics, or find out more information of any Analytics or Ad network products implemented within Not Doppler games, please refer to the relevant links below (please note that individual privacy policies may be updated from time to time for any reason)
+Flurry Analytics and Flurry for Publishers (Ads)
+Privacy Policy
+Opt-out
+Google Analytics and AdMob
+Privacy Policy
+Opt-out
+InMobi Ad Network
+Privacy Policy
+Opt-out
+AdColony Ad Network
+Privacy Policy
+App Lovin Ad Network
+Privacy Policy
+Opt-out
+Amazon Mobile Ads
+Opt-out
+IronSource Ad Network
+Privacy Policy
+Unity Ads Network
+Privacy Policy
+ChartBoost Ad Network
+Privacy Policy
+Vungle
+Privacy Policy and Opt-out
+If you have any questions or concerns you can contact us at
+[email protected]

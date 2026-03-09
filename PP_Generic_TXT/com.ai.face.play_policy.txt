@@ -1,0 +1,345 @@
+Privacy Policy
+Privacy Policy
+Last updated
+ï¼š
+July 05,2023
+FacePlay
+("we", "us", "our") recognizes the importance of maintaining your privacy. We are committed to protecting and respecting your privacy. This Privacy Policy describes how we handle user information collected through our application ("Platform"). By downloading, using and/or accessing our Services through the Platform, you expressly agree to the terms described in this Policy.
+If you do not agree with any of the terms in this policy, please do not use our services.
+1.Face Data Policy
+â€¢ Face data we collect
+We analyze your photos to find the feature points of the faces in the photos (
+eg
+eyes, nose, mouth points) for face processing. We do not collect facial data. After the analysis process, all data will be deleted and no data will be saved.
+â€¢ Purpose and process of collecting face data
+In order to give you the "face swap" effect, we need to find feature points (
+eg
+eyes, nose, mouth points).
+The complete process is: (1) You submit the selected photo to our server in an encrypted way; (2) The server analyzes the face data in your photo and applies it to the template you choose; (3) After the composition is completed, the server returns the final rendering effect to you through the application;(4) The final composite effect will be temporarily stored in encrypted storage, and will be permanently deleted after a certain period of time. After the compositing process is complete, we will delete the face image you submitted to the server immediately.
+â€¢ Face data sharing and storage
+We will not share your face data with any third party, nor will we store any face information you submit, and the photos you upload will be deleted after the analysis process is complete.
+2.What
+informationÂ  we
+collect
+(1)
+We may receive the information described in this Privacy Policy from other sources
+, such as:
+â€¢
+Social media and login services.
+If you choose to use a third-party social network or login service to link or register, we may collect information from those services, including your contact list for those services and the platforms you use in connection with those services.
+â€¢
+Third Party Services.
+We may collect information about you from third-party services, such as advertising partners, data providers and analytics providers.
+â€¢
+other sources
+. We may collect information about you from other publicly available sources.
+(2)
+We collect information directly from you
+.
+We collect information directly from you when you register for an account or use the Services.
+â€¢
+contact information
+. When you log in with the account of a third-party media website, we will collect your account information on the third-party media website, generally including: account name, email address and region.
+â€¢
+Usage information
+. We may collect your operation information on the platform, mainly including the information you click, browse, download, share and your search history, or any other information you provide during the use of our services, so that we can provide you with features.
+â€¢
+Device and log information
+. When you use our services, in order to ensure your normal use of our services and the safe operation of their functions, improve and optimize your use experience, and protect your account security, we will collect your device and log information as follows: device model, mobile phone Set language, mobile phone country, advertising ID, operating system and system version number, login IP address, software version number, access method, type and status to the network, network quality data, operation logs, service log information.
+â€¢
+Feedback
+. When you contact us for feedback or customer service, we collect the information and materials you submit, your contact details (such as your email) so that we can contact you and answer your questions or provide other services.
+If you stop consenting or expressly withdraw your consent to our collection, use or disclosure of your information, we will immediately cease all such uses.
+3.What permissions do we may ask you to authorize?
+In order to provide you with better and more efficient products and services and improve your service experience, we may request you to authorize the corresponding
+terminal device permissions. With your consent, we collect the following permissions and corresponding information in accordance with the minimum data collection standards:
+Â
+Android permission application
+ï¼š
+â€¢ Camera permissions: for shooting functions;
+â€¢ Read and write external memory cards: for reading and writing files on external memory cards for video editing;
+â€¢ Receive notification messages: used to receive messages;
+â€¢ Get the current network status: remind the user whether the mobile network is currently in use or determine whether the user's network is available;
+â€¢ Advertising ID: collects the device advertising identifier GAID for personalizing advertising content;
+iOS permission application
+ï¼š
+â€¢ Camera permissions: for shooting functions;
+â€¢ Photo permission: used to read pictures in the mobile phone album for video editing;
+â€¢ Recording permission: used for shooting function;
+â€¢ Push notification permission: for receiving messages;
+â€¢ Network request permission: used to request network data;
+â€¢ Privacy Tracking Permission: Collect Device Advertising Identifier IDFA for personalizing advertising content
+ï¼›
+You can check the status of the above permissions in the system settings of the terminal device, and you can turn on or off any or all of the above permissions at any time at your own discretion.
+Please note that when you turn on any permission
+ï¼Œ
+you authorize us to collect and use the personal information corresponding to the permission in order to provide you with the above corresponding
+services.Once
+you close any permission, it means that you cancel or revoke the authorization of the permission, we will no longer continue to collect and use the corresponding personal information based on this permission, and we will not be able to provide you with services corresponding to this permission. However, your decision to turn off permissions will not affect the collection and use of information in accordance with your previous authorization.
+collect information
+ï¼š
+â€¢
+Face Recognition
+ï¼š
+For certain theme template editing and short video production services, our application collects avatar photos you upload or take. To use some features of the theme templates that require face cutout, you can voluntarily allow our app to access the camera or photo album to get photos from your mobile device. Our app can access your camera and photo album only after you confirm your permission. When you use certain face recognition functions, we will automatically capture the position and shape of your five senses, analyze the facial feature information, store this information on our server for photo processing, and return the renderings to you. We do not store or share such processed photos, facial features or renderings with any third parties.
+4.
+HowÂ  we
+use your information
+As described below
+ï¼Œ
+we use your information to improve, support and administer the Platform, allow you to use its features, and to fulfill and enforce our Terms of Service.
+â€¢
+To meet requests for information on products, services, platform capabilities, support and internal operations, and to solicit your feedback;
+â€¢
+To handle and respond to your inquiries and to help you provide timely feedback;
+â€¢Â
+Improve and develop our platform and conduct product development;
+â€¢Â
+Use of information for security purposes
+ï¼›
+we may use information for account and network security purposes, including to protect our Services for the benefit of all users, and to pre-screen or scan uploaded content for potentially illegal content. We may use your information for identity verification, monitoring account and transaction risk, detection and security prevention, fraud monitoring, archive backup, customer security services, and more.
+â€¢
+Â  Use User Content as part of our advertising and marketing campaigns to promote the Platform;
+we may send you information about special promotions or offers and new features or products.
+â€¢
+To enforce our terms, conditions and policies and to communicate with you in a timely manner, including notifying you of changes to our services
+ï¼›
+such as alerts about your account and changes to our terms, conditions and policies.
+â€¢
+We store and maintain your information in order to comply with our legal
+obligations;
+for example, in an emergency, we may record, review, analyze and dispose of your information in accordance with applicable law.
+â€¢
+For any other purpose disclosed to you when we collect your information or with your consent.
+5.Cookies and Similar Technologies
+When you use our services, certain information may be stored locally on your mobile device using "cookies" or similar technologies (such as Google Analytics and web beacons). We use cookies and similar technologies mainly to achieve the following functions or services:
+Â
+â€¢ Ensure the safe and efficient operation of products and services
+We may set cookies or anonymous identifiers for authentication and security, so that we can confirm whether you are safe to log in to the service, or whether you have encountered theft, fraud or illegal activities. These technologies also help us improve the efficiency of our services and improve login and responsiveness.
+â€¢ Helps you have an easier access experience
+Using such technologies can help you avoid repeating the steps and processes of filling out your personal information and logging in frequently.
+6.
+HowÂ  we
+store your information
+The length of time we retain personal information is to provide our services or to fulfill the original or directly related purpose for which such information was collected, or for other business purposes, such as complying with our legal obligations, resolving disputes, and enforcing our agreements. We are required by law to retain certain types of information for a certain period of time (such as a statute of limitations). If your personal information is no longer necessary for the legal or business purpose for which it was processed, we will generally destroy or anonymize that information.
+7.How we share your information
+(1) We may share your necessary personal information with third-party service providers to help us deliver and improve products, services, marketing, push/delivery notification bar messages, and to help you share content to third-party media Websites, by logging into third-party accounts and other legitimate business functions. We will confirm on what basis each third party will use your personal information and we will ensure that adequate safeguards and processes are in place to protect your
+personal data.
+(2) We will disclose or transfer your information only if required to do so by law, or we have obtained your consent, or in good faith that any such action is necessary to: (a) comply with any legal requirement or comply with us or platform services; (b) protect and defend our rights or property; (c) take action in an emergency to protect the personal safety of our users or the public.
+(3) In order to ensure the realization of relevant functions and the safe and stable operation of applications, we may access software development kits (SDK) provided by third parties to achieve relevant purposes. We will conduct strict security monitoring on the software tool development kits (SDK) used by partners to obtain information to protect data security. The relevant third-party SDK we access are listed in this privacy policy. Please note that the third-party SDK may change their data processing types due to their version upgrades, policy adjustments, etc., please refer to the official instructions published by them.
+Third-party SDK name: Alibaba Cloud HTTPDNS
+Purpose of collecting personal information: domain name anti-hijacking
+Collection of personal information: embedded information SDK, SDK collects personal information
+Scope of personal information collection: IP address
+Third-party agency name: Alibaba Cloud Computing Co., Ltd
+Privacy Policy Link
+ï¼š
+http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html
+Third-party SDK name: Alibaba Cloud Log Service (SLS)
+Purpose of collecting personal information: collect and count user operation logs, troubleshoot and locate problems
+Collection of personal information: embedded information SDK, SDK collects personal information
+Scope of personal information collection: device manufacturer, device brand, device model, device name, device operating system information, device configuration information, device environment information, network operator information, network type, network status
+Third-party agency name: Alibaba Cloud Computing Co., Ltd
+Privacy Policy Link
+ï¼š
+https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202112131013_69952.html
+Third-party SDK name:
+FirebaseAnalytics
+,
+FirebaseCrashlytics
+,
+FirebaseDynamicLinks
+Purpose of collecting personal information: Statistical analysis and defect analysis; Provide scene restoration function, wake up the application from the H5 sharing page with one click.
+Collection of personal information: Embedding third-party SDK, SDK collects and transmits personal information
+Scope of personal information collection: device information (IDFA/IDFV/UDID/IP)
+Third-party agency name: Google
+Privacy Policy Link
+ï¼š
+https://firebase.google.com/support/privacy
+Third-party SDK name:
+FBSDKCoreKit
+,
+FBSDKLoginKit
+,
+FBSDKShareKit
+Purpose of collecting personal information: to help users log in and share
+Collection of personal information: Embedding third-party SDK, SDK collects and transmits personal information
+Scope of personal information collection
+ï¼š
+device identification information
+Third-party agency name: Meta
+Privacy Policy Link
+ï¼š
+https://developers.facebook.com/terms/
+Third-party SDK name:
+GoogleSignIn
+Purpose of collecting personal information: to help users log in
+Collection of personal information: Embedding third-party SDK, SDK collects and transmits personal information
+Scope of personal information collection: device identification information
+Third-party agency name: Google
+Privacy Policy Link:
+https://policies.google.com/privacy
+Third-party SDK name: Google-Mobile-Ads-SDK
+Purpose of collecting personal information: To provide personalized advertising
+Collection of personal information: Embedding third-party SDK, SDK collects and transmits personal information
+Scope of personal information collection: device identification information
+Third-party agency name: Google
+Privacy Policy Link:
+https://www.google.com/adsense/new/localized-terms
+Third-party SDK name:
+SnapSDK
+Purpose of collecting personal information: to help users use sharing
+Collection of personal information: Embedding third-party SDK, SDK collects and transmits personal information
+Scope of personal information collection: device identification information
+Third-party agency name: Snap
+Privacy Policy Link
+ï¼š
+https://snap.com/privacy/privacy-policy
+Third-party SDK name:
+TikTokOpenSDK
+Purpose of collecting personal information: to help users use sharing
+Collection of personal information: Embedding third-party SDK, SDK collects and transmits personal information
+Scope of personal information collection: device identification information
+Third-party agency name: TikTok
+Privacy Policy Link:
+https://www.tiktok.com/legal/privacy-policy-row
+Third-party SDK name:
+AppsFlyerSDK
+Purpose of collecting personal information: attributing advertising data and statistical
+analysis
+Personal information collection method: Embed a third-party SDK, which collects and transmits personal information
+Scope of personal information collection: Browser type, device type and model, CPU, system language, memory, operating system version, Wi-Fi status, timestamp, and region, Device motion parameters and carrier, IP address (which may also provide general location information), User agent, IDFA (identifier for advertisers), Android ID (in the case of Android devices); Google advertiser ids, user ids published by customers, and other similar unique identifiers
+Third party:
+AppsFlyer
+Privacy policy links:
+https://www.appsflyer.com/legal/services-privacy-policy/
+Third-party SDK name:
+FirebaseRemoteConfig
+Purpose of collecting personal information: to provide personalized configuration
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name: Google
+Privacy Policy Link:
+https://firebase.google.com/support/privacy
+Third-party SDK name:
+VungleSDK
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name:
+Vungle
+Privacy Policy Link
+ï¼š
+https://vungle.com/privacy/
+Third-party SDK name:
+UnityAds
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name: Unity
+Privacy Policy Link
+ï¼š
+https://unity3d.com/cn/legal/privacy-policy
+Third-party SDK name:
+InMobiSDK
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name:
+InMobi
+Privacy Policy Link
+ï¼š
+https://www.inmobi.com/privacy-policy
+Third-party SDK name:
+FBAudienceNetwork
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name: Meta
+Privacy Policy Link
+ï¼š
+https://developers.facebook.com/terms/
+Third-party SDK name:
+AliyunOSS
+Purpose of collecting personal information: file upload
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device manufacturer, device brand, device
+model, device name, device operating system information, device configuration information, device environment information, network operator information, network type, network status
+Third-party agency name: Alibaba Cloud Computing Co., Ltd
+Privacy Policy Link
+ï¼š
+http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html
+Third-party SDK name:Â
+AppLovin
+SDK
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name:
+AppLovin
+Privacy Policy Link
+ï¼š
+https://www.mintegral.com/en/privacy/
+Third-party SDK name:
+Mintegral
+SDK
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name:
+Mintegral
+Privacy Policy Link
+ï¼š
+https://www.applovin.com/privacy/
+Third-party SDK name:
+IronSource
+SDK
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name:
+IronSource
+Privacy Policy Link
+ï¼š
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy
+Third-party SDK name: Pangle SDK
+Purpose of collecting personal information: to provide personalized advertising
+Collection of personal information: Embedding third-party SDKs, SDKs collect and transmit personal information
+Scope of personal information collection: device identification information
+Third-party agency name: Pangle
+Privacy Policy Link
+ï¼š
+https://www.pangleglobal.com/integration/app-privacy-details
+8.How we protect your information
+We are committed to protecting the security of your personal information. To prevent unauthorized access, disclosure or other similar risks, we have put in place reasonable physical, electronic and managerial procedures to protect and secure the information we collect from your use of our services on the platform. We will use all reasonable efforts to protect your personal information.
+We review our strategy and update it as needed to meet our business needs, technological changes and regulatory requirements. These measures include, but are not limited to, technical and organizational security policies and procedures, security controls, and employee training. For example, when you send or receive data from
+FacePlay
+, we make sure it is encrypted using Secure Sockets Layer ("SSL") or other algorithms.
+If we become aware of any breach affecting the security of your personal information, we will notify you as required by applicable law. By using the Platform, you agree to receive notices electronically.
+9.Your rights
+To delete your data, you can
+ï¼š
+Enter [Settings] - [Account Security] to delete the account. You know and understand that the act of deleting your account is irreversible. When you delete your account, we will delete the following data about you:
+a. Delete the audio and video data generated by you in the APP.
+b. Delete your favorite data in the APP.
+c. Delete your account in the APP.
+When you delete data, we follow the deletion process to ensure that your data is safely and completely removed from our servers.
+10.Privacy of Minors/Children
+We protect the personal information of minors in accordance with the provisions of laws and regulations, and will only collect, use, share or disclose personal information of minors when permitted by law, with the explicit consent of parents or other guardians, or when necessary to protect minors; If we become aware that personal information from minors has been collected without prior verifiable parental consent, we will try to delete the information as soon as possible.
+If you are the guardian of a minor, when you have any questions about the personal information of the minor under your guardianship, please contact us through the contact information published in this Privacy Policy.
+11.Changes and Adjustments
+The effective date of this policy is set out at the top of this policy. We may update this Privacy Policy from time to time and when we do, we will notify you by updating the "Last Updated" date at the top of this Policy and by posting the new Privacy Policy and providing any other notices required by applicable law. Your continued use of the products and services on the Platform will be deemed acceptance of the updated Privacy Policy. We recommend that you review the Privacy Policy each time you visit the Platform to stay informed about our privacy practices.
+12.How to contact us
+If you have any questions/complaints/suggestions/requests about this policy, you can contact our platform customer service or give feedback by clicking "Contact Us" in
+FacePlay
+.
+13. Joint Operator
+â€œ
+æ·±åœ³å¸‚é¹ä¸­ç§‘æŠ€æœ‰é™å…¬å¸
+â€ as the operating company of "
+FacePlay
+-Face Swap Video" in Mainland China, is a joint operating company of INNOVATIONAL TECHNOLOGIES LIMITED, â€œ
+æ·±åœ³å¸‚é¹ä¸­ç§‘æŠ€æœ‰é™å…¬å¸
+â€ has the sole ownership of the name, icon, appearance and content of "
+FacePlay
+-Face Swap Video" in Mainland China. When you find that others have improperly collected or used your information, you can contact our mainland operator by email: open@pengzhongtech.com

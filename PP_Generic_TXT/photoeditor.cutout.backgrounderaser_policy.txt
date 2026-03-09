@@ -1,0 +1,181 @@
+Privacy Policy
+U
+pdate
+D
+ate:
+A
+ug
+27
+, 2021
+E
+ffective Date: A
+ug
+27
+, 2021
+Protecting your privacy is important to us. We hope the following statement will help you understand how Background Eraser â€“ Remove Background uses and protect your personal information you may occasionally provide to us via the Internet.
+Personal information we collect
+Why we use your personal information
+Your right to control and make choices about your personal information
+How to store and secure your personal information
+How we share, transfer, and disclose your personal information
+To California Residents
+Children under 13
+How to contact us
+C
+hanges to our Privacy Policy
+Personal information we collect
+1)
+Information when you use our App
+STORAGE PERMISSIONS - When you use the photo
+editing
+feature or camera, we need permission to access your local media to select images. When you save the photo, we need the storage permission of the local media, in order to save photo and change the save path; This permission is only for editing and saving photos. We will not obtain any video or photo from your device,
+nor will we modify or delete the content in your local media storage.
+CAMERA PERMISSIONS â€“ When you use the photo shooting feature, we need camera permission to take photos. This permission is only used for photo shooting. And the captured material will be stored in your local device.
+ANALYTICS - We may use third-party analytics tools such as Google Firebase Analytics to help us analy
+ze
+usage trends for the service
+s
+. These tools will track the information on how you use our App. We may collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any
+particular individual
+user.
+LOG FILE - When you personally decide to email us your feedback or to provide us with a bug report. We collect your name, email address, device information, location information and your survey response only. In addition, when
+you
+upload your photos through mail, requesting to increase AI Cutout recognition accuracy, we may collect additional information including the photos you sent to us. We promise that we will use the photos you sent to complete your request only.
+2)
+ADs.
+We may allow the third-party online advertising network such as Google ads and Facebook ads to collect information about your use of our App over time for playing or displaying ads that may be of interest to you.
+Why we use your personal information
+1
+ï¼‰
+To process your request;
+2
+ï¼‰
+To communicate with you;
+3
+ï¼‰
+To improve our service;
+4
+ï¼‰
+For other purposes related to our business;
+5
+ï¼‰
+To comply with law
+.
+Your right to control and make choices about your personal information
+Under applicable laws of your jurisdiction, you may have one or more of the rights to your personal information. These rights may include (if relevant):
+1
+ï¼‰
+Provide you with information we collect about you;
+2
+ï¼‰
+Device permissions.
+You may revoke any permissions you have granted to us before, such as permission to access your camera or camera roll.
+3
+ï¼‰
+Delete (your photograph);
+4
+ï¼‰
+Opt
+out.
+You have the right to â€˜opt outâ€™
+of
+receiving personalized ads.
+You can exercise your rights above by emailing us at
+bgeraser@inshot.com
+or you may do it by yourself through our App services or the setting on your mobile device. If you are a California resident, please refer to the â€œTo California Residentsâ€ section.
+How to store and secure your personal information
+Background Eraser does not store any personal information from you.
+We use commercially reasonable safeguards to
+protect
+your personal
+information
+from
+loss
+, misuse, unauthorized access, disclosure through the service.
+However, please understand that it is not 100% secure or error-free during information transmission or information storage. Namely, we unfortunately cannot guarantee the integrity and security of your personal information. If you have reason to believe that your personal information is not safe, please contact us immediately so that we can take the appropriate measures.
+How we share, transfer, and disclose your personal information
+1)
+Share
+.
+We promise to keep your personal information confidential. Except for the scenarios stipulated in this policy, we only share your necessary information with third parties in the following situations:
+-
+Have obtained your explicit consent or authorization;
+-
+When it is required to be provided in response to instructions from state agencies, authority, or administrative or judicial requirements;
+-
+When achieving the purposes described in the section "How We Collect and Use Your Personal Information";
+-
+Share with advertising service and technical support partners.
+In order to provide you with more complete and high-quality products and services, we may share some of your personal information with our partners. Please note that we will only share your personal information for legal, legitimate, necessary,
+specific
+and clear purposes. At the same time, we require third parties to deal with shared information with confidentiality and security measures no less than those required by this policy. Once we discover any violation of dealing with the personal information, we will terminate the partnership immediately and pursue legal responsibility.
+Directory of third-party SDKs that may be accessed
+Category
+Function
+Types of information collected
+Remark
+Firebase SDK
+Data statistical analysis service
+Application software list
+https://policies.google.com/privacy
+Admob
+Ads SDK
+Get and display ads
+Unique device identification code (Android ID
+ï¼‰
+https://policies.google.com/privacy
+Mopub
+Ads SDK
+Get and display ads
+Device location information, unique device identification code
+ï¼ˆ
+Android ID
+ï¼‰
+https://www.mopub.com/en/legal/privacy
+F
+acebook
+Ads SDK
+Get and display ads
+Device location information, unique device identification code
+ï¼ˆ
+Android ID
+ï¼‰
+https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy
+2)
+Transfer.
+Except for the requirements of laws and regulations, mandatory administrative law enforcement, judicial or regulatory requirements, we will not transfer your personal information to any company, organization or individual.
+3)
+Disclose. We only disclose your personal information in the following situations
+ï¼›
+-
+According to your needs, disclose your designated personal information in a method that you explicitly agree to;
+-
+According to the requirements of laws, regulations, mandatory administrative law enforcement, judicial or regulatory agencies, where it is necessary to provide your personal information, we may publicly disclose your personal information based on the type of personal information requested and the method of disclosure.
+To California Residents
+Under the applicable California Consumer Privacy Act (â€œCCPAâ€), you have certain rights with respect to your personal information collected by us for business purposes. Please note that this section applies only to people who live in California. Your rights include:
+1)
+The right to know
+about the personal information a business collects about you how it is used and shared;
+2)
+The right to delete
+the information collected from you;
+3)
+The right to opt-out
+of receiving
+per
+sonalized ads; and
+4)
+The right to non-discrimination
+for exercising your CCPA rights.
+Children under 13
+Background Eraser mainly provides its products and services to people over 13 years old (or the prescribed age in your country/region). If you are the guardian of a child user under the age of 13 (or the prescribed age in your country/region), we remind you to properly perform guardianship duties to protect the safety of children's personal information. If the children under your supervision use our product
+s
+and services, please educate them on the proper and safe use of our products and services.
+If you are a child user under the age of 13 (or the prescribed age in your country/region), please read this policy carefully with the assistance and assistance of your parents or guardians before using our products and services, and use our services or provide us with information with the consent of your parents or guardians. If we learn that our products have accidentally collected childrenâ€™s personal information, we will delete the relevant information as soon as possible.
+How to contact us
+You can email us at
+bgeraser@inshot.com
+for questions or concerns.
+C
+hanges to our Privacy Policy
+Background Eraser may, in its sole discretion, modify or update this Privacy Policy from time to time. The â€œupdatedâ€ date and the â€œeffectiveâ€ date at the top of this Privacy Policy indicates when it was last revised and when the updated version became effective respectively. It means that the revised Privacy Policy is accepted by you, once you use the services we provide after those changes become effective.

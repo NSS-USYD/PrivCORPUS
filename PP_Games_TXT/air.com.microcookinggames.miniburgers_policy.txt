@@ -1,0 +1,158 @@
+Privacy Policy : BWEB SARL
+PRIVACY POLICY
+This privacy policy governs your use of the software application BWEB SARL ("Application") for mobile devices that was created by BWEB SARL In this policy, "BWEB SARL" may also be referred as "We" or "Us".
+We think that you have a right to know our practices regarding the information we may collect and use when you use our applications
+By downloading and/or playing our games, you agree to the collection and use of your information in accordance with this Privacy Policy, including consenting to BWEB SARL and our advertising partners and services use of your data for interest-based advertising purposes as described in the following sections of this Privacy Policy. Those sections also explain how you can withhold or withdraw your consent to the use of your data for interest-based advertising purposes, purchases, push notifications and local notifications. If you have any other concerns about providing information to us or it being used as described in this Privacy Policy you should not use our applications.
+IMPORTANT: We are in the process to change every application to be compliant with the new GDPR (General Data Protection Regulation) regulation. We have good hope to have all our applications in the coming days in accordance with the GDPR. If you are using an old app version that doesnâ€™t use our new GDPR regulation interfaces for EU users, and/or are worried about using this app, you should uninstall this app immediately.
+What Type of information do we collect ?
+When you access or use our applications, we may collect information automatically from your device and/or about you by using the following information such as persistent Identifier (IP address, device identifiers, ad identifiers, bundle ID, language ID, operating system version, device model, country and Mac Address) and your year of birth under applicable data protection laws.
+To comply with local laws, we may need to collect your IP address to help us determine your country of residence. In that case, your IP address may be sent to a server that we control, for evaluation purposes, but will not be stored or further processed. We also use your device settings to determine the country where you are located as a way to respect privacy laws specific to your location. We do not collect your precise location, at a level more granular than your city, without your explicit consen
+How the information are collected and how are they used?
+When you access or use our applications, we use all kinds of information made available by your device (passively), yourself (actively) or by services which are used for :
+1. Age Verification
+Applicable when you are from the United States or a European Citizen to identify if you are a child or an adult for data protection and to determine the legal requirements for the processing of your data. We use â€œLocal Storageâ€ which will allow us to enable automatic activation of certain features related to the application. Your year of birth, last access time and Interest-based ads setting are only stored on your device and not on our server.
+2. We Collect Your Consent For European Union Citizens Only
+BWEB SARL works with advertising partners that may collect information from you as part of their process of serving advertisements in our products. If you are a resident of an EU country and give your consent in accordance of the GDPR (General Data Protection Regulation), we will share mobile identifiers (Advertising id and App Name) to personalize content and ads through a third party (Google Admob) on our app. We will also share your Advertising ID with our partner Pubmetric. You can see how and why in our section below.
+To get your mobile ad identifier.
+To remember your settings inside the application.
+It helps us to give you a better experience by finding bugs and crashes in our apps.
+When we ask for your consent to personalize your ads and content, you have the right to withdraw or decline your consent at any time. Please note that this does not affect the lawfulness of the processing based on consent before its withdrawal. To change your consent status, please visit the content setting banner on the cover of the game. You will be able to change your consent by disabling personalized ads.
+If you are a resident of an EU country and indicate that you are below the age of 16, you will be served non-personalized ads and the advertising companies will not collect personal information from you.
+3. Advertisement
+When applicable, we show interest-based ads or contextual ads. Advertising services use ad identifiers, cookies and similar technologies to collect data and show you interest-based ads. They are based on previously collected or historical data to determine or influence ad selection. If you disable that option, ads will not use mobile ad identifier for ad targeting, they will still however use mobile ad identifier for frequency capping, aggregated ad reporting, and to combat fraud and abuse. Advertising Identifiers are non-permanent and can be limited or reset (see how to limit or opt-out from our Advertising Partners and What are my opt-out rights sections below).
+4. Purchases
+When you download our applications, they may be offered for free and content may be purchased for real money inside our applications through Apple App Store and Google Play Store. When you purchase In-app, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the application, and; (e) information you enter through our providers (Apple and Play Store) when using the application, such as contact information and project management information.
+It is possible to turn off in-apps purchases in your devices setting. If you do not want to use this feature, turn off in-app purchases in your device's settings. Refer to the device maker for more information.
+All billing and financial information are not processed by us. It is processed by third-parties like: Apple, Google or Amazon. BWEB SARL does not store, process or share any billing information.
+By making in-game purchases you are responsible for any financial transactions and you agree that BWEB SARL will not be responsible for any loss or damage of all kinds. We reserve the right to decline refunding requests for in-app purchases if the terms stated here in this agreement are not respected.
+Advertising Partners
+1. Google Admob
+We keep our applications free of charge by using Ads with Google Admob. For more information on how Google use your information and how to control your data sent to Google, please visit this website (
+https://policies.google.com/technologies/partner-sites
+)
+You can also see the privacy policy for google here :
+https://policies.google.com/privacy?hl=en
+For your IOS device :
+Go to your Settings --> Select Privacy --> Select Advertising > Enable the "Limit Ad Tracking" setting
+If you want to see more details with screenshots, you can consult this website
+http://www.networkadvertising.org/mobile-choices
+Â for more information regarding on how an end user may opt-out via a mobile platform.
+To opt-out from interest-based ads on their sites, you can do it from that link
+https://adssettings.google.com
+2. Pubmetric
+This service is used to freely advertise BWEB SARL applications. In terms of advertising vocabulary, we name it cross promotion campaigns. To do so, Pubmetric uses the Apple's Advertising Identifier (IDFA) and their internal SDK application Id to track applications you installed from BWEB SARL. They keep the encrypted mobile advertising id for 7 days for stats purposes and then delete them from its system. To avoid excessive bandwidth consumption, while you use one of our applications, a few other applications information from us are loaded like the: app name, app icon, app title, application Id and can be presented to you. Pubmetric will also store on your device using â€œLocal Storageâ€ the previous installed applications from us and will only present you the applications that you never installed.
+To read more about their Privacy Policy please visit :
+http://www.pubmetric.com/index.php?r=site/privacy
+To opt-out from Pubmetric you can do it this way :
+For your IOS device :
+Go to your Settings --> Select Privacy --> Select Advertising > Enable the "Limit Ad Tracking" setting
+If you want to see more details with screenshots, you can consult this website
+http://www.networkadvertising.org/mobile-choices
+Â for more information regarding on how an end user may opt-out via a mobile platform.
+What are my opt-out rights?
+There are multiple opt-out options for users of this Application :
+You can stop all collection of your information by the Application easily by uninstalling the Application. You may use the standard uninstall processes of your mobile device or via the mobile application marketplace or network.
+An end user may opt-out of interest-based advertisements by adjusting the settings as described in our advertising partners sections above. If an end user opts-out of targeted advertising, the end user will still receive general advertisements.
+Push Notifications & Local Notifications
+With your consent, we could send push notifications to your device to provide game updates and other important messages. Users can deactivate push notifications by changing the notification settings following the instructions of the operating system running on the user's device.
+Children Privacy
+Our applications are intended for general audiences. We do not knowingly collect, and do not wish to collect, information about children. As per our Privacy Policy, we will never require a child to disclose more information than is reasonably necessary to participate in our application. In order to comply with the legislations (GDPR, COPPA or any others), you may see an age verification screen, when launching an application and a parental verification screen. When this age verification screen will be presented, it is important that you state the correct age. As mentioned above, our applications store the year of birth on your device only, this way we know if you have identified yourself.
+Based on your age information and your device settings, BWEB SARL does not process personal data of children under the minimum age limit that is prescribed by the legislation in the individual jurisdictions for behavioral advertisements and remarketing advertisements. If you believe that we might have and/or process any information from or about a child under the age prescribed by the legislation in your country, you always have the possibility to contact us to contact @ bwebmedia.eu . We will take all reasonable steps to contact our partners and delete the information as soon as possible.
+Transfer Data to third countries
+We may transfer, in certain circumstances, your personal data collected about you in the United States or any other countries in which BWEB SARL, its business partners, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.
+We only transfer personal data to entities in third countries that have provided appropriate safeguards to ensure that their level of data protection is in agreement with this privacy policy and applicable law.
+Therefore, the transfers will only take place based on the following safeguards :
+If the entity is certified to comply with the principles for data protection under the US-EU Privacy Shield Framework ("Privacy Shield") (you can view the entities certified under Privacy Shield at
+https://www.privacyshield.gov
+), or
+If we have entered into standard data protection clauses adopted by the Commission with the entity, which is deemed to offer sufficient safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals
+Security
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our applications. Please be aware that, although we endeavor to provide reasonable security for the information we process and maintain, no security system can prevent all potential security breaches.
+Your rights
+To exercise your data related rights, contact us at contact @ bwebmedia.eu
+The procedure consists of processing and answering without undue delay and in any event within one month unless a longer period is required due to the complexity of your request, in that case we are allowed to extend it for two additional months.
+Updates
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Contact Us
+If you have any questions regarding this privacy policy, please contact us via email at contact @ bwebmedia.eu .
+PRIVACY POLICY
+This privacy policy governs your use of the software application BWEB SARL ("Application") for mobile devices that was created by BWEB SARL In this policy, "BWEB SARL" may also be referred as "We" or "Us".
+We think that you have a right to know our practices regarding the information we may collect and use when you use our applications
+By downloading and/or playing our games, you agree to the collection and use of your information in accordance with this Privacy Policy, including consenting to BWEB SARL and our advertising partners and services use of your data for interest-based advertising purposes as described in the following sections of this Privacy Policy. Those sections also explain how you can withhold or withdraw your consent to the use of your data for interest-based advertising purposes, purchases, push notifications and local notifications. If you have any other concerns about providing information to us or it being used as described in this Privacy Policy you should not use our applications.
+IMPORTANT: We are in the process to change every application to be compliant with the new GDPR (General Data Protection Regulation) regulation. We have good hope to have all our applications in the coming days in accordance with the GDPR. If you are using an old app version that doesnâ€™t use our new GDPR regulation interfaces for EU users, and/or are worried about using this app, you should uninstall this app immediately.
+What Type of information do we collect ?
+When you access or use our applications, we may collect information automatically from your device and/or about you by using the following information such as persistent Identifier (IP address, device identifiers, ad identifiers, bundle ID, language ID, operating system version, device model, country and Mac Address) and your year of birth under applicable data protection laws.
+To comply with local laws, we may need to collect your IP address to help us determine your country of residence. In that case, your IP address may be sent to a server that we control, for evaluation purposes, but will not be stored or further processed. We also use your device settings to determine the country where you are located as a way to respect privacy laws specific to your location. We do not collect your precise location, at a level more granular than your city, without your explicit consen
+How the information are collected and how are they used?
+When you access or use our applications, we use all kinds of information made available by your device (passively), yourself (actively) or by services which are used for :
+1. Age Verification
+Applicable when you are from the United States or a European Citizen to identify if you are a child or an adult for data protection and to determine the legal requirements for the processing of your data. We use â€œLocal Storageâ€ which will allow us to enable automatic activation of certain features related to the application. Your year of birth, last access time and Interest-based ads setting are only stored on your device and not on our server.
+2. We Collect Your Consent For European Union Citizens Only
+BWEB SARL works with advertising partners that may collect information from you as part of their process of serving advertisements in our products. If you are a resident of an EU country and give your consent in accordance of the GDPR (General Data Protection Regulation), we will share mobile identifiers (Advertising id and App Name) to personalize content and ads through a third party (Google Admob) on our app. We will also share your Advertising ID with our partner Pubmetric. You can see how and why in our section below.
+To get your mobile ad identifier.
+To remember your settings inside the application.
+It helps us to give you a better experience by finding bugs and crashes in our apps.
+When we ask for your consent to personalize your ads and content, you have the right to withdraw or decline your consent at any time. Please note that this does not affect the lawfulness of the processing based on consent before its withdrawal. To change your consent status, please visit the content setting banner on the cover of the game. You will be able to change your consent by disabling personalized ads.
+If you are a resident of an EU country and indicate that you are below the age of 16, you will be served non-personalized ads and the advertising companies will not collect personal information from you.
+3. Advertisement
+When applicable, we show interest-based ads or contextual ads. Advertising services use ad identifiers, cookies and similar technologies to collect data and show you interest-based ads. They are based on previously collected or historical data to determine or influence ad selection. If you disable that option, ads will not use mobile ad identifier for ad targeting, they will still however use mobile ad identifier for frequency capping, aggregated ad reporting, and to combat fraud and abuse. Advertising Identifiers are non-permanent and can be limited or reset (see how to limit or opt-out from our Advertising Partners and What are my opt-out rights sections below).
+4. Purchases
+When you download our applications, they may be offered for free and content may be purchased for real money inside our applications through Apple App Store and Google Play Store. When you purchase In-app, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the application, and; (e) information you enter through our providers (Apple and Play Store) when using the application, such as contact information and project management information.
+It is possible to turn off in-apps purchases in your devices setting. If you do not want to use this feature, turn off in-app purchases in your device's settings. Refer to the device maker for more information.
+All billing and financial information are not processed by us. It is processed by third-parties like: Apple, Google or Amazon. BWEB SARL does not store, process or share any billing information.
+By making in-game purchases you are responsible for any financial transactions and you agree that BWEB SARL will not be responsible for any loss or damage of all kinds. We reserve the right to decline refunding requests for in-app purchases if the terms stated here in this agreement are not respected.
+Advertising Partners
+1. Google Admob
+We keep our applications free of charge by using Ads with Google Admob. For more information on how Google use your information and how to control your data sent to Google, please visit this website (
+https://policies.google.com/technologies/partner-sites
+)
+You can also see the privacy policy for google here :
+https://policies.google.com/privacy?hl=en
+For your IOS device :
+Go to your Settings --> Select Privacy --> Select Advertising > Enable the "Limit Ad Tracking" setting
+For your ANDROID device :
+Go to your Settings --> Google Setting --> Ads --> Enable "Opt Out of Ads Personalization"
+If you want to see more details with screenshots, you can consult this website
+http://www.networkadvertising.org/mobile-choices
+Â for more information regarding on how an end user may opt-out via a mobile platform.
+To opt-out from interest-based ads on their sites, you can do it from that link
+https://adssettings.google.com
+2. Pubmetric
+This service is used to freely advertise BWEB SARL applications. In terms of advertising vocabulary, we name it cross promotion campaigns. To do so, Pubmetric uses the Apple's Advertising Identifier (IDFA) or Android's Advertising Id (formally named Mobile Advertising Identifier) and their internal SDK application Id to track applications you installed from BWEB SARL. They keep the encrypted mobile advertising id for 7 days for stats purposes and then delete them from its system. To avoid excessive bandwidth consumption, while you use one of our applications, a few other applications information from us are loaded like the: app name, app icon, app title, application Id and can be presented to you. Pubmetric will also store on your device using â€œLocal Storageâ€ the previous installed applications from us and will only present you the applications that you never installed.
+To read more about their Privacy Policy please visit :
+http://www.pubmetric.com/index.php?r=site/privacy
+To opt-out from Pubmetric you can do it this way :
+For your IOS device :
+Go to your Settings --> Select Privacy --> Select Advertising > Enable the "Limit Ad Tracking" setting
+For your ANDROID device :
+Go to your Settings --> Google Setting --> Ads --> Enable "Opt Out of Ads Personalization"
+If you want to see more details with screenshots, you can consult this website
+http://www.networkadvertising.org/mobile-choices
+Â for more information regarding on how an end user may opt-out via a mobile platform.
+What are my opt-out rights?
+There are multiple opt-out options for users of this Application :
+You can stop all collection of your information by the Application easily by uninstalling the Application. You may use the standard uninstall processes of your mobile device or via the mobile application marketplace or network.
+An end user may opt-out of interest-based advertisements by adjusting the settings as described in our advertising partners sections above. If an end user opts-out of targeted advertising, the end user will still receive general advertisements.
+Push Notifications & Local Notifications
+With your consent, we could send push notifications to your device to provide game updates and other important messages. Users can deactivate push notifications by changing the notification settings following the instructions of the operating system running on the user's device.
+Children Privacy
+Our applications are intended for general audiences. We do not knowingly collect, and do not wish to collect, information about children. As per our Privacy Policy, we will never require a child to disclose more information than is reasonably necessary to participate in our application. In order to comply with the legislations (GDPR, COPPA or any others), you may see an age verification screen, when launching an application and a parental verification screen. When this age verification screen will be presented, it is important that you state the correct age. As mentioned above, our applications store the year of birth on your device only, this way we know if you have identified yourself.
+Based on your age information and your device settings, BWEB SARL does not process personal data of children under the minimum age limit that is prescribed by the legislation in the individual jurisdictions for behavioral advertisements and remarketing advertisements. If you believe that we might have and/or process any information from or about a child under the age prescribed by the legislation in your country, you always have the possibility to contact us to contact @ bwebmedia.eu . We will take all reasonable steps to contact our partners and delete the information as soon as possible.
+Transfer Data to third countries
+We may transfer, in certain circumstances, your personal data collected about you in the United States or any other countries in which BWEB SARL, its business partners, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.
+We only transfer personal data to entities in third countries that have provided appropriate safeguards to ensure that their level of data protection is in agreement with this privacy policy and applicable law.
+Therefore, the transfers will only take place based on the following safeguards :
+If the entity is certified to comply with the principles for data protection under the US-EU Privacy Shield Framework ("Privacy Shield") (you can view the entities certified under Privacy Shield at
+https://www.privacyshield.gov
+), or
+If we have entered into standard data protection clauses adopted by the Commission with the entity, which is deemed to offer sufficient safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals
+Security
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our applications. Please be aware that, although we endeavor to provide reasonable security for the information we process and maintain, no security system can prevent all potential security breaches.
+Your rights
+To exercise your data related rights, contact us at contact @ bwebmedia.eu
+The procedure consists of processing and answering without undue delay and in any event within one month unless a longer period is required due to the complexity of your request, in that case we are allowed to extend it for two additional months.
+Updates
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Contact Us
+If you have any questions regarding this privacy policy, please contact us via email at contact @ bwebmedia.eu .
+Last Update : 21/11/2019

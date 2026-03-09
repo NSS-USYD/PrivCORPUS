@@ -1,0 +1,13 @@
+Privacy Policy
+My Talking Monkey
+is a free application for children. Children can play and learn with Monkey through this application. Including books, music, game... suitable for children.
+Thank you for using My Talking Monkey. This is a privacy policy for app.
+Permissions requested for main functionality and how they are being used by the app:
+1. RECORD_AUDIO
+Our application requires RECORD_AUDIO rights to serve the functions (listening and talking) of the application. We don't save the audio data and don't collect any user information.
+2. INTERNET
+is used to display advertisement banners. We use Google Admob as a service for that. We collect the Android advertising ID for advertising purposes.
+In addition, we don't collect any other user information.
+We are committed not use our application for bad intentions. We comply with the Privacy Policy, Secure Transmission, and Prominent Disclosure requirements. Such as collecting user information, revealing user information.
+If you have any questions or suggestions about my Privacy Policy, please contact me:
+info@sonlam.com

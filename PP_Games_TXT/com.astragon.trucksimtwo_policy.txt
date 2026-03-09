@@ -1,0 +1,569 @@
+Data privacy statement of astragon Entertainment GmbH
+I.
+General information
+Welcome! Thank you for your interest in our website. We are astragon Entertainment GmbH,
+Am Wehrhahn 33,
+D-40211 DÃ¼sseldorf. You can contact us at: info@astragon.de
+Our commitment
+Protecting your privacy is of utmost importance to us. Therefore, complying
+with the statutory data
+privacy
+regulations forms a natural
+foundation
+of
+our
+day-to-day
+work.
+It is,
+however,
+moreover paramount to us
+that
+you at all times know which personal data we gather, why we gather it, and how we process it. We will be h
+appy
+to explain to you what rights you have and how to exercise them
+, as well.
+What is personal d
+ata?
+To put it briefly, anything whereby you, as an individual, can be identified, whether due to the inf
+ormation itself
+or in connection with other information. Examples of this include your name, e-mail address, or als
+o a customer
+ID, but even the
+point
+in time
+at which
+you visit our website
+if that
+is saved together
+with
+your
+IP address.
+We
+constantly endeavour
+to
+gather
+as
+little
+personal
+data as
+possible.
+Simultaneously, we
+are informing
+you
+in
+this
+document, in depth, on your personal data, if we gat
+her any.
+Why is this document so l
+ong?
+The legislative authority requires us to describe the following to you in regard to all personal da
+ta individually:
+-
+-
+-
+-
+-
+-
+which personal data we gather (= the nature of the data
+gathered)
+which law or ordinance or regulation permits us to do so (= the
+legal basis)
+why we gather said data (= the inten
+ded use)
+what exactly happens to your data (= the nature of th
+e processing)
+how long we save your pers
+onal data
+what rights you have in regard to your personal data (= the rights of
+data subjects)
+We need to list all the steps individually. This is why this document is very e
+xtensive.
+1.
+Controller and Corporate Data Protection Officer
+Responsible within the meaning of the EU General Data Protection Regulation (GDPR) are
+we, the company
+astragon Entertainment GmbH
+Am Wehrhahn. 33, D-40211 DÃ¼sseldorf
+info@astragon.
+de
+If you
+have
+any
+questions
+regarding
+data
+protection
+please
+contact
+our
+Corporate
+Data
+Protection
+Officer
+.
+Our
+Corporate Data Protection Officer is
+Benjamin Wolf
+datenschutz@astrago
+n.de
+2.
+Legal basi
+s
+We gather and process personal data based on the most up-to-date European law. You will find
+the entire legal
+basis specified below in the General Data Protection Regulation (GDPR). Depending upon the purpose for
+gathering the data, one or more of the legal bases be
+low will apply:
+â€¢
+Consent pursuant t
+o
+Art.
+6(1)(a)
+General Data
+Protection
+Regulation
+(GDPR).
+Consent is a declaration of intent. This can be given in writing in the form of a state
+ment, or also
+by way
+of any
+other
+clearly
+affirmative action
+.
+In
+whatever
+way
+the consen
+t
+is
+given,
+it
+needs
+to
+be given voluntarily, apply to a specific case, and unmistakably express that the data su
+bject is in
+agreement with the processing of the personal data concerned. For that pur
+pose, the data
+subject needs to be adequately informed and understand the co
+nsent.
+â€¢
+The necessity
+of fulfilli
+ng
+the
+contrac
+t
+or
+takin
+g
+preparatory
+measure
+s
+pursuant
+to
+Art.
+6(1)(b)
+GDPR
+This means: The data is necessary so that we can fulfil the contractual obligatio
+ns towards you or
+we need the data to prepare for concluding an agreement w
+ith you.
+â€¢
+â€¢
+Processing to fulfil legal obligations pursuant to
+Art. 6(1)(c) GDPR
+This means: The processing of the data is, for example, mandatory for us based o
+n a law or other
+regulation.
+Processing in
+order
+to
+preserve legitima
+te
+interests
+pursuant
+to
+Art.
+6(1)(f)
+GDPR
+This means: The processing of the data is necessary in order to, on the on
+e hand, preserve
+legitimate interests
+on
+our par
+t
+or
+on
+the par
+t
+of a
+third
+party,
+as
+long
+as
+your
+interests
+or
+basic
+rights and basic freedoms, which make the protection of personal data n
+ecessary, do not
+outweigh the latter
+.
+3.
+Rights of data subjec
+ts
+As far as your personal data is concerned, you are the data subject. You have the foll
+owing rights in regard to
+the processing of data by us in the scope in accordance with the respective article of
+the General Data
+Protection Regulation cited:
+â€¢
+â€¢
+â€¢
+â€¢
+â€¢
+â€¢
+The right to information
+pursuant to Art. 15 GDP
+R
+The right
+to
+correction
+pursuant
+to
+Art.
+16
+GDPR
+The right to deletio
+n
+(â€œRight to be forgottenâ€) pursuant to Art. 1
+7 GDPR
+The right to limit the process
+ing
+pursuant to Art. 18 G
+DPR
+The right to data portabilit
+y
+pursuant to Art. 20 GD
+PR
+The
+right of opposition
+pursuant to Art. 21 GD
+PR
+Notwithstanding any
+other
+legal remedy
+under
+administrative
+or
+judicial law, you are
+entitled
+to file
+an
+appeal
+with a supervisory
+authority, in
+particular in
+the
+EU
+Member
+State that
+is
+your
+place
+of residence,
+your place
+of
+work or the
+place of the presumed
+infringement if
+you
+are of the opinion
+that the
+processing of the
+personal
+data concerned infringes the GDP
+R.
+4.
+Deletion of data and duration of sto
+rage
+The personal data of the data subject is
+deleted or blocked once the purpose of the
+storage lapses.
+It
+may,
+moreover, be stored beyond that time if this has been stipulated by the European or national legislative authority
+in EU
+ordinances,
+laws or
+other
+regulations
+to which the
+Controller
+is
+subject. The
+data
+may
+also
+be
+blocked
+or
+deleted if
+a
+storage
+period
+stipulated by said standards expires, unless the
+necessity
+for further storage
+of
+the
+data for concluding an agreement or fulfilling an agreement e
+xists.
+II.
+Specific data processing
+1.
+Firebase
+a)
+Scope
+of
+the
+data
+processin
+g
+This game
+uses
+Firebase
+,
+a web analysis service
+of Google
+Inc.
+(â€œGoogleâ€).
+The
+software
+â€žFireBaseâ€œ
+was developed by Google, 1600 Amphitheatre Parkway, Mountain View, CA
+94043,
+USA
+(hereinafter referred
+to
+as
+"Google").
+This
+software gathers information on how
+you
+use
+the
+game
+and creates various statistics
+from that. The usage
+data gathered in particular includes the
+specific
+selection of menu items or
+functions, the
+time spent
+on the
+game or
+in individual menus
+or
+missions,
+and the sequence in which you used the functions of the game, as well as the frequency of playing the
+game. This data is gathered together with your IP address. The IP address transmitted by your browser
+within the context of Firebase is not merged with other data of
+Google.
+We have activated
+the
+so-called
+IP anonymisation in this game, i.e.
+the
+IP
+address is first truncated
+by
+Google within Member States of
+the European
+Union or
+in other
+contracting states of
+the
+Agreement
+on the European Economic Area, prior to being transmitted on to the USA.
+Only in exceptional cases is the full IP address transmitted to a server of Google in the USA and truncated
+there.
+https://www.google.com/policies/privacy/
+.
+b)
+Legal
+basis
+The lega
+l
+basis
+for
+the processi
+ng
+of
+the
+data
+when
+using th
+e
+game
+is
+Art.
+6(1)(1)(f)
+GDPR.
+Googl
+e
+itsel
+f
+describe
+s
+its
+data
+processin
+g
+activity
+here:
+The legitimate interest
+within
+the
+meaning of Art.
+6(1)(f)
+GDPR lies
+in a
+customer-orientated
+design
+of
+the game, which does
+justice
+to the userâ€™s
+requirements and takes the
+userâ€™s
+usage preferences
+into
+consideratio
+n.
+The legal basis
+for the
+passing on
+of
+the data
+to
+Google
+is Art.
+28(3)
+and
+Art. 45(3)
+GDPR.
+The
+service
+provider is certified under the Privacy Shield
+Framework and is therefore
+subject to
+the
+adequacy
+decision (Implementing Decision 2016/1250) of the European Commission, i.e. the level of data
+protection with the
+service provider
+is recognised
+as
+being
+equivalent
+to that
+stipulated by
+the
+GDPR,
+even though the service provider has its registered office in th
+e USA.
+2.
+3.
+4.
+Purpose of the data proces
+sing
+The processing serves the
+purpose of analysing our games
+and
+the usage
+pattern of the
+respective
+players
+.
+Duration of the storage
+The data is already anonymised directly after being gathered. Personal data is therefore only gathered
+in the course of the transmission, and not pe
+rmanently.
+The possibility of objection and deletion
+You may prevent the
+cookies
+from being saved,
+including
+the
+generation and
+transmission
+of
+data
+to
+Google, by deactivating â€œ
+Firebas
+e
+â€ in the game setti
+ngs.
+2.
+Faceboo
+k
+While playing the game you can get connected to your Facebook profile. Because of this connection the following
+data collected by Facebook will be provided to astragon: e-mail address; the public profile, (first and last name,
+if filed
+at
+Facebook,
+profile
+photo,
+sex and age
+);
+list
+of
+friends also
+using game
+apps.
+By creating
+a
+link to
+your
+Facebook profile you agree that the data is processed and transferred for these purposes. astragon has
+no
+influence on how Facebook uses the
+collected data. We refer to the following privacy
+policy:
+https://www.facebook.com/about/p
+rivacy
+3.
+Do we gather personal data if you play our games on a mobile phone
+or tablet?
+When you use our games on a mobile phone or tablet with the Google Android or Apple iOS operating systems,
+we do not gather any personal data.
+Please
+infer whether, and
+to
+what extent,
+personal data
+is gathered
+and
+processed by Apple or Google in the context of using the games from the respective data privacy policies of the
+relevant provider. This may in particular be the case if you use the convenience functions of Apple or Google that
+are integrated
+into the
+game,
+e.g.
+logging in
+to the
+Game Center,
+saving
+game
+statuses,
+etc.
+We
+have no
+access
+to such data that is gathered by Apple or Goo
+gle.
+Date 15.07.2020

@@ -1,0 +1,204 @@
+BroadLink Smart Platform Privacy Policy
+1. Hangzhou BroadLink Technology Co., Ltd, its affiliates and subsidiaries (â€œweâ€, â€œusâ€, â€œourâ€, â€œBroadLinkâ€) recognizes that your privacy is important, and we take it seriously. This Privacy Policy describes how we process personal data and protection information privacy during your use of the following services, products and related mobile applications (â€œProductsâ€).
+1.1.BroadLink smart life mobile applications
+In this Privacy Policy, â€œPersonal Dataâ€ means information that can be used to identify an individual, either from that information alone, or from that information and other information we have access to about that individual. â€œSmart Devicesâ€ refers to those nonstandard computing devices produced or manufactured by hardware manufacturers, with human-machine interface and the ability to transmit data that connect wirelessly to a network, including smart home appliances, smart wearable devices, smart air cleaning devices, etc. â€œAppsâ€ refers to those mobile applications developed by BroadLink and used to help users to remotely control smart devices and connect to BroadLink IOT platform.
+      This Privacy Policy also covers our processing of information collected on behalf of and under the direction of our Clients through OEM branded Apps and BroadLink APIs. The processing of such information is limited to the purpose of providing the service for which our Clients has engaged us and BroadLink has no direct relationship with the individuals whose Personal Data it processes. If you are a customer of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.
+What Personal Data Do We Collect?
+1.3. In order to provide you with our services, we may request you to provide personal data required for this kind of services. We may be unable to provide you with our products and services if you refuse to provide your personal data.
+2. Information You Voluntarily Provide Us
+Account or Profile Data: When you register an account with us, we may collect your name and contact details, such as your name, email address, mailing address, phone number, username, and login credentials. During your interaction with our products, we may further collect your information such as nickname, avatar, country code, language preference or time zone in your account.
+      Feedback: When you use our feedback and advice features in our products, we may collect your email address, mobile phone number and feedback content for our further processing of your issue and device troubleshooting.
+3. Information We Collect Automatically
+3.1. Account Information: Your account nickname, avatar, mobile phone number and email address; Facebook authorized login account (limited to ihc / ihc for EU); Google authorized login account, etc.
+3.2. Device Information: When you interact with our products, we automatically collect device information, such as positioning permission (required for obtaining Wi-Fi SSIDs during device setup for Android 6.0 and above versions), the MAC address of your devices, IP address, wireless connection information, operating system type and version, App version, push notification identifier, log file and mobile network information.
+3.3. Usage Data: During your interaction with our Sites and Services, we automatically collect usage data relating to visits, clicks, downloads, messages sent/received, and other usage of our Sites and Services.
+3.4. Log information: When you use our App, the system and abnormity logs might be uploaded.
+3.5. Location Information: We may collect information about your real-time precise or non-precise geo-location when you interact with our Products and Services (e.g. sweeping robot and weather service).
+3.6. Home name, home location (specified manually), room info, home background picture and local electricity tariff.
+3.7. Normally generated data during use: scene info, trigger info and remote panel info.
+3.8. Smart device related information:
+3.8.1. Basic information of smart devices: When you use Smart Devices that are connected to our Products or Services, we may collect basic information related to smart devices, such as device name, device ID, online status, activated time, firmware version and updates information.
+3.8.2. Information reported by smart devices: We may collect the information reported by smart devices according to the types of smart devices you selected to be connected to our Products or Services. For example, the smart weighing scale or fitness tracker may report your height, weight, blood flow meter (BFM), body mass index (BMI) and skeletal muscle mass (SMM); the smart camera may collect pictures and videos it takes.
+3.9. We do not collect your data which may reveal personal race or its source, political opinion, religion/philosophical belief, labor union membership, personal gene identification, biological data, or data related to heath, sexual life or sexual orientation. We do not collect personal data of users under age of 16 without permission from their legal guardians. If you are under age of 16, you need to get permission from your parent or other legal guardian before using the App and products.
+4. Purposes and Legal Basis for Processing Personal Data
+4.1. The purpose for which we may process information about you are as follows:
+1) Provide You Services: We process your account and profile data, device information, usage data, location information, and Smart Device related information to provide you with our Products and Services that you have requested or purchased.
+The legal basis for this processing is to perform our contract with you according to our Terms of Use.
+2) Improve Our Services: We process your device information, usage data, location information and Smart Device related information to ensure the functions and safety of our Products, to develop and improve our Products and Services, to analyze the efficiency of our operations, and to prevent and trace fraudulent or inappropriate usage. The legal basis for this processing is to perform our contract with you according to our Terms of Use.
+3) Non-marketing Communication: We process your personal data to send you important information regarding the Services, changes to our terms, conditions, and policies and/or other administrative information. Because this information may be important, you may not opt-out of receiving such communications. The legal basis for this processing is to perform our contract with you according to our Terms of Use.
+4) Marketing Communication: We may process your personal data to provide marketing and promotional materials to you on our Products and Services. If we do so, each communication we send you will contain instructions permitting you to opt-out of receiving future communications of that nature. The legal basis for this processing is your consent. Additionally, if you consent to participate in our lottery, contest or other promotions, we may use your personal data to manage such activities.
+5) Personalization: We may process your account and profile data, usage data, device information to personalize product design and to provide you with services tailored for you, such as recommending and displaying information and advertisements regarding products suited to you, and to invite you to participate in surveys relating to your use of our Products.
+The legal basis for this processing is your consent.
+4.2. Legal Compliance: We may process your personal data as we believe to be necessary or appropriate: a)	to comply with applicable laws and regulations; b) to comply with legal process; c) to respond to requests from public and government authorities; d) to enforce our terms and conditions; e) to protect our operations, business and systems; f) to protect our rights, privacy, safety or property, and/or that of other users, including you; and g)	to allow us to pursue available remedies or limit the damages that we may sustain.
+5. Who Do We Share Personal Data with?
+5.1. At BroadLink, we only share personal data in ways that we tell you about. We may share your Personal Data with the following recipients:
+To our third-party service providers who perform certain business-related functions for us, such as website hosting, data analysis, payment and credit card processing, infrastructure provision, IT services, customer support service, e-mail delivery services, and other similar services to enable them to provide services to us.
+5.2. To our customers and other business partners who provide you, directly or indirectly, with your Smart Devices, and/or networks and systems through which you access and use our Sites and Services.
+5.3. To an affiliate or other third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings). In such an event, you will be notified via email and/or a prominent notice on our website of any change in ownership, incompatible new uses of your personal information, and choices you may have regarding your personal information.
+5.4. As we believe to be necessary or appropriate: a)	to comply with applicable laws and regulations; b)	to comply with legal process; c)	to respond to requests from public and government authorities, including public and government authorities outside your country of residence; d)	to enforce our terms and conditions; e)	to protect our operations, business and systems; f)	to protect our rights, privacy, safety or property, and/or that of other users, including you; and g)	to allow us to pursue available remedies or limit the damages that we may sustain.
+To subsidiaries or affiliates within our corporate family, to carry out regular business activities.
+Except for the third parties described above, to third parties only with your consent.
+6. Transfer of Information Collected
+6.1. To facilitate our operation, we may transfer, store and process your Personal Data in jurisdictions other than where you live. Laws in these countries may differ from the laws applicable to your country of residence. When we do so, we will ensure that an adequate level of protection is provided for the information by using the following approach:
+      An agreement based on approved EU standard contractual clauses per GDPR Art. 46. For more information, see here:
+https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en
+.
+If you would like further detail on the safeguards we have in place, you can contact us directly as described in this Privacy Policy.
+6.2. If you are using Products in EU region, all your personal data will be preferred to be stored inside EU region. However, in order to improve the user experience of Products you have, we will transfer the uploaded data with your consent to the servers in whitelisted countries and regions (US, Canada, Switzerland, New Zealand) which are recognized by EU, China, Japan or Russia. The risk of data privacy protection exists when data is transferred to countries and regions outside EU. You acknowledge this and agree with the data transfer across EU and other regions.
+7. Your Rights Relating to Your Personal Data
+7.1. We respect your rights and control over your personal data. You may exercise any of the following rights:
+1) Manually delete data in our Products (currently only available in ihc / ihc for EU / BroadLink App);
+2) If you have any doubts, please send us email to
+dpo@broadlink.com.cn
+for help.
+7.2. You do not have to pay a fee and we will aim to respond you within 30 days. If you decide to email us, in your request, please make clear what information you would like to have changed, whether you would like to have your personal information deleted from our database or otherwise let us know what limitations you would like to put on our use of your personal information. Please note that we may ask you to verify your identity before taking further action on your request, for security purposes.
+7.3. You may:
+1) Request access to the personal data that we process about you as you have the rights to know the condition of data collection including data uploading to cloud with your consent;
+      2) Request that we correct inaccurate or incomplete personal information about you;
+      3) Request deletion of personal data about you and erasing data backup on cloud. When you delete your personal data, your account linking with Alexa/Google platform will be also canceled and all your personal data on cloud will be deleted synchronously;
+      4) Request transfer of personal information to you or a third party where we process the data based on your consent or a contract with you, and where our processing is automated; and 5) Opt-out or object to our use of personal data about you where our use is based on your consent or our legitimate interests.
+6) You can delete your account. Your data backup on cloud will be also deleted when your account is deleted. You have the rights to delete your account and all data under this account manually at any time.
+8. Information Security Safeguards
+8.1. We use commercially reasonable physical, administrative, and technical safeguards to preserve the integrity and security of your personal information. BroadLink provides various security strategies to effectively ensure data security of user and device. As for device access, BroadLink proprietary algorithms are employed to ensure data isolation, access authentication, applying for authorization. As for data communication, communication using security algorithms and transmission encryption protocols and commercial level information encryption transmission based on dynamic keys are supported. As for data processing, strict data filtering and validation and complete data audit are applied. As for data storage, all confidential information of users will be safely encrypted for storage. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by
+dpo@broadlink.com.cn
+8.2. We will irregularly improve data protection measures including but not limited to measures such as data encryption, physical measures and data authentication. We will selectively notify you according to situations.
+8.3. We assigned a data protection officer (DPO) whose email address is
+dpo@broadlink.com.cn
+.
+8.4. In case of your personal data leak, we will report the situation of personal data leak to EU or regulatory organization in your country in 72 hours, take remedy measures first time and report to you and regulatory organization in EU with remedy measures. In case we failed to report to regulatory organization in 72 hours, we will explain the reason for the delay of reporting in subsequent report.
+8.5. Information Retention Period
+We process your personal data for the minimum period necessary for the purposes set out in this Privacy Notice, unless there is a specific legal requirement for us to keep the data for a longer retention period. We determine the appropriate retention period based on the amount, nature, and sensitivity of your personal data, and after the retention period ends, we will destruct your personal data. When we are unable to do so for technical reasons, we will ensure that appropriate measures are put in place to prevent any further such use of your personal data.
+9. Dispute Resolution
+9.1. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact Hangzhou Arbitration Commission in China for arbitration (The website is http://www.hzhac.org).
+10. Changes to this Privacy Policy
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (send to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+11. Contact Us
+If you have any questions about our practices or this Privacy Policy, please contact us as follows:
+Hangzhou BroadLink Technology Co., Ltd.
+      Add: Building C, AI Industrial Park, 57 Jiangâ€™er Road, Binjiang District, Hangzhou, P.R. China
+      Email:
+dpo@broadlink.com.cn
+For European Union data subject, you have the right to lodge a complaint with a supervisory authority concerning BroadLinkâ€™s data processing activities. For questions, or to exercise your rights as an EU data subject, please contact our EU Representative here:
+      Email:
+dpo@broadlink.com.cn
+åšè”æ™ºèƒ½éšç§æ”¿ç­–
+1.æ­å·žåšè”æ™ºèƒ½ç§‘æŠ€è‚¡ä»½æœ‰é™å…¬å¸åŠå…¶é™„å±žå…¬å¸ï¼ˆä»¥ä¸‹åˆç§°ä¸ºâ€œæˆ‘ä»¬â€æˆ–â€œåšè”â€ï¼‰è‡´åŠ›äºŽä¿æŠ¤æ‚¨çš„ä¸ªäººéšç§ã€‚æœ¬éšç§æ”¿ç­–ï¼ˆä¸‹ç§°â€œæœ¬æ”¿ç­–â€ï¼‰é˜è¿°äº†åœ¨æ‚¨ä½¿ç”¨ä¸‹åˆ—æœåŠ¡ã€äº§å“å’Œç›¸å…³ç§»åŠ¨åº”ç”¨ç¨‹åºï¼ˆç»Ÿç§°ä¸ºâ€œäº§å“â€ï¼‰æœŸé—´ï¼Œæˆ‘ä»¬å¦‚ä½•å¤„ç†ä¸ªäººæ•°æ®å¹¶ä¿éšœä¿¡æ¯éšç§ã€‚
+1.1åšè”æ™ºèƒ½æ‰‹æœºåº”ç”¨ç¨‹åºå’Œæ™ºèƒ½ç”Ÿæ´»ç§»åŠ¨åº”ç”¨ç¨‹åº
+åœ¨æœ¬æ”¿ç­–ä¸­ï¼Œâ€œä¸ªäººæ•°æ®â€æ˜¯æŒ‡å•ç‹¬ä½¿ç”¨æˆ–è€…ç»“åˆå…¶ä»–ä¿¡æ¯ä½¿ç”¨èƒ½å¤Ÿè¯†åˆ«ä¸ªäººèº«ä»½çš„ä¿¡æ¯ã€‚â€œæ™ºèƒ½è®¾å¤‡â€æ˜¯æŒ‡ç¡¬ä»¶åˆ¶é€ å•†ç”Ÿäº§æˆ–åˆ¶é€ çš„ï¼Œå…·æœ‰äººæœºç•Œé¢å¹¶ä¸”å¯ä»¥é€šè¿‡æ— çº¿ç½‘ç»œä¼ è¾“æ•°æ®çš„éžæ ‡å‡†è®¡ç®—è®¾å¤‡ï¼ŒåŒ…æ‹¬æ™ºèƒ½å®¶ç”¨ç”µå™¨ã€æ™ºèƒ½å¯ç©¿æˆ´è®¾å¤‡ã€æ™ºèƒ½ç©ºæ°”å‡€åŒ–è®¾å¤‡ç­‰ã€‚â€œåº”ç”¨ç¨‹åºâ€æ˜¯æŒ‡ç”±åšè”å¼€å‘çš„ç§»åŠ¨åº”ç”¨ç¨‹åºï¼Œèƒ½å¤Ÿå¸®åŠ©ç»ˆç«¯ç”¨æˆ·è¿œç¨‹æŽ§åˆ¶æ™ºèƒ½è®¾å¤‡å¹¶è¿žæŽ¥è‡³åšè”ç‰©è”ç½‘ï¼ˆIoTï¼‰å¹³å°ã€‚
+1.2å¯¹äºŽç”±åšè”æä¾›æ”¯æŒæœåŠ¡çš„å…¶ä»–å“ç‰Œå•†çš„ç§»åŠ¨åº”ç”¨ç¨‹åºï¼Œå°†ç”±æˆ‘ä»¬çš„å®¢æˆ·å†³å®šè¦é€šè¿‡æˆ‘ä»¬çš„äº§å“æ”¶é›†å“ªäº›ä¸ªäººæ•°æ®ã€‚æˆ‘ä»¬æ ¹æ®å®¢æˆ·çš„è¦æ±‚æ”¶é›†ä¿¡æ¯ï¼Œæ­¤ç±»ä¿¡æ¯çš„å¤„ç†ä»…é™äºŽæä¾›å®¢æˆ·ä¸Žæˆ‘ä»¬çº¦å®šçš„æœåŠ¡ã€‚å¦‚æžœæ‚¨æ˜¯æˆ‘ä»¬å®¢æˆ·çš„ç”¨æˆ·ï¼Œå¹¶ä¸”æ‚¨ä¸å¸Œæœ›ä½¿ç”¨æˆ‘ä»¬æœåŠ¡çš„å®¢æˆ·è”ç³»æ‚¨ï¼Œè¯·ç›´æŽ¥è”ç³»è¯¥å®¢æˆ·å¹¶å‘ŠçŸ¥æ‚¨çš„è¯‰æ±‚ã€‚
+      æˆ‘ä»¬æ”¶é›†å“ªäº›ä¸ªäººæ•°æ®
+1.3ä¸ºäº†å‘æ‚¨æä¾›æˆ‘ä»¬çš„æœåŠ¡ï¼Œæˆ‘ä»¬ä¼šè¦æ±‚æ‚¨æä¾›æ­¤ç±»æœåŠ¡æ‰€å¿…é¡»çš„ä¸ªäººæ•°æ®ã€‚å¦‚æžœæ‚¨ä¸æä¾›ä¸ªäººæ•°æ®ï¼Œæˆ‘ä»¬å¯èƒ½æ— æ³•ä¸ºæ‚¨æä¾›æˆ‘ä»¬çš„äº§å“æˆ–æœåŠ¡ã€‚
+2.æ‚¨è‡ªæ„¿å‘æˆ‘ä»¬æä¾›çš„ä¿¡æ¯
+å¸æˆ·æˆ–ä¸ªäººèµ„æ–™æ•°æ®ï¼šå½“æ‚¨æ³¨å†Œæˆ‘ä»¬çš„å¸æˆ·æ—¶ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šæ”¶é›†æ‚¨çš„å§“åå’Œè”ç³»æ–¹å¼ï¼Œå¦‚æ‚¨çš„ç”µå­é‚®ä»¶åœ°å€ã€ç”µè¯å·ç ã€ç”¨æˆ·åå’Œç™»å½•å‡­æ®ã€‚åœ¨æ‚¨ä¸Žæˆ‘ä»¬çš„äº§å“äº¤äº’æœŸé—´ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šè¿›ä¸€æ­¥æ”¶é›†æ‚¨å¸æˆ·ä¸­çš„æ˜µç§°ã€å¤´åƒã€å›½å®¶ä»£ç ã€è¯­è¨€åå¥½æˆ–æ—¶åŒºä¿¡æ¯ç­‰ã€‚
+      åé¦ˆï¼šå½“æ‚¨ä½¿ç”¨æˆ‘ä»¬äº§å“ä¸­çš„åé¦ˆå’Œå»ºè®®åŠŸèƒ½æ—¶ï¼Œæˆ‘ä»¬ä¼šæ”¶é›†æ‚¨çš„ç”µå­é‚®ä»¶åœ°å€ã€æ‰‹æœºå·ç å’Œåé¦ˆå†…å®¹ï¼Œä»¥ä¾¿åŠæ—¶å¤„ç†æ‚¨çš„é—®é¢˜å’Œè®¾å¤‡æ•…éšœã€‚
+3.æˆ‘ä»¬è‡ªåŠ¨æ”¶é›†çš„ä¿¡æ¯ã€å¿…é€‰å’Œç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘
+3.0ã€å¿…é€‰ã€‘åŸºæœ¬è´¦æˆ·ä¿¡æ¯ï¼šæ‰‹æœºå·ç ä»¥åŠé‚®ç®±åœ°å€ï¼›å¯†ç ã€‚
+3.1ã€å¿…é€‰ã€‘æ‰‹æœºè®¾å¤‡ç›¸å…³ä¿¡æ¯ï¼šå½“æ‚¨ä¸Žæˆ‘ä»¬çš„äº§å“äº¤äº’æ—¶ï¼Œæˆ‘ä»¬ä¼šè‡ªåŠ¨æ”¶é›†è®¾å¤‡ä¿¡æ¯ï¼Œå¦‚å®šä½æƒé™ï¼šè®¾å¤‡é…ç½‘æ—¶å€™éœ€è¦Android6.0ä»¥ä¸ŠèŽ·å–è®¾å¤‡WiFIä¿¡æ¯ï¼ˆåŒ…æ‹¬é™„è¿‘WiFIåˆ—è¡¨ï¼‰çš„å®šä½æƒé™ï¼›æ‰‹æœºåž‹å·ç›¸åº”ä¿¡æ¯ã€IPåœ°å€ã€æ— çº¿è¿žæŽ¥ä¿¡æ¯ã€æ“ä½œç³»ç»Ÿç±»åž‹å’Œç‰ˆæœ¬ã€åº”ç”¨ç¨‹åºç‰ˆæœ¬å·ã€æŽ¨é€é€šçŸ¥æ ‡è¯†ç¬¦ã€æ—¥å¿—æ–‡ä»¶å’Œç§»åŠ¨ç½‘ç»œä¿¡æ¯ã€‚
+3.2ã€å¿…é€‰ã€‘æ™ºèƒ½è®¾å¤‡åŸºæœ¬ä¿¡æ¯ï¼šå½“æ‚¨ä½¿ç”¨ä¸Žæˆ‘ä»¬çš„äº§å“æˆ–æœåŠ¡è¿žæŽ¥çš„æ™ºèƒ½è®¾å¤‡æ—¶ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šæ”¶é›†æœ‰å…³æ™ºèƒ½è®¾å¤‡çš„åŸºæœ¬ä¿¡æ¯ï¼Œå¦‚è®¾å¤‡åç§°ã€è®¾å¤‡çš„MACåœ°å€ã€è®¾å¤‡çº¢ç æ•°æ®åŠå­¦ä¹ æ‰€éœ€çš„çº¢ç æ•°æ®ã€è®¾å¤‡IDã€åœ¨çº¿çŠ¶æ€ã€æ¿€æ´»æ—¶é—´ã€å›ºä»¶ç‰ˆæœ¬å’Œå‡çº§ä¿¡æ¯ç­‰ã€‚
+3.3ã€å¿…é€‰ã€‘æ—¥å¿—ä¿¡æ¯å’ŒåŸºæœ¬ä½¿ç”¨æ•°æ®ï¼šå½“æ‚¨ä½¿ç”¨æˆ‘ä»¬çš„åº”ç”¨ç¨‹åºæ—¶ï¼Œç³»ç»Ÿå’Œå¼‚å¸¸æ—¥å¿—å¯èƒ½ä¼šè¢«ä¸Šä¼ ã€‚åœ¨æ‚¨ä¸Žæˆ‘ä»¬çš„ç½‘ç«™å’ŒæœåŠ¡äº¤äº’æœŸé—´ï¼Œæˆ‘ä»¬ä¼šè‡ªåŠ¨æ”¶é›†ä¸Žè®¿é—®ã€ç‚¹å‡»ã€ä¸‹è½½ã€å‘é€/æŽ¥æ”¶æ¶ˆæ¯å’Œå…¶ä»–ä½¿ç”¨æˆ‘ä»¬çš„ç½‘ç«™å’ŒæœåŠ¡ç›¸å…³çš„ä½¿ç”¨æ•°æ®ã€‚
+3.4è‡³3.8æ¬¾ï¼Œä¸ºç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ï¼Œåˆ†åˆ«ä¸ºï¼š3.4ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘å…¶ä»–è´¦æˆ·ä¿¡æ¯ã€3.5ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘æ™ºèƒ½è®¾å¤‡ä½ç½®ä¿¡æ¯ã€3.6ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘å®¶åº­ä¿¡æ¯ã€3.7ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘ç”¨æˆ·ä½¿ç”¨åŠŸèƒ½æ—¶æ­£å¸¸äº§ç”Ÿçš„æ•°æ®ã€3.8ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘æ™ºèƒ½è®¾å¤‡æŠ¥å‘Šä¿¡æ¯ã€‚
+3.4.1ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘å…¶ä»–è´¦æˆ·ä¿¡æ¯ï¼šæ‚¨çš„ç”¨æˆ·æ˜µç§°ã€å¤´åƒã€Facebookï¼ˆé™äºŽIHC APPåŠIHC for EU APPï¼‰æŽˆæƒç™»å½•è´¦æˆ·åï¼›ç¬¬ä¸‰æ–¹æŽ¥å…¥çš„SDKè´¦æˆ·ä¿¡æ¯ç­‰ã€‚
+ï¼ˆ1ï¼‰ç¬¬ä¸‰æ–¹è´¦å·ç™»å½•çš„SDKæŽ¥å…¥è¯´æ˜Žï¼š
+&nbsp&nbsp&nbsp&nbspå¾®ä¿¡
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽå¸®åŠ©ç”¨æˆ·å®žçŽ°å¾®ä¿¡ç™»å½•åšè”æ™ºèƒ½App
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šè®¾å¤‡å¸¸è§„ä¿¡æ¯ã€macåœ°å€ã€ipåœ°å€
+&nbsp&nbsp&nbsp&nbspGoogle
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽå¸®åŠ©ç”¨æˆ·å®žçŽ°Googleç™»å½•åšè”æ™ºèƒ½App
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šè®¾å¤‡å¸¸è§„ä¿¡æ¯ã€macåœ°å€ã€ipåœ°å€
+&nbsp&nbsp&nbsp&nbspFacebookï¼ˆé™äºŽIHC APPåŠIHC for EU APPï¼‰
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽå¸®åŠ©ç”¨æˆ·å®žçŽ°Facebookç™»å½•IHC åŠIHC for EU App
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šè®¾å¤‡å¸¸è§„ä¿¡æ¯ã€macåœ°å€ã€ipåœ°å€
+&nbsp&nbsp&nbsp&nbspæ·˜å®ç™»å½•ï¼ˆé™äºŽIHC APPåŠIHC for EU APPï¼‰
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽå¸®åŠ©ç”¨æˆ·å®žçŽ°æ·˜å®ç™»å½•IHC åŠIHC for EU App
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šè®¾å¤‡å¸¸è§„ä¿¡æ¯ã€macåœ°å€ã€ipåœ°å€
+ï¼ˆ2ï¼‰ç¬¬ä¸‰æ–¹SDKæŽ¥å…¥è¯´æ˜Žï¼š
+&nbsp&nbsp&nbsp&nbspA.ç”¨äºŽæŽ¨é€é€šçŸ¥åŠŸèƒ½
+&nbsp&nbsp&nbsp&nbspå°ç±³
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽåšè”æ™ºèƒ½Appå‘å°ç±³æ‰‹æœºç”¨æˆ·æŽ¨é€æ¶ˆæ¯
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šç”¨æˆ·idã€IMEIã€è®¾å¤‡åž‹å·ç­‰å¸¸è§„ä¿¡æ¯
+&nbsp&nbsp&nbsp&nbspåŽä¸º
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽåšè”æ™ºèƒ½Appå‘åŽä¸ºæ‰‹æœºç”¨æˆ·æŽ¨é€æ¶ˆæ¯
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šç”¨æˆ·idã€IMEIã€è®¾å¤‡åž‹å·ç­‰å¸¸è§„ä¿¡æ¯
+&nbsp&nbsp&nbsp&nbspOPPO
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽåšè”æ™ºèƒ½Appå‘OPPOæ‰‹æœºç”¨æˆ·æŽ¨é€æ¶ˆæ¯
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šç”¨æˆ·idã€IMEIã€è®¾å¤‡åž‹å·ç­‰å¸¸è§„ä¿¡æ¯
+&nbsp&nbsp&nbsp&nbspVIVO
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽåšè”æ™ºèƒ½Appå‘VIVOæ‰‹æœºç”¨æˆ·æŽ¨é€æ¶ˆæ¯
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šç”¨æˆ·idã€IMEIã€è®¾å¤‡åž‹å·ç­‰å¸¸è§„ä¿¡æ¯
+&nbsp&nbsp&nbsp&nbspé­…æ—
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽåšè”æ™ºèƒ½Appå‘é­…æ—æ‰‹æœºç”¨æˆ·æŽ¨é€æ¶ˆæ¯
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šç”¨æˆ·idã€IMEIã€è®¾å¤‡åž‹å·ç­‰å¸¸è§„ä¿¡æ¯
+&nbsp&nbsp&nbsp&nbspç”¨äºŽAppå´©æºƒæ—¥å¿—ä¸ŠæŠ¥
+&nbsp&nbsp&nbsp&nbspB.Google firebase crashlytics
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨äºŽåšè”æ™ºèƒ½Appå´©æºƒæ—¥å¿—ä¸ŠæŠ¥
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šç”¨æˆ·idã€å¥”æºƒæ—¥å¿—ã€è®¾å¤‡åž‹å·ç­‰å¸¸è§„ä¿¡æ¯
+&nbsp&nbsp&nbsp&nbspC.è¤çŸ³SDKï¼ˆé™äºŽIHC APPåŠIHC for EU APPï¼‰
+&nbsp&nbsp&nbsp&nbspåŠŸèƒ½ï¼šç”¨æˆ·æŽ¥å…¥è¤çŸ³æ‘„åƒå¤´è®¾å¤‡
+&nbsp&nbsp&nbsp&nbspæ”¶é›†ä¸ªäººä¿¡æ¯ç±»åž‹ï¼šç”¨æˆ·idã€è®¾å¤‡åž‹å·ç­‰å¸¸è§„ä¿¡æ¯
+3.4.2ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘åŸºäºŽç›¸æœº/æ‘„åƒå¤´çš„é™„åŠ æœåŠ¡ï¼š æ‚¨å¯åœ¨å¼€å¯ç›¸æœº/æ‘„åƒå¤´æƒé™åŽä½¿ç”¨è¯¥åŠŸèƒ½è¿›è¡Œæ‰«ç ç”¨äºŽæ·»åŠ æ‚¨è´­ä¹°çš„è®¾å¤‡ï¼ŒåŠ å…¥å®¶åº­ç­‰åŠŸèƒ½ã€‚è¯·æ‚¨çŸ¥æ™“ï¼Œå³ä½¿æ‚¨å·²åŒæ„å¼€å¯ç›¸æœº/æ‘„åƒå¤´æƒé™ï¼Œæˆ‘ä»¬ä¹Ÿä»…ä¼šåœ¨æ‚¨ä¸»åŠ¨æ‰«ç ã€æ‹æ‘„ç­‰ä½¿ç”¨ç›¸æœº/æ‘„åƒå¤´æ—¶èŽ·å–ä¿¡æ¯ã€‚
+3.4.3ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘åŸºäºŽç›¸å†Œï¼ˆå›¾ç‰‡åº“/è§†é¢‘åº“ï¼‰çš„å›¾ç‰‡/è§†é¢‘è®¿é—®åŠä¸Šä¼ çš„é™„åŠ æœåŠ¡ï¼š æ‚¨å¯åœ¨å¼€å¯ç›¸å†Œæƒé™åŽä½¿ç”¨è¯¥åŠŸèƒ½ä¸Šä¼ æ‚¨çš„ç…§ç‰‡/å›¾ç‰‡/è§†é¢‘ï¼Œä»¥å®žçŽ°æ›´æ¢å¤´åƒã€ä¸ŠæŠ¥è®¾å¤‡ä½¿ç”¨é—®é¢˜æä¾›è¯æ˜Žç­‰åŠŸèƒ½ã€‚å½“æ‚¨ä½¿ç”¨äºŽå¤´åƒç­‰åŠŸèƒ½æ—¶ï¼Œæˆ‘ä»¬ä¸ä¼šå¯¹æ­¤ä¿¡æ¯è¿›è¡Œè¯†åˆ«ï¼›ä½†æ˜¯å½“æ‚¨ä¸ŠæŠ¥è®¾å¤‡ä½¿ç”¨é—®é¢˜æ—¶æˆ‘ä»¬ä¼šé€šè¿‡æ‚¨æ‰€ä¸Šä¼ çš„ç…§ç‰‡/å›¾ç‰‡æ¥å®šä½æ‚¨çš„é—®é¢˜ã€‚
+3.5ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘æ™ºèƒ½è®¾å¤‡ä½ç½®ä¿¡æ¯ï¼šå½“æ‚¨ä½¿ç”¨æˆ‘ä»¬çš„ç‰¹å®šäº§å“æˆ–æœåŠ¡ï¼ˆä¾‹å¦‚æ‰«åœ°æœºå™¨äººå’Œå¤©æ°”æœåŠ¡ï¼‰æ—¶ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šæ”¶é›†æœ‰å…³æ‚¨çš„å®žæ—¶ç²¾ç¡®æˆ–éžç²¾ç¡®åœ°ç†å®šä½ä¿¡æ¯ã€‚
+3.6ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘å®¶åº­ä¿¡æ¯ï¼šå®¶åº­åç§°ã€å®¶åº­æ‰€åœ¨åœ°åŒºï¼ˆç”±æ‚¨æ‰‹åŠ¨è®¾ç½®ï¼‰ã€æˆ¿é—´ä¿¡æ¯ã€å®¶åº­èƒŒæ™¯å›¾ç‰‡ã€å½“åœ°ç”µä»·ã€‚
+3.7ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘ç”¨æˆ·ä½¿ç”¨åŠŸèƒ½æ—¶æ­£å¸¸äº§ç”Ÿçš„æ•°æ®ï¼šåœºæ™¯ä¿¡æ¯ã€è”åŠ¨ä¿¡æ¯ã€é¥æŽ§é¢æ¿ä¿¡æ¯ã€‚
+3.8ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘æ™ºèƒ½è®¾å¤‡æŠ¥å‘Šçš„ä¿¡æ¯ï¼šæ ¹æ®æ‚¨é€‰æ‹©ä¸Žæˆ‘ä»¬çš„äº§å“æˆ–æœåŠ¡è¿žæŽ¥çš„ä¸åŒæ™ºèƒ½è®¾å¤‡ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šæ”¶é›†æ‚¨çš„æ™ºèƒ½è®¾å¤‡æŠ¥å‘Šçš„ä¿¡æ¯ã€‚
+3.9.1æˆ‘ä»¬ä¸æ”¶é›†æ‚¨çš„ä¸ªäººç§æ—æˆ–æ°‘æ—èµ·æºã€æ”¿æ²»è§‚ç‚¹ã€å®—æ•™ã€å“²å­¦ä¿¡ä»°ã€å·¥ä¼šç»„ç»‡æˆå‘˜çš„æ•°æ®ã€ä¸ªäººåŸºå› æ•°æ®æˆ–æ¶‰åŠå¥åº·ã€æ€§ç”Ÿæ´»æˆ–æ€§å–å‘çš„æ•°æ®ã€‚æˆ‘ä»¬ä¸ä¼šåœ¨æœªç»å„¿ç«¥çš„ç›‘æŠ¤äººè®¸å¯çš„æƒ…å†µä¸‹æ”¶é›†16å‘¨å²ä»¥ä¸‹ç”¨æˆ·çš„æ•°æ®ï¼Œè‹¥æ‚¨æ˜¯16å‘¨å²ä»¥ä¸‹çš„å„¿ç«¥ï¼Œè¯·æ‚¨å¿…é¡»èŽ·å¾—æ‚¨çˆ¶æ¯æˆ–æ‚¨ç›‘æŠ¤äººçš„è®¸å¯åŽæ‰èƒ½ä½¿ç”¨æˆ‘ä»¬çš„äº§å“å’ŒæœåŠ¡ã€‚
+3.9.2 æ‚¨åœ¨ä½¿ç”¨æˆ‘ä»¬äº§å“å’ŒæœåŠ¡æ—¶ï¼Œä¸Šè¿°ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘é¡¹ç›®çš„ä¿¡æ¯æ‚¨å¿…é¡»åŒæ„æˆ‘ä»¬èŽ·å–ï¼Œä»¥å…å½±å“æ‚¨æ™ºèƒ½äº§å“å’ŒæœåŠ¡çš„æ­£å¸¸ä½¿ç”¨ï¼›å…¶ä»–ã€ç»ç‰¹åˆ«æŽˆæƒåŒæ„ä¿¡æ¯ã€‘é¡¹ç›®çš„ä¿¡æ¯æ‚¨æœ‰æƒæ‹’ç»æˆ‘ä»¬èŽ·å–ï¼Œä½†æ˜¯æˆ‘ä»¬å¯èƒ½æ— æ³•ç»™æ‚¨æä¾›ç›¸åº”çš„æœåŠ¡ã€‚
+4.å¤„ç†ä¸ªäººæ•°æ®çš„ç›®çš„å’Œæ³•å¾‹ä¾æ®
+4.1æˆ‘ä»¬å¤„ç†æ‚¨ä¿¡æ¯çš„ç›®çš„å¦‚ä¸‹ï¼š
+ï¼ˆ1ï¼‰ä¸ºæ‚¨æä¾›æœåŠ¡ï¼šæˆ‘ä»¬å¤„ç†æ‚¨çš„å¸æˆ·å’Œä¸ªäººèµ„æ–™æ•°æ®ã€è®¾å¤‡ä¿¡æ¯ã€ä½¿ç”¨æ•°æ®ã€ä½ç½®ä¿¡æ¯å’Œæ™ºèƒ½è®¾å¤‡ç›¸å…³ä¿¡æ¯ï¼Œä»¥æä¾›æ‚¨è¯·æ±‚æˆ–è´­ä¹°çš„äº§å“å’ŒæœåŠ¡ã€‚æ­¤ç±»å¤„ç†çš„æ³•å¾‹ä¾æ®æ˜¯æ ¹æ®æˆ‘ä»¬çš„ä½¿ç”¨æ¡æ¬¾å±¥è¡Œæˆ‘ä»¬ä¸Žæ‚¨çš„åˆåŒã€‚
+ï¼ˆ2ï¼‰æ”¹å–„æˆ‘ä»¬çš„æœåŠ¡ï¼šæˆ‘ä»¬å¤„ç†æ‚¨çš„è®¾å¤‡ä¿¡æ¯ã€ä½¿ç”¨æ•°æ®ã€ä½ç½®ä¿¡æ¯å’Œæ™ºèƒ½è®¾å¤‡ç›¸å…³ä¿¡æ¯ï¼Œä»¥ç¡®ä¿æˆ‘ä»¬äº§å“çš„åŠŸèƒ½å’Œå®‰å…¨æ€§ï¼Œå¼€å‘å’Œæ”¹è¿›æˆ‘ä»¬çš„äº§å“å’ŒæœåŠ¡ï¼Œåˆ†æžæˆ‘ä»¬çš„è¿è¥æ•ˆçŽ‡ï¼Œå¹¶é˜²æ­¢å’Œè·Ÿè¸ªæ¬ºè¯ˆæˆ–ä¸å½“ä½¿ç”¨è¡Œä¸ºã€‚æ­¤ç±»å¤„ç†çš„æ³•å¾‹ä¾æ®æ˜¯æ ¹æ®æˆ‘ä»¬çš„ä½¿ç”¨æ¡æ¬¾å±¥è¡Œæˆ‘ä»¬ä¸Žæ‚¨çš„åˆåŒã€‚
+ï¼ˆ3ï¼‰éžè¥é”€é€šä¿¡ï¼šæˆ‘ä»¬å¤„ç†æ‚¨çš„ä¸ªäººæ•°æ®ï¼Œæ—¨åœ¨å‘æ‚¨å‘é€ä¸ŽæœåŠ¡ã€æ¡æ¬¾/æ¡ä»¶å’Œæ”¿ç­–å˜æ›´å’Œ/æˆ–å…¶ä»–ç®¡ç†ä¿¡æ¯ç›¸å…³çš„é‡è¦ä¿¡æ¯ã€‚ç”±äºŽæ­¤ç±»ä¿¡æ¯è¾ƒä¸ºé‡è¦ï¼Œæ‚¨å¯èƒ½æ— æ³•é€‰æ‹©ä¸æŽ¥æ”¶æ­¤ç±»é‚®ä»¶ã€‚æ­¤ç±»å¤„ç†çš„æ³•å¾‹ä¾æ®æ˜¯æ ¹æ®æˆ‘ä»¬çš„ä½¿ç”¨æ¡æ¬¾å±¥è¡Œæˆ‘ä»¬ä¸Žæ‚¨çš„åˆåŒã€‚
+ï¼ˆ4ï¼‰è¥é”€é€šä¿¡ï¼šæˆ‘ä»¬å¯èƒ½ä¼šå¤„ç†æ‚¨çš„ä¸ªäººæ•°æ®ï¼Œä»¥å‘æ‚¨æä¾›ä¸Žæˆ‘ä»¬äº§å“å’ŒæœåŠ¡ç›¸å…³çš„è¥é”€å’Œä¿ƒé”€èµ„æ–™ã€‚åœ¨ä¸Šè¿°æƒ…å†µä¸­ï¼Œæˆ‘ä»¬å‘æ‚¨å‘é€çš„æ¯å°é‚®ä»¶å‡å«æœ‰å…è®¸æ‚¨é€‰æ‹©ä¸å†æŽ¥æ”¶æ­¤ç±»é‚®ä»¶çš„æŒ‡ç¤ºä¿¡æ¯ã€‚æ­¤ç±»å¤„ç†çš„æ³•å¾‹ä¾æ®æ˜¯åŸºäºŽæ‚¨çš„åŒæ„ã€‚
+ï¼ˆ5ï¼‰ä¸ªæ€§åŒ–æœåŠ¡ï¼šæˆ‘ä»¬å¯èƒ½ä¼šå¤„ç†æ‚¨çš„å¸æˆ·å’Œä¸ªäººèµ„æ–™æ•°æ®ã€ä½¿ç”¨æ•°æ®ã€è®¾å¤‡ä¿¡æ¯ï¼Œä»¥è®¾è®¡ä¸ªæ€§åŒ–çš„äº§å“å¹¶ä¸ºæ‚¨æä¾›é‡èº«å®šåˆ¶çš„æœåŠ¡ï¼ˆä¾‹å¦‚æŽ¨èå’Œæ˜¾ç¤ºé€‚åˆæ‚¨çš„äº§å“ä¿¡æ¯å’Œå¹¿å‘Šï¼‰ï¼Œä»¥åŠé‚€è¯·æ‚¨å‚ä¸Žæ‚¨ä½¿ç”¨çš„äº§å“çš„ç”¨æˆ·è°ƒæŸ¥ã€‚æ­¤ç±»å¤„ç†çš„æ³•å¾‹ä¾æ®æ˜¯åŸºäºŽæ‚¨çš„åŒæ„ã€‚
+4.2åˆè§„ï¼šæˆ‘ä»¬ä¼šåœ¨æˆ‘ä»¬è®¤ä¸ºå¿…è¦æˆ–é€‚å½“çš„æƒ…å†µä¸‹å¤„ç†æ‚¨çš„ä¸ªäººæ•°æ®ï¼šï¼ˆaï¼‰éµå®ˆé€‚ç”¨çš„æ³•å¾‹æ³•è§„ï¼›ï¼ˆbï¼‰éµå®ˆæ³•å¾‹ç¨‹åºï¼›ï¼ˆcï¼‰å“åº”å…¬å…±æœºæž„å’Œæ”¿åºœå½“å±€çš„è¦æ±‚ï¼›ï¼ˆdï¼‰å±¥è¡Œæˆ‘ä»¬çš„æ¡æ¬¾å’Œæ¡ä»¶ï¼›ï¼ˆeï¼‰ä¿æŠ¤æˆ‘ä»¬çš„è¿è¥ã€ä¸šåŠ¡å’Œç³»ç»Ÿï¼›ï¼ˆfï¼‰ä¿æŠ¤æˆ‘ä»¬å’Œ/æˆ–åŒ…æ‹¬æ‚¨åœ¨å†…çš„å…¶ä»–ç”¨æˆ·çš„æƒåˆ©ã€éšç§ã€å®‰å…¨æˆ–è´¢äº§ï¼›ä»¥åŠï¼ˆgï¼‰å¯»æ±‚å¯ç”¨çš„è¡¥æ•‘æŽªæ–½æˆ–é™åˆ¶æˆ‘ä»¬å¯èƒ½éœ€è¦æä¾›çš„æŸå®³èµ”å¿ã€‚
+5.æˆ‘ä»¬ä¸Žè°å…±äº«æ‚¨çš„ä¸ªäººæ•°æ®ï¼Ÿ
+5.1åšè”ä»…ä»¥æ‚¨çŸ¥æ™“çš„æ–¹å¼å…±äº«æ‚¨çš„ä¸ªäººæ•°æ®ã€‚æˆ‘ä»¬å¯èƒ½ä¼šä¸Žä¸‹åˆ—å‚ä¸Žè€…å…±äº«æ‚¨çš„ä¸ªäººæ•°æ®ï¼š å‘ä¸ºæˆ‘ä»¬æä¾›æŸäº›ä¸šåŠ¡ç›¸å…³æœåŠ¡çš„ç¬¬ä¸‰æ–¹ï¼ˆå¦‚è°·æ­Œã€äºšé©¬é€Šã€Facebookç­‰ï¼‰æœåŠ¡æä¾›å•†æŠ«éœ²æ‚¨çš„ä¸ªäººæ•°æ®ï¼Œä¾‹å¦‚ç½‘ç«™æ‰˜ç®¡ã€æ•°æ®åˆ†æžã€æ”¯ä»˜å’Œä¿¡ç”¨å¡å¤„ç†ã€åŸºç¡€è®¾æ–½ä¾›åº”ã€ITæœåŠ¡ã€å®¢æˆ·æ”¯æŒæœåŠ¡ã€ç”µå­é‚®ä»¶å‘é€æœåŠ¡ä»¥åŠå…¶ä»–ç±»ä¼¼æœåŠ¡ï¼Œä»Žè€Œç¡®ä¿ä»–ä»¬èƒ½å¤Ÿä¸ºæˆ‘ä»¬æä¾›æœåŠ¡ã€‚
+5.2å‘ç›´æŽ¥æˆ–é—´æŽ¥ä¸ºæ‚¨æä¾›æ™ºèƒ½è®¾å¤‡å’Œ/æˆ–æ‚¨ç”¨æ¥è®¿é—®å’Œä½¿ç”¨æˆ‘ä»¬ç½‘ç«™å’ŒæœåŠ¡çš„ç½‘ç»œå’Œç³»ç»Ÿçš„å®¢æˆ·ä»¥åŠå…¶ä»–ä¸šåŠ¡åˆä½œä¼™ä¼´æŠ«éœ²æ‚¨çš„ä¸ªäººæ•°æ®ã€‚
+5.3å½“å‘ç”Ÿé‡ç»„ã€åˆå¹¶ã€å‡ºå”®ã€åˆèµ„ã€è®©æ¸¡ã€è½¬è®©æˆ–å…¶ä»–å¤„ç½®æˆ‘ä»¬æ‰€æœ‰æˆ–éƒ¨åˆ†ä¸šåŠ¡ã€èµ„äº§æˆ–è‚¡ç¥¨ï¼ˆåŒ…æ‹¬ä½†ä¸é™äºŽä¸Žä»»ä½•ç ´äº§æˆ–ç±»ä¼¼ç¨‹åºç›¸å…³çš„ä¸Šè¿°æƒ…å†µï¼‰çš„æƒ…å†µæ—¶ï¼Œå‘é™„å±žå…¬å¸æˆ–å…¶ä»–ç¬¬ä¸‰æ–¹ï¼ˆå¦‚è°·æ­Œã€äºšé©¬é€Šã€Facebookç­‰ï¼‰æŠ«éœ²æ‚¨çš„ä¸ªäººæ•°æ®ã€‚åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæ‚¨å°†é€šè¿‡ç”µå­é‚®ä»¶å’Œ/æˆ–æˆ‘ä»¬çš„ç½‘ç«™æ”¶åˆ°å…³äºŽæ‰€æœ‰æƒå˜æ›´ã€ä¸ªäººæ•°æ®æ–°çš„ä½¿ç”¨æ–¹å¼ä¸å…¼å®¹ä»¥åŠæœ‰å…³ä¸ªäººæ•°æ®é€‰æ‹©çš„æ˜Žç¡®é€šçŸ¥ã€‚
+5.4åœ¨æˆ‘ä»¬è®¤ä¸ºå¿…è¦æˆ–é€‚å½“çš„æƒ…å†µä¸‹ï¼šï¼ˆaï¼‰éµå®ˆé€‚ç”¨çš„æ³•å¾‹æ³•è§„ï¼›ï¼ˆbï¼‰éµå®ˆæ³•å¾‹ç¨‹åºï¼›ï¼ˆcï¼‰å“åº”å…¬å…±æœºæž„å’Œæ”¿åºœå½“å±€çš„è¦æ±‚ï¼ŒåŒ…æ‹¬æ‚¨å±…ä½çš„å›½å®¶/åœ°åŒºä»¥å¤–çš„å…¬å…±æœºæž„å’Œæ”¿åºœå½“å±€ï¼›ï¼ˆdï¼‰å±¥è¡Œæˆ‘ä»¬çš„æ¡æ¬¾å’Œæ¡ä»¶ï¼›ï¼ˆeï¼‰ä¿æŠ¤æˆ‘ä»¬çš„è¿è¥ã€ä¸šåŠ¡å’Œç³»ç»Ÿï¼›ï¼ˆfï¼‰ä¿æŠ¤æˆ‘ä»¬å’Œ/æˆ–åŒ…æ‹¬æ‚¨åœ¨å†…çš„å…¶ä»–ç”¨æˆ·çš„æƒåˆ©ã€éšç§ã€å®‰å…¨æˆ–è´¢äº§ï¼›ä»¥åŠï¼ˆgï¼‰å¯»æ±‚å¯ç”¨çš„è¡¥æ•‘æŽªæ–½æˆ–é™åˆ¶æˆ‘ä»¬å¯èƒ½éœ€è¦æä¾›çš„æŸå®³èµ”å¿ã€‚ å‘å…¬å¸æ——ä¸‹çš„å­å…¬å¸æˆ–é™„å±žå…¬å¸æŠ«éœ²æ‚¨çš„ä¸ªäººæ•°æ®ï¼Œä»¥å®šæœŸå¼€å±•ä¸šåŠ¡æ´»åŠ¨ã€‚ é™¤ä¸Šè¿°ç¬¬ä¸‰æ–¹ï¼ˆå¦‚è°·æ­Œã€äºšé©¬é€Šã€Facebookç­‰ï¼‰ä»¥å¤–ï¼Œæˆ‘ä»¬ä»…åœ¨æ‚¨åŒæ„çš„æƒ…å†µä¸‹å‘å…¶ä»–ç¬¬ä¸‰æ–¹ï¼ˆå¦‚è°·æ­Œã€äºšé©¬é€Šã€Facebookç­‰ï¼‰æŠ«éœ²æ‚¨çš„ä¸ªäººæ•°æ®ã€‚
+6.æ‰€æ”¶é›†ä¿¡æ¯çš„å›½é™…è½¬ç§»
+6.1ä¸ºäº†æ–¹ä¾¿æˆ‘ä»¬çš„æ“ä½œï¼Œæˆ‘ä»¬å¯èƒ½ä¼šåœ¨æ‚¨å±…ä½çš„åœ°æ–¹ä»¥å¤–çš„å¸æ³•ç®¡è¾–åŒºè½¬ç§»ã€å­˜å‚¨å’Œå¤„ç†æ‚¨çš„ä¸ªäººæ•°æ®ã€‚è¿™äº›å›½å®¶å¯èƒ½è®¾æœ‰ä¸åŒçš„æ•°æ®ä¿æŠ¤æ³•ã€‚åœ¨æ­¤ç±»æƒ…å†µä¸‹ï¼Œæˆ‘ä»¬ä¼šé€šè¿‡ä»¥ä¸‹ä¸€ç§æˆ–å¤šç§æ–¹å¼ç¡®ä¿æ‚¨çš„ä¿¡æ¯å¾—åˆ°å……åˆ†çš„ä¿æŠ¤ï¼š
+      æ ¹æ®GDPRç¬¬46æ¡æ‰¹å‡†çš„â€œæ¬§ç›Ÿæ ‡å‡†åˆåŒæ¡æ¬¾â€è¾¾æˆçš„åè®®ã€‚æœ‰å…³æ›´å¤šä¿¡æ¯ï¼Œè¯·è®¿é—®ï¼šhttps://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en.
+      å¦‚æžœæ‚¨æƒ³è¿›ä¸€æ­¥äº†è§£æˆ‘ä»¬çš„å®‰å…¨ä¿éšœæŽªæ–½ï¼Œæ‚¨å¯ä»¥é€šè¿‡æœ¬æ”¿ç­–ç›´æŽ¥è”ç³»æˆ‘ä»¬ã€‚
+6.2å¦‚æžœæ‚¨ä½¿ç”¨åœ°åœ¨æ¬§ç›Ÿå¢ƒå†…ï¼Œæ‚¨æ‰€æœ‰çš„ç”¨æˆ·æ•°æ®ä¼˜å…ˆä¿ç•™åœ¨æ¬§ç›Ÿå¢ƒå†…ï¼Œä½†æ˜¯ä¸ºäº†æ”¹å–„æ‚¨æ‰€ä½¿ç”¨äº§å“çš„ä½“éªŒï¼Œæˆ‘å¸ä¼šå°†ç»æ‚¨åŒæ„ä¸Šä¼ åŽçš„æ•°æ®ä¼ è¾“è‡³æ¬§ç›Ÿè®¤å®šçš„ç™½åå•å›½å®¶å’Œåœ°åŒºï¼ˆç¾Žå›½ã€åŠ æ‹¿å¤§ã€ç‘žå£«ã€æ–°è¥¿å…°ï¼‰æˆ–è€…ä¸­å›½å¤§é™†ã€æ—¥æœ¬ã€ä¿„ç½—æ–¯çš„æœåŠ¡å™¨ã€‚æ•°æ®ä¼ è¾“å‡ºæ¬§ç›Ÿå¤–çš„å›½å®¶å’Œåœ°åŒºï¼Œå­˜åœ¨ä¸€å®šçš„æ•°æ®éšç§ä¿æŠ¤çš„é£Žé™©ï¼Œå…³äºŽè¿™ç‚¹ï¼Œæ‚¨çŸ¥æ™“å¹¶ä¸”åŒæ„æ•°æ®è·¨æ¬§ç›Ÿä¼ è¾“ã€‚
+7.ä¸Žä¸ªäººæ•°æ®æœ‰å…³çš„æƒåˆ©
+7.1æˆ‘ä»¬å°Šé‡æ‚¨çš„æƒåˆ©ï¼ŒåŒæ—¶ä¹Ÿä¼šæŽŒæ¡æ‚¨çš„ä¸ªäººæ•°æ®ã€‚æ‚¨å¯ä»¥è¡Œä½¿ä¸‹åˆ—ä»»ä½•ä¸€é¡¹æƒåˆ©ï¼š
+ï¼ˆ1ï¼‰é€šè¿‡æˆ‘ä»¬äº§å“ï¼ˆç›®å‰ä»…é™äºŽIHC APP for EUåŠBroadLink APPï¼‰ä¸­æ‰‹åŠ¨è¿›è¡Œåˆ é™¤æ•°æ®æ“ä½œï¼›
+ï¼ˆ2ï¼‰å¦‚æ‚¨æœ‰ç–‘é—®ï¼Œè¯·å‘é€é‚®ä»¶è‡³
+dpo@broadlink.com.cn
+å¯»æ±‚å¸®åŠ©ã€‚
+7.2æ‚¨æ— éœ€æ”¯ä»˜ä»»ä½•è´¹ç”¨ï¼Œæˆ‘ä»¬å°†åœ¨30å¤©ä¹‹å†…ä½œå‡ºç­”å¤ã€‚å¦‚æžœæ‚¨å†³å®šé€šè¿‡ç”µå­é‚®ä»¶å‘æˆ‘ä»¬å‘é€è¯·æ±‚ï¼Œè¯·è¯´æ˜Žæ‚¨å¸Œæœ›æ›´æ”¹å“ªäº›ä¿¡æ¯ï¼Œæ‚¨æ˜¯å¦å¸Œæœ›å°†æ‚¨çš„ä¸ªäººæ•°æ®ä»Žæˆ‘ä»¬çš„æ•°æ®åº“ä¸­åˆ é™¤ï¼Œæˆ–è€…æ‚¨å¸Œæœ›æˆ‘ä»¬åœ¨ä½¿ç”¨æ‚¨çš„ä¸ªäººæ•°æ®æ—¶å—åˆ°å“ªäº›é™åˆ¶ã€‚è¯·æ³¨æ„ï¼Œå‡ºäºŽå®‰å…¨è€ƒè™‘ï¼Œæˆ‘ä»¬å¯èƒ½ä¼šåœ¨è¿›ä¸€æ­¥å¤„ç†æ‚¨çš„è¯·æ±‚ä¹‹å‰è¦æ±‚æ‚¨æ ¸å®žèº«ä»½ã€‚
+7.3æ‚¨å¯ä»¥ï¼š
+ï¼ˆ1ï¼‰è¦æ±‚è®¿é—®æˆ‘ä»¬å¤„ç†çš„ä¸Žæ‚¨ç›¸å…³çš„ä¸ªäººæ•°æ®ï¼Œæ‚¨æœ‰æƒçŸ¥æ™“è¢«æ”¶é›†çš„æ•°æ®æƒ…å½¢ï¼ŒåŒ…æ‹¬ç»æ‚¨åŒæ„ä¸Šä¼ è‡³äº‘ç«¯çš„æ•°æ®æƒ…å½¢ï¼›
+ï¼ˆ2ï¼‰è¦æ±‚æˆ‘ä»¬çº æ­£ä¸Žæ‚¨ç›¸å…³çš„ä¸å‡†ç¡®æˆ–ä¸å®Œæ•´çš„ä¸ªäººæ•°æ®ï¼›
+ï¼ˆ3ï¼‰è¦æ±‚åˆ é™¤æ‚¨çš„ä¸ªäººæ•°æ®ï¼›åŠé”€æ¯äº‘ç«¯å¤‡ä»½çš„æ•°æ®ï¼Œé”€æ¯æ“ä½œå°†é»˜è®¤å–æ¶ˆä¸ŽAlexa/Googleå¹³å°çš„äº’è”äº’é€šï¼Œåˆ™äº‘ç«¯æ•°æ®å…¨éƒ¨åŒæ­¥åˆ é™¤ï¼›
+ï¼ˆ4ï¼‰è¦æ±‚æˆ‘ä»¬åŸºäºŽæ‚¨çš„åŒæ„æˆ–ä¸Žæ‚¨ç­¾è®¢çš„åˆåŒå¤„ç†æ‚¨çš„æ•°æ®ï¼Œä»¥åŠæˆ‘ä»¬è‡ªåŠ¨å¤„ç†æ‚¨çš„æ•°æ®æ—¶ï¼Œå‘æ‚¨æœ¬äººæˆ–ç¬¬ä¸‰æ–¹ï¼ˆå¦‚è°·æ­Œã€äºšé©¬é€Šã€Facebookç­‰ï¼‰ä¼ è¾“ä¸ªäººæ•°æ®ï¼›
+ï¼ˆ5ï¼‰å½“æˆ‘ä»¬åŸºäºŽæ‚¨çš„åŒæ„æˆ–æˆ‘ä»¬çš„æ­£å½“åˆ©ç›Šä½¿ç”¨æ‚¨çš„ä¸ªäººæ•°æ®æ—¶ï¼Œé€‰æ‹©åå¯¹æˆ–æ‹’ç»æˆ‘ä»¬ä½¿ç”¨æ‚¨çš„ä¸ªäººæ•°æ®ï¼›
+ï¼ˆ6ï¼‰æ‚¨å¯ä»¥æ³¨é”€è´¦å·ï¼Œæ³¨é”€è´¦å·åŽæ‚¨äº‘ç«¯çš„å¤‡ä»½æ•°æ®å°†åœ¨7ä¸ªå·¥ä½œæ—¥å†…è¢«åŒæ—¶åˆ é™¤ã€‚æ‚¨æ‹¥æœ‰éšæ—¶æ‰‹åŠ¨é”€æ¯è´¦æˆ·ä»¥åŠè´¦æˆ·ä¸‹æ‰€æœ‰æ•°æ®çš„æƒåˆ©ï¼Œå¦‚æ‚¨æœ‰ç‰¹æ®Šè¦æ±‚çš„ï¼Œæ‚¨å¯ä»¥å‘é€é‚®ä»¶å‘ŠçŸ¥æˆ‘ä»¬ã€‚
+&nbsp&nbsp&nbsp&nbspå…¶ä¸­ï¼Œç›®å‰æ™ºæ…§æ˜Ÿ APPçš„æ³¨é”€è´¦å·éœ€è¦è”ç³»å®¢æœï¼Œå®¢æœä¼šåœ¨7æ—¥å†…ä¸Žæ‚¨æœ¬äººè”ç³»ï¼›åšè”æ™ºèƒ½APPå’Œæ¬§ç›Ÿæ™ºæ…§æ˜ŸAPPå‡å¯ä»¥åœ¨APPå†…è‡ªè¡Œæ‰‹åŠ¨æ³¨é”€ï¼ˆä¹Ÿå¯è”ç³»å®¢æœè¿›è¡Œäººå·¥æ³¨é”€ï¼Œç”³è¯·å®¢æœæ³¨é”€çš„ï¼Œå°†åœ¨7æ—¥å†…ä¸Žæ‚¨æœ¬äººè”ç³»å¹¶å®Œæˆï¼‰ï¼ŒåŽä¸¤æ¬¾APPçš„è´¦å·æ³¨é”€è·¯å¾„æ˜¯ï¼šæˆ‘â€”è´¦å·ä¸­å¿ƒâ€”æ³¨é”€è´¦å·ã€‚
+8.å®‰å…¨ä¿éšœæŽªæ–½
+8.1æˆ‘ä»¬é‡‡å–å•†ä¸šä¸Šåˆç†çš„ç‰©ç†ã€ç®¡ç†å’ŒæŠ€æœ¯ä¿éšœæŽªæ–½ï¼Œä»¥ç»´æŠ¤æ‚¨çš„ä¸ªäººæ•°æ®çš„å®Œæ•´æ€§å’Œå®‰å…¨æ€§ã€‚åšè”æä¾›å¤šç§å®‰å…¨ä¿éšœç­–ç•¥ï¼Œä»¥æœ‰æ•ˆç¡®ä¿ç”¨æˆ·å’Œè®¾å¤‡çš„æ•°æ®å®‰å…¨ã€‚åœ¨è®¾å¤‡è®¿é—®æ–¹é¢ï¼Œæˆ‘ä»¬é‡‡ç”¨åšè”ä¸“æœ‰ç®—æ³•ä¿éšœæ•°æ®éš”ç¦»ã€è®¿é—®è®¤è¯å’ŒæŽˆæƒç”³è¯·ã€‚åœ¨æ•°æ®é€šä¿¡æ–¹é¢ï¼Œæ”¯æŒä½¿ç”¨å®‰å…¨ç®—æ³•å’Œä¼ è¾“åŠ å¯†åè®®ä»¥åŠåŸºäºŽåŠ¨æ€å¯†é’¥çš„å•†ä¸šçº§ä¿¡æ¯åŠ å¯†ä¼ è¾“è¿›è¡Œé€šä¿¡ã€‚åœ¨æ•°æ®å¤„ç†æ–¹é¢ï¼Œé‡‡ç”¨ä¸¥æ ¼çš„æ•°æ®è¿‡æ»¤å’ŒéªŒè¯ä»¥åŠå®Œæ•´çš„æ•°æ®å®¡æ ¸æµç¨‹ã€‚åœ¨æ•°æ®å­˜å‚¨æ–¹é¢ï¼Œç”¨æˆ·çš„æ‰€æœ‰æœºå¯†ä¿¡æ¯å°†è¿›è¡Œå®‰å…¨çš„åŠ å¯†å¤„ç†ä»¥ä¾¿å­˜å‚¨ã€‚å¦‚æžœæ‚¨å‡ºäºŽä»»ä½•åŽŸå› è®¤ä¸ºæ‚¨ä¸Žæˆ‘ä»¬çš„äº¤äº’ä¸å†å®‰å…¨ï¼ˆä¾‹å¦‚ï¼Œæ‚¨è®¤ä¸ºæ‚¨çš„åšè”å¸æˆ·çš„å®‰å…¨æ€§å·²ç»å—æŸï¼‰ï¼Œè¯·æ‚¨å‘é€ç”µå­é‚®ä»¶è‡³dpo@broadlink.com.cnç«‹å³å‘ŠçŸ¥æˆ‘ä»¬ã€‚
+8.2æˆ‘ä»¬ä¼šä¸å®šæœŸæå‡æ•°æ®çš„å®‰å…¨ä¿éšœæŽªæ–½ï¼ŒåŒ…æ‹¬ä¸”ä¸é™äºŽæ•°æ®åŠ å¯†ã€ç‰©ç†æŽªæ–½ã€æ•°æ®è®¤è¯ç­‰æ‰‹æ®µã€‚æˆ‘ä»¬ä¼šæ ¹æ®æƒ…å†µéœ€è¦é€‰æ‹©é€šçŸ¥æ‚¨ã€‚
+8.3æˆ‘ä»¬è®¾ç½®æ•°æ®ä¿æŠ¤å®˜ï¼ˆDPOï¼‰ï¼Œå…¶è”ç»œé‚®ç®±ä¸º
+dpo@broadlink.com.cn
+ã€‚
+8.4è‹¥å‘ç”Ÿæ‚¨çš„æ•°æ®æ³„éœ²çš„æƒ…å†µï¼Œæˆ‘ä»¬ä¼šåœ¨72å°æ—¶å†…å‘æ¬§ç›Ÿæˆ–æ‚¨æ‰€åœ¨å›½ç›‘ç®¡æœºæž„æŠ¥å‘Šä¸ªäººæ•°æ®çš„æ³„éœ²æƒ…å†µï¼Œç¬¬ä¸€æ—¶é—´é‡‡å–ç›¸åº”çš„è¡¥æ•‘æŽªæ–½ï¼Œå¹¶å°†è¡¥æ•‘æŽªæ–½å‘æ‚¨åŠæ¬§ç›Ÿç›‘ç®¡æœºæž„æ±‡æŠ¥ã€‚è‹¥æˆ‘ä»¬æœªèƒ½åœ¨72å°æ—¶å†…æŠ¥å‘Šç›‘ç®¡æœºæž„ï¼Œåˆ™æˆ‘ä»¬çš„åŽç»­æŠ¥å‘Šä¼šè¯´æ˜Žè¿Ÿå»¶æŠ¥å‘Šçš„ç†ç”±ã€‚
+8.5æ•°æ®ä¿ç•™æœŸé™
+æˆ‘ä»¬å°†åœ¨è¾¾æˆæœ¬æ”¿ç­–æ‰€è¿°ç›®çš„çš„æœ€çŸ­æœŸé™å†…å¤„ç†æ‚¨çš„ä¸ªäººæ•°æ®ï¼Œé™¤éžæ ¹æ®ç‰¹å®šæ³•å¾‹è¦æ±‚éœ€è¦ä¿ç•™è¾ƒé•¿æ—¶é—´ã€‚æˆ‘ä»¬å°†æ ¹æ®ä¸ªäººæ•°æ®çš„æ•°é‡ã€æ€§è´¨å’Œæ•æ„Ÿæ€§å†³å®šé€‚å½“çš„ä¿ç•™æœŸé™ï¼Œåœ¨ä¿ç•™æœŸé™ç»“æŸåŽï¼Œæˆ‘ä»¬å°†é”€æ¯æ‚¨çš„ä¸ªäººæ•°æ®ã€‚å¦‚æžœæˆ‘ä»¬å‡ºäºŽæŠ€æœ¯åŽŸå› æ— æ³•é”€æ¯æ•°æ®ï¼Œæˆ‘ä»¬å°†é‡‡å–é€‚å½“æŽªæ–½é˜²æ­¢æ‚¨çš„ä¸ªäººæ•°æ®è¢«è¿›ä¸€æ­¥ä½¿ç”¨ã€‚
+9.äº‰è®®è§£å†³
+å¦‚æžœæ‚¨æœ‰æœªè§£å†³çš„éšç§æˆ–æ•°æ®ä½¿ç”¨é—®é¢˜ä¸”æˆ‘ä»¬æœªèƒ½æä¾›ä»¤æ‚¨æ»¡æ„çš„è§£å†³æ–¹æ¡ˆï¼Œè¯·è”ç³»ä¸­å›½æ­å·žä»²è£å§”å‘˜ä¼šè¿›è¡Œä»²è£ï¼Œç½‘å€ï¼šhttp://www.hzhac.org
+10.å…³äºŽæ”¿ç­–å˜æ›´çš„å£°æ˜Ž
+æˆ‘ä»¬å¯èƒ½ä¼šæ ¹æ®ä¿¡æ¯å®žè·µçš„å˜åŒ–å¯¹æœ¬æ”¿ç­–è¿›è¡Œæ›´æ–°ã€‚å¦‚æžœæˆ‘ä»¬ä½œå‡ºä»»ä½•é‡å¤§å˜æ›´ï¼Œæˆ‘ä»¬å°†é€šè¿‡ç”µå­é‚®ä»¶ï¼ˆå‘é€è‡³æ‚¨å¸æˆ·ä¸­æŒ‡å®šçš„ç”µå­é‚®ä»¶åœ°å€ï¼‰é€šçŸ¥æ‚¨ï¼Œæˆ–äºŽå˜æ›´ç”Ÿæ•ˆå‰åœ¨ç§»åŠ¨åº”ç”¨ç¨‹åºä¸Šå‘å¸ƒé€šçŸ¥ã€‚æˆ‘ä»¬å»ºè®®æ‚¨å®šæœŸæµè§ˆæœ¬é¡µé¢ï¼Œä»¥èŽ·å–æœ‰å…³éšç§åšæ³•çš„æœ€æ–°ä¿¡æ¯ã€‚
+11.è”ç³»
+11.1ã€è”ç³»æˆ‘ä»¬ã€‘å¦‚æžœæ‚¨å¯¹æˆ‘ä»¬çš„åšæ³•æˆ–æœ¬åè®®å­˜åœ¨ä»»ä½•ç–‘é—®ï¼Œè¯·é€šè¿‡ä»¥ä¸‹æ–¹å¼è”ç³»æˆ‘ä»¬ï¼š
+      æ­å·žåšè”æ™ºèƒ½ç§‘æŠ€è‚¡ä»½æœ‰é™å…¬å¸
+      é€šè®¯åœ°å€ï¼šæµ™æ±Ÿçœæ­å·žå¸‚æ»¨æ±ŸåŒºæ±ŸäºŒè·¯57å·æ­å·žäººå·¥æ™ºèƒ½äº§ä¸šå›­Cå¹¢
+      ç”µå­é‚®ç®±ï¼š
+dpo@broadlink.com.cn
+å¯¹äºŽæ¬§ç›Ÿæ•°æ®ä¸»ä½“ï¼Œæ‚¨æœ‰æƒå‘ç›‘ç®¡æœºæž„æŠ•è¯‰åšè”çš„æ•°æ®å¤„ç†æ´»åŠ¨ã€‚
+11.2ã€éšç§åè®®æ›´æ–°ã€‘æˆ‘ä»¬æ›´æ–°éšç§åè®®æ—¶ï¼Œä¼šåœ¨1ä¸ªå·¥ä½œæ—¥å†…å‘æ‚¨é‚®ç®±å‘é€æ›´æ–°çš„å†…å®¹ï¼›
+      æ‚¨å¦‚æžœæ‹’ç»æˆ‘ä»¬ã€Šéšç§åè®®ã€‹çš„æ›´æ–°ï¼Œæ‚¨æœ‰æƒä¸åŒæ„æˆ‘ä»¬ã€Šéšç§åè®®ã€‹çš„æ›´æ–°ã€‚
+      å¹¶ä¸”æ‚¨æœ‰æƒè¦æ±‚æ¢å¤åˆ°åŽŸæ¥æˆ‘ä»¬ç»™æ‚¨æä¾›çš„ç±»åž‹æœåŠ¡ï¼Œä½†æ‚¨éœ€è¦å‘é€é‚®ä»¶å‘ŠçŸ¥æˆ‘ä»¬ï¼Œ
+      æˆ‘ä»¬æŽ¥æ”¶é‚®ä»¶çš„é‚®ç®±æ˜¯
+dpo@broadlink.com.cn
+ã€‚

@@ -1,0 +1,81 @@
+Privacy Policy
+Privacy Policy
+We ("us", "we", "the games", "our games", "the apps", "our apps" or "the Applications") recognize that privacy is significant. This Privacy Policy applies to your use of our games.
+We ("us", "we", "the games", "our games", "the apps", "our apps" or "the Applications") have created this Policy to explain our privacy practices so that you will understand what information about you is collected, used and disclosed with respect to the games.
+By using the games, you consent to the privacy practices described in this Policy.
+This Policy covers our collection, use and disclosure of your information through the games. It does not cover any collection, use or disclosure by third parties through the games that we do not control or own, such as Facebook, or
+            any third party features or services made available via the games. All trademarks, trade names, and logos of third parties featured on the games belong to their respective owners.
+A. WHAT KIND OF INFORMATION WE COLLECT
+We collect the following information:
+1. The system language;
+2. The MCC;
+3. The version code;
+4. The version name;
+5. The Unity version;
+6. The OS (iOS or Android);
+7. The OS version;
+8. The device name;
+9. The device memory;
+10. The screen resolution;
+11. The device model;
+12. The IP address;
+13. The Advertising ID (Identifier for Advertising (IDFA) on iOS, Google Advertising ID on Android), you can reset or erased at any time in your device settings;
+14. The email address when you send us feedback with email address filled;
+15. The country code;
+16. The actions you do in the games, for example, open an page.
+B. WHY WE COLLECT AND HOW WE USE COLLECTED INFORMATION
+We may use the information for the following purpose:
+1. To understand demographics of our users, and improve user experience;
+2. To communicate with you when you send us feedback with email address filled;
+3. To fix the crash and ANR issues on some special devices;
+4. To construct the attribution links of third Party Ads. Currently we construct attribution link for Unity Ads, Unity will protect your privacy strictly as described in their privacy policy, see more
+https://unity3d.com/legal/privacy-policy
+.
+C. INFORMATION MAY BE SHARED with THIRD-PARTY
+We use THIRD-PARTY Ads to enable us to offer our app for free. We use THIRD-PARTY to help us to analyze data and they will collect the related data by themselves by their SDKs after your consent. The details are listed below:
+1. We use Facebook ads, the related privacy policy is described by Facebook, see more details in
+https://m.facebook.com/ads/ad_choices
+2. We use Admob ads and Firebase, the related privacy policy is described by Google, see more details in
+https://policies.google.com/privacy
+3. We use Unity ads and use Unity to develop games, the related privacy policy is described in
+https://unity3d.com/legal/privacy-policy
+4. We use AppLovin ads, the related privacy policy is described by AppLovin, see more details in
+https://www.applovin.com/privacy/
+5. We use Mopub ads, the related privacy policy is described by Mopub, see more details in
+https://www.mopub.com/en/legal/privacy
+6. We use ADColony ads, the related privacy policy is described by ADColony, see more details in
+https://www.adcolony.com/privacy-policy/
+7. We use Pangle ads, the related privacy policy is described by Pangle, see more details in
+https://www.pangleglobal.com/privacy
+8. We use Tapjoy ads, the related privacy policy is described by Tapjoy, see more details in
+https://www.tapjoy.com/legal/players/privacy-policy/
+9. We use Vungle ads, the related privacy policy is described by Vungle, see more details in
+https://vungle.com/privacy/
+10. We use ironSource ads, the related privacy policy is described by ironSource, see more details in
+http://www.ironsrc.com/wp-content/uploads/2019/03/ironSource-Privacy-Policy.pdf
+11. We use Adjust SDK, the related privacy policy is described by Adjust, see more details in
+https://www.adjust.com/terms/privacy-policy/
+D. Our Policies About Children
+We never knowingly or willingly collect any personal data concerning children under 16 years of age.
+E. Your Rights and How to Access, Update, and Manage Your Personal Information
+You can send us request at the â€œUser Rightâ€ page of the "Privacy Policy" Page in the Settings page of our games with the following rights, we will process your request ASAP in 1 day to 2 week:
+European Countries Users Rights
+If you are located in the European Countries, you have the following data protection rights:
+1. You can access or request deletion of your personal information.
+2. You can correct or update your personal information.
+3. If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time.
+4. You can ask us to restrict processing of your personal information.
+California Users Rights
+If you are a California resident, you may be able to exercise additional rights granted by California law in relation to the Personal Information that we have collected from you.
+Brazilian Users Rights
+If you are a Brazilian resident, you may be able to exercise additional rights granted by Lei Geral de ProteÃ§Ã£o de Dados (LGPD) in relation to the personal information.
+F. Data Security and Retention
+We implement reasonable measures to help secure the information we collect. We retain the data we collect for up to 24 months.
+G. CHANGES TO THIS PRIVACY POLICY
+We reserve the right, at our sole discretion, to change, modify or otherwise alter this Policy at any time. You can always check the latest version of our Privacy Policy on the games. You must review this Policy on a regular basis to keep
+            yourself apprised of any changes. If you do not agree to any modifications to this Policy, your sole recourse is to immediately stop all use of the games. Your continued use of any games following the posting of any modifications
+            to this Policy will constitute your acceptance of the revised Policy. Please note that none of our employees or agents has the authority to vary any of our Policies.
+G. CONTACT US
+If you have any questions or comments about this policy or our privacy practices, or to report any violations of the Policy or abuse of our games, services or site, please contact us at
+myfuncookie@gmail.com
+.

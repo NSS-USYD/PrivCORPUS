@@ -1,0 +1,17 @@
+Intercom for Android Privacy Policy | [âˆž]InfiniteBuffer
+[âˆž]InfiniteBuffer
+Apps
+Intercom for Android Privacy Policy
+Intercom for Android does not collect any user related information. Intercom for Android does send anonymous information for statistics and error reporting.
+Audio recording
+#
+IfA records audio to send it to other devices by Wi-Fi or Bluetooth. The audio is not encrypted and may be sniffed by nearby devices but it is never sent to any other place for any other purpose.
+Phone status and identity
+#
+IfA uses â€œRead phone status and identityâ€ permission only to let know the app that a phone call is coming and stop recording until it ends. Any information is recorder, stored nor sent anywhere.
+© 2023
+[âˆž]InfiniteBuffer
+Powered by
+Hugo
+&
+PaperMod

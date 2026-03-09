@@ -1,0 +1,48 @@
+file_1669714928220
+Terms and conditions & Privacy Policy
+Text messaging app can be downloaded for free at Google Play. Full network access:
+App has access to data received through the internet, can display network connections and has full network access.
+Run and startup:
+For fast initialization and use of the app, it has permission to automatically start at boot.
+App is running in the background, it has permission to prevent the device from entering sleep mode. By installing the app, you are also giving access to your:
+Device and app history
+(retrieve running apps)
+Storage
+(read the contents of your USB storage, modify or delete the contents of your USB storage)
+Photos/Media/Files
+(read the contents of your USB storage, modify or delete the contents of your USB storage)
+Statistics
+(update component usage statistics)
+Draw over other apps
+(open thirty part sites applications)
+Email address
+(show your email address)
+Phone number
+(show your phone number)
+Functions may vary depending on country of use.
+All information obtained from user use of the app may be used for the advertising and marketing purposes.
+Personal Data collected for the following purposes and using the following services:
+Google Analytics for Firebase
+Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
+Advertising
+AdMob, Applovin, Facebook Audience Network and othe admob ad mediation platforms
+Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
+Backup saving and management Backup on Google Drive
+Personal Data: various types of Data as specified in the privacy policy of the service
+Device permissions for Personal Data access
+Personal Data: Biometric Data access permission; Calendar permission; Call permission; Camera permission; Contacts permission; Microphone permission; Motion sensors permission; Phone permission; Precise location permission (non-continuous); SMS permission; Social media accounts permission; Storage permission
+Hosting and backend infrastructure
+GoDaddy, Amazon Web Services (AWS), Google App Engine, Firebase Hosting and Google Cloud Storage
+Personal Data: various types of Data as specified in the privacy policy of the service
+Firebase Cloud Functions, Firebase Cloud Storage and Firebase Realtime Database
+Personal Data: Usage Data; various types of Data as specified in the privacy policy of the service
+Managing contacts and sending messages
+Firebase Cloud Messaging and Firebase Notifications
+Personal Data: various types of Data as specified in the privacy policy of the service
+Google Maps widget, Google Translate and YouTube video widget Personal Data: Cookies; Usage Data
+Location-based interactions
+Geolocation and Non-continuous geolocation
+Personal Data: geographic position
+By downloading the mobile app, you are giving permission to all of the above!
+Contact us:
+messenger1.messenger1@gmail.com

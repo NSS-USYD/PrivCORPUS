@@ -1,0 +1,178 @@
+Unciv/docs/Privacy-Policy.md at master · yairm210/Unciv · GitHub
+Skip to content
+Navigation Menu
+Toggle navigation
+Sign in
+Product
+GitHub Copilot
+Write better code with AI
+Security
+Find and fix vulnerabilities
+Actions
+Automate any workflow
+Codespaces
+Instant dev environments
+Issues
+Plan and track work
+Code Review
+Manage code changes
+Discussions
+Collaborate outside of code
+Code Search
+Find more, search less
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+By company size
+Enterprises
+Small and medium teams
+Startups
+By use case
+DevSecOps
+DevOps
+CI/CD
+View all use cases
+By industry
+Healthcare
+Financial services
+Manufacturing
+Government
+View all industries
+View all solutions
+Resources
+Topics
+AI
+DevOps
+Security
+Software Development
+View all
+Explore
+Learning Pathways
+White papers, Ebooks, Webinars
+Customer Stories
+Partners
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Enterprise
+Enterprise platform
+AI-powered developer platform
+Available add-ons
+Advanced Security
+Enterprise-grade security features
+GitHub Copilot
+Enterprise-grade AI features
+Premium Support
+Enterprise-grade 24/7 support
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+Search
+Clear
+Search syntax tips
+Provide feedback
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel
+Submit feedback
+Saved searches
+Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our
+documentation
+.
+Cancel
+Create saved search
+Sign in
+Sign up
+Reseting focus
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.
+You switched accounts on another tab or window.
+Reload
+to refresh your session.
+Dismiss alert
+yairm210
+/
+Unciv
+Public
+Notifications
+You must be signed in to change notification settings
+Fork
+1.6k
+Star
+8.5k
+Code
+Issues
+77
+Pull requests
+16
+Actions
+Security
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Security
+Insights
+Files
+master
+Breadcrumbs
+Unciv
+/
+docs
+/
+Privacy-Policy.md
+Blame
+Blame
+Latest commit
+History
+History
+9 lines (5 loc) · 216 Bytes
+master
+Breadcrumbs
+Unciv
+/
+docs
+/
+Privacy-Policy.md
+Top
+File metadata and controls
+Preview
+Code
+Blame
+9 lines (5 loc) · 216 Bytes
+Raw
+Privacy Policy
+We don't store personal information
+At all, in any way.
+We do store your Multiplayer games
+If you want to use an alternative server backend, you can set your server URL in the Options menu
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+You can’t perform that action at this time.

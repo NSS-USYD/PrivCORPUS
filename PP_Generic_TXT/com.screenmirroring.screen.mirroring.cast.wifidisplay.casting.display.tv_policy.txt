@@ -1,0 +1,56 @@
+Kazmi Apps Studio
+Search this site
+Skip to main content
+Skip to navigation
+Kazmi Apps Studio
+Privacy Policy
+Required Permissions and their usage:
+Storage data permission:
+Its requested permission for allowance of access only when it’s needed and use the info for better performance of application. Didn’t get any cloud connection permission and all your data are stored in your phone internal and local storage.
+Read & write storage permission:
+This permission allowed to read & write the photos, videos and documents for editing. All your data are encrypted in your local storage and read your storage only when required.
+Accounts information:
+We not forced anyone to login their personal account and our apps didn’t require any private user info. We use info of user activity with our apps, provided by Google play console, only if users linked their Google Account in their device helps to make us its Google Services and helps to get secure updates of application.
+Configuration of google services:
+These details required from user an advertising ID, which helps user to provide better advertise services.
+Google Services:
+Its use the user advertising ID and show the user interest base ads. It’s very helpful for user to provide them better advertise services. It’s also helpful to show ads by age, if user is not adult then, it’s not showed the adult ads.
+Cellular network connectivity:
+It’s for checking the connectivity of cellular connectivity from setting and notification tool bar. And also use for show user their current location in navigation map.
+Wi-Fi Connectivity:
+This permission for checking Wi-Fi connectivity, it’s connected or not and also helpful to show user their accurate location for GPS apps.
+Location Permission:
+This permission used in navigation apps applications to access the user location for show user their current location. It’s use only if user give access and enable the GPS from device.
+Bluetooth connectivity:
+It’s for connectivity for Bluetooth devices like headphones, ear buds and wireless speakers.
+Sync process:
+It’s helps to save the process of application and save the consumption of power of device.
+These permissions use to boost the application performance
+Protected Information
+All provided information in our apps are secured and safe. We scanned all data on daily basis and didn’t disclosed it to any third party.
+Important note: We didn’t force to entered your personal information like username, private pics & videos or debit card number.
+Third-Party Disclosure
+We don't sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+Third-Party Links
+We do not include or offer third-party products or services on our products.
+Google's
+Advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive user experience for our valuable customer around the globe in accordance with
+Google Ads policies
+. We use Google AdSense Advertising on for our products.
+Google, as a third-party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to our users based on previous visits and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+GDPR (General Data Protection Regulation)
+When it comes to the collection of personal information from EUROPEAN PEOPLE, we obey the rules as stated by
+EU User Consent Policy
+and here is the list of which SDK we use:
+Admob
+Facebook
+Firebase
+Child privacy policy
+Child privacy is our first priority and we didn’t show and collect info of children under age 13.
+Contact us
+For any suggestion or feedback and issue you feel in our apps then email us: Kashafkazmi12@gmail.com
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

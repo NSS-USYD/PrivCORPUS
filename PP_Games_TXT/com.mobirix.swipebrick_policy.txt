@@ -1,0 +1,181 @@
+개인정보처리방침
+2023-02-06
+2022-10-17
+2016-06-29
+English
+Korean
+MOBIRIX Corporation Privacy Policy
+MOBIRIX Corporation (hereinafter referred to as the “Company”) guides the procedures and standards for handling personal information in accordance with Article 30 of the 「Personal Information Protection Act」 so that users can safely use the website and mobile game services, and promptly resolves related grievances. We establish and disclose the following personal information processing policy in order to ensure smooth processing.
+This personal information processing policy may be changed due to changes in related laws and guidelines or changes in Company's internal policies.
+Article 1 [Items of personal information collected and used]
+① For user identification, personal information may be collected as follows.
+- [Essential] Member information: External platform ID (Google, Apple, Facebook), foreigner information (only in South Korea)
+② When using games and portal services, the following information may be automatically collected and generated for compliance with related laws, account and item protection, prevention of illegal users, and stable service provision.
+- [Essential] When installing and using the game: nickname, download history, service use record, access log (including IP address), bad use record, game version, payment record, device identification and location information, terminal information (model name, OS information, terminal language and country information)
+③ When using the customer center for smooth service use, additional information is collected as follows.
+- [Essential] Customer consultation and complaint handling service: email address, game name, game ID, nickname
+- [Optional] Customer consultation and civil complaint handling service: Information necessary for checking and answering inquiries, terminal information (operating system, OS version, terminal model name)
+④ Personal information is requested as follows in order to process refund upon user request. Depending on the payment information, the collected information may be different, and if necessary, separate consent is obtained. In addition, if the user is a minor, additional information may be requested to verify the identity of the user and the relationship between the legal representatives when processing the refund.
+- [Essential] Payment/refund related information: email address, game name, game ID, nickname
+- [Optional] Payment/refund related information: In case of cancellation of payment by minors, real name and family relationship, documentary evidence, data Essential to confirm the name of the payment method, terminal information (Operating system, OS version, terminal model name)
+⑤ If the user wishes to participate in Company's events and marketing, the user's personal information may be collected and used. However, in this case, separate consent is obtained from the user.
+- [Optional] Consent to receive advertising information: email address, mobile phone number
+Article 2 [Method of collecting personal information]
+① Company may collect personal information of users in the following ways.
+User's response in the process of customer inquiry
+Collection through network communication information or access history
+Article 3 [Purpose of collection and use of personal information]
+① Company may use the collected personal information for the following purposes.
+User Management
+- Individual identification according to content provision, duplicate subscription confirmation, bad user management, detection of abnormal users and restrictions on use, contract implementation, dispute handling
+Service provision
+- Complaint handling and other customer service provision, notice delivery, paid payment service provision and payment history notification, in-game cooperative play and community service support
+Development of new services and utilization of marketing and advertising
+- New service, event information guide, service quality improvement and statistical information processing
+Article 4 [Period of retention and use of personal information]
+① The collected personal information is retained and used while the user's qualification is maintained, and if the user's qualification is lost or the user's qualification is maintained, if the purpose of using the information is completely achieved, it will be destroyed without delay. However, Company retains the user's information for a certain period according to the 'retention period' informed to the user when consenting to the collection and use of personal information.
+Purpose of retention: To resolve consumer complaints and disputes when withdrawing from game service Retention period: 30 days
+Retained records: access record (access date, access location information), bad use record, download record, external platform ID, terminal information
+Purpose of retention: For marketing information and event related information, and for selection of winners
+Retention period: Deleting immediately after announcement of the winner
+Retained records: nickname, UID
+② If it is necessary to preserve it in accordance with the provisions of related laws such as the Consumer Protection Act in Electronic Commerce (hereinafter referred to as the 'Electronic Commerce Act') and the Communication Secret Protection Act, Company keeps user information for a certain period of time as stipulated by the relevant laws and regulations. In this case, Company uses the stored information only for the purpose of storage, and the retention period is as follows.
+Records on display and advertisement: 6 months (based on Electronic Commerce Act)
+Records on contract or subscription withdrawal: 5 years (based on Electronic Commerce Act)
+Records on payment and supply of goods: 5 years (based on Electronic Commerce Act)
+Records on handling consumer complaints or disputes: 3 years (based on Electronic Commerce Act)
+Service usage records such as access log, access IP information, etc.: 1 year (based on Communication Secret Protection Act)
+Article 5 [Procedures and Methods for Destruction of Personal Information]
+① Company destroys the personal information without delay when the personal information becomes unnecessary, such as the elapse of the personal information retention period or achievement of the purpose of processing.
+Destruction procedure – Company destroys personal information beyond the retention period in a way that cannot be reproduced.
+※ However, even if you delete the mobile game app (hereinafter referred to as the “app”), the personal information collected by Company is not immediately destroyed.
+Destruction method - Personal information stored in electronic file format is deleted using a technical method that cannot reproduce the record.
+- Personal information printed on paper is shredded and destroyed.
+Article 6 [Matters concerning provision of personal information to third parties]
+① Company processes users' personal information only within the scope specified in "Article 3 [Purpose of Collection and Use of Personal Information]" and, in principle, does not provide users' personal information to the outside. However, the following cases are exceptions.
+If the user consents in advance
+In accordance with special provisions of the law, or if there is a request from an investigation agency in accordance with the procedures and methods set forth in the Act for the purpose of a court judgment and order, a binding order of an administrative agency, or for investigation purposes;
+② In accordance with the 「Personal Information Handling and Protection Rules in Emergency Situations」 jointly announced by the relevant government departments, emergency situations such as disasters, infectious diseases, events or accidents that cause imminent danger to life or body, and imminent property loss occur In this case, personal information may be provided to related organizations without the consent of the information subject.
+Article 7 [Consignment of personal information processing business and overseas transfer]
+① Company entrusts some of the tasks necessary for service provision to an external company, and manages/supervises the entrusted company to safely process personal information in accordance with the Information and Communications Network Act. If Company does not use services related to the work entrusted to the trustee, the user's personal information will not be provided to the trustee.
+Personal information processing consignment tasks are as follows.
+- Consignment company : Amazon Web Service, Inc.
+- Consignment work : Data storage and system operation to provide services
+- Personal information protection and period of use : Until membership withdrawal or service termination, and the purpose of retention and use of personal information is achieved
+Out of the consignment of personal information processing, the consignment tasks handled abroad are as follows.
+- Info transfer recipient: Amazon Web Service, Inc.
+- Info transfer: countries: USA, Japan
+- Transfer time and method: Transmission through the network at the time of inputting necessary information for service use
+- Transferred info Items: nickname, terminal information, service use information, phone number
+- Purpose of use: Data storage and system operation for service provision
+- Period of retention and use of personal information: Until membership withdrawal or service termination, and until the purpose of retention and use of personal information is achieved
+- Transfer recipient name: Zendesk, Inc.
+- Info transfer country: Japan
+- Transfer time and method: Transmission through the network at the time of personal information collection
+- Transferred info Items: Email, game name, game ID, nickname, IP address, terminal information (operating system, OS version, terminal model), other identification information included in the user inquiry, password (when a user logs in and registers an inquiry) only)
+- Purpose of use: operation and management of customer support services
+- Period of retention and use of personal information: Until the purpose of retention and use of personal information is achieved
+- Info transfer recipient: Firebase Service (Google LLC and affiliates)
+- Info transfer country: USA
+- Transfer time and method: Transmission through the network at the time of inputting necessary information for service use
+- Transferred info Items: nickname, service use information, browser, terminal information
+- Purpose of use: Data storage and system operation for service provision
+- Period of retention and use of personal information: Until membership withdrawal or service termination, and until the purpose of retention and use of personal information is achieved
+- Info transfer recipient: Playfab Service
+- Info transfer country: USA
+- Transfer time and method: Transmission through the network at the time of inputting necessary information for service use
+- Transferred info Items: nickname, terminal information, service use information
+- Purpose of use: Data storage and system operation for service provision
+- Period of retention and use of personal information: Until membership withdrawal or service termination, and until the purpose of retention and use of personal information is achieved
+Article 8 [Rights of users and legal representatives and how to exercise them]
+① Users and legal representatives of children under the age of 14 (hereinafter referred to as “children”) may request to view, correct, or delete personal information of themselves or the child at any time.
+② Users and children's legal representatives can exercise the rights specified in Paragraph 1 through Company's representative phone number or e-mail(help@mobirix.com), etc. Company will take necessary measures without delay when a request for the exercise of rights is received by the legal representative of the user or child.
+③ Users' rights may be restricted in accordance with Article 35 (4) and 37 (2) of the 「Personal Information Protection Act」.
+④ Requests for correction and deletion of personal information may be rejected if there are regulations under other laws.
+Article 9 [Matters concerning installation, operation, and rejection of automatic collection devices for personal information]
+① Company does not use cookies that store and retrieve user information from time to time.
+② Company allows online customized advertising companies to collect behavioral information.
+Online customized advertising: This refers to a marketing technique that provides services that take into account the characteristics of users by analyzing online usage patterns and access records for users.
+Online personalized advertising operators: Google, Facebook, AdMob
+Behavioral information collection method: Automatically collected when a user visits a website or runs an app
+Behavioral information items to be collected: website visit history and app usage history, user search history
+How to Opt Out of Collection of Advertising Identifiers
+: Users can choose whether or not to receive customized advertisements and can voluntarily disable the terminal option so that advertisement identifiers are not collected through the following paths.
+- AOS (Android Operating System): Device Settings → Google Ads Or Device Settings → Privacy Advertisement
+- iOS (Apple operating system): Device Settings → Privacy → Apple Advertising
+※ The access path may be different depending on the OS version.
+Article 10 [Measures to ensure safety of personal information]
+① Company takes the following measures to ensure safety in handling users' personal information so that personal information is not lost, stolen, leaked, forged, falsified, or damaged.
+Administrative measures: establishment and implementation of internal management plans, training of employees and personal information handlers
+Technical measures: management of access rights of personal information processing system, etc., installation and update of company-wide PC and server security programs
+Physical measures: server room access control
+Article 11 [Criteria for additional use or provision without consent of the information subject]
+① Company may additionally use and provide personal information without the consent of the information subject in accordance with Article 15 (3) and 17 (4) of the 「Personal Information Protection Act」 and Article 14-2 (1) of the 「Enforcement Decree of the Personal Information Protection Act」. Accordingly, in order for Company to use and provide additional information without the consent of the information subject, the following matters have been considered.
+Whether the purpose of additional use and provision of personal information is related to the original purpose of collection
+Whether there is any predictability of additional use or provision in light of the circumstances in which personal information was collected or processing practices;
+Whether the additional use or provision of personal information unreasonably infringes on the interests of the information subject
+Whether measures necessary to secure safety, such as pseudonymization or encryption, have been taken
+Article 12 [Personal Information Protection Officer]
+① Company is responsible for the handling of personal information and has designated the person in charge of personal information protection as follows to handle complaints and damage relief from information subjects related to personal information processing. Please contact us when you have any issue with personal information protection.
+Personal Information Protection Chief Officer
+Name
+Seok-ho Yoon
+Position
+Business Director
+Email
+help@mobirix.com
+Personal Information Protection Officer
+Name
+Taewon kang
+Email
+kangtw@mobirix.com
+Article 13 [Processing Requests for Inspection, edition and Deletion of Personal Information]
+① Users may request the following departments to view, edit, or delete personal information in accordance with 『Personal Information Protection Act Article 35』. When receiving a personal information inspection request, we will make every effort to process it as soon as we can.
+Personal Information Inspection/Correction/Deletion Department
+Department
+Customer support team
+Email
+support@mobirix.zendesk.com
+Article 14 [How to remedy infringement of user's personal information protection right]
+① Users can contact the institution below for damage relief and counseling on personal information infringement.
+Personal Information Infringement Report Center
+(Operation of the Korea Internet & Security Agency)
+Duty
+Report personal information infringement and apply for consultation
+Homepage
+Privacy.kisa.or.kr
+Telephone
+(Without local code) 118
+Address
+(58324) 9, Jinheung-gil, Naju-si, Jeollanam-do (Bitgaram-dong 301-2)
+Personal Information Dispute Mediation Committee
+Duty
+Application for personal information dispute settlement, collective dispute settlement
+Homepage
+www.kopico.go.kr
+Telephone
+(without local code) 1833-6972
+Address
+(03171) 4th floor of the Seoul Government Complex, 209, Sejong-daero, Jongno-gu, Seoul
+Cyber Investigation Division of the Supreme Prosecutors' Office
+Homepage
+www.spo.go.kr
+Telephone
+(without local code) 1301
+Cyber Investigation Bureau of the National Police Agency
+Homepage
+https://ecrm.cyber.go.kr/minwon/main
+Telephone
+(without local code) 182
+Article 15 [Change of Privacy Policy]
+① Company's privacy policy may be changed due to changes in laws and internal policies of Company. Company will notify you in a way that can be verified within 7 days before processing privacy policy. However, if the changed content is unfavorable to the member or is a significant change, we will notify you by 30 days before the effective date.
+② The previous version of the Privacy Policy is provided so that users can easily check the changed contents. The previous version of the privacy policy can be viewed through changing the date upper right of the screen.
+This Privacy Policy is effective from Fab, 6
+th
+, 2023
+- Date of notice of privacy policy: Jan, 27
+th
+, 2023
+- Date of processing privacy policy: Fab 6
+th
+, 2023

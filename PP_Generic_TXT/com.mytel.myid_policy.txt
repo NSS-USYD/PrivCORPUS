@@ -1,0 +1,122 @@
+Terms and Policies
+Tính năng
+Hỏi đáp
+Hướng dẫn sử dụng
+Terms and Conditions:
+Thank you for using Mytel’s product and services. These Terms and Conditions form an agreement between you and us, Mytel, whenever you use MyID app (“Agreement”). PLEASE READ THIS CAREFULLY. By reading of this Agreement and your use of our technologies, products and services, you agree to be bound by the terms of this Agreement as provided below. If you do not agree with the Agreement, you should not proceed any further with registration. The term “you” or “your” includes any of your subsidiaries, affiliates, employees and parent or legal guardian. Mytel and its Affiliates shall be collectively called “we”, “our”, “us”. This Terms and Conditions will be updated regularly by Mytel. The most updated version will override any regulations or terms in the first published Terms and Conditions. The most updated version can always be found by visiting the App Settings > About section..
+1. Policy
+We collect the minimum information required to achieve the purposes set out in this Policy (see below), and you have the ability to limit such collection, as specified below:
+(a) Registration and Account Information (e.g., name, birth date, age, phone number and, when necessary, billing information): Your name and photo (if you choose to provide them) will be visible to other MyID users and they can search you by name unless you change your settings. We may suggest you as a possible contact to people we believe you may know (without revealing your phone number), unless you turn off this option. We may notify your contacts when it’s your birthday, unless you turn off this option. Your phone number and email might be uploaded to http://mytelsupperapp.mocha.com.vn/ but it’s a MyID domain. That means your phone number and your email is neither published nor disclosed for any other purpose without your consent.
+(b) Device and Location Information: We collect additional information when you access our App through a certain device (e.g. your mobile device’s unique identifier; your session’s IP address; information about your device’s operating system, your browser, browser or operating system language; your wireless network). We may also collect your WPS location data – you can choose whether to allow this by changing your geolocation tracking settings.
+(c) When you install the MyID App, you’ll also be asked to allow us access to your mobile device’s address book. A copy of the phone numbers and names of all your contacts (only name and phone number) will be collected and stored on our servers, mainly in order for us to be able to enable you and your contacts to connect.
+(d) Contacts: When you access the Contacts section on the application, we display a message asking for permission to access the phone book. If you allow us access, your contact list will be uploaded to http://mytelsupperapp.mocha.com.vn and that is the MyID domain. That means your contact list will not be published or disclosed for any other purpose without your consent.
+Allowing us to access your contacts will make it easier for you to send messages and photos to friends and relatives.
+2. Disclosure:
+Your data is kept safe with us, but we do share your personal information with third parties we trust in order to provide you with our services, as follows:
+(a) Advertising partners: to enable the limited advertisements on our service, we may share a unique advertising identifier that is not attributable to you, with our third party advertising partners, and advertising service providers, along with certain technical data about you (your language preference, country, city, age, and device data), based on our legitimate interest. This includes partners managing our advertising placements and also advertisers themselves and their agencies or third parties managing their advertising demands. Your unique advertising identifier is created by your mobile device’s operating system and you can change it or choose not to share it at any time.
+(b) App Providers and Other Third-Parties (such as third-party app analytics providers and marketing service tool): We may disclose your information to service providers and other third-parties under contract who help with providing you and others our Services on our behalf or other services provided by third-parties via our Services (such as, but not limited to, retention, crash logs, product interaction). They are required to secure the data they receive and to use the data for pre-agreed purposes only
+.
+3. Proprietary Rights
+App is developed and owned by Mytel, all of intellectual properties related to App (including but not limited to source code, images, information, content of App; modified, additional, updated of App) and related guides will belong to only by Mytel and no individuals or organizations are allowed to copy, recreate or supply or others infringing upon property without consent and written permit of Mytel...
+4. Account
+To use App, you have to create account as our user guide, you certify that the use App has to comply the regulations of Mytel. You must make sure all the information you give us is accurate and complete at the requested time. All your rights and obligations based on information account you registered. So if there is any false information, we are not responsible in case that information to affect or limit your rights. You may use App and other services that we offer. However, the use will not include the following acts without the written permission of Mytel.
+- Copy, edit, re-create new product or regeneration versions based on MyID;
+- Sell, transfer, re-permit, reveal or others or take a part or entire App to third-party;
+- Using App for supplying service to any third-party (organization or individual);
+- Move, delete, change any official notification or significant of App (including but not limited to copyright claims);
+- Redesign, translate, remove, edit, disorganize design of App or content of App;
+- Change or cancel the initial state of App;
+- Use App for any action to harm the network security system of Mytel, including but not limited to use data or access to the network server to delete, edit and add information; spreading malicious programs, virus or any actions to harm or destroy the network serve;
+- Log in and use App by a software compatible of the third party or system which was not developed, permitted or accepted by Mytel. Use, sell, lend, copy, edit, connect to, translate, release, publish the related information of App;
+- Use App for loading, moving, transferring or saving law violation information, Vietnam’s habits and customs violation;
+- Use App for using other services which supplied by Mytel in any case law infringements, for any unlawful purposes;
+- Other infringements.
+5. Handling of violations
+In case you violate any regulations in the Agreements, Mytel have immediately the rights to block your account and/or delete all information, content violations. Depend on nature and extent of violations, you will be responsible before the competent authority, Mytel and the third party about all harms caused by or arising from your violation.
+In case you discover objectionable content, you can block the user who created that content by opening that Profile user, clicking Messaging, clicking icon “Options” and swiching on option "Block this person". Once successfully blocked, you will no longer see inappropriate content from that person. You can also alert us about inappropriate content by accessing Settings and selecting Suggest suggestions and describing the problem you encounter. We will act on objectionable content reports within 24 hours by removing the content and ejecting the user who provided the offending content.
+6. The Rights of Access and Information Gathering
+When using App, you recognize we have the rights of using the following system APIs to access data on
+					your mobile:
+(1) Read and write to Contacts,
+(2) Get your current location when you accept,
+(3) Load App’s data on memory card,
+(4) Access Internet from your handset.
+We only implement the Rights of Access when you agree. So, you admit that, if you grant us, you will not
+					have any claim for this access. You also accept receiving service communication, advertise message from
+					MyID and Mytel Official Account. We also collect the following information:
+• Personal Info: including info which you submit to confirm your account such as name, phone number,
+					identity card number, email
+• Normal Info: phone configurations, version.
+• Location Info: your location data will be saved on the server to help you use searching feature.
+• Contacts: We will archive your contacts on the server to give you the best support in using App or
+					losting data. We commit that we don’t use your contacts for any purpose without your agreement.
+We don’t use any method to track message, exchange or another method to track user when using App.
+7. Data Policy
+You hereby consent to MyID and/or any of our personnel disclosing any information, whether in Myanmar or otherwise:
+a. To any of our Affiliates or Merchants or any other third party as we may consider necessary in order to perform Services or to comply with any order or request of any court or government or regulatory authority in any jurisdiction under applicable laws or to other institutions who have a legitimate business purpose for obtaining such information, including but not limited, offering you products or services in connection with, or to facilitate the use of Services, to the participation in any telecommunication network, in compliance with the applicable laws.
+b. To selected recipients who have a legal basis and valid jurisdiction in order to conduct survey(s), analysis, and marketing on our behalf.
+c. To any Merchants for the purpose of or in connection with the sale, supply, marketing or promotion of any services or products or investigating any complaint or dealing with any query relating to the sale, supply, marketing or promotion of any services or products.
+d. To the police, court or other Governmental or regulatory competent authorities for the purpose of making a report, facilitating any investigation or otherwise permitted under laws and regulations applicable in countries and regions of Myanmar.
+.
+8. Commitment to Privacy
+Except for Article 7, We undertake to keep secret all information which you share with submit to Mytel under Article 6 of this Terms and Conditions confidential no matter where it is stored and shall not disclose to any other third-party without your further consent in each case. We further undertake to ensure that our Receiving Parties under Article 7 shall keep all disclosed information confidential and they shall not disclose to any other third-party without your prior consent.
+MyID needs to access your contact to find and connect with your friends who are using MyID and they will be displayed in your MyID friendlist. This data is stored only on MyID server and will not be shared with 3rd party.
+9.  Contact Us
+- - Help Center: from within the app, tap the icon at the bottom right corner to access.
+- Email: care@mytel.com.mm or call Mytel’s Customer Service: 966 (Free)
+Thank you for using our Apps and services!
+.
+စည်းကမ်းချက်များနှင့်မူဝါဒများ
+MyID application အား အသုံးမပြုခင် MyID မှ ချမှတ်ထားသော ဥပဒေများ၊ စည်းမျဉ်းများနှင့် အခြေအနေများကို သေချာစွာဖတ်ရှု့ပြီး သဘောတူလိုက်နာ နိုင်ရမည်။။ ယခု Application ပါ အချက်အလက်များအား Mytelမှ  ထောက်ပံ့ပေးထားခြင်းဖြစ်ပါသည်။စည်းမျဉ်းစည်ကမ်းများနှင့် ဗားရှင်း၏အခြေအနေများသည် (ယခုဗားရှင်းနှင့် အသစ်ထပ်မံပြင်ဆင်လိုက်သောဗားရှင်း) အချိန်အခါမရွေး ပြောင်းလဲနိုင်သည်။ ပြောင်းလဲသွားသော စည်းမျဉ်းနှင့် အခြေအနေများကို လက်ခံနိုင်ပါက ယခု Application  အားအသုံးပြုနိုင်ပါသည်။ လူကြီးမင်းအနေဖြင့် လိုက်နာနိုင်ခြင်းမရှိပါက MyID Application ကို Install ပြုလုပ်ခြင်းမပြုရန်နှင့် သင့် မိုဘိုင်း မှပယ်ပျက်ပါရန် မေတ္တာရပ်ခံအပ်ပါသည်။
+1.	မွမ်းမံပြင်ဆင်ခြင်းများ
+ဒီသဘောတူညီချက်များကို Mytel မှ အချိန်နှင့်တစ်ပြေးညီ ပြောင်းလဲပြင်ဆင်နိုင်ပါသည်။ Update version များကို Google play store သို့ iOS store တွင် ရရှိနိုင်ပါသည်။ အသစ်ထပ်မံပြင်ဆင်ထားသော ဗားရှင်းသည် ယခင်ရယူထားသော Application ၏ ဗားရှင်း နေရာတွင် အစားထိုးဝင်ရောက်သွားမည်ဖြစ်သည်။ အသစ်ထပ်မံပြင်ဆင်ထားသော ဗားရှင်း၏ အသေးစိတ်အချက်အလက်များကိုကြည့်ရှုရန် App ထဲသို့ ဝင်ရောက်ခြင်းဖြင့်သော်လည်းကောင်း (သို့) ဝဘ်ဆိုက်သို့ဝင်ရောက်ခြင်းဖြင့်သော်လည်းကောင်း ဝင်ရောက်လေ့လာနိုင်ပါသည်။
+2. App အားမိတ်ဆက်ခြင်း
+MyID သည် Mytel မိုဘိုင်းအသုံးပြုသူများအတွက် အခမဲ့ စာတိုပေးပို့ပေးသော App တစ်ခုဖြစ်သည်။ အက်ပလီကေးရှင်းသည် သုံးစွဲသူ၏ဖုန်းနံပါတ်နှင့်  အချက်အလက် များပေါ်တွင်အခြေခံသည်။ ယခု App တွင်
+					(၁) အချိန်နှင့်တပြေးညီ သတင်းများပေးပို့နိုင်ခြင်း၊ (၂) အသံမက်ဆေ့ခ်ျ၊ (၃) တေးဂီတကို တွဲဖက်ဖြင့်နားထောင်နိုင်ခြင်း၊ (၄) MyID သုံးစွဲသူများအားအချင်းချင်း အခမဲ့ SMS ပေးပို့နိုင်ခြင်း။ ယခု App ကို iOS, Android နှင့် Windows Phone များတွင်ထောက်ပံ့ထားသည်။
+3.စီးပွားဖြစ်ပြုလုပ်ခြင်းများ
+ယခု App အား တီထွင်သူနှင့် ပိုင်ဆိုင်သူမှာ Mytel သာလျှင်ဖြစ်သည်။ အက်ပလီကေးရှင်းနှင့်ပတ်သက်သောအသိဉာဏ်ဓ  ဆိုင်ရာများအားလုံး (ကုဒ်များ၊ ရုပ်ပုံများ၊ သတင်းအချက်အလက်များ၊ အပလီကေးရှင်းတွင် ပါဝင်သော အကြောင်းအရာများ၊ အကြောင်းအရာများ ထပ်ထည့်ထားခြင်း၊ App အားပိုမိုကောင်းမွန်အောင် အသစ်ထပ်မံပြင်ဆင်ထားခြင်း) နှင့် သက်ဆိုင်သော လမ်းညွန်ချက်များသည် Mytel တစ်ဦးထဲမှ ပိုင်ဆိုင်သည်။  Mytel ၏ခွင့်ပြုချက် မရရှိပါဘဲ တစ်ဦးတစ်ယောက် (သို့) အဖွဲ့အစည်းများသည် ကူးယူခြင်း၊ ပြန်လည်ဖန်တီးပြုလုပ်ခြင်းများ၊ ချိုးဖောက်ခြင်းများကို Mytel မှခွင့်မပြုပါ။
+4. အကောင့်ဖွင့်ခြင်
+ယခု App ကိုအသုံးပြုရန် သင်သည် MyID လမ်းညွန်ချက်အတိုင်း အကောင့်တစ်ခုပြုလုပ်ရန်လိုအပ်သည်၊ App မှသင်သည် Mytel ၏စည်းမျဉ်းများကိုလိုက်နာရန်လိုအပ်ပါသည်ဟု သင့်ကိုအတည်ပြုစာတို ပေါ်လာပါလိမ့်မည်။ သင်သည် ကျွန်ုပ်တို့ တောင်းခံထားသောအချိန်တွင် ဖြည့်စွက်ပေးသော သတင်းအချက်အလက်များအားလုံးသည် တိကျမှန်ကန်ပြီးသေချာသောအချက်အလက်များ ဖြစ်ရမည်။ သင်၏အခွင့်အရေးနှင့်တာဝန်ဝတ္တရားအားလုံးသည် သင်မှတ်ပုံတင်ထားသော သတင်းအချက်အလက်ပေါ် အခြေခံသည် ။ အကယ်၍ မှားယွင်းသောသတင်းအချက်အလက် တစ်စုံတစ်ရာရှိနေပါက သင်ရရှိမည့် အခွင့်အရေးများ ထိခိုက်ခြင်း(သို့) ကန့်သတ်ခံရခြင်းများအတွက် ကျွန်ုပ်တို့တွင်တာဝန်မရှိပါ သင်နှင့်သာ သက်ဆိုင်သည်။ ထို့နောက် MyID App နှင့်အခြားဝန်ဆောင်မှုများကို သင်အသုံးပြုနိုင်သည်။ သို့သော် Mytel ၏ခွင့်ပြုချက်မရှိပဲအောက်ပါအချက်များအား လုပ်ဆောင်ခွင့်မရှိပါ။
+-MyID မှ အချက်အလက်များကို အခြေခံ၍ အသစ်ဖန်တီးခြင်း (သို့) ကူးယူခြင်း၊ တည်းဖြတ်ခြင်းများ။
+- ရောင်းချခြင်း၊ လွှဲပြောင်းခြင်း၊ အခြား တစ်ဦးဦးအား ပြန်လည် ခွင့်ပြုခြင်း (သို့) အက်ပလီကေးရှင်းအား တတိယပါတီသို့လွှဲအပ်ခြင်းများ။
+- App ကို အသုံးပြု၍ အခြား တတိယပါတီ (အဖွဲ့အစည်း (သို့) လူပုဂ္ဂိုလ်တစ် ဦး တစ်ယောက်) သို့ ထောက်ပံ့ပေးခြင်းများ။
+-အက်ပလီကေးရှင်း၏ တရားဝင်အသိပေးချက်များကို ရွှေ့ပြောင်းခြင်း၊ ဖျက်ခြင်း၊ ပြောင်းလဲခြင်းများ။ (မူပိုင်ခွင့်များ အပါအဝင်)
+- အက်ပလီကေးရှင်း၏ဒီဇိုင်းကိုပြန်လည်ကူးယူခြင်း၊ ဘာသာပြန်ခြင်း၊ ဖယ်ရှားခြင်း၊ ပြန်လည်တည်းဖြတ်ခြင်းများ။
+- App ၏ မူလအခြေအနေကိုပြောင်းလဲခြင်း (သို့) ဖျက်ဆီးခြင်း။
+-အခြား App အား အသုံးပြု၍သတင်းအချက်အလက်များကိုဖျက်ခြင်း၊ တည်းဖြတ်ခြင်းနှင့်အခြား ကွန်ယက်ဆာဗာကို အသုံးပြု၍ Mytel ၏ ကွန်ယက်လုံခြုံရေးစနစ်ကို ထိခိုက်စေမည့်မည်သည့်လုပ်ဆောင်မှုအတွက်မဆို App ကိုအသုံးမပြုရ။ မကောင်းသောပရိုဂရမ်များပျံ့နှံ့ခြင်း၊ ဗိုင်းရပ်စ် (သို့) ကွန်ယက်၀န်ဆောင်မှုကိုထိခိုက်စေခြင်း (သို့) ဖျက်ဆီးခြင်းများ။
+- Mytel မှတီထွင်ခြင်း၊ ခွင့်မပြုခြင်းသော (သို့)လက်ခံခြင်းမရှိသောတတိယပါတီ (သို့) စနစ်နှင့်သဟဇာတ မဖြစ်သောဆော့ (ဖ်) ဝဲ (လ်) ဖြင့်အက်ပလီကေးရှင်းကိုဝင်ရောက်ခြင်း။ App နှင့် သက်ဆိုင်သော သတင်းအချက်အလက်များကို အသုံးပြုခြင်း၊ ရောင်းချခြင်း၊ ချေးငှားခြင်း၊ ကူးယူခြင်း၊ တည်းဖြတ်ခြင်း၊ ဆက်သွယ်ခြင်း၊ ဘာသာပြန်ခြင်းနှင့်ထုတ်ဝေခြင်းများ။
+-  ဥပဒေချိုးဖောက်မှုသတင်းအချက်အလက်၊ မြန်မာ့ဓလေ့များ၊ အကောက်ခွန်နှင့် သက်ဆိုင်သော ဖောက်ဖျက်မှုများကို တင်ခြင်း၊ ရွှေ့ခြင်း၊ လွှဲပြောင်းခြင်း သို့ သိမ်းဆည်းခြင်းများ။
+- Mytel မှပေးသောအခြားသောဝန်ဆောင်မှုများကို အသုံးပြု၍ ဥပဒေချိုးဖောက်မှုများပြုလုပ်ရာတွင် App ကိုအသုံးပြုခြင်း။
+- အခြားသောချိုးဖောက်မှုများ။
+5. ချိုးဖောက်မှုများအတွက်စည်းကမ်းများ
+အကယ်၍ သင်သည်သဘောတူညီချက်များမှစည်းမျဉ်းများကိုချိုးဖောက်ပါက Mytel မှ သင်၏အကောင့်ကိုပိတ်လိုက်ခြင်း (သို့) ချိုးဖောက်ထားသော သတင်းအချက်အလက်၊ အကြောင်းအရာအားလုံးကို ချက်ချင်းဖျက်ပစ်မည်ဖြစ်သည်။ သင်၏ချိုးဖောက်မှု သဘောသဘာဝနှင့်အတိုင်းအတာအပေါ် မူတည်၍ သက်ဆိုင်ရာအာဏာပိုင်၊ Mytel နှင့်တတိယပါတီ ထိခိုက်မှုအားလုံးနှင့် ပတ်သက်၍  သင်တွင် တာဝန်အပြည့်ရှိသည်။
+အကယ်၍ သင် ကန့်ကွက်ချင်သော အကြောင်းအရာကိုရှာဖွေတွေ့ရှိပါက ထိုအကြောင်းအရာဖန်တီးသူကို သင် ဘလော့ (သို့) သင့်အကောင့်မှ ဖယ်ရှားခြင်းကို ပြုလုပ်နိုင်သည်။ သင်သည် ထိုသူအား အောင်မြင်စွာဖယ်ရှားပြီးသည်နှင့် သင်သည်ထိုသူထံမှမသင့်လျော်သောအကြောင်းအရာကိုသင်မြင်လိမ့်မည်မဟုတ်တော့ပါ။
+					သင်ကြုံတွေ့ရသောကိစ္စများ အတွက် Setting သို့ ဝင်ရောက်ကာ အကြံပြုချက်များရေးသားခြင်း (သို့) ရွေးချယ်ဖော်ပြခြင်းအားဖြင့် လည်းကျွန်ုပ်တို့အားသတိပေးနိုင်သည်။ကျွန်ုပ်တို့ဘက်မှလည်း ၂၄ နာရီအတွင်း လူကြီးမင်း ကန့်ကွက်ထားသော အကြောင်းအရာများကို ဖယ်ရှားပြီး စည်းကမ်းဖောက်ဖျက်သူအား ဖယ်ရှားသွားမည်ဖြစ်သည်။
+6. သတင်းအချက်အလက်ရယူပိုင်ခွင့်
+ယခုApp ကိုသုံးသောအခါသင်၏မိုဘိုင်းမှအချက်အလက်များကိုရယူရန်အောက်ပါ system APIs များကိုအသုံးပြုခွင့်ရှိသည်ဟု သင်နားလည်သဘောပေါက်သည်။
+(၁) အချက်အလက်များကို ဖြည့်စွက်ခြင်း
+(၂) သင်၏လက်ရှိတည်နေရာကို ဖော်ပြပေးခြင်း။
+(၃) Memory card ပေါ်တွင် App data များမှတ်သားခြင်း။
+(၄) သင်၏လက်ကိုင်ဖုန်းမှအင်တာနက်ကိုသုံးခြင်း။
+					ဖော်ပြပါ အချက်အလက်များကို သင်သဘောတူလက်ခံမှသာ App က အသုံးပြုလို့ရမည်ဖြစ်သည်။ ထို့ကြောင့်သင်ကကျွန်ုပ်တို့အားခွင့်ပြုပါက၊ ဤ ဝန်ဆောင်မှုကို အသုံးပြုလို့ရမည် ဖြစ်သည်။ သင်သည် ဝန်ဆောင်မှုလက်ခံလိုက်သည်နှင့် တစ်ပြိုင်နက် MyID နှင့် Mytel တရားဝင်အကောင့်မှ ကြေငြာများ ဝန်ဆောင်မှုများကိုပါ လက်ခံပြီးဖြစ်သည်။
+သင်သည် အောက်ပါ အချက်အလက်များကိုလဲဖြည့်စွက်ရန် လိုအပ်ပါသေးသည်။
+•ကိုယ်ရေးကိုယ်တာအချက်အလက်များ - သင်၏အကောင့်ကိုအတည်ပြုရန်အတွက် အမည်၊ ဖုန်းနံပါတ်၊ မှတ်ပုံတင်ကဒ်နံပါတ်၊ အီးမေးလ်
+•ပုံမှန်အချက်အလက်များ - ဖုန်းဖွဲ့စည်းပုံ၊ ဗားရှင်း။
+•တည်နေရာ - သင့်၏တည်နေရာကို ဆာဗာပေါ်တွင် မှတ်ထားခြင်းဖြင့် အချက်အလက်များ ရှာဖွေရာတွင် အထောက်အကူဖြစ်သည်။
+•အချက်အလက်များ - သင်၏အချက်အလက်များကို ဆာဗာပေါ်တွင်မှတ်ထားခြင်းသည် App ကိုအသုံးပြုရာတွင် အထောက်အကူဖြစ်ခြင်း (သို့) အချက်အလက်ပျောက်ဆုံးခြင်း အတွက် အကောင်းဆုံး အထောက်အပံ့ပေးနိုင်သည်။ သင်၏အချက်အလက်များကိုသင်၏သဘောတူညီချက်မပါဘဲမည်သည့်ရည်ရွယ်ချက်အတွက်မျှအသုံးမပြုပါဟုကျွန်ုပ်တို့ကတိပြုပါသည်။
+App အသုံးပြုသူ၏မက်ဆေ့ခ်ျများအားခြေရာခံခြင်း၊ ပြောင်းလဲခြင်း (သို့) အခြား တစ်နည်းနည်းဖြင့် နှောင့်ယှက်ခြင်းများအား ကျွန်ုပ်တို့ဘက်မှ မပြုလုပ်ပါ။
+7. လုံခြုံမှုအတွက်ကတိကဝတ်
+သင်ဖြည့်စွက်ပေးသောသတင်းအချက်အလက်များ (သို့) ကျွန်ုပ်တို့ဘက်မှ ကောက်ယူစုဆောင်းထားသော အချက်အလက်များကို ကျွန်ုပ်တို့ဘက်မှ ထိန်းသိမ်းထားပြီး ထောက်ခံမှုမရှိသော တောင်းဆိုမှုမရှိသော မည်သည့် တတိယပါတီကိုမှ ခွင့်ပြုလိမ့်မည်မဟုတ်ပါ။
+8. အချက်အလက်နှင့်ပတ်သတ်သောမူဝါဒ
+MyID needs to access your contact to find and connect with your friends who are using MyID and they will be displayed in your MyID friendlist. This data is stored only on MyID server and will not be shared with 3rd party.
+9. ဆက်သွန်ရန်
+အီးမေးလ် -
+care@mytel.com.mm
+(သို့) Mytel Customer Service နံပါတ် 966 သို့ အခမဲ့ ခေါ်ဆို ၍သိလိုသမျှ မေးမြန်းနိုင်သည်။ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုကို အသုံးပြုခြင်းအတွက် ကျေးဇူးတင်ပါသည်။
+Contact Us
+|
+Terms and Policies
+|
+Guide
+|
+Questions & Answers

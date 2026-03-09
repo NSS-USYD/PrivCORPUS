@@ -1,0 +1,22 @@
+<d_prac>          No data shared with third parties         
+<d_detl>          The developer says that this app doesn't share user data with other companies or organisations.                     Learn more                    about how developers declare sharing.         
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Location                
+<d_attr>               Precise location              
+<d_valu>             Analytics, Advertising or marketing            
+<d_cata>                 Personal info                
+<d_attr>               Name              
+<d_valu>             Advertising or marketing, Personalisation, Account management            
+<d_attr>               Email address              
+<d_valu>             Advertising or marketing, Personalisation, Account management            
+<d_attr>               User IDs                          · Optional            
+<d_valu>             Advertising or marketing, Personalisation, Account management            
+<d_cata>                 Financial info                
+<d_attr>               Credit score                          · Optional            
+<d_valu>             Personalisation, Account management            
+<d_prac>          Security practices         
+<s_cata>             Data isn’t encrypted            
+<s_attr>             Your data isn’t transferred over a secure connection            
+<s_cata>             Data can’t be deleted            
+<s_attr>             The developer doesn’t provide a way for you to request that your data be deleted            

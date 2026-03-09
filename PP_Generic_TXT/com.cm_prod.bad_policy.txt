@@ -1,0 +1,138 @@
+Charte des données personnelles de la banque à distance - Crédit Mutuel
+Sécurité
+Politique de protection des données personnelles
+Le Crédit Mutuel fait du respect de la vie privée et de la protection des données à caractère personnel une priorité.
+Le présent document témoigne de l’engagement pris de mettre en œuvre les mesures techniques et organisationnelles appropriées, lors de la collecte et de l’utilisation de vos données à l’occasion de la navigation sur notre application, de la souscription de produits et/ou services via celle-ci et tout au long de notre relation, pour une utilisation responsable de vos données personnelles.
+Le Crédit Mutuel s’engage à respecter toutes les obligations lui incombant résultant de la réglementation applicable au(x) traitement(s) de données à caractère personnel, spécialement :
+Du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 applicable depuis le 25 mai 2018 (ci-après, «le règlement européen sur la protection des données» ou «RGPD»),
+De la Loi Informatique et Libertés n°78-17 du 6 janvier 1978 modifiée,
+Des avis et recommandations des autorités de Contrôle, du Groupe de protection des personnes à l’égard du Traitement des données à caractère personnel («Groupe G29») ou du Comité européen de la protection des données.
+Les données personnelles sont aussi protégées par le secret professionnel auquel nous sommes tenus.
+1. Définitions
+«Donnée personnelle» :
+toute information se rapportant à une personne physique identifiée ou pouvant être identifiée directement ou indirectement par un élément d’identification tel qu’un nom, un numéro de téléphone, une adresse postale, une adresse e-mail, numéro d’identification, données de localisation...
+«Traitement de données personnelles» :
+toute opération réalisée sur des données personnelles telle que la collecte, l’enregistrement, l’organisation, la conservation, l’adaptation, la modification, l’extraction, la consultation, l’utilisation, l’interconnexion, la limitation, l’effacement, la destruction...
+«Responsable du traitement» :
+la personne physique ou morale, publique ou privée, ou le service, qui détermine seul ou avec d’autres les finalités et les moyens du traitement.
+«Sous-traitant» :
+la personne physique ou morale, publique ou privé, ou le service qui traite des données personnelles pour le compte du responsable de traitement.
+2. Délégué à la Protection des Données
+Le Crédit Mutuel a désigné un Délégué à la Protection des Données. Spécialisé en matière de protection des données personnelles, il a pour mission d’informer et de conseiller le responsable de traitement, de veiller au respect de la réglementation applicable et notamment de veiller au respect des droits des personnes (voir paragraphe 9 ci-après). Le Délégué à la Protection des données est aussi l’interlocuteur privilégié de la Commission Nationale de l’Informatique et des Libertés (CNIL).
+3. Traitements spécifiques à l’application
+Les données vous concernant sont notamment collectées ou traitées à l'occasion de l’utilisation de l’application lors :
+De la mise en place de mesures de sécurité protégeant l'application ;
+De la vérification de la fiabilité du téléphone ou de la tablette utilisé (appareil rooté ou jailbreaké c’est-à-dire ne respectant pas leur configuration iOS ou Android d’origine ) ;
+De l'enrôlement, de l'utilisation ou de dysfonctionnement de l'authentification par empreinte digitale ;
+De l'enrôlement, de l'utilisation ou de dysfonctionnement du service de Confirmation Mobile et de Notification Push ;
+De la détection de transactions suspectes dans le service de Confirmation Mobile ;
+De dysfonctionnements ou de plantages de l'application ;
+4. Données personnelles collectées
+Les données personnelles que nous collectons dans le cadre de l’utilisation de cette application sont strictement nécessaires à notre activité pour nous permettre de vous proposer des produits et/ou des services adaptés.
+Nous sommes amenés à collecter :
+Des données relatives à votre identité telles que vos prénom(s), nom(s), date et lieu de naissance, identifiant de banque à distance...,
+Des données relatives à vos coordonnées telles que votre adresse postale, votre adresse e-mail, votre (vos) numéro(s) de téléphone,
+Des données d’identification et d’authentification telles que votre adresse IP mobile...,
+Des données fiscales telles que le numéro fiscal, le statut fiscal, l’adresse de la résidence...,
+Des données relatives à votre situation familiale, telles que le régime matrimonial, le nombre d’enfants...,
+Des données relatives à votre situation professionnelle telles que l’emploi occupé, la rémunération, les coordonnées de votre employeur,
+Des données bancaires et financières telles que les coordonnées bancaires, les virements, les transactions, les actifs, numéro de carte, profils investisseurs,
+Des données relatives à vos attentes et besoins nous permettant de définir votre profil bancaire ou assurances afin de vous proposer des produits et services adaptés,
+Des données de l'application : version de l'application, préférences de l'application, présence d'un enrôlement à Confirmation Mobile, moyen de connexion utilisé (mot de passe ou empreinte digitale) ;
+Des données techniques lors de votre inscription au service Confirmation Mobile : identifiant IMEI du téléphone et identifiant unique du téléphone
+Des données techniques sur le téléphone : nom et version de l'OS, modèle, processeur, langue, indice de fiabilité du téléphone (appareil rooté ou jailbreaké)
+Des données recueillies grâce aux cookies (article 11 ci-après).
+Les données peuvent être collectées directement auprès de vous ou indirectement auprès de sources extérieures telles que :
+Les publications ou bases de données telles que le Journal Officiel, le Bulletin Officiel des Annonces Civiles et Commerciales,
+Les organismes de lutte contre la fraude,
+Les sites internet, réseaux sociaux concernant des données que vous avez rendues publiques,
+Les parrainages,
+L’utilisation de fichiers prospects,
+les bases de données rendues publiquement accessibles par des tiers.
+Enfin, nous pouvons être amenés à connaitre des données personnelles de personnes non-clientes de Le Crédit Mutuel. Exemple (liste non exhaustive) :
+Des prospects
+Des cautions et/ou garants
+Des représentants légaux de personnes morales ou de personnes physiques telles que les mineurs ou majeurs protégés.
+Des mandataires
+Des personnes effectuant des opérations avec nos clients avec vous ou pour votre compte (notaire, avocat, expert-comptable...)
+5. Fondements juridiques et finalités des traitements
+Les traitements mis en œuvre par Le Crédit Mutuel répondent à des finalités déterminées, explicites et légitimes.
+Vos données peuvent notamment être traitées pour :
+se conformer à nos obligations légales et réglementaires telles qu’en matière :
+de connaissance client,
+de lutte contre la fraude fiscale,
+de lutte contre le blanchiment des capitaux et le financement du terrorisme,
+de contrôle fiscal et de déclarations,
+d’obligations liées aux marchés financiers et de sécurité des transactions effectuées,
+de détermination du statut fiscal,
+de requêtes officielles d’autorités publiques ou judiciaires dûment autorisées.
+engager des démarches précontractuelles, conclure et exécuter les contrats conclus avec vous et en particulier pour :
+présenter les caractéristiques des produits et services,
+établir le contrat et gérer la relation bancaire, l’octroi de crédit, le recueil de garantie,
+effectuer le recouvrement de nos créances,
+gérer et exécuter nos prestations au titre des produits et services auxquels vous avez souscrit tel que les opérations de paiement (virements, prélèvements…),
+effectuer le recouvrement de nos créances.
+Lorsque les données recueillies sont nécessaires à l’exécution ou la gestion du contrat ou au respect d’obligations légales et réglementaires, à défaut de pouvoir collecter ces données, Le Crédit Mutuel peut être amenée à mettre fin à la relation bancaire.
+poursuivre les intérêts légitimes de Le Crédit Mutuel et ce dans le respect de vos libertés et droits fondamentaux et en particulier pour :
+conserver la preuve de nos échanges, opérations et transactions,
+effectuer une segmentation de la clientèle,
+mettre en place des canaux de communication afin de faciliter les échanges avec Le Crédit Mutuel,
+mener la prospection et l’animation commerciale,
+proposer des jeux, concours et évènements commerciaux similaires,
+communiquer les actualités des offres et services proposés par Le Crédit Mutuel,
+évaluer ses risques, notamment en matière de sécurité, de prévention des impayés et de la fraude.
+suivre les traitements pour lesquels vous nous avez donné votre consentement et en particulier pour :
+vous communiquer et proposer nos offres par voie électronique (e-mail, alertes sur mobile, sms, assistant virtuel…). Ces communications concernent nos services et produits existants ainsi que les nouveaux services, les offres exclusives qui pourraient vous intéresser. Les communications par voie électronique (e-mails, sms, etc.) qui vous sont envoyés peuvent concerner des produits et services analogues à ceux auxquels vous avez souscrits, conformément à l’article L34-5 du code des postes et communications électroniques,
+	        Vous pouvez nous faire savoir à tout moment que vous ne souhaitez plus recevoir de communications commerciales. 
+	        Si vous nous demandez de ne plus recevoir de communication ou si vous souhaitez recevoir à nouveau ces communications, nous conserverons une trace informatique de ces demandes, à titre de preuve,
+les nouveaux traitements mis en place à des fins autres que celles décrites ci-dessus. Dans ce cas, nous vous en informerons et si nécessaire vous demanderons votre consentement.
+Nous pouvons enregistrer et conserver certaines des conversations et communications que nous pouvons avoir avec vous, quel que soit leur support (principalement messages électroniques, entretiens en face à face, appels téléphoniques...), notamment aux fins d’amélioration de la relation bancaire, de respect des obligations légales et réglementaires relatives aux marchés financiers.
+6. Destinataires des données personnelles collectées et traitées
+Vos données personnelles ne sont communiquées qu’à des destinataires habilités et déterminés.
+Peuvent être destinataires :
+Notre établissement en tant que responsable de traitement,
+Notre personnel habilité du réseau commercial et de la direction commerciale,
+Les établissements et sociétés membres du groupe auquel nous appartenons et nos partenaires,
+Les prestataires et sous-traitants réalisant des prestations pour notre compte,
+Les garants,
+Les courtiers et assureurs,
+Les autorités judiciaires et/ou administratives dûment habilitées,
+Les professions règlementées (exemples : notaires, avocats, huissiers).
+Au titre du partage de données, les établissements, sociétés membres du groupe auquel appartient Le Crédit Mutuel, partenaires, garants, courtiers et assureurs, prestataires peuvent être destinataires en tant que sous-traitants ou bien pour les besoins de l’établissement, la conclusion, la gestion des contrats, pour faciliter les mises à jour et rectifications nécessaires et le cas échéant, pour répondre à leurs obligations réglementaires.
+La liste des entités de notre Groupe est consultable sur son site internet :
+www.creditmutuel.fr/fr/groupe/banque-solide/filiales.html
+7. Conservation de vos données personnelles
+Vos données personnelles sont conservées pendant toute la durée de la relation tant que vous utiliserez nos produits et services. Elles pourront être conservées au-delà de la relation, notamment pour nous conformer à la réglementation applicable, pour faire valoir nos droits ou défendre nos intérêts.
+Vos données pourront être archivées pour une durée plus longue pour la gestion de réclamations et/ou de contentieux, pour répondre à nos obligations réglementaires, pour satisfaire la demande des autorités judiciaires ou administratives dûment habilitées.
+Concernant les clients, en fonction de leur nature et de la législation applicable, les données pourront être conservées jusqu’à 11 ans après la fin de la relation ou de l’opération.
+Les données relatives aux prospects pourront être conservées pour une durée de 3 ans à compter de leur collecte ou du dernier contact avec vous.
+Vos données personnelles sont donc conservées pour la durée nécessaire à l’accomplissement des finalités pour lesquelles elles sont collectées et traitées. Elles seront ensuite détruites en toute sécurité ou seront anonymisées.
+Lorsque des données à caractère personnel sont collectées pour plusieurs finalités, elles sont conservées jusqu’à épuisement du délai de conservation ou d’archivage le plus long.
+8. Le transfert des données personnelles en dehors de l’Union Européenne
+Vos données personnelles pourront être transférées dans des cas limités et pour des finalités strictement encadrées, vers un pays situé hors de l’Union Européenne. Nous nous assurerons qu’elles sont protégées :
+Par l’existence d’une décision d’adéquation rendue par la Commission Européenne qui reconnaît au Pays destinataire un niveau de protection adéquat,
+Si le niveau de protection n’a pas été reconnu comme équivalent par la Commission Européenne, nous nous appuyons sur la mise en place de garanties appropriées telles que des clauses contractuelles types approuvées par la Commission Européenne.
+9.  Vos droits
+Vous disposez de droits concernant la collecte et le traitement de vos données personnelles, qui pourront être exercés dans les conditions fixées par la réglementation en vigueur, à savoir :
+Le droit d’être informé de façon compréhensible, aisément accessible sur les traitements de vos données qui sont mis en œuvre,
+Le droit d’accès à vos données,
+Le droit de rectification et d’obtenir la modification de vos données qui seraient inexactes ou incomplètes,
+Le droit à l’effacement de vos données, à moins que nous ayons des raisons légales ou légitimes de les conserver,
+Le droit de vous opposer au traitement lorsque celui-ci est fondé sur l’intérêt légitime du responsable du traitement,
+Le droit de vous opposer, à tout traitement et sans frais, sans avoir à motiver sa demande, à ce que vos données soient utilisées à des fins de prospection commerciale,
+Le droit à la limitation du traitement de vos données personnelles,
+Le droit à la portabilité de vos données quand le traitement est fondé sur le consentement ou l’exécution des contrats et que le traitement est effectué à l’aide de procédés automatisés,
+Le droit de retirer votre consentement à tout moment lorsque le traitement de vos données personnelles est fondé sur votre consentement,
+Le droit de donner des instructions spécifiques ou générales concernant la conservation, l’effacement et la communication de vos données personnelles, applicables après votre décès,
+Le droit d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL) 3 Place de Fontenoy TSA 80715 75334 PARIS CEDEX 07 ou sur le site
+www.cnil.fr/fr/plaintes/
+Nous tenons à préciser que l’exercice de certains de ces droits peut entraîner au cas par cas pour Le Crédit Mutuel l’impossibilité de fournir la prestation.
+Par ailleurs, nous pouvons être fondés à continuer à traiter vos données personnelles en dépit de l’exercice de votre droit à l’effacement, à la limitation ou à l’opposition au traitement de vos données si nous avons un intérêt légitime à le faire ou si des dispositions réglementaires nous contraignent à conserver vos données. Vous pouvez exercer l’un des droits énumérés ci-dessus, en écrivant à l’adresse suivante : MONSIEUR LE DELEGUE A LA PROTECTION DES DONNEES, 63 chemin Antoine Pardon, 69814 TASSIN CEDEX.
+10. Données de géolocalisation
+Pour vous fournir  des services   adaptés comme vous indiquez la caisse ou agence bancaire à proximité par exemple, votre position géographique précise peut être utilisée. Vos données de géolocalisation seront collectées uniquement avec votre accord, et en fonction du système de géolocalisation que vous accepterez. Vous pouvez à tout moment paramétrer vos préférences via les réglages de votre smartphone ou tablette.  Ces données ne sont ni stockées ni conservées.
+11. Sécurité de vos données personnelles
+Nous mettons en œuvre des mesures techniques et organisationnelles afin de protéger vos données, notamment la mise en place de mesures de sécurité physiques, logiques, organisationnelles appropriées, le chiffrement, l’anonymisation pour garantir la confidentialité et l’intégrité de vos données et éviter tout accès non autorisé.
+12. Cookies et autres traceurs
+Notre politique de gestion des cookies est accessible sur notre application via l’onglet préférences cookies.
+13. Mise à jour de la charte des données personnelles
+La Charte des données personnelles sera régulièrement actualisée pour tenir compte des évolutions législatives et réglementaires. Nous vous invitons à prendre connaissance de la dernière version mise à votre disposition sur nos sites.

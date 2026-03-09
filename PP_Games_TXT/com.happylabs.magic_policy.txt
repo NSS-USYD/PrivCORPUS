@@ -1,0 +1,132 @@
+Happy Labs Privacy Policy
+Games
+Magic School Story
+>
+Magic School Story Press Kit
+Magic School Story Support
+Magic School Story FAQ
+Toriko
+>
+Toriko Game Guide
+TORIKO Support
+TORIKO Press Kit
+Restaurant Paradise
+>
+Restaurant Paradise Press Kit
+Restaurant Paradise Support
+Restaurant Paradise FAQ
+Happy Swordplay
+>
+Remote FAQ
+Happy Swordplay FAQ
+Happy Swordplay Press Kit
+Happy Swordplay Support
+Happy Tennis
+>
+Happy Tennis Remote FAQ
+Happy Tennis FAQ
+Happy Tennis Press Kit
+Happy Tennis Support
+Puchi Puchi Pop
+Happy Pet Story
+>
+Happy Pet Story FAQ
+Happy Pet Story Support
+Happy Pet House
+Happy Mall Story
+>
+Happy Mall Story FAQ
+Happy Mall Story Support
+Hotel Story
+>
+Hotel Story FAQ
+Hotel Story Support
+About Us
+News
+Subscribe
+app-ads
+Happy Labs Privacy Policy
+Click here to access
+Happy Tennis Privacy Policy
+.
+​
+﻿
+​Last Updated: 26 Apr, 2018
+This privacy policy sets out how Happy Labs Pte Ltd (“Happy Labs”, “we”, “us”, “our”) uses and protects any information that we collect when you use our games, apps, products, services, and websites (collectively, “Services”). By using our Services, you agree to our Privacy Policy. If these terms do not match your expectations, please do not use the Services.
+Happy Labs is committed to ensuring that your privacy is protected. Should we ask you to provide personally-identifiable information when using our Services, be assured that it will only be used in accordance with this Privacy Policy. Otherwise, all information collected are non-identifying, non-personal and aggregated.
+Happy Labs may periodically update this Privacy Policy. You should check this page from time to time to ensure that you are happy to comply with the new changes.
+1. What we do not collect
+When you download and use our applications, or surf our Services, we do not require you to provide any personally identifiable information.
+While we strive to keep our content safe and free of unhealthy references, Happy Labs Services are not targeted towards children under 13 years o
+ld. We do not knowingly collect information from children under the age of 13.
+2. What we collect
+Unless otherwise specified, all data gathered is non-identifiable, non-personal and aggregated.
+2.1. For TV Services
+2.1.1. Data collected using Third-party Platform:
+We use Parse to track data of usage in order to analyze and optimize our Services for you. Parse is also used to maintain the leaderboard rankings, if any. Any usage data gathered is subject to the
+Parse Privacy Policy
+.
+2.1.2. What we do with the information gathered
+We require this information to understand your needs and provide you with Services, in particular for the following reasons:
+To improve, optimise or make changes to our Services.
+To assist you with Customer Support via e-mail or our official Social Media accounts.
+To customize our Services according to your interests.
+To provide aggregated information to potential business partners about our Services.
+2.2. For Mobile Services
+​
+2.2.1. Data collected using Third-party Platforms:
+Tracking:
+We use Amazon S3 and DynamoDB to store your game data and progress. Your game data includes information such as Game ID, Game Name, avatar used, number of seconds played, language used, level, device model, number of coins, diamonds, ban status, how much ads you see, date created, date last played, as well as your game’s secure status. Any usage data gathered is subject to the
+AWS Privacy Policy
+. To learn more, read
+Data Privacy Policy
+.
+Tracking:
+We use Google Analytics and Firebase Analytics to track data of usage in order to analyze and optimize our Services for you. Any usage data gathered is subject to the
+Google Privacy Policy
+.
+Social Media and Social Networks:
+We use communication services and social media platforms, including but not limited to, Facebook, Twitter, LINE, Sina Weibo and WeChat to allow you to (1) share news and achievements from our services with your contact list, and (2) add your friends from Social Networks into your in-game friends list. You can also invite your friends on such Social Media to engage with our Services. Any usage data gathered is subject to the respective platforms' policies. Please note that any information you choose to share to recipients via Social Media can become accessible to others on the internet. Please remember that you can choose the audience for your post.
+Ad-Serving and Ad-Tracking Technologies:
+As part of the Service, we use a variety of third party ad-serving services and platforms. The advertising platforms may use cookies, web beacons, log files, Apple's IDFA and IFA, Google Play's Advertiser ID and other ad tracking technologies to collect data, including but not limited to usage, demographic, geographic location, OS type, language settings, device model, where applicable. In addition, these third-party Ad-Serving services may aggregate the data with other data on their platforms, and such data is governed by their own privacy policies. Happy Labs has no control over such third party technologies. The Ad-Serving platforms and services include but are not limited to: Adcolony, Admob, Appia, Applift, Chartboost, Metaps, Millennial Media, Mopub, Tapjoy, Vungle, Applift, Appsflyer, Pubnative, Bee7.
+3. Information you provide:
+Account Creation on our Services:
+As a value-added service, you may choose to supply your Email address or give permission to Facebook to log in in order to save and recover your game data. In older version of the games, you may be asked to provide Login credentials including a Login ID and password. Your information is secure and encrypted and Happy Labs do not have access to your Password. Please do not share your Login credentials to any outsiders or Happy Labs.
+User Generated Content:
+You may choose to create and send text messages or emoticons within our Services to any recipient of your choosing. Information about the User Generated Content may also be collected, for example, the time a message was sent. When using this Service, please note that any content sent by you to anyone can be copied, stored or shared by the recipients and accessed by unintended recipients. Please exercise caution when sharing your content on our Services. Please note that you may be banned for displaying undesirable behaviors such as spamming, scamming, hostilities, extremities, and other similar behaviors.
+Optional Newsletter:
+As part of our Service to you, you can choose to receive news and updates about Happy Labs and our Services by subscribing to our newsletter from you website. For this, you will need to provide your e-mail address. You can choose to stop receiving newsletters at any time.
+Customer Support:
+​Email:
+We may have access to your name, nickname, or email address or any other personally identifiable information you choose to provide if you send us a Customer Support email in order to help answer your queries.
+Social:
+We may have access to your public Social Media profile if you have contacted us on our official Social Media accounts (including but not limited to Facebook, Twitter, Sina Weibo) for Support.
+If you have lost your game and for verification that you are the rightful owner of the save game, we may request for your device model and other information pertaining to your save data.
+Contest Giveaways:
+From time to time, Happy Labs may run contest giveaways. For details on data collected during contest giveaways, please refer to the relevant contest Terms and Conditions.
+4. Security
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical and electronic procedures. Happy Labs also adopts internal personal data protection policies and practices to safeguard and secure the information collected.
+However, we are unable to guarantee that our data will be kept safe from malicious hackers.
+We will never sell personally-identifiable information. We will not share personally-identifiable information except in compliance with Singapore law.
+5. Where your information is stored
+All information collected by us are stored on where the facilities are maintained.
+Please note that your information may be internationally transferred and we can process and store your information in a country other than where you submitted.
+6. How long will the information be stored
+Information collected and stored may be stored for the length of time whereby the Service is running and being maintained, until you request deletion.
+7. How to access and control your own information
+Accessing your information:
+You can see your game secure status in the Settings window of all our games.
+Updating your information:
+If you wish to update your secure status, for example, changing the secured details associated with the game, please contact us at the appropriate support channels for each game.
+Deleting your information:
+You have the right to request for your personal information to be deleted (Note that you will not be able to recover your game data).
+Opting out of communications:
+You may unsubscribe from Optional Newsletter
+8. Other concerns
+If you have questions concerning our privacy policy, please contact us at:
+support@happylabsfree.com
+266 Serangoon Central Drive, #04-253
+Singapore 550266
+Powered by
+Create your own unique website with customizable templates.
+Get Started

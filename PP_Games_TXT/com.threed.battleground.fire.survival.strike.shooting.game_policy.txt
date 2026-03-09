@@ -1,0 +1,3275 @@
+ÿþ<h t m l   x m l n s : o = " u r n : s c h e m a s - m i c r o s o f t - c o m : o f f i c e : o f f i c e " 
+ 
+ x m l n s : w = " u r n : s c h e m a s - m i c r o s o f t - c o m : o f f i c e : w o r d " 
+ 
+ x m l n s : m = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / o f f i c e / 2 0 0 4 / 1 2 / o m m l " 
+ 
+ x m l n s = " h t t p : / / w w w . w 3 . o r g / T R / R E C - h t m l 4 0 " > 
+ 
+ 
+ 
+ <h e a d > 
+ 
+ <m e t a   h t t p - e q u i v = C o n t e n t - T y p e   c o n t e n t = " t e x t / h t m l ;   c h a r s e t = u n i c o d e " > 
+ 
+ <m e t a   n a m e = P r o g I d   c o n t e n t = W o r d . D o c u m e n t > 
+ 
+ <m e t a   n a m e = G e n e r a t o r   c o n t e n t = " M i c r o s o f t   W o r d   1 5 " > 
+ 
+ <m e t a   n a m e = O r i g i n a t o r   c o n t e n t = " M i c r o s o f t   W o r d   1 5 " > 
+ 
+ <l i n k   r e l = F i l e - L i s t   h r e f = " p r i v a c y - p o l i c y . f l d / f i l e l i s t . x m l " > 
+ 
+ <! - - [ i f   g t e   m s o   9 ] > <x m l > 
+ 
+   <o : D o c u m e n t P r o p e r t i e s > 
+ 
+     <o : A u t h o r > M i c r o s o f t   O f f i c e   U s e r </ o : A u t h o r > 
+ 
+     <o : L a s t A u t h o r > M i c r o s o f t   O f f i c e   U s e r </ o : L a s t A u t h o r > 
+ 
+     <o : R e v i s i o n > 7 </ o : R e v i s i o n > 
+ 
+     <o : T o t a l T i m e > 1 1 </ o : T o t a l T i m e > 
+ 
+     <o : C r e a t e d > 2 0 2 3 - 0 6 - 1 6 T 1 2 : 3 8 : 0 0 Z </ o : C r e a t e d > 
+ 
+     <o : L a s t S a v e d > 2 0 2 3 - 0 6 - 1 6 T 1 3 : 0 4 : 0 0 Z </ o : L a s t S a v e d > 
+ 
+     <o : P a g e s > 1 </ o : P a g e s > 
+ 
+     <o : W o r d s > 1 9 3 7 </ o : W o r d s > 
+ 
+     <o : C h a r a c t e r s > 1 1 0 4 1 </ o : C h a r a c t e r s > 
+ 
+     <o : L i n e s > 9 2 </ o : L i n e s > 
+ 
+     <o : P a r a g r a p h s > 2 5 </ o : P a r a g r a p h s > 
+ 
+     <o : C h a r a c t e r s W i t h S p a c e s > 1 2 9 5 3 </ o : C h a r a c t e r s W i t h S p a c e s > 
+ 
+     <o : V e r s i o n > 1 6 . 0 0 </ o : V e r s i o n > 
+ 
+   </ o : D o c u m e n t P r o p e r t i e s > 
+ 
+   <o : O f f i c e D o c u m e n t S e t t i n g s > 
+ 
+     <o : A l l o w P N G / > 
+ 
+   </ o : O f f i c e D o c u m e n t S e t t i n g s > 
+ 
+ </ x m l > <! [ e n d i f ] - - > 
+ 
+ <l i n k   r e l = t h e m e D a t a   h r e f = " p r i v a c y - p o l i c y . f l d / t h e m e d a t a . t h m x " > 
+ 
+ <l i n k   r e l = c o l o r S c h e m e M a p p i n g   h r e f = " p r i v a c y - p o l i c y . f l d / c o l o r s c h e m e m a p p i n g . x m l " > 
+ 
+ <! - - [ i f   g t e   m s o   9 ] > <x m l > 
+ 
+   <w : W o r d D o c u m e n t > 
+ 
+     <w : Z o o m > 1 5 4 </ w : Z o o m > 
+ 
+     <w : S p e l l i n g S t a t e > C l e a n </ w : S p e l l i n g S t a t e > 
+ 
+     <w : G r a m m a r S t a t e > C l e a n </ w : G r a m m a r S t a t e > 
+ 
+     <w : T r a c k M o v e s > f a l s e </ w : T r a c k M o v e s > 
+ 
+     <w : T r a c k F o r m a t t i n g / > 
+ 
+     <w : V a l i d a t e A g a i n s t S c h e m a s / > 
+ 
+     <w : S a v e I f X M L I n v a l i d > f a l s e </ w : S a v e I f X M L I n v a l i d > 
+ 
+     <w : I g n o r e M i x e d C o n t e n t > f a l s e </ w : I g n o r e M i x e d C o n t e n t > 
+ 
+     <w : A l w a y s S h o w P l a c e h o l d e r T e x t > f a l s e </ w : A l w a y s S h o w P l a c e h o l d e r T e x t > 
+ 
+     <w : D o N o t P r o m o t e Q F / > 
+ 
+     <w : L i d T h e m e O t h e r > e n - P K </ w : L i d T h e m e O t h e r > 
+ 
+     <w : L i d T h e m e A s i a n > X - N O N E </ w : L i d T h e m e A s i a n > 
+ 
+     <w : L i d T h e m e C o m p l e x S c r i p t > X - N O N E </ w : L i d T h e m e C o m p l e x S c r i p t > 
+ 
+     <w : C o m p a t i b i l i t y > 
+ 
+       <w : B r e a k W r a p p e d T a b l e s / > 
+ 
+       <w : S p l i t P g B r e a k A n d P a r a M a r k / > 
+ 
+     </ w : C o m p a t i b i l i t y > 
+ 
+     <w : B r o w s e r L e v e l > M i c r o s o f t I n t e r n e t E x p l o r e r 4 </ w : B r o w s e r L e v e l > 
+ 
+     <m : m a t h P r > 
+ 
+       <m : m a t h F o n t   m : v a l = " C a m b r i a   M a t h " / > 
+ 
+       <m : b r k B i n   m : v a l = " b e f o r e " / > 
+ 
+       <m : b r k B i n S u b   m : v a l = " & # 4 5 ; - " / > 
+ 
+       <m : s m a l l F r a c   m : v a l = " o f f " / > 
+ 
+       <m : d i s p D e f / > 
+ 
+       <m : l M a r g i n   m : v a l = " 0 " / > 
+ 
+       <m : r M a r g i n   m : v a l = " 0 " / > 
+ 
+       <m : d e f J c   m : v a l = " c e n t e r G r o u p " / > 
+ 
+       <m : w r a p I n d e n t   m : v a l = " 1 4 4 0 " / > 
+ 
+       <m : i n t L i m   m : v a l = " s u b S u p " / > 
+ 
+       <m : n a r y L i m   m : v a l = " u n d O v r " / > 
+ 
+     </ m : m a t h P r > </ w : W o r d D o c u m e n t > 
+ 
+ </ x m l > <! [ e n d i f ] - - > <! - - [ i f   g t e   m s o   9 ] > <x m l > 
+ 
+   <w : L a t e n t S t y l e s   D e f L o c k e d S t a t e = " f a l s e "   D e f U n h i d e W h e n U s e d = " f a l s e " 
+ 
+     D e f S e m i H i d d e n = " f a l s e "   D e f Q F o r m a t = " f a l s e "   D e f P r i o r i t y = " 9 9 " 
+ 
+     L a t e n t S t y l e C o u n t = " 3 7 6 " > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 0 "   Q F o r m a t = " t r u e "   N a m e = " N o r m a l " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   7 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   8 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " h e a d i n g   9 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   7 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   8 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   9 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   7 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   8 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " t o c   9 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " N o r m a l   I n d e n t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " f o o t n o t e   t e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " a n n o t a t i o n   t e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " h e a d e r " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " f o o t e r " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " i n d e x   h e a d i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 5 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " c a p t i o n " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " t a b l e   o f   f i g u r e s " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " e n v e l o p e   a d d r e s s " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " e n v e l o p e   r e t u r n " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " f o o t n o t e   r e f e r e n c e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " a n n o t a t i o n   r e f e r e n c e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " l i n e   n u m b e r " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " p a g e   n u m b e r " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " e n d n o t e   r e f e r e n c e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " e n d n o t e   t e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " t a b l e   o f   a u t h o r i t i e s " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " m a c r o " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " t o a   h e a d i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   B u l l e t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   N u m b e r " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   B u l l e t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   B u l l e t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   B u l l e t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   B u l l e t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   N u m b e r   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   N u m b e r   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   N u m b e r   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   N u m b e r   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 1 0 "   Q F o r m a t = " t r u e "   N a m e = " T i t l e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " C l o s i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " S i g n a t u r e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 1 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " D e f a u l t   P a r a g r a p h   F o n t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t   I n d e n t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   C o n t i n u e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   C o n t i n u e   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   C o n t i n u e   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   C o n t i n u e   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " L i s t   C o n t i n u e   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " M e s s a g e   H e a d e r " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 1 1 "   Q F o r m a t = " t r u e "   N a m e = " S u b t i t l e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " S a l u t a t i o n " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " D a t e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t   F i r s t   I n d e n t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t   F i r s t   I n d e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " N o t e   H e a d i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t   I n d e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B o d y   T e x t   I n d e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B l o c k   T e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H y p e r l i n k " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " F o l l o w e d H y p e r l i n k " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 2 2 "   Q F o r m a t = " t r u e "   N a m e = " S t r o n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 2 0 "   Q F o r m a t = " t r u e "   N a m e = " E m p h a s i s " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " D o c u m e n t   M a p " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " P l a i n   T e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " E - m a i l   S i g n a t u r e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   T o p   o f   F o r m " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   B o t t o m   o f   F o r m " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " N o r m a l   ( W e b ) " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   A c r o n y m " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   A d d r e s s " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   C i t e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   C o d e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   D e f i n i t i o n " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   K e y b o a r d " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   P r e f o r m a t t e d " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   S a m p l e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   T y p e w r i t e r " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H T M L   V a r i a b l e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " N o r m a l   T a b l e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " a n n o t a t i o n   s u b j e c t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " N o   L i s t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " O u t l i n e   L i s t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " O u t l i n e   L i s t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " O u t l i n e   L i s t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   S i m p l e   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   S i m p l e   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   S i m p l e   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C l a s s i c   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C l a s s i c   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C l a s s i c   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C l a s s i c   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l o r f u l   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l o r f u l   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l o r f u l   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l u m n s   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l u m n s   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l u m n s   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l u m n s   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o l u m n s   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   7 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   G r i d   8 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   7 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   L i s t   8 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   3 D   e f f e c t s   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   3 D   e f f e c t s   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   3 D   e f f e c t s   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   C o n t e m p o r a r y " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   E l e g a n t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   P r o f e s s i o n a l " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   S u b t l e   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   S u b t l e   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   W e b   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   W e b   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   W e b   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " B a l l o o n   T e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   N a m e = " T a b l e   G r i d " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " T a b l e   T h e m e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   N a m e = " P l a c e h o l d e r   T e x t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 1 "   Q F o r m a t = " t r u e "   N a m e = " N o   S p a c i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 0 "   N a m e = " L i g h t   S h a d i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 1 "   N a m e = " L i g h t   L i s t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 2 "   N a m e = " L i g h t   G r i d " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 3 "   N a m e = " M e d i u m   S h a d i n g   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 4 "   N a m e = " M e d i u m   S h a d i n g   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 5 "   N a m e = " M e d i u m   L i s t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 6 "   N a m e = " M e d i u m   L i s t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 7 "   N a m e = " M e d i u m   G r i d   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 8 "   N a m e = " M e d i u m   G r i d   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 9 "   N a m e = " M e d i u m   G r i d   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 0 "   N a m e = " D a r k   L i s t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 1 "   N a m e = " C o l o r f u l   S h a d i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 2 "   N a m e = " C o l o r f u l   L i s t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 3 "   N a m e = " C o l o r f u l   G r i d " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 0 "   N a m e = " L i g h t   S h a d i n g   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 1 "   N a m e = " L i g h t   L i s t   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 2 "   N a m e = " L i g h t   G r i d   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 3 "   N a m e = " M e d i u m   S h a d i n g   1   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 4 "   N a m e = " M e d i u m   S h a d i n g   2   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 5 "   N a m e = " M e d i u m   L i s t   1   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   N a m e = " R e v i s i o n " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 4 "   Q F o r m a t = " t r u e " 
+ 
+       N a m e = " L i s t   P a r a g r a p h " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 2 9 "   Q F o r m a t = " t r u e "   N a m e = " Q u o t e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 0 "   Q F o r m a t = " t r u e " 
+ 
+       N a m e = " I n t e n s e   Q u o t e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 6 "   N a m e = " M e d i u m   L i s t   2   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 7 "   N a m e = " M e d i u m   G r i d   1   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 8 "   N a m e = " M e d i u m   G r i d   2   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 9 "   N a m e = " M e d i u m   G r i d   3   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 0 "   N a m e = " D a r k   L i s t   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 1 "   N a m e = " C o l o r f u l   S h a d i n g   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 2 "   N a m e = " C o l o r f u l   L i s t   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 3 "   N a m e = " C o l o r f u l   G r i d   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 0 "   N a m e = " L i g h t   S h a d i n g   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 1 "   N a m e = " L i g h t   L i s t   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 2 "   N a m e = " L i g h t   G r i d   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 3 "   N a m e = " M e d i u m   S h a d i n g   1   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 4 "   N a m e = " M e d i u m   S h a d i n g   2   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 5 "   N a m e = " M e d i u m   L i s t   1   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 6 "   N a m e = " M e d i u m   L i s t   2   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 7 "   N a m e = " M e d i u m   G r i d   1   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 8 "   N a m e = " M e d i u m   G r i d   2   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 9 "   N a m e = " M e d i u m   G r i d   3   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 0 "   N a m e = " D a r k   L i s t   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 1 "   N a m e = " C o l o r f u l   S h a d i n g   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 2 "   N a m e = " C o l o r f u l   L i s t   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 3 "   N a m e = " C o l o r f u l   G r i d   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 0 "   N a m e = " L i g h t   S h a d i n g   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 1 "   N a m e = " L i g h t   L i s t   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 2 "   N a m e = " L i g h t   G r i d   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 3 "   N a m e = " M e d i u m   S h a d i n g   1   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 4 "   N a m e = " M e d i u m   S h a d i n g   2   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 5 "   N a m e = " M e d i u m   L i s t   1   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 6 "   N a m e = " M e d i u m   L i s t   2   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 7 "   N a m e = " M e d i u m   G r i d   1   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 8 "   N a m e = " M e d i u m   G r i d   2   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 9 "   N a m e = " M e d i u m   G r i d   3   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 0 "   N a m e = " D a r k   L i s t   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 1 "   N a m e = " C o l o r f u l   S h a d i n g   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 2 "   N a m e = " C o l o r f u l   L i s t   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 3 "   N a m e = " C o l o r f u l   G r i d   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 0 "   N a m e = " L i g h t   S h a d i n g   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 1 "   N a m e = " L i g h t   L i s t   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 2 "   N a m e = " L i g h t   G r i d   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 3 "   N a m e = " M e d i u m   S h a d i n g   1   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 4 "   N a m e = " M e d i u m   S h a d i n g   2   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 5 "   N a m e = " M e d i u m   L i s t   1   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 6 "   N a m e = " M e d i u m   L i s t   2   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 7 "   N a m e = " M e d i u m   G r i d   1   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 8 "   N a m e = " M e d i u m   G r i d   2   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 9 "   N a m e = " M e d i u m   G r i d   3   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 0 "   N a m e = " D a r k   L i s t   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 1 "   N a m e = " C o l o r f u l   S h a d i n g   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 2 "   N a m e = " C o l o r f u l   L i s t   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 3 "   N a m e = " C o l o r f u l   G r i d   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 0 "   N a m e = " L i g h t   S h a d i n g   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 1 "   N a m e = " L i g h t   L i s t   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 2 "   N a m e = " L i g h t   G r i d   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 3 "   N a m e = " M e d i u m   S h a d i n g   1   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 4 "   N a m e = " M e d i u m   S h a d i n g   2   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 5 "   N a m e = " M e d i u m   L i s t   1   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 6 "   N a m e = " M e d i u m   L i s t   2   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 7 "   N a m e = " M e d i u m   G r i d   1   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 8 "   N a m e = " M e d i u m   G r i d   2   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 9 "   N a m e = " M e d i u m   G r i d   3   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 0 "   N a m e = " D a r k   L i s t   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 1 "   N a m e = " C o l o r f u l   S h a d i n g   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 2 "   N a m e = " C o l o r f u l   L i s t   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 3 "   N a m e = " C o l o r f u l   G r i d   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 0 "   N a m e = " L i g h t   S h a d i n g   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 1 "   N a m e = " L i g h t   L i s t   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 2 "   N a m e = " L i g h t   G r i d   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 3 "   N a m e = " M e d i u m   S h a d i n g   1   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 4 "   N a m e = " M e d i u m   S h a d i n g   2   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 5 "   N a m e = " M e d i u m   L i s t   1   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 6 "   N a m e = " M e d i u m   L i s t   2   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 7 "   N a m e = " M e d i u m   G r i d   1   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 8 "   N a m e = " M e d i u m   G r i d   2   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 6 9 "   N a m e = " M e d i u m   G r i d   3   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 0 "   N a m e = " D a r k   L i s t   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 1 "   N a m e = " C o l o r f u l   S h a d i n g   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 2 "   N a m e = " C o l o r f u l   L i s t   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 7 3 "   N a m e = " C o l o r f u l   G r i d   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 1 9 "   Q F o r m a t = " t r u e " 
+ 
+       N a m e = " S u b t l e   E m p h a s i s " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 2 1 "   Q F o r m a t = " t r u e " 
+ 
+       N a m e = " I n t e n s e   E m p h a s i s " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 1 "   Q F o r m a t = " t r u e " 
+ 
+       N a m e = " S u b t l e   R e f e r e n c e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 2 "   Q F o r m a t = " t r u e " 
+ 
+       N a m e = " I n t e n s e   R e f e r e n c e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 3 "   Q F o r m a t = " t r u e "   N a m e = " B o o k   T i t l e " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 7 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   N a m e = " B i b l i o g r a p h y " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 3 9 "   S e m i H i d d e n = " t r u e " 
+ 
+       U n h i d e W h e n U s e d = " t r u e "   Q F o r m a t = " t r u e "   N a m e = " T O C   H e a d i n g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 1 "   N a m e = " P l a i n   T a b l e   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 2 "   N a m e = " P l a i n   T a b l e   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 3 "   N a m e = " P l a i n   T a b l e   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 4 "   N a m e = " P l a i n   T a b l e   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 5 "   N a m e = " P l a i n   T a b l e   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 0 "   N a m e = " G r i d   T a b l e   L i g h t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 "   N a m e = " G r i d   T a b l e   1   L i g h t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " G r i d   T a b l e   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " G r i d   T a b l e   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " G r i d   T a b l e   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " G r i d   T a b l e   5   D a r k " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 "   N a m e = " G r i d   T a b l e   6   C o l o r f u l " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 "   N a m e = " G r i d   T a b l e   7   C o l o r f u l " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " G r i d   T a b l e   1   L i g h t   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " G r i d   T a b l e   2   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " G r i d   T a b l e   3   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " G r i d   T a b l e   4   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " G r i d   T a b l e   5   D a r k   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " G r i d   T a b l e   6   C o l o r f u l   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " G r i d   T a b l e   7   C o l o r f u l   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " G r i d   T a b l e   1   L i g h t   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " G r i d   T a b l e   2   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " G r i d   T a b l e   3   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " G r i d   T a b l e   4   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " G r i d   T a b l e   5   D a r k   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " G r i d   T a b l e   6   C o l o r f u l   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " G r i d   T a b l e   7   C o l o r f u l   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " G r i d   T a b l e   1   L i g h t   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " G r i d   T a b l e   2   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " G r i d   T a b l e   3   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " G r i d   T a b l e   4   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " G r i d   T a b l e   5   D a r k   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " G r i d   T a b l e   6   C o l o r f u l   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " G r i d   T a b l e   7   C o l o r f u l   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " G r i d   T a b l e   1   L i g h t   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " G r i d   T a b l e   2   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " G r i d   T a b l e   3   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " G r i d   T a b l e   4   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " G r i d   T a b l e   5   D a r k   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " G r i d   T a b l e   6   C o l o r f u l   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " G r i d   T a b l e   7   C o l o r f u l   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " G r i d   T a b l e   1   L i g h t   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " G r i d   T a b l e   2   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " G r i d   T a b l e   3   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " G r i d   T a b l e   4   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " G r i d   T a b l e   5   D a r k   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " G r i d   T a b l e   6   C o l o r f u l   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " G r i d   T a b l e   7   C o l o r f u l   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " G r i d   T a b l e   1   L i g h t   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " G r i d   T a b l e   2   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " G r i d   T a b l e   3   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " G r i d   T a b l e   4   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " G r i d   T a b l e   5   D a r k   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " G r i d   T a b l e   6   C o l o r f u l   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " G r i d   T a b l e   7   C o l o r f u l   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 "   N a m e = " L i s t   T a b l e   1   L i g h t " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " L i s t   T a b l e   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " L i s t   T a b l e   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " L i s t   T a b l e   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " L i s t   T a b l e   5   D a r k " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 "   N a m e = " L i s t   T a b l e   6   C o l o r f u l " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 "   N a m e = " L i s t   T a b l e   7   C o l o r f u l " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " L i s t   T a b l e   1   L i g h t   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " L i s t   T a b l e   2   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " L i s t   T a b l e   3   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " L i s t   T a b l e   4   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " L i s t   T a b l e   5   D a r k   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " L i s t   T a b l e   6   C o l o r f u l   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " L i s t   T a b l e   7   C o l o r f u l   A c c e n t   1 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " L i s t   T a b l e   1   L i g h t   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " L i s t   T a b l e   2   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " L i s t   T a b l e   3   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " L i s t   T a b l e   4   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " L i s t   T a b l e   5   D a r k   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " L i s t   T a b l e   6   C o l o r f u l   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " L i s t   T a b l e   7   C o l o r f u l   A c c e n t   2 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " L i s t   T a b l e   1   L i g h t   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " L i s t   T a b l e   2   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " L i s t   T a b l e   3   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " L i s t   T a b l e   4   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " L i s t   T a b l e   5   D a r k   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " L i s t   T a b l e   6   C o l o r f u l   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " L i s t   T a b l e   7   C o l o r f u l   A c c e n t   3 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " L i s t   T a b l e   1   L i g h t   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " L i s t   T a b l e   2   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " L i s t   T a b l e   3   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " L i s t   T a b l e   4   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " L i s t   T a b l e   5   D a r k   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " L i s t   T a b l e   6   C o l o r f u l   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " L i s t   T a b l e   7   C o l o r f u l   A c c e n t   4 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " L i s t   T a b l e   1   L i g h t   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " L i s t   T a b l e   2   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " L i s t   T a b l e   3   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " L i s t   T a b l e   4   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " L i s t   T a b l e   5   D a r k   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " L i s t   T a b l e   6   C o l o r f u l   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " L i s t   T a b l e   7   C o l o r f u l   A c c e n t   5 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 6 " 
+ 
+       N a m e = " L i s t   T a b l e   1   L i g h t   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 7 "   N a m e = " L i s t   T a b l e   2   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 8 "   N a m e = " L i s t   T a b l e   3   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 4 9 "   N a m e = " L i s t   T a b l e   4   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 0 "   N a m e = " L i s t   T a b l e   5   D a r k   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 1 " 
+ 
+       N a m e = " L i s t   T a b l e   6   C o l o r f u l   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   P r i o r i t y = " 5 2 " 
+ 
+       N a m e = " L i s t   T a b l e   7   C o l o r f u l   A c c e n t   6 " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " M e n t i o n " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " S m a r t   H y p e r l i n k " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " H a s h t a g " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " U n r e s o l v e d   M e n t i o n " / > 
+ 
+     <w : L s d E x c e p t i o n   L o c k e d = " f a l s e "   S e m i H i d d e n = " t r u e "   U n h i d e W h e n U s e d = " t r u e " 
+ 
+       N a m e = " S m a r t   L i n k " / > 
+ 
+   </ w : L a t e n t S t y l e s > 
+ 
+ </ x m l > <! [ e n d i f ] - - > 
+ 
+ <s t y l e > 
+ 
+ <! - - p . P 2 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   # 0 0 0 0 0 0 ; } 
+ 
+ p . P 3 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   # 0 0 0 0 0 0 ; } 
+ 
+ p . P 4 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   # 0 0 0 0 0 0 ; 
+ 
+ 	 m i n - h e i g h t :   1 4 . 0 p x ; } 
+ 
+ p . P 5 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   # 0 0 0 0 0 0 ; } 
+ 
+ p . P 6 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   # 8 1 3 b 5 f ; } 
+ 
+ p . P 7 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   # 8 1 3 b 5 f ; } 
+ 
+ l i . L I 3 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   # 0 0 0 0 0 0 ; } 
+ 
+ s p a n . S 1 
+ 
+ 	 { f o n t - k e r n i n g :   n o n e ; } 
+ 
+ s p a n . S 2 
+ 
+ 	 { - w e b k i t - t e x t - s t r o k e :   0 p x   # 0 0 0 0 0 0 ; } 
+ 
+ s p a n . S 3 
+ 
+ 	 { f o n t - k e r n i n g :   n o n e ; 
+ 
+ 	 - w e b k i t - t e x t - s t r o k e :   0 p x   # 0 0 0 0 0 0 ; } 
+ 
+ s p a n . S 4 
+ 
+ 	 { f o n t - k e r n i n g :   n o n e ; 
+ 
+ 	 - w e b k i t - t e x t - s t r o k e :   0 p x   # 0 0 0 0 0 0 ; } 
+ 
+ s p a n . S 5 
+ 
+ 	 { f o n t - k e r n i n g :   n o n e ; } 
+ 
+ s p a n . S 6 
+ 
+ 	 { f o n t - k e r n i n g :   n o n e ; } 
+ 
+ 
+ 
+   / *   F o n t   D e f i n i t i o n s   * / 
+ 
+   @ f o n t - f a c e 
+ 
+ 	 { f o n t - f a m i l y : " C a m b r i a   M a t h " ; 
+ 
+ 	 p a n o s e - 1 : 2   4   5   3   5   4   6   3   2   4 ; 
+ 
+ 	 m s o - f o n t - c h a r s e t : 0 ; 
+ 
+ 	 m s o - g e n e r i c - f o n t - f a m i l y : r o m a n ; 
+ 
+ 	 m s o - f o n t - p i t c h : v a r i a b l e ; 
+ 
+ 	 m s o - f o n t - s i g n a t u r e : 3   0   0   0   1   0 ; } 
+ 
+ @ f o n t - f a c e 
+ 
+ 	 { f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 p a n o s e - 1 : 0   0   5   0   0   0   0   2   0   0 ; 
+ 
+ 	 m s o - f o n t - c h a r s e t : 0 ; 
+ 
+ 	 m s o - g e n e r i c - f o n t - f a m i l y : a u t o ; 
+ 
+ 	 m s o - f o n t - p i t c h : v a r i a b l e ; 
+ 
+ 	 m s o - f o n t - s i g n a t u r e : - 5 3 6 8 7 0 1 4 5   1 3 4 2 1 8 5 5 6 2   0   0   4 1 5   0 ; } 
+ 
+   / *   S t y l e   D e f i n i t i o n s   * / 
+ 
+   p . M s o N o r m a l ,   l i . M s o N o r m a l ,   d i v . M s o N o r m a l 
+ 
+ 	 { m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m s o - s t y l e - q f o r m a t : y e s ; 
+ 
+ 	 m s o - s t y l e - p a r e n t : " " ; 
+ 
+ 	 m a r g i n : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 1 2 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : " T i m e s   N e w   R o m a n " , s e r i f ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; } 
+ 
+ h 2 
+ 
+ 	 { m s o - s t y l e - p r i o r i t y : 9 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m s o - s t y l e - q f o r m a t : y e s ; 
+ 
+ 	 m s o - s t y l e - l i n k : " H e a d i n g   2   C h a r " ; 
+ 
+ 	 m s o - m a r g i n - t o p - a l t : a u t o ; 
+ 
+ 	 m a r g i n - r i g h t : 0 c m ; 
+ 
+ 	 m s o - m a r g i n - b o t t o m - a l t : a u t o ; 
+ 
+ 	 m a r g i n - l e f t : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 m s o - o u t l i n e - l e v e l : 2 ; 
+ 
+ 	 f o n t - s i z e : 1 8 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : " T i m e s   N e w   R o m a n " , s e r i f ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; } 
+ 
+ a : l i n k ,   s p a n . M s o H y p e r l i n k 
+ 
+ 	 { m s o - s t y l e - n o s h o w : y e s ; 
+ 
+ 	 m s o - s t y l e - p r i o r i t y : 9 9 ; 
+ 
+ 	 c o l o r : b l u e ; 
+ 
+ 	 t e x t - d e c o r a t i o n : u n d e r l i n e ; 
+ 
+ 	 t e x t - u n d e r l i n e : s i n g l e ; } 
+ 
+ a : v i s i t e d ,   s p a n . M s o H y p e r l i n k F o l l o w e d 
+ 
+ 	 { m s o - s t y l e - n o s h o w : y e s ; 
+ 
+ 	 m s o - s t y l e - p r i o r i t y : 9 9 ; 
+ 
+ 	 c o l o r : p u r p l e ; 
+ 
+ 	 t e x t - d e c o r a t i o n : u n d e r l i n e ; 
+ 
+ 	 t e x t - u n d e r l i n e : s i n g l e ; } 
+ 
+ s p a n . H e a d i n g 2 C h a r 
+ 
+ 	 { m s o - s t y l e - n a m e : " H e a d i n g   2   C h a r " ; 
+ 
+ 	 m s o - s t y l e - n o s h o w : y e s ; 
+ 
+ 	 m s o - s t y l e - p r i o r i t y : 9 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m s o - s t y l e - l o c k e d : y e s ; 
+ 
+ 	 m s o - s t y l e - l i n k : " H e a d i n g   2 " ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 3 . 0 p t ; 
+ 
+ 	 m s o - b i d i - f o n t - s i z e : 1 3 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : " C a l i b r i   L i g h t " , s a n s - s e r i f ; 
+ 
+ 	 m s o - a s c i i - f o n t - f a m i l y : " C a l i b r i   L i g h t " ; 
+ 
+ 	 m s o - a s c i i - t h e m e - f o n t : m a j o r - l a t i n ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m a j o r - f a r e a s t ; 
+ 
+ 	 m s o - h a n s i - f o n t - f a m i l y : " C a l i b r i   L i g h t " ; 
+ 
+ 	 m s o - h a n s i - t h e m e - f o n t : m a j o r - l a t i n ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - b i d i - t h e m e - f o n t : m a j o r - b i d i ; 
+ 
+ 	 c o l o r : # 2 F 5 4 9 6 ; 
+ 
+ 	 m s o - t h e m e c o l o r : a c c e n t 1 ; 
+ 
+ 	 m s o - t h e m e s h a d e : 1 9 1 ; } 
+ 
+ p . m s o n o r m a l 0 ,   l i . m s o n o r m a l 0 ,   d i v . m s o n o r m a l 0 
+ 
+ 	 { m s o - s t y l e - n a m e : m s o n o r m a l ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m s o - m a r g i n - t o p - a l t : a u t o ; 
+ 
+ 	 m a r g i n - r i g h t : 0 c m ; 
+ 
+ 	 m s o - m a r g i n - b o t t o m - a l t : a u t o ; 
+ 
+ 	 m a r g i n - l e f t : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 1 2 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : " T i m e s   N e w   R o m a n " , s e r i f ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; } 
+ 
+ p . p 2 ,   l i . p 2 ,   d i v . p 2 
+ 
+ 	 { m s o - s t y l e - n a m e : p 2 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m a r g i n - t o p : 0 c m ; 
+ 
+ 	 m a r g i n - r i g h t : 0 c m ; 
+ 
+ 	 m a r g i n - b o t t o m : 9 . 0 p t ; 
+ 
+ 	 m a r g i n - l e f t : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 9 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 c o l o r : b l a c k ; } 
+ 
+ p . p 3 ,   l i . p 3 ,   d i v . p 3 
+ 
+ 	 { m s o - s t y l e - n a m e : p 3 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m a r g i n : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 9 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 c o l o r : b l a c k ; } 
+ 
+ p . p 4 ,   l i . p 4 ,   d i v . p 4 
+ 
+ 	 { m s o - s t y l e - n a m e : p 4 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m a r g i n - t o p : 0 c m ; 
+ 
+ 	 m a r g i n - r i g h t : 0 c m ; 
+ 
+ 	 m a r g i n - b o t t o m : 9 . 0 p t ; 
+ 
+ 	 m a r g i n - l e f t : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 9 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 c o l o r : b l a c k ; } 
+ 
+ p . p 5 ,   l i . p 5 ,   d i v . p 5 
+ 
+ 	 { m s o - s t y l e - n a m e : p 5 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m a r g i n - t o p : 0 c m ; 
+ 
+ 	 m a r g i n - r i g h t : 1 3 6 . 9 p t ; 
+ 
+ 	 m a r g i n - b o t t o m : 9 . 0 p t ; 
+ 
+ 	 m a r g i n - l e f t : 0 c m ; 
+ 
+ 	 l i n e - h e i g h t : 1 5 . 5 5 p t ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 1 3 . 5 p t ; 
+ 
+ 	 f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 c o l o r : b l a c k ; } 
+ 
+ p . p 6 ,   l i . p 6 ,   d i v . p 6 
+ 
+ 	 { m s o - s t y l e - n a m e : p 6 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m a r g i n - t o p : 0 c m ; 
+ 
+ 	 m a r g i n - r i g h t : 1 3 6 . 9 p t ; 
+ 
+ 	 m a r g i n - b o t t o m : 8 . 0 5 p t ; 
+ 
+ 	 m a r g i n - l e f t : 0 c m ; 
+ 
+ 	 l i n e - h e i g h t : 1 5 . 5 5 p t ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 1 3 . 5 p t ; 
+ 
+ 	 f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 c o l o r : # 8 1 3 B 5 F ; } 
+ 
+ p . p 7 ,   l i . p 7 ,   d i v . p 7 
+ 
+ 	 { m s o - s t y l e - n a m e : p 7 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m a r g i n - t o p : 0 c m ; 
+ 
+ 	 m a r g i n - r i g h t : 1 3 6 . 9 p t ; 
+ 
+ 	 m a r g i n - b o t t o m : 9 . 0 p t ; 
+ 
+ 	 m a r g i n - l e f t : 0 c m ; 
+ 
+ 	 l i n e - h e i g h t : 1 5 . 5 5 p t ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 1 3 . 5 p t ; 
+ 
+ 	 f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 c o l o r : # 8 1 3 B 5 F ; } 
+ 
+ p . l i 3 ,   l i . l i 3 ,   d i v . l i 3 
+ 
+ 	 { m s o - s t y l e - n a m e : l i 3 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 m a r g i n : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 9 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : T i m e s ; 
+ 
+ 	 m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 m s o - f a r e a s t - t h e m e - f o n t : m i n o r - f a r e a s t ; 
+ 
+ 	 m s o - b i d i - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ 	 c o l o r : b l a c k ; } 
+ 
+ s p a n . s 3 
+ 
+ 	 { m s o - s t y l e - n a m e : s 3 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 c o l o r : b l a c k ; 
+ 
+ 	 b a c k g r o u n d : # F 6 F 6 F 6 ; } 
+ 
+ s p a n . s 4 
+ 
+ 	 { m s o - s t y l e - n a m e : s 4 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 c o l o r : b l a c k ; } 
+ 
+ s p a n . s 5 
+ 
+ 	 { m s o - s t y l e - n a m e : s 5 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 b a c k g r o u n d : # F 6 F 6 F 6 ; 
+ 
+ 	 t e x t - d e c o r a t i o n : u n d e r l i n e ; 
+ 
+ 	 t e x t - u n d e r l i n e : s i n g l e ; } 
+ 
+ s p a n . s 6 
+ 
+ 	 { m s o - s t y l e - n a m e : s 6 ; 
+ 
+ 	 m s o - s t y l e - u n h i d e : n o ; 
+ 
+ 	 t e x t - d e c o r a t i o n : u n d e r l i n e ; 
+ 
+ 	 t e x t - u n d e r l i n e : s i n g l e ; } 
+ 
+ s p a n . S p e l l E 
+ 
+ 	 { m s o - s t y l e - n a m e : " " ; 
+ 
+ 	 m s o - s p l - e : y e s ; } 
+ 
+ s p a n . G r a m E 
+ 
+ 	 { m s o - s t y l e - n a m e : " " ; 
+ 
+ 	 m s o - g r a m - e : y e s ; } 
+ 
+ . M s o C h p D e f a u l t 
+ 
+ 	 { m s o - s t y l e - t y p e : e x p o r t - o n l y ; 
+ 
+ 	 m s o - d e f a u l t - p r o p s : y e s ; 
+ 
+ 	 f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 m s o - b i d i - f o n t - s i z e : 1 0 . 0 p t ; } 
+ 
+ @ p a g e   W o r d S e c t i o n 1 
+ 
+ 	 { s i z e : 5 9 5 . 3 p t   8 4 1 . 9 p t ; 
+ 
+ 	 m a r g i n : 7 2 . 0 p t   7 2 . 0 p t   7 2 . 0 p t   7 2 . 0 p t ; 
+ 
+ 	 m s o - h e a d e r - m a r g i n : 3 5 . 4 p t ; 
+ 
+ 	 m s o - f o o t e r - m a r g i n : 3 5 . 4 p t ; 
+ 
+ 	 m s o - p a p e r - s o u r c e : 0 ; } 
+ 
+ d i v . W o r d S e c t i o n 1 
+ 
+ 	 { p a g e : W o r d S e c t i o n 1 ; } 
+ 
+   / *   L i s t   D e f i n i t i o n s   * / 
+ 
+   @ l i s t   l 0 
+ 
+ 	 { m s o - l i s t - i d : 2 2 6 3 8 4 0 3 3 ; 
+ 
+ 	 m s o - l i s t - t e m p l a t e - i d s : - 7 8 8 7 8 7 4 7 8 ; } 
+ 
+ @ l i s t   l 0 : l e v e l 1 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 3 6 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 2 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 7 2 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 3 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 1 0 8 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 4 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 1 4 4 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 5 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 1 8 0 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 6 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 2 1 6 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 7 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 2 5 2 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 8 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 2 8 8 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 0 : l e v e l 9 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 3 2 4 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 1 
+ 
+ 	 { m s o - l i s t - i d : 6 1 8 0 7 5 8 7 3 ; 
+ 
+ 	 m s o - l i s t - t e m p l a t e - i d s : - 9 9 0 0 7 2 6 8 8 ; } 
+ 
+ @ l i s t   l 1 : l e v e l 1 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 3 6 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 2 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 7 2 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 3 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 1 0 8 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 4 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 1 4 4 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 5 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 1 8 0 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 6 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 2 1 6 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 7 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 2 5 2 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 8 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 2 8 8 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 1 : l e v e l 9 
+ 
+ 	 { m s o - l e v e l - t a b - s t o p : 3 2 4 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; } 
+ 
+ @ l i s t   l 2 
+ 
+ 	 { m s o - l i s t - i d : 1 4 4 5 9 2 7 6 0 9 ; 
+ 
+ 	 m s o - l i s t - t e m p l a t e - i d s : - 3 8 7 7 8 8 0 3 6 ; } 
+ 
+ @ l i s t   l 2 : l e v e l 1 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 3 6 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 2 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 7 2 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 3 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 1 0 8 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 4 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 1 4 4 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 5 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 1 8 0 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 6 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 2 1 6 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 7 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 2 5 2 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 8 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 2 8 8 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ @ l i s t   l 2 : l e v e l 9 
+ 
+ 	 { m s o - l e v e l - n u m b e r - f o r m a t : b u l l e t ; 
+ 
+ 	 m s o - l e v e l - t e x t : ·ð; 
+ 
+ 	 m s o - l e v e l - t a b - s t o p : 3 2 4 . 0 p t ; 
+ 
+ 	 m s o - l e v e l - n u m b e r - p o s i t i o n : l e f t ; 
+ 
+ 	 t e x t - i n d e n t : - 1 8 . 0 p t ; 
+ 
+ 	 m s o - a n s i - f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : S y m b o l ; } 
+ 
+ o l 
+ 
+ 	 { m a r g i n - b o t t o m : 0 c m ; } 
+ 
+ u l 
+ 
+ 	 { m a r g i n - b o t t o m : 0 c m ; } 
+ 
+ - - > 
+ 
+ </ s t y l e > 
+ 
+ <! - - [ i f   g t e   m s o   1 0 ] > 
+ 
+ <s t y l e > 
+ 
+   / *   S t y l e   D e f i n i t i o n s   * / 
+ 
+   t a b l e . M s o N o r m a l T a b l e 
+ 
+ 	 { m s o - s t y l e - n a m e : " T a b l e   N o r m a l " ; 
+ 
+ 	 m s o - t s t y l e - r o w b a n d - s i z e : 0 ; 
+ 
+ 	 m s o - t s t y l e - c o l b a n d - s i z e : 0 ; 
+ 
+ 	 m s o - s t y l e - n o s h o w : y e s ; 
+ 
+ 	 m s o - s t y l e - p r i o r i t y : 9 9 ; 
+ 
+ 	 m s o - s t y l e - p a r e n t : " " ; 
+ 
+ 	 m s o - p a d d i n g - a l t : 0 c m   5 . 4 p t   0 c m   5 . 4 p t ; 
+ 
+ 	 m s o - p a r a - m a r g i n : 0 c m ; 
+ 
+ 	 m s o - p a g i n a t i o n : w i d o w - o r p h a n ; 
+ 
+ 	 f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ 	 f o n t - f a m i l y : " T i m e s   N e w   R o m a n " , s e r i f ; } 
+ 
+ </ s t y l e > 
+ 
+ <! [ e n d i f ] - - > 
+ 
+ <m e t a   h t t p - e q u i v = C o n t e n t - S t y l e - T y p e   c o n t e n t = " t e x t / c s s " > 
+ 
+ <m e t a   n a m e = C o c o a V e r s i o n   c o n t e n t = 2 0 2 2 . 6 > 
+ 
+ </ h e a d > 
+ 
+ 
+ 
+ <b o d y   l a n g = e n - P K   l i n k = b l u e   v l i n k = p u r p l e   s t y l e = ' t a b - i n t e r v a l : 3 6 . 0 p t ; w o r d - w r a p : 
+ 
+ b r e a k - w o r d ' > 
+ 
+ 
+ 
+ <d i v   c l a s s = W o r d S e c t i o n 1 > 
+ 
+ 
+ 
+ <h 2   a l i g n = c e n t e r   s t y l e = ' m a r g i n - t o p : 0 c m ; m a r g i n - r i g h t : 0 c m ; m a r g i n - b o t t o m : 1 1 . 2 p t ; 
+ 
+ m a r g i n - l e f t : 0 c m ; t e x t - a l i g n : c e n t e r ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 3 . 5 p t ; 
+ 
+ f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; c o l o r : b l a c k ' > P R I V A C Y 
+ 
+ P O L I C Y </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 3 . 5 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : 
+ 
+ " T i m e s   N e w   R o m a n " ; c o l o r : b l a c k ' > <o : p > </ o : p > </ s p a n > </ h 2 > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e   w i l l   s t r i c t l y   c o m p l y   w i t h   a l l   r e l e v a n t   l e g i s l a t i v e 
+ 
+ r e q u i r e m e n t s ,   a n d ,   i n   t h e   e v e n t   o f   a n y   i n c o n s i s t e n c y ,   t h e   l e g i s l a t i v e 
+ 
+ r e q u i r e m e n t s   w i l l   o v e r r i d e   t h e   p r o v i s i o n s   o f   t h i s   d o c u m e n t .   W e   r e s e r v e   t h e 
+ 
+ r i g h t   t o   a m e n d   o u r   P r i v a c y   P o l i c y   a t   a n y   t i m e   w i t h o u t   n o t i c e   t o   y o u ,   a n d   s u c h 
+ 
+ a m e n d m e n t s   w i l l   t a k e   e f f e c t   f r o m   t h e   d a t e   o f   i s s u e   o n   o u r   w e b s i t e .   I f   y o u   a r e   a 
+ 
+ m i n o r   a t   l a w   ( w h i c h   u s u a l l y   m e a n s   y o u   a r e   a g e d   u n d e r   1 8   i n   c o u n t r i e s   i n c l u d i n g 
+ 
+ A u s t r a l i a   a n d   t h e   U n i t e d   S t a t e s ,   t h o u g h   t h i s   a g e   m a y   v a r y   d e p e n d i n g   o n   w h e r e 
+ 
+ y o u   a r e   l o c a t e d ) ,   y o u   m u s t   g e t   y o u r   p a r e n t   o r   g u a r d i a n  s   p e r m i s s i o n   b e f o r e 
+ 
+ p r o v i d i n g   u s   w i t h   a n y   p e r s o n a l   i n f o r m a t i o n .   W e   m a y   c o l l e c t   N o n - P e r s o n a l   I n f o r m a t i o n , 
+ 
+ s u c h   a s   a   d e v i c e   I D   o r   o t h e r   p e r s i s t e n t   i d e n t i f i e r   l i n k e d   t o   t h e   d e v i c e   o r 
+ 
+ c o m p u t e r ,   w h i c h   m a y   b e   u s e d   b y   a   c h i l d   t o   p l a y   o u r   W e b s i t e s / A p p s . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > C o l l e c t i o n 
+ 
+ o f   I n f o r m a t i o n : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e   m a y   c o l l e c t   i n f o r m a t i o n   t o   i m p r o v e   u s e r 
+ 
+ e x p e r i e n c e .   P l e a s e   r e a d   t y p e s   o f   i n f o r m a t i o n   b e l o w . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > N o n - I d e n t i f i a b l e   & a m p ;   A n o n y m o u s 
+ 
+ I n f o r m a t i o n   /   N o n   P e r s o n a l   I n f o r m a t i o n . </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e   a r e   n o t   a w a r e   o f   t h e   u n i q u e n e s s   o f   t h e   U s e r   f r o m 
+ 
+ w h o m   w e   h a v e   c o l l e c t e d   t h e   N o n - P e r s o n a l   I n f o r m a t i o n . & n b s p ; N o n - P e r s o n a l 
+ 
+ I n f o r m a t i o n   i s   a n y   o p e n   i n f o r m a t i o n   w h i c h   d o e s   n o t   e n a b l e   i d e n t i f i c a t i o n   o f   a n 
+ 
+ i n d i v i d u a l   U s e r ,   a n d   w h i c h   i s   a v a i l a b l e   t o   u s   w h i l e   s u c h   U s e r   i s   e n t e r i n g   i n t o 
+ 
+ a n d / o r   u s i n g   t h e   S i t e / A p p / G a m e .   N o n - p e r s o n a l   I n f o r m a t i o n   w h i c h   i s   b e i n g 
+ 
+ g a t h e r e d   c o n s i s t s   o f   t e c h n i c a l   i n f o r m a t i o n ,   b e h a v i o r a l   i n f o r m a t i o n   a n d   a g g r e g a t e d 
+ 
+ i n f o r m a t i o n ,   a n d   m a y   c o n t a i n ,   a m o n g   o t h e r   t h i n g s ,   t h e   a c t i v i t y   o f   t h e   U s e r   o n 
+ 
+ t h e   S i t e / A p p / G a m e ,   t y p e   o f   o p e r a t i n g   s y s t e m ,   U s e r  s    c l i c k - s t r e a m    o r   s e a r c h e s 
+ 
+ o n   t h e   S i t e ,   t y p e   a n d   v e r s i o n   o f   b r o w s e r ,   k e y b o a r d   l a n g u a g e ,   s c r e e n   r e s o l u t i o n , 
+ 
+ e t c . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > P e r s o n a l l y   I d e n t i f i a b l e   I n f o r m a t i o n 
+ 
+ /   P e r s o n a l   I n f o r m a t i o n . </ s p a n > </ b > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > T h i s   i n f o r m a t i o n   m a y   i d e n t i f y   a n   i n d i v i d u a l   o r   m a y   b e 
+ 
+ o f   a   p r i v a t e   a n d / o r   s e n s i t i v e   n a t u r e . & n b s p ; U s e r s   o f   t h e   S i t e / A p p / G a m e 
+ 
+ a u t o m a t i c a l l y   p r o v i d e   t h e i r   I P   a d d r e s s   ( o r   M a c   A d d r e s s )   m a i n l y   f o r   e n h a n c i n g 
+ 
+ t h e   U s e r  s   e x p e r i e n c e   a n d   f o r   G e o - l o c a t i o n   a n d   s e c u r i t y   p u r p o s e s   a s   f u r t h e r 
+ 
+ d e t a i l e d   b e l o w .   I n   a d d i t i o n ,   P e r s o n a l   I n f o r m a t i o n   w h i c h   i s   b e i n g   g a t h e r e d 
+ 
+ c o n s i s t s   o f   a n y   p e r s o n a l   d e t a i l s   p r o v i d e d   c o n s c i o u s l y   a n d   v o l u n t a r i l y   b y   t h e 
+ 
+ U s e r .   W e   d o   n o t   c o l l e c t   a n y   P e r s o n a l   I n f o r m a t i o n   f r o m   y o u   o r   r e l a t e d   t o   y o u 
+ 
+ w i t h o u t   y o u r   a p p r o v a l ,   w h i c h   i s   o b t a i n e d ,   t h r o u g h   y o u r   a c t i v e   a c c e p t a n c e   t o   t h e 
+ 
+ T e r m s   a n d   t h e   P r i v a c y   P o l i c y   a n d   f r o m   C o n s e n t   D i a l o g   f r o m   w i t h i n   A p p / G a m e . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e 
+ 
+ m a y   a l s o   c o l l e c t   f o l l o w i n g   i n f o r m a t i o n </ s p a n > </ b > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 0   l e v e l 1   l f o 2 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > I P   a d d r e s s ;   C o u n t r y   c o d e ; </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 0   l e v e l 1   l f o 2 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > I D F A s ,   I D F V s ,   A d v e r t i s i n g   I D s ; </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 0   l e v e l 1   l f o 2 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > L a n g u a g e ;   L o c a l e   ( s p e c i f i c   l o c a t i o n 
+ 
+ w h e r e   a   g i v e n   l a n g u a g e   i s   s p o k e n ) ; </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 0   l e v e l 1   l f o 2 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > T i m e   z o n e ,   s e s s i o n   s t a r t / s t o p   t i m e , </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 0   l e v e l 1   l f o 2 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > N e t w o r k   s t a t u s   ( W i - F i ,   e t c . ) , 
+ 
+ b r o w s e r   p l u g - i n   t y p e s   a n d   v e r s i o n s ; </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 0   l e v e l 1   l f o 2 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > U s e r   a g e n t   s t r i n g   ( U A ) ,   p l a t f o r m , 
+ 
+ S D K   v e r s i o n ,   t i m e s t a m p ; </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : 
+ 
+ " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 0   l e v e l 1   l f o 2 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > T e c h n i c a l   d e v i c e   i n f o r m a t i o n   ( e . g . 
+ 
+ d e v i c e   m o d e l   a n d   n a m e ,   o p e r a t i n g   s y s t e m   n a m e   a n d   v e r s i o n ,   C P U   i n f o r m a t i o n , 
+ 
+ s t o r a g e   s i z e ,   s c r e e n   s i z e ,   f i r m w a r e ,   s o f t w a r e ,   m o b i l e   p h o n e   c a r r i e r ,   I n t e r n e t 
+ 
+ s e r v i c e   p r o v i d e r ,   A P I   k e y   i d e n t i f i e r   f o r   a p p l i c a t i o n ,   I n t e r n a t i o n a l   M o b i l e 
+ 
+ E q u i p m e n t   I d e n t i t y   ( I M E I )   o n   A n d r o i d ,   A n d r o i d   I D ,   A n d r o i d   S e r i a l   N o ) ; </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > <o : p > & n b s p ; </ o : p > </ s p a n > </ b > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > H o w 
+ 
+ I n f o r m a t i o n   i s   C o l l e c t e d : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > I n f o r m a t i o n   c a n   b e   c o l l e c t e d 
+ 
+ a u t o m a t i c a l l y   a n d   P r o g r a m m a t i c a l l y </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 1   l e v e l 1   l f o 4 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : T i m e s ; m s o - b i d i - f o n t - f a m i l y : T i m e s ' > <s p a n 
+ 
+ s t y l e = ' m s o - l i s t : I g n o r e ' > 1 . <s p a n   s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; 
+ 
+ </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n   d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > W h e n 
+ 
+ y o u   a r e   b r o w s i n g   o u r   S i t e </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 1   l e v e l 1   l f o 4 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : T i m e s ; m s o - b i d i - f o n t - f a m i l y : T i m e s ' > <s p a n 
+ 
+ s t y l e = ' m s o - l i s t : I g n o r e ' > 2 . <s p a n   s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; 
+ 
+ </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n   d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > W h e n 
+ 
+ y o u   a r e   U s i n g / P l a y i n g   o u r   A p p / G a m e </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 1   l e v e l 1   l f o 4 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : T i m e s ; m s o - b i d i - f o n t - f a m i l y : T i m e s ' > <s p a n 
+ 
+ s t y l e = ' m s o - l i s t : I g n o r e ' > 3 . <s p a n   s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; 
+ 
+ </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n   d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > W h e n 
+ 
+ y o u   c o n t a c t   u s   t h r o u g h   E m a i l / F a c e b o o k   a n d / o r   o t h e r   S u p p o r t   C h a n n e l s </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > <o : p > & n b s p ; </ o : p > </ s p a n > </ b > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > P u r p o s e 
+ 
+ o f   I n f o r m a t i o n   C o l l e c t i o n </ s p a n > </ b > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > N o n   P e r s o n a l   I n f o r m a t i o n   i s   u s e d   f o r 
+ 
+ s t a t i s t i c a l   a n d   r e s e a r c h   p u r p o s e s   a n d   f o r   c u s t o m i z a t i o n   a n d   i m p r o v e m e n t   o f 
+ 
+ o u r & n b s p ; <b > S i t e / A p p / G a m e </ b > </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > P e r s o n a l   I n f o r m a t i o n   i s   u s e d   t o   b e 
+ 
+ a b l e   t o   R e p l y   y o u   w h e n   y o u   c o n t a c t   t h r o u g h   s u p p o r t   c h a n n e l s ( F a c e b o o k / E m a i l ) </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > P e r s o n a l   I n f o r m a t i o n   l i k e 
+ 
+ L o c a t i o n / I P   i s   u s e d   t o   s h o w   y o u   A d s   a c c o r d i n g   t o   y o u r   l o c a t i o n ,   t h i s   i s   c a l l e d 
+ 
+ c o n t e x t u a l   a d v e r t i s e m e n t . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > W e   u s e   t h e   i n f o r m a t i o n   w e   c o l l e c t 
+ 
+ a b o u t   y o u / y o u r   d e v i c e   t o   d e l i v e r   s e r v i c e s   t o   y o u   a n d   t o   o p e r a t e   o u r   b u s i n e s s . 
+ 
+ S u c h   u s e   b y   u s   a n d   b y   o u r   P a r t n e r s   m a y   i n c l u d e : </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : 
+ 
+ T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > D e l i v e r i n g   O u r   S e r v i c e s : </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : 
+ 
+ " T i m e s   N e w   R o m a n " ' > D e v e l o p i n g ,   d e l i v e r i n g   a n d   i m p r o v i n g   o u r   p r o d u c t s ,   s e r v i c e s , 
+ 
+ a n d   c o n t e n t ,   t a i l o r i n g   o u r   p r o d u c t s   a n d   s e r v i c e s ,   p r o v i d i n g   s o f t w a r e   u p d a t e s 
+ 
+ a n d   p r o d u c t   s u p p o r t ,   u n d e r s t a n d i n g   a n d   a n a l y z i n g   t r e n d s   i n   c o n n e c t i o n   w i t h 
+ 
+ u s a g e   o f   t h e   A p p s ,   a d m i n i s t e r i n g   t h e   A p p s ,   a n d   c u s t o m e r   c o m m u n i c a t i o n s . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : 
+ 
+ T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > D i s p l a y i n g   A d v e r t i s e m e n t s : </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : 
+ 
+ " T i m e s   N e w   R o m a n " ' > D i s p l a y i n g   t h i r d   p a r t y   a d v e r t i s e m e n t s   i n   o u r   A p p s   a n d 
+ 
+ s h o w i n g   a d v e r t i s e m e n t s   f o r   o u r   A p p s   i n   o t h e r   p u b l i s h e r  s   a p p s . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : 
+ 
+ T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > C r o s s - p r o m o t i o n : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : 
+ 
+ " T i m e s   N e w   R o m a n " ' > C r o s s   P r o m o t i n g   o u r   A p p s   a n d   s e r v i c e s ,   m e a n i n g   w e   m a y 
+ 
+ p r o m o t e   o n e   o f   o u r   A p p s   w h i l e   y o u   a r e   p l a y i n g   a   d i f f e r e n t   A p p   o f   o u r s . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = l i 3   s t y l e = ' m a r g i n - l e f t : 3 6 . 0 p t ; t e x t - i n d e n t : - 1 8 . 0 p t ; m s o - l i s t : l 2   l e v e l 1   l f o 6 ; 
+ 
+ t a b - s t o p s : l i s t   3 6 . 0 p t ' > <! [ i f   ! s u p p o r t L i s t s ] > <s p a n   s t y l e = ' f o n t - s i z e : 1 0 . 0 p t ; 
+ 
+ m s o - b i d i - f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : S y m b o l ; m s o - f a r e a s t - f o n t - f a m i l y : S y m b o l ; 
+ 
+ m s o - b i d i - f o n t - f a m i l y : S y m b o l ' > <s p a n   s t y l e = ' m s o - l i s t : I g n o r e ' > · <s p a n 
+ 
+ s t y l e = ' f o n t : 7 . 0 p t   " T i m e s   N e w   R o m a n " ' > & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ; & n b s p ;   </ s p a n > </ s p a n > </ s p a n > <! [ e n d i f ] > <s p a n 
+ 
+ d i r = L T R > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : 
+ 
+ T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > A n a l y t i c s   a n d   R e s e a r c h </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : 
+ 
+ " T i m e s   N e w   R o m a n " ' > : & n b s p ; </ s p a n > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   l a n g = E N - U S 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ; 
+ 
+ m s o - a n s i - l a n g u a g e : E N - U S ' > U </ s p a n > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - f a r e a s t - f o n t - f a m i l y : " T i m e s   N e w   R o m a n " ' > n d e r s t a n d i n g 
+ 
+ a n d   a n a l y z i n g   t r e n d s   i n   c o n n e c t i o n   w i t h   t h e   u s a g e   o f   t h e   A p p s ,   g a t h e r i n g 
+ 
+ d e m o g r a p h i c   i n f o r m a t i o n   a b o u t   o u r   u s e r   b a s e ,   d a t a   a b o u t   w h e r e   t h e   A p p   w a s 
+ 
+ d o w n l o a d e d   f r o m .   W e   m a y   a l s o   c r e a t e   r e p o r t s   a n d   a n a l y s i s   f o r   t h e   p u r p o s e s   o f 
+ 
+ r e s e a r c h   o r   b u s i n e s s   i n t e l l i g e n c e ,   f o r   e x a m p l e   t o   t r a c k   p o t e n t i a l   p r o b l e m s   o r 
+ 
+ t r e n d s   w i t h   o u r   A p p s   a n d   s e r v i c e s ,   o r   t o   t e s t   o u r   n e w   g a m e   f e a t u r e s   a n d 
+ 
+ c o n t e n t .   W e   u s e   t h e   d a t a   w e   r e c e i v e   f r o m   T h i r d   P a r t y   S o c i a l   N e t w o r k   o n l y   f o r 
+ 
+ i n t e r n a l   a n a l y t i c s .   F o r   o p t i n g   o u t   f r o m   a n a l y t i c s   p l e a s e   v i s i t   O p t - O u t   S e c t i o n 
+ 
+ o f   t h i s   P r i v a c y   P o l i c y . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - f a r e a s t - f o n t - f a m i l y : 
+ 
+ " T i m e s   N e w   R o m a n " ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > <o : p > & n b s p ; </ o : p > </ s p a n > </ b > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <b > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > U s e   a n d   D i s c l o s u r e   o f 
+ 
+ I n f o r m a t i o n : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ f o n t - f a m i l y : T i m e s ' > I n   g e n e r a l ,   w e   w i l l   n o t   u s e   o r   d i s c l o s e   p e r s o n a l   i n f o r m a t i o n 
+ 
+ a b o u t   y o u   o t h e r w i s e   t h a n   f o r   t h e   p u r p o s e   o f   p r o v i d i n g   o r   o f f e r i n g   g o o d s   a n d 
+ 
+ s e r v i c e s   t o   y o u ,   f o r   a n y   o t h e r   p u r p o s e   t h a t   y o u   m a y   r e a s o n a b l y   e x p e c t ,   f o r   a n y 
+ 
+ o t h e r   p u r p o s e   a u t h o r i z e d   b y   l a w ,   o r   f o r   a n y   o t h e r   p u r p o s e s   d i s c l o s e d   t o   o r 
+ 
+ a u t h o r i z e d   b y   y o u .   T h i s   m a y   i n c l u d e   d i s c l o s u r e s   t o   o r g a n i z a t i o n s   t h a t   p r o v i d e 
+ 
+ u s   w i t h   p r o f e s s i o n a l   a d v i c e ,   s u c h   a s   s o l i c i t o r s ,   a c c o u n t a n t s   a n d   b u s i n e s s 
+ 
+ a d v i s o r s . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > I t   m a y   b e   n e c e s s a r y   f o r   t h e   i n f o r m a t i o n   t o   b e 
+ 
+ d i s c l o s e d   t o   o t h e r   o r g a n i z a t i o n s   i n   t h e   c o u r s e   o f   o u r   p r o v i s i o n   o f   s e r v i c e s ,   o r 
+ 
+ f o r   t h e   c o n d u c t   o f   o u r   b u s i n e s s .   T h e s e   o t h e r   o r g a n i z a t i o n s   m a y   i n c l u d e   o t h e r 
+ 
+ p a r t i e s   i n v o l v e d   i n   t h e   p r o v i s i o n   o f   s e r v i c e s   t o   y o u ,   o u r   b u s i n e s s   p a r t n e r s 
+ 
+ i n v o l v e d   i n   t h e   s o f t w a r e ,   a p p l i c a t i o n s   a n d / o r   s e r v i c e s   w e   p r o v i d e   t o   y o u ,   a n d 
+ 
+ o t h e r   o r g a n i z a t i o n s   p r o v i d i n g   s e r v i c e s   t o   u s ,   s u c h   a s   p a y m e n t   p r o c e s s o r s   o r 
+ 
+ h o s t i n g   s e r v i c e s .   W e   d i r e c t   a l l   s u c h   o r g a n i z a t i o n s   t o   m a i n t a i n   t h e 
+ 
+ c o n f i d e n t i a l i t y   o f   t h e   i n f o r m a t i o n   d i s c l o s e d   t o   t h e m   a n d   t o   n o t   u s e   y o u r 
+ 
+ i n f o r m a t i o n   f o r   a n y   p u r p o s e   o t h e r   t h a n   t o   p r o v i d e   s e r v i c e s   o n   o u r   b e h a l f   o r   t o 
+ 
+ u s . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e   m a y   u s e   y o u r   p e r s o n a l   i n f o r m a t i o n   t o   p r o v i d e   y o u 
+ 
+ w i t h   a n y   g o o d s ,   s e r v i c e s ,   o r   f u n c t i o n a l i t y   y o u   h a v e   r e q u e s t e d ;   t o   r e s p o n d   t o 
+ 
+ a n y   i n q u i r i e s   y o u   h a v e   m a d e   t h r o u g h   o u r   c u s t o m e r   s e r v i c e   f e a t u r e s ,   t o   s e n d   y o u 
+ 
+ n e w s l e t t e r s ,   p r o m o t i o n s   o r   m a r k e t i n g   m a t e r i a l s .   W e   w i l l   p r o v i d e   y o u   w i t h   t h e 
+ 
+ o p p o r t u n i t y   t o   o p t   o u t   o f   r e c e i v i n g   s u c h   m a t e r i a l s   i n   t h e   f u t u r e .   Y o u   m a y   a l s o 
+ 
+ o p t   o u t   o f   r e c e i v i n g   s u c h   m a t e r i a l s   a t   a n y   t i m e   i n   a c c o r d a n c e   w i t h   t h e 
+ 
+ i n s t r u c t i o n s   p r o v i d e d   i n   t h i s   P r i v a c y   P o l i c y . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > N o n - P e r s o n a l   I n f o r m a t i o n   m a y   b e   u s e d   b y   u s   f o r 
+ 
+ a d m i n i s t r a t i v e ,   a n a l y t i c a l ,   s t a t i s t i c s   c o m p i l a t i o n ,   r e s e a r c h ,   o p t i m i z a t i o n , 
+ 
+ s e c u r i t y   a n d   o t h e r   p u r p o s e s .   S p e c i f i c a l l y ,   w e   m a y   u s e   y o u r   N o n - P e r s o n a l 
+ 
+ I n f o r m a t i o n   t o   r e s p o n d   t o   c u s t o m e r   s e r v i c e   i n q u i r i e s   a n d   t o   p r o t e c t   a g a i n s t 
+ 
+ c h e a t i n g ,   c r i m e   o r   f r a u d   o r   f o r   o t h e r   s e c u r i t y   r e a s o n s   a n d   f o r   p r o v i d i n g   y o u 
+ 
+ a d v e r t i s i n g   t h a t   b e t t e r   s u i t s   y o u r   i n t e r e s t s .   W e   m a y   c o l l e c t   y o u r   N o n - P e r s o n a l 
+ 
+ i n f o r m a t i o n   t o   t r a c k   y o u r   u s e   o f   o u r   W e b s i t e s / A p p s   t o   h e l p   u s   l e a r n   m o r e   a b o u t 
+ 
+ y o u r   g a m i n g   a c t i v i t i e s   a n d   u n d e r s t a n d   y o u r   p r e f e r e n c e s   a n d   t e n d e n c i e s   s o   t h a t 
+ 
+ w e   c a n   p e r s o n a l i z e   y o u r   e x p e r i e n c e ,   p r o v i d e   y o u   w i t h   i n - g a m e   o f f e r s   a n d 
+ 
+ n o t i f i c a t i o n s   t h a t   a r e   t a i l o r e d   t o   y o u ,   a n d   o t h e r w i s e   e n h a n c e   y o u r   g a m i n g 
+ 
+ e x p e r i e n c e . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e   m a y   p r o v i d e   a g g r e g a t e d   o r   a n o n y m o u s   i n f o r m a t i o n   t o 
+ 
+ t h i r d   p a r t i e s   f o r   t h e   p u r p o s e s   o f   d e v e l o p i n g   a n d   d e l i v e r i n g   t a r g e t e d 
+ 
+ a d v e r t i s i n g .   W e   w i l l   n o t   s h a r e   y o u r   p e r s o n a l   i n f o r m a t i o n   w i t h   s u c h   t h i r d 
+ 
+ p a r t i e s   w i t h o u t   y o u r   c o n s e n t . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e   m a y   u s e   i n f o r m a t i o n   h e l d   a b o u t   y o u   t o   v e r i f y   y o u r 
+ 
+ c o m p l i a n c e   w i t h   a n y   t e r m s   a n d   c o n d i t i o n s   t h a t   m a y   a p p l y   t o   t h e   u s e   o f   o u r 
+ 
+ s o f t w a r e ,   a p p l i c a t i o n s   a n d / o r   s e r v i c e s . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > A n y   p e r s o n a l   i n f o r m a t i o n   s u b m i t t e d   t o   u s   o n l i n e , 
+ 
+ i n c l u d i n g   v i a   t h e   s o f t w a r e   a n d / o r   s e r v i c e s ,   m a y   n e e d   t o   b e   p r o c e s s e d   b y   a   t h i r d 
+ 
+ p a r t y .   B y   s u b m i t t i n g   p e r s o n a l   i n f o r m a t i o n   o n l i n e   o r   v i a   t h e   s o f t w a r e   a n d / o r 
+ 
+ s e r v i c e s ,   y o u   c o n s e n t   t o   t h e   d i s c l o s u r e   o f   t h a t   i n f o r m a t i o n   t o   a   t h i r d   p a r t y , 
+ 
+ w h o   m a y   b e   l o c a t e d   o v e r s e a s ,   f o r   t h e   s o l e   p u r p o s e   o f   p r o c e s s i n g   t h e   s u b m i t t e d 
+ 
+ i n f o r m a t i o n . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > B e l o w   a r e   p r o v i d e r   n a m e s   o f   s o m e   o f   t h e   t h i r d   p a r t y 
+ 
+ a n a l y t i c s   a n d   a d v e r t i s i n g   s e r v i c e s   w e   u s e . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <s p a n   c l a s s = s 1 > <b > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > C o n s e n t : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > B y   C o n n e c t i n g , 
+ 
+ E n t e r i n g ,   A c c e s s i n g   o r   U s i n g   o u r   A p p s / W e b   y o u   a g r e e   t o   P r i v a c y   P o l i c y   a n d   i t 
+ 
+ a l s o   m e a n s   t h a t   y o u   h a v e   r e a d   c a r e f u l l y   a b o u t   t h e   c o l l e c t i o n   a n d   u s e   o f   y o u r 
+ 
+ p e r s o n a l   a n d   n o n - p e r s o n a l   i n f o r m a t i o n   t h r o u g h   o u r   a p p s   a n d   w e b s i t e   a n d   s u p p o r t 
+ 
+ c h a n n e l s .   & n b s p ; T o   o p t   o u t ,   p l e a s e   s t o p   u s i n g   o u r   W E B   a n d   f o r   A p p s   a n d   G a m e s 
+ 
+ y o u   c a n   O p t   O u t   f r o m   w i t h i n   t h e   a p p / g a m e   f r o m   P r i v a c y   C o n t r o l s . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ' > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <b r > 
+ 
+ <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - f a m i l y : T i m e s ' > A d v e r t i s i n g : & n b s p ; </ s p a n > </ s p a n > </ s p a n > </ b > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > B y   u s i n g   o u r 
+ 
+ W e b s i t e / A p p s ,   y o u   m a y   b e   o f f e r e d   a d v e r t i s i n g   c o n t e n t .   W e   o r   t h e   a d   n e t w o r k s   w e 
+ 
+ u s e   m a y   u t i l i z e   a d - s e r v i n g   t e c h n o l o g i e s   t h a t   u s e   c o o k i e s ,   b e a c o n s ,   t r a c k i n g 
+ 
+ p i x e l s   a n d   o t h e r   t e c h n o l o g i e s   t h a t   a r e   p l a c e d   w i t h i n   t h e   a d s   a n d   a l l o w   u s   o r 
+ 
+ o u r   n e t w o r k s   t o   c o l l e c t   N o n - P e r s o n a l   I n f o r m a t i o n .   N o n - P e r s o n a l   I n f o r m a t i o n   s u c h 
+ 
+ a s   a g e   a n d   g e n d e r   m a y   b e   u s e d   t o   e n s u r e   t h a t   a p p r o p r i a t e   a d v e r t i s i n g   i s   o f f e r e d 
+ 
+ t o   y o u .   U s a g e   D a t a   a n d   N o n - P e r s o n a l   I n f o r m a t i o n   s u c h   a s   a d v e r t i s i n g   i d e n t i f i e r s 
+ 
+ m a y   b e   u s e d   t o   d e t e r m i n e   h o w   m a n y   c l i c k s   a n   a d   r e c e i v e d ,   t o   m e a s u r e   t h e 
+ 
+ e f f e c t i v e n e s s   o f   a d   c a m p a i g n s ,   t o   d e t e r m i n e   t h e   p r o p e r   a m o u n t   o f   r e p e a t   v i e w s 
+ 
+ o f   a   g i v e n   a d ,   a n d / o r   t o   d e l i v e r   a d s   t h a t   b e s t   r e l a t e   t o   y o u r   i n t e r e s t s . 
+ 
+ D e p e n d i n g   o n   y o u r   d e v i c e   a n d   i t s   o p e r a t i n g   s y s t e m ,   y o u   m a y   b e   a b l e   t o   c h o o s e   t o 
+ 
+ p r e v e n t   y o u r   d e v i c e  s   a d   i d e n t i f i e r   b e i n g   u s e d   f o r   i n t e r e s t - b a s e d   a d v e r t i s i n g 
+ 
+ o r   r e s e t   y o u r   d e v i c e  s   a d   i d e n t i f i e r   b y   c h a n g i n g   t h e   s e t t i n g s   o f   y o u r   d e v i c e . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > T r a n s f e r 
+ 
+ o f   I n f o r m a t i o n   O v e r s e a s : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > Y o u   e x p r e s s l y   a g r e e   t h a t   w e   m a y 
+ 
+ t r a n s f e r   a n d   s t o r e   y o u r   i n f o r m a t i o n   o n   s e r v e r s   a n d   e q u i p m e n t   l o c a t e d   i n   a n y 
+ 
+ t e r r i t o r y ,   i n c l u d i n g ,   w i t h o u t   l i m i t a t i o n ,   A u s t r a l i a   a n d   t h e   U n i t e d   S t a t e s   o f 
+ 
+ A m e r i c a   e t c . </ s p a n > </ s p a n > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > S e c u r i t y : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > W e   a r e   c o m m i t t e d   t o 
+ 
+ e n s u r i n g   t h a t   y o u r   i n f o r m a t i o n   i s   s e c u r e .   I n   o r d e r   t o   p r e v e n t   a n y   m i s u s e , 
+ 
+ t h e f t ,   l o s s ,   a l t e r a t i o n ,   d e s t r u c t i o n ,   u n a u t h o r i z e d   a c c e s s   o r   d i s c l o s u r e   w e   h a v e 
+ 
+ p u t   i n   p l a c e   s u i t a b l e   p h y s i c a l ,   e l e c t r o n i c   a n d   m a n a g e r i a l   p r o c e d u r e s   t o 
+ 
+ s a f e g u a r d   a n d   s e c u r e   t h e   i n f o r m a t i o n   w e   c o l l e c t   o n l i n e . </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > L i n k s 
+ 
+ t o   O t h e r   W e b s i t e s / A p p s / G a m e s : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > O u r   g a m e   m a y   c o n t a i n   a d v e r t i s i n g   a n d 
+ 
+ l i n k s   t o   o t h e r   w e b s i t e s   o f   i n t e r e s t .   H o w e v e r ,   o n c e   y o u   h a v e   u s e d   t h e s e   l i n k s   t o 
+ 
+ l e a v e   o u r   s i t e ,   y o u   s h o u l d   n o t e   t h a t   w e   d o   n o t   h a v e   a n y   c o n t r o l   o v e r   t h a t   o t h e r 
+ 
+ w e b s i t e .   T h e r e f o r e ,   w e   c a n n o t   b e   r e s p o n s i b l e   f o r   t h e   p r o t e c t i o n   a n d   p r i v a c y   o f 
+ 
+ a n y   i n f o r m a t i o n ,   w h i c h   y o u   p r o v i d e   w h i l s t   v i s i t i n g   s u c h   s i t e s   a n d   t h i s   p r i v a c y 
+ 
+ s t a t e m e n t   d o e s   n o t   g o v e r n   s u c h   s i t e s .   Y o u   s h o u l d   e x e r c i s e   c a u t i o n   a n d   l o o k   a t 
+ 
+ t h e   p r i v a c y   s t a t e m e n t   a p p l i c a b l e   t o   t h e   w e b s i t e   i n   q u e s t i o n . <o : p > </ o : p > </ s p a n > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ; t e x t - j u s t i f y : k a s h i d a ; t e x t - k a s h i d a : 0 % ' > <s p a n 
+ 
+ c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > K i d s   A p p s   P r i v a c y 
+ 
+ P o l i c y :   </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ f o n t - f a m i l y : T i m e s ' > T h i s   K i d s   A p p s   P r i v a c y   P o l i c y   i s   a p p o i n t e d   t o   p r o v i d e   t h e 
+ 
+ l e g a l   g u a r d i a n   o f   a   c h i l d   u n d e r   t h e   a g e   o f   1 3   w i t h   g u i d a n c e   r e g a r d i n g   o u r 
+ 
+ p r i v a c y   p o l i c i e s   t h a t   c o n c e r n   c o l l e c t i n g ,   u s i n g   a n d   d i s c l o s i n g   p e r s o n a l 
+ 
+ i n f o r m a t i o n   o f   c h i l d r e n   u n d e r   1 3 .   P a r e n t s   a n d   l e g a l   g u a r d i a n s   o f   c h i l d r e n   u n d e r 
+ 
+ 1 3   h a v e   c e r t a i n   r i g h t s   u n d e r   C h i l d r e n  s   O n l i n e   P r i v a c y   P r o t e c t i o n   A c t   o f   1 9 9 8 
+ 
+ ( C O P P A ,   h t t p : / / w w w . c o p p a . o r g / c o p p a . h t m l ) .   W e   d o   n o t   k n o w i n g l y   a n d   d i r e c t l y 
+ 
+ c o l l e c t   a n d   s t o r e   o n   i t s   s e r v e r s   a n y   p e r s o n a l   i n f o r m a t i o n   f r o m   c h i l d r e n   u n d e r 
+ 
+ t h e   a g e   1 3   a s   t h a t   w o u l d   b e   a   v i o l a t i o n   o f   C O P P A .   S o m e   i n f o r m a t i o n   m a y   b e 
+ 
+ c o l l e c t e d   b y   t h i r d   p a r t y   p r o v i d e r s   o f   s e r v i c e s   ( a d v e r t i s i n g   n e t w o r k s ,   e t c . )   o r 
+ 
+ c e r t a i n   p r o d u c t s . <o : p > </ o : p > </ s p a n > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2   s t y l e = ' t e x t - a l i g n : j u s t i f y ; t e x t - j u s t i f y : k a s h i d a ; t e x t - k a s h i d a : 0 % ' > <b > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - a n s i - l a n g u a g e : E N - U S ' > G D P R   & a m p ;   C C P A 
+ 
+ C o m p l i a n c e :   </ s p a n > </ b > <s p a n   l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - a n s i - l a n g u a g e : 
+ 
+ E N - U S ' > W h i l e   p l a y i n g   t h e   g a m e s   y o u   w i l l   b e   a s k e d   t o   g i v e   u s   t h e   c o n s e n t   f o r 
+ 
+ s h o w i n g   y o u   p e r s o n a l i z e d   a d s   a n d   e n h a n c e   y o u r   e x p e r i e n c e   u s i n g   y o u r   I P   a d d r e s s 
+ 
+ a n d   o t h e r   i d e n t i f i e r s .   I f   y o u   d o   n o t   g i v e   u s   t h e   c o n s e n t ,   y o u r   i n f o r m a t i o n   w i l l 
+ 
+ b e   p r o c e s s e d   w h i c h   e v e n t u a l l y   m a y   l e a d   t o   p o o r   u s e r   e x p e r i e n c e .   <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 2 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <b r > 
+ 
+ <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - f a m i l y : T i m e s ' > D e l e t i o n   o f   I n f o r m a t i o n : & n b s p ; </ s p a n > </ s p a n > </ s p a n > </ b > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > I n f o r m a t i o n   w h e n   n o t 
+ 
+ n e e d e d   w i l l   b e   d e l e t e d   b y   u s   a n d   w e   w i l l   a l s o   m a k e   s u r e   t h a t   i n f o r m a t i o n   w h e n 
+ 
+ n o t   r e q u i r e d   i s   d e l e t e d   b y   o u r   3 r d   P a r t y   P a r t n e r s .   I f   y o u   w i s h   t o   d e l e t e   y o u r 
+ 
+ i n f o r m a t i o n   y o u   c a n   s e n d   u s   r e q u e s t   t o   d e l e t e   y o u r   i n f o r m a t i o n .   W e   w i l l   n e e d 
+ 
+ s o m e   a d d i t i o n a l   i n f o r m a t i o n   f r o m   y o u   t o   d e l e t e   y o u r   i n f o r m a t i o n . </ s p a n > </ s p a n > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - a n s i - l a n g u a g e : E N - U S ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 3 > <s p a n   c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > B e l o w 
+ 
+ a r e   p r o v i d e r   n a m e s   o f   s o m e   o f   t h e   t h i r d   p a r t y   a n a l y t i c s   a n d   a d v e r t i s i n g 
+ 
+ s e r v i c e s   w e   u s e .   P l e a s e   s e e   t h e   l i n k s   b e l o w   t o   l e a r n   m o r e   a b o u t   t h e   p r i v a c y 
+ 
+ p o l i c y   o f   o u r   t h i r d - p a r t y   s e r v i c e   p r o v i d e r s . <o : p > </ o : p > </ s p a n > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 3 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > & n b s p ; </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = S p e l l E > <s p a n   c l a s s = s 1 > <b > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > A d m o b </ s p a n > </ b > </ s p a n > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > : & n b s p ; h t t p s : / / w w w . g o o g l e . c o m / p o l i c i e s / p r i v a c y / </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = s 1 > <b > <s p a n   l a n g = E N - U S 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > U n i t y   A d s </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > h t t p s : / / u n i t y 3 d . c o m / l e g a l / p r i v a c y - p o l i c y / </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = s 1 > <b > <s p a n   l a n g = E N - U S 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > F i r e b a s e 
+ 
+ A n a l y t i c s </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ f o n t - f a m i l y : T i m e s ' > : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > h t t p s : / / w w w . g o o g l e . c o m / p o l i c i e s / p r i v a c y / </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = S p e l l E > <s p a n   c l a s s = s 1 > <b > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > A p p l o v i n </ s p a n > </ b > </ s p a n > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > h t t p s : / / w w w . a p p l o v i n . c o m / p r i v a c y / </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = S p e l l E > <s p a n   c l a s s = s 1 > <b > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > A d c o l o n y </ s p a n > </ b > </ s p a n > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > : & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > h t t p : / / w w w . a d c o l o n y . c o m / p r i v a c y - p o l i c y / </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 6   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = S p e l l E > <s p a n   c l a s s = s 3 > <b > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - a n s i - l a n g u a g e : E N - U S ' > C h a r b o o s t </ s p a n > </ b > </ s p a n > </ s p a n > <s p a n 
+ 
+ c l a s s = s 3 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > : </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; c o l o r : b l a c k ; m s o - a n s i - l a n g u a g e : E N - U S ' >   </ s p a n > <s p a n 
+ 
+ c l a s s = s 5 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > h t t p s : / / a n s w e r s . c h a r t b o o s t . c o m / e n - u s / a r t i c l e s / 2 0 0 7 8 0 2 6 9 </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 7   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = S p e l l E > <s p a n   c l a s s = G r a m E > <s p a n 
+ 
+ c l a s s = s 4 > <b > <s p a n   l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - a n s i - l a n g u a g e : E N - U S ' > I r o n s o u r c e </ s p a n > </ b > </ s p a n > </ s p a n > </ s p a n > <s p a n 
+ 
+ c l a s s = G r a m E > <s p a n   c l a s s = s 4 > <b > <s p a n   l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ m s o - a n s i - l a n g u a g e : E N - U S ' >   </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 4 > <b > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > : </ s p a n > </ b > </ s p a n > </ s p a n > <s p a n   c l a s s = s 6 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > h t t p : / / w w w . i r o n s r c . c o m / w p </ s p a n > </ s p a n > <s p a n   c l a s s = s 6 > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - a n s i - l a n g u a g e : E N - U S ' > - </ s p a n > </ s p a n > <s p a n 
+ 
+ c l a s s = s 6 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > c o n t e n t / u p l o a d s / 2 0 1 9 / 0 3 / i r o n S o u r c e - P r i v a c y - P o l i c y . p d f </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = s 1 > <b > <s p a n   l a n g = E N - U S 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > G o o g l e 
+ 
+ A n a l y t i c s </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ f o n t - f a m i l y : T i m e s ' > : </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = a p p l e - c o n v e r t e d - s p a c e > <b > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > & n b s p ; </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 6 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <a 
+ 
+ h r e f = " h t t p s : / / p o l i c i e s . g o o g l e . c o m / p r i v a c y " > h t t p s : / / p o l i c i e s . g o o g l e . c o m / p r i v a c y </ a > </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = s 1 > <b > <s p a n   l a n g = E N - U S 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > F a c e b o o k   A d 
+ 
+ N e t w o r k </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; 
+ 
+ f o n t - f a m i l y : T i m e s ' > : </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <b > <s p a n   s t y l e = ' f o n t - s i z e : 
+ 
+ 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' >   </ s p a n > </ b > </ s p a n > <s p a n 
+ 
+ c l a s s = s 5 > <s p a n   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > h t t p s : / / w w w . f a c e b o o k . c o m / p o l i c y . p h p </ s p a n > </ s p a n > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ' > <o : p > </ o : p > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = S p e l l E > <s p a n   c l a s s = s 1 > <b > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > V u n g l e </ s p a n > </ b > </ s p a n > </ s p a n > <s p a n 
+ 
+ c l a s s = s 1 > <b > <s p a n   l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; 
+ 
+ m s o - a n s i - l a n g u a g e : E N - U S ' > :   </ s p a n > </ b > </ s p a n > <s p a n   c l a s s = s 1 > <s p a n 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ' > <a   h r e f = " h t t p s : / / v u n g l e . c o m / p r i v a c y / " > h t t p s : / / v u n g l e . c o m / p r i v a c y / </ a > <o : p > </ o : p > </ s p a n > </ s p a n > </ p > 
+ 
+ 
+ 
+ <p   c l a s s = p 5   s t y l e = ' l i n e - h e i g h t : n o r m a l ' > <s p a n   c l a s s = s 1 > <b > <s p a n   l a n g = E N - U S 
+ 
+ s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; f o n t - f a m i l y : T i m e s ; m s o - a n s i - l a n g u a g e : E N - U S ' > L A S T   <s p a n 
+ 
+ c l a s s = G r a m E > U P D A T E D   : </ s p a n >   1 6 <s u p > t h </ s u p >   J U N E   2 0 2 3 </ s p a n > </ b > </ s p a n > <b > <s p a n 
+ 
+ l a n g = E N - U S   s t y l e = ' f o n t - s i z e : 1 1 . 0 p t ; m s o - a n s i - l a n g u a g e : E N - U S ' > <o : p > </ o : p > </ s p a n > </ b > </ p > 
+ 
+ 
+ 
+ </ d i v > 
+ 
+ 
+ 
+ </ b o d y > 
+ 
+ 
+ 
+ </ h t m l >

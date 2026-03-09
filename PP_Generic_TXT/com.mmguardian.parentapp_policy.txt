@@ -1,0 +1,209 @@
+MMGuardian | Privacy Policy
+MMGuardian Phone
+Parental Control Apps
+Open menu
+Parental Control App for Android
+Parental Control App for iPhone
+App Pricing
+FAQ
+Resources
+Open menu
+Blog
+Parent Info Center
+Teen Slang Glossary
+Press Coverage
+Log In
+Sign Up
+USA
+Open menu
+AU
+UK
+CA
+CA-FR
+FR
+ES
+IT
+Menu
+MMGuardian Phone
+Parental Control Apps
+Open menu
+Parental Control App for Android
+Parental Control App for iPhone
+App Pricing
+FAQ
+Resources
+Open menu
+Blog
+Parent Info Center
+Teen Slang Glossary
+Press Coverage
+Log In
+Sign Up
+USA
+Open menu
+AU
+UK
+CA
+CA-FR
+FR
+ES
+IT
+PRIVACY POLICY
+Last Updated: 19th Mar 2024
+INTRODUCTION
+This privacy policy describes the information collection practices that Pervasive Group Inc (“we”, “us” or “our”) follow for the data that we collect or process from You (the “Parent”) and Your child or children (“Child”) when You use our MMGuardian parental control products and services (“MMGuardian”), and for data that we collect or process through our apps and website.
+Your Child will not able able to use MMGuardian to make their information or data publicly available.
+EU AND UK DATA SUBJECTS AND THE DATA PRIVACY FRAMEWORK
+Pervasive Group Inc complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce.  Pervasive Group Inc has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF, and to the UK Extension to the EU-U.S. DPF Principles with regard to the processing of personal data received from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.   If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles or the UK Extension to the EU-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov
+.
+You have the right to opt-out of disclosure of your personal data to another data Controller, to opt-out of use of your personal data for a purpose that is materially different from the purpose(s) for which the personal data was originally collected by us, and to opt-out of having your personal data data for direct marketing.
+In compliance with the EU-US Data Privacy Framework Principles and the UK Extension to the EU-U.S. DPF, Pervasive Group Inc commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DPF Principles.  European Union and United Kingdom (and Gibraltar) individuals with DPF inquiries or complaints should first contact Pervasive Group Inc.
+Pervasive Group Inc has further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit
+https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers
+for more information and to file a complaint. This service is provided free of charge to you.
+If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See
+https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2
+We are also subject to the investigatory and enforcement powers of the Federal Trade Commission with respect to the Framework.
+We acknowledge that we are responsible for the processing of Personal Information that we receive from You under the Framework and subsequently transfer to a third party acting as an agent on our behalf, and shall remain liable under the Framework if our agent processes such personal information in a manner inconsistent with the Framework, unless we are able to prove that we are not responsible for the event giving rise to the damage.
+THE TYPES OF INFORMATION THAT WE COLLECT
+We collect certain information that You voluntarily provide to us, such as when you register to create an account or send us an email. When MMGuardian is used on Your device or Your Child’s device we also collect information from the devices in order to provide You with the parental control service.
+The types of information that we collect include: email address, phone numbers, mobile device identifiers, internet protocol address, usage information and optionally various information from Your Child’s phone, which may include location. We also collect your address if you purchase a MMGuardian phone from our website. Full details of what and why this information is collected is detailed in the paragraphs below.
+Information Collected when using MMGuardian applications on Your or Your Child’s device:
+Our applications may at times need to connect to the internet in a variety of circumstances, including without limitation: (i) to connect to our server when registering or logging in to the app, (ii) to send changes to configurations made from within the app to ensure that all apps and the parent web portal remain synchronised, (iii) to send alerts, (iv) to send usage reports. When mobile data is used to connect to the internet, you may be charged by your carrier.
+When the MMGuardian application for Your parent phone is installed, we may collect or process:
+- On registration of the application we will collect the parent (admin) email address, password, device identifiers including but not limited to: the IMEI, or the IMSI, or the ICCID, or the ESN of the device and the model and operating system version of the phone. We may in some cases also collect the phone number of the device that the application is installed onto. We also collect and store device information such as device manufacturer, model, mobile OS, and wireless carrier info for the purpose of enhancing the performance of our mobile applications, by means of possible customization for certain type of devices.This information is only collected if the app is registered.
+- We collect information about application usage and interaction of the MMGuardian application (“Application Usage Information”), such as which screens are viewed and for how long, which buttons are pressed, and the performance of applications including situations in which the application experiences a serious error or crash. Collecting this information is of vital importance to us to be able to fix application issues and improve our products. Collection of this Application Usage Information is achieved by use of Google Analytics or Google Firebase Analytics or Facebook Analytics and Google Firebase Crash Reporting/Crashalytics.
+When the MMGuardian application for Your Child’s device is installed, or, you use a MMGuardian phone purchased from us, we may collect or process:
+- On registration of the application: the Parent (admin) email address, password, Parent and the Child phone number, Child’s contacts, and list of applications that are installed on the Child’s phone. We collect and store device identifiers including but not limited to: the IMEI, or the IMSI, or the ICCID, or the ESN of the device and the model and operating system version of the phone. We also collect and store device information such as device manufacturer, model, mobile OS, and wireless carrier info for the purpose of enhancing the performance of our mobile applications, by means of possible customization for certain type of devices. This information and the information described below is only collected if the app is registered.
+- We collect information about application usage and interaction of the MMGuardian application (“Application Usage Information”), such as which screens are viewed and for how long, which buttons are pressed, and the performance of applications including situations in which the application experiences a serious error or crash. Collecting this information is of vital importance to us to be able to fix application issues and improve our products. Collection of this Application Usage Information is achieved by use of Google Analytics or Google Firebase Analytics or Facebook Analytics and Google Firebase Crash Reporting/Crashalytics.
+- The location of your Child’s phone in a variety of circumstances, including without limitation: (i) when you request a location update by either an SMS command or from the MMGuardian Family Web Portal or application on Your own parent phone; (ii) when a pre-schedule location update (Track) is enabled. You should talk with Your child (especially if Your child is older than 13) and make sure that he or she understands that You will be tracking their location through MMGuardian.
+- Your Child’s contacts in a variety of circumstances, including without limitation: (i) when the app is registered, (ii) when contacts are added or removed from the device. This is required to enable you to: view the contacts that your child has and to choose whether to allow or block communications with the contact, and to allow you to see contact names in detailed call or SMS reports.
+- Information about the applications installed your Child’s device and the usage of the applications in a variety of circumstances, including without limitation: (i) when the app is registered, (ii) when applications are added or removed from the device, (iii) when an application is used. This is required to enable you to view the applications that your child has and to choose whether to allow or block use of the application, and to provide application usage reports.
+- If You have enabled collection of SMS message details: SMS and MMS messages when SMS or MMS messages are received by or sent from Your Child’s phone. The information collected will include the time of the message, the message content text and the phone numbers and names of your Chid’s friends with whom the message is exchanged. This is required to enable you to view detailed SMS reports.
+- If You have enabled collection of call details: Your Child’s detailed call history in a variety of circumstances, including the time and duration of the call, and the contact name and phone number of the person who was called or was calling your child. This is required to enable you to view detailed call reports.
+- If You have enabled the call block function: The details of the blocked call or SMS or MMS message, including the time, blocked phone number, contact name and for messages the content text of the message.
+- If You have enabled the Web Filter function: the detailed web browsing history of your Child. The information will include the time and the web address (URL), and if the browsing attempt was blocked due to web filter configurations that You have set up, the reason for the block. This is required to enable you to view detailed web browsing history.
+We do not collect the age, gender or date of birth of your Child.
+Information Collected by our “Sites” (our “Website” at www.mmguardian.com and our “Family Web Portal” at family.mmguardian.com)
+When you visit or interact with our Sites we may collect or store information about your interaction with our Sites (“Usage Information”). This may include details of the device used to access the Website such as operating system, browser type, the address of a referring site (if any) and your activity on our Sites such as what pages were visited and what links were clicked. We may also collect or store Your IP address.
+Usage Information is typically anonymous information. However, if it is combined with your Personal Information in a manner that reasonably allows it to be associated with your identity, or is otherwise considered Personal Information under applicable law, it will be treated as Personal Information under this Privacy Policy. We treat your IP address as Personal Information.
+If you use the Contact Support form on our Website we will collect, store or process the email address that You provided.
+We also use Cookies and Google Analytics to collect and store Usage Information for interactions with both our Website and Family Web Portal (our “Sites”) as follows:
+Cookies
+A cookie is a small data file placed onto the device that You use to visit our Sites.
+When visiting our Website:
+- We place cookies on your device to remember the address of a referring site (if any), so that for example when you click on a button the referring information can be passed on to the app store when downloading one of our applications.
+- If you watch a YouTube video that is embedded in our site, Google will place cookies on your device related to your viewing of the YouTube video as described in How Google uses cookies (https://policies.google.com/technologies/cookies). Our embedded videos have privacy-enhanced mode enabled, so if you do not play a video this will not occur.
+When you log into our WebPortal:
+- We place certain short term session related cookies on your device that are required to enable you to access password protected parts of the WebPortal, and also longer lasting cookies to remember your preferences, such as choice of language.
+- If a purchase by one of the payment processor companies that we use (PayPal and Stripe) is initiated, that company will place cookies on your device. For further details please refer to PayPal cookies (https://www.paypal.com/ie/webapps/mpp/ua/cookie-full) and Stripe cookie policy (https://stripe.com/cookies-policy/legal)
+For full details of the cookies that may be placed on your device, see www.mmguardian.com/cookies.
+Google Analytics:
+We collect analytics data using Google Analytics. Within Member States of the European Union or other signatories of the Agreement on the European Economic Area, and within the United Kingdom (and Gibraltar) you will be asked to consent to or reject our Sites’ use of Google Analytics.
+For further information about how Google Analytics information is collected and processed, please refer to How Google uses data when you use our partners’ sites or apps (www.google.com/policies/privacy/partners/). You can opt-out of Google Analytics tracking here (https://tools.google.com/dlpage/gaoptout/).
+Our website utilises Google Analytics, a web analytics tool by Google Inc. (“Google”). Google Analytics uses “cookies”, text files stored on your computer that enable analysis of how you use the website. The cookie-generated information about your use of this website is usually transmitted to and stored on a Google server in the United States. However, if you are in a country that is a member state of the European Union or a contracting party to the Agreement on the European Economic Area or in the United Kingdom (and Gibraltar), Google will first truncate your IP address. Only in exceptional situations will the full IP address be transmitted to a Google server in the United States and shortened there. Google will use such information to evaluate your use of the website, to compile reports on website activity and to provide other services to us in relation to website use and internet use. Google will not combine the IP address transmitted by your browser via Google Analytics with other Google data. You can disable cookies by setting your browser accordingly; however, if you do this you may not be able to use the full functionality of this website. Furthermore, you can prevent collection and transfer of the analytics data generated by cookies and relating to your use of the website (including your IP address) to Google, as well as the processing of such data by Google, by downloading and installing the browser plug-in available under the following link: https://tools.google.com/dlpage/gaoptout/eula.html?hl=en.
+As an alternative to installing the browser plug-in, particularly in internet browsers on mobile devices, you can prevent the collection of data by Google Analytics by clicking this link: Deactivate Google Analytics.
+This will save an “opt-out” cookie to your device, meaning that none of your data will be collected on this website by Google Analytics.
+Please note that if you delete cookies in your browser settings, this may mean the Google Analytics opt-out cookie is also deleted and may have to be re-activated by you.
+More detailed information about the function of Google Analytics and the terms of use and privacy policy relevant to this service can be found under http://www.google.com/analytics/terms/gb.html and http://www.google.de/intl/en/policies/privacy/. We would also like to point out that our website uses Google Analytics with the anonymizeIP extension so that IP addresses are only processed further in an abbreviated form to prevent them being directly linked to a particular individual.
+THE PURPOSE FOR COLLECTING AND HOW WE USE YOUR INFORMATION
+We use the Information collected only for the purposes described in this Privacy Policy. For example, we may use Information that we collect to:
+- Provide our services or information that You request, and to process and complete any transactions
+- Respond to Your emails, submissions, questions, comments, requests, and complaints and to provide customer service
+- Monitor and analyze usage and trends, to improve our website and products
+- Send You confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of MMGuardian
+- Helping You monitor and supervise Your Child's mobile device activities
+- Providing You with the ability to locate Your Child's phone
+- Providing You with the ability to review certain Information related to Your Child's SMS and MMS conversations
+- Providing You with the ability to review certain Information related to Your Child's phone calls
+- Enabling You to allow or block phone calls with certain numbers
+- Enabling You to allow or block SMS or MMS conversations with certain numbers
+- Sending You promotional information, in accordance with Your permission, as required by applicable law
+HOW WE TRANSFER AND STORE INFORMATION
+We use Secure Sockets Layer (SSL) encryption when collecting or transferring data from our websites and mobile device applications. SSL encryption is designed to make the information unreadable by anyone but us.
+Your information and Your Child’s information data is stored in the United States.
+The information collected to provide You with reports, including location information, application usage history, messages, calls, web browsing and alerts is only stored for approximately 30 days on our servers. We will retain other aspects of Your and Your Child’s information such as email addresses and phone numbers for the duration that your account is active or as needed to provide services.
+If you wish to cancel your account or request that we no longer store or use your information to provide You services, contact us at support@mmguardian.com. It is also possible for you to delete your account at the Family Web Portal. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+HOW WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES
+We will not sell, rent, or otherwise provide Your Information or Your Child's Information to any third parties for marketing purposes.
+We contract with third-party service providers and suppliers (“Data Processors”) such as website and server hosting companies, email service providers, payment processing companies, marketing campaign management or measurement and analytics providers, order fulfillment companies in the case of selling a MMGuardian phone, and customer service companies. Our suppliers and Data Processors are required to keep confidential the information received on behalf of us, and may not use it for any purpose other than to carry out the services they are performing for us.
+The Data Processors we use are:
+- Website and Server Hosting: Google
+- Payment Processing: Stripe, PayPal
+- Sending Emails: SendGrid
+- Fulfillment partner: Vertex Wireless
+- Analytics: Google Analytics, Facebook Analytics
+We will not share Your Personal Information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law, or in our sole discretion, to law enforcement agencies to assist in any investigation, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or unlawful conduct or respond to a government request. In certain situations, we may be required to disclose Personal Information and data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+We could merge with or be acquired by another business entity. You will be notified via email and/or a prominent notice on our website of any change in ownership, as well as any choices you may have regarding your Personal Information.
+GOOGLE MAPS
+Some of our products and services make use of Google Maps APIs, which are governed by Google’s Privacy Policy: www.google.com/privacy.html
+SECURITY OF YOUR PERSONAL INFORMATION
+We are committed to protecting the information that you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, we have appropriate procedures in place to safeguard the information that we collect. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+If you have registered to use MMGuardian you will have created a password for which you are responsible for keeping confidential. Do not share it with any other person, including us. If you believe your password has been misused, please advise us immediately.
+YOUR RIGHTS TO REVIEW, UPDATE OR DELETE YOUR PERSONAL INFORMATION
+We acknowledge that customers within the Member States of the European Union or other signatories of the Agreement on the European Economic Area have the right to access and receive a copy of personal data we hold about you.
+Upon request and within one month we will provide You with access to your information, including making reasonable effort to provide you with online access and the opportunity to change or delete inaccuracies or modify your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. To exercise these rights please contact Pervasive Group Inc at privacy@mmguardian.com, or you may also contact our European representative EDPO at privacy@edpo.brussels.
+We acknowledge that customers within the United Kingdom (and Gibraltar) have the right to access and receive a copy of personal data we hold about you.
+Upon request and within one month we will provide You with access to your information, including making reasonable effort to provide you with online access and the opportunity to change or delete inaccuracies or modify your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. To exercise these rights please contact Pervasive Group Inc at privacy@mmguardian.com, or you may also contact our European representative EDPO at privacy@edpo.brussels.
+Irrespective of your location:
+- You may delete your account, or a specific application registration and associated information for a device, from our system to prevent collection of information from that or all devices, at the Family Web Portal. Additionally, collection of certain types of Information associated with specific MMGuardian functions such as automatic location tracking, phone call history, SMS and MMS messages, and web browsing history can be enabled and disabled on a per-function basis.
+- You will be able to view the Information collected from your Child’s device at the Family Web Portal or in the Parent App installed and registered on your own phone.
+YOUR RIGHTS REGARDING THE USE OF PERSONAL INFORMATION
+You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails, or by emailing us at privacy@mmguardian.com. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+You may revoke Your agreement to our collection of Your or Your child’s information by contacting privacy@mmguardian.com.
+CHANGES TO THIS PRIVACY POLICY
+We may change this Privacy Policy from time-to-time. If we make any changes to this Privacy Policy, we will change the “Last Updated” date above. If we make significant changes to this Privacy Notice, and where required by applicable law, we will either notify You either by prominently posting a notice of such changes prior to implementing the changes or by directly sending You a notification.
+CONTACTING US
+If you have comments or questions about our privacy policy, please contact us via email privacy@mmguardian.com or write to us at the following address:
+Pervasive Group Inc
+78 John Miller Way
+Suite 326-HD
+Kearny, NJ 07032, USA
+EU General Data Protection Regulation (GDPR) - European Representative
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR),
+Pervasive Group Inc.
+has appointed European Data Protection Office (EDPO) as it's GDPR representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR by:
+- using EDPO’s online request form at
+https://edpo.com/gdpr-data-request/
+- writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
+UK General Data Protection Regulation (GDPR) - UK Representative
+Pursuant to the UK GDPR,
+Pervasive Group Inc.
+has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
+- by using EDPO UK’s online request form:
+https://edpo.com/uk-gdpr-data-request/
+- by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+MMGuardian
+Home
+Contact
+Information for Parents
+Teen Slang Glossary
+App Features
+Parental Control App for Android
+Parental Control App for iPhone
+App Pricing
+Getting Started
+Android Phone App
+iPhone / iPad App
+FAQ
+Blog
+Legal
+Returns Policy
+Privacy Policy
+Terms of Service
+Cookies
+© 2012 – 2023 Pervasive Group Inc.
+MMGuardian is a registered trademark of Pervasive Group Inc.
+78 John Miller Way, Suite 326-HD, Kearny NJ 07032
+Google Play and the Google Play logo are trademarks of Google LLC.
+Apple, the Apple logo, iPhone, iPad and iPod touch are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
+USA
+UK
+AU
+CA
+CA-FR
+FR
+ES
+IT
+USA

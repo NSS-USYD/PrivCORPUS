@@ -1,0 +1,34 @@
+ToNote - Privacy Policy
+Notes - Privacy Policy
+This privacy policy is designed to provide transparency to your use of application Notes for Android devices, developed by Turist.
+All data entered by users through the app is stored only on the user's device except for backups to Google Drive and information about errors (with related information), that occur during the operation of the application.
+User Provided Information
+If you request information or technical support (using email), your personal data (such as your email address) is used only to respond to your request.
+Google Drive
+Your data can be reserved (backup making) with your own cloud account at Google Drive. Thus you can easily restore your data from a cloud to a new phone or tablet (in case of loss or upgrade). Your phone and tablet could be also synchronized between each other via a cloud. Please visit Google’s privacy policy to learn how Google treats your personal data and protects your privacy when using Google Services (Google Drive in this case).
+Access to Google Drive
+To make backups, we ask to give the application (Android or Web-versions) access to your Google Drive account. The application creates files with notes on Google Drive (in your account) and reads the files created by it before.
+Crash Reporting and Analytics
+Notes app may send crash reports occurred during the operation of the application to service Crashlytics (with Firebase Crashlytics). It may happens only if you agreed to this in the app. Crash reporting help me improve Notes and increase stability of working. Also statistic about using of the app can be sent to Firebase Analytics.
+To ensure the operation of services, the Application may collect (to send to Analytics services) certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, Android Advertising ID, and information about the way you use the Application. Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service.
+Please refer to the Privacy Policies of the 3rd party service providers used by the app:
+Google Play Services
+Firebase Analytics
+Fabric Crashlytics
+Required Permissions
+Notes app requires the following permissions:
+Network communication (INTERNET)
+Permissions are required to synchronize data with your Google Drive, and send crash reports to service Crashlytics, if you agreed to this in the app.
+Storage (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE)
+Permissions are required due to Backup/Restore (to/from storage) purposes.
+Fingerprint (USE_BIOMETRIC)
+Permission is required to open secured notes with Fingerprint.
+Other (RECEIVE_BOOT_COMPLETED, VIBRATE)
+Permissions are required to set Reminders after starting the device and to vibrate when need remind.
+Your Consent
+By using Notes app, you consent to this Privacy Policy.
+Policy changes
+This privacy policy may be updated from time to time for any reason. I will notify you of any changes to Notes privacy policy by posting the new privacy policy and show its in the app.
+Questions
+If you have any questions about Notes privacy policy please contact us via email at
+tonote.info@ya.ru

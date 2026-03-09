@@ -1,0 +1,230 @@
+Privacy Policy
+Login / Register
+Login / Register
+SIM Only Deals
+Refer & Earn
+Rewards
+Help
+Support
+Device Help
+Top up
+Log In
+Menu
+SIM Only Deals
+Refer & Earn
+Rewards
+Help
+Support
+Device Help
+Top up
+Search
+{
+  "event": "addToCart",
+  "ecommerce": {
+    "currencyCode": "GBP",
+    "add": {"products": [{
+      "name": "SIM",
+      "id": "SIM",
+      "price": "0.0",
+      "brand": "Lebara",
+      "category": "sim",
+      "variant": "sim",
+      "quantity": 1,
+      "dimension5": "Free SIM"
+    }]}
+  }
+}
+{"ecommerce": {
+  "currencyCode": "GBP",
+  "impressions": []
+}}
+Privacy Policy
+General Terms & Conditions
+Mobile Terms & Conditions
+Passes Terms & Conditions
+Promotions Terms & Conditions
+Call Credit Transfer Terms & Conditions
+Privacy Policy
+General
+We recognise the importance of protecting your personal information in an appropriate manner and processing it in compliance with applicable data protection laws in all countries in which Lebara operates.
+Lebara’s general practice with respect to use of your personal information, including how we collect, use and share the private information with others, is as set forth below in this Privacy Policy.
+Lebara consists of all business entities within Lebara Group, including Lebara B.V. and its direct and indirect subsidiaries.
+What personal information we receive?
+We must receive or collect some information to operate, improve, understand, customize, support, and market our services, including when you access or use our services. The types of information we receive and collect depend on which service you use and how you use it.
+We may collect or receive from you your personal information as an individual and other information which in certain circumstances may be personally identifiable, for various purposes, such as the following:
+Information you may provide us with
+Identification information
+Data which identifies you such as your full name, date of birth and gender.
+Contact information
+Information which allows us to contact you such as your home address, business/work address, email address, telephone number.
+Payment and billing information
+Information which is necessary to process payment to purchase our services, such as billing address, payment details, your bank details and payment card information.
+Information we may collet
+KYC and verification Information
+Data shared with third parties or obtained from third parties, such as credit references agencies, fraud prevention agencies, commercially available directories and publicly available sources.
+Usage, device and technical information
+Information about your usage activity on our services and our websites, such as
+your settings, communications, online searches,
+your
+browser type and language, browsing history, visited websites, location data,
+your
+use of mobile applications, type of mobile device, contents consumed, IP address, page views, mouse clicks, access times, affiliate website addresses, your computer’s operating system.
+Management of your account(s)
+Data on communications with the customer service, top-up history, call and SMS history, transcripts of live chat, your preferences and Interests.
+Cookies and other site data
+Cookies and similar site data to operate our websites and provide our online services, including to improve your experiences, understand how our services are being used, customize our service and remember your choices, such as your language preferences or locations. We may also use cookies to show you relevant content related to our services.
+Why and how we collect and use your personal information
+We mainly use your information to provide you with our services you requested, in particular, to:
+a)
+contact you where necessary;
+b)
+complete any order, transaction or agreement you make with us and to process payment made by you;
+c)
+verify your identity and confirm that you are an authorised user of our services;
+d)
+manage crime and fraud prevention;
+e)
+generate market reports and statistical analysis;
+f)
+send alerts and notifications;
+g)
+inform you of updates and new features of our services and our new services;
+We may also use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent.
+Cookies and other site data
+We collect information from your visits to our websites and your use of our services to help us gather statistics about usage and effectiveness, personalise your experience, tailor our interactions with you, and improve our products and services. We do so through the use of various technologies, including scripts, tags, Local Shared Objects (Flash cookies), Local Storage (HTML5) beacons, and "cookies".
+A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure website usage (such as number and duration of visit) and effectiveness and to allow for ease of navigation or use and, as such, are not associated with any personal information, they are also used at times to personalise a known visitor's experience of a website by being associated with profile information or user preferences. Over time this information provides valuable insight to help improve the user experience.
+Cookies are typically categorised as "session" cookies or "persistent" cookies. Session cookies help you navigate through the website efficiently, keeping track of your progression from page to page so that you are not asked for information you have already provided during the current visit, or information needed to be able to complete a transaction. Session cookies are stored in temporary memory and erased when the web browser is closed. Persistent cookies on the other hand, store user preferences for current and successive visits. They are written on your device's hard disk, and are still valid when you restart your browser. We use persistent cookies, for example, to record your choice of language and country location.
+When visiting our websites or online services, you may have the possibility to set your preferences regarding cookies and other similar site data by using the options made available to you by either your web browser or Lebara. If a cookie manager has been implemented by Lebara, it will be displayed at your first visit to our website. Using the cookie preferences does not result in deletion of cookies that are already on your device. You can always modify your cookies settings, including deletion of cookies already on your device, on your web browser or device (usually under "Settings" or "Preferences"). Please be aware that if you set your browser or device to disable cookies, certain of our services may not function properly.
+Marketing Information
+We would like to send you information about products and services of ours and other companies in Lebara Group which may be of interest to you. Some of the information may be personalized for you based on the information received about you and your preferences, in order to ensure the best customer experience and the adequate and results-efficient marketing. If you have consented to receive marketing, you may always opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes or giving your information to other members of Lebara Group.
+If you no longer wish to be contacted for marketing purposes, you can always change your preference in your account under MyLebara section of our website, contact our customer service
+here
+or unsubscribe by clicking on the unsubscribe link or follow the instructions provided in an email or SMS sent to you. Please be aware that although an unsubscription request is processed instantly, it can take up to 48 hours to take effect.
+Sharing of personal information
+As an international company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Policy. Between Lebara controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, Lebara uses suppliers and business partners located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
+Where appropriate, Lebara may also share your personal information with selected suppliers and business partners to help us provide you with products or services, or to fulfill your requests.
+With your consent, Lebara may also share your personal information with other third parties.
+If Lebara decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is Lebara's practice to require appropriate protection for personal information in these types of transactions.
+Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies and authorities, pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of Lebara, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
+International transfers of personal information
+The international footprint of Lebara involves some transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business.
+In the event, providing you with our services requires transfer of the personal information to non-European Economic Area, we will only perform it with an appropriate level of protection for the fundamental rights of the data subjects, in accordance with the GDPR.
+We will ensure that all subsidiaries and business partners outside the EEA, process your personal information in accordance of this Privacy Policy. Where required, Lebara will implement Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions.
+How secure is your personal information?
+We intend to protect your personal information and to maintain its accuracy. Lebara implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
+As an example, we store your personal data on computer systems with limited access that are located in facilities to which access is limited and fully secured
+Please be aware that communication over the Internet is not always secure even when encrypted. We are not responsible for any unauthorized access or loss of personal data that is beyond our control.
+You are responsible for security of your personal information, such as your login details or personal information shared with us over Internet.
+How long do we store your personal information?
+We will not retain personal information longer than necessary to fulfil the purposes for which it is processed, including providing you with our services, the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defence of legal claims.
+Your Rights
+You can request to access, update or correct your personal information. You also have the right to object to direct marketing and to our processing of your information where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party.
+If the processing of your personal information is subject to the UK General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation.
+Under GDPR you may also have the right to request to have your personal information deleted, erased or restricted and ask for portability of your personal information. For more details contact
+[email protected]
+.
+Please be aware that the rights granted to you may be limited or superseded by applicable law and Lebara’s legal and regulatory obligations. Some personal information is also required to provide you with our services.
+Depending on the service you use, you may modify some of your personal information in your account under the “MyLebara” section of our website and in case of Lebara mobile applications - under the application settings.
+The requests should be sent
+here
+Children’s Information
+Unless otherwise indicated, our websites, products and services are not intended for use by children. We do not knowingly collect personal data from users who are under the age of 16.
+Any personal information of a child under the age of 16 must be provided to us only subject to the parent’s or guardian’s consent.
+Links to third party websites
+To allow you to interact with other non-Lebara websites on which you may have accounts (such as social media sites) may provide links or embed third-party applications that allow you to sign up, login or post content from our websites.
+Your use of these links and applications is subject to the third parties' privacy policies, and you should become familiar with the third-party sites' privacy policies before using the links or applications. Lebara is not responsible for the privacy practices or the content of those other websites.
+Right to make a complaint
+In the event you consider our processing of your personal information is not compliant with the applicable data protection laws, you can file a complaint:
+Directly with Lebara by contacting us
+here
+With the competent data protection authority. The names and contact details of the Data Protection Authorities in the United Kingdom can be found
+here
+Changes to our Privacy Policy
+From time to time we may update this Privacy Policy. When making changes to this Privacy Policy, we will add a new date at the top of this Privacy Policy. If we make material changes in the Privacy Policy that affect your rights, we will notify you with a service announcement in your account, on our website or by sending email to your primary email address, and as otherwise required by applicable law.
+Contact Us
+Questions about this Privacy Policy or about Lebara's handling of your personal information should be sent to the Group Data Protection Officer. You can submit your request either by writing to the DPO at
+Lebara
+DPO
+7th Floor, Import Building, 2 Clove Crescent, East India Dock, London, E14 2BE, UK
+or emailing directly:
+[email protected]
+This policy was last revised 25
+th
+October 2022
+Lebara UK
+Lebara FR
+Lebara DE
+Lebara ES
+Lebara NL
+Lebara DK
+Lebara AU
+Lebara SA
+Quick Links
+SIM only deals
+|
+|
+|
+Free SIM
+|
+Rates
+|
+Help
+|
+Refer & Earn
+|
+Keep Your Existing Number
+|
+3G Switch Off
+Shop
+SIM only deals
+|
+|
+|
+Add-Ons
+|
+Top Up
+|
+Free SIM
+How To
+Activate your SIM
+|
+Top Up
+|
+Activate Internet
+|
+Check your balances
+|
+Keep Your Existing Number
+|
+Replace a lost SIM
+|
+Access your voicemail
+|
+Help & Support
+Help
+|
+MyLebara
+|
+Mobile App
+|
+Resellers
+|
+Contact Us
+|
+3G Switch Off
+Legal & others
+Terms & Conditions
+|
+Complaints Code
+|
+Accessibility
+|
+Tax Strategy
+|
+Return & Refund
+2022 © Lebara
+Privacy Policy & Cookies
+Terms & Conditions
+About Us
+Contact Us
+Modern Slavery Statement

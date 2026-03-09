@@ -1,0 +1,210 @@
+Privacy Policy - Free Adblocker Browser
+Search
+Home
+About us
+FAQ
+Press info
+Contacts
+Blog
+Home
+About us
+FAQ
+Press info
+Contacts
+Blog
+Home
+About us
+FAQ
+Press info
+Contacts
+Blog
+Privacy Policy
+Free Adblocker Browser
+/
+Privacy Policy
+Privacy Policy
+Last updated on May 12, 2022
+This is the Privacy Policy (this “
+Policy
+”) of Rocketshield Browser Technology Limited (“Rocketshield”, “
+we
+”, “
+us
+”or “
+our
+”). The Policy applies to all Rocketshield mobile application (this“
+product
+”), websites and services (“
+service
+”).
+As a general rule, users of our software product and services are anonymous to us, and we have no feasible ways to identify you. However certain categories of data may be collected while using our product and services, and some of this information may be considered “personal data” (“
+personal data
+” or “
+data
+”) by the law. When we collect personal data, we generally act as a “data controller” as defined in applicable law. The exact categories of data we collect, why we collect it, and your opt-out choices depend on the product or service you use, as is more fully described below.
+When we post changes to this Policy, we will include the date when the Policy was last updated. If we significantly change this Policy, we will notify you about the upcoming change via our website or using in-app notifications. We encourage you to review this Policy periodically.
+For previous versions of this Policy, please contact us via
+privacy_fab@outlook.com
+.
+1. Types of data collected
+We may collect your personal data as follows while we are providing services. These data are critical for us to realize various functions of this product. We will use these data to help us develop and improve our products to provide better services. We will use your personal data in strict compliance with the purposes set forth in this Policy. We will inform you in advance and obtain your consent before we use these data for any other purposes than set forth in this Policy or we use the personal data collected for specific purposes for other purposes.
+1.1 Information you provide
+If you give us feedback or contact us via e-mail, we will collect your name and email address, as well as any other content included in the email, in order to send you reply. It is your choice whether to send such personal data to us.
+1.2 Service providers
+1.2.1 Pre-activation service
+In order to strictly comply with the laws and policies of the relevant countries or regions, we need to use pre-activation services to know your country or region. During pre-activation, we will send your IP address, country code (MCC), mobile phone language, system version and other information to our server. This information is only used to enhance, modify, personalize or otherwise improve our products and services; determine the effectiveness of promotional campaigns and advertising; prevent security breaches and abuse, thus providing you with agreements and services that comply with that country or region. This information will be deleted within a short period of time after knowing your country or region and will not be permanently saved.
+To make Rocketshield Services more useful to you, we may collect information from you, including but not limited to:
+Software information, such as version, distribution, system version and product list;
+Hardware information, such as IMEI, MAC address of your device, model info, manufacturer;
+User identification via a universally unique identifier (UUID), This product may track users by storing a so-called universally unique identifier (or short UUID) for analytics purposes or for storing users’ preferences. This identifier is generated upon installation of this product, it persists between product launches and updates, but it is lost when the user deletes the product. A reinstall generates a new UUID.
+Information regarding your usage, such as browser type, language preference, time and time zone, errors and reports, buttons clicked, settings, typing in the URL bar, screen presenting, user preferences changes, disabling/enabling cards on main screen, notification being clicked;
+Network information: IP address, network carrier, rough location according to the IP address or Wi-Fi connected by / around you, referring site, and speed of each visitor request;
+Location Information (if you grant permission).
+1.2.2 Services we provide
+Depending on user’s specific device, this product may request certain permissions that allow it to access user’s device Data as described below.
+By default, these permissions must be granted by user before the respective information can be accessed. Once the permission has been given, it can be revoked by yourself at any time. In order to revoke these permissions, you may refer to the device settings. The exact procedure for controlling app permissions may be dependent on user’s device and software. Please note that the revoking of such permissions might impact the proper functioning of this product. If user grants any of the permissions listed below, the respective personal data may be processed (i.e accessed to, modified or removed) by this product.
+We provide you with a wealth of features and services through cloud service interfaces, such as news, weather, search history, bookmarks sync, notifications, and product updates.
+In order to ensure the operation of cloud services, we need to collect some necessary data, including: product information such as product package name, product version, and product installation time; system information such as country code, system language, and system time zone; screen resolution and other devices Information; network information such as operators, advertising id.
+If you visit our websites, we may collect your IP address to help diagnose problems with our servers and to administer our websites. We use IP addresses solely for this purpose and keep website access logs up to six months.
+In order to ensure your usage of app features, we need to collect some necessary data, including lists of permissions that you have granted to websites, records of what you downloaded from websites, sites with user-disabled ad-blocking (whitelists) and your browser settings.
+Those information will be deleted within a short period of time after knowing your country or region, and will not be permanently saved.
+1.2.3 Service provided by Chrome
+For now, we do not obtain your personal data from any third party. If certain services may require your personal data from a third party, we will notify you in advance and obtain your consent.
+Below are the information might collected by Chrome:
+Find accounts on the device: Used to read accounts data to use in sync user data and some browser requests. Also used by Chrome to manage authentication.
+Add or remove accounts: Used to manage accounts for sync feature. Also used by Chrome to manage authentication.
+Find accounts on the device: Used to find accounts on the device to use in sync feature. Also used by Chrome to manage authentication.
+Approximate location (network-based): Used to take user location for web on request and for third party services like weather forecast. We use for weather forecast and Chrome uses it to get location for some sites that need it. Used if user chose for device not to use GPS.
+Precise location (GPS and network-based): Used to take user location for web on request and for third party services like weather forecast. We use for weather forecast and Chrome uses it to get location for some sites that need it. Used if user chose for device use GPS precise location.
+Read the contents of your USB storage: Used by Chrome. A site can use files or data stored on your device. Used by Chrome to give sites ability for accessing images, music files, videos, documents, etc. For upload.
+Modify or delete the contents of your USB storage: Used by Chrome. Give sites ability for store images, music files, videos, documents, etc. Also, to be able to download files and cache some of them.
+Take pictures and videos: Used by Chrome. Used to allow user to take and upload pictures and videos to some sites by Chrome.
+Record audio: Used by Chrome. Used to give sites ability to ask users to utilize microphone and used to provide voice search feature.
+View Wi-Fi connections: Used by Chrome. Provide download service and web service according to network conditions. Needed by Chrome to monitor Wi-Fi state to behave accordingly.
+Download files without notification: Used by Chrome. Used to manage downloading files for sync and other depending third party libraries use it too.
+Read sync statistics: Used by Chrome. Needed to get statistics for account sync feature.
+Receive data from Internet: Used by Chrome. No point in browser App without internet access.
+View network connections: Used by Chrome. Provide download service and web service according to network conditions. Needed by Chrome to monitor Wi-Fi state to behave accordingly. For example, notify user when changed from Wi-Fi to different network for user to know of possible operator fees or for some sites not too load images in high resolution.
+Pair with Bluetooth devices: Used by Chrome. Used for bluetooth devices usage such as VR-headset or play browser music using headphones.
+Access Bluetooth settings: Used by Chrome. Used for bluetooth devices usage such as VR-headset or play browser music using headphones.
+Connect and disconnect from Wi-Fi: Used by Chrome. Tips for non-Wi-Fi environment when downloading files.
+Full network access: Used by Chrome. The mobile browser provides all apps means to send data to the internet, so this permission is not essential for internet connection.
+Change your audio settings: Used by Chrome. To allow change sound level and device playback source while listening to audio/video from web content or browser sounds
+Control Near Field Communication: Used by Chrome. Could be used by web-services. So, Chrome asks user for permission if service needs it.
+Read sync settings: Used by Chrome. Used for Chromium sync feature. It mostly allows the application to know if user already has background data sync (such as for Facebook or Gmail) turned on or off.
+Run at startup: Used by Chrome. Allows the app to start itself as soon as the system has finished booting and start background services. Eg. scheduled notifications and jobs.
+Reorder running apps: Used by Chrome. Enables WebVR presentation from Chrome Custom Tab to bring Chrome activity back to the foreground inside the VR Entry result Broadcast Receiver.
+Use accounts on the device: Used by Chrome. Used to read accounts data to use in sync and and some browser validation requests.
+Control vibration: Used by Chrome. Allows the app to control the vibrating function of the device. To enable or disable it for notification for example.
+Prevent device from sleeping: Used by Chrome. Need to prevent device from sleeping while watching video or listening audio and etc.
+Toggle sync on and off: Used by Chrome. Need to allow or disallow syncing of user data with server to use it on different devices.
+Install shortcuts: Used by Chrome. Used to install shortcuts on the launcher so users can bookmark web sites even out of browser.
+Read Google service configuration: Used by Chrome. Allows this app to read Google service configuration data. For example get subscription packages.
+Request install packages: Used by Chrome to prompt user when they download APKs and would like to install it.
+Read user contacts: Used by Chrome. Gives ability for users to provide contact info (from the Android contact list) to web pages.
+Keep service in foreground: Used by Chrome and YouTube background playback feature.
+Google now account access: Used by Chrome.
+Billing: Used by Rocketshield to enable user to initiate payments and retrieve its status.
+1.2.4 Service provided by third party
+We can obtain your data from third parties through the product interface. We will get your Google account data (Google account’s gender, avatar, screen name, account ID, account email).
+We will give you special tips when you enable the above-mentioned features concerning special types of personal data, inform you once again about the special types of personal data that may be collected, and obtain your explicit consent.
+Our analytics providers. We use third-party analytics such as Google Analytics, Firebase, Adjust, for the purposes of delivering our services, conducting analysis, and research to understand better how people interact with our products and services. For this we need to obtain some necessary data, such as: MAC address of your device, model info, manufacturer, user identification via a universally unique identifier (UUID). This product may track users by storing a so-called universally unique identifier (or short UUID) for analytics purposes or for storing users’ preferences, IP addresses, network carriers, rough location according to the IP address or Wi-Fi connected by / around you, referring sites, and speed of each visitor requests.
+Our cloud service providers. We store information we collect from you on servers provided by our third-party cloud service providers such as Firebase Cloud Functions, Firebase Realtime Database; For this we need to obtain some necessary data, such as: MAC address of your device, model info, manufacturer; User identification via a universally unique identifier (UUID). This product may track users by storing a so-called universally unique identifier (or short UUID) for analytics purposes or for storing users’ preferences, IP addresses, network carriers, rough location according to the IP address or Wi-Fi connected by / around you, referring sites, and speed of each visitor requests.
+Our crash reports. If an Rocketshield product crashes, we collect a log that includes some information about your browser’s version, your Rocketshield system, platform and some memory data related to the crash. We collect this data with the sole purpose of improving our products and services.
+Third-party Service partners. We use OpenWeather to provide local weather information. For this we need to obtain users’ location information.
+2. Disclosure and sharing of your information
+We will share with or transfer or disclose your personal data to a third party with your consent or explicit instructions. In addition, to improve the quality of our service, we may also share with or transfer or disclose your personal data to a third party under the following circumstances.
+2.1 Affiliated company
+We may share your personal data with our affiliated companies and will ensure their processing of your personal data is following the purposes and requirements of this Policy. We will obtain your prior consent again if affiliated companies intend to use your personal data for other purposes than set forth in this Policy.
+2.2 Third party service provider
+We may engage third party service providers to provide specific services. Third party service providers may collect data when providing services, and we will ensure that they follow our instructions, follow the purposes and requirements set out in this Policy to process your personal data, and take appropriate confidentiality and security measures to safeguard data security.
+2.3 Attribution of installation channel
+In order to attribution of installation channel and provide you with better services, we use the services of a third-party service provider. The service needs to obtain your information including: application package name, application version, application installation time, system version, and other applications Information; Android ID, country code, language, system version and other system information; power, charging type, sensor information, mobile phone language information, mobile phone brand, mobile phone model. Type, network information, CPU information and other device information. The information obtained is only used for this purpose.
+2.4 Use of personal information in Content recommendation
+2.4.1 Content recommendation: recommend content that you may be more interested in
+In order to recommend information that may be of more interest to you, we will collect usage information, device information, and location information, and the server will combine these information to provide you with personalized content recommendation services.
+We will make comprehensive statistics and analyze features and preferences through algorithms to form indirect crowd portraits to recommend, display or push information that may be of interest to you, or push specific functions and services that are more suitable for you.
+2.4.2 Personalized Recommendations
+Function description: In order to display and recommend more relevant information to you and provide services that are more in line with your requirements, the product will collect and use your personal information and automatically calculate and predict your preferences through computer algorithm models to match you. Information or services that may be of interest, below we will explain to you in detail how the personalized recommendation service operates and how you can control it.
+a) The scope of our personalized recommendation services includes, but is not limited to, displaying graphic or video content, providing search results, recommending content, services or advertisements.
+b) In order to predict your preferences, we may collect and use your device information, location information, and behavior information when using the product, including your content browsing, information release, interactive communication, Corresponding information for activities such as searching, clicking, following, saving, browsing, downloading, sharing, and trading, as well as account information such as gender, birthday, and region in the account that you filled in by yourself. We will automatically analyze and calculate the above information, and the machine (or system) will automatically filter and push the content you may be more interested in based on the calculation results.
+c) We will provide real-time feedback to the recommendation model based on your content browsing related behavior in the process of using the product, and continuously adjust and optimize the recommendation results to better provide you with high-quality content.
+Please be aware that the personalized recommendation algorithm in the product does not identify the real identity of a specific natural person, but only provides more relevant and richer information based on user behavior and characteristics.
+d) You can turn off the personalized content push or turn off the personalized or programmatic advertising push. When you turn off the push, we will not process your personal information for the purpose of personalized push but will only push the information related to yours to you. Generalized content or advertisements that are unrelated to preferences.
+If you do not want to be recommended personalized content, you can turn off “Personalized Content Recommendation” through [︙]-[Settings]-[YouTube subscription]. When you choose to turn off personalized content recommendations, you will no longer be shown content related to your personal information or interests.
+The content posted by the accounts you follow will be displayed in the follow channel.
+When there is no content you are interested in, you can also enter the keywords of interest in the search bar, click and read the search results.
+2.4.3 What information about you will be used for personalized content recommendations?
+2.4.3.1 In order to show you and recommend more relevant information and provide services that are more in line with your requirements, the product will collect and use your personal information and automatically calculate and predict your preferences through computer algorithm models to match your interest’s information or service, we will explain to you in detail the operation mechanism of this personalized recommendation service and how you can control it.
+a) The scope of our personalized recommendation service includes displaying graphic or video content, providing search results, recommending goods and services (advertising), etc.
+b) In order to predict your preferences, we may collect and use your device information, location information and behavior information when using the product, behavior information includes your clicks, followings, favorites, searches when visiting/using the product,browsing, downloading, sharing and transaction related records.
+c) We automatically analyze the above information through computer algorithms, extract your user characteristics after calculation, and then combine other relevant characteristics to predict the preference degree of the content in the information candidate pool, and select and select the content according to the prediction results. sort. After deduplication, breaking up and other processing, the final content recommendation list is formed and displayed to you in turn.
+d) We will provide real-time feedback to the recommendation model based on your browsing behavior in the process of using the product, and continuously adjust and optimize the recommendation results to better provide you with high-quality content.
+e) Please be aware that the personalized recommendation algorithm in the product does not accurately identify the real identity of a specific natural person, but only provides more relevant information based on user behavior and characteristics.
+2.4.3.2 What if I don’t like the recommended content?
+If you do not want to be recommended personalized content, you can turn off “Personalized Content Recommendation” through [︙]-[Settings]-[YouTube subscription]. When you choose to turn off personalized content recommendations, you will no longer be shown content related to your personal information or interests.
+2.4.3.3 What is the effect of turning off personalized content recommendations?
+When you choose to turn off personalized content recommendation, we will not process your personal information for the purpose of the turned off personalized push, but will only send you general content or advertisements that are not related to your preferences. Therefore, you cannot enjoy personalized recommendation services. We will show you content based on non-personalized factors such as content popularity. You may see content that you are not interested in or even like, and your experience may be affected.
+2.5 Subsidiary products
+We may share your personal data with our subsidiary products to provide a more consistent experience and better service. We guarantee that our subsidiary products will treat your personal data in accordance with the purposes and requirements shown in this Policy. We will obtain your prior consent again if our subsidiary products wish to use your personal data for purposes other than those set forth in this Policy.
+3. Cookies
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the site again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can configure your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. We use cookies to provide you with a complete web browsing service. We do not collect cookie information ourselves. Please note that the websites you visit may use cookie to store your preferences, settings, login status, etc. For example, when you visit a webpage that has a login function for the first time, you need to enter a username and password to log in. After logging in, the website will record your login status. When you switch different pages under the site, you do not need to re-enter the username and password, you can directly browse the content of the web page. Websites may use cookie to recommend advertisements. For example, some websites use cookie to record websites that you click on to prevent you from seeing duplicate advertisements. We provide the ability to disable and delete cookies. You can disable or delete cookies.
+To make it easier for you to open web pages, we provide web page caching. We allow websites you visit to store some web page data, such as web page pictures and other information. When you visit the site next time, the site will directly read the saved data for display, thereby to open the webpage faster. The cache will expire due to expiration or manual removal. We will not upload any cached content.
+4. Security
+Rocketshield is committed to protecting the security of your personal data. We use a variety of industry-standard security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure. Rocketshield has strict restrictions on access to user data. Yet, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while Rocketshield uses reasonable efforts to protect your personal data, Rocketshield cannot guarantee its absolute security.
+5. Data retention
+Personal data shall be processed and stored for as long as required by the purpose they have been collected for.
+Therefore:
+Personal data collected for purposes related to the performance of a contract between Rocketshield and user shall be retained until such contract has been fully performed.
+Personal data collected for the purposes of Rocketshield’s legitimate business shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by Rocketshield within the relevant sections of this document or by contacting us.
+Rocketshield may be allowed to retain personal data for a longer period whenever user has given consent to such processing, as long as such consent is not withdrawn. Furthermore, Rocketshield may be obliged to retain personal data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+Once the retention period expires, personal data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+6. User’s rights
+6.1 Access and revise user’s personal data
+User may access and edit user’s personal data online through Browser Settings.
+6.2 Change of user’s authorization scope
+User may select on the page of Settings to change user’s authorization scope for us to process user’s personal data. Please be minded that since all functions of the product need certain basic personal data for normal operation, certain functions of the product may not operate normally when user withdraw user’s consent to processing of some personal data.
+When we receive user’s withdrawal of consent, we will no longer process user’s corresponding personal data.
+6.3 Delete user’s personal data
+User may submit a request to us to delete user’s personal data when:
+User’s personal data is no longer necessary for data collection or processing;
+User have withdrawn user’s consent to our processing of user’s personal data ;
+User’s personal data has been processed illegally;
+We are obligated to delete user’s personal data in accordance with the laws of EU members.
+We may not be able to delete user’s personal data immediately due to technical reasons. We will delete it during the next system update. We will not process user’s personal data in any way during the period between user’s request of deleting user’s personal data and the next system update.
+6.4 Respond to user’s requests
+We may first verify user’s identity upon receipt of user’s request and may request user to provide the necessary information for authentication.
+We will respond to user’s request on the 30th day after we receive user’s request and communicate with user in an appropriate way. If necessary, we may extend it (by an additional 30-day at most) and will inform user of the reason for the extension of the deadline on the 30th day after receiving user’s request. If we have reasonable reasons to believe that no measures are needed to respond user’s request, we will inform user of our decision 30 days from the date of receipt of user’s request and provide user with appropriate explanation.
+We will use best efforts to help user resolve relevant problems. If user are not satisfied with the response user received, user may refer the complaint to the relevant regulatory authority, or file a lawsuit before a competent judicial authority.
+7. Children’s privacy
+Rocketshield Services are not meant for people under 16 (or the minimum age required by the laws of the EU member states). We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. We do not knowingly collect information from children under the age of 16 and we do not target Rocketshield Service to children under 16.
+We will make our best efforts (including implementation of technical measures) to verify whether the processing of minors’ information has been approved by their guardians. We will try to delete relevant data as soon as possible if we are aware that we have collected the personal data of a minor without the prior consent of their certified guardians.
+8. International data transfers
+Your personal information may be transferred to and processed in countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country.
+This means that when we collect your personal information, we may process it in other countries. However, we ensure appropriate safeguards are in place so that your personal information will remain protected in accordance with this Privacy Policy. These include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information between us and third party service providers and partners, which require us to protect personal information they process from the EEA in accordance with European Union data protection law. It also includes transferring personal information to third party service providers and partners which are certified under the EU–US Privacy Shield. The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
+9. Update of Privacy Policy
+We reserve the right to revise or modify this Policy. For any update of this Policy, we will send you notice on the interface of this product to remind you of relevant updates and indicate the updated provisions for your ease of reading. Please do completely read and fully understand the updated Privacy Policy. By continuing to use this product, you will be deemed to have accepted the updated version of this Policy. We will not reduce your rights under this Policy without your explicit consent.
+10. Contacts
+We are very open about privacy and recognize your trust as a great value. If you have any questions about this statement or any privacy issues in our products or services, feel free to contact us through one of the following ways:
+for privacy questions and exercising your rights via our privacy email:
+privacy_fab@outlook.com;
+our data protection officer:
+dpo_fab@outlook.com
+;
+for general information:
+support@rocketshield.co
+.
+About us
+FAQ
+Press info
+Contact us
+Blog
+Get in touch
+Facebook page
+Facebook community
+Twitter
+Google +
+support@rocketshield.co
+Terms and Conditions
+Data Privacy
+User Agreement

@@ -1,0 +1,33 @@
+Confidentiality
+OTG Checked
+Privacy Policy
+The app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.
+DETAILS
+Sound Level Meter
+Privacy Policy
+The app doesn't collect any personal information. The Audio permission is used to measeu the sound level, we do not record or keep any audio files. We integrate Admob plugin but you can configure it not to push personalized ads.
+DETAILS
+Kaomoji
+Privacy Policy
+The app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.
+DETAILS
+Fait Au Japon
+Privacy Policy
+The app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.
+DETAILS
+APK Extractor
+Privacy Policy
+The app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.
+DETAILS
+Sim Infos & Contacts
+Requested permissions
+READ_PHONE_STATE
+: It is used to read the SIM ID & IMEI. These data stay on the phone.
+READ_CONTACTS
+: It is used to get the SIM contacts. These data stay on the phone. Only the user can share the data from the app to wherever he decides.
+DETAILS
+Voice recorder
+Requested permission
+RECORD_AUDIO
+: The sounds recorded using the mic are used only to create recordings files on your phone. It doesn't leave your phone unless you share these files yourself.
+DETAILS

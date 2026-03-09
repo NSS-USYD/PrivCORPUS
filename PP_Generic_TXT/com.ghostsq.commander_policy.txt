@@ -1,0 +1,97 @@
+Ghost Commander
+Search this site
+Skip to main content
+Skip to navigation
+Ghost Commander
+About
+Contact
+FAQ
+History
+How to use
+Links
+Ghost Commander
+About
+Contact
+FAQ
+History
+How to use
+Links
+More
+About
+Contact
+FAQ
+History
+How to use
+Links
+About
+All donations are currently redistributed to various charity organizations who support Ukrainian
+victims of Russian aggression
+. Please donate.
+Ghost Commander is a file manager with two panels for the Android™ platform. Its development was inspired by the famous
+Norton /
+Midnight
+Commander desktop applications, so if you are familiar with those  great programs, you will find Ghost Commander a familiar and very convenient environment.  As was said above, it has two separate panels, both of them able to show files from different locations. What does that give you? For example, when you need to copy files from one folder to another, you just select the files  in one panel and the target in the other, then hit the '5' key (either on the physical keyboard or on the toolbar). That's it. No need to do such boring steps as copying the files to the clipboard, navigating to the place you want them to be copied to, pasting and then going back.
+All the main file operations in this application are bound to numerical keys, with the same numbers as in the well-known prototype applications (e.g.: "F5 copy" is just '5', "F6 move" is '6'). If your device is not enriched with a physical keyboard, no problem, Ghost Commander features a customizable toolbar which has all the often-used commands collected in one place.
+Latest public version
+Ghost Commander 1.63
+That is the version that you should find at
+Google Play
+List of features
+Browse the local file system. Navigate easily through the folders tree.
+Manipulate files on external drive (such as USB OTG) via Storage Access Framework.
+Save shortcuts to the frequently visited folders to the favorites list (and also as icons on the system desktop).
+Base operations such as copy/move/delete/rename files and folders, create new folders.
+Launch a file with an appropriate application (for example launch an .apk file to install an application).
+Open a text file for editing, create new text files.
+Open a zip archive as a folder - copy (extract) files from it.
+Create a new zip archive, add new files to an existing one, delete files in an archive.
+Search files by a name mask on the local file system.
+Calculate the occupied size of files and folders, have the folders sorted by size.
+Connect to an FTP site, download/upload files and folders. (Active and passive modes supported.)
+Open a Windows network shared folder (SMB protocol). Copy files/folders to and from. (With a plugin.)
+Customize looks and feels - turn on/off the file icons, manage row size, background and foreground colors, tool buttons.
+Work in the root: mode to the file system on a "rooted" device and do the following:
+Change file permissions (chmod) and the ownership (chown) for a file or folder.
+Execute your own shell command.
+Remount partitions.
+DISCLAIMER
+By using this software (Ghost Commander file manager and any plugins to it), you agree with the following:
+The author of this software is not responsible for any kind of damage, loss of information,
+consequential damages, or any issues that are, or could be caused by the use of this software.
+You agree to use this software at your own risk.
+If you don't agree to the above, stop using this software immediately and uninstall it.
+License
+This software is distributed under GPL v3 license.
+Privacy Policy
+This privacy policy is intended to give you confidence in the privacy and security of your personal information.
+The application does
+not
+collect, transfer, sell any of the user's personal information.
+User credentials and password are stored encrypted, but a hack-proof confidentiality is
+not
+guaranteed.
+It requires WiFi access to the Internet
+only
+in order to make the FTP and other network services clients to be functional.
+No advertisement of any kind are shown.
+No linking or utilizing any social networking features.
+There are no links to any third party web sites.
+The application does not have an in-app purchases feature.
+It does not store or share your location.
+The application is suitable for minors. No foul language is used in the UI or the help texts.
+All Requested permissions with explanation
+INTERNET - to make FTP and other network plugins be able to connect to an internet host of the user's choice
+ACCESS_WIFI_STATE - to avoid letting the Wi-Fi down during a file transfer
+WAKE_LOCK - to avoid the phone going to a deep sleep during a file transfer
+WRITE_EXTERNAL_STORAGE - to let the file manager copy files to the sdcard
+VIBRATE - to let the phone vibrate when a long file operation is done
+INSTALL_SHORTCUT - to create short cut icons to the desktop
+MOUNT_UNMOUNT_FILESYSTEMS - to perform (un)mounting when specifically asked for
+ACCESS_SUPERUSER - a future proposed permission to be supported by superuser apps
+GET_ACCOUNTS - to let future plugins access Google-based services
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

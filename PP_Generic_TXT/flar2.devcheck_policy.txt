@@ -1,0 +1,110 @@
+Apps Privacy Policy – elementalx.org
+↓ Skip to Main Content
+Main Navigation
+Menu
+Home
+Downloads
+Google Pixel 5/Pixel 4a 5G
+OnePlus 8/8 Pro
+Google Pixel 4/4 XL
+OnePlus Nord
+Google Pixel 4a
+OnePlus 7/7T/7 Pro
+Samsung Galaxy S9/S9+
+Google Pixel 3/3XL
+Google Pixel 3a/3a XL
+OnePlus 6/6T
+Essential PH-1
+OnePlus 5 and 5T
+Google Pixel 2/2XL
+HTC U11
+Google Pixel/Pixel XL
+OnePlus 3/3T
+Nexus 6P
+Nexus 5X
+Moto Z
+HTC 10
+Moto G5 Plus
+Moto G4/G4 Plus
+Xiaomi Redmi Note 3
+Nexus 6
+Nexus 5
+Nexus 7 (2013)
+Elephone S7
+HTC One m9
+HTC One m8
+HTC One m7
+HTC One S
+Motorola Xoom
+How to install
+AppDash
+EdgeBlock
+Button Mapper
+Android Key Codes
+Custom Keycodes
+Remap Active Edge on the Pixel 2 or Pixel 2 XL
+Remap the Bixby Button
+Screen off actions without root
+DevCheck
+Source
+Support
+About
+Site Privacy Policy
+Contact
+Home
+›
+About
+›
+Apps Privacy Policy
+Apps Privacy Policy
+Respecting the privacy and personal information of users is important. This privacy policy applies to all apps by flar2:
+EX Kernel Manager
+AppDash: App Manager & Backup
+DevCheck Device & System Info
+High Brightness Mode
+EdgeBlock: Block screen edges
+Button Mapper: Remap your keys
+Next Track: Volume button skip
+The developer, flar2 (EX Solutions Inc.), does not collect or store any personal information about users of the apps listed above. The identities of the users of these apps is not known. And if any personal information about a user is ever received, it will not be disclosed or shared with a third party.
+All of the apps listed above are distributed by the Google Play store and use services provided by Google.  These services are as follows:
+Google Play paid app license (EX Kernel Manager and High Brightness Mode)
+Google Play in-app purchases (DevCheck System Info, AppDash, EX Kernel Manager, Next Track, Edge Block and Button Mapper)
+The apps listed above do not track behavior or usage statistics with analytics frameworks such as Google Analytics.  Some details about app installation and usage is provided by the Google Play Developer Console. This does not contain any personally identifying information and is not shared with third parties, it is simply the information developers see when they log into the Developer Console.
+Button Mapper uses Android’s Accessibility Service framework. This is used to detect when the physical or capacitive buttons are pressed on your device so they can be remapped. This allows people with disabilities to more easily use their device. It is not used to see what you type. Nothing you type on the software keyboard can be detected. Accessibility also allows Button Mapper to see which app is currently showing on your screen. This is used for custom key actions that need to know the current context, for example, whether the home screen is showing or whether a specific app is open.  Button Mapper does not collect or share any of your personal information.
+EX Kernel Manager, AppDash, DevCheck, Button Mapper, Next Track, Edge Block and High Brightness Mode use paid app licensing and/or in-app purchases.  Google Play licensing and in-app purchase use information about your account and device to verify purchase status. EX Solutions Inc. does not know the identity of users who purchase these apps or make in-app purchases. Limited payment details provided by Google Play are stored and used strictly for accounting and tax purposes. AppDash, DevCheck and Button Mapper additionally use RevenueCat to manage subscriptions and payments, EX Solutions Inc. only provides the minimum anonymous information necessary to manage subscriptions and in-app purchases. No personal information is shared with RevenueCat, their privacy policy can be found
+here
+. EX Solutions Inc. tries to avoid using third party services, but in this case, it provides a better and more secure user experience. To request deletion of anonymous in-app purchase information stored by RevenueCat, please contact elementalxcontact@gmail.com
+AppDash uses the PACKAGE_USAGE_STATS and QUERY_ALL_PACKAGES permissions. These permissions are needed for the core functions of the app, such as showing a list of installed apps, storage used by apps or app usage statistics. The information provided by these permissions never leaves your device. AppDash does not collect or share any personal information.
+DevCheck uses the QUERY_ALL_PACKAGES permissions. This permission is needed to show a list of installed user and system apps on the “Apps” tab. DevCheck does not collect or share any personal information.
+Button Mapper uses the QUERY_ALL_PACKAGES permissions. This permission is needed to show a list of installed apps and shortcuts so the user can choose an app or shortcut to launch while remapping a button. Additionally, a list of apps is shown so the user can disable remapping while using the specified app(s). Button Mapper does not collect or share any personal information.
+AppDash optionally retrieves information about each of your installed apps from the Google Play Store (play.google.com) to display within the app. This traffic is encrypted and anonymous. You can enable or disable this in settings.
+AppDash optionally allows you to use Google Drive for cloud backups. All file transfers and communications between your devices and Google Drive are encrypted and do not go through EX Solutions Inc. servers. Ex Solutions Inc. does not collect or have access to your files. Using Google Drive for cloud backups requires access to your Google account. EX Solutions Inc. does not collect, share or store any of your account information.
+EX Kernel Manager periodically contacts elementalx.org if “Check for updates” is enabled in settings and your device supports the ElementalX Kernel.  No personal information or unique information from your device is transmitted to elementalx.org or EX Solutions Inc.
+EX Kernel Manager, DevCheck, AppDash, Button Mapper, and High Brightness Mode can ask for root access. Users may revoke or refuse to grant root access at any time. These apps will never under any circumstances acquire root privileges without the user’s consent.  These apps will not abuse root privileges and only use root access to provide the functionality in the app descriptions.
+DevCheck System Info and Button Mapper may ask for sensitive permissions such as Phone, Location, Network and Camera.  These are used to provide app functionality only. EX Solutions Inc. does not receive any information from these permissions. The benchmarking feature in DevCheck maintains a database of benchmark scores and hardware info. No personal or identifiable information is collected. If you ask to have the data you have submitted deleted from the server, I could not do that because there is absolutely no way for me to tell which scores are yours.
+If you have any questions about this Privacy Policy, please contact:
+elementalxcontact@gmail.com
+Search
+Search for:
+Top Devices
+OnePlus 8/8 Pro
+Google Pixel 5/Pixel 4a 5G
+OnePlus Nord
+Google Pixel 4a
+Google Pixel 4/4 XL
+OnePlus 7/7T/7 Pro
+Google Pixel 3/3XL
+Samsung Galaxy S9/S9+
+Google Pixel 3a/3a XL
+OnePlus 6/6T
+Support the ElementalX project
+This helps me pay for all these devices and stay caffeinated so I can stay up late coding.
+Meta
+Log in
+Entries feed
+Comments feed
+WordPress.org
+©  2023
+elementalx.org
+| Powered by
+Responsive Theme

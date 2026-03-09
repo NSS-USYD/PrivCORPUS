@@ -1,0 +1,13 @@
+Policy
+Policy
+Personal Information.
+We do not collect Personal Information. "Personal Information" is information that identifies you or another person, which may be transmitted or received when you use an Application. Personal Information includes your geographic location information, names, physical addresses, email addresses, telephone, fax, SSN, information stored within your Device and other information you transmit or receive using an Application, the Service and/ or the Site which identifies you or another person.
+Sensitive Information
+1. READ_PHONE_STATE permision
+The permission will be used to listen incoming call to unlock screen and lock screen when call finished.
+2. READ_CONTACTS permission and READ_SMS permission.
+The permissions will be used to display the unread message and missed call on the lock screen, users will easily access these information.
+3. CAMERA permision
+The permissions will be used to quickly open camera from application.
+Information collected through advertising
+We may use third-party ad service providers to serve ads in our Services. To deliver these ads, third parties automatically collect certain information about you and your devices and your use of the Services. This information may include visits to the websites and applications of us and others, your IP address, your Internet service provider, and the browser that you use to visit our website.

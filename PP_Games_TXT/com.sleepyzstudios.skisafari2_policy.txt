@@ -1,0 +1,154 @@
+Privacy - Ski Safari 2
+Ski Safari 2
+Menu
+Home
+Get the Game
+Support
+Legal
+Download
+Support
+Legal
+Privacy Policy
+This privacy policy was last updated on 2015-10-27.
+Why do we store your information?
+For your purposes:
+To improve your enjoyment of the Game.
+To display your friends' scores (ie. name, avatar and score).
+To display your friends' progress through the Game (eg. rank, coins, medals).
+To display global high scores (ie. name, avatar and score).
+To enable you to play across all your devices using the same save game.
+To prevent you from losing your save game data (ie. cloud backups).
+For our purposes:
+To analyse user trends and demographics.
+To improve the quality of the Game.
+To detect security issues.
+To protect our server and its data.
+What information do we collect or store?
+Our server generates a unique Player ID for you on first login.
+    This is used to identify your data on our server and to identify you to other players.
+    We also collect or store data as detailed below.
+Data resulting from user behaviour:
+Game data (eg. player name, avatar, coins, rank, stars, challenges, high scores).
+Support requests submitted in-game.
+Player IDs for people that you play multiplayer games with (who we expect are your friends in real life).
+Details of any Promo Codes that you claim from within the Game.
+Mobile analytics (not personally identifiable) - see the Mobile Analytics section.
+Data about your device:
+Your unique Device ID. This is necessary to associate your device with a Player ID.
+Your device model, device name and OS version. This helps us handle support tickets and track down bugs.
+Data about your access to our server:
+A history of your IP address and region on each login (usually occurs on each game startup).
+A history of which social network accounts you link to.
+Data from your social networks:
+Your account name. This may be your real name.
+Your public profile. This information is already publicly available.
+What information do we NOT store?
+We do NOT store any of the following:
+Your email address.
+Your phone number.
+Contacts on your device.
+Your friend list from any social network.
+Profanity
+The Game is designed to be family-friendly and it contains no profanity.
+    However, as with any online game, some users may attempt to express profanity in the Game.
+    The only way for users to write text to one another in the Game is by changing their player names.
+    We have measures in place to protect users from seeing player names that contain profanity.
+Specifically, a player's Online Name will not be shown on the global leaderboards unless it matches one of their social network names.
+    In this way, we rely on the profanity filters of the social networks, which are well-equipped for this task.
+In the friends leaderboards, a player's Online Name is always shown, even if it does not match one of their social network names.
+    We reason that there is some degree of trust and understanding between friends on social networks.
+    If one of your friends enters a profane name, you could request them to change it, or unfriend them from your social network.
+Players can also enter their name in the local leaderboard (which is visible on your device only), as well as a Versus Name which is used in multiplayer games.
+    Of course, if you enter profanity into your own leaderboard or your Versus Name, you will see that profanity.
+    Users connecting to a multiplayer game will also see your Versus Name, since we consider players in the same multiplayer game to be friends in real life.
+Sharing Features
+You can take photos of the Game's characters performing stunts and doing other activities in the Game ("Game Photos").
+    We do not store Game Photos on our server, nor does the Game upload them to any server.
+You can choose to share Game Photos yourself via the native sharing options that your device offers.
+    In this case, the Game passes the image on to the native sharing service and has nothing further to do with the sharing.
+    If you choose to share Game Photos with a third party, you should check the privacy policy of that third party.
+We do not use any sharing features of social networks (except via the native sharing options as above).
+In-game Support Requests
+If you send us a support request from within the Game, the support request is automatically associated with your player profile.
+    This includes your save game data and may include your name.
+    We may need to access this information in order to handle your request.
+Replies to a support request appear within your game's News feed.
+    We will not email you directly in response to a support request unless you have asked us to do so.
+Mobile Analytics
+Like many apps, we use mobile analytics to record player behaviour.
+    Particular events in the Game are logged and sent to a third-party server for analysis.
+    For example, we record which items in the Shop are most popular, and whether players opt-in to video ads.
+    This lets us understand player behaviour and helps us improve the Game.
+    For example, we may reduce the cost of an item in the Shop if very few players are purchasing it.
+Mobile analytics data is aggregated and is not personally identifiable.
+    Your analytics data is not associated with your player data in the Game (eg. Player ID or save game data).
+In-Game Advertising
+Some versions of the Game include advertising.
+    Our in-game ads are served using third-party code libraries, which may track user behaviour using a unique advertising ID.
+    This ID may later be used for attribution tracking when you make a purchase in a store.
+Since the Game is designed for families and children, we only show age-appropriate ads.
+    We do not show ads that contain adult content, graphic violence, drug use or gambling.
+Our in-game ad networks are: Unity Ads, Chartboost, AdColony.
+Online Advertising
+Some of our advertising partners use remarketing and interest-based advertising.
+    This technique targets ads at people who have visited a particular website or used a particular app in the past.
+    We may choose to use remarketing in our advertising campaigns.
+Our advertising partners may use cookies and/or a unique advertising ID to track which ads you have seen and which ads you clicked on.
+    This information may be used to show you more relevant ads in future.
+Our advertising campaigns do not collect personally identifiable information.
+    Cookies and advertising IDs from online advertising are not associated with your data in the Game (eg. Player ID or save game data).
+    This is in order to keep advertising data not personally identifiable.
+Our online advertising partners are: Google.
+To opt out of Google's use of cookies, visit their
+Ads Settings
+.
+    To opt out of another third party vendor's use of cookies, visit the
+Network Advertising Initiative opt-out page
+.
+Attribution
+In some cases, the Game may notify a third-party server when it is installed ("attribution tracking").
+    This is a common practice that allows the referrer to receive credit for the installation.
+    For example, some websites make a profit by directing users to download particular apps.
+Where the Game tracks attribution, it is not associated with your data in the game (eg. Player ID or save game data).
+    This is in order to keep attribution data not personally identifiable.
+Use of This Website
+This website uses cookies.
+    We may store your selected language in a cookie so that the website can show each page in your selected language.
+We use a Google service to guess your approximate location in the world based on your IP address.
+    This is common practice on websites.
+    We may use this information to take an educated guess at your language.
+Your IP address may be logged while using this website.
+    Other information derived from your IP address may be stored for analysis.
+    For example, we may determine which countries give us the highest number of visitors.
+How We Use Information
+We may analyze Mobile Analytics data and player data to identify user trends and understand user demographics.
+We may analyze save game data stored on our servers.
+    We use this to understand user demographics and to improve the Game.
+When you connect a social network in the Game, our server communicates with that social network to verify your account.
+    This is a necessary security step to protect your account from malicious users.
+    Our server does not otherwise communicate with your social network.
+Disclosure of Your Information
+We will not disclose your personally identifiable information to any third party unless required to do so by law.
+We may run analysis tools to aggregate information (thereby stripping any personally identifiable information) in order to gain insights into user demographics.
+    We may share the analysis results with our business partners.
+Erasing Your Data
+To request to have your data erased, email us at support@skisafari2.com.
+    You will need to provide us with a way to identify your personal information.
+    The easiest way is to tell us your unique Player ID, which can be found by opening the Settings toolbox in the Game.
+Security and Data Retention
+Our server is built on Google App Engine, one of the leading cloud service platforms.
+    All communication between the Game and our server is protected with industry standard encryption.
+Google App Engine uses a sharded database, which means that copies of your data may exist in multiple data centers around the world.
+    This is a common design for cloud databases.
+Your data is retained as long as necessary to continue to provide you with services for the Game.
+    For example, if you uninstall the Game and reinstall it some time later, your previous save game should (in most cases) still be stored in the cloud.
+    At our discretion, we may decide after some time that your data has become too old and should be deleted.
+We perform regular backups of all server data. Backups are stored in Google's US data centers.
+    Backups are retained for the purpose of recovering from catastrophic server failure or reversing damage by malicious users.
+In some unlikely cases, your personal data may be included in server logs.
+    For instance, this may occur if the server encountered an error, or if suspicious activity is detected on your account.
+    Logs are retained for approximately one month, depending on usage and storage limits.
+    Logs are retained for the purpose of analysing errors and improving the service.
+Changes to This Policy
+If we make any material changes to this policy, we will notify you on this website. If the changes are substantial, we may also notify you via the News feed in the Game.
+Page and contents Copyright © 2015 Sleepy Z Studios

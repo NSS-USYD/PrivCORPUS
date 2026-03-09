@@ -1,0 +1,117 @@
+Privacy Policy
+GameTown Limited (hereinafter referred to as â€œGameTownâ€, â€œweâ€, â€œusâ€, or â€œourâ€) is dedicated to protecting the privacy of our users and handling any personal data obtained from users with care and respect. An overall principle is that we do not collect more information than is reasonably necessary to provide you with the best user experience.
+This Privacy Policy (hereafter referred to as the "Privacy Policy" or â€œPolicyâ€)) is applicable where the GameTown acts as a data controller with respect to the data we collect from you. This Privacy Policy will explain how we use the personal data we collect from you when you use our mobile game applications (also referred to as the â€œgamesâ€ or â€œgameâ€) or the official web-site of GameTown with the domain name https://www.gametownltd.com/ (hereinafter referred to as the â€œweb-siteâ€). Providing access to the games and the web-site is collectively referred to as the â€œServicesâ€.
+1. What is the legal basis for processing your personal data?
+The legal basis for processing your personal data is your freely given consent.
+When you download and first access the game of GameTown on your mobile device, you will see the banner that will offer you to follow the URL links and read our Privacy Policy and Terms of Service and will include the button â€œConfirmâ€. Before you start using the game of GameTown, you shall read our Privacy Policy and Terms of Service and press the button â€œConfirmâ€.
+By pressing the button â€œConfirmâ€, you provide GameTown with express and unambiguous consent to processing of your personal data in accordance with this Policy and the provisions of General Data Protection Regulation 2016/679 (GDPR).
+Besides, before starting to use the game of GameTown you shall put a tick in the box or press the button â€œConfirmâ€ (depending on the settings of the game) in the section â€œI confirm that I am at least 18 (eighteen) years old (hereinafter referred to as the â€œsectionâ€). If you are less than 18 (eighteen) years old, you are not allowed to proceed with using the game.
+You cannot start using the game of GameTown before providing us with the consent to processing of your personal data. If you do not agree to the processing of your personal data in accordance with our Policy and do not press the button â€œConfirmâ€ or put a tick in the box, you will not be provided with the opportunity to use the game. In this case we will not process your personal data.
+Processing of your personal data is necessary for providing you with the Services.
+When you open the web-site of GameTown, you have an opportunity to use emails provided for on the web-site for the purpose of contacting us. When your email us, you provide as with express and unambiguous consent to processing of your personal data necessary for providing the answer to your letter.
+2. Who is the controller and the processors of your personal data?
+Particularly, the data analysts of GameTown can send the request to the servers located in European Union which automatically process your personal data and obtain the access to your personal data for the purposes of manual processing. Such manual processing of your personal data may include the manual analysis of your personal data for targeting and marketing purposes, particularly, for choosing the audience to which the advertisements of GameTown can be shown.
+Besides, GameTown can receive the information on your in-app purchases since the money paid by you are credited to the checking account of GameTown.
+For the avoidance of doubts, GameTown implements all the technical and organizational measures necessary for securing your personal data from unauthorized use.
+Besides, we have the following categories of processors that interact with your personal data:
+processors that store your personal data (such as Amazon, Google Cloud console etc.); the activities of some processors in this category is limited to storage of the data only, while others may additionally process your personal data for the purposes of analytics (see below);
+processors that provide technical support as to the games of GameTown and assist us in involving new users of our games (such as App Store Connect, Google Play Console etc.);
+processors that provide GameTown with IDs of our users and show advertisements about our games to such users (such as Facebook)
+Additionally, we use several analytics services to analyze the behavioral data of the users of our Services (such as MRGS (which includes AppsFlyer), Facebook Analytics, devtodev, Google Analytics, Mail.ru etc.).
+GameTown also uses ironSource service which collects behavioral data about users through Software Development Kits (SDK) integrated inside our games and uses such data for the purpose of monetizing the games of GameTown via advertising networks (such as Fyber, AppLovin, Vungle etc.).
+All the processors mentioned in this Policy implement all the technical and organizational measures necessary for securing your personal data from unauthorized use. For the avoidance of doubts, GameTown concluded the contracts with all the processors mentioned in this Policy, and the processing of your personal data is fully governed by these contracts.
+3. What personal data do we process and how?
+GameTown collects information when you start using our Services. This information relates to how you use our Services including the type of device you use, and may include information that you submit when creating an account with us or through your social network accounts.
+Particularly, when you download and start using our game, the SDK integrated into the game receive access to Identifier for Advertisers (IDFA) (if the mobile application is distributed via App Store and available on iOS operating system) or Google Advertising ID (if the mobile application is distributed via Google Play and available on Android operating system) of your mobile device (hereinafter referred to as the â€œDevice IDâ€). Such Device ID tracks all the behavioral information about you that relates to your use of the game. Particularly, by use of Device ID we can automatically receive the information on your progress inside the game, on your interactions with other players of the game, on the virtual items you purchase via the game (either for free or for real or virtual currency), on the rewards you receive via the game, on your scores or achievements via the game, and other gameplay data. For the avoidance of doubts, we do not collect any information on other mobile applications installed on your mobile device.
+Besides, the SDK integrated into the game allow GameTown to automatically collect the following data:
+IP address of the device;
+device name and operating system;
+language settings;
+precise location data (your actual GPS position), if you provide us with the consent to processing of such personal data
+Whether or not you create an account inside the game, we can receive the following information from you:
+language preferences;
+music and sound settings;
+playerâ€™s nickname;
+the information on the amount of money you spend on in-app purchases
+In order to save the progress of the game (gameplay data) on your mobile device, you have an option to create an account via the game. You can create the account by registering inside the game or by linking the game to your social network account (such as Google Play account, Facebook page etc.). In this case we can process the following personal data that you provide to us:
+ID of your social network account (Google ID, Facebook ID etc.); the social network that holds your social network account can also share your GPS position or general location data (the country of your residence) with us if your account settings allow to do so;
+your real name or nickname;
+the photo of your social network profile;
+your age and gender;
+your contact information (such as email, phone number etc.)
+Besides, you can write a message to GameTown through our games. In this case we can process the information you provide to us and the information on chat logs and player support tickets. Additionally, we can process the information you provide to us which helps to identify your lost account of the game.
+If you exchange messages with other players via the game, GameTown may also store your conversation history with other players, including chat logs.
+If you send a complaint to us stating that you in-app purchase was not successful (for example, you did not receive the virtual item you had purchased, or the system debited the excessive amount of money from your account) or ask us to delete or restore you in-game account, we can process the following personal data:
+identification information on your in-game account (including Facebook or Google ID);
+payment details (meaning the information about the transaction itself); we do not process the information on your bank account or credit/debit card
+We can also process other types of information that you willfully provide to us in order to verify your in-game account.
+If you do not provide us with the identification information on your in-game account, payment details, or other types of information necessary to identify your account, GameTown reserves the right not to resolve your issue (refuse to delete or restore your account or reply to your complaint on in-app purchase), subject that it is not technically possible to resolve your issue without processing your personal data.
+If you email us via the web-site, we can store the history of conversation with you and use your message and the information from the message to provide you with the answer to the message.
+We do not knowingly process any cookies via our web-site. However, our web-site was designed by use of the Wix service, and Wix may process some cookie files. We do not control such process because Wix provides templates for creating web-sites and controls the use of such templates. To learn more about Wix and their processing of cookies, please follow the official web-site of Wix with the domain name wix.com.
+4. Why do we process your personal data?
+We use personal data and other information about you for the following purposes:
+to provide you access to the Services and associated games and services, and continuously improve their features;
+to operate the games and customize your player experience;
+to store your game settings, gaming-history, and provide personalized content of the games;
+to provide player support services;
+to analyze and optimize the functioning of the games;
+to respond to your comments and questions with the games and provide player support;
+to enable in-game purchases;
+to provide relevant advertisements and to send you promotional messages by email or other communications;
+to enable social network integration;
+to provide competitions via the games;
+to prevent cheating, fraud, and other types of crime aimed at illegal obtaining of information or stealing your assets;
+to meet legal and tax obligations
+We need to use the IP address and the Device ID of your mobile device to tailor and improve the advertisements that may be introduced to the games and measure the effectiveness of these advertisements. Particularly, we may use the behavioral data tracked on the Device ID for the purpose of usersâ€™ segmentation and determining the â€œlook-a-likeâ€ type of the user.
+If you create an account via the game, we may use the personal data you provided to us for the following purposes:
+to assist you in creating accounts via the games and allow you to play our games;
+to update and develop player profiles;
+to verify and confirm payments of the users;
+to send you security alerts and support messages;
+to enable you to communicate with other players of the games
+5. How do we store your data?
+In order to help ensure a secure and safe player experience, we are continuously developing and implementing administrative, technical and physical security measures to protect your data from unauthorized access or against loss, misuse, or alteration.
+Most of the servers used by GameTown are located within the territory of European Union.
+However, some of the servers of our processors are located in the United States of America and in the Russian Federation.
+By agreeing to the processing of your personal data in accordance with this Policy, you provide us with the explicit consent to transfer your personal data to the Russian Federation or the United States of America despite all the possible risks of such transfer the information on which had been previously provided to you before you started using the Services.
+The servers of our processors that analyze your personal data (including analyzing for marketing and targeting purposes) can be located in different countries. However, our processors apply all the necessary organizational measures necessary to comply with the provisions of GDPR, and we carefully choose our processors.
+We store your personal data for as long as your account is active or as needed to provide you with the Services. We will periodically de-identify unused game accounts and we regularly review and de-identify unnecessary data.
+6. Are there any recipients of your personal data?
+We only provide your personal data to our processors determined in this Privacy Policy, and there are no other recipients of your personal data. However, our processors may use your personal data for their own business purposes, namely, for improving analytical process or exploring the audience of mobile applications. In doing so, they do not sell or otherwise transfer your personal data to any third parties for commercial purposes.
+We do not provide personal data to any other body (either natural person, or legal entity, or public authority) for commercial or marketing purposes, except if you explicitly give us permission to do so, or if doing so is a part of a specific program or operation for which you have registered or applied. In such case, you may withdraw your permission at any time.
+Our ad management and recommendation system designed so that your information is not shared directly with our advertisers. An advertiser or maker of a recommendation can only choose to target advertisements to groups of users falling within criteria such as age, gender or location, or to target communities according to type. If you fall within one of the target groups, you will receive an advert or recommendation.
+Besides, other users of our games can see your in-game account data and your in-game activities (for example, the level of your character in the game or your game progress). They may also read the messages you post in a public chat or write in a personal chat and reply to such messages.
+7.What are your data protection rights?
+GameTown would like to make sure you are fully aware of all of your data protection rights. Every personal data subject is entitled to the following:
+The right to access â€“ You have the right to request us for copies of your personal data. We may charge you a small fee for this service. Besides, you have the right to request GameTown to provide you with the information on whether your personal data is being processed, and on the aspects of processing your personal data (namely, the information about the purposes of personal data processing, the categories of personal data processed, the categories of recipients of your personal data, the period during which your personal data is processed, the sources from which your personal data is collected, and your rights that you granted in accordance with GDPR).
+The right to rectification â€“ You have the right to request that we correct any information you believe is inaccurate. You also have the right to request us to complete the information you believe is incomplete.
+The right to erasure â€“ You have the right to request that we erase your personal data, under certain conditions.
+The right to restrict processing â€“ You have the right to request that we restrict the processing of your personal data, under certain conditions.
+The right to object to processing â€“ You have the right to object to ours processing of your personal data, under certain conditions.
+The right to data portability â€“ You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+You may send the request aimed at exercising your rights provided herein to our email
+[email protected]
+If you make a request, we have one month to respond to you. If you would like to exercise any of your rights, please state clearly in the request what the information you would like to know, rectify, or erase. This request needs to be signed and dated and contain a copy of the front side of your identity document.
+You can also withdraw your consent to processing of your personal data. Please note that if you do so and do not have the access to the data that we need to maintain and administer the Services, you may not be able to use the Services and/or get registered at it.
+Besides, you have the right to lodge a complaint with a supervisory authority of the state of your habitual residence, or of the state where your work place is located, or of the state where the place of alleged infringement of GDPR is located, if you consider that processing of your personal data by GameTown or its processors infringes GDPR. Exercising of such right does not preclude you from using other administrative or judicial remedies.
+If you are not satisfied with the decision of the supervisory authority, you have the right to an effective judicial remedy against the decision of such supervisory authority. The exercising of such right depends on the procedural law of the state in which the supervisory authority is established.
+You also have the right to an effective judicial remedy against GameTown or its processors if you consider that processing of your personal data by GameTown or its processors infringes GDPR. In this case the lawsuit against GameTown or its processors shall be brought before the courts of the states where GameTown or its processors are established, or, alternatively, before the court of the state of your habitual residence.
+8. What security measures are applied by GameTown
+and its processors?
+GameTown and the processors of GameTown have applied all reasonable and appropriate technical and organizational measures to ensure that your personal data processed securely.
+Particularly, when your personal data is stored on the servers of GameTown or its processors, only limited number of employees of GameTown or its processors have access to the personal data provided that they signed confidentiality agreements. Such employees receive access to your personal data, only if their employment relationship obligations require them to process your personal data.
+Furthermore, our processors that store your personal data apply encryption to secure your personal data against unauthorized access or use.
+9. How can we change this Privacy Policy?
+GameTown reserves the right to amend this Privacy Policy at any period of time. Amendments will be effective as of the moment of publication on the web-site of GameTown. You should check the web-site of GameTown regularly for tracking such amendments.
+10. MANAGING YOUR DATA
+UPDATING YOUR INFORMATION AND CONTACT PREFERENCES
+You may update your information either directly through our Apps, if applicable, or by sending an e-mail to
+[email protected]
+.
+DELETING YOUR DATA
+You can request for your data to be deleted either directly through our Apps, if applicable, or by sending an e-mail to
+[email protected]
+.
+YOUR CHOICES
+In certain circumstances, providing Personal Information is optional or you may have opt-out choices as described in this Privacy Policy. However, if you choose not to provide Personal Information that is needed to use some features of our Services, you may be unable to use those features. You can also contact us to ask us to update or correct your Personal Information or to withdraw your consent for our future collection, use or disclosure of your Personal Information in accordance with applicable laws.
+This Privacy Policy was last updated on 1 June 2022.

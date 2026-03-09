@@ -1,0 +1,16 @@
+Ringtone, mp3 cutter
+Search this site
+Skip to main content
+Skip to navigation
+Ringtone, mp3 cutter
+Privacy policy
+Mp3 cutter personal information
+Mp3 cutter with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information.
+Explains for some permission requests
+in Ringtone, mp3 cutter application, I request somes sensitive permissions to make functions of application work properly:
+android.permission.RECORD_AUDIO: This permission to allow you recorder audio to cut  or make ringtone
+android.permission.READ_CONTACTS: This permission to allow you asign ringtone to each contact, by read Contacts, you can set ringtone for each contact if you want.
+Google Sites
+Report abuse
+Google Sites
+Report abuse

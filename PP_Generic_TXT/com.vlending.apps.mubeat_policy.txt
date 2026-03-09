@@ -1,0 +1,173 @@
+Privacy Policy
+Privacy Policy
+‘Vlending’(Hereinafter referred to as “Company”) values user’s online privacy, and is committed to protect the
+    user’s personal information provided to the Company during the use of the Company’s mobile service ‘Mubeat’
+    (Hereinafter referred to as “Service”).
+This Privacy Policy may be changed from time to time due to changes in government laws and guidelines or changes in Vlending's internal policy. In cases where there are changes to the contents of this Privacy Policy, Vlending will promptly reflect the changes in the Privacy Policy found in the APP Service > Settings, and on the initial page of the Homepage.
+1. Collection of Information
+The Company require certain information to provide the service to the users (Hereinafter referred to as
+    “Member”).
+Members do not have to create an account to use some of the service features, such as searching, viewing the charts
+    or artist’s channel. If a member chooses to register and create an account, he or she must provide
+    the Company with some personal data so that the Company can provide the Service. When creating an account, a member can
+    sign up or connect to the Service with an account from another service like Google, Facebook or Twitter.
+In addition, in order to provide the Member with convenient and various services, the Company can use the personal information collected from the Member to carry out advertising or marketing activities of the services provided by the Company through methods like E-mail or push notifications. In such cases, the Member can refuse unwanted services any time through E-mail, etc.
+1.1 Method of Collection
+By selecting and clicking the "Agree" button for the Company's Terms of Service at the time of signing up, the Member agrees to this Privacy Policy, and accordingly, the Company collects personal information based on the information entered in the registration form.
+The Company collects the information of the member in the following ways:
+Information collected during the registration for the Service or in the course of the use of the Service
+Information provided by the third parties and business partners of the Company
+Information collected during the 1:1 inquiry and information provided directly by the user
+2. What We Collect
+2.1 Basic Account Information
+For account registration, log-in service, and seamless customer support, and to verify the user’s age for the content
+    use, the Company collect and use the following personal information:
+Log in via Mubeat account: user ID (E-mail address), password, age
+Log in via Facebook account (only when the user is set as a public user profile): Facebook ID, E-mail address,
+            display name, age
+Log in via Google Plus account: Google Plus ID, E-mail address, display name, age
+Log in via Twitter account: Twitter ID, E-mail address, display name, age
+The following information may be collected with the user’s consent for age verification or identity verification as
+    required by relevant laws or regulations:
+Encoded identification information (CI)
+Identification information of overlapped membership (DI)
+In the course of using other services, the following information may be generated and collected:
+Mubeat services related activities, such as video selection, watch history, and search terms
+Additional collection of E-mail addresses and giveaway shipping information during the processing of events and customer inquiries.
+2.2 Technical information
+To securely and reliably set up and maintain the account of Members and to operate our Service, the Company use
+    technology like application program interfaces (APIs) and embeds to make that informations available to websites,
+    the application, and others to collect certain types of, but are not limited to, the information addressed
+    below:
+Log data:
+The Company receives information when Members use the Service, which we refer to as “Log Data,” even if users have
+    not created an account. This Log Data includes information such as Member’s IP address, unique device identifier
+    (UUID), operating system, mobile carrier, and device information (including device language settings), and ad identifiers (GAID/ IDFA).
+The Company uses information the Members provide and the data provided, including log data and data from third
+    parties, to make inferences like what contents the Members might be interested in, age, what languages they speak and
+    etc. This helps us better design our service.
+Links:
+To operate our Service, the Company keeps track of how Members interact with the share links of video clips from the Service on other websites.
+Location information:
+The Company may collect general information (e.g. IP address and country of residence) about the Member’s location, and may use that information to customize the Service and features that need to know the Member’s location to work properly. By accessing and using the Service, the Member consents to this collection and processing of location information.
+The Company receives these information from our business partners and service providers (such as Google Analytics) who assist us in offering and improving the Service by providing information about how the Members use the Service.
+Below are the list of, but are not limited to, the service providers of the Company:
+Google Analytics
+Firebase
+Facebook Analytics
+Amazon Web Service
+3. Use of Information
+The Company may use the collected information of users for any of the following purposes:
+To provide the Service in a seamless manner and to facilitate, manage and improve the user experience
+For Member identification and to detect and deter unauthorized use of or abuse of the Service
+To make statistics on the user’s Service usage
+To conduct user surveys and statistical analysis for the improvement of the Service
+To verify and respond to any requires made by the user
+To notify the user of any other important notifications (through push notification, E-mail, online message
+            channel), if necessary
+To provide promotional events and advertising information (through push notification, E-mail, online message channel)
+To provide personalized service and information (including advertisements) provided by the Company
+※ The Company collects minimal behavioral data in order to transmit personalized online ad information. In order to provide personalized ad information, behavioral data collected through ad identifiers is stored for up to 6 months and is then destroyed. When destroyed, a technical method is used such that recovery or restoration is impossible.
+Members can block personalized ads at any time, and if they do, they will no longer be shown personalized ads.
+How to decline collection of behavioral data
+ㆍAndroid Phone
+- Google Settings → Ads → Opt out of Ads Personalization
+ㆍiPhone
+- Settings → Privacy → Advertising → Limit Ad Tracking
+4. Sharing of Information
+The Company will not share personal information to a third party without the user’s content, unless one of the
+    following circumstances applies:
+Affiliates and service providers that support the seamless provision of the Service
+With companies that perform services on the Company’s behalf (including both third parties and our
+            affiliates), such as providers of technical infrastructure (such as servers) or engineering or other
+            support, technical services and features developers, research and analytical companies, and E-mail providers
+When the users consent to the sharing in advance
+If required to be disclosed by the relevant laws and regulations and when we believe in good faith that such sharing is permitted by law or is reasonably necessary in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or the Terms of Service
+With our affiliates for the collective benefit of our affiliates’ businesses and for operational purposes
+The Company shares user data with ad technology providers. These ad technology providers may collect users' behavioral data and use data about users for the purposes of ads personalization and measurement.
+Below is a list of the Company's ad technology providers. The providers may vary by country:
+Google
+Smart Media Representative Co., Ltd
+Facebook
+IGAWorks
+Tapjoy
+Buzzvil
+Vungle
+AppLovin
+PubMatic
+Liftoff
+adPOPcorn
+MoPub
+4.1 Public Information
+When a Member creates an account, the display name and profile image information are always public and shared with other Members of the Service. When a Member uploads postings in the artist community, the contents are shown to the public. Any comments posted on another Member’s postings will also be public. The Member is responsible for all the information they provide through the Service, and so should think carefully about what he or she makes public, especially if it is sensitive information.
+5. Personal Data of Children
+The Company does not knowingly collect or solicit personal data from anyone under the age of 16 in countries that implement the EU GDPR amendment. If you are under the required minimum age, please do not attempt to register for the Service or send any Personal Data about yourself to the Company. If we learn that we have collected Personal Data from a child under the required minimum age, we will delete that information as quickly as possible. If you believe that a child under the required minimum age may have provided us Personal Data, please contact us at
+support@mubeat.tv
+.
+According to each country's law, it may lower the age limit for children requiring the consent of their legal representatives, such as parents, down till the age of 13. For children under 13 years old, they can do so through their legal representative or authorized representative. In this case, the legal representative has all the rights of the Member. A Member under 16 or where applicable should only sign up after fully understanding the purpose of the collection and use of personal information and after obtaining the consent of a legal representative or parents. In addition, legal representatives, such as parents, may request to view, correct or renew the personal information of children, or withdraw their consent for membership, and in such cases, the Company shall take necessary measures without any delays.
+If you believe that a child under the required minimum age who needs parental guidance is providing personal information, please contact
+support@mubeat.tv
+.
+6. User’s Rights to Access and Control
+The user may exercise his/her right to access or modify the registered personal information, or request to delete
+    the user account.Through the account settings, a member may access, edit or in some cases delete the following
+    information that he or she has provided to the Company:
+Display name and password
+E-mail address
+Profile image
+Community and wall postings, including text, images and links that Members have uploaded on the Service
+Users who wish to correct or delete the above information or other data, please send the following information to support@mubeat.tv.
+Mubeat Email address and ID
+Detailed information regarding the request
+The information members can view, update, and delete may change as the Service change. When the user requests the
+    errors in personal information to be rectified, the personal information will not be used or provided before the
+    rectification is completed.
+The Company manages the deactivated or deleted personal information as set out under the ‘Period of use of personal
+    information’ section below, and such personal information is not viewable or used for any other purposes.
+7. Period of Use of Personal Information
+The Company retains personal information for up to 30 days.
+    According to the circumstances, the Company may keep Log data for up to 18 months in cases where storage obligations are specified, or is within the Company’s internal policy, or is with the consent of the user, or is in the period of retention notified in advance, or in cases of litigation or disputes or the possibility of such actions. When a Member closes his or her account, the Company may keep their personal information in cases where it is needed for legal responses and such, for as long as necessary.
+However, during this period the Company may only use the information for the relevant purposes. If the Company needs to keep the information after this period, the Company will notify the user and obtain the individual consent.
+For personal information that is provided for disclosed temporary purposes(events, surveys, etc.), after the purpose has been fulfilled, that personal information will be, according to the Member's intention, processed as information necessary for membership registration or deleted completely from the disk in a way that cannot be read or used.
+8. Personal Information Destruction Procedure and Method
+The following is the Company’s procedure and method of personal information destruction.
+8.1 Destruction Procedure
+After fulfilling the purposes of collection outlined in this Privacy Policy, user’s personal information is stored
+    as stated in ‘8. Period of Use of Personal Information’, and then destroyed according to internal policies and
+    relevant laws. Such personal information will not be used for purposes other than retention except when required by
+    law.
+8.2 Destruction method
+Paper records will be shredded by a shredder and electronic records will be discarded in an irreversible manner
+    using technical methods.
+8.3 Notice on Personal Information of Inactive Accounts
+In accordance with the [Korea’s Information and Communication Network- Personal Information Protection Act], in the case of inactive users who have not used Mubeat’s service for one year, the account will be converted to Inactive account, and the user’s personal information will be stored separately.
+The company notifies users of the Inactive account 30 days before the expiration date, and the details of the notification are as follows.
+Content of Notification: the fact that the Inactive account is scheduled to be converted, the scheduled date of the separate storage of personal information, and the personal information subject to be stored separately.
+Subject of Notification: Users registered with email.
+Method of Notification: Email.
+Date of Notification: 00:00 (KST), 30 days before the transition to an Inactive account.
+8.4 Restoring Inactive Accounts
+When a user with an Inactive account reuses the Mubeat service by activating the account, the personal information will be restored.
+9. Assistance Regarding Personal Data
+If you have any questions/complaints/suggestions regarding this Privacy Policy or how our data practices generally,
+    please contact the Company’s privacy protection division by using the following information:
+Vlending Co., Ltd.
+Attn: Data Protection Officer
+11F, 343 Gangnam-daero, Seocho-gu,
+Seoul, South Korea.
+support@mubeat.tv
+The Company is responsible for the handling of personal information and appoints and operates the person and department in charge, as mentioned below, of personal information protection and the handling of complaints and damages related to personal information.
+Personal Information Protection Officer
+Name: Chang Won Son
+Affiliation / Position: Vlending Chief Executive Officer / Chief Executive Officer
+E-mail: info@vlending.co.kr Phone: 02-784-8503
+Personal Information Processing Officer
+Name: Hyoun Oon Ko
+Affiliation / Position: Vlending Deputy Director / Deputy Director
+E-mail: support@mubeat.tv Phone: 02-784-8503
+All inquiries, complaints, damage relief, etc related to personal information that occurred during use, can be made to the person or department in charge of personal information protection. The Company will answer and process the user's inquiries.
+10. Changes to the Privacy Policy
+When we make any material changes to this Privacy Policy, we will notify the user by displaying a notice within the
+    Service, and the updated Privacy Policy will become effective 7 days from the day on which the notice is posted.
+Addendum
+The following Privacy Policy will take effect from September  30th, 2021.

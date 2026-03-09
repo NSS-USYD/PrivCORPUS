@@ -1,0 +1,140 @@
+Tasker for Android
+Tasker
+Home
+Download
+TaskerNet
+Usage Examples
+Pre-made Projects
+FAQs
+Guides
+Reviews
+Wiki
+Plugin List
+Forum
+Forum/Support
+Legacy Forum
+Userguide (5.0+)
+Index:
+en
+es
+fr
+zh
+1 Page:
+en
+More
+Join
+AutoApps
+Developers
+History
+Privacy Policy
+Release Notes
+Next Version
+Feature Requests
+Report Issues
+Patreon
+Tasker: Privacy Policy
+How Tasker Uses Your Data
+When you first open Tasker it doesn't do anything at all by itself. Tasker has a very large collection of actions that you can combine so that you can use your data any way you want to.
+Think of it as blank slate where nothing at all is written, and it's up to you want to use it for. You have total freedom.
+For example, you can combine the action to read your current Wifi network with the HTTP Request action to create a task that logs the history of your Wifi connections on a file in a server of your choice.
+It's very important to understand that Tasker does
+NEVER
+use your data by itself unless specifically mentioned below, and you have to go out of your way to actually use the data or send it somewhere.
+Accesses:
+Tasker does not access
+ANY
+user data unless you, the user, specifically set up a profile or task in Tasker to do so. For example, you could create a task that checks what your device model is and shows it in a toast.
+Uses:
+Tasker does not use
+ANY
+user data unless you, the user, specifically set up a profile or task in Tasker to do so. For example, you could use create a task that reads your current notifications and says their text out loud.
+Stores:
+Tasker does not store
+ANY
+user data unless you, the user, specifically set up a profile or task in Tasker to do so. For example, you could create a task that logs your IP address every time you connect to a new network.
+Shares:
+Tasker does not share your data with
+ANY THIRD PARTY
+unless you, the user, specifically set up a profile or task in Tasker to do so. For example, you could create a task that sends your location via SMS to one of your contacts.
+Collects:
+Tasker does not collect
+ANY
+data unless you, the user, specifically set up a profile or task in Tasker to do so. For example, you could create a task to create a database of your most used apps.
+Transmits:
+Tasker does not transmit
+ANY
+data unless you, the user, specifically set up a profile or task in Tasker to do so. For example, you could create a task that backs up your local files on your Google Drive.
+Some other examples of Tasker using personal data
+ON YOUR REQUEST
+Tasker will upload your
+SMS
+log information to a server
+if you create a profile to do so
+.
+Tasker will upload your
+contacts' phone number
+information to a server
+if you create a profile to do so
+.
+Tasker will upload your
+image
+information to a server
+if you create a profile to do so
+.
+Tasker will log all the
+wifi networks
+you connect to to a file
+if you create a profile to do so
+.
+Tasker will send your
+exact location
+to a Google Spreadsheet every minute
+if you create a profile to do so
+.
+It's up to you how Tasker uses your data.
+By default Tasker doesn't access, use, store or share your data in any way.
+Data Retention and Deletion Policy
+Since Tasker doesn't store any of your personal data itself, it's up to you how you store or delete any data.
+For example, if you create a task that stores your device model in a file on your device, you can also create another profile to delete that file or even just manually delete it using a File Manager.
+Tasker does not store or delete any data itself. You have to do it yourself.
+Background Location
+With Tasker your privacy is secured.
+Tasker needs to use your location in the background to be able to perform various location related automations. For example, you can setup a profile that changes your ringer volume whenever you are in a certain location. You could also check your location in a task and send it to your partner for example. Tasker will never share your location with anyone and will never need this permission for any other purpose other than to help you automate whatever you need based on your location.
+Google Play services
+Google Play Services are used in Tasker to sign you in to TaskerNet and to allow you to interact with maps. Google Play Services collect:
+Device brand, model and form factor
+Version of OS, the app and service components it use
+App used to install the app (e.g. Google Play store)
+Stack traces & crash metrics
+IP address
+Generated pseudonymous installation identifiers
+Map interaction events
+See also
+Google Privacy Policy
+.
+Please note that Tasker itself doesn't use any of this info. The info is collected by Google but Tasker doesn't use it at all.
+Other Topics
+The developer does not know anything about the customer except what is given in the Google Wallet payment details. That data will not be used by the developer except for accounting and tax purposes, where required by the relevant tax authorities.
+Tasker does not, to the best of the developer's knowledge, send any data, anywhere, unless it is requested by the user e.g. sending an automatic SMS.
+Possible exception: the developer has no control over the data which Google may collect when Tasker uses Google services e.g. for some forms of location
+detection.
+If the user creates a project in Tasker to explicitly do so, Tasker can send SMS data, call data or any other data to a cloud server or any server of the user's choosing. Tasker will
+NEVER
+send any data anywhere by default though.
+Tasker is not part of any ad or statistics network.
+Tasker uses the BIND_DEVICE_ADMIN permission in its manifest but it is only used to provide	ability to lock the device in situations the user specifies
+If you sign in to your Google account using Tasker (to import projects from Taskernet, to use Google Drive integration or any other reason), you'll share your name, email address and profile picture with Tasker. However, Tasker's developer will not keep any of this information. This info is used as follows:
+Taskernet Imports
+: used to authenticate your request to find out that you're a legitimate Tasker user making the request to import
+Google Drive
+: used to access your Google Drive files and folders so they can be manipulated by Tasker and so that Tasker can automatically backup its setup if the user enabled it.
+If you decide to share data to Tasker's server as described
+here
+, further policies apply, described
+here
+.
+Update 20150424: mention Google services.
+Update 20170527: mention BIND_DEVICE_ADMIN permission.
+Update 20180116: removed description of developer's moral position
+Update 20180801: added data share policy
+Update 202101012: added background location policy

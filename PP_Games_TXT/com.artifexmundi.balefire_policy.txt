@@ -1,0 +1,199 @@
+Artifex Mundi - ARTIFEX MUNDI S.A. Privacy Policy (hereinafter “the Policy”)
+O nas
+Nasze gry
+Kariera
+Inwestorzy
+Panel inwestora
+Spółka
+Profil
+Strategia
+Akcjonariat
+Władze spółki
+Ład korporacyjny
+Raporty
+Raporty bieżące
+Raporty okresowe
+EBI
+Centrum inwestora
+Aktualności
+Dane finansowe
+Walne Zgromadzenia
+Kalendarium
+Akcje na giełdzie
+Oferta publiczna akcji
+Analitycy o nas
+Materiały
+Prezentacje
+Dla mediów
+Aktualności
+Kontakt
+Terms and Conditions
+ARTIFEX MUNDI S.A. Privacy Policy (hereinafter “the Policy”)
+Because the protection of your privacy is very important to us, we would like to inform you about the rules on the collection, processing, and use of your personal data.
+We, ARTIFEX MUNDI S.A., seated at ul. Michała Archanioła 10, 41-800 Zabrze, Poland (hereinafter “We” or “Artifex Mundi”) are a data controller and process your personal data. You can contact Us at
+www.artifexmundi.com
+in respect to all your questions and requests related to personal data processing.
+Scope
+The collection and processing (including the storage, modification, transmission, blocking, and deletion) of your personal data takes place in compliance with the provisions applicable under
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+Personal data is only collected insofar as it is technically required to provide the service, improve it (including games), and run analyses. In no case will the data collected be sold or unlawfully passed on to third parties for any other reasons.
+Where We Store Your Personal Data
+Your personal data is stored on Our servers, which are located either within Our premises or with Our service providers (e.g., Microsoft Azure servers).
+The Collection, Processing, and Use of Personal Data
+“Personal data” means any information relating to an identified or identifiable natural person (“data subject”). An identifiable natural person is one who can be identified directly or indirectly.
+For What Purposes Are Your Personal Data Processed?
+We collect and process your personal data:
+to fulfill any legal obligations that We may have toward you, in particular to execute contracts between you and Us;
+to deliver to you the products and services you order from Us (in particular the apps We develop);
+to improve and modify Our products and services (e.g., bug fixing, updates, app development);
+to manage accounts you set up with Us;
+to allow you to manage your activities in Our products and services;
+to provide technical assistance;
+to provide you with Our newsletters and targeted marketing information to which you subscribe.
+What Types of Data Do We Collect and Process?
+We collect and process the following data from you:
+your first and last name;
+your email address;
+your gender and age;
+your username;
+your unique ID (the ID of a user logged into Google Play, Game Center, etc.);
+your unique device ID (if you are not logged into any of the above services);
+your IP address;
+information concerning the usage of Our services (how and when you use the services, your language);
+location-related information (country, time zone, etc.);
+your device model and device properties (GPU, resolution, etc.);
+all game-related information (saves, highscores, progress, progress history, items, etc.);
+session numbers with a timestamp and the detailed session process (e.g., the user entered this level, the user lost this level, the user entered this screen, etc.);
+purchases with a timestamp and what a player purchased, when, how much, etc.;
+information related to the usage of social media if you connected your social media account to Our services.
+Only part of the abovementioned data qualifies as personal data. Some of the data We collect do not allow Us to identify you, and a collection of such data is not intended to identify a user.
+We may collect and process additional data, for example, if you contact Our support.
+Cookies
+Websites use what are known as cookies. Cookies are small text files that are stored on your computer and saved by your browser. Cookies as such cannot be used to identify a user. Cookies do not harm your computer and do not contain viruses.
+You can manually delete cookies that already exist on your computer from your hard disk at any time.
+You can also use websites and run games without cookies, however, using a website or a game without cookies might only be possible to a limited extent.
+Access data/server log files
+We and/or Our web hosting providers collect data about all access Our services (including Our websites) via what are referred to as server log files. This data includes a user’s activity data in applications (including progress in the game), automatically generated ID numbers, the user’s operating system, the referrer URL (the previously visited page), the user’s IP address, and the requesting provider. We only use the log data for analyses, bug tracking, operational purposes, fraud prevention, security, and optimizing Our offer and/or Our products.
+What Are the Legal Grounds for the Processing of Your Personal Data?
+We collect and process your personal data based on:
+your consent;
+for the purposes of executing a contract between you and Us (please refer to Our Terms of Service available
+here
+;
+Our legitimate interest.
+By “legitimate interest”, We understand marketing purposes, analytical purposes (to improve Our apps and services, to prevent cheats in Our apps), and protection of personal data. We always take into account your interests and fundamental rights and freedoms, which prevail over “legitimate interest” as a basis for the processing of personal data.
+We may use the personal data We collect from you to personalize communication to you (including marketing communication). We may use algorithms that allow Us to analyze your personal aspects, for example, We may analyze your behavior and decisions when using Our apps to propose targeted purchases to you or personalize your game experience.
+Personal Data Retention
+We will store your personal data for the period of the execution of the contract between you and Us. However, We will be entitled to store your data after the termination of the contract for the period prescribed by law (e.g., by tax regulations).
+The Transfer of Personal Data to Third Parties
+We have the right to disclose your personal data to Our service providers, which We use to provide Our services, functionalities, and apps to you. We only use trusted service providers who have implemented sufficient technical and organizational means to assure that the processing of personal data meets safety standards and that your rights are sufficiently protected. The service providers that process your data on Our behalf include:
+service providers that provide analytical tools;
+service providers that provide data storage services;
+service providers of advertisement services;
+payment services providers;
+service providers that help Us to manage Our newsletter and communication with you;
+social media We use for marketing purposes.
+Please be advised that Our service providers have implemented their own policies and rules concerning the protection of personal data. For more information, please visit the websites of Our service providers.
+Below are descriptions of the categories of Our service providers:
+GetResponse
+We use Our newsletter to inform you about Artifex Mundi and Our offers, changes, promotions, etc. To effectively provide this service, We use GetResponse’s services: www.getresponse.com
+If you would like to receive Our newsletter, We require a valid email address from you as well as information that will allow Us to verify that you are the owner of the stated email address and/or that its owner agrees to receive the newsletter.
+If you would like to get more information about GetResponse’s privacy policy, you need to visit
+https://www.getresponse.com/legal/privacy.html?lang=en
+Unity Analytics, Game Analytics, Flurry, delta DNA
+These are integrated services that allows Us to track you as a specific user. These services identify a user with a unique ID (assigned to a device). They store and process data about the user’s in-game behavior. They also store and process the user’s IP to establish their country of origin.
+Firebase
+This is a service that allows Us to track you as a specific user. This service identifies a user with a unique ID (assigned to a device). It stores and processes data about the user’s in-game behavior. It also stores and processes the user’s IP to establish their country of origin, gender, and age for statistical purposes. Firebase also allow Us to get info (via Big Query) about your in-game behavior. You can log into the Firebase database via external providers (e.g., Google, Facebook) or a login/password pair where your email address is used to authenticate you.
+Facebook Analytics/SDK
+This is a service that allows Us to track you as a specific user. This service identifies a user with a unique ID (assigned to a device). It stores and processes data about the user’s in-game behavior. It also stores and processes the user’s IP to establish their country of origin, gender, and age.
+Our app can request additional data about the user (such as their friend list) from Facebook SDK. Each time such a request is made, Facebook SDK requests that the user consent before providing Us with any information.
+AdWords
+AdWords is an app add-on used to attribute users that have discovered Our app via AdWords advertisement services. The attribution is performed based on a referral ID or other link that informs Us where the user found Our app.
+Google Play Games, Game Circle, Game Center, Xiaomi Game Center
+Google Play Games and other such services like those listed above are designed to enrich the player’s experience by providing functionalities such as leaderboards, cloud saves, friends, etc. In some games, We provide information that allows the user and some of their actions (such as unlocking achievements) to be identified in order to utilize said functionalities.
+Microsoft Azure, Amazon Web Services
+These are cloud computing platforms. We use them to store and process users’ data, such as game progress, IDs provided by the services above, users’ behavior data, scores, purchase histories, etc. These data are necessary for Us to provide functionalities such as cloud saves, leaderboards, bug tracking, etc.
+SurveyGizmo
+We use this service to gather players’ feedback about Our games and other activities. We store some data, such as email addresses, to identify the source of the feedback.
+SupportBee
+This is a ticketing system for customer support. Any mailing communication is stored there, including email addresses, attachments, etc.
+GameSparks
+We use GameSparks to provide backend functionalities such as cloud saves, leaderboards, bug tracking, PvP, personalized in-game offers, etc. It stores and processes a user’s data such as game progress, unique IDs, IP, behavior data, scores, purchase history, etc.
+Adjust,
+AppsFlyer
+These are app add-ons used to attribute users that have discovered Our app via specific advertisement networks. The attribution is performed based on a referral ID or other link that informs Us where the user found Our app. We also send information about the user’s behavior back to attribute user actions to specific advertising networks and advertisement campaigns.
+The Transfer of Personal Data to Third Countries
+We may transfer your personal data to so-called third countries, that is, countries outside the European Economic Area (such as the United States of America). We will base any such transfer on standard European Union contractual clauses or the Privacy Shield Framework.
+Your Rights
+You have the right to obtain from Us confirmation as to whether or not personal data concerning you are being processed. Where that is the case, you also have the right to gain access to those personal data and, among others, the following information: (a) the purposes of the processing; (b) the categories of personal data concerned; (c) recipients to whom your personal data have been disclosed; (d) the envisaged period for which the personal data will be stored.
+You have the right to obtain from Us without undue delay the rectification of inaccurate personal data concerning you. You have the right to have your incomplete personal data completed.
+You have the right to obtain from Us the erasure of personal data concerning you without undue delay and We have the obligation to erase personal data without undue delay in particular where one of the following grounds applies: (1) the personal data are no longer necessary; (2) you withdraw your consent for the processing and We have no other legal ground for the processing; (3) you object to the processing and there are no overriding legitimate grounds for the processing.
+You have the right to object, on grounds relating to your particular situation, at any time to the processing of personal data concerning you. We will no longer process the personal data unless We demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms or for the establishment, exercise, or defense of legal claims.
+If you decide to object to the processing of personal data concerning you, or you otherwise demand that We remove your personal data, you accept that you will not be able to use Our games and services. We will ask you to cease the use of Our apps and services.
+The Service Responsible for Data Protection
+If you would like to:
+ask any questions about the collection, processing, or use of your personal data;
+gain access to or request the rectification, deletion, or limitation of the processing of your personal data;
+state your opposition to the submission of your personal data; or
+exercise your right to transfer your personal data,
+please contact us at dpo@artifexmundi.com
+Updates
+We are entitled to change or update the Policy whenever We deem it necessary. In the case of changes, We will make the updated Policy available online. Any changes to the Policy will become binding within 30 days as of it being published online. If you do not agree with the changes, We will ask you to cease the use of Our apps and services.
+O nas
+Nasze gry
+Kariera
+Aktualne oferty
+Proces rekrutacji
+Wartości
+Benefity
+FAQ
+Inwestorzy
+Aktualności
+Dane finansowe
+Akcje na giełdzie
+Raporty bieżące
+Raporty okresowe
+Aktualności
+Kontakt
+design by
+Artifex Mundi S.A.
+ul. Wolności 262, 41-800 Zabrze
+Zarejestrowana w Krajowym Rejestrze Sądowym
+– rejestr przedsiębiorców prowadzony
+przez Sąd Rejonowy w Gliwicach,
+X Wydział Gospodarczy KRS
+Kapitał zakładowy: 118 970,00 PLN
+(opłacony w całości)
+KRS: 0000599733
+REGON: 242841025
+NIP: 6482765128
+Biuro i adres do korespondencji
+ul. Szewczenki 8b
+40-855 Katowice
+Polska
+Artifex Mundi ©
+Polityka prywatności
+Używamy plików cookie do usprawnienia funkcjonowania witryny internetowej oraz polepszenia jakości świadczonych usług. Korzystanie z tej witryny internetowej oznacza akceptację naszej polityki w zakresie używania plików cookie. W każdej chwili możesz zmienić preferencje dotyczące plików cookie w
+ustawieniach prywatności
+lub w ustawienia przeglądarki internetowej. Więcej informacji na ten temat znajdziesz w naszej
+polityce prywatności
+.
+Akceptuję
+Ustawienia
+Close GDPR Cookie Settings
+Preferencje plików Cookie
+Niezbędne pliki cookies
+Cookies Google Analytics
+Preferencje plików Cookie
+Używamy plików cookie do usprawnienia funkcjonowania witryny internetowej oraz polepszenia jakości świadczonych usług.
+Niezbędne pliki cookies
+Niezbędne pliki cookies powinny być włączone, abyśmy mogli zapamiętać Twoje ustawienia.
+Enable or Disable Cookies
+Cookies Google Analytics
+Nasza strona używa Google Analytics w celu zbierania zanonimizowanych danych o odwiedzających w celu poprawienia jakości świadczonych przez nas usług.
+Enable or Disable Cookies
+Jeśli chcesz zapamiętać swoje ustawienia, musisz włączyć obsługę niezbędnych plików cookies.
+Dopuść wszystkie
+Zapisz zmiany
+Powered by
+GDPR Cookie Compliance

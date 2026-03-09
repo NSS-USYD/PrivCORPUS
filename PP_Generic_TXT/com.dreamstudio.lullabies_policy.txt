@@ -1,0 +1,97 @@
+Privacy Policy & Terms and Conditions
+Privacy Policy
+Overview
+This Privacy Policy describes the information collected by Dream Studio (â€˜weâ€™,â€™usâ€™, â€˜ourâ€™) through our mobile applications, website and realted services and how we use that information.
+		By accessing and/or using this or any affiliated websites or mobile applications, you are agreeing to the policies and practices described in this Privacy Policy.
+Information Collection and Use
+When you download and use our mobile applications, we don't require you to provide any information and we don't collect any user provided information, but app does use third-party services that may collect certain information automatically, in accordance with the following privacy policy.
+In other words, we don't collect information such as your full name, address, phone number or email address.
+We Donâ€™t Collect Information of Children
+Our website and mobile applications comply with the Childrenâ€™s Online Privacy Protection Act. We donâ€™t knowingly collect personal information from children under the age of 13, and if in the event that a user identifies himself or herself as a child under the age of 13 through a support request, we will not collect, store or use, and will delete in a secure manner, any personal information of such user.
+Location Information
+We don't use or collect your precise geographic location.
+Sharing of information
+We don't share personally identifiable information (such as name, address, email or phone) with other companies.
+We don't share other information collected automatically with anyone except as described in this Privacy Policy.
+Analytics
+We collect some anonymous usage information to help us improve our apps. We use third party analytics services (Google Analytics for Firebase, Firebase Crashlytics) that may collect data as a device type and OS, an app identifier, unique device identifiers, app session time, events and lengths.
+Google Analytics for Firebase (Google Inc.)
+Google Analytics uses the data to provide analytics and attribution information. The precise information collected can vary by the device and environment. For more information see
+Data collection
+.
+Analytics collected: Certain advertising identifier associated data (e.g., Identifier for Vendors, Androidâ€™s Advertising ID) and retains aggregate reporting without automatic expiration.
+Place of processing: USA â€“
+Privacy Policy
+Firebase Crashlytics (Google Inc.)
+Firebase Crashlytics uses crash stack traces to associate crashes with a project, send email alerts to project members and display them in the Firebase Console, and help Firebase customers debug crashes. It uses Instance IDs to measure the number of users impacted by a crash and minidump data to process NDK crashes. The minidump data is stored while the crash session is being processed and then discarded.
+Data collected: Crash stack traces, extracted minidump data, and associated identifiers (including Instance IDs).
+Place of processing: USA â€“
+Privacy Policy
+Advertising
+These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
+AdMob (AdMob Google Inc.)
+AdMob is an advertising service provided by AdMob Google Inc.
+AdMob collected: Cookie and Usage data.
+Place of processing: USA â€“
+Privacy Policy
+Unity Ads (Unity Technologies)
+Unity Ads is a video advertising network.
+Unity Ads collected: Cookie and Usage data.
+Place of processing: Unity Technologies â€“
+Privacy Policy
+Liftoff (Liftoff Mobile, Inc.)
+Liftoff is a mobile advertising company.
+Liftoff collected: Certain device information.
+Place of processing: Liftoff â€“
+Privacy Policy
+Facebook Audience Network
+Facebook Audience Network is an advertising network.
+Facebook Audience Network collected: Certain information about the End Users and their devices.
+Place of processing: Facebook â€“
+Privacy Policy
+Applovin
+Ad revenues depend on how well the underlying technology serves developerâ€™s users. Thatâ€™s what sets AppLovin apart. Their marketing platform and advanced optimization algorithms deliver real results.
+Place of processing: Applovin -
+Privacy Policy
+What are my opt-out rights?
+Opt-out of all information collection by uninstalling the Application: You can stop all collection of information by our apps and games easily by uninstalling them. You may use the standard uninstall processes which may be available as part of your mobile device or via the mobile application marketplace or network.
+Opt-out from the use of information to serve targeted advertising by advertisers and/or third party network advertisers: you may at any time opt-out from further allowing us to have access to your location data by:
+Following the third party instructions directly:
+For Google (AdMob) please visit
+https://www.google.com/ads/preferences/html/mobile-about.html
+;
+For AppLovin please visit
+https://www.applovin.com/optout
+.
+Log Data
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (â€œIPâ€) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+This Service does not use these â€œcookiesâ€ explicitly. However, the app may use third-party code and libraries that use â€œcookiesâ€ to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+When You Request Support, You May Send Us Email
+We allow users to contact us if they have questions about use of our mobile applications. If you submit a support request, we may receive your email address and other information you provide related to your support request. We use Support Information only to provide support to you.
+Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please send us an email at android.dream.studio [at] gmail [dot] com.
+Terms & Conditions
+By downloading or using the app, these terms will automatically apply to you â€“ you should make sure therefore that you read them carefully before using the app. Youâ€™re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. Youâ€™re not allowed to attempt to extract the source code of the app, and you also shouldnâ€™t try to translate the app into other languages or make derivative versions.
+We are committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what youâ€™re paying for.
+Itâ€™s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phoneâ€™s security features and it could mean that the app wonâ€™t work properly or at all.
+The app does use third-party services that declare their Terms and Conditions.
+Link to Terms and Conditions of third-party service providers used by the app:
+AdMob
+Google Analytics for Firebase
+Firebase Crashlytics
+Facebook
+Unity
+You should be aware that there are certain things that we will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but we cannot take responsibility for the app not working at full functionality if you donâ€™t have access to Wi-Fi, and you donâ€™t have any of your data allowance left.
+If youâ€™re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, youâ€™re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which youâ€™re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+With respect to our responsibility for your use of the app, when youâ€™re using the app, itâ€™s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. We accept no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+At some point, we may wish to update the app. The app is currently available on Android â€“ the requirements for the system (and for any additional systems we decide to extend the availability of the app to) may change, and youâ€™ll need to download the updates if you want to keep using the app. We do not promise that we will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you.
+Changes to this Privacy Policy and Terms and Conditions
+We may update our Privacy Policy and Terms and Conditions from time to time. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This document is effective as of 2022-02-03

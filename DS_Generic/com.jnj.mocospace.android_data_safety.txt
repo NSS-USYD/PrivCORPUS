@@ -1,0 +1,47 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Location                
+<d_attr>               Approximate location              
+<d_valu>             Advertising or marketing            
+<d_attr>               Precise location              
+<d_valu>             Advertising or marketing            
+<d_cata>                 App activity                
+<d_attr>               App interactions              
+<d_valu>             Analytics            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Advertising or marketing            
+<d_prac>          Data collected         
+<d_detl>          Data that this app may collect         
+<d_cata>                 Location                
+<d_attr>               Approximate location                          · Optional            
+<d_valu>             App functionality, Advertising or marketing            
+<d_attr>               Precise location                          · Optional            
+<d_valu>             App functionality, Advertising or marketing            
+<d_cata>                 Personal info                
+<d_attr>               Name                          · Optional            
+<d_valu>             App functionality            
+<d_attr>               Email address                          · Optional            
+<d_valu>             Developer communications            
+<d_attr>               User IDs              
+<d_valu>             App functionality            
+<d_attr>               Phone number              
+<d_valu>             App functionality, Developer communications            
+<d_attr>               Race and ethnicity                          · Optional            
+<d_valu>             App functionality            
+<d_attr>               Sexual orientation                          · Optional            
+<d_valu>             App functionality            
+<d_cata>                 Messages                
+<d_attr>               Other in-app messages              
+<d_valu>             App functionality            
+<d_cata>                 Photos and videos                
+<d_attr>               Photos                          · Optional            
+<d_valu>             App functionality            
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs                          · Optional            
+<d_valu>             Advertising or marketing            
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            
+<s_cata>             You can request that data be deleted            
+<s_attr>             The developer provides a way for you to request that your data be deleted            

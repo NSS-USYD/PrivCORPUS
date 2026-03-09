@@ -1,0 +1,101 @@
+Privacy Policy
+This Privacy Policy applies beginning Aug 12, 2019.
+Â
+Â
+Beauty Camera
+is
+a selfie camera App. It can make your selfie photo more beautiful
+with tools like filters, live stickers and facial retouching, etc. Your privacy is a top priority to us and we appreciate that you put your trust in us. We are committed to the responsible management, use and protection of personal information.
+Â
+This Privacy Policy (the "Policy") explains how your information is collected, used, stored and shared by us with respect to your access and use of our services. By using or accessing our App or our Service, you agree to the privacy policies outlined below.
+Â
+What information do we collect?
+Device Information
+We collect your device and network connection information for analytical purpose only when you use our App. This information includes your device brand, the model of your device, your network status, etc. The device information that we collect does not contain any user sensitive information, such as device ID or anything that can be used to permanently identify a user or device.
+Â
+Information collected by Third-Party SDKs from our Monetization Partners
+Some of the third-party monetization SDKs integrated in our app may access your information for the purpose of ad optimization.Â  Such information includes GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on iOS devices), region (defined as the location where a given language is used), location information
+,
+the app list or applications installed on the device, and IP address. This Policy does not govern our third party monetization partners, as they have their own privacy policies which can be viewed on their websites. We have no access to or control over such third parties. However, we have a routine procedure to scan all third party SDKs to detect if they collect sensitive user information. The partners we select to work with include but are not limited to Google AdMob (monetization platform of Google LLC), DoubleClick Ad Exchange (monetization platform of Google LLC), DoubleClick for Publishers (monetization platform of Google LLC), Facebook Audience Network (monetization platform of Facebook, Inc.), MoPub (monetization platform of Twitter, Inc.), Amazon, Fyber,
+Inmobi,
+Smaato,
+Tapjoy, UnityAds, IronSource, etc. We encourage you to review the policies of the third-party monetization partners listed below.
+Â
+Information collected by Third-Party Analytical Tools
+Our app integrates SDKs from several analytical service providers for app optimization purpose. These third-party SDKs may also collect your information such as GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on iOS devices), region (defined as the location where a given language is used), location information and IP address. This Policy does not govern our third party analytical tools. You can find their privacy policy on their websites. The partners we select to work with include but are not limited to Flurry (Oath Inc.), AppsFlyer (Appsflyer Inc.) and Firebase (analytical platform of Google LLC), etc. The information they provide to us is aggregated analytical data.
+Â
+Â
+How do we use this information?
+To provide services
+We may use this information to provide service or features in our App. For example, we may collect your device model and adjust the solution of the photo you take so that we can get a best balance between the photo solution and device performance.Â
+Â
+Â
+Â
+To improve our product
+As mentioned above, we collect your information for analytical purpose. This analytical data is only for app optimization. Some third-party monetization partners such as Facebook and Google may use the information they collected to optimize advertisement experience. Their use of information is governed by their privacy policy. We donâ€™t have access to any such information they collected.
+Â
+Â
+How is your information stored?
+For the information we collect, some is only stored on your device locally and some is stored safely in encrypted format in our servers located in AWS. We have strict policies to control access and usage of such data.Â If you would like to have your information deleted, please contact us.
+Â
+Â
+Â
+How is your information shared?
+We never share your information with third parties. All the information we collect is only for the purpose of optimizing our product and is safely stored in our server in an encrypted format. The information will not be disclosed to any third parties.
+Â
+Â
+What important permissions we request
+ï¼Ÿ
+Here we explain all important permissions that our app requests. These permissions are necessary for our app to perform certain features.
+Â
+(1) Camera
+This permission allows you to take photos with your device. We'll access your camera only after you give us your consent.
+Â
+(2) Microphone
+This permission allows you record a video after you give us your consent.
+Â
+(3) Storage
+This permission allows you to view your photos and save photos to your device.
+Â
+(4) Location information.
+When you take a photo we may collect information about your location to add this information to your photo.
+Â
+Â
+(5) Contacts
+We will establish a private album for you to save your private photos. It needs to be protected by an account and password.
+Â
+Â
+Control over Your Information
+We want you to be in control of your information, so we provide you with the following method:
+Â
+Changes to the Policy
+Any information that is collected is subject to the Policy in effect at the time such information is collected. We (
+ONE App Ltd.
+) may, however, modify the Policy from time to time. If we make changes to our Privacy Policy, we will provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of our App or Services following the posting of changes will mean you accept those changes.
+Â
+The following is a list of the third-party monetization partners we currently use in our services and links to their privacy policies:
+Facebook, Inc.
+https://www.facebook.com/policy.php
+Â
+Google AdMob, DoubleClick Ad Exchange, DoubleClick for Publishers
+https://www.google.com/intl/en/policies/privacy/
+AppLovin Corporation
+https://www.applovin.com/privacy
+Inmobi
+https://www.inmobi.com/privacy-policy/
+Â
+Smaato
+https://www.smaato.com/privacy/
+AdCaffe
+https://ge.appcloudbox.net/adcaffe/AdCaffeAdChoice.html
+Tapjoy
+https://www.tapjoy.com/legal/#privacy-policy
+MoPub
+https://www.mopub.com/legal/privacy/
+UnityAds
+https://unity3d.com/legal/privacy-policy
+IronSource
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Contact Us
+If you have any questions about this Policy, you can contact us at email:
+privacy.oneappteam@outlook.com

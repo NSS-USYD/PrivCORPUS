@@ -1,0 +1,384 @@
+Zapya Privacy Policy
+Zapya
+Privacy Policy
+This policy applies to products and services under the Zapya brand from Dewmobile, Inc.
+Last Modified: March 22nd, 2022
+Effective: March 29th, 2022
+Zapya (the “Service”) provides a cross
+platform file transfer tool. Zapya is a product of Dewmobile, Inc (“Dewmobile”,
+“we”, “our”, or us”). Dewmobile recognizes that your privacy is important and
+your personal information must be protected.
+This privacy policy explains how we
+collect, use, share, and protect information related to Zapya and how you
+control this information. This privacy policy only pertains to our application
+Zapya and does not cover other applications made by Dewmobile or our website. You
+can find the privacy policy for our applications and our website at
+https://www.zapya.app/
+Zapya is available in multiple countries
+that have different standards and requirements regarding the information we
+provide in this privacy policy and how we use personal information. Numerous
+provisions and/or practices may be required as a result of laws, international
+treaties, or industry practices. Please review the rights you have and if you
+have questions about how they relate to your use of Zapya, please contact us at
+feedback@dewmobile.net.
+Before you download and start using our
+Service, please make sure you have carefully read and understood this privacy
+policy. Whenever you use our Service, it means that you have agreed to be bound
+by this policy and our Terms of Use (which can be found at
+https://www.zapya.app/v3/terms_of_service.html ). Please contact us at
+feedback@dewmobile.net if you have any questions about the contents of this
+policy.
+1.
+Information We Collect
+We collect information
+every time you communicate directly with us, transfer files, and post content
+on our Service for your convenience. We do not collect any information from or
+about you that does not have to do with our Service. We collect the following
+types of information:
+·
+Profile Information (your avatar image,
+nickname, and Friends List)
+·
+User Content
+·
+Unique Device Identifier
+·
+Chat History (excluding encrypted chat history)
+·
+File Transfer History (transferred file names
+and devices you have transferred to)
+·
+Non-Personal Information (phone IMEI number,
+phone model, rom, phone operator, location, operation system, etc.)
+·
+Communications between you and Dewmobile
+(emails, mail, feedback, etc.)
+User Content.
+By using the profile page of our Service, you understand and agree
+that we are providing a platform for you to post content to the Service and to
+share User Content with the users you have added (“Friends”) on the Service.
+This means that your Friends may see, collect, or use your User Content that
+you post on your profile page of our Service. You are fully responsible for the
+personal information you choose to submit as User Content and we cannot be held
+liable if someone else collects or uses it. We encourage you to use caution
+when posting on your profile and refrain from sharing personal information on
+our Service.
+Device
+Identifiers
+. When accessing our Service on a mobile
+device, we must access, collect, monitor, and/or store on your device
+"device identifier”. Device identifiers are small data files or similar
+data structures stored on or associated with your mobile device, which uniquely
+identify your mobile device.
+Chat History.
+We store your chat history so that whenever you access the Service
+you can read previous messages and in case you accidentally delete it and wish
+to retrieve the messages. However, we will never collect or store encrypted
+chat history to respect your privacy. Our encrypted chat automatically deletes
+messages once the receiver has read the message and exited the encrypted chat.
+File Transfer
+History
+. We store your file transfer history so
+that whenever you access the Service you can view and access files that you
+have sent or received using the Service.
+2.
+Application Permissions
+All the permissions our
+Service requests access to are directly linked to the features offered on the
+application. Some of the permissions our Service requests the use of are
+subject to the Personal and Sensitive Information policies on both Google Play
+and Apple. We been authorized by Google Play and Apple to request these
+permissions from you. If we did not have their authorization to include these
+permissions, our service would not be listed on their app stores.
+You can find the detailed
+explanations for why our Service requires these permissions in the Appendix
+section of this policy. The permissions required for our Service to function
+fall under three unique categories: Android specific permissions, iOS specific
+permissions, and phone replication related permissions. Please know that by not
+allowing access to the requested permissions, the features that are related to
+those permissions will not function properly.
+Android
+iOS
+Phone Replication
+Location
+Location
+SMS
+Photos
+Photos
+Call Log
+Camera
+Camera
+Bluetooth
+Bluetooth
+Contacts
+Contacts
+Storage
+Phone State
+3.
+How We Use Your Information
+Besides the specific uses
+of information we describe in this Privacy Policy, we may use the information
+we collect to:
+·
+Help you access your information without the
+need to sign in
+·
+Remember information in case of accidental
+deletion
+·
+Personalize our Service
+·
+Monitor and analyze trends and usage
+·
+Identify and fix bugs and other technology
+problems
+·
+Enhance the safety and security of our Service
+·
+Develop and test new features on the Service
+·
+Enforce our Terms of Use and comply with legal
+requirements
+4.
+Sharing Information
+We will not rent or sell
+any of the information we collect from you to third parties. We only share your
+information with your Friends and a third-party data analytics software
+development kit (“SDK”).  However, the information we share with your Friends
+and the third party is different.
+Friends.
+Once you have added another user as a Friend on our Service, they
+have access to your nickname, avatar, the user content you post on your profile
+and anything that you send to them in the chat. You are the one in control of
+what information you decide to post and send on the Service. Please keep in
+mind that if you remove information from the Service, it is possible that one
+of your Friends might have a screenshot of it or have a saved copy of this information.
+SDK.
+We only share non-personal information with the SDK so that it can
+help us measure traffic. We collect and use your non-personal information along
+with information from other users so that the information cannot be directly
+associated with any specific individual.  The SDK provides us with analytics
+information that helps us to better understand user behavior and how the
+Service is performing.
+5.
+How You Control Your Information
+Your privacy is important
+to us and we want to make sure that you are in control of the information you
+share with us. We currently provide the following ways for you to control your
+information and are working on providing you with more options:
+Deletion. If you wish to
+delete your account, including user content posted on the Moments section,
+friends list, chat history, and file transfer history, go to the Settings on
+the Service and select “Delete Account”. Once you have sent in the request,
+make sure to not open the application up until seven days after you have made
+the request. Following your request for termination of your account, we will
+retain your account information for seven days in case you change your mind.
+After those seven days are over, all your information will be erased
+permanently.
+Revoking Permissions. At
+any time, you can go to the settings on your mobile device to revoke
+permissions used by the Service. Please understand that if you disable certain
+permissions some features of the Service may not function properly.
+6.
+Security
+We are very concerned
+about safeguarding the confidentiality of your information. As stated before,
+we do not collect personal information. In order to protect the non-personal
+information we collect, we employ administrative, physical and electronic measures.
+We are well equipped to handle personal or sensitive user data securely,
+including transmitting the data to backend server using modern cryptography
+over HTTPS.
+Please be aware that the
+security measures that we take to protect your information are not absolutely
+guaranteed to counter unauthorized access or use of your Non-Personal
+Information. Thus, we must insist that you do not share sensitive information
+on our Service. We ask that you not send us or disclose any sensitive Personal
+Information (e.g., information related to racial or ethnic origin, political
+opinions, religion or other beliefs, health, sexual orientation, criminal
+background or membership in past organizations, including trade union
+memberships) on or through our Service.
+7.
+Zapya Transfer
+Whenever you click on the
+Zapya Transfer icon located on the “Transfer” page of Zapya to transfer files
+online, you are agreeing to exit Zapya and open up Zapya Transfer using an
+Internet connection. This privacy policy does not cover Zapya Transfer. Zapya
+Transfer is bound by a different privacy policy that you can view at:
+https://zapyatransfer.com/termsEn
+. Before you use Zapya Transfer, it is important that you have carefully read
+and agreed to the Zapya Transfer Privacy Policy and Zapya Terms of Service.
+When you use Zapya Transfer, it means that you have agreed to be bound by the
+Zapya Transfer Privacy Policy and Zapya Transfer Terms of Service.
+8.
+Children
+Our Service is not meant
+for and is not directed at children under the age of 13. Even though we do not
+collect any personal information from our users, we still advise that if
+children under the age of 16 do use our service, that they are supervised and
+have the consent of their parent or guardian. We do not have a way to verify
+the age of our users as a part of respecting our user’s privacy, however if you
+are a parent or guardian and wish to delete your child’s account, please
+contact us. Please note that in order to protect the integrity of the Service,
+we will need to verify your identity before processing your request.
+9.
+California Residents
+Under the California
+Consumer Privacy Act, users from California have the right to request that we
+disclose to you the Personal Information we collect, use, or disclose about our
+data practices. You also have the right to request deletion of the personal
+information we have collected and we cannot discriminate against you for
+exercising these rights. To exercise your rights, please contact us at feedback@dewmobile.net.
+Please note that in order to protect your privacy and the integrity of our
+Service, we will need to verify your identity before processing your request.
+10.
+European Union and Switzerland Residents
+According to the European
+Union General Data Protection Regulation (GDPR), citizens of the European Union
+have the right to access, erase, correct, restrict processing, retain and reuse
+of their personal data collect by companies. You also have the right to be
+informed on how your personal data is being used. You can exercise your rights
+by contacting us at feedback@dewmobile.net. Please note that in order to
+protect your privacy and the integrity of our Service, we will need to verify
+your identity before processing your request.
+11.
+Changes to this Privacy Policy
+To ensure the quality of
+your experience and your security, we will be updating our privacy policy as
+needed. Any changes made to this policy will not reduce your rights in anyway.
+If the changes to this policy are significant, a notification will be shown on
+the application. However, smaller changes may be made so please review this
+policy periodically.
+If you do not agree to any
+changes to this policy, you should immediately stop using any of the services
+we provide and contact us. Your continued use of our service after changes to
+this Policy have been made mean that you have accepted the terms of the revised
+Policy. Please note that none of our employees or agents has the authority to
+violate any of the rights that have been laid out in this policy.
+12.
+Contact Us
+Please email us at
+feedback@dewmobile.net if you have any questions, comments, or concerns about
+this Privacy Policy or our Service. You can also mail us at:
+Dewmobile USA, Inc.
+2225 E. Bayshore Road,
+Suite 200, Palo Alto, CA,
+USA 94303
+We will do our best to
+reply to you in a timely manner. It is recommended that if you want a quicker
+response from us, please email us in English or Mandarin Chinese.
+13.
+Appendix
+The following are
+detailed explanations for the permissions required by the Android version of
+Zapya:
+LOCATION.
+Used for permissions that are associated with accessing the
+approximate location of the mobile device. This permission allows the Service
+to enable Wi-Fi Hotspot and/or Bluetooth. This permission is necessary to
+requesting a connection, accepting a connection, and transferring data. The
+file transfer features will not function if this permission is disabled. The
+Service does not use or store the user’s GPS coordinates.
+PHOTOS.
+Used for permissions that are associated with accessing or saving to
+the photo gallery from the device. This permission allows the Service to upload
+images from the device to either the chat or set as the user’s avatar image.
+CAMERA.
+Used for permissions that are associated with accessing camera or
+capturing images and/or videos from the device. This permission allows the
+Service to support three features related to phone camera:
+1)
+Scan QR Code for establishing a wireless
+connection between two devices faster because this method can bypass the manual
+input of wireless password.
+2)
+Capture and transfer photographic images from
+one device to another device as part of the Camera feature in a connected
+group.
+3)
+Capture and post photographic images to either
+the user’s Moments, in a chat or as the user’s avatar image.
+STORAGE.
+Used for permissions that allow an application to read from and
+write to external storage. This permission allows the Service to access any
+files on the external storage, e.g. SD card, as part of the Service’s core
+feature of transferring files.  The user can select files to be transferred and
+send over the wireless connection created by the application. The user can also
+choose to save received files that are transferred over the wireless connection
+into internal storage or external storage.  The user must select to save to
+external storage from in-app settings. If this permission is disabled, users
+will not be able to upload or download files on the Service.
+PHONE STATE.
+Used for permissions that allow an application to read the phone
+state, including the phone number of the device, current cellular network
+information, the status of any ongoing calls, and a list of any Phone Accounts
+registered on the device. The Service uses this permission in order to retrieve
+the unique device identifier so that the account can be directly linked to the
+mobile device. Without this permission, users will not be able use any of the
+features available on the Service.
+BLUETOOTH.
+This permission is required by Google OS so the Service can share
+WiFi hotspot name and password to other devices when you are trying to
+establish a connection.
+CONTACTS.
+Used for permissions that allow an application to read and save
+contacts to the device. The Service uses this permission in order to upload the
+user’s contacts to the application so the user can connect with them on the
+application and so that the user can share contact information with others.
+The following are
+detailed explanations for the permissions required by the iOS version of Zapya:
+LOCATION.
+Used for permissions that allow an application to the approximate
+location of the mobile device. The Service uses this permission in order to
+retrieve the media access control (MAC) address of the device, which is the
+unique device identifier that is used to link the user’s account to the mobile
+device. The Service does not access or store the user’s GPS coordinates.
+PHOTOS.
+Used for permissions that are associated with accessing or saving to
+the photo gallery from the device. This permission allows the Service to upload
+images from the device to the user’s collection or set as the user’s avatar
+image.
+CAMERA.
+Used for permissions that are associated with accessing camera or
+capturing images and/or videos from the device. This permission allows the
+Service to support three features related to phone camera:
+1.
+Scan QR Code for establishing a wireless
+connection between two devices faster because this method can bypass the manual
+input of wireless password.
+2.
+Capture and transfer photographic images from
+one device to another device as part of the Camera feature in a connected
+group.
+3.
+Capture and post photographic images the user’s
+collection or set as the user’s avatar image.
+BLUETOOTH.
+Used for permissions that are associated with enabling the Bluetooth
+feature on an iOS device. This permission allows the Service to use Bluetooth
+in order to establish a connection between the user’s mobile device and
+another’s mobile device. If this permission is disabled, users cannot use the
+Shake to Connect feature in order to make a connection.
+CONTACTS.
+Used for permissions that allow an application to read and save
+contacts to the device. The Service uses this permission in order to upload the
+user’s contacts to the application so the user can connect with them on the
+application and so that the user can share contact information with others.
+The following details
+why the Service asks for permission to access SMS and the Call Log when using
+the phone replication feature:
+SMS.
+Used for permissions that are related to the user’s SMS messages.
+Google Play recognizes these permissions as high risk/sensitive permissions and
+only allows applications that use it to enable the application’s core
+functionality. Applications that do not comply with the Google Play’s
+requirements are automatically taken down. The Service is allowed to use this
+permission so that users can backup and restore the content on their phone and
+to sync texts across multiple devices.
+CALL LOG.
+Used for permissions that are related to telephony features. Google
+Play recognizes these permissions as high risk/sensitive permissions and only
+allows applications that use it to enable the application’s core functionality.
+Applications that do not comply with the Google Play’s requirements are
+automatically taken down. The Service requires access to this permission so
+that users can backup and restore the content on their phone and to sync phone
+calls across multiple devices.

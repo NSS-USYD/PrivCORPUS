@@ -1,0 +1,86 @@
+Play365 Privacy Policy
+Introduction
+The terms in this Privacy Policy govern the manner in which Play365 collects and uses any information you (Hereinafter, "User" or "Users") provide in connection with this Play365 game or Application (Hereinafter, "Service" or "Services"). By using our Service, Users agree to the collection and use of information outlined in this Privacy Policy. Play365 may amend this Privacy Policy from time to time; therefore, Users are encouraged to review the Privacy Policy regularly.
+Collecting Information
+General information automatically collected by the service
+When you install our apps and games, we may collect and record general information to enhance the experience and benefits of using our Service. This general information includes:
+Device information: we collect and use basic non-private information such as device hardware, OS version (Android and iOS), time-zone and language configured.
+Usage information: we collect, use and update information of your progress and in-app content.
+Personal Information protected by GDPR collected by the Service
+Only when applicable and in accordance with GDPR (after the User has given consent) we will collect and use personal information.
+When Users use multiplayer features in our Service such as real-time multiplayer matches or asynchronous challenges against random users or Facebook friends, we will collect and use necessary information in order to make those services work. This information includes:
+Identifiers: we collect your IP, country and advertising ID.
+Social information: with prior authorization (see Social "Services provided by Other Companies" and "Information collected from other sources"), we collect your Facebook ID and your Facebook public profile information (name, avatar and friendlist), your in-app nickname and friendlist, indetified by their own user IDs.
+Information collected from other sources
+If you log into the App using any third party site or platform such as Facebook or Google Sign-In, we access information about you from that site or platform in accordance with the authorization procedures determined by such third party site or platform provided that you have given the third party site in question such consent. Said information includes but it's not limited to: screen name, profile information and friend lists.
+Information Usage
+Usage of general information automatically collected by the service
+Play365 uses Users general information for the following purposes for each type of information:
+Device general information:
+To improve customer services: this information helps us respond to comments, support User's needs and customer service requests more efficiently and to improve User experiencie through updates - this information let us understand which characteristics and limitations our audience has.
+To personalize user experience: we use the language configured in the device in order to present automatically localized in-app content to the User. We may use time-zone of the device in order to configure services properly (such as notification services) in order to match the service's time with the user's time.
+Usage information:
+To save user progress: in order to let Users maintain the status of the Service across different sessions. Also Users may decide to store this information in third-party services (refer to "Analytics, Advertising and Other Services Provided by Other Companies") provided within our Service (non-obligatory).
+Usage of personal information protected by GDPR
+Only when applicable and in accordance with GDPR (after the User has given consent), Play365 uses Users personal identifiable information for the following purposes for each type of information:
+Identifiers:
+To connect with multiplayer services: we may use the IP of the User for making the connection between our WebService and the multiplayer service in order to connect the User with the external multiplayer services (see "Analytics, Advertising and Other Services Provided by Other Companies" and "Social Services provided by Other Companies") required for real-time multiplayer gameplay.
+To show your profile information: we collect and show your nickname and country flag (based in your collected country identifier) to other users of the same Service, to show more context information of your opponent. We do not share this information across other services that we own or external companies.
+To serve personalized advertisements: we will disclose the User's advertising ID to advertising companies for them to serve personalized advertisements.
+Social information:
+To connect and play with other players: we use the User's Facebook ID to collect information including but not limited to: Facebook name, friendlist and avatar. We use the User's Facebook name and avatar and user nickname in order to identify the User inside the Service. We use the User's friendlist information in order to collect public information (name and avatar) of friends that use our Service so the User can identify them. Also we may use the information from both User's friendlists in order to let the User compete against other users.
+Social Services provided by Other Companies
+The Service can offer several integrations with sharing services and other tools (like Google +1 button, Facebook Like button, among others), that can be used to share information and actions Users make while interacting with our Service. Also we may integrate in our Games competitive services for sharing Scores and Achievement between players, like Google Play Games Services or others. The use of the previous services and tools is a choice for each user, users are not forced to use said services. The social features that each User agreed to use enables the sharing of information with other contacts or the general public, depending on the configuration options the entity provides. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+Analytics, Advertising and Other Services Provided by Other Companies
+We may allow other third parties companies to serve advertisements in our Services, provide analytics or add other services to the Users experience. These companies may use cookies, web beacons, Users account information (that Users set up with these companies) and other tools to collect information about users on our Services or other online services, like IP addresses, installed package information, conversion information, browsers usage and pages users have visited and other mobile device identifiers (including but not limited to Advertising ID). This information may be used to deliver advertising and content according the Users interests, to better understand how the Services are used by the Users and to analyze and track data. These third party companies may also share this information with their customers and clients. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies.
+For a better understanding about how these companies use the information you should review their policies and contact them directly.
+Admob:
+https://support.google.com/admob/answer/6128543?hl=e
+Facebook:
+https://www.facebook.com/policy.php
+StartApp:
+http://www.startapp.com/policy/sdk-policy
+Vungle:
+https://vungle.com/privacy
+AdColony:
+http://www.adcolony.com/privacy-policy"
+AppLovin:
+https://www.applovin.com/privacy
+UnityAds:
+https://unity3d.com/es/legal/privacy-policy"
+Heyzap:
+http://www.heyzap.com/legal/privacy
+Google Analytics:
+https://www.google.com/intl/en/policies/privacy/
+Firebase:
+https://firebase.google.com/support/privacy/
+Information Storage and Deletion
+Play365 will store personal data of the Users for as long as it serves one of the above mentioned purposes (see the purposes mentioned in Information Usage). When your personal data no longer serves a purpose, it will be deleted from our databases. Play365 will also delete a User's personal data upon User request or if the Users exerts their right to revoke consent.
+Play365 cannot delete third party stored personal information, such as information stored by other companies. If you want your data deleted from another company database, please refer to their privacy policy. The full list of third party companies that may or may not provide an additional service in our Services is listed in the "Analytics, Advertising and Other Services Provided by Other Companies" section (see above).
+Right to request access
+According to Article 15 of the GDPR, the User has the right to request access into the personal information stored of said User, including information about:
+the purposes of the processing
+the categories of personal data concerned
+the recipients or categories of recipient to whom the personal data have been or will be disclosed
+the envisaged period for which the personal data will be stored.
+Furthermore, you have the right to obtain a copy of the personal data undergoing processing. Please note that the access may be restricted due to intellectual property or trade secrets.
+For any specific request please write to TameikaHastin@gmail.com
+Sharing your personal information
+We do not share or disclose Users general or personal information to others. The sole exception to this is personal information that is required by law enforcement authorities or similar organizations in case of a criminal investigation, prevention of fraud or criminal activities, infringement of intellectual property rights, or other illegal activities that may expose users or Play365 to legal liability.
+Permissions that may use sensitive information
+The following is a detailed list of permissions â€”and the way in which we implement themâ€” that we use and that may use sensitive information:
+WRITE_EXTERNAL_STORAGE and READ_EXTERNAL_STORAGE
+We may use these permissions in some Services to save captured images of the game on the SD and read them to provide sharing options to the user. We also may use the read permission in some games to improve users experience and let them import images from their devices for change the characters skins.
+CAMERA
+We may include this permission in other Services to allow the user to take a photo and use it as an avatar inside the game. We do not share or send the photos taken from the user to any server or third party service with anyone, only the User is able to see said photos.
+RECORD_AUDIO
+We use this permission in some Services to let the user record the voice and play it again in different contexts inside the game. We do not share or send this recordings by any method or service with anyone, only the User is able to reproduce said recordings.
+Acceptance of the terms
+By using Play365 games and Apps, you agree to the terms of this policy. If you do not accept the terms in this policy, please do not use our games and Apps. The continued use of our products after any amendment of this privacy policy will be deemed your acceptance of the changes and/or new terms.
+Contacting us
+For any questions about this Privacy Policy or any other issue please contact Play365 at:
+TameikaHastin@gmail.com
+This document was last updated on
+May 24, 2018
+Version:
+1.0.1

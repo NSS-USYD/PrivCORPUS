@@ -1,0 +1,18 @@
+Rain Alarm - Privacy Policy
+Rain Alarm
+Privacy Policy
+This app requires the following mandatory information:
+Location data (manual or automatic) and App Instance ID for core warning functionality
+Data controller is Michael Diener - Software e.K.; data is pseudonymized, stored in the EU, automatically deleted 180 days after last use; might be used for querying weather information anonymously from a third party weather service
+App Instance ID for push notifications
+Data controller is Michael Diener - Software e.K.; data processor is Google Firebase; data is pseudonymized, might be stored outside of EU via Privacy Shield, automatically deleted 180 days after last use
+Advertising ID for showing advertisement
+Data controller is Google;
+More Info
+[Yes | No] Personalized Ads
+Sharing the following information is optional and it would help us to improve the app:
+[Yes | No] App Instance ID, Advertising ID, and Android ID for analytics
+Data controller is Michael Diener - Software e.K.; data processor is Google Firebase Analytics; data is pseudonymized, might be stored outside of EU via Privacy Shield, automatically deleted after 14 months
+We try to be as transparent as possible about data use. If you have any questions about your rights, you can contact us via the help menu or at android@rain-alarm.com. You can change your privacy settings in the help menu.
+Copyright © 2023
+Michael Diener - Software e.K.

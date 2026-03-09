@@ -1,0 +1,146 @@
+Privacy Policy · hippogamesunity/GameParams Wiki · GitHub
+Skip to content
+Toggle navigation
+Sign up
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Case Studies
+Customer Stories
+Resources
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+In this repository
+All GitHub
+↵
+Jump to
+↵
+No suggested jump to results
+In this repository
+All GitHub
+↵
+Jump to
+↵
+In this user
+All GitHub
+↵
+Jump to
+↵
+In this repository
+All GitHub
+↵
+Jump to
+↵
+Sign in
+Sign up
+hippogamesunity
+/
+GameParams
+Public
+Notifications
+Fork
+0
+Star
+0
+Code
+Issues
+0
+Pull requests
+0
+Actions
+Projects
+0
+Wiki
+Security
+Insights
+More
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Privacy Policy
+Jump to bottom
+Nate River edited this page
+Mar 24, 2022
+·
+9 revisions
+Pages
+2
+Home
+Privacy Policy
+What we gather
+How do we use it
+How do we store it
+How do we share it
+Clone this wiki locally
+This privacy policy reflects the ways we are dealing with information, which is considered “personal information” and is addressed to the end-users of our apps.
+What we gather
+We are collecting information about usage of our apps (events). Your personal information (user name and email) may be requested when connecting to our social services. We can also request additional information and permissions when connecting to game services (like Google Play Games, Google Drive or Apple Game Center).
+How do we use it
+Our apps may include 3rd party components like Unity Analytics, Unity Ads and Yandex AppMetrica and other. They are used to collect user events inside the apps and provide ads. These components can collect the following information: ad ID, device ID and approximate location.
+How do we store it
+All collected information is stored by analytics services in the USA and is accessed via secure connections.
+How do we share it
+We do not. We do not give access to our information to the third parties, we never link our information to any other databases.
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.

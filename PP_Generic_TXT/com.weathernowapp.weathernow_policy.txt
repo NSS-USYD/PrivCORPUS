@@ -1,0 +1,70 @@
+Privacy Policy
+Privacy Policy
+Last updated: 03.06.2019
+OUR COMMITMENT TO YOU
+Your privacy is a top priority. We appreciate that you put your trust in us when you provide us with your information and we do not take this lightly.
+We do not compromise with your privacy. We design all of our products and services with your privacy in mind. We involve experts from various fields, including legal, security and others to make sure that no decision is taken without respect for your privacy.
+We strive to be transparent in the way we process your data. Because we use many of the same online services you do, we know that insufficient information and overly complicated language are common issues in privacy policies. We take the exact opposite approach: we have written our Privacy Policy and related documents in plain language. We actually want you to read our policies and understand our privacy practices!
+We work hard to keep your information secure. We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information.
+INTRODUCTION
+We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
+This Privacy Policy applies to websites, apps and other services operated by DeluxeWare. For simplicity, we refer to all of these as our "services" or "apps" in this Privacy Policy. To make it extra clear, we've added links to this Privacy Policy on all applicable services.
+INFORMATION WE COLLECT
+Information collected when you use our services
+When you use our services, we collect information about which features you've used, how you've used them and the devices you use to access our services. See below for more details:
+Usage Information
+We collect information about your activity on our services, for instance how you use them (e.g., date and time you logged in, time spent in the app, features you've been using, advertising that you click on).
+Device information
+We collect information from and about the device(s) you use to access our services, including:
+Geolocation data, which is any information which indicates the geographical position of your device and which may include the time the location was recorded, and may include precise (e.g., GPS-level) location data. Some apps may collect this data when the app is not open or actively in use. This may help us or third parties to customize information, content, or offers to you, for instance.
+information on your wireless and mobile network connection, like your service provider and signal strength.
+hardware and software information such as IP address, device ID and type, app crashes, app version, advertising IDs (such as Google's AdvertisingID and Apple's IDFA, both of which are randomly generated numbers that you can reset by going into your device's settings), browser type, version and language, operating system, time zones, identifiers associated with cookies or other technologies that may uniquely identify your device or browser (e.g., IMEI/UDID and MAC address).
+To help us improve our service:
+    We collect the following information: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale.  In addition to helping us to measure the usage of our app this information is shared with Huq for their business purposes, which consist of the creation of anonymised reports, market research and trend analyses. Data shared with Huq does not contain information from which users can be identified by name and we will not provide additional information that enables Huq to identify you. You can find a full description of Huq and what it and its
+partners
+do with the information collected via our app
+here
+as well as details on how to request more information on the use of your data and your rights for editing or removing your data.
+DATA COLLECTION TECHNOLOGIES
+We sometimes work with third parties to deliver ads or offers. Sometimes we or these third parties do so through a mobile "SDK." The SDK is a bit of computer code that app developers can include in their apps to enable data to be collected and ads to be shown. We may use this and similar technology to deliver certain advertising through mobile applications based on data associated with your mobile device, and we may work with third parties who likewise embed their SDKs into our services, for third-party advertising. If you'd like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions below or in the app (as applicable).
+If you wish to opt out of interest-based tracking through your mobile device, you can do so through your device "settings", as follows (but please note that the below is for informational purposes only and Apple, Google, or other device platforms may change the manner in which their "opt out" settings work at any time): Please note that if you opt out through these settings, you will continue to receive advertising after you opt-out, but it may not be tailored to your interests. For instance, that advertising may be based on your real-time or "contextual" application usage or general location inferred from IP address.
+Opting Out on iOS Devices Such as iPhones, iPads or iPods
+If you have an Apple device, you can opt out of interest-based advertising by updating to iOS 6.0 or higher, and setting Limit Ad Tracking to 'ON'. On an iPhone 6 for example, you can do this by clicking on Settings -> General -> Privacy -> Advertising and toggling "Limit Ad Tracking" to 'ON'. Our systems are designed to respect your choice and not use your personal information to provide interest-based advertising when this setting is ON.
+Opting Out on Android Devices
+If you have an Android device and would like to opt out of interest-based advertising, you may do this as follows:
+Open the Settings app on your device
+Go to "Google"
+Select Ads
+Opt out of interest-based ads
+HOW WE USE INFORMATION
+The main reason we use your information is to deliver and improve our services. Additionally, we use your info to help keep you safe and to communicate with you. Read on for a more detailed explanation of the various reasons we use your information, together with practical examples.
+To administer your account and provide our services to you
+Deliver our services to you and ensure their optimal functionality and operation.
+Provide you with customer support and respond to your requests.
+We use your email address, name, country and language for customized marketing purposes.
+When we collect your precise geolocation data (subject to your consent) (which may be via the device's cellular, Wi-Fi, Global Positioning System (GPS) networks and/or Bluetooth information), we do so to provide you with our location-related products and services, for example to provide you with forecast and weather alerts for your location, and also to facilitate, measure, or otherwise support advertising by third parties (through our apps or third parties' apps) that may be related to your location over time.
+Some of our apps may offer you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the app you are using, and on the social media provider concerned, but may often include your name, e-mail address, mobile phone number, and friends list. We will use the information we receive only for the purposes that are described in this Privacy Policy or that are otherwise made clear to you in the app you are using. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you see their privacy policy to understand how they collect, use and share your information, and how you can set your privacy preferences on their sites and apps.
+To improve our services and develop new ones
+Develop new features and services (for example, we may decide to build a new feature further to requests or feedback received from users).
+Deluxeware uses the Google Analytics tool Firebase in order to carry out analysis on information which is gathered by our apps. Device information and other information which we gather are provided to Google in order to enable them to carry out data analysis. Any information which is provided to Google will become subject to Google's privacy policy which is located here:
+https://policies.google.com/privacy
+. For further information on how Google's Firebase analytics tool uses data, please see the site "How Google uses data when you use our partners' sites or apps", (located at
+https://policies.google.com/technologies/partner-sites
+).
+Conduct research and analysis of your behavior about your use of, or interest in, our products, services, or content to improve our services and content (for instance, we may decide to change the look and feel or even substantially modify a given feature based on users' behavior). This software may record information such as how often you use the services, what happens within the services, aggregated usage, performance data, app errors and debugging information, and where the apps were downloaded from.
+To serve you relevant offers and ads
+Develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. When you are on our services, third-party ad partners may provide you with advertising based on your interests. These companies may use technologies to collect data about users, including precise device location data, to help them tailor relevant ads and measure ads' effectiveness. These companies may collect this data through SDKs or from users who view or interact with their advertisements. For the purposes of European law, most of these ad partners are independent controllers of your information, which means that they are responsible for providing and complying with their own policies relating to any personal information they obtain in connection with the services. It also means that if you are a Facebook app user for example â€“ you provided consent to Facebook in your Facebook app to allow them to show you personalized ads inside of our services.
+HOW WE SHARE YOUR INFORMATION
+Since our goal is to provide the best services we can to you, the main sharing of users' information is with service providers and partners who assist us in operating the services. Read on for more details about how your information is shared with others.
+With our service providers and partners
+We follow a strict vetting process prior to engaging any service provider or working with any partner. We use third parties to help us operate and improve our services. These third parties assist us with various tasks, including data hosting and maintenance, analytics, marketing, advertising and security operations. These service providers may have limited access to your information, which is needed to perform their functions but is not permitted to share or use such information for any other purposes. We use your non-personal information (meaning information that, by itself, does not identify who you are such as device information) for targeted online marketing through tools like Facebook Custom Audience to contact interested parties.
+In addition, we may share aggregated information we collect, under any of the above circumstances, with third parties, including advisors, advertisers, and investors, for the purpose of conducting general business analysis or other legitimate business purposes. Please note that such aggregated information will not include any information which allows third parties to identify you.
+Full and actual list of our prtners, you can find here:
+Our partners
+HOW WE PROTECT YOUR INFORMATION
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and after it is received. We work hard to protect you from unauthorized access to or alteration, disclosure or destruction of your personal information. As with all technology companies, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information will always remain secure. We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage and processing practices to update our physical, technical and organizational security measures.
+PRIVACY POLICY CHANGES
+Because we're always looking for new and innovative ways to help you enjoy our services, this policy may change over time. We will notify you of any material changes so that you have time to review the changes.
+HOW TO CONTACT US
+If you have any questions about this Privacy Policy or our Information-handling practices, or wish to review, amend or delete any Information we are storing, please contact us by email or postal mail as follows:
+[email protected]

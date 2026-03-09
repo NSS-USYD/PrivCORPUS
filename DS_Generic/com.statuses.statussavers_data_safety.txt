@@ -1,0 +1,15 @@
+<d_prac>          Data shared         
+<d_detl>          Data that may be shared with other companies or organisations         
+<d_cata>                 Device or other IDs                
+<d_attr>               Device or other IDs              
+<d_valu>             Analytics            
+<d_cata>                 Photos and videos                
+<d_attr>               Photos              
+<d_valu>             App functionality            
+<d_attr>               Videos              
+<d_valu>             App functionality            
+<d_prac>          No data collected         
+<d_detl>          The developer says that this app doesn’t collect user data         
+<d_prac>          Security practices         
+<s_cata>             Data is encrypted in transit            
+<s_attr>             Your data is transferred over a secure connection            

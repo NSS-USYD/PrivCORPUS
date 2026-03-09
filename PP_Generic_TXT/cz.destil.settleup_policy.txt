@@ -1,0 +1,73 @@
+Settle Up
+Tips
+Blog
+Support
+Our team
+Web app
+Privacy policy
+Your privacy is important for us. We are transparent, comply with privacy regulations such as GDPR, and provide this privacy policy in an understandable language free of legalese.
+Who collects the data?
+The legal entity which owns Settle Up apps is:
+Step Up Labs Inc.
+1611 E. 2nd Street
+Casper, WY, 82601
+United States
+You can find people behind it at
+stepuplabs.io
+. We are all based in the Czech Republic, Europe.
+What data do we collect and why?
+Full name
+to identify users who have access to your group
+Email address
+to identify users who have access to your group, to identify your account, to back up your data, to generate an email with data export from the app, for marketing campaigns (which you can opt out of)
+Profile picture(s)
+to visually enhance the app and to easily distinguish the users and members of a group
+Your Settle Up data: transactions, members, groups, history of changes
+for the basic functionality and backup
+Analytics data: anonymized logs of your behaviour, clicks on elements, time spent on screens etc.
+to make data-driven decisions about the development of the app and detecting UX issues
+Crash reporting data: details about the crash with diagnostic information about your device, network, language etc.
+to fix crashes
+Where are the data stored?
+All our data are stored in Google Cloud Platform. We specifically use services called Firebase and Google AppEngine. Geographically, the data are stored in the United States.
+How are the data secured?
+Google Cloud Platform is trusted by many businesses worldwide and they have one of the best security in the industry. On top of that, we provide our data only via HTTPS (an encrypted connection). This way, your data cannot be intercepted on the way, for example when connected to an unsecured WiFi network. We take security very seriously and take every measure to prevent data leaks. If you suspect any security issue, contact us immediately at
+privacy@settleup.io
+.
+What is shared with third-parties?
+We don’t share your data with any third parties except:
+Google
+provider of our backend services (database, file storage, analytics, crash reporting, web hosting, Google Play app statistics);
+Apple
+iTunes Connect app statistics;
+Microsoft
+Windows Store app statistics;
+when required by law or necessary to comply with a valid legal process;
+in relation to a sale of all or part of our business.
+How long are the data stored?
+Indefinitely, unless the service is shut down.
+How to delete all your data?
+You can delete all your data in the Android app: open My Profile from left menu and select Delete account at the bottom. Note that groups may be shared with others, so you need to delete groups where you are owner or transfer ownership to others first. If you don't have access to the Android app, contact us at
+privacy@settleup.io
+.
+How to export all your data?
+The Android app has a built-in CSV export for individual groups. If you need to export more data, contact us at
+privacy@settleup.io
+.
+How to raise a complaint?
+Contact us at
+privacy@settleup.io
+.
+What happens when the service is shut down?
+We will try hard to avoid that, but we offer no guarantees for data losses. In the case of an expected service shutdown, we will contact all users via email announcing this at least one month before shutdown so you will be able to export all your data.
+Who is EU Representative Contact and Data Protection Officer?
+EU Representative Contact is David Vávra, contact:
+david@stepuplabs.io
+Data Protection Officer is Tomáš Bezouška, contact:
+tomas@stepuplabs.io
+Copyright 2022 Step Up Labs, Inc | All Rights Reserved
+Help with translations
+API for developers
+Bitcoin Lightning
+Privacy Policy
+Terms of service

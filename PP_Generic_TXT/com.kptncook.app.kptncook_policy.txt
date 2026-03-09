@@ -1,0 +1,437 @@
+KptnCook - DSE
+meal planner
+community
+about
+blog
+English
+German
+Spanish
+French
+Portuguese
+Last updated: December, 23 2020
+KptnCook Privacy Policy
+Name and address of the data controller
+The data controller responsible for compliance with the General Data Protection Regulation as well as other data protection regulations, including the national data protection laws of the EU Member States, is:
+KptnCook GmbH
+Mariendorfer Weg 64,
+12051 Berlin,
+Germany
+Phone: +49 176 43655171
+Email: support@kptncook.com
+Website:  https://www.kptncook.com/
+represented by the Managing Director Alexander Reeg
+General information on data processing
+1. Description and scope of data processing
+We only process personal data of our users to the extent that this is necessary for the provision of a functional website as well as our content and services. We regularly collect and use your personal data, but only with your consent. An exception applies in those cases where prior consent cannot be obtained for legal or factual reasons and the processing of the data is permitted by law.
+2. Legal basis for data processing
+Insofar as we obtain your consent for the processing of your personal data, Art. 6 para. 1 lit. a of the EU General Data Protection Regulation (GDPR) is the legal basis. When processing personal data that is necessary to fulfill an agreement with you, Art. 6 para. 81) (b) GDPR is the legal basis. This also applies to processing operations that are necessary for carrying out pre-contractual measures. Insofar as the processing of personal data is necessary to fulfill a legal obligation to which our company is subject, Art. 6 para. 1 lit. c GDPR is the legal basis.In the event that your vital interests or those of another natural person require the processing of personal data, Art. 6 1 lit. d GDPR is the legal basis. If processing is necessary to safeguard our legitimate interest or that of a third party and if your interests, fundamental rights, and freedoms do not outweigh the former, Art. 6 para. 1 lit. f GDPR is the legal basis.
+3. Data deletion and storage duration
+Your personal data will be deleted or blocked as soon as the purpose for its storage no longer pertains. Your data may, however, continue to be stored if required by EU or national regulations, laws, or other provisions to which we are subject. Data will be blocked or deleted once said retention periods expire, unless its further retention is required to establish or fulfill a contractual relationship.
+Privacy Policy of the Website
+I. Provision of the website
+1. Description and scope of data processing
+Every time you visit our website, our system automatically collects data and information from your computer system. The following data is collected:
+The user’s IP address
+The time of access
+The data are also stored in the log files of our system. This data is not stored together with any other personal data we may have collected about you.
+2. Legal basis for data processing
+The legal basis for the temporary storage of data and log files is Art. 6 para. 1 lit. f GDPR.
+3. Purpose of data processing
+The temporary storage of the IP address by the system is necessary to enable the delivery of the website to your computer. The data is stored in log files in order to ensure the website’s functionality. The data is also used to optimize the website and to ensure the security of our information technology systems. We do not evaluate this data for any marketing purposes. These purposes also encompass our legitimate interest in data processing in accordance with Art. 6 para. 1 lit. f GDPR.
+4. Storage duration
+The data will be deleted as soon as it is no longer required to achieve the purpose for which it was collected. If the data is collected for the provision of the website, it will be retained for a maximum of 7 days.
+5. Possibility of objection and deletion
+The collection of data for the provision of the website and the storage of data in log files is absolutely necessary for the operation of the website. Consequently, you do not have the possibility to object to its collection.
+6. Data recipients / transfer to third countries
+In addition to us, our hosting service provider Heroku, Salesforce, 415 Mission St., 3rd Floor, San Francisco, CA 94105, USA, has access to this data. It supports us in the operation and maintenance of the website. More information on their privacy policy can be found at https://www.salesforce.com/company/privacy/. Our service provider SolarWinds Worldwide, LLC, 7171 Southwest Parkway, Bldg 400, Austin, Texas 78735, USA, also has access to this data. It supports us with log management for website hosting. More information on their privacy policy can be found at https://www.solarwinds.com/legal/privacy. Our cloud monitoring service provider New Relic, Inc., 188 Spear Street, Suite 1200, San Francisco, CA 94105, USA, also has access to this data. More information on their privacy policy can be found at https://newrelic.com/termsandconditions/privacy. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data.  If we obtain your consent when you visit the website, you consent to the transmission of the data and to any access by these authorities.
+II. Use of website cookies
+1. Description and scope of data processing
+Our website uses cookies. Cookies are text files that are stored on or by your internet browser. If you visit a website, a cookie may be stored on your operating system. This cookie contains a distinctive character string that enables unique identification of the browser when the website is accessed again.
+We use cookies to make our website more user-friendly. The following data is stored in the cookies:
+Language settings: Saving the language settings enables the website to be displayed in the previously set language when the page is accessed again.
+In addition, we use cookies on our website that enable us to analyze the surfing behavior of the users. The following data can be transmitted in this way:
+The user’s IP address
+Website accessed
+The website from which the user has accessed our website (referrer)
+Subpages that are accessed from the accessed website
+Time and duration of access
+The frequency with which our website is accessed
+Location of the user (localization of the IP address)
+Users browser
+Information about the end device (operating system and version, device brand and device model)
+User events
+When accessing our website, the user is informed regarding the use of cookies for analytical purposes and his or her consent to the processing of personal data used in this context is obtained. We will at that time also make reference to this Privacy Policy.
+2. Legal basis for data processing
+The legal basis for processing personal data using technically necessary cookies is Art. 6 para. 1 lit. f GDPR. The legal basis for processing personal data by using cookies for analytical purposes, if the user’s consent to this has been obtained, is Art. 6 Para. 1 lit. a GDPR. The consent is obtained when the website is accessed through a so-called consent / cookie banner.
+3. Purpose of data processing
+The purpose of using such technically essential cookies is to simplify your use of the website. Some features of our website cannot be offered without the use of cookies. We use cookies to adopt language settings. The user data collected through technically necessary cookies are not used to create user profiles. The analytics cookies are used to improve the quality of our website and its content. Using analytics cookies, we learn how the website is used and can thereby constantly optimize our service. For these purposes, our legitimate interest also lies in the processing of personal data pursuant to Art. 6 para. 1 lit. f GDPR.
+4. Duration of storage and options for objection and removal
+Cookies are stored on the user’s computer and transmitted to our website. You therefore have full control over the use of cookies. By changing the settings in your internet browser, you can disable or restrict the transmission of cookies. Cookies that have already been saved can be deleted at any time. This can also be done automatically. If cookies for our website are deactivated, it is possible that you will no longer be able to use all of its features.
+5. Data recipients / transfer to third countries
+In addition to us, our analytics service provider Google Analytics, Google, 1600 Amphitheater Pkwy, Mountain View, CA 94043, USA, has access to this data. It supports us in the operation and maintenance of the website. More information on their privacy policy can be found at https://cloud.google.com/security/privacy. We also refer to our comments on Google Analytics under X.
+III. Newsletter
+1. Description and scope of data processing
+You can subscribe to a free newsletter on our website, on our blog and in our app (as a registered user). The following data is collected when you register:
+Email address
+Optional: first name and surname
+The users IP address
+Time of registration
+A double opt-in procedure is used to process the data, i.e. the newsletter subscription must first be activated by the user in a confirmation email.
+2. Legal basis for data processing
+If the user’s consent has been obtained, the legal basis for processing your data you sign up for our newsletter is Art. 6 para. 1 lit. a GDPR
+3. Purpose of data processing
+The user’s email address is collected in order to deliver the newsletter.
+4. Storage duration
+The data will be deleted as soon as it is no longer required to achieve the purpose for which it was collected. Therefore, the user’s email address will be stored for as long as the newsletter subscription is active
+5. Possibility of objection and deletion
+You may cancel your subscription to the newsletter at any time. A relevant link can be found in every newsletter for this purpose. This also allows for withdrawal of consent to the storage of personal data collected during the subscription process.
+6. Data recipients / transfer to third countries
+In addition to us, our newsletter service provider Iterable, Inc., 71 Stevenson St, #300 San Francisco, CA 94105, USA, has access to this data. It supports us in sending and tracking the newsletter. More information on their privacy policy can be found at https://iterable.com/trust/privacy-policy/. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data. If we obtain your consent when you visit the website, you consent to the transmission of the data and to any access by these authorities.
+IV. Newsletter tracking
+1. Description and scope of data processing
+The newsletters contain so-called tracking pixels. A tracking pixel is a miniature graphic which is embedded into emails sent in HTML format to allow log data to be recorded and analysed. This is used for the statistical evaluation of online marketing campaigns, i.e. to evaluate whether and when an e-mail was opened by a data subject and which links in the e-mail were called up by the data subject.
+2. Legal basis for data processing
+If you have given your consent when subscribing to our newsletter, the legal basis for processing your data is Art. 6 para. 1 lit. a GDPR.
+3. Purpose of data processing
+The purpose of this processing is to improve the quality of the newsletter and to optimize our offers.
+4. Storage duration
+The data will be deleted as soon as it is no longer necessary to achieve the purpose for which it was collected. Therefore, the user’s email address will be stored for as long as the newsletter subscription is active.
+5. Possibility of objection and deletion
+The user can prevent tracking by setting his email program so that it does not load any images in an email. The user can revoke the consent given to this at any time. If the user unsubscribes from the newsletter, this is also considered a revocation of the newsletter tracking.
+6. Data recipients / transfer to third countries
+In addition to us, our newsletter service provider Iterable, Inc., 71 Stevenson St, #300 San Francisco, CA 94105, USA, has access to this data. It supports us in sending and tracking the newsletter. More information on their privacy policy can be found at https://iterable.com/trust/privacy-policy/. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data. If we obtain your consent when you visit the website, you consent to the transmission of the data and to any access by these authorities.
+V. Email contact
+1. Description and scope of data processing
+It is possible to contact us by email. In this case, the user’s personal data that is transmitted along with the email will be stored. This data includes:
+Email address
+Content of the email message
+If applicable, surname, first name of the user (depending on the information in the email)
+If applicable, information from the email signature such as contact details
+The data provided in this connection will not be disclosed to third parties. The data will be used exclusively to carry out the conversation.
+2. Legal basis for data processing
+The legal basis for processing the data transmitted in the course of sending an email is Art. 6 para. 1 lit. f GDPR. If you send us an e-mail with the intention of entering into an agreement with us, this creates an additional legal basis for its processing as per Art. 6 1 lit. b GDPR.
+3. Purpose of data processing
+The purpose of the processing is to initiate and establish a contact. In the event that a contact request is sent by email, this also constitutes the necessary legitimate interest in processing the data.
+4. Storage duration
+The data will be deleted as soon as it is no longer required to achieve the purpose for which it was collected.
+5. Possibility of objection and deletion
+If you contact us by email, you may object to the storage of your personal data at any time. If you exercise this right, it will not be possible to continue our conversation.
+6. Data recipients / transfer to third countries
+Our email service provider Google, 1600 Amphitheater Pkwy, Mountain View, CA 94043, USA, has access to this data. We use the Google product Gmail to send and receive emails. More information on their privacy policy can be found at https://cloud.google.com/security/privacy. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data. If we obtain your consent when you visit the website, you consent to the transmission of the data and to any access by these authorities.
+VI. Blog with comment function
+1. Description and scope of data processing
+You have the opportunity to comment on posts on our blog. In this context, you will be asked to provide the following data:
+Name (optional)
+Your email (optional)
+Comment text
+Your comment will be published on our website. Please note that we may check this manually before publication and that comments may therefore appear with a delay. If you give a name (this can also be a pseudonym) and/or your email address, this will be published next to your comment. If not, your comment will be published anonymously. If you would like to object to the processing of your data transmitted via the comment function, please contact the email address given in the legal notice.
+2. Legal basis for data processing
+The legal basis of processing is Art. 6 para. 1 lit. f GDPR. Our interest is to enable an exchange of views. Please note that we manually approve comments before they are published, which can mean that your comments are only published with some delay, especially on weekends.
+3. Purpose of data processing
+The purpose of the comment function and thus the processing of your data is to exchange views.
+4. Storage duration
+The publication of your comment - as well as your name and e-mail address - are generally unlimited.
+5. Possibility of objection and deletion
+You can object to the publication and processing of your data at any time. In this case we will delete your data, especially your comment.
+6. Data recipients / transfer to third countries
+We use Wordpress to host our blog. In addition to us, our hosting service provider DigitalOcean, LLC, 485 Massachusetts Ave, Cambridge, MA 02139, USA has access to this data. It supports us in providing the blog. More information on their privacy policy can be found at https://www.digitalocean.com/legal/privacy-policy/. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data. If we obtain your consent when you visit the website, you consent to the transmission of the data and to any access by these authorities.
+VII. Prize competition
+1. Description and scope of data processing
+You can take part in competitions via our website or through the newsletter. In order to enable you to participate in the competition, we collect personal data:
+Surname (if applicable)
+First name (if applicable)
+Email address
+2. Legal basis for data processing
+According to Art. 6 para. 1 (a), we are entitled to collect, store and transmit personal data if the data subject has consented to the data processing.
+3. Purpose of data processing
+Your data will only be used to carry out the competition and not for any other purpose.
+4. Storage duration
+We process your data to the extent and duration it is necessary for the implementation and processing of the competition and for the fulfillment of statutory retention requirements.
+5. Possibility of objection and deletion
+You can object to the processing of your data at any time and request that your data be deleted. However, further participation in the competition is then no longer possible.
+6. Data recipients
+Your data will only be passed on to third parties if this is necessary for the implementation of the competition. The data will not be transmitted to other third parties.
+VIII. Web analysis by Google Analytics
+1. Description and scope of data processing
+This website uses Google Analytics, a web analysis service provided by Google Inc. ("Google"). Google Analytics uses so-called "cookies", text files that are stored on your computer and that enable the analysis of your use of the website. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on a server located in the United States. On behalf of the operator of this website, Google will use this information for the purpose of evaluating your use of the website, for compiling reports on website activity, and for providing other services relating to the website activity and internet activity to the website operator. The IP address transmitted by your browser within Google Analytics is not merged with other Google data. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. We would like to point out that your IP address will be sent to Google servers, which may be in the USA, i.e. a third country outside the EU. The USA currently does offer the same level of data protection that is provided within the EU. In particular, there are insufficient legal protection options. In addition, US laws allow US secret services and authorities such as CIA, NSA access to servers such as Google and "telephone and internet lines" from the USA, so that your IP address could potentially be accessed by the secret services. The previous agreements between the USA and the EU, Safe Harbor and Privacy Shield, which were supposed to ensure an adequate level of data protection between the USA and the EU, have been declared invalid by the European Court of Justice, so that they no longer apply. The EU and the US have to renegotiate the agreements. You can find the Google privacy policy under the following link: https://policies.google.com/privacy?hl=de. The following cookies are set by Google:
+2. Legal basis for data processing
+We obtain your consent to the use of Google Analytics and the setting of a cookie by Google on your computer with the help of a so-called cookie consent banner when you access the website. By ticking the box, the user actively consents to the data processing described here under VIII. For the purposes described here. In particular, you also consent to US secret services being able to access the server, the “telephone and internet lines”, and thus your IP address, when your IP address is transmitted to Google servers in the USA. You expressly agree to this. The legal basis is Art. 6 para. 1 lit. a, 7, 49 para. 1 lit. a GDPR.
+3. Purpose of data processing
+We use Google Analytics to analyze your surfing behavior so that we can better tailor the offers on our website and our products to your needs.
+4. Duration of storage, possibilities for objection and data deletion
+The cookies are stored by Google on your device and transmitted to our site. You therefore have full control over the use of cookies. By changing the settings in your internet browser, you can disable or restrict the transmission of cookies. Cookies that have already been saved can be deleted at any time. This can also be done automatically. If cookies for our website are deactivated, it is possible that you will no longer be able to use all of its features. In addition, the storage period of the cookies used and managed by Google results from the above list.
+5. Data recipients
+In addition to us, our analytics service provider Google Analytics, Google, 1600 Amphitheater Pkwy, Mountain View, CA 94043, USA, has access to this data. It supports us in the operation and maintenance of the website. More information on their privacy policy can be found at https://cloud.google.com/security/privacy
+Privacy Policy of the App
+I. Provision of the app
+1. Description and scope of data processing
+We provide you with a mobile app that you can download onto your mobile device if you are at least 16 years old. The consent of your parents is required if you are not 16 years old, according to Art. 8 para. 1 sentence 2 GDPR. Below we inform you about the collection of personal data when using our mobile app. When using our app, our system collects data and information from the user’s mobile device. The following data is collected:
+The user’s IP address
+Information about the end device (operating system and version, device brand and device model, Android Advertising ID, Apple IDFA / IDFV, language setting)
+Location of the user (localization of the IP address)
+Optional: GPS coordinates of the user
+Time and duration of access
+Optional: information on diet (e.g. "vegetarian diet")
+User events (e.g. favoring a recipe)
+Device tokens, e.g. for sending push notifications
+2. Legal basis for data processing
+If the user’s consent has been obtained, the legal basis for processing the data is Art. 6 para. 1 lit. a GDPR.
+3. Purpose of data processing
+With information about the user’s device, developers can address specific problems. Information on diet and user events improve the delivery of relevant content and help to continuously optimize the app. Device tokens are necessary to deliver push notifications and in-app messages. Here, information such as the location supports the targeted alignment of the messages. Further personal data is used to optimize the app and marketing.
+4. Storage duration
+The data is deleted as soon as it is no longer required to achieve the purpose for which it was collected or to fulfill the statutory retention obligations.
+5. Possibility of objection and deletion
+As an unregistered user, you have the option to delete the app at any time and thus prevent further future data processing. If you wish to delete or change the data, you can request this by email.
+II. Account registration
+1. Description and scope of data processing
+In our app, we offer users the opportunity to register by providing personal data. Registration is required to use an extended range of functions or to take out a subscription. The data is entered in input masks and transmitted to us and stored. In addition to the data that is collected when using the app, the following data is collected as part of the registration process:
+Email address
+First and last name
+Time of registration
+Login data
+Optional: profile picture
+Optional: Notes on recipes
+When registering via Facebook: Facebook profile picture, first and last name
+The user’s consent to processing this data is obtained during the registration process.
+2. Legal basis for data processing
+If the user’s consent has been obtained, the legal basis for processing the data is Art. 6 para. 1 lit. a GDPR.
+3. Purpose of data processing
+User registration is required for the provision of certain content and services on our website. With the registration it is possible to favorite more than 25 recipes, to create collections of recipes, to share shopping lists with other users and to log in on several devices at any time.
+4. Storage duration
+The data will be deleted as soon as it is no longer required to achieve the purpose for which it was collected. This is the case for the data collected during the registration process if the registration is canceled or changed.
+5. Possibility of objection and deletion
+As a user, you have the option of canceling the registration at any time. You may at any time change the data we have stored about you. The account can be deleted at any time via the settings in the KptnCook app.
+III. Prize competition
+1. Description and scope of data processing
+You can take part in competitions via our website or through the newsletter. In order to enable you to participate in the competition, we collect personal data:
+Surname (if applicable)
+First name (if applicable)
+Email address
+2. Legal basis for data processing
+According to Art. 6 para. 1 (a), we are entitled to collect, store and transmit personal data if the data subject has consented to the data processing.
+3. Purpose of data processing
+Your data will only be used to carry out the competition and not for any other purpose.
+4. Duration of Storage
+We process your data to the extent and duration it is necessary for the implementation and processing of the competition and for the fulfillment of statutory retention requirements.
+5. Possibility of objection and deletion
+You can object to the processing of your data at any time and request that your data be deleted. However, further participation in the competition is then no longer possible.
+6. Data recipients
+Your data will only be passed on to third parties if this is necessary for the implementation of the competition. The data will not be transmitted to other third parties.
+IV. Paid and trial subscription
+1. Description and scope of data processing
+In addition to using the app for free, you have the option of signing up for a paid subscription or taking advantage of a subscription trial. This gives you access to an extended range of functions of the KptnCook app. If you wish to take advantage of a free trial period for a subscription or a paid subscription via an in-app purchase, information on the payment method, including credit card data and other information on the financial service provider, is collected and stored via the corresponding platform provider (Apple or Google). KptnCook itself does not process any information on credit or bank card details. We do not receive any personal data for the payment data processed by the platform providers, only:
+Time of taking out the subscription
+Subscription term
+Type of subscription
+2. Legal basis for data processing
+If the user’s consent has been obtained, the legal basis for processing the data is Art. 6 para. 1 lit. a GDPR. When processing personal data that is necessary to fulfill an agreement with you, Art. 6 para. 1 lit. b GDPR is the legal basis.
+3. Purpose of data processing
+By providing information about users’ attitudes towards individual diets, we can improve the delivery of relevant content and continuously optimize the service for our users; both within the app and in our marketing channels. Information on the method of payment, which was transmitted via the service providers Apple or Google, is necessary in order to use a trial subscription or a paid subscription.
+4. Storage duration
+We save your data to the extent and as long as this is necessary to achieve the aforementioned purposes and due to statutory retention requirements.
+5. Possibility of objection and deletion
+As a user, you have the possibility to object to data processing at any time and have your personal data deleted.
+V. Disclosure of personal data to third parties
+1. Description and scope of data processing
+As far as this is necessary for the provision of the contractual service owed by us or legal obligations, your data will also be passed on to service providers. A list of all service providers can be found here.
+2. Legal basis for data processing
+Your personal data will only be passed on within the relevant requirements, in particular those relating to data protection and competition law. According to Art. 6 para. 1 (a), we are entitled to collect, store and transmit personal data if the data subject has consented to the data processing.
+3. Purpose of data processing
+The transfer of personal data to third parties serves to provide the service in the name of or on our behalf (e.g. technical processing of email dispatch, payment processing, dispatch of push notifications). The transfer of personal data to third parties enables us to offer the services related to KptnCook.
+4. Storage duration
+The data is deleted as soon as it is no longer required to achieve the purpose for which it was collected or to fulfill the statutory retention requirements. In addition, we refer to the data protection provisions of the respective service provider. A list of all service providers and their respective privacy policies can be found here.
+5. Possibility of objection and deletion
+As a user, you have the possibility to object to data processing at any time and have your personal data deleted.
+VI. Transfer to third countries
+1. Description and scope of data processing
+In order to provide the services related to KptnCook, data is also transmitted to third countries. If processing by third party services takes place outside the European Union or the European Economic Area, these must meet the special requirements of Art. 44 et seq. GDPR.
+2. Legal basis for data processing
+The processing takes place on the basis of special guarantees, such as compliance with officially recognized contractual obligations, the so-called "standard contractual clauses".
+3. Purpose of data processing
+The transfer of personal data to third parties serves to provide the service in the name of or on our behalf (e.g. technical processing of email dispatch, payment processing, dispatch of push notifications). The transfer of personal data to third parties enables us to offer the services related to KptnCook.
+4. Storage duration
+The data is deleted as soon as it is no longer required to achieve the purpose for which it was collected or to fulfill the statutory retention requirements. In addition, we refer to the privacy notices of the respective service providers. A list of all service providers and their respective privacy policies can be found here.
+5. Possibility of objection and deletion
+As a user, you have the possibility to object to data processing at any time and have your personal data deleted.
+VII. Recipients of data (in third countries) / Service providers with access to personal data (from third countries)
+KptnCook works together with service providers to offer services related to KptnCook. A service provider receives personal data from KptnCook and is commissioned to process this data for certain purposes. Below is a list of all KptnCook service providers with the purpose and location of the data processing. Further details on data processing can be found in the respective privacy notices of the service providers. For more information contact support@kptncook.com. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data. If we obtain your consent when you access the app, you consent to the transmission of the data and any access by these authorities.
+Service Provider
+Purpose of Data Processing
+Address
+Data Processing Details
+Google
+App Analytics
+1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA
+https://cloud.google.com/security/privacy
+Facebook
+FB Login, Analytics
+1601 Willow Rd
+Menlo Park, CA 94025, USA
+https://www.facebook.com/about/privacy/
+Mixpanel
+Advanced Analytics
+1 Front St, San Francisco, CA 94111, USA
+https://mixpanel.com/legal/privacy-policy/
+AppsFlyer
+Attribution Tracking
+100 1st St 25th floor, San Francisco, CA 94105, USA
+https://www.appsflyer.com/services-privacy-policy/
+Iterable
+CRM, Analytics
+71 Stevenson St #300, San Francisco, CA 94105, USA
+https://iterable.com/trust/privacy-policy/
+Branch
+Deep Linking, Analytics
+1400B Seaport Blvd floor 2, Redwood City, CA 94063, USA
+https://www.branchapp.com/privacy
+Salesforce
+Cloud Application Platform
+415 Mission St., 3rd Floor, San Francisco, CA 94105, USA
+https://www.salesforce.com/company/privacy/
+Twilio
+E-Mail-Versand
+375 Beale St #300, San Francisco, CA 94105, USA
+https://www.twilio.com/legal/privacy
+Awin
+Affiliate Marketing Platform
+Eichhornstraße 3
+10785 Berlin
+, Deutschland
+https://www.awin.com/gb/legal/privacy-policy
+Typeform
+User Survey Platform
+Carrer de Bac de Roda, 163, 08018 Barcelona, Spanien
+https://admin.typeform.com/to/dwk6gt
+New Relic
+Cloud Application Monitoring
+188 Spear Street, Suite 1200, San Francisco, CA 94105
+, USA
+https://newrelic.com/termsandconditions/privacy
+solarwinds
+Log Management Tool
+7171 Southwest Parkway, Bldg 400, Austin, Texas 78735
+, USA
+https://www.solarwinds.com/legal/privacy
+InterActiveCorp
+Video Hosting Platform
+555 West 18th Street
+New York
+,
+NY
+10011
+, USA
+https://vimeo.com/privacy
+Amazon
+Voice Assistant, Hosting
+410 Terry Ave N, Seattle, WA 98109, USA
+https://aws.amazon.com/de/privacy/
+Rackspace US
+Database Platform
+1 Fanatical Pl.
+City of Windcrest
+San Antonio, TX 78218, USA
+https://www.objectrocket.com/privacy/
+RevenueCat
+Subscription Management Tool
+633 Taraval St. Suite 101, San Francisco, CA, 94116
+https://www.revenuecat.com/privacy
+Rights of the data subject
+If your personal data is processed, you are a data subject within the meaning of the GDPR and you have the following rights vis-à-vis the controller. You can assert these rights by sending an email to support@kptncook.com:
+1. Right to information
+You can request that we confirm whether we are processing or have processed personal data that concerns you. If such processing is taking place, you can request the following information:
+the purposes for the processing of personal data;
+the categories of personal data being processed;
+the recipients or categories of recipients to whom your personal data has been or will be disclosed;
+the planned storage duration of your personal data or, if specific information in that regard is not possible, criteria for determining the storage period;
+the existence of any right to correct or delete your personal data or restrict or object to is further processing by us;
+right to lodge a complaint with a supervisory authority;
+all available information on the source(s) of the data, if the personal data has not been obtained from you directly;
+the existence of automated decision-making processes, including profiling, as defined in Art. 22 para. 1 and 4 GDPR and meaningful information on the logic involved and the scope and intended effects of such processing for the data subject. You have the right to request information regarding whether your personal information will be transmitted to a non-EU country or an international organization. In this respect, you can request the appropriate guarantees in connection with the transmission in accordance with Art. 46 GDPR.
+2. Right to have data corrected
+You have a right to correct and/or add to the personal data we have on file about you if it is incorrect or incomplete. We must make the correction immediately.
+3. The right to restrict processing
+Under the following conditions, you may request that the further processing of your personal data be restricted if:
+you dispute the accuracy of the personal data we have on file; its processing would then be restricted for as long as it takes us to verify its accuracy;
+the processing is unlawful and you do not wish to have the data deleted and instead wish its further use to be restricted;
+we no longer need the personal data for processing, but you need it to assert, exercise, or defend legal claims; or
+you have objected to processing pursuant to Art. 21 para. 1 GDPR and it has not yet been established whether our legitimate reasons for continued processing of your data outweigh your right to object to the same.
+If the processing of personal data concerning you has been restricted, such data may be processed - with the exception of their storage - only with your consent or for the establishment, exercise or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the Union or a Member State. If the data processing has been restricted in accordance with the above conditions, you will be informed by the controller before the restriction is lifted.
+4. Right to erasure
+a) Obligation to erase
+You may request that we delete your personal data immediately and we must comply with this request if one of the following reasons applies:
+The personal data is no longer necessary in relation to the purposes for which it was collected or otherwise processed.
+You withdraw the consent that was the basis of its processing per Art. 6 para. 1 lit. a or Art. 9 para. 2 lit. a GDPR and there is no other legal basis for its continued processing;
+You can submit an objection in accordance with Art. 21 para. 1 GDPR and there are no overriding legitimate grounds for its continued processing; or you submit an objection according to Art. 21 para. 2 GDPR.
+Your personal data has been unlawfully processed.
+Your personal data is required in order to comply with a legal obligation under Union or Member State law to which we are subject.
+Your personal data has been collected in relation to services offered by information services pursuant to Art. 8 para. 1 GDPR.
+b) Information to third parties
+If we have published your personal data and are required to erase it under Art. 17 para. 1 GDPR, we will take appropriate measures, including technical measures, taking into account the available technology and the implementation costs, to inform data processors who process the personal data that you have requested the deletion of all links to the same as well as any copies thereof.
+c) Exceptions
+The right to erasure does not apply insofar as the processing is necessary
+to exercise the right to freedom of expression and information;
+for the performance of a legal obligation which makes such processing mandatory under the law of the Union or of the Member States to which we are subject or for the performance of a task in the public interest or in the exercise of official authority conferred upon us;
+for reasons of public interest in the field of public health in accordance with Art. 9 para. 2 lit. h and i, as well as Art. 9 para. 3 GDPR;
+for archival purposes in the public interest, scientific or historical research purposes or for statistical purposes in accordance with Art. 89 para. 1 GDPR, to the extent that the right referred to in (a) is likely to render impossible or seriously inhibit the ability to achieve said purposes; or
+to assert, exercise, or defend legal claims.
+5. Right to information
+If you have asserted the right to have your data corrected or deleted or have restricted its further processing, we are obliged to notify all recipients to whom your personal data has been disclosed of the same unless this proves to be impossible or involves disproportionate effort. You have the right to be informed about who these recipients are.
+6. The right to data portability
+You have the right to obtain a copy of the personal data we have on file about you in a structured, commonly used, machine-readable format. Moreover, you have the right to transmit this data to another data controller without any obstruction from the data controller to whom the personal data has been given, if
+the processing is based on consent pursuant to Art. 6 para. 1 lit. a GDPR or Art. 9 para. 2 lit. a GDPR or on the basis of a contract in accordance with Art. 6 para. 1 lit. b GDPR and
+the processing takes place with the help of automated procedures.
+In exercising this right, you also have the right to have us transfer the personal data we have on file about you directly to another party if this is technically feasible. This action must not affect the freedoms and rights of other persons. The right to data portability does not apply to the processing of personal data necessary for the performance of a task in the public interest or in the exercise of official authority conferred on us.
+7. Right of objection
+You have the right, for reasons arising from your specific situation, to object to the processing of personal data concerning you at any time, which is carried out in accordance with Art. 6 para. 1 lit. e or f GDPR; the same applies to profiling based on these provisions. We will no longer process the personal data relating to you unless we can prove a compelling legitimate reason for the same which outweighs your interests, rights, and freedoms, or unless the processing serves to assert, exercise, or defend our legal claims. If the personal data that concerns you is being processed for direct marketing purposes, you have the right to object at any time to the processing of the personal data that concerns you for the purpose of such marketing; this also applies to profiling, insofar as it is associated with such direct marketing. If you object to processing that is for direct marketing purposes, the personal data that concerns you will no longer be processed for these purposes. In the context of the use of information company services, and Directive 2002/58/EC notwithstanding, you may exercise your right to object using an automated process.
+8. The right to revoke the data protection declaration of consent
+You have the right to revoke your consent to this Privacy policy or the processing of your data at any time. This revocation will not affect the lawfulness of any processing done beforehand.
+9. Automated decision in individual cases, including profiling
+You have the right not to be subject to a decision based exclusively on automated processing  - including profiling -  that has legal effect against you or significantly impairs you in a similar manner.
+This shall not apply if the decision:
+is necessary for us to establish or fulfill a contract with you;
+is authorized by EU or national law to which we are subject, provided said law also sets forth suitable measures for safeguarding your rights, and freedoms, and legitimate interests; or
+is based on your explicit consent.
+However, these decisions may not be based on special categories of personal data pursuant to Art. 9 para. 1 GDPR, unless Art. 9 para. 2 lit. a or g GDPR apply and appropriate measures have been taken to protect your rights and freedom as well as your legitimate interests. In the cases referred to in (1) and (3), we shall take reasonable measures to safeguard your rights, freedoms, and legitimate interests, including, at a minimum, the right to obtain the intervention of a person on our part to state our position and to challenge the decision.
+10. The right to lodge a complaint with a supervisory authority
+Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State where you reside, work or where the infringement is suspected, if you believe that the processing of personal data concerning you infringes the GDPR. The supervisory authority with which the complaint has been lodged shall inform the complainant of the status and results of the complaint, including the possibility of a judicial remedy under Art. 78 GDPR.
+The text of this Privacy Policy is translated. In case of inconsistency or discrepancy between the German version and any other language versions of the Privacy Policy, the German language version shall prevail.
+Discover three easy-to-follow, delicious recipes every day!
+Company
+About
+Jobs
+For Brands
+Help & Contact
+FAQs
+Follow Us
+Newsletter
+GO
+Almost finished! Please click the link in the email we just sent you to complete subscription.
+Something went wrong! Please try again.
+Imprint
+Terms of Use
+Privacy Policy
+© KptnCook GmbH 2022
+We use cookies
+Not only do we like to bake cookies, but we also use them to ensure basic features such as language selection and the proper operation of our website. Cookies also help us analyze website usage. If you give us your consent, we may transfer the collected data to our performance/advertising and social media partners in the USA, which is a third country with an unsafe level of data protection. If you do not want this, do not give your consent. However, you can also revoke your consent at any time for the future. In our privacy policy, we explain how we handle user data in more detail.
+Accept all cookies
+incl. US partners
+Customize Cookie Setting
+Cookies setting
+We use cookies to analyze our website and improve it for you.
+See our privacy policy
+Functional
+We are able to save your language settings so that you can see the correct language the next time you visit the website.
+Statistic & Marketing
+These cookies enable us to count visits and traffic sources, so that we can measure and improve the performance of our website.
+Save Selection
+Accept All Cookies
+×
+Want to keep up with new recipes, tips & food news?
+Subscribe to our newsletter!
+Subscribe
+Almost finished! Please click the link in the email we just sent you to complete subscription.
+Something went wrong! Please try again.
+By registering, I agree to the
+terms and conditions
+and
+privacy policy

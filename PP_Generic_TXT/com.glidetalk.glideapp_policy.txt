@@ -1,0 +1,138 @@
+Glide® Privacy Policy
+This privacy policy (“Privacy Policy“) describes our, Glide Talk, Ltd.’s (“Glide“, “we“, “our” or “us“), information practices in connection with the
+Glide – Live Video Messenger
+mobile software application (the “App“). The section and sub-section headings used below are for convenience of reading only (and are not to be used for interpretive purposes), but we hope they make navigating this Privacy Policy easier.
+Glide does not itself host the App – all hosting is done by third party hosting providers that we engage. This means that data you provide us or that we or third parties collect from you (including any Personal Information) is hosted with such third party service providers on servers that they own or control. Regardless of where such third party service providers themselves are based (and some are US-based), their servers may be located anywhere in the world (including the US). Your data may even be replicated across multiple servers located in multiple countries. So please be aware that you are consenting to your data being transferred to various third party service providers around the world.
+Generally speaking, Glide receives information because:
+(a)    You have provided it to us;
+(b)    We collect it from you; and/or
+(c)    Third parties we engage (such as a data analytics provider) collect it from you on our behalf. This happens in cases where we use or deploy third party tracking technology, or where we otherwise give these third parties access to our technology. So where we describe below in Section
+‎
+4
+‎
+(Information We Collect From You)
+the ways in which we collect information from you, you acknowledge that such collection may also be carried out by third parties.
+The information we receive may be about you, your contacts, the products and services you use, as well as the ways in which you use such products and services (including the App). For the purposes of this Privacy Policy, we categorize information as either Personal Information or Anonymous Information.
+
+“
+Personal Information
+” means information that may be used, either alone or in combination with other information, to personally identify an individual, such as a first and last name, an email address, profile picture, product reviews, phone number, a home or other physical address, and other contact information.
+
+“
+Anonymous Information
+” means information which is not Personal Information, such as aggregated information.
+App EULA.
+This Privacy Policy forms part of the App’s
+End User License Agreement
+, which you accepted prior to downloading and/or using the App for the first time (the “
+EULA
+“), the definitive version of which can be viewed on our website at
+glide.me/eula
+. Any capitalized term in this Privacy Policy that we don’t define, shall have the meaning given to it in the EULA.
+Consent and Modification.
+You are not legally obligated to provide us with any Personal Information (and you acknowledge that providing us with Personal Information is done freely). Nor are you required to use the App in the first place. By using the App you consent to this Privacy Policy and to our information practices described herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the App. We reserve the right, in our sole and absolute discretion, to change this Privacy Policy at any time. Such change will be effective ten (10) days following posting of the revised Privacy Policy on our website at
+http://www.glide.me/privacy
+, and your continued use of the App after such 10-day period shall mean that you accept those changes.
+Information You Provide To Us.
+Currently, we require you to provide us with certain types of Personal Information in order to use the App and benefit from some of its features. Here are some examples:
+Account Creation
+. In order to create an App account (“
+Account
+“), you must have, and provide us with, a telephone number. Creating an Account may also require you (or in some cases, may just give you the option) to provide other Personal Information, such as your name, profile picture, birthday and email address.
+‘Contact Us’
+. If you send us a ‘Contact Us’ (or similar) request, whether by submitting an online form that we make available, by sending an email to an email address that we display, by using an in-App feedback or reporting feature, or by other means, you may be required to provide us with certain Personal Information, such as your name and email address.
+Purchases
+. The App may offer the option of purchasing certain products or services from us. If you choose to make a purchase we will require sufficient Personal Information from you in order to process the purchase. Such information could include a credit card number and related account and billing information. We may use the products and services of third party service providers to process these purchases, in which case you will be providing the information to them as well.
+Information We Collect From You.
+We collect Personal Information and Anonymous Information from you in the following ways:
+Pre-Registration
+. After you have downloaded the App, but before you create your profile and provide us with certain Personal Information, Glide automatically collects certain Personal Information: (a) from your device (for example, retrieving your phone number from your SIM card, and other information from SMS messages stored on your device that enables us to verify your identity); and (b) from your publicly-available profiles on other applications (for example your name, email address, and profile pictures).
+Account Login
+. If, as part of your use of the App, you connect your App account with an account from a supported social network account, such as Facebook (a “
+Social Media Account
+“), we may receive Personal Information from the corresponding social network that relates to your Social Media Account. Such Personal Information may be about you and/or your Social Media Account contacts. Please check the policies of the applicable social network in order to understand what information we receive. Even if you later disconnect your App account from your Social Media Account, we still keep a copy of the Personal Information (such as your Social Media Account profile photo and your contact list) that we received from the connection of the two accounts, so that we may more easily connect you with your Social Media Account contacts who register with the App in the future.
+Address Book Information
+. We collect information from your device’s address book, which may include the names and contact information of individuals contained in your address book (collectively, “
+Address Book Information
+“). Currently, we use Address Book Information for the purpose of enabling you to send invitations and messages, to build a list of your contacts, and to notify you if one of your contacts registers with the App.
+Invitations
+. The App currently allows you to invite your contacts to download the App. This can be done using different methods. Depending on the method used, by sending an invitation we may collect Personal Information about the recipient, such as their email address, phone number, and Social Media Account information.
+Geolocation
+. We collect information from your device about your location (“
+Geolocation Information
+“). Currently, we only use Geolocation Information for routing optimization and user-search optimization on our messaging platform, as well as for general analytics.
+Log Files; Device and Usage Data
+. We collect information through server log files, but also by deploying tracking technologies within the App. We do this to analyze trends, track user movement around the App, gather demographic information, and to generally collect information that we may find insightful or helpful. The type of information collected may include (but is not limited to) internet protocol (IP) addresses, MAC address, phone number, device type, browser type, operating system type, type of browser, Internet Service Provider (ISP), date/time stamp of App use, referring/exit pages, and clicked pages.
+The Way We Use Personal Information.
+In addition to the uses of Personal Information described elsewhere in this Privacy Policy, we also use Personal Information in the following ways:
+To Generally Provide You With Our App; Marketing Campaigns
+. We will use your Personal Information to: (a) administer and provide the App to you; (b) further develop and generally improve the App; (c) send you updates, promotions, offerings, or other news of/about the App or Glide; (d) respond to communications with you; (e) identify or authenticate your access and use of the App; (f) send you commercial email, text messages and other communications, advertisements or other marketing content, including of third parties; and/or (g) in our marketing campaigns promoting the App, Glide, or our other products or services (for example, using your name, profile picture and reviews in marketing campaigns to encourage people to download the App).
+For our marketing campaigns described in subparagraph (g) of this Section, Glide will make commercially reasonable efforts to not use Personal Information that Glide considers, in its sole and absolute discretion, to be especially private or confidential; but, for clarity, Glide does not consider your name, Account profile picture or product review to be private or confidential for such purposes (and you acknowledge this).
+Transfer To Affiliates
+. We may transfer your Personal Information to our affiliated entities for the purpose of storing such information on our behalf, or for other processing needs. These affiliated entities may be based in other countries, and their servers may be located anywhere in the world. We require these affiliated entities to agree to process such Personal Information in accordance with this Privacy Policy.
+Third Parties
+. We share your Personal Information with various third parties that help us with our business operations and help us understand how our users use the App, and to improve the App generally. These third parties may have their own privacy policies that they adhere to, so they won’t necessarily adhere to this Privacy Policy;
+however,
+we do try to only engage third parties that post a privacy policy. Also, just as with our third party hosting providers, these third parties may be based (and their servers may be located) anywhere in the world.
+See
+Annex A
+attached below for examples of third parties we engage.
+Enforcement
+. We may share your Personal Information with any third party if we believe that disclosure of such information is helpful or reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or governmental request; (b) enforce the EULA, including investigations of potential violations thereof; (c) detect, prevent, or otherwise address fraud or security issues; and/or (d) protect against harm to the rights, property or safety of Glide, our users, yourself or the public.
+Publicly Available Information.
+Your public profile and any content that you make publicly available on or via the App will be publicly available to other users of the App. If you actively or passively allow your contact information to be public (such as by not opting out of being searchable, by publishing your GlideID on Twitter, or by joining the
+Discover People
+feature), you may receive unsolicited messages from other users of the App. We therefore encourage you only to post information that you are sure you want to be publicly accessible.
+Anonymous Information.
+We may use and share Anonymous Information for any purpose whatsoever and with any third parties (such as advertisers and marketing partners), including in exchange for compensation.
+Access and Accuracy; Deleting Messages.
+We would like to maintain accurate Personal Information. If you would like to delete or correct any of your Personal Information that we may be storing, you may use the tools that we make available in the App. Please be aware that any Message you delete (whether directly by you or pursuant to a delete request) may or may not be permanently deleted by Glide, and may remain stored on our servers. In such cases, the Message will no longer be accessible to you or the recipients to whom you sent the Message. We, in our sole and absolute discretion, decide whether or not to permanently delete Messages from our servers.
+Opt-Out.
+Currently, the App does not offer tools that allow you to opt-out of the collection of Personal Information. The App does, however, offer some tools that allow you to opt-out of being searchable.
+Links to and Interaction with Third Party Products.
+The App may link to third party products and services. Any Personal Information you provide in connection therewith is provided to the third party. We are not responsible for the privacy practices or the content of such products and services, and we encourage you to read the terms and conditions and privacy policy of each such product or service that you choose to use or interact with.
+Children’s Privacy.
+The App is not designed to attract children under the age of 13. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13. If we learn that we have collected Personal Information from a child under 13, we will use commercially reasonable efforts to delete that information as quickly as possible. If you believe that we might have any such information, please contact us at
+coppa@glide.me
+.
+Security.
+We use administrative, physical and technical safeguards to protect Personal Information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we try to use reasonably acceptable means to protect your Personal Information, we cannot guarantee its absolute security or confidentiality. If you have any questions about security on the App, you can contact us at
+support@glide.me
+.
+Merger, Sale or Bankruptcy.
+In the event that Glide is acquired by or merged with a third party entity, we may (and hereby reserve the right to) transfer or assign the Personal Information and other information we have collected or received. In the event of a bankruptcy, insolvency, receivership, or comparable event, we may not be able to control how your Personal Information is treated, transferred, or used.
+California Privacy Rights.
+California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to
+support@glide.me
+. Please note that we are only required to respond to one request per customer each year.
+Our California Do Not Track Notice.
+We do not currently respond or take any action with respect to web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of Personal Information about that individual consumer’s online activities over time and across third-party web sites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect Personal Information about an individual consumer’s online activities over time and across different web sites when a consumer uses the App.
+Deletion of Content from California Residents.
+If you are a California resident under the age of 18 and a registered user of the App, California Business and Professions Code Section 22581 permits you to remove content or information you have publicly posted. If you wish to remove such content or information and you specify which content or information you wish to be removed, we will do so in accordance with applicable law. Please be aware that after removal you will not be able to restore removed content or information. In addition, such removal does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require us to enable removal of the content or information.
+Commitment.
+Protecting your privacy online is an evolving area, and we try to evolve our App to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at
+support@glide.me
+.
+Last updated: August 22, 2016
+ANNEX A
+Examples Of Third Parties We Engage
+Flurry
+The App uses an analytics service, Flurry, to collect and analyze (for example, via a tracking pixel) information. You can find more details about how Flurry collects, uses, and stores such information by reviewing the Flurry privacy policy at
+https://policies.yahoo.com/us/en/yahoo/privacy/index.htm
+. You may choose to opt out of the Flurry services via the Flurry Opt-Out Page, available at
+https://dev.flurry.com/secure/optOut.do
+.
+Google Analytics
+The App uses an analytics service, Google Analytics, to collect and analyze information about how and when users use the App. We use the information we get from Google Analytics to administer, provide, develop, and improve the App. Google’s ability to use and share information collected by Google Analytics about your use of the App is governed by the Google Analytics
+Terms of Service
+(available at
+http://www.google.com/analytics/terms/us.html
+), and the Google
+Privacy Policy
+(available at
+http://www.google.com/policies/privacy/
+). You may learn more about how Google collects and processes data specifically in connection with Google Analytics at
+http://www.google.com/policies/privacy/partners/
+. You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at
+https://tools.google.com/dlpage/gaoptout/
+.

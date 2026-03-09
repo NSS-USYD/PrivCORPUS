@@ -1,0 +1,168 @@
+Privacy Policy
+These is Privacy Policy of Road Soft.
+Road Soft
+which
+    provides you with the
+Speed Camera Radar
+application.
+Speed Camera Radar
+respects your right to privacy. Your ability to make informed
+    choices about the use of your information is important to us. This Privacy Policy explains
+Speed Camera Radar’s
+policy regarding the collection, use, disclosure and
+    protection of any
+    information we receive. “
+You
+” means an end user of the "Speed
+    Camera Radar" Application.
+We hope you enjoy using
+Speed Camera Radar
+Anywhere, as much as we do making it
+    but
+    it is an expensive service to run due to the very high server and bandwidth costs. Therefore we
+    subsidise it by collecting and sharing ad IDs, network information and location data with
+    selected
+    third parties globally for market research, among other purposes and to show you ads more
+    relevant
+    to you.
+    By agreeing you allow us and our partners to process & store your data for the purposes
+    described
+    above. For more details and to review our trusted partners list please review our privacy
+    policy. If
+    you are under 16 you must ask your parents or guardian.
+Information We Collect:
+Signals and data will be collected by the various sensors on your mobile phone, such as
+    Accelerometer, GPS, Barometer, WiFi, Bluetooth, Cellular network, Gyroscope, Magnetometer, etc.
+    We use these signals and data in order to obtain data regarding your mobility status and
+    location and to perform analytics (including predictive analytics) with respect to the same (“
+Mobility
+        and Location Data
+”).
+Some of the information that we collect from you may be deemed Personal
+    Information. “
+Personal Information
+” means information that can be
+    directly associated with a specific person or information about activities directly linked to a
+    person, such as that person’s location. The Personal Information that we collect includes
+    mobility status and location information as well as information regarding the existence of
+    third-party applications on your device.
+Some of this information will be collected even if the
+    Application is in background
+    (this is needed for feature when USER (as a driver) turns device screen off and just wants to
+    hear voice tips about road dangerous without interacting with UI of app).
+    You are not required by law to provide us with any such information,
+    but by using the Application and agreeing to this Privacy Policy, you agree to
+    provide us with such information.
+We automatically collect certain information when you use our Application, including your device
+    information, operating system, system logs, usage statistics, etc.
+We may share your Personal Information, including the Mobility and Location Data, with members of
+    our corporate family, third party vendors, service providers or analytics partners.
+    We may also authorize third party vendors, service providers or partners to
+    collect information, including Mobility and Location Data, on our behalf or in cooperation with
+    us and to use this information for their own purposes.
+How we Protect Information
+We make efforts to follow generally accepted industry standards to protect Personal Information
+    submitted to us, both during transmission and once we receive it. However, no method of
+    transmission over the Internet or method of electronic storage is 100% secure. Therefore, while
+    we strive to use commercially acceptable means to protect your Personal Information, we cannot
+    guarantee its absolute security.
+How we Use Information
+Except as expressly set forth herein, we will not share your Personal Information with third
+    parties without your explicit permission, except when required by law, regulation, subpoena or
+    court order or in cooperation with law enforcement authorities. We may use Personal Information
+    internally – for example, to develop and improve our products, help diagnose problems with
+    our servers, to make our services more useful, to customize our services and personalize their
+    content for you.
+We use the information that we collect, including the Personal Information in order to provide
+    you with the services in our Application.
+In addition, by analyzing all information we receive, including all information concerning users
+    and their geo-location and use of third-party applications, we may compile statistical
+    information across a variety of users and mobile applications (“
+Statistical
+        Information
+”). Statistical Information helps us understand trends and
+    customer needs so that new products and services can be considered and so existing products and
+    services can be tailored to customer desires. Statistical Information is
+anonymous
+. We
+    may share
+    such anonymous Statistical Information with our partners or with third parties, or use it for
+    our own purposes, without restriction, on commercial terms that we can determine in our sole
+    discretion.
+Communications
+We may send you email messages, push notifications and other messages about us or our products
+    and services. By using the Application, you affirmatively consent to receive such commercial
+    messages. As a registered member, you can remove your personal information from our mailing list
+    and stop receiving future communication from us by following the unsubscribe link located at the
+    bottom of each communication or by emailing us at < Please provide link>. You will also be
+    given the opportunity to unsubscribe from commercial messages in any such email or notification
+    that we send. Please note that we reserve the right to send you service related communications,
+    including service announcements and administrative messages, relating either to your account or
+    to your transactions on this site, without offering you the opportunity to opt out of receiving
+    them unless you cancel your account. Opt-out email address is:
+lelic.dev@gmail.com
+Inspection, Correction, Deleting Your Data.
+You may update, review or correct your information, at any time by e-mailing us at
+lelic.dev@gmail.com
+.
+You can request the deletion of the Personal Information provided upon registration and disable
+    future collection of Personal Information by contacting us at
+lelic.dev@gmail.com
+. We
+    cannot
+    restore information that we have deleted. We will retain your information for as long as your
+    account is active or as needed to provide you services.
+Other Uses or Transfer of Your Information
+We will fully cooperate with any law enforcement authorities or court order requesting or
+    directing us to disclose the identity, behavior or digital content of any user suspected to have
+    engaged in illegal or infringing behavior.
+We may use subcontractors that are located in countries other than your own, and send them
+    information we receive. All our subcontractors will be subject to non-disclosure and non-use
+    obligations. Nevertheless, some countries may have levels of protection of personal and other
+    information which are not as high as in your country of residence or business.
+We may transfer our databases containing your Personal Information if we sell our business or
+    part of it.
+Compliance of GDPR since May 25 2018 for EU countries
+Pressing AGREE button you confirm you are over 16 year old, otherwise press DISAGREE button
+According compliance of GDPR once an user account is created, you can contact us to have it
+    deleted.
+Your account has a right to be forgotten - just contact to email lelic.dev@gmail.com to ask
+    delete your personal user data from the cloud
+To help us improve our service we collect the following information on an anonymous basis:
+    Operating System, BluetoothName, Carrier Code (Android only), Carrier Name, Sim Code, Charging
+    Status, Device Model, Device Manufacturer, Country, Locale, Bundle ID, Date & time, SSID
+    (network), BSSID (network), Latitude, Longitude, Accuracy (GPS), Scanned networks. In addition
+    to helping us to measure the usage of our app this anonymous information is shared with third
+    parties for their business purposes, including the creation of reports, market research and
+    trend analysis. One of these third parties is Huq, data shared does not contain information from
+    which users can be identified and we will not provide additional information to such third
+    parties that enables such third parties to identify you. You can find a full description of Huq
+    and what it does with the information collected via our app here.
+List of SDK partners
+Monedata (DATA PAYMENTS OÃœ, LasnamÃ¤e linnaosa, LÃµÃµtsa tn 5-11, Tallinn, 11415,
+        Estonia, info@monedata.io)
+This app uses third-party addons that collect varied data, which may include device
+        identifiers, location, mobile network coverage and performance, installed apps list and
+        usage stats.
+
+        With the user's consent, this data will be collected and shared with those third-parties for
+        analysis and measurement purposes. The user can change his mind at any time by changing the
+        consent.
+
+        To learn more about the data collected and see the list of partners, please visit
+Monedataâ€™s Partners section
+.
+M2Catalyst, LLC (USA, California)
+M2Catalyst's
+Privacy Policy
+M2Catalyst's
+Terms of Service
+Changes
+"Speed Camera Radar"may update this Privacy Policy from time to time - we encourage you to
+    review
+    it periodically.
+Comments and Questions
+If you have any comments or questions about our privacy policy, please contact us at
+lelic.dev@gmail.com
+Last updated
+Last updated: February 4, 2023

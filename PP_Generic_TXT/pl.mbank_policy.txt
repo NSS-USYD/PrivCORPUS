@@ -1,0 +1,62 @@
+Polityka prywatności aplikacji mobilnych | mBank.pl
+Przejdź do przycisku logowania
+Przejdź do wyszukiwarki
+Pomiń nawigację i przejdź do treści
+mBank - Oferta indywidualna - Strona główna
+Polityka prywatności aplikacji mobilnych mBanku S.A.
+W tym dokumencie opisujemy, jak chronimy prywatność obecnych i potencjalnych użytkowników naszych aplikacji mobilnych.
+Z naszych aplikacji można korzystać na urządzeniach z systemami:
+iOS
+Android z usługami mobilnymi Google (GMS)
+Android z usługami Huawei Mobile Services (HMS)
+I. Co i jak długo przechowujemy na urządzeniach mobilnych?
+W naszych aplikacjach przechowujemy dwa rodzaje identyfikatorów:
+zaszyfrowany unikalny identyfikator naszej aplikacji – to parametr, który nasza aplikacja otrzymała po sparowaniu,
+identyfikator, który pozwala śledzić zdarzenia w naszych aplikacjach.
+Oba identyfikatory są na Twoim urządzeniu mobilnym, dopóki nie usuniesz z niego naszej aplikacji.
+Gdy instalujesz aplikację na swoim urządzeniu, do naszego systemu trafiają informacje o:
+identyfikatorach naszych aplikacji,
+marce, modelu i identyfikatorze sprzętowym urządzenia mobilnego.
+Wykorzystujemy je, aby jednoznacznie zidentyfikować naszą aplikację, urządzenie mobilne oraz użytkownika.
+II. Jakie zabezpieczenia stosujemy w aplikacjach?
+W komunikacji między naszymi aplikacjami i systemami wykorzystujemy mechanizmy szyfrujące. Dzięki temu dane przesyłane przez sieć są bezpieczne.
+Specjalne mechanizmy sprawdzają warunki techniczne bezpiecznego uruchomienia aplikacji na Twoim urządzeniu mobilnym. W sytuacji wykrycia złośliwego oprogramowania lub przełamania zabezpieczeń możemy zablokować możliwość logowania lub wykonania transakcji na tym urządzeniu. Nie zbieramy informacji o nazwach wykrytego oprogramowania. Jeśli zauważymy coś niepokojącego, dostaniesz powiadomienie w aplikacji o ewentualnych zagrożeniach.
+III. Do jakich funkcji urządzenia mają dostęp nasze aplikacje?
+Nasze aplikacje, jeśli się na to zgodzisz, uzyskają uprawnienia dostępu do określonych funkcji i Twojego urządzenia:
+Funkcja urządzenia mobilnego
+W jakiej sytuacji korzystamy z dostępu
+informacja o lokalizacji
+gdy szukasz bankomatów, wpłatomatów albo korzystasz z mOkazji
+dane Twoich kontaktów
+gdy korzystasz z przelewu na telefon
+aparat fotograficzny i pamięć
+gdy skanujesz kod QR
+funkcje związane z połączeniami telefonicznymi
+gdy dzwonisz na mLinię, autoryzujesz operację lub łączysz parujesz aplikację mobilną ze swoim kontem
+IV. Jak możesz zablokować dostęp do funkcji urządzenia dla naszych aplikacji?
+To zależy od wersji aplikacji mobilnej i rodzaju urządzenia. Najczęściej wystarczy, że zmienisz ustawienia systemowe w swoim urządzeniu. Jeśli nie ma takiej możliwości, konieczne będzie odinstalowanie naszej aplikacji.
+V. Jakie informacje zbierają nasze aplikacje i za pomocą jakich narzędzi?
+Nasze aplikacje korzystają z narzędzi pakietu Firebase firmy Google, a aplikacje z usługami Google również z narzędzia Synerise.
+Jakie informacje zbierają nasze aplikacje?
+Nazwa narzędzia
+i jego dostawca
+Dlaczego to robimy?
+typ urządzenia i jego system operacyjny,
+wersja aplikacji mobilnej,
+język, z którego korzysta urządzenie,
+kliknięcia w elementy aplikacji mobilnej,
+wyświetlenia ekranów aplikacji mobilnej,
+przybliżona lokalizacja urządzenia
+Firebase - Google
+Usprawniamy działanie naszych aplikacji i diagnozujemy błędy.
+Synerise - Synerise S.A
+(narzędzie zainstalowane bezpiecznie na naszych serwerach)
+Dzięki temu możemy dostosować oferty marketingowe w naszych aplikacjach do konkretnego odbiorcy.
+Zebrane dane możemy łączyć z innymi danymi użytkownika naszych aplikacji (np. ze strony
+www.mbank.pl
+, serwisu transakcyjnego online.mbank.pl czy serwisu wnioskowego form.mbank.pl – o ile użytkownik z nich korzysta).
+VI. Nie zgadzam się z polityką prywatności aplikacji mobilnych, co mogę zrobić?
+Zachęcamy – odwiedź stronę
+www.mbank.pl/rodo
+. W przystępny sposób opisujemy tam, jak przetwarzamy dane klientów oraz jakie masz prawa.
+Jeśli nie zgadzasz się z polityką prywatności, możesz odinstalować naszą aplikację lub jej nie instalować.

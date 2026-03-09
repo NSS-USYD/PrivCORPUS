@@ -1,0 +1,222 @@
+Home
+Unsere Spiele
+Über uns
+Unternehmen
+Kontakt
+Jobs
+de
+en
+de
+en
+Home
+Unsere Spiele
+Über uns
+Unternehmen
+Kontakt
+Jobs
+Datenschutzerklärung
+Stand: 09.04.2019
+I. Wer wir sind
+Weitere Informationen
+1. Verantwortlicher
+Wir, die Tivola Games GmbH, sind der Verantwortliche im Sinne der DSGVO (Datenschutzgrundverordnung der Europäischen Union).
+Unsere Kontaktdaten lauten:
+Tivola Games GmbH
+Oeverseestraße 10-12
+22769 Hamburg
+Deutschland
+E-Mail:
+mail@tivola.de
+2. Datenschutzbeauftragter
+Unser Datenschutzbeauftragter ist:
+Dr. Christian Rauda
+GRAEF Rechtsanwälte Digital PartG mbB
+Jungfrauenthal 8
+20149 Hamburg
+www.graef.eu
+E-Mail:
+Datenschutzbeauftragter@tivola.de
+II. Arten der von uns erfassten personenbezogenen Daten
+Weitere Informationen
+1. Bei Bezug der App
+Wir bieten mobile Spiele an, die über eine App genutzt werden können („App“). Die Apps können über die jeweiligen Stores, etwa App-Store, Google Play Store, Amazon etc. („Stores“) bezogen werden. Beim Bezug und bei der Nutzung der App werden Daten an den jeweiligen Store übertragen.
+Weitere Informationen
+Auf die Datenerhebung seitens der Stores haben wir keinen Einfluss und sind dafür nicht verantwortlich. Alle relevanten Informationen findest Du in den Datenschutzbestimmungen des jeweiligen Stores. Wir verarbeiten Deine uns von den Stores bereitgestellten personenbezogenen Daten, soweit dies für das Herunterladen und der Nutzung der App auf Dein Gerät notwendig ist.
+Unsere App wurde mit der Spiel-Engine der
+Unity Technologies
+entwickelt. Unity Technologies erfasst und verarbeitet personenbezogenen Daten standardmäßig zur Verwendung der Engine
+Weitere Informationen
+Unity Technologies, 303rd Street, San Francisco, CA 94103, USA, erfasst und verarbeitet insbesondere folgende Daten: Eindeutige Gerätekennungen (z.B. IDFV für iOS-Geräte und Android-ID für Android-Geräte); IP-Adresse; Installationsland, Informationen zum Hersteller des Gerätes und des verwendeten Betriebssystems, Informationen zur Hardware, eindeutige Werbe-Identifikatoren für iOS- und Android-Geräte (z.B. IDFA oder Android Ad ID), etc. Diese Daten werden an Unity gesendet. Auf diese Datenerhebung haben wir keinen Einfluss und sind dafür nicht verantwortlich. Weitere Informationen findest Du in der
+Datenschutzerklärung  der Unity Technologies.
+2. Zugriffsrechte bei Nutzung der App
+Bei Nutzung der App sind Zugriffsrechte erforderlich. Eine Auflistung der Zugriffsrechte findest Du
+hier
+Berechtigung Android
+Zweck
+Anzeige der Netzwerkverbindung
+Erhält Informationen über die Existenz und Verbindung von Netzwerken.
+Zugriff auf alle Netzwerke / WLAN Staus anzeigen
+Eine vorhandene Internetverbindung (WLAN oder Mobilfunk) nutzen, um Daten zu übertragen. Alle Apps, die ohne Zutun des Nutzers über das Internet mit einem Server Kontakt aufnehmen, brauchen diese Berechtigung. Auch um Werbung einzublenden, ist sie nötig.
+Besteht eine WiFi Verbindung, und wenn ja zu welchem Netzwerk
+Beim Anschalten starten
+App kann sich direkt nach dem Boot-Vorgang (Anschalten des Gerätes) starten.
+Vibrationsalarm steuern
+Löst den Vibrationsalarm aus. Zugriff auf Batteriefunktionen.
+Google Play-Rechnungsdienst (In-App-Käufe)
+Ermöglicht es, innerhalb der App auf die Bezahlfunktion des Google Play-Stores zuzugreifen.
+SD Karten Inhalt ändern/löschen
+App darf Daten auf der (externen) SD Karte schreiben, verändern und löschen.
+SD Karten lesen
+App darf (externe) SD Karte lesen.
+Berechtigung IOS
+Zweck
+Photo Library Usage
+Die App ermöglicht innerhalb des Spiels Screenshots zu machen, die dann in der Foto-Bibliothek gespeichert werden.
+Mit Deiner Zustimmung können wir Push-Benachrichtigungen an Dein Gerät senden, um Spiel-Updates und andere relevante Nachrichten bereitzustellen. Du kannst diese Meldungen jederzeit deaktivieren, indem Du die Benachrichtigungen auf der Seite "Optionen" oder "Einstellungen" in der Anwendung deaktivierst.
+3. Bei Nutzung der App
+Sobald die App auf Dein Smartphone heruntergeladen ist, kann diese grundsätzlich ohne Zugriff auf das Internet verwendet werden. Für den Fall, dass In-App-Käufe angeboten und von Dir genutzt werden, ist eine weitere Kommunikation mit dem App-Store und damit auch Zugriff auf das Internet notwendig. Wir verarbeiten weder Zahlungen für In-App-Käufe noch haben wir Zugriff auf Deine Kreditkarteninformationen. Zahlungstransaktionen für In-App-Käufe werden ausschließlich über den entsprechenden Store abgewickelt.
+III. Tracking und Analysedienste
+Weitere Informationen
+Für unsere App setzen wir Analysedienste ein, die statistische Nutzungsmessungen und die Bildung von Nutzerkategorien ermöglichen. Damit können wir besser verstehen, wie Du unsere App nutzt und wie wir sie verbessern können. Über die von uns eingesetzten Analysedienste werden auf Deinem Gerät mittels
+Cookies
+,
+Pixel
+und ähnlichen Tracking-Technologien Daten zur Auswertung Deines Nutzerverhaltens gesammelt.
+Weitere Informationen
+1. Rechtsgrundlage
+Die Analyse erfolgt mit berechtigtem Interesse nach Art. 6 Abs. 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse ergibt sich aus der wirtschaftlichen Verwertbarkeit der sich aus den Statistiken und Nutzerkategorien ergebenden Erkenntnissen und dem Marktwert unserer Apps, der sich anhand der Statistiken ermitteln lässt. Wir führen diese Informationen nicht mit anderen personenbezogenen Daten zusammen. Wir kennen Ihre Identität nicht und unternehmen auch keine Schritte, diese zu ermitteln.
+2. Zweck
+Ziel der Analyse ist es, die Nutzungsintensität, die Anzahl der Nutzungen und Nutzer unserer App und deren Surfverhalten statistisch zu bestimmen. Die Statistiken dienen uns dazu, die Nutzung unseres Angebots nachvollziehen und verbessern zu können sowie Nutzerkategorien schaffen zu können. Die Nutzerkategorien bilden die Grundlage für eine interessengerechte Ausrichtung von Werbemitteln bzw. Werbemaßnahmen.
+3. Opt-Out Möglichkeiten
+Da das Tracking und die Analyse durch Dritte stattfindet, haben wir keinen Einfluss auf die Art des Trackings. Du kannst das Tracking und die Analyse jedoch unterbinden, indem Du die Opt-Out Möglichkeiten des jeweiligen Drittanbieters wahrnimmst.
+Weitere Informationen
+Eingesetzte Analysedienste:
+Analysedienst:
+Unity Analytics
+Provider
+Unity Technologies, 30 3rd St., San Francisco, CA 94103
+Arten der Daten
+IDFV, Android ID, IP Adresse, Land des Installs, Gerätetyp, Betriebssystemversion, Sprache, Bildschirmauflösung, Grafikkarteninformationen, App ID, Advertising ID, In-App Events. Die IP Adresse wird in pseudonymisierter Form gespeichert.
+Dauer der Speicherung
+Speicherdauer ist uns nicht bekannt, allerdings wurde uns versichert, dass die gesetzlichen Vorgaben eingehalten werden.
+Datenschutzerklärung
+https://unity3d.com/de/legal/privacy-policy
+Opt-Out Möglichkeit:
+Unity Analytics bietet Nutzern ein Opt-out an, soweit die gesammelten Daten für Targetingzwecke und zur Unterstützung von Unity Ads bei der Bereitstellung seiner Services verwendet werden können. Das Opt-Out kann dort wahrgenommen werden.
+https://unity3d.com/de/legal/privacy-policy
+IV. E-Mail-Kontakt
+Weitere Informationen
+Wenn Du Support-Anfragen per E-Mail an uns richtest, erheben und verarbeiten wir die Daten aus Deiner Anfrage, um diese beantworten zu können.
+Weitere Informationen
+1.Rechtsgrundlage
+Rechtsgrundlage für die Verarbeitung der Daten, die Du uns im Rahmen einer E-Mail übermittelst, ist Art. 6 Abs. 1 Buchstabe b) DSGVO, wenn der Abschluss eines Vertrags begehrt wird und in anderen Fällen Art. 6 Abs. 1 Buchstabe f) DSGVO. Wir haben ein überwiegendes Interesse daran, Supportanfragen zu beantworten, um unsere Nutzer zu unterstützen und diese Support-Anfragen auch in Bezug auf zukünftige Optimierung der Apps und des Supports auszuwerten.
+2. Zweck
+Die Verarbeitung der personenbezogenen Daten dient uns zur Bearbeitung der Support-Anfrage sowie für zukünftige Optimierung der Apps und des Supports. Die sonstigen, während des Absende Vorgangs verarbeiteten personenbezogenen Daten dienen dazu, die Sicherheit unserer informationstechnischen Systeme sicherzustellen.
+3. Dauer der Speicherung
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes Deiner Erhebung nicht mehr erforderlich sind. Zum Zwecke der Betrugsbekämpfung und der Verbesserung des Supports werden die Daten für sechs Monate gespeichert.
+V. Deine Rechte
+Weitere Informationen
+1. Auskunftsrecht
+Weitere Informationen
+Du hast das Recht, von uns jederzeit auf Antrag eine Auskunft darüber zu erhalten, ob und welche personenbezogenen Daten wir über Dich speichern. Hierzu kannst Du uns einen Antrag per E-Mail an die oben angegebene Adresse zusenden.
+Liegt eine Verarbeitung vor, kannst Du von uns über folgende Informationen Auskunft verlangen:
+die Zwecke, zu denen die personenbezogenen Daten verarbeitet werden;
+die Kategorien von personenbezogenen Daten, welche verarbeitet werden;
+die Empfänger bzw. die Kategorien von Empfängern, gegenüber denen die Dich betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;
+die geplante Dauer der Speicherung der Dich betreffenden personenbezogenen Daten oder, falls konkrete Angaben hierzu nicht möglich sind, Kriterien für die Festlegung der Speicherdauer;
+das Bestehen eines Rechts auf Berichtigung oder Löschung der Dich betreffenden personenbezogenen Daten, eines Rechts auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung;
+das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
+alle verfügbaren Informationen über die Herkunft der Daten, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden;
+Dir steht das Recht zu, Auskunft darüber zu verlangen, ob die betreffenden personenbezogenen Daten in ein Drittland oder an eine internationale Organisation übermittelt werden. In diesem Zusammenhang kannst Du verlangen, über die geeigneten Garantien gem. Art. 46 DSGVO im Zusammenhang mit der Übermittlung unterrichtet zu werden.
+2. Recht zur Berichtigung unrichtiger Daten
+Weitere Informationen
+Du hast das Recht, von uns unverzüglich eine Berichtigung und/oder Vervollständigung Dich betreffender unrichtiger oder unvollständig verarbeiteter personenbezogenen Daten zu verlangen.
+3. Recht auf Einschränkung der Verarbeitung
+Weitere Informationen
+Wir sind unter bestimmten Voraussetzungen dazu verpflichtet, eine Einschränkung der Verarbeitung personenbezogener Daten vorzunehmen.
+Weitere Informationen
+Du hast das Recht, eine Einschränkung bei der Verarbeitung Deiner
+personenbezogenen Daten
+zu verlangen, wenn Du die Richtigkeit der Dich betreffenden
+personenbezogenen Daten
+bestreitest, und zwar für die Dauer, die es uns ermöglicht, die Richtigkeit der
+personenbezogenen Daten
+zu überprüfen oder sofern die Verarbeitung unrechtmäßig ist und Du die Löschung der
+personenbezogenen Daten
+ablehnst und stattdessen die Einschränkung der Nutzung der
+personenbezogenen Daten
+verlangst oder falls wir Deine
+personenbezogenen Daten
+für Zwecke der Verarbeitung nicht länger benötigen, Du diese aber zur Geltendmachung, Ausübung oder Verteidigung von eigenen Rechtsansprüche benötigst, oder Du Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1
+EU-DSGVO
+eingelegt hast und noch nicht feststeht ob unsere berechtigten Gründe gegenüber Deinen Gründen überwiegen. Du wirst von uns unterrichtet, bevor die Einschränkung aufgehoben wird.
+4. Recht auf Löschung
+Weitere Informationen
+Wir sind unter bestimmten Voraussetzungen dazu verpflichtet, Dich betreffende personenbezogene Daten auf Aufforderung unverzüglich zu löschen.
+Weitere Informationen
+Du hast das Recht, von uns eine unverzügliche Löschung der Dich betreffenden
+personenbezogenen Daten
+zu verlangen, sofern einer der folgenden Gründe zutrifft: Die Dich betreffenden personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig; Du widerrufst Deine Einwilligung, auf die sich die Verarbeitung gem. Art. 6 Abs. 1 Buchstabe a oder Art. 9 Abs. 2 Buchstabe a DSGVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung; Du legst gem. Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor oder Du legst gem. Art. 21 Abs. 2 DSGVO Widerspruch gegen die Verarbeitung ein; Die
+personenbezogenen Daten
+wurden unrechtmäßig verarbeitet. Die Löschung der
+personenbezogenen Daten
+ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem wir unterliegen. Nach Deiner Aufforderung sind wir zu einer unverzüglichen Löschung der entsprechenden Daten verpflichtet. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung bleibt unberührt.
+Haben wir die Dich betreffenden personenbezogenen Daten öffentlich gemacht und sind wir gem. Art. 17 Abs. 1 DSGVO zu deren Löschung verpflichtet, so treffen wir unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass Du als betroffene Person die Löschung aller Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt hast.
+Das Recht auf Löschung besteht nicht, soweit die Verarbeitung erforderlich ist
+zur Ausübung des Rechts auf freie Meinungsäußerung und Information;
+zur Erfüllung einer rechtlichen Verpflichtung, die die Verarbeitung nach dem Recht der Union oder der Mitgliedstaaten, dem der Verantwortliche unterliegt, erfordert, oder zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde;
+aus Gründen des öffentlichen Interesses im Bereich der öffentlichen Gesundheit gemäß Art. 9 Abs. 2 lit. h und i sowie Art. 9 Abs. 3 DSGVO;
+zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+5. Recht auf Unterrichtung
+Weitere Informationen
+Wenn Du Dein Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung geltend gemacht hast, sind wir verpflichtet, allen Empfängern, denen die Dich betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden. Dir steht uns gegenüber das Recht zu, über diese Empfänger unterrichtet zu werden.
+6. Widerspruchsrecht
+Weitere Informationen
+Du hast das Recht, jederzeit gegen die Verarbeitung Dich betreffender
+personenbezogener Daten
+, die gemäß Art. 6 Abs. 1 Buchst. f)
+EU-DSGVO
+erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes
+Profiling
+.
+Weitere Informationen
+Du hast das Recht, aus Gründen, die sich aus Deiner besonderen Situation ergeben, jederzeit gegen die Verarbeitung Dich betreffender personenbezogener Daten, die u.a. aufgrund von Art. 6 Abs. 1 Buchstabe e oder f DSGVO erfolgt, Widerspruch nach Art. 21 DSGVO einzulegen. Wir werden die Verarbeitung Deiner personenbezogenen Daten einstellen, es sei denn, wir können zwingende, schutzwürdige Gründe für die Verarbeitung nachweisen, die Deine Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+Werden die Dich betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, hast Du das Recht, jederzeit Widerspruch gegen die Verarbeitung der Dich betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
+Widersprichst Du der Verarbeitung für Zwecke der Direktwerbung, so werden die Dich betreffenden personenbezogenen Daten nicht mehr für diese Zwecke verarbeitet.
+Du hast die Möglichkeit, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft – ungeachtet der Richtlinie 2002/58/EG – Dein Widerspruchsrecht mittels automatisierter Verfahren auszuüben, bei denen technische Spezifikationen verwendet werden.
+7. Recht auf Widerruf der datenschutzrechtlichen Einwilligungserklärung
+Weitere Informationen
+Du hast das Recht, Deine datenschutzrechtlichen Einwilligungserklärungen jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit, der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.
+8. Recht auf Datenübertragbarkeit
+Weitere Informationen
+Du hast das Recht, dass wir Deine Daten auf Antrag an Dritte übermitteln.
+Weitere Informationen
+Du hast das Recht, die Dich betreffenden
+personenbezogenen Daten
+, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten, und das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns, zu übermitteln. Voraussetzung ist, dass a) die Verarbeitung auf einer Einwilligung gemäß Art. 6 Abs. 1 Buchstabe a)
+DSGVO
+oder Art. 9 Abs. 2 Buchstabe a)
+DSGVO
+oder auf einem Vertrag gemäß Art. 6 Abs. 1 Buchstabe b)
+DSGVO
+beruht und b) die Verarbeitung mithilfe automatisierter Verfahren erfolgt. Bei der Ausübung des Rechts auf Datenübertragbarkeit hast Du das Recht zu fordern, dass die
+personenbezogenen Daten
+direkt von uns an eine andere verantwortliche Stelle übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
+Das Recht auf Datenübertragbarkeit gilt nicht für eine Verarbeitung personenbezogener Daten, die für die Wahrnehmung einer Aufgabe erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde.
+9. Automatisierte Entscheidung im Einzelfall einschließlich Profiling
+Weitere Informationen
+Du hast das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung – einschließlich Profiling – beruhenden Entscheidung unterworfen zu werden, die Dir gegenüber rechtliche Wirkung entfaltet oder Dich in ähnlicher Weise erheblich beeinträchtigt. Dies gilt nicht, wenn die Entscheidung
+für den Abschluss oder die Erfüllung eines Vertrags zwischen Dir und uns erforderlich ist,
+aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten, denen wir unterliegen, zulässig ist und diese Rechtsvorschriften angemessene Maßnahmen zur Wahrung Ihrer Rechte und Freiheiten sowie Deiner berechtigten Interessen enthalten oder
+mit Deiner ausdrücklichen Einwilligung erfolgt.
+Allerdings dürfen diese Entscheidungen nicht auf besonderen Kategorien personenbezogener Daten nach Art. 9 Abs. 1 DSGVO beruhen, sofern nicht Art. 9 Abs. 2 lit. a oder g DSGVO gilt und angemessene Maßnahmen zum Schutz der Rechte und Freiheiten sowie Deiner berechtigten Interessen getroffen wurden.
+Hinsichtlich der in (1) und (3) genannten Fälle treffen wir angemessene Maßnahmen, um die Rechte und Freiheiten sowie Deine berechtigten Interessen zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehört.
+10. Beschwerderecht
+Weitere Informationen
+Du hast das Recht, Dich bei einer Aufsichtsbehörde zu beschweren.
+Weitere Informationen
+Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Dir das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Deines Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Du der Ansicht bist, dass die Verarbeitung der Dich betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+Die zuständigen Datenschutzbehörden sind sowohl die Datenschutzbehörde am Wohnort des Kunden als auch die für uns zuständige Datenschutzbehörde.
+Datenschutz Unity
+Print
+Top

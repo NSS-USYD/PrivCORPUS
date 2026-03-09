@@ -1,0 +1,116 @@
+Terms & Conditions
+Home
+(current)
+FAQ
+BLOG
+Terms
+Privacy Policy and Terms of Use
+Welcome to Bits Mp3 Player!
+By using Bits Mp3 Player, you consent to have read, understood and agree to our â€œPrivacy Policyâ€ and â€œTerms of Useâ€ provided herein.
+You are a valued user and respecting your privacy is our major concern. We do not collect any personally identifiable information. We do not process your personal information or disseminate it to Third Parties for any reason whatsoever except as provided under Section 5 of this agreement. The information collected by us is mainly log, error reports, performance log analytics report, crash reports
+etc
+. which does not identify you personally. This information is needed to let you have the best experience with the Application. We do not sell or trade upon your data.
+Definitions:
+Unless the context provides otherwise:
+1.1.
+Application
+shall mean â€œBits Mp3 Playerâ€
+1.2. We, Our, Us and Developer shall mean Bits Mp3 Player
+1.3. User shall mean the person using the Application
+1.4. Storage shall mean your SD card/External Storage and internal storage of your device
+We do not collect any personal information about you. Our application needs permission to have access to your:
+2.1.
+Storage:
+We need
+the access
+to your Storage to install the Application. Further, we need access to your device storage in order to add the audio files in the playlist available in the Application (Though, we do not store any data)
+. You have options to filter out the unwanted short audio files out from the playlist and therefore the Application needs to have access to your storage. This permission also needed to install the Application in the storage device and save phone memory.
+2.2.
+Network Communication/access and Wi-Fi:
+We are continuously trying to let our users have the best experience while using our
+Application. We invest a considerable amount of time fixing errors and improving the functionalities of the Applications. Whenever we add a new feature or fix an error, we intimate our users about the updates. We also need
+the network
+details to optimize the services on slow networks.
+2.3.
+Audio Settings and Reading the Contents of Your Storage:
+The Application allows you to edit the info of the audio files such as the name of the audio file, details of the artist and album. You can also delete unwanted files using Application. Therefore this permission is needed.
+2.4.
+Device and App Information:
+In order to detect the crashes and recover the Application to its state we need to know your device status,
+operating system, and its version, hardware model, mobile networks unique device identifier
+unique device identifier
+etc
+.
+2.5.
+Device id, Phone Status:
+All the user logs, crash reports, performance reports, analytic logs are mapped under unique user ids. All the
+users
+are
+identified by a unique id which is created using your device id and Phone status.
+2.6.
+Prevent phone from sleeping:
+This is needed to keep the Application functioning as per your need. You can set the sleep timer to play
+the
+audios
+for
+certain
+time duration. If this permission is not allowed the Application would stop once the phone goes to sleeping mode.
+2.7. Internet Protocol (IP) details, Internet Service Provider (ISP) details, operating system and browser details, crash report, performance
+logs
+analytics
+reports
+and
+error reports.
+2.8 Record Audio: This permission is only required for Bits voice assistant to convert the voice command into text for assistant to act on the your voice command.
+2.9 : Accessibility access: This permission is only needed to bring the voice assistant to your home screen so that you can use this feature without opening the app. This permission is needed by android system to for such feature.
+Cookies
+:
+Cookies are small text files designed to identify your preferences and manage your sessions. They are transferred via web servers and are stored in your storage. They help the Application remember the language you have selected or the times you have opened the Application and user id, date and time you have visited. We do not seek permission for Third Party cookies. You can disable and delete the cookies as per your convenience. However, disabling the cookies may lead to Application not functioning properly.
+How do we use the information:
+To let you enjoy our services seamlessly, we are continuously putting efforts to bring forward the best. We may need the log reports, error reports, analytics reports and performance reports
+to do
+the research and development at our backend. We need the error reports, analytics, logs, crash reports to understand the issues and provide upgrades. We may also need to know the information to enforce our terms and conditions contained herein. We use the information in order to solve the User specific queries and issues and assist you with technical difficulties
+.We
+use third-party companies to facilitate our service, to help us in analyzing our app's performance and generate reports, to enhance our quality of service and advertisement. Here is
+link
+to
+the privacy
+policy of third party library used by us
+4.1.
+Facebook Audience Network
+4.2.
+Firebase
+4.3.
+AdMob
+4.5.
+HSDG Technologies LP
+Disclosure:
+In the event, the information, of whatever nature, is requested by Police or law enforcement agencies to detect the fraud, illegality, and concerns related to national security, we reserve the right to disclose the information requested
+We reserve the right to change our Privacy Policy. You may receive communication from us regarding the changes. Although we have employed the best data protection practices, please be advised that no practice is 100 % secure. You are advised to keep a check on our Privacy Policy at regular intervals. For Privacy Policy related queries and concerns, kindly
+write
+us on
+developer@bitsplayer.com
+.
+7. Terms of Use:
+7.1. By using the Application, you agree to not to share, host, display, upload, modify, publish, transmit, update or share any information on the
+Application including under the â€œThemeâ€ section thatâ€”
+7.1.1. belongs to another person and to which the user does not have any right to;
+7.1.2. is grossly harmful, harassing, blasphemous defamatory, obscene, pornographic, paedophilic,
+libellous
+, invasive of another's privacy, hateful,
+or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner
+whatever;
+7.1.3. Harm minors in any way;
+7.1.4. Infringes any patent, trademark, copyright or other proprietary rights; (e) violates any law for the time being in force;
+7.1.5. Deceives or misleads the addressee about the origin of such messages or communicates any information which is grossly offensive or
+menacing in nature;
+7.1.6. Impersonate another person;
+7.1.7. contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any
+computer resource;
+7.1.8. Threatens the unity, integrity, defense, security or sovereignty of your, friendly relations with foreign states, or public order or causes
+incitement to the commission of any cognizable offense or prevents investigation of any offense or is insulting any other nation.
+8. Bits Mp3 Player reserves the right to terminate your access to the Application and block your IP in the event we notice any contravention and/or you are found to be in non-compliance with the terms and conditions provided herein.
+Thank You,
+Welcome to Bits Mp3 Player
+(c) Audify Tech Private Limited
+Follow us :

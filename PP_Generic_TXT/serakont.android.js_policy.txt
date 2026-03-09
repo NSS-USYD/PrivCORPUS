@@ -1,0 +1,9 @@
+JavaScript For Android
+Privacy Policy
+JavaScript for Android collects and stores on a server some information about the user, the device, and the usage of the app.
+ This information is only used for app usage analysis and for debugging purposes. It is not used for any other purposes and is not shared with other parties. The following data may be collected:
+Android version
+Device model
+Device configuration, such as language, screen size and MCC
+Error messages and corresponding stack traces
+Usage events, such as app start and finish.

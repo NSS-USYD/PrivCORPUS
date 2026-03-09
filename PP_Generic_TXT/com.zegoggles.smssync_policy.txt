@@ -1,0 +1,158 @@
+Privacy Policy
+SMS Backup+
+Privacy Policy
+Privacy Policy for
+SMS Backup+
+Summary (tl;dnr)
+SMS Backup+ is a tool to help you back up your text messages and call log
+information to an email account.
+To function properly it needs to have full access to various types of
+private data stored on your phone as well as your email account.
+Your data is accessed and then transferred to a place of your choice, usually
+your Gmail account. SMS Backup+ does not store private data on your
+phone nor does it send it to any other service except the one defined by you.
+Your usage data is not shared with anybody, there are no ads, analytics or other type of
+tracking code embedded in the application.
+The full
+source code
+is public and has been peer-reviewed by
+many independent developers over the span of several years.
+Access to personal information
+The following personally identifiable information is accessed by SMS Backup+ (also see the
+list of requested permissions
+in the
+appendix):
+full name
+mobile phone number
+email address
+emails
+contacts (address book)
+text messages
+call logs
+calendar data
+The access takes place with the sole purpose of transmitting and storing
+selected information to provide you with a convenient backup
+of your data. If you choose to store your text messages in Gmail, the
+resulting storage and processing is governed by the
+Google Privacy Policy
+, see there for details.
+If you do not want to store your data in Gmail you have also the option to have
+your text messages uploaded to an IMAP server under your control; see the “Advanced”
+configuration option and the
+FAQ
+for more.
+Revoking access
+To revoke SMS Backup’s access to your data simply delete it and make sure it
+is no longer linked to your account. Visit
+“
+Apps connected to your account
+” for details.
+Transactional information
+If you decide to make a donation from within the app the following
+information is automatically transmitted along with the purchase order:
+post code
+city
+country
+The in-app purchase is handled by Google. Please refer to the
+Google Payments Privacy Notice
+for more information about how payment
+information is processed and stored.
+Source code
+The source code of SMS Backup+ is freely available under a
+Open Source license
+, allowing you to verify claims made by
+this policy. Around 40 different
+developers and volunteers
+have so far contributed to the project.
+To ensure your phone runs the exact version of the code as published,
+install SMS Backup+ via the alternative store
+F-Droid
+.
+Alternatively build the package from the source code yourself,
+instructions and help
+are available online.
+Changes
+Updates to this privacy policy will be posted at
+this address
+, update notifications are made available as
+Atom feed
+.
+Contact
+For any other questions regarding the privacy of your data please contact
+me directly.
+Contact information as listed in
+Google Play
+:
+Jan Berkel
+Hinkeläcker Str. 35
+67317 Altleiningen
+
+email: jan.berkel+smsbackup@gmail.com
+Appendix
+List of requested permissions (version 1.5.11)
+The permission names correspond to standard codes used by Android. Permissions
+marked with ⚠ are classified as “
+dangerous permission
+” by Google.
+Name
+Scope
+Why needed?
+READ_SMS
+⚠
+Allows to read all SMS messages
+To backup SMS
+WRITE_SMS
+Write SMS message (removed in Android 4.4)
+To restore SMS
+READ_CALL_LOG
+⚠
+Allows to read your phone’s call log (incoming/outgoing)
+To backup call log
+WRITE_CALL_LOG
+⚠
+Allows to write your phone’s call log
+To restore call log
+READ_CONTACTS
+⚠
+Allows to read your contact data
+To map phone numbers to emails
+WRITE_CONTACTS
+⚠
+Allows to write your contact data
+To restore SMS contact data
+GET_ACCOUNTS
+⚠
+Allows access to the list of accounts in the Accounts Service
+Authenticate with Gmail
+READ_CALENDAR
+⚠
+Allows to read the your calendar data
+To restore call log
+WRITE_CALENDAR
+⚠
+Allows to write the your calendar data
+To backup call log
+ACCESS_NETWORK_STATE
+Allows to access information about networks
+Automatic backup
+ACCESS_WIFI_STATE
+Allows to access information about Wi-Fi networks.
+Automatic backup
+BILLING
+To use the Google Play application
+optional in-app donation billing
+WAKE_LOCK
+Allows the app to prevent the phone from going to sleep.
+Automatic backup
+RECEIVE_BOOT_COMPLETED
+Allows the app to start as soon after booting.
+Automatic backup (devices without Google Play only)
+RECEIVE_SMS
+⚠
+Allows to receive SMS messages
+Trigger backup after message arrival (devices without Google Play only)
+SMS Backup+
+Jan Berkel
+jberkel
+jberkel
+open-source backup app for Android, supports SMS / MMS / call logs

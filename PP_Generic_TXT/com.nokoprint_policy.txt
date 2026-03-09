@@ -1,0 +1,28 @@
+NokoPrint: Privacy Policy
+Privacy Policy
+What information do we collect?
+This app can access the content of your phone memory in order to print documents and photos.
+For local printing over Wi-Fi, Bluetooth or USB your information never leaves the perimeter of your network or device.
+Survey Serving Technology
+This app uses Pollfish SDK. Pollfish is an on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with Publishers of applications for smartphones in order to have access to users of such applications and address survey questionnaires to them. When a user connects to this app, a specific set of user's device data (including Advertising ID, Device ID, other available electronic identifiers and further response meta-data is automatically sent, via our app, to Pollfish servers, in order for Pollfish to discern whether the user is eligible for a survey. For a full list of data received by Pollfish through this app, please read carefully the Pollfish respondent terms located at
+https://www.pollfish.com/terms/respondent
+. These data will be associated with your answers to the questionnaires whenever Pollfish sends such questionnaires to eligible users. Pollfish may share such data with third parties, clients and business partners, for commercial purposes. By downloading the application, you accept this privacy policy document and you hereby give your consent for the processing by Pollfish of the aforementioned data. Furthermore, you are informed that you may disable Pollfish operation at any time by visiting the following link
+https://www.pollfish.com/respondent/opt-out
+. We once more invite you to check the Pollfish respondent's terms of use, if you wish to have more detailed view of the way Pollfish works and with whom Pollfish may further share your data.
+Do we disclose any information to outside parties?
+Absolutely not. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+This does not include trusted third parties (i.e. Google Cloud Print service) who assist us in operating our services or servicing you, so long as those parties agree to keep this information confidential.
+We may only provide with non-personally identifiable information such as usage statistics, analytics, crash reports, etc.
+Links to the privacy policy of third party service providers used by the app:
+Google Services
+AdMob
+AppLovin
+Facebook Audience Network
+AppBrain
+Flurry
+Your Consent
+By using our site and service, you consent to this privacy policy.
+Changes to our Privacy Policy
+If we decide to change our privacy policy, we will post those changes on this page.
+Contacting Us
+If there are any questions regarding this privacy policy you may contact us at info@nokoprint.com

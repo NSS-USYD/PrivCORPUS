@@ -1,0 +1,148 @@
+PrivacyPolicy · bitcoin-wallet/bitcoin-wallet Wiki · GitHub
+Skip to content
+Toggle navigation
+Sign up
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Case Studies
+Customer Stories
+Resources
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+In this repository
+All GitHub
+↵
+Jump to
+↵
+No suggested jump to results
+In this repository
+All GitHub
+↵
+Jump to
+↵
+In this organization
+All GitHub
+↵
+Jump to
+↵
+In this repository
+All GitHub
+↵
+Jump to
+↵
+Sign in
+Sign up
+bitcoin-wallet
+/
+bitcoin-wallet
+Public
+Notifications
+Fork
+1.9k
+Star
+3.2k
+Code
+Issues
+59
+Pull requests
+8
+Actions
+Projects
+0
+Wiki
+Security
+Insights
+More
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+PrivacyPolicy
+Jump to bottom
+Andreas Schildbach edited this page
+Jan 6, 2020
+·
+3 revisions
+Pages
+7
+Home
+DustTransactions
+InAppPayments
+OutOfMemory
+Payment Requests
+PrivacyPolicy
+Translating
+Clone this wiki locally
+The Bitcoin Wallet app requests only a bare minimum of permissions:
+Camera
+allows for scanning QR codes. Immediately after parsing the QR code, the image is deleted from memory. It's okay to
+not
+grant this permission. You can still use the app but cannot use scan-to-pay.
+NFC
+allows for touching other devices and terminals via near-field communication. If you've got NFC disabled, you can still use the app but cannot use tap-to-pay.
+Full network access
+enables the app to connect to the Bitcoin network and fetch auxillary data like exchange rates. This is required by the app; you cannot use it without.
+Bitcoin is decentralized. There is no server that would get in touch with any of your private data. Rather, your private data – especially the private keys protecting your Bitcoins – is held on your device only.
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.

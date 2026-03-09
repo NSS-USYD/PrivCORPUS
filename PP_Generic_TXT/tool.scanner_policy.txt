@@ -1,0 +1,147 @@
+Questions & Answers · pickwicksanta/QR-Code-Scan-Barcode-Scanner Wiki · GitHub
+Skip to content
+Toggle navigation
+Sign up
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Case Studies
+Customer Stories
+Resources
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+In this repository
+All GitHub
+↵
+Jump to
+↵
+No suggested jump to results
+In this repository
+All GitHub
+↵
+Jump to
+↵
+In this user
+All GitHub
+↵
+Jump to
+↵
+In this repository
+All GitHub
+↵
+Jump to
+↵
+Sign in
+Sign up
+pickwicksanta
+/
+QR-Code-Scan-Barcode-Scanner
+Public
+Notifications
+Fork
+0
+Star
+0
+Code
+Issues
+0
+Pull requests
+0
+Actions
+Projects
+0
+Wiki
+Security
+Insights
+More
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Questions & Answers
+Jump to bottom
+pickwicksanta edited this page
+Jan 5, 2015
+·
+2 revisions
+Pages
+2
+Home
+Questions & Answers
+user-permission requested
+com.android.browser.permission.READ_HISTORY_BOOKMARK
+android.permission.READ_CONTACTS
+android.permission.WRITE_EXTERNAL_STORAGE
+Privacy Terms
+Clone this wiki locally
+user-permission requested
+com.android.browser.permission.READ_HISTORY_BOOKMARK
+Once when you want to share a bookmark with a friend, this app will encode the URL as a QR Code. The if he or she scans the image shown on your screen with their phones, he or she will get the certain bookmark. That's the only thing we use this permission for.
+android.permission.READ_CONTACTS
+Why the app requests this permission is to share contacts between friends. If you decide to transfer a contact information to your friends, you can use the app to encode the information into a QR image, and your friend could scan it by phones. Then he or she could add the contact information to their contact list, so this app need the permission.
+android.permission.WRITE_EXTERNAL_STORAGE
+Perhaps you have generated or read many QR code many times. To avoid to miss this information,this history data must be written to pysical storage of the device as CSV file. By doing this, it helps you to retrival the   reading or generating history. This is the only purpose to use it.
+Privacy Terms
+The app will absolutely not send messages to the user's contacts or do other illegal things with using the user-permissions above. I promise all user-permissions to use is only for the app's functional purpose.
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.

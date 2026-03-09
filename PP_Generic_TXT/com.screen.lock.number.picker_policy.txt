@@ -1,0 +1,35 @@
+number_lock_screen
+Search this site
+Skip to main content
+Skip to navigation
+number_lock_screen
+Screen Lock Number User Policy
+This application is using normal and sensitive permissions.
+Details of sensitive permissions are given below below
+1) Phone, Device ID & Call Information
+android.permission.READ_PHONE_STATE
+Allows read only access to phone state, including the phone number of the device, current cellular network information, the status of any ongoing calls, and a list of any Phone Accounts registered on the device.
+Purpose of this permission in this screen lock:
+This is a Number Briefcase screen lock pattern, it need to finish lock screen when receive a call and re-lock screen after the end of the call.
+In the application this permission will be only used to listen incoming calls to unlock screen and lock screen when call will be finished.
+If you will deny this permission then screen lock will show on foreground of  call application.
+Other Permissions to access these functionalities given below:
+2) INTERNET & ACCESS NETWORK STATE Permission:
+android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATE
+purpose of this permission:
+Need of this permission is to show google admob ads.
+3) SYSTEM ALERT WINDOW Permission: android.permission.SYSTEM_ALERT_WINDOW
+purpose of this permission:
+Purpose of this permission is to show this application on front of other applications because this is screen lock application and it should above other apps.
+Further permissions are also using in this application:
+view network connections
+disable your screen lock
+full network access
+run at startup
+draw over other apps
+prevent device from sleeping
+IMPORTANT NOTE:
+This application is basically near to screen lock functionality. This screen lock is not developed for professional security lock for screen but it is an effort to develop a fancy screen lock.
+Report abuse
+Google Sites
+Report abuse

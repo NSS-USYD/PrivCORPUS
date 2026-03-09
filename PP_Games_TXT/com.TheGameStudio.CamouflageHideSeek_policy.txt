@@ -1,0 +1,183 @@
+Policy
+Search this site
+Skip to main content
+Skip to navigation
+Privacy Policy
+We have the utmost respect for your privacy and understand you care a lot about your personal information.
+The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by The Game Studio when you use one of our applications.
+1.
+What kind of Data We Collect
+?
+We do not collect or use information that identifies you personally (i.e., name, address, e-mail, phone number, etc.). However, we do collect and process certain identifiers of our users as detailed below. Our business partners may also provide us with their personal contact details through our website for business use. We collect and process several different types of information about you, as follows:
+1.1.
+Usage Data We are likely to collect and process information that your mobile device or browser sends whenever you visit or use our Services ("Usage Data"). Usage Data may include, but is not limited to:
+•
+Your computer's Internet Protocol address (IP address), browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+•
+Your cookie information, you country, regional and language settings, time zone setting, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, mobile carrier, the screen size or processor of your device, the type of mobile internet browser you use, browser plug-in types and versions, page response times and download errors.
+•
+Gameplay Data – Data pertaining to your activities on our applications and notably the way in which you interact with them (for instance, how and when you use the applications, session time, in-app purchases, install timestamp, etc.) and with the advertisements we display (for instance, time spent on them, potential clicks, etc.). We never receive your payment or credit card information.
+•
+Advertising ID – Apple Identifier for Advertisers on Apple and Google Advertising Identity, or other unique identifiers that advertisers use for personalized advertising. They are consistent across all mobile applications and thus allow cross-app tracking.
+•
+Data relating to the location of your device. Usage Data does not identify you personally, it simply enables us to compile statistics about our users and their use of the Services.
+1.2.
+Tracking and Cookies Data We are also likely to use cookies and similar tracking technologies to track the activity on our Services and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Services. By using our Services, you agree to us placing these sorts of cookies on your device and accessing them when you visit the Services in future. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Services.
+2.
+Purposes of Processing and Legal Bases
+The data we collect and process is used to:
+•
+Provide our applications
+•
+Guarantee use and improvement of our applications
+•
+Provide game updates, technical troubleshooting, understanding and analyzing trends in connection with usage of the Services, and administering the applications.
+•
+Develop new applications
+•
+Understand you and your
+preferences and provide you with new game content and services, tailor our products
+•
+Understand your centers of interests and, thanks to this profiling, propose you targeted and relevant advertisements (SDK advertising),
+•
+Make statistics on your use of the games, including the number of games played, your duration of use or the advertisements you are watching, which allows us to improve your gaming experience (analytical SDK).
+•
+Communicate with you, notably when you contact us by any means whatsoever
+Under the data protection laws applicable, we must have a legal basis to process your personal data. By using the Services, your consent to collect and process your personal data is provided. Should you choose to provide your consent, you may later withdraw your consent from the "Settings" page in our various applications. Please note that the withdrawal of consent will not affect processing which has already occurred. You may notify us at any time if you do not wish to receive promotional communications by emailing us at the address set forth at the "Contact Us" section or by clicking "unsubscribe" in the relevant message.
+3.
+Use of Your Data by Third Parties
+Our Services contain third party tracking and data collection and analytics tools from our service providers. Such third parties may use cookies and SDKs in our Services to enable them to collect and analyze user and device-related data and information on our behalf. The third parties may have access to and collect data and information about you. Such information includes, but is not limited to the following:
+•
+Application usage, access and session times.
+•
+Your viewing of and interactions with advertising.
+•
+Device manufacturer, model and operating system.
+•
+Device properties related to screen size and orientation.
+•
+Mobile carrier.
+•
+Country, time zone and local settings (country and preferred language).
+•
+Network connection type and speed.
+•
+IP address.
+•
+Internet browser used to access the Services Identifier for advertisers (IDFA).
+We also use these companies to automatically collect data from you, provided you gave your consent, when you use our apps in order to help us identify the advertising that are served to you and what you do after seeing those advertising. In addition, we share data with providers of analytic services which we use to analyze your use of our apps. The privacy policies of our partners may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies. Below is a list of third parties we use on our Services:
+•
+Facebook -
+https://www.facebook.com/privacy/explanation
+•
+Google Analytics -
+https://www.google.com/analytics/terms/us.html
+http://www.google.com/intl/en/policies/privacy/partners/
+•
+Iron Source -
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+•
+Appsflyer -
+https://www.appsflyer.com/privacy-policy/
+•
+Unityads -
+https://unity3d.com/legal/privacy-policy
+•
+Facebook Audiance Network -
+https://www.facebook.com/about/privacy/update?ref=old_policy
+•
+Firebase -
+https://firebase.google.com/support/privacy/
+•
+Mopub -
+https://www.mopub.com/legal/privacy/
+•
+Admob -
+https://support.google.com/admob/answer/7665968
+•
+Gameanalytics -
+https://gameanalytics.com/privacy
+•
+Vungle -
+https://gameanalytics.com/privacy
+4.
+Purpose of Disclosure of Your Data to Third Parties
+You hereby agree and you hereby acknowledge, that we may disclose to third parties any data collected, in the following circumstances:
+•
+To our affiliates and service providers that perform, support and provide the Services on our behalf.
+•
+For analytics and research purposes, in order to analyze our Services and their performances.
+•
+By virtue of legislation, as part of legal proceedings, a dispute and/or request issued by the competent courts and/or regulatory authorities.
+•
+If disclosure is necessary for national security, application of legislation or any other matter of public interest.
+•
+In the event of restructuring, transfer, merger or sale to the third party concerned.
+•
+In order to protect and defend our legal rights or property.
+•
+In order to prevent or investigate possible wrongdoing in connection with the Services.
+•
+In order to protect the personal safety of users of the Services or the public.
+•
+In order to protect against legal liability.
+•
+With your consent, we may share anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
+•
+As stated in Section ‎3 above, we may use analytic services provided by third parties, including Google Analytics. These service providers may use cookies to collect information about your online activities across this and other sites over time.
+5.
+Transfer of Data
+The server on which the Services are hosted and/or through which the Services are processed may be outside the country from which you access them and may be outside your country of residence, including the European Union. Some of the uses and disclosures mentioned in this Policy may involve the transfer of your information to various countries around the world that may have different levels of privacy protection than your country. By providing any information to us pursuant to this Policy, all users fully understand unambiguously consent to this Policy and to the collection and processing of such information in Israel and abroad.
+TheGameStudio
+will take all reasonable steps to ensure that your information is treated securely and in accordance with this Policy.
+6.
+Your Privacy Rights
+You have certain rights in connection with your information and the manner in which we handle it. Some of these rights may be subject to some exceptions or limitations. The following is a non-closed list of privacy rights you may exercise:
+•
+Right to Access Your Information. At any time, you may contact
+TheGameStudio
+at the address provided in the "Contact Us" section herein, and request to access the information that
+TheGameStudio
+holds about you.
+•
+Correcting Your Information.
+TheGameStudio
+may need to ask you to provide certain information to make sure you are who you claim to be. If you find the information on your account is not accurate, complete or updated, please provide
+TheGameStudio
+with the necessary information in order to correct it.
+•
+Withdrawing Your Consent. You are entitled to contact us if you would like to withdraw your consent to the processing of your information. Exercising this right will not affect the lawfulness of processing based on consent before withdrawal.
+•
+Deleting or Restricting Access to Your Information. You may request to delete or restrict access to your information. We may postpone or deny your request if your information is in current use for providing Services or for other legitimate purposes, in which case we will let you know if we are unable to do so and why. If you have any concerns about the way we process your information, you are welcome to write to us at the address set forth in the "Contact Us" section. We will look into your request and make good faith efforts to resolve any concern you may have.
+7.
+Data Retention
+We retain your personal data that are strictly necessary for the functioning of the Services for as long as needed to provide you with our Services and for an additional period of 7 years from the end of the Services in case we need to resolve any dispute before the competent courts and authorities, unless we are required by law to delete it or if we accept your request to delete the information. The data collected by cookies or related-tracking technology are kept for a maximum of [13] months.
+8.
+Security of Data
+TheGameStudio
+takes reasonable measures to protect your information from loss, theft, misuse and unauthorized access, disclosure or any form of unlawful use. Although we make good faith efforts to store the information collected on the Services in a secure operating environment that is not available to the public, we cannot guarantee its absolute security.
+9.
+Third Party Sites and Services
+Our Services may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the privacy policy of every site you visit. Any link to those sites does not constitute our sponsorship of, or affiliation with, those individuals or companies. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites, services or products. The scope of this Policy is limited to information and data collected or received by us through your use of the Services.
+10.
+Children's Privacy
+Our Services do not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from Children without the consent of their parent or guardian. If you are a parent or a guardian and you are aware that your Child has provided us with personal information, please contact us. This is also relevant if the age of legal majority where you reside has an older age of majority. If we become aware that we have collected personal information from Children without verification of parental consent, we will take reasonable steps to remove or cease any use of that information.
+11.
+Changes To This Policy
+We may update this Policy at any time. We will notify you of any changes by posting the new Policy on this page. You are advised to review this Policy periodically for any changes, notably pursuant to legal and/or regulatory provisions. Changes to this Policy are effective when they are posted on this page.
+12.
+Contact Us
+If you have any questions about this policy, please contact us:
+•
+By email:
+pranav0123.pm@gmail.com
+Contact
+Gmail
+:
+pranav0123.pm@gmail.com
+, gandhirinkal0123@gmail.com
+Skype
+: pranav0123.pm@gmail.com
+Report abuse
+Google Sites
+Report abuse

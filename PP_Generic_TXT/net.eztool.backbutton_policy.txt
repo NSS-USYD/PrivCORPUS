@@ -1,0 +1,30 @@
+Back Button Privacy Policy
+Search this site
+Skip to main content
+Skip to navigation
+Back Button Privacy Policy
+Modified on Feb 27, 2017
+What Information We Collect ?
+Protecting your information and maintaining your trust is core to our mission. We will not sell your personal information to third parties.
+The types of information we collect are mainly as follows:
+(1) Information about your device including device ID, manufacturer of the device, screen size and model of the device, the mobile network you use but not the phone number;
+How We Use Your Information?
+(1)to provide our services to you;
+(2)to find out the reason that the error occurred or app crashed and improve the quality of the product;
+(3)for customer service, security, fraud-detection, archival and backup purposes in connection with the provision of our services;
+(4)to better understand how you access and use our services, for the purposes of trying to improve our services and to respond to customer desires and preferences, including language and location customization, personalized help and instructions, or other responses to your and other customers’ usage of our services;
+(5)to help us develop our new services and improve our existing services;
+Sharing Of Your Information
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+We may disclose your Non-personal information:
+To trusted third parties who assist us in operating our website, conducting our business, cooperation with us or servicing you, so long as those parties agree to keep this information confidential.
+We will access, use or disclose your information with other organizations or entities for reasons that required by any applicable law, regulation, legal process or enforceable governmental request;
+Detect, prevent, or otherwise fraud, security or technical issues;
+Permissions:
+- Permission
+android.permission.READ_PHONE_STATE
+only listen state of phone to make app work properly.
+Google Sites
+Report abuse
+Google Sites
+Report abuse

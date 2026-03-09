@@ -1,0 +1,40 @@
+Privacy Policy
+Privacy Policy
+GPS Essentials is keeping your personal information save. This Privacy Policy helps you to
+    understand what information we collect and how you can manage, export and delete it.
+Type of information being accessed
+GPS Essentials works with different kinds of information. Sensor data is information that GPS
+    Essentials reads from device sensors. For example, these sensors provide your current location,
+    the device's orientation, the current time and date, the air pressure, the battery level, battery
+    temperature, and if you are currently charging, illuminance and IP address.
+Location information is a key aspect of GPS Essentials. Locations describe a two-dimensional
+    point on the earth's surface and an elevation. Locations can also have an accuracy associated
+    with it.
+GPS Essentials uses the current device's location using the device's GPS receiver or a location
+    interpolated from Wifi and cell tower locations.
+Some information is provided by you. GPS Essentials can attach photos taken by the device's
+    camera and text entered by you to locations and store them.
+Storing your information
+GPS Essentials stores all information in a database on your device. You can change the storage
+    location
+Sharing your information
+If you register on mapfinity.com and synchronize stream, the stream contents will be
+        uploaded and processed on the Mapfinity servers. Once you synchronized streams,
+        you can share them using links. Everybody who knows such a link can access your information.
+If you send crash information to the developer, you might disclose personal information
+        such as the device ID and additional model information, the version of Android you are using
+        and information about available resources. You can disable sending crash information in
+        Settings/Error Reporting.
+If you use the routing feature with the "Road" option, your current location and target
+        location will be sent to a Google server. Google terms of service apply here.
+If you use the search feature in map view, the bounding box of the visible map will be
+        sent to a Google server. Google terms of service apply here.
+GPS Essentials uses an advertising platforms to show ads. These platforms
+        might store your location, advertising ID and other information to show personalized ads. If you
+        have the donations plugin installed, no information will be sent.
+GPS Essentials collects and processes data ("usage statistics") using Google Analytics.
+        Google Analytics is a web analysis service provided by Google. Google utilizes the data
+        collected to track and examine the use of GPS Essentials, to prepare reports on its activities
+        and share them with other Google services. Google may use the data collected to contextualize
+        and personalize the ads of its own advertising network.
+Personal data collected: Cookie and Usage Data. Place of processing: USA.

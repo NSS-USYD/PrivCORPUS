@@ -1,0 +1,801 @@
+mehr-tanken mobile
+Datenschutzerklärung
+Die mehr-tanken App mit Werbung nutzen oder PLUS-Abo abschließen
+Es gibt zwei Optionen, die App zu nutzen. Bei der Option
+    „PLUS“ verzichten wir ganz auf Werbe-Tracking und
+    weitestgehend auf Werbung. Cookies und darauf basierende
+    Technologien werden beim PLUS-Abonnement ausschließlich zur
+    Gewährleistung der Funktionsfähigkeit des Angebots in
+    technischer Hinsicht und zur fortlaufenden Optimierung des
+    inhaltlichen Angebots eingesetzt. Zur Produktverbesserung kann
+    für die Laufzeit eines PLUS-Abos über die Datenschutzerklärung
+    das Tracking durch Google Analytics für Firebase vom Nutzer
+    aktiviert werden. Standardmäßig ist dieses jedoch deaktiviert.
+    Durch das aktive Umschalten des Toggles kann Ihre Nutzung der
+    App ausgewertet werden, um unser Angebot zu verbessern und
+    an Ihre Bedürfnisse anzupassen. Hierfür werden pseudonyme
+    Daten erhoben. Diese Einstellung ist nur bis zum Ende der
+    Abolaufzeit gültig.
+Eine Personalisierung des Angebots erfolgt dabei nicht, auch nicht
+    in inhaltlicher Hinsicht. Informationen zur Verarbeitung Ihrer
+    personenbezogenen Daten, die insoweit stattfindet, finden Sie in
+    dieser Datenschutzerklärung.
+Wenn Sie die App dagegen kostenlos nutzen wollen, finanzieren
+    wir unser Angebot mit Ihrer Einwilligung durch Werbung, die wir
+    auf Ihre vermuteten Interessen zuschneiden (sog.
+    zielgruppenbezogene Werbung). Hierfür geben wir Daten an
+    ausgewählte Dritte und speichern bzw. nutzen Cookies, Geräte-
+    Kennungen und ähnliche Tracking-Technologien auf Ihren
+    Endgeräten. Eine detaillierte Übersicht der dafür genutzten
+    Dienste und Cookies erhalten Sie im Privacy Manager.
+    Weitere Informationen zur Verarbeitung Ihrer personenbezogenen
+    Daten, die insoweit stattfindet, finden Sie in dieser
+    Datenschutzerklärung (insbesondere im Abschnitt Cookies und
+    Werbetracking unter Ziff. 4.1 bis Ziff. 4.4).
+Ihre Einwilligung in die zielgruppenbezogene Werbung („Werbe-
+    Einwilligung“) können Sie jederzeit mit Wirkung für die Zukunft
+    widerrufen. Einschränkungslos weiter nutzen können Sie die App
+    dann aber nur im Rahmen des mehr-tanken PLUS -Abos.
+Durch erneuten Aufruf des Privacy Managers über das Menü oder
+    die Datenschutzerklärung, können Sie Ihre Werbe-Einwilligung
+    jederzeit für die Zukunft widerrufen. Sie werden dann erneut
+    danach gefragt, ob Sie die App mit Werbung nutzen oder das
+    kostenpflichtige PLUS-Abo mit deutlich weniger Werbung und
+    ohne Werbetracking nutzen möchten.
+1. Datenschutz auf einen Blick
+1.1 Allgemeine Hinweise
+Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn
+    Sie diese App besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden
+    können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten
+    Datenschutzerklärung.
+1.2 Datenerfassung
+Wer ist verantwortlich für die Datenerfassung in dieser App?
+Die Datenverarbeitung in dieser App erfolgt durch den Appbetreiber. Dessen Kontaktdaten können Sie dem Abschnitt
+    „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.
+1.3 Wie erfassen wir Ihre Daten?
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten
+    handeln, die Sie in ein Kontaktformular eingeben.
+Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der App durch unsere IT- Systeme erfasst.
+    Das sind vor allem technische Daten (z. B. Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser
+    Daten erfolgt automatisch, sobald Sie diese App betreten.
+1.4 Wofür nutzen wir Ihre Daten?
+Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der App zu gewährleisten. Andere Daten können zur
+    Analyse Ihres Nutzerverhaltens verwendet werden.
+1.5 Welche Rechte haben Sie bezüglich Ihrer Daten?
+Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten
+    personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu
+    verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit
+    für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der
+    Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der
+    zuständigen Aufsichtsbehörde zu.
+Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
+1.6 Analyse-Tools und Tools von Drittanbietern
+Beim Besuch dieser App kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit
+    sogenannten Analyseprogrammen.
+Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der folgenden Datenschutzerklärung.
+2. Hosting
+2.1 Externes Hosting
+Diese App wird bei einem externen Dienstleister gehostet (Hoster). Die personenbezogenen Daten, die von dieser App
+    erfasst werden, werden auf den Servern des Hosters gespeichert. Hierbei kann es sich v.a. um IP-Adressen,
+    Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen und sonstige Daten, die über eine
+    App generiert werden, handeln.
+Der Einsatz des Hosters erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden
+    Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung
+    unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).
+Unser Hoster wird Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich
+    ist und unsere Weisungen in Bezug auf diese Daten befolgen.
+Wir setzen folgenden Hoster ein:
+webfactor media GmbH
+John-Skilton-Str. 22
+97074 Würzburg
+2.2 Auftragsverarbeitung
+Wir haben einen Vertrag über Auftragsverarbeitung (AVV) mit dem oben genannten Anbieter geschlossen. Hierbei handelt
+    es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der gewährleistet, dass dieser die personenbezogenen
+    Daten unserer Appbesucher nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet.
+3. Allgemeine Hinweise und Pflichtinformationen
+3.1 Datenschutz
+Die Betreiber dieser App nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen
+    Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+Wenn Sie diese App benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten,
+    mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten
+    wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail)
+    Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
+    möglich.
+Hinweis zur verantwortlichen Stelle
+Die verantwortliche Stelle für die Datenverarbeitung in dieser App ist:
+Motor Presse Stuttgart GmbH & Co. KG
+Leuschnerstraße 1 Stuttgart
+Telefon: +49 (0) 711-182-0
+E-Mail:
+info@motorpresse.de
+Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die
+    Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
+3.2 Speicherdauer
+Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre
+    personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes
+    Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht,
+    sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z. B.
+    steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall
+    dieser Gründe.
+3.3 Datenschutzbeauftragter
+Wir haben für unser Unternehmen einen Datenschutzbeauftragten bestellt:
+Datenschutzbeauftragter
+Motor Presse Stuttgart GmbH & Co. KG
+Leuschnerstraße 1
+70174 Stuttgart
+Deutschland
+Tel.: 0711-182-0
+E-Mail:
+motorpresse@datenschutzanfrage.de
+3.4 Hinweis zur Datenweitergabe in die USA und sonstige Drittstaaten
+Wir verwenden unter anderem Tools von Unternehmen mit Sitz in den USA oder sonstigen datenschutzrechtlich nicht
+    sicheren Drittstaaten. Wenn diese Tools aktiv sind, können Ihre personenbezogene Daten in diese Drittstaaten
+    übertragen und dort verarbeitet werden. Wir weisen darauf hin, dass in diesen Ländern kein mit der EU vergleichbares
+    Datenschutzniveau garantiert werden kann.
+Beispielsweise sind US-Unternehmen dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben,
+    ohne dass Sie als Betroffener hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden,
+    dass US-Behörden (z. B. Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten,
+    auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.
+3.5 Widerruf Ihrer Einwilligung zur Datenverarbeitung
+Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits
+    erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung
+    bleibt vom Widerruf unberührt.
+3.6 Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)
+WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS
+    RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN
+    DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES PROFILING. DIE JEWEILIGE
+    RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH
+    EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR KÖNNEN
+    ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN
+    ÜBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON RECHTSANSPRÜCHEN
+    (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).
+WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT
+    WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG
+    EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE
+    WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET
+    (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).
+3.7 Beschwerderecht bei der zuständigen Aufsichtsbehörde
+Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde,
+    insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des
+    mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder
+    gerichtlicher Rechtsbehelfe.
+Zuständige Aufsichtsbehörde für die Motor Presse Stuttgart GmbH & Co. KG ist
+Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg
+Lautenschlagerstraße 20, 70173 Stuttgart, Poststelle@lfd.bwl.de
+3.8 Recht auf Datenübertragbarkeit
+Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert
+    verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern
+    Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es
+    technisch machbar ist.
+3.9 SSL- bzw. TLS-Verschlüsselung
+Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel
+    Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS- Verschlüsselung. Eine
+    verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“
+    wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
+Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten
+    mitgelesen werden.
+3.10 Auskunft, Löschung und Berichtigung
+Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre
+    gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein
+    Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten
+    können Sie sich jederzeit an uns wenden.
+3.11 Recht auf Einschränkung der Verarbeitung
+Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie
+    sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
+Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten,
+        benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die
+        Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie
+        statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
+Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung,
+        Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die
+        Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung
+        zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
+        überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten
+        – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung
+        oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen
+        Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats
+        verarbeitet werden.
+4. Datenerfassung in dieser App
+4.1 Cookies und Werbetracking
+Unsere Internetseiten verwenden so genannte „Cookies“. Cookies sind kleine Textdateien, die von einem Browser auf den
+    Endgeräten gespeichert werden und Daten besuchter Websites enthalten.
+Cookies werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente
+    Cookies) auf Ihrem Endgerät gespeichert. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht.
+    Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische
+    Löschung durch Ihren Webbrowser erfolgt.
+Teilweise können auch Cookies von Drittunternehmen auf Ihrem Endgerät gespeichert werden, wenn Sie unsere Seite
+    betreten (sog. Third-Party-Cookies). Diese ermöglichen uns oder Ihnen die Nutzung bestimmter Dienstleistungen des
+    Drittunternehmens (z. B. Cookies zur Abwicklung von Zahlungsdienstleistungen oder zur Reichweitenmessung unseres
+    Digitalangebots).
+Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte Websitefunktionen
+    ohne diese nicht funktionieren würden (z. B. die Anzeige von Videos). Andere Cookies dienen werblichen Zwecken oder
+    das Nutzerverhalten auszuwerten.
+Eine besonders essenzielle Anwendung von Cookies entsteht bei uns im Rahmen der Messung von Reichweiten und Nutzung
+    wie beispielsweise Anzahl der Seitenbesuche (Visits) und Anzahl der Seitenaufrufe (Page Impressions) unserer
+    Webseiten und Apps, ohne die wir unsere Angebote nicht sinnvoll optimieren könnten. Zum Einsatz kommen hier
+    Webanalyse-Technologien sowie offizielle branchenweite Reichweitenmessungen wie z.B. INFOnline.
+Wenn Sie unser Angebot kostenlos nutzen möchten, verwenden wir Cookies auch, um unser anspruchsvolles
+    journalistisches Angebot mit Ihrer Einwilligung durch Werbung zu finanzieren. Die werbliche Nutzung von Cookies
+    umfasst hierbei Werbe-Tracking und Nutzerprofiling durch ausgewählte Technologieanbieter (nachfolgend „Vendoren“
+    genannt). Erhoben werden hierbei zum Beispiel Daten wie IP-Adresse, Browser-Informationen und weitere Daten zu Ihrem
+    Nutzerverhalten auf unseren Seiten und Apps. Hierdurch gewährleisten wir eine auf Ihre Bedürfnisse und Interessen
+    ausgerichtete Ausspielung und Optimierung von Werbung. Für das Werbe-Tracking speichern und nutzen wir mit Ihrer
+    Zustimmung Cookies, Geräteerkennungen und ähnliche Tracking-Technologien auf Ihren Endgeräten.
+Eine detaillierte Übersicht der Vendoren und Cookies erhalten Sie im Privacy Manager (siehe hierzu unten Abschnitt
+    „Sourcepoint
+“ und „Privacy Manager“.  Rechtsgrundlage für eine solche Datenverarbeitung mit Ihrer Zustimmung ist § 15 Abs. 3 TMG in Verbindung mit Art. 5 Abs.3 S. 1 Datenschutzrichtlinie für elektronische Kommunikation. Die Zustimmung zum Werbetracking können Sie jederzeit in Ihrem Privacy Manager widerrufen.
+Den Privacy Manager erreichen Sie über den Link „Privacy Manager“ im Menü der App.
+Für die werbliche Vermarktung arbeiten wir mit der Ströer Digital Media GmbH zusammen. Für bestimmte
+    Verarbeitungsvorgänge sind wir gemeinsam mit Ströer und den eingesetzten Partnern (im Folgenden „Vendoren“) und
+    gegebenenfalls den Werbetreibenden, die Werbeanzeigen in unserer App ausspielen (lassen), verantwortlich (sog.
+    gemeinsame Verantwortlichkeit). Die Kontaktdaten der jeweiligen Vendoren finden Sie in unserem Privacy Manager, den
+    Sie über das Menü der App erreichen.
+Die von uns gemeinsam verantworteten Vorgänge umfassen folgendes:
+Erhebung Ihrer Daten auf der Website mithilfe von Cookies und anderen Technologien durch uns und unsere
+        Vendoren;
+Übermittlung Ihrer Daten (pseudonyme Cookie-ID, IP-Adresse) innerhalb einer anonymen Umgebung (sogenannter
+        Cookie Matching Prozess),
+Versteigerung von Werbeflächen;
+Einkauf von Werbeflächen;
+Ausspielung von Werbung in der App.
+Nähere Informationen zur Datenverarbeitung in gemeinsamer Verantwortlichkeit, durch die anderen Vendoren, finden Sie
+    in deren Datenschutzhinweisen, die sie aus unserem Privacy Manager heraus aufrufen können.
+4.1.1 Zwecke der Verarbeitung im Zusammenhang mit Cookies
+Im Folgenden finden Sie Informationen zu den Zwecken, für die wir oder unsere Vendoren Cookies einsetzen und die
+    Rechtsgrundlagen, auf welche die Verarbeitung gestützt wird.
+Zweck (gemäß TCF)
+Rechtsgrundlage
+(bei zwei Angaben gilt, sofern nicht
+            anders angegeben, die Rechtsgrundlage, die im Privacy Manager angegeben ist)
+Informationen auf einem Gerät speichern und/oder
+            abrufen:
+Für die Ihnen angezeigten Verarbeitungszwecke können Cookies, Geräte-Kennungen oder andere
+            Informationen auf Ihrem Gerät gespeichert oder abgerufen werden.
+Einwilligung
+Auswahl einfacher Anzeigen:
+Anzeigen können Ihnen
+            basierend auf den Inhalten, die Sie ansehen, der Anwendung, die Sie verwenden und Ihrem ungefähren Standort
+            oder Ihrem Gerätetyp eingeblendet werden.
+Einwilligung oder berechtigtes Interesse
+Ein personalisiertes Anzeigen-Profil erstellen:
+Über Sie und Ihre Interessen kann ein Anzeigen-Profil erstellt werden, um Ihnen für Sie relevante
+            personalisierte Anzeigen einzublenden.
+Einwilligung
+Personalisierte Anzeigen auswählen:
+Personalisierte
+            Anzeigen können Ihnen basierend auf einem über Sie erstellten Anzeigen-Profil eingeblendet werden.
+Einwilligung
+Anzeigen-Leistung messen:
+Die Leistung und
+            Wirksamkeit von Anzeigen, die Sie sehen oder mit denen Sie interagieren, kann gemessen werden.
+Einwilligung oder berechtigtes Interesse
+Ein personalisiertes Inhalts-Profil erstellen:
+Über
+            Sie und Ihre Interessen kann ein Profil erstellt werden, um Ihnen für Sie relevante personalisierte Inhalte
+            anzuzeigen.
+Einwilligung
+Personalisierte Inhalte auswählen:
+Personalisierte
+            Inhalte können Ihnen basierend auf einem über Sie erstellten Profil angezeigt werden.
+Einwilligung
+Inhalte-Leistungen messen:
+Die Leistung und
+            Wirksamkeit von Inhalten, die Sie sehen oder mit denen Sie interagieren, kann gemessen werden.
+Einwilligung oder berechtigtes Interesse
+Marktforschung einsetzen, um Erkenntnisse über
+            Zielgruppen zu gewinnen:
+Marktforschung kann verwendet werden, um mehr über die Zielgruppen zu erfahren,
+            die Dienste oder Anwendungen verwenden und sich Anzeigen ansehen.
+Einwilligung oder berechtigtes Interesse
+Produkte entwickeln und verbessern:
+Ihre Daten
+            können verwendet werden, um bestehende Systeme und Software zu verbessern und neue Produkte zu entwickeln.
+Einwilligung oder berechtigtes Interesse
+Sicherheit gewährleisten, Betrug verhindern und Fehler
+            beheben:
+Ihre Daten können verwendet werden, um betrügerische Aktivitäten zu identifizieren und zu
+            verhindern, und um sicherzustellen, dass Systeme und Prozesse ordnungsgemäß und sicher funktionieren.
+zum Betrieb erforderlich
+Anzeigen oder Inhalte technisch bereitstellen:
+Ihr
+            Gerät kann Informationen empfangen und senden die notwendig sind, damit Sie Inhalte und Anzeigen sehen und
+            nutzen können.
+zum Betrieb erforderlich
+Mit Offline-Datenquellen zusammenführen:
+Daten, die
+            offline erhoben wurden, können mit Daten, die online erhoben wurden, zusammengeführt werden, um sie für
+            einen oder mehrere Verarbeitungszwecke ergänzend zu nutzen.
+Einwilligung
+Hinweis: Die Einwilligung ergibt sich aus den jeweils zuvor erteilten
+                Einwilligungen.
+Verschiedene Geräte verknüpfen:
+Zur Nutzung für
+            einen oder mehrere Verarbeitungszwecke kann ermittelt werden, ob unterschiedliche Geräte zu Ihnen oder Ihrem
+            Haushalt gehören.
+Einwilligung
+Hinweis: Die Einwilligung ergibt sich aus den jeweils zuvor erteilten Einwilligungen
+Empfangen und Verwenden automatisch gesendeter
+            Geräteeigenschaften für die Identifikation:
+Ihr Gerät kann über eine Abfrage seiner spezifischen
+            Merkmale erkannt werden.
+Einwilligung
+Hinweis: Die Einwilligung ergibt sich aus den zuvor erteilten Einwilligungen
+Genaue Standortdaten verwenden:
+Ihre genauen
+            Standortdaten können für einen oder mehrere Verarbeitungszwecke genutzt werden. Das bedeutet, dass Ihr
+            Standort bis auf wenige Meter präzise bestimmt werden kann.
+Einwilligung
+4.1.2 Verarbeitungszwecke in unserem berechtigten Interesse:
+Folgende Verarbeitungszwecke beruhen auf unserem berechtigten Interesse gem. Art. 6 (1) lit. f DSGVO:
+Einfache Anzeigen auswählen
+Anzeigen-Leistung messen
+Anzeigen-Leistung messen
+Marktforschung einsetzen, um Erkenntnisse über Zielgruppen zu gewinnen
+Produkte entwickeln und verbessern
+Wir benötigen die mit den genannten Zwecken verbundenen Anwendungen, um einfache, nicht personalisierte Werbeangebote
+    ausspielen und Werbeflächen an unsere Werbekunden verkaufen zu können, indem wir diesen statistischen Angaben und
+    Auswertungen dazu machen können, wie oft die Anzeigen eingeblendet wurden und wie häufig auf die Anzeige geklickt
+    wurde.
+Für Datenverarbeitungen auf der Rechtsgrundlage berechtigter Interessen haben wir uns im Vorfeld davon überzeugt,
+    dass dieser Verarbeitung keine überwiegenden Interessen der Nutzer entgegenstehen. Sofern die vorgenommene
+    Interessenabwägung im Einzelfall zu einem anderen Ergebnis führt, ist es möglich, dass auch ein grundsätzlich im
+    berechtigten Interesse liegender Zweck im jeweiligen Einzelfall, und bezogen auf den jeweils einsetzten Vendor,
+    zustimmungsbedürftig ist. Deshalb kann die Tabelle teilweise für zunächst identische Zwecke einerseits ein
+    Einwilligungserfordernis und andererseits auch ein bestehendes, berechtigtes Interesse ausweisen. Vendoren, für die
+    eine Einwilligung für die vorstehenden Zwecke eingeholt wird, tauchen daher bei der Vendorenliste im berechtigten
+    Interesse bei dem entsprechenden Zweck nicht mehr auf.
+4.2 Datenverarbeitung im Ausland:
+Als Verantwortliche verarbeiten wir Ihre Daten selbst ausschließlich innerhalb der Europäischen Union („EU“). Mit
+    oder von unseren Vendoren verarbeitete Daten können jedoch sowohl innerhalb als auch außerhalb der EU und des
+    Europäischen Wirtschaftsraums („EWR“) verarbeitet werden. Bitte beachten Sie: Wenn Ihre Daten von Ihrem Heimatland
+    in ein anderes Land übermittelt werden, können die dortigen Gesetze zum Schutz Ihrer Daten von denen Ihres Landes
+    abweichen (und gegebenenfalls nur ein geringeres Schutzniveau gewährleisten). Beispielsweise gelten insbesondere in
+    Ländern außerhalb des EWR andere Voraussetzungen, unter denen Strafverfolgungsbehörden Zugriff auf Ihre Daten nehmen
+    können, als innerhalb des EWR. Sofern wir Ihre Daten in ein Land außerhalb des EWR übermitteln, werden wir (ggf.
+    gemeinsam mit den anderen Verantwortlichen, die an der gemeinsamen Datenverarbeitung teilnehmen) geeignete Maßnahmen
+    treffen, um ein angemessenes Datenschutzniveau sicherzustellen, beispielsweise durch den Abschluss sog.
+    Standardvertragsklauseln (Art. 46 DSGVO) und weiterer Maßnahmen oder indem Ihre ausdrückliche Einwilligung eingeholt
+    wird (Art. 49 Abs. 1 Satz 1 lit. a DSGVO).
+Informationen zu Vendoren/Partnern die Daten in Drittländern verarbeiten, finden Sie im Privacy Manager unter dem
+    Menüpunkt „Unsere Partner“.
+4.3 Dauer der Datenspeicherung
+Wir werden Ihre Daten nicht länger speichern als dies zur Erfüllung des jeweiligen Zwecks, für den sie erhoben
+    wurden, notwendig ist, es sei denn, für eine darüberhinausgehende Verarbeitung besteht eine gesetzliche Grundlage
+    (z. B. auch aufgrund handels- oder steuerrechtlicher Aufbewahrungspflichten). Anschließend werden wir Ihre Daten
+    löschen. Die jeweiligen Aufbewahrungsfristen sind von dem zugrundeliegenden Zweck und von der Art der
+    personenbezogenen Daten abhängig.
+Die eingesetzte Dauer der von unseren Vendoren gesetzten Cookies (Cookielaufzeit) können Sie in der Regel in den
+    Datenschutzerklärungen dieser Partner abrufen, auf die im Privacy Manager verlinkt wird. Zur Wahrnehmung Ihrer
+    Rechte als betroffene Person können Sie sich entweder direkt an uns wenden (unsere Kontaktdaten finden Sie in Ziff.
+    3.1 „verantwortliche Stelle“) oder die im Privacy Manager genannten Vendoren kontaktieren.
+4.4 Consent Management Plattform
+Zur Umsetzung der DSGVO Richtlinien und ihrem persönlichen Schutz nutzen wir eine sogenannte Consent
+Management Plattform (nachfolgend „Privacy Manager“) um erteilte Einwilligungen zu speichern und für die nachfolgende Verarbeitungsprozesse nutzen zu können.  Der Anbieter des Privacy Manager stellt uns eine Bedienungsplattform zur Verfügung, mit der Sie Einstellungen vornehmen, widerrufen und steuern können. Die hier verarbeiteten Informationen werden mit Hilfe von bestimmten Erkennungssignalen an unsere
+Vendoren
+und Partner übermittelt.  Zum Betrieb und zur Verarbeitung erteilter Einwilligungen oder Widerrufe ist es technisch erforderlich,
+dass
+    Sourcepoint ein Cookie auf Ihrem Endgerät setzt. Die CMP wird ihnen auf unseren Webpräsenzen und in unseren Apps
+    angezeigt und ist über das Menü in der App aufrufbar.
+4.4.1 Sourcepoint
+Diese App nutzt den Privacy Manager von Sourcepoint (Sourcepoint Technologies, Inc. 228 Park Avenue South, #87903 New
+    York, NY 100003-1502, United States), um Ihre Einwilligung zur Speicherung bestimmter Cookies auf Ihrem Endgerät
+    oder zum Einsatz bestimmter Technologien einzuholen und diese datenschutzkonform zu dokumentieren. Sourcepoint
+    setzte ein technisch erforderliches Cookie, um abzufragen, welche Einwilligungen erteilt wurden, um Inhalte
+    ausspielen zu können. Außerdem misst Sourcepoint im Rahmen einer Nutzungsanalyse die Funktionalität der
+    Einwilligungsabfrage. Rechtsgrundlage hierfür ist unser berechtigtes Interesse (Art. 6 Abs. 1 lit.f DSGVO).
+Der Einsatz des Privacy Managers erfolgt, um die gesetzlich vorgeschriebenen Einwilligungen für den Einsatz
+    bestimmter Technologien einzuholen. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. c DSGVO.
+Wir haben mit Sourcepoint einen Auftragsverarbeitungsvertrag gem. Art 28 DSGVO abgeschlossen. Da hierbei eine
+    Datenübermittlung in ein Drittland stattfindet, haben wir mit Sourcepoint EU-Standardvertragsklauseln abgeschlossen,
+    um zu gewährleisten, dass die Verarbeitung personenbezogener Daten mit den datenschutzrechtlichen Vorschriften,
+    insbesondere der EU-DSGVO, vereinbar sind.
+Die Datenschutzerklärung von Sourcepoint können Sie hier abrufen
+https://www.sourcepoint.com/privacy-policy
+.
+4.4.2 Privacy Manager
+Nachfolgend möchten wir Ihnen weitere Informationen zu unserem Privacy Manager und den zu verarbeitenden Daten
+    geben.
+Wir bieten Ihnen mit dem Privacy Manager (in der App im Tab unter dem Menüpunkt “Privacy Manager” zu finden) die
+    Möglichkeit, selbst detailliert entscheiden zu können, in welchen Fällen Sie Tracking via Cookies und anderer
+    Technologien - zwecks Anzeige für Sie relevanter Inhalte sowie auf Sie zugeschnittene Werbung - zustimmen.
+Beim Ausspielen von Werbung auf unseren Auftritten können, wie vorstehend unter dem Abschnitt „Cookies“ beschrieben,
+    von Anbietern verschiedener Trackingtechnologien gesetzt werden. Um ein Höchstmaß an Transparenz für Sie als Nutzer
+    bereit zu stellen, nehmen die im Rahmen der Vermarktung dieser App eingesetzten Anbieter, nachfolgend auch
+    „Vendoren“ genannt, am Transparency & Consent Framework („TCF“) von IAB Europe teil und unterwerfen sich dessen
+    Spezifikationen und Richtlinien. Dafür setzen wir den Privacy Manger, von Sourcepoint ein. Im Rahmen des TCF ist
+    Sourcepoint unter der Identifikationsnummer 6 gelistet.
+Das Transparency Consent
+Framework ist ein System, das für die europäische Werbewirtschaft zum datenschutzkonformen Einsatz von Datenverarbeitungen entwickelt wurde. Auf der Website von IAB Europe können Sie sich über das über das TCF informieren: https://iabeurope.eu/
+Im Privacy Manager befinden sich genaue Übersichten dazu, welche Werbepartner zu welchen Zwecken Daten verarbeiten,
+    insbesondere auch, welche Werbepartner Nutzerprofile auf Basis der erhobenen Daten erstellen. Sie erreichen den
+    Privacy Manager über den gleichnamigen Link „Privacy Manager“ von jeder Unterseite der Website aus.
+Die Verarbeitung Ihrer Daten zu oben genannten Zwecken erfolgt teilweise auf der Grundlage des berechtigten
+    Interesses (Rechtsgrundlage Art. 6 Abs. lit.f DSGVO), teilweise benötigen wir hierfür auch Ihre Zustimmung
+    (Rechtsgrundlage Art. 6 Abs.1 lit.a. Art. 7 DSGVO).
+4.4.3 Hinweise zur Vornahme von Einstellungen Im Privacy Manager
+Nach Installation unserer App, werden Sie über unseren Privacy Manager aufgefordert, Ihre individuellen Einstellungen
+    zur Verwendung von Cookies vorzunehmen. Hierzu müssen Sie auf den Button „Einstellungen „klicken“.
+    Einwilligungspflichtige Anwendungen sind nicht aktiviert und mit einem rot eingefärbten Schieberegler versehen. Sie
+    können nun mit der Computer-Mouse den Schieberegler betätigen und einzelne Zustimmungen erteilen. Der Schieberegler
+    wird dann „grün“, als Zeichen Ihrer Zustimmung. Wenn Sie lediglich unten auf „Einstellungen speichern und schließen“
+    klicken, bleiben diese Anwendungszwecke nicht aktiviert.
+Bei Anwendungen, die wir in unserem berechtigten Interesse sehen, ist der Schieberegler auf Zustimmung voreingestellt
+    und daher grün eingefärbt, weil wir für Anwendungen, die in unserem berechtigten Interesse liegen, keine Zustimmung
+    von Ihnen benötigen. Sie haben aber dennoch die Möglichkeit, auch den Einsatz dieser Anwendungen abzuwählen. Hierzu
+    müssen Sie diese Anwendungen, bevor Sie auf „speichern und schließen“ klicken, durch Betätigung des Schiebereglers
+    rot einstellen.
+Die Einstellungen werden von uns 90 Tage gespeichert. Ist dieser Zeitraum abgelaufen, werden Sie erneut aufgefordert,
+    ihre Einwilligungen über den Privacy Manager zu erteilen. Vor Ablauf dieses Zeitraums kann eine erneute Abfrage
+    erfolgen, wenn Änderungen im Privacy Manager vorgenommen wurden. Sie haben aber auch zu jeder Zeit die Möglichkeit,
+    ihre Einwilligungen (Opt-In) oder Ablehnungen (Opt-Out) zu widerrufen. Möchten Sie jedoch in der Zwischenzeit Ihre
+    Einstellungen ändern, erreichen Sie den Privacy Manager über das Menü der App.
+4.5
+Zugriffsberechtigungen
+4.5.1 IDFA (iOS)
+Soweit Sie ein Endgerät des Unternehmens Apple Inc. ab den Betriebssystemversionen iOS 14.5, iPadOS 14.5, tvOS 14.5
+    nutzen, erhalten wir zudem Zugriff auf die ihrem Gerät zugeordnete Gerätekennung IDFA, soweit Sie uns hierzu im
+    Rahmen der Installation bzw. später bei der Nutzung der App Ihre Einwilligung erteilt haben (-> Tracking
+    erlauben). Die IDFA (ID for Advertisers) ist eine Gerätekennung, die Apple zur Nutzung für App-Betreiber in seine
+    Betriebssysteme integriert, um es App-Betreibern zur ermöglichen, die Refinanzierbarkeit der Applikation, etwa über
+    Werbung, zu gewährleisten. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können eine
+    von Ihnen erteilte Einwilligung jederzeit über die Datenschutzeinstellungen auf ihrem Apple-Gerät mit Wirkung für
+    die Zukunft widerrufen.
+4.5.2 Werbe-ID (Android)
+Ihr Android Gerät besitzt eine Werbe-ID. Die Werbe-ID ist eine eindeutige ID für Werbezwecke, die von den Google
+    Play-Diensten bereitgestellt wird und vom Nutzer zurückgesetzt werden kann. Nutzer haben so eine bessere Kontrolle
+    und Entwickler können über ein einfaches Standardsystem weiterhin ihre Apps monetarisieren. Rechtsgrundlage für die
+    Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können eine von Ihnen erteilte Einwilligung jederzeit über die
+    Google Einstellungen auf ihrem Android-Gerät mit Wirkung für die Zukunft widerrufen.
+4.5.3 Geo-Lokalisierung
+Vorbehaltlich Ihrer Einwilligung greifen wir auf Ihren Standort zu, zu dem Zweck, Ihnen bei der Suche nach
+    Tankstellen Ergebnisse in Ihrer Umgebung anzeigen zu können. Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1
+    lit. a DSGVO. Sie haben jederzeit die Möglichkeit, Ihre Einwilligung in den Einstellungen des Geräts zu
+    widerrufen.
+4.6 Server-Log-Dateien
+Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log- Dateien, die Ihr
+    Browser automatisch an uns übermittelt. Dies sind:
+Browsertyp und Browserversion verwendetes Betriebssystem Referrer-URL
+Hostname des zugreifenden Rechners Uhrzeit der Serveranfrage
+IP-Adresse
+Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein
+    berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website – hierzu
+    müssen die Server-Log-Files erfasst werden.
+4.7 Kontaktformular
+Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der
+    von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns
+    gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der
+    Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen
+    übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns
+    gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern
+    diese abgefragt wurde.
+Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre
+    Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener
+    Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen –
+    bleiben unberührt.
+4.8 Anfrage per E-Mail
+Wenn Sie uns per E-Mail, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name,
+    Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht
+    ohne Ihre Einwilligung weiter.
+Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der
+    Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen
+    übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns
+    gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern
+    diese abgefragt wurde.
+Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern,
+    Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach
+    abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche
+    Aufbewahrungsfristen – bleiben unberührt.
+4.9 Registrierung in der App
+Sie können sich in dieser App registrieren, um zusätzliche Funktionen auf der Seite zu nutzen. Die dazu eingegebenen
+    Daten verwenden wir nur zum Zwecke der Nutzung des jeweiligen Angebotes oder Dienstes, für den Sie sich registriert
+    haben. Die bei der Registrierung abgefragten Pflichtangaben müssen vollständig angegeben werden. Anderenfalls werden
+    wir die Registrierung ablehnen.
+Für wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendigen Änderungen nutzen wir die bei der
+    Registrierung angegebene E-Mail-Adresse, um Sie auf diesem Wege zu informieren.
+Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt zum Zwecke der Durchführung des durch die
+    Registrierung begründeten Nutzungsverhältnisses und ggf. zur Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. b
+    DSGVO).
+Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie auf dieser Website registriert sind
+    und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
+5. Analyse-Tools und Werbung
+5.1 Google Tag Manager
+Wir setzen den Google Tag Manager ein. Anbieter ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin
+    4, Irland.
+Der Google Tag Manager ist ein Tool, mit dessen Hilfe wir Tracking- oder Statistik-Tools und andere Technologien auf
+    unserer Website einbinden können. Der Google Tag Manager selbst erstellt keine Nutzerprofile, speichert keine
+    Cookies und nimmt keine eigenständigen Analysen vor. Er dient lediglich der Verwaltung und Ausspielung der über ihn
+    eingebundenen Tools. Der Google Tag Manager erfasst jedoch Ihre IP-Adresse, die auch an das Mutterunternehmen von
+    Google in die Vereinigten Staaten übertragen werden kann.
+Der Einsatz des Google Tag Managers erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat
+    ein berechtigtes Interesse an einer schnellen und unkomplizierten Einbindung und Verwaltung verschiedener Tools auf
+    seiner Website. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf
+    Grundlage von Art. 6 Abs. 1 lit. a DSGVO; die Einwilligung ist jederzeit widerrufbar.
+5.2 Google Analytics für Firebase
+Zur Verbesserung unseres App-Angebotes nutzen wir Google Analytics für Firebase, einen Analysedienst der Google LLC
+    (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, „Google“). Google Analytics verwendet sogenannte
+    „Cookies“, Textdateien, die auf Ihrem Smartphone gespeichert werden und die eine Analyse der Benutzung der App durch
+    Sie ermöglichen. Die durch Google Analytics erzeugten Informationen über Ihre Benutzung der App werden in der Regel
+    an einen Server von Google in den USA übertragen und dort für bis zu 14 Monate gespeichert. Innerhalb unserer App
+    wurde die IP-Anonymisierung aktiviert, so dass die IP-Adresse der Nutzer von Google innerhalb von Mitgliedstaaten
+    der Europäischen Union oder in anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gekürzt und
+    dadurch anonymisiert wird. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA
+    übertragen und dort gekürzt.
+Es gibt aktuell keinen Beschluss der EU-Kommission, dass die USA allgemein ein angemessenes Datenschutzniveau bieten.
+    Google hat sich bei der Verarbeitung von personenbezogenen Daten aus den Mitgliedsstaaten der EU auf die Einhaltung
+    der EU-Standardvertragsklauseln verpflichtet. Weitere Informationen hierzu finden Sie hier:
+https://firebase.google.com/support/privacy
+Weitere Informationen zum Datenschutz bei Google erhalten Sie unter
+https://policies.google.com/privacy?gl=de
+Mehr Informationen speziell zur Datenerhebung durch Google Analytics für Firebase finden Sie hier:
+https://support.google.com/firebase/answer/6318039?hl=de
+In unserem Auftrag wird Google die gesammelten Informationen benutzen, um Ihre Nutzung der App auszuwerten, um
+    Reports über die Aktivitäten zusammenzustellen und um weitere mit der Nutzung verbundene Dienstleistungen gegenüber
+    uns zu erbringen. Die im Rahmen von Google Analytics von Ihrem Smartphone übermittelte IP-Adresse wird nicht mit
+    anderen Daten von Google zusammengeführt. Sie können die Erfassung der auf Ihre Nutzung der App bezogenen Daten
+    (inkl. Ihrer IP-Adresse) durch Google Analytics sowie die Verarbeitung dieser Daten durch Google in den
+    Datenschutz-Einstellungen Ihres Smartphones verhindern oder die Datenschutz-Einstellungen über unseren
+    Privacy-Manager (Ziff. 4.4.2 in den Datenschutzbestimmungen) entsprechend festlegen, indem Sie der Verarbeitung
+    nicht zustimmen.
+5.3 Absturz-Benachrichtigungen
+Bei der mehr-tanken-App für iOS & Android haben wir den Dienst crashlytics intergiert, um Fehler zu analysieren
+    und zu beheben. Anbieter von crashlytics ist Google Ireland Ltd., Google Building Gordon House, Barrow Street,
+    Dublin 4, Ireland. Falls Sie in den Einstellungen der App oder nach einem Absturz freiwillig und ausdrücklich der
+    Übermittlung eines Absturzberichts zugestimmt haben, werden anonyme Informationen (Gerätetyp, Version des
+    Betriebssystems, Hardwaredaten des mobilen Endgeräts, aktuelle Position im Sourcecode, Zeitpunkt des Absturzes und
+    der Zustand der Anwendung zum Zeitpunkt des Absturzes) an die Server von Google übertragen und dort zur Auswertung
+    gespeichert. Absturzberichte enthalten keine personenbezogenen Informationen. Weitere Informationen zum Datenschutz
+    erhalten Sie unter:
+http://try.crashlytics.com/terms/
+5.4 IP-Anonymisierung
+Wir haben in dieser App die Funktion IP-Anonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb
+    von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen
+    Wirtschaftsraum vor der Übermittlung in die USA gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen
+    Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser App wird Google diese
+    Informationen benutzen, um Ihre Nutzung der App auszuwerten, um Reports über die Appaktivitäten zusammenzustellen
+    und um weitere mit der Appnutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Appbetreiber zu
+    erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP- Adresse wird nicht mit anderen
+    Daten von Google zusammengeführt.
+5.5 Browser Plugin
+Sie können die Erfassung und Verarbeitung Ihrer Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren:
+https://tools.google.com/dlpage/gaoptout?hl=de
+.
+Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerklärung von Google:
+https://support.google.com/analytics/answer/6004245?hl=de
+.
+5.6 Auftragsverarbeitung
+Wir haben mit Google einen Vertrag zur Auftragsverarbeitung abgeschlossen und setzen die strengen Vorgaben der
+    deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.
+5.7 Speicherdauer
+Bei Google gespeicherte Daten auf Nutzer- und Ereignisebene, die mit Cookies, Nutzerkennungen (z. B. User ID) oder
+    Werbe-IDs (z. B. DoubleClick-Cookies, Android-Werbe-ID) verknüpft sind, werden nach 26 Monaten anonymisiert bzw.
+    gelöscht. Details hierzu ersehen Sie unter folgendem Link:
+https://support.google.com/analytics/answer/7667196?hl=de
+5.8 Google AdSense
+Diese App nutzt Google AdSense, einen Dienst zum Einbinden von Werbeanzeigen. Anbieter ist die Google Ireland Limited
+    („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
+Mit Hilfe von Google Adsense können wir zielgerichtete Werbeanzeigen von Drittunternehmen auf unserer Seite
+    einblenden lassen. Die Inhalte der Werbeanzeigen richten sich hierbei nach Ihren Interessen, die Google anhand Ihres
+    bisherigen Nutzerverhaltens ermittelt. Des Weiteren werden bei der Auswahl der passenden Werbeanzeige auch
+    Kontextinformationen, wie Ihr Standort, der Inhalt der besuchten Webseite oder die von Ihnen eingegeben
+    Google-Suchbegriffe berücksichtigt.
+Google AdSense verwendet Cookies, Web Beacons (unsichtbare Grafiken) und vergleichbare Wiedererkennungstechnologien.
+    Hiermit können Informationen wie der Besucherverkehr auf diesen Seiten ausgewertet werden.
+Die von Google Adsense erfassten Informationen über die Benutzung dieser App (einschließlich Ihrer IP- Adresse) und
+    Auslieferung von Werbeformaten werden an einen Server von Google in den USA übertragen und dort gespeichert. Diese
+    Informationen können von Google an Vertragspartner von Google weitergegeben werden. Google wird Ihre IP-Adresse
+    jedoch nicht mit anderen von Ihnen gespeicherten Daten zusammenführen.
+Die Nutzung von AdSense erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Appbetreiber hat ein berechtigtes
+    Interesse an einer möglichst effektiven Vermarktung seiner App. Sofern eine entsprechende Einwilligung abgefragt
+    wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO; die Einwilligung ist
+    jederzeit widerrufbar.
+Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie
+    hier:
+https://privacy.google.com/businesses/controllerterms/mccs/
+.
+5.9 Google Conversion-Tracking
+Diese App nutzt Google Conversion Tracking. Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow
+    Street, Dublin 4, Irland.
+Mit Hilfe von Google-Conversion-Tracking können Google und wir erkennen, ob der Nutzer bestimmte Aktionen
+    durchgeführt hat. So können wir beispielsweise auswerten, welche Buttons auf unserer App wie häufig geklickt und
+    welche Produkte besonders häufig angesehen oder gekauft wurden. Diese Informationen dienen dazu,
+    Conversion-Statistiken zu erstellen. Wir erfahren die Gesamtanzahl der Nutzer, die auf unsere Anzeigen geklickt
+    haben und welche Aktionen sie durchgeführt haben. Wir erhalten keine Informationen, mit denen wir den Nutzer
+    persönlich identifizieren können. Google selbst nutzt zur Identifikation Cookies oder vergleichbare
+    Wiedererkennungstechnologien.
+Die Nutzung von Google Conversion-Tracking erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Appbetreiber hat
+    ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu
+    optimieren. Sofern eine entsprechende Einwilligung abgefragt wurde (z. B. eine Einwilligung zur Speicherung von
+    Cookies), erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO; die Einwilligung ist
+    jederzeit widerrufbar.
+Mehr Informationen zu Google Conversion-Tracking finden Sie in den Datenschutzbestimmungen von Google:
+https://policies.google.com/privacy?hl=de
+.
+5.10 Google DoubleClick
+Diese App nutzt Funktionen von Google DoubleClick. Anbieter ist die Google Ireland Limited („Google“), Gordon House,
+    Barrow Street, Dublin 4, Irland, (nachfolgend „DoubleClick“).
+DoubleClick wird eingesetzt, um Ihnen interessenbezogene Werbeanzeigen im gesamten Google- Werbenetzwerk anzuzeigen.
+    Die Werbeanzeigen können mit Hilfe von DoubleClick zielgerichtet an die Interessen des jeweiligen Betrachters
+    angepasst werden. So kann unsere Werbung beispielsweise in Google- Suchergebnissen oder in Werbebannern, die mit
+    DoubleClick verbunden sind, angezeigt werden.
+Um den Nutzern interessengerechte Werbung anzeigen zu können, muss DoubleClick den jeweiligen Betrachter
+    wiedererkennen und ihm seine besuchten Webseiten, Klicks und sonstigen Informationen zum Nutzerverhalten zuordnen
+    können. Hierzu setzt DoubleClick Cookies oder vergleichbare Wiedererkennungstechnologien (z. B.
+    Device-Fingerprinting) ein. Die erfassten Informationen werden zu einem pseudonymen Nutzerprofil zusammengefasst, um
+    dem betreffenden Nutzer interessengerechte Werbung anzuzeigen.
+Die Nutzung von Google DoubleClick erfolgt im Interesse zielgerichteter Werbemaßnahmen. Dies stellt ein berechtigtes
+    Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar. Sofern eine entsprechende Einwilligung abgefragt wurde (z. B.
+    eine Einwilligung zur Speicherung von Cookies), erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6
+    Abs. 1 lit. a DSGVO; die Einwilligung ist jederzeit widerrufbar.
+Weitere Informationen zu Widerspruchsmöglichkeiten gegen die von Google eingeblendeten Werbeanzeigen entnehmen Sie folgenden Links:
+https://policies.google.com/technologies/ads
+und
+https://adssettings.google.com/authenticated
+.
+6. Plugins und Tools
+6.1 Kartenanbieter
+Um die zur Kartendarstellung notwendigen Grafiken laden zu können, werden Anfragen an einen Kartendienstbetreiber
+    geschickt und diese Grafiken angefordert. Innerhalb dieser Anfrage wird dem Kartendienstbetreiber die IP-Adresse der
+    Nutzer übermittelt. Wir haben keinen Einfluss auf diese Datenübertragung. Die Zustimmung des Nutzers zu dieser
+    Übertragung der IP-Adresse findet durch das Akzeptieren dieser Datenschutzerklärung beim ersten Start der App
+    statt.
+Bei der Verwendung des Betriebssystems Android nutzt das in der App eingesetzte Software Development Kit (SDK) “Maps
+    SDK for Android” den Kartendienst Google Maps der Google LLC (1600 Amphitheatre
+Parkway, Mountain View, California 94043, USA). Die Datenschutzerklärung finden sich für Google unter
+https://policies.google.com/privacy?hl=de
+.
+Technisch bedingt werden ab Version 7 die folgenden Berechtigungen benötigt:
+- android.permission.ACCESS_NETWORK_STATE
+Bei der Nutzung des Betriebssystems iOS nutzt das verwendete SDK “MapKit” den Kartendienst Apple Maps der Apple Inc.
+    (One
+Apple Park Way, Cupertino, California, USA, 95014). Die Datenschutzerklärung findet sich für Apple unter
+https://www.apple.com/legal/privacy/de-ww/
+Rechtsgrundlage für die Verwendung der Kartendienste ist Art. 6, Abs. 1 lit a DSGVO. Die Einwilligung ist jederzeit
+    widerrufbar.
+6.2 Push-Benachrichtigungen
+Wenn Sie Push-Benachrichtigungen erhalten wollen, auch wenn Sie sich nicht in unserer App befinden, müssen Sie uns
+    das erlauben. Wir fragen nach der ersten Installation der App in der zweiten Sitzung danach. Weitere
+    Push-Benachrichtigungen für weitere Services sind optional möglich.
+Hierfür bedienen wir uns des Dienstes Firebase Cloud Messaging der Google Ireland Limited, Gordon House, Barrow
+    Street, Dublin 4, Irland („Google“). Dabei wird dem mobilen Endgerät eine pseudonymisierte Push-Reference zugeteilt,
+    die den Push-Nachrichten bzw. In-App-Messages als Ziel dient. Die Push-Nachrichten können in den Einstellungen des
+    mobilen Endgeräts jederzeit deaktiviert und auch wieder aktiviert werden. Informationen rund um die Funktionsweise
+    von Cloud Messaging finden Sie hier: https://firebase.google.com/products/cloud-messaging/
+Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO.
+6.3 In-App-Käufe über Apple App Store oder Google Play
+Wenn Sie eine unserer Apps nutzen, haben Sie ggf. die Möglichkeit, über In-App-Käufe kostenpflichtige Abonnements
+    abzuschließen. Die Abwicklung der Bezahlung solcher Abonnements erfolgt jeweils über den Betreiber des App-Stores,
+    aus dem Sie die App heruntergeladen haben. Wenn Sie ein Gerät von Apple nutzen, ist dies Apple Distribution
+    International, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland („Apple“). Wenn Sie ein Gerät mit
+    Android-Betriebssystem mit Google Play nutzen, ist dies Google Ireland Limited, Gordon House, Barrow Street, Dublin
+    4, Irland. Wenn Sie ein Abonnement als In-App-Kauf abschließen, werden Ihre Bestellinformationen an den jeweiligen
+    App-Store-Betreiber übermittelt und dort mit Ihrem bestehenden Nutzungskonto für den App-Store verknüpft. Für die
+    Abrechnung werden die in Ihrem Nutzerkonto des App-Stores hinterlegten Daten genutzt und die übermittelten Daten
+    werden zusammen mit den vorhandenen Daten für die Abwicklung der Abrechnung genutzt. Die in Ihren Nutzerkonten für
+    Abrechnungszwecke hinterlegten Daten werden nicht an uns übermittelt. Einzelheiten entnehmen Sie bitte den
+    Datenschutzerklärungen der App-Store-Betreiber.
+7. Datenschutzbestimmungen zu Einsatz und Verwendung des
+    Skalierbaren Zentralen Messverfahrens der INFOnline GmbH
+Unsere Applikation setzt das mehrstufige Messverfahren 'INFOnline Measurement' der INFOnline GmbH (
+https://www.INFOnline.de
+)
+    zur Ermittlung statistischer Kennwerte (Page Impression, Visit, (technischer) Client) über die Nutzung unseres Digital-Angebots ein. Ziel der
+    Nutzungsmessung ist es, die Anzahl der Besuche auf unserer Website, die Anzahl der Websitebesucher und deren Surfverhalten statistisch – auf Basis eines
+    einheitlichen Standardverfahrens - zu bestimmen und somit marktweit vergleichbare Werte zu erhalten.
+Als Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW –
+https://www.ivw.eu
+)
+    werden die Nutzungsstatistiken regelmäßig von der IVW mit den Leistungswerten 'Page Impression' und 'Visit' in der IVW-Ausweisung (
+https://ausweisungdigital.ivw.de
+/) bereitgestellt.
+Als Teilnehmer an der Studie daily digital facts werden
+    die Nutzungsstatistiken unseres Digital Angebots regelmäßig von der Media-Micro-Census GmbH
+    (MMC -
+https://www.agma-mmc.de
+/) und Arbeitsgemeinschaft Media-Analyse e.V.
+    (agma -
+https://www.agma- mmc.de
+/)
+    zu Reichweiten weiterverarbeitet und mit dem Leistungswert 'Unique User' veröffentlicht.
+7.1 Rechtsgrundlage für die Verarbeitung
+Die Messung mit INFOnline Measurement (pseudonymes System: IOMp) durch die INFOnline GmbH
+    erfolgt im Rahmen einer Nutzungsmessung mit der Einwilligung nach Art. 6 Abs. 1 lit. a) DSGVO.
+    Zweck der Verarbeitung der personenbezogenen Daten ist die Bildung von digitalen Leistungswerten
+    (Page Impression, Visit und (technischer) Client) zur Erstellung von Statistiken.
+    Die Statistiken dienen dazu, die Nutzung unseres Angebots nachvollziehen und belegen zu können.
+7.2 Art der Daten
+Die mit INFOnline Measurement erhobenen Daten ermöglichen aufgrund der Datenarten und Datenmenge keine eindeutige Identifizierung eines Nutzers als Person.
+    Es wird ein JavaScript-Code (sog. 'Measurement Manager') eingesetzt, der beim Aufruf über den Browser bzw. das Endgerät des Nutzers (Client) auf Basis der
+    Consent- Informationen aus der vom Anbieter beim Digital-Angebot eingesetzten Consent Management Plattform (CMP) die erforderlichen Messsensoren für eine
+    anonyme und / oder pseudonyme Datenverarbeitung zur Ermittlung der Kennzahlen automatisiert integriert und ausführt.
+
+    Das INFOnline Measurement ist als anonymes System (ohne Client-Identifier) und als pseudonymes System (mit Client-Identifier) angelegt.
+Beim anonymen Zensusverfahren (IOMb)
+wird gänzlich auf eine Verarbeitung personenbeziehbarer Informationen verzichtet, dazu gehört im Besonderen die
+    IP-Adresse. Diese wird gänzlich aus der Kommunikation und der Verarbeitung entfernt. Dazu verhindert eine Kommunikationsschnittstelle, die sog.
+    'Serviceplattform‘, als Messendpunkt den Austausch der IP-Adresse des Nutzers mit den Systemen der INFOnline im Rahmen des INFOnline Measurement. Die
+    IP-Adresse als personenbezogenes Datum wird im Zensusverfahren auf der Serviceplattform verworfen, bevor der Messaufruf an INFOnline geleitet wird. Es
+    erfolgt auch keine Geolokalisierung mittels IP-Adresse. Der beim Zensusverfahren erzeugte Datensatz ist eine reine PI Datenerhebung.
+Beim pseudonymen Messverfahren (IOMp)
+werden mit dem 3rd-Party Cookie 'i00' (ioam.de) und dem 1st-Party-Cookie 'ioam2018‘ folgende Daten erhoben, welche
+    nach EU-DSGVO einen Personenbezug aufweisen:
+IP-Adresse:
+Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige
+            Adresse, die
+            sogenannte IP-Adresse. Die zumindest kurzzeitige Speicherung der IP-Adresse ist
+            aufgrund der Funktionsweise des Internets technisch erforderlich.
+            Die IP-Adressen werden vor jeglicher Verarbeitung um 1 Byte gekürzt und nur
+            anonymisiert
+            weiterverarbeitet. Es erfolgt keine Speicherung oder Verarbeitung der
+            ungekürzten IPAdressen.
+Einen zufällig erzeugten Client-Identifier:
+Die Reichweitenmessung verwendet zur Wiedererkennung von
+            Computersystemen
+            eindeutige Kennungen des Endgerätes, ein 'Local Storage Object' (LSO) oder eine
+            Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres
+            Browsers
+            erstellt wird. Diese Kennung ist für einen Browser eindeutig, solange das Cookie
+            oder Local
+            Storage Object nicht gelöscht wird. Eine Messung der Daten und anschließende
+            Zuordnung
+            zu dem jeweiligen Identifier ist unter Umständen auch dann möglich, wenn Sie
+            andere
+            Webseiten aufrufen, die ebenfalls das pseudonyme Messverfahren der INFOnline
+            GmbH
+            nutzen. Folgende eindeutige Kennungen können als Hash an die INFOnline GmbH
+            übermittelt werden:
+gekürzte Client-IP bzw. X-Forwarded-For (XFF)
+Useragent (als Hash)
+Personenbezogene Daten im Sinne der EU-DSGVO werden zur Messung nur insoweit
+    genutzt, als dass der Einsatz eines JavaScripts gegenüber einem Nutzer erfolgt,
+    dem eine individuelle IP-Adresse und ein zufällig erzeugter Client-Identifier zum
+    Aufruf von Webinhalten zugewiesen wurde.
+7.3 Nutzung der Daten
+Das Messverfahren der INFOnline GmbH, welches auf dieser Webseite eingesetzt wird, ermittelt Nutzungsdaten.
+        Dies geschieht, um die Leistungswerte Page Impression, Visit und Client zu erheben.
+Geolokalisierung
+Die Zuordnung eines Webseitenaufrufs zum Ort des Aufrufs erfolgt im pseudonymen
+            Messverfahren (IOMp) ausschließlich auf der Grundlage der anonymisierten IP- Adresse und nur
+            bis zur geographischen Ebene der Bundesländer / Regionen. Aus den so gewonnenen
+            geographischen Informationen kann in keinem Fall ein Rückschluss auf den konkreten Wohnort
+            eines Nutzers gezogen werden.
+Angebotsübergreifende Zusammenführung von Nutzungsdaten
+Die Nutzungsdaten eines (technischen) Clients (bspw. eines Browsers auf einem
+            Gerät) werden im pseudonymen Messverfahren (IOMp) webseitenübergreifend zusammengeführt
+            und in einer Datenbank gespeichert.
+7.4 Speicherdauer der Daten
+Die vollständige IP-Adresse wird von der INFOnline GmbH nicht gespeichert.
+    Die IP-Adresse wird lediglich zum Empfang der Datenpakete verwendet und
+    sodann um 1 Byte gekürzt.
+Im Zensusverfahren wird die gekürzte IP-Adresse verworfen, im pseudonymen Verfahren maximal
+    60 Tage gespeichert. Im pseudonymen Verfahren werden die Nutzungsdaten in Verbindung mit
+    dem eindeutigen Identifier maximal 6 Monate gespeichert.
+    Die Gültigkeit des im pseudonymen Verfahren verwendeten Cookies 'i00' und des Cookies
+    'ioam2018' auf dem Endgerät des Nutzers ist auf maximal 1 Jahr beschränkt.
+7.5 Weitergabe der Daten
+IP-Adresse wie auch die gekürzte IP-Adresse werden nicht weitergegeben.
+7.6 Rechte der betroffenen Person
+Die betroffene Person hat folgende Rechte:
+Auskunftsrecht (Art. 15 DSGVO)
+Recht auf Berichtigung (Art. 16 DSGVO)
+Widerspruchsrecht (Art. 21 DSGVO)
+Recht auf Löschung (Art. 17 DSGVO)
+Recht auf Einschränkung der Verarbeitung (Art. 18f. DSGVO)
+Recht auf Datenübertragbarkeit (Art. 20 DSGVO)
+Recht auf Widerruf (Art. 7 Abs. 3 DSGVO) (bei Einwilligung)
+Bei Anfragen dieser Art, wenden Sie sich bitte an
+motorpresse@datenschutzanfrage.de
+.
+        Bitte beachten Sie, dass wir bei derartigen Anfragen sicherstellen müssen, dass es
+        sich tatsächlich um die betroffene Person handelt.
+Die betroffene Person hat das Recht, bei einer Datenschutzbehörde Beschwerde einzulegen.
+Weitere Informationen zum Datenschutz im INFOnline Measurement finden Sie
+        auf der Webseite der INFOnline GmbH (
+https://www.infonline.de
+),
+        die das Messverfahren betreibt.

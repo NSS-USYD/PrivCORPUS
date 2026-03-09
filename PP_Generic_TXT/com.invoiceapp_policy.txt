@@ -1,0 +1,127 @@
+Simple Invoice Manager | Privacy
+Privacy Policy
+1. Data / Information Stored by Simple Invoice Manager
+(1a.)Data stored on our servers for
+ALL THE USERS WHO INSTALL THE APP
+i. IP Address :
+IP Address of the user is captured on 1st run of the application . We use a 3rd party API (
+                                http://ip-api.com/json ) to resolve the country of the user from the IP Address. Country of the user is used to automate various
+                                settings within the app such as Country, Currency, Number Format, Date format, Tax settings and Financial Year cycle. We have
+                                different prices for different countries, and hence this field may also affect the prices of our products. The IP Address is
+                                retrieved only once on 1st execution, and it is NOT STORED on our servers or within the persistent storage of the app.
+ii. Unique ID of Device :
+This field is captured automatically. It is used to uniquely identify users' device for (a.)
+                                Payment Attribution related support queries (b.) Ensure fair usage of trial period by any single device.
+iii. Make and Model of Device :
+To Address support queries related to specific devices . In-App subscription can be used
+                                across devices. When users send support emails, they would typically
+                                refer to the make and model of their devices being used.
+iv. Organization Name :
+( As entered by user in the Invoice Header section) : So that users can be identified by their
+                                business name when they make support queries.
+v. Contact Person :
+( As entered by user in the Invoice Header section) : So that users can be identified by their
+                                personal name when they make support queries.
+vi. Google Accounts :
+Since a user making in-app purchase may have multiple google accounts on their device, they could
+                                have made the purchase from any of these accounts. many users
+                                typically do not know which account made the purchase. So, they make the purchase from account A, whereas place the support
+                                query using email of account B. So,
+                                we often face difficulty in mapping in-app purchases to support queries , therefore the app attempts to capture the list of
+                                Google Accounts on the device, so
+                                that any incoming support query can be reliably mapped to the purchaser.
+vii. App Version :
+Technical issues may be related to specific app versions.
+viii. Language of App Usage :
+Technical issues may be related to specific app language.
+ix. OS Version :
+Technical issues may be related to specific OS Version
+x. Timestamp of the above information:
+(1b.) Data stored on our servers for
+CLOUD ACCOUNT USERS
+(Users who make In-App Purchases and Purchase our subscription)
+Any user who makes an in-app purchase or takes a monthly / annual subscription , must register using a valid email and
+                                password. Such users automatically
+                                get
+                                access to our CLOUD STRORAGE SERVICE feature.
+ALL THE DETAILS including the above details filled within the app by such a user
+                            are then stored on the CLOUD
+                            STORAGE servers of Tacktile Systems Private limited .
+This information is stored on the cloud so that it can be accessed by the
+                                user on another Android
+                                device
+                                or using our web-based platform (www.simpleinvoiceweb.com) by providing correct username and password. By creating a cloud
+                                account, you consent to store all
+                                the
+                                data entered by you within the app on our cloud servers. Our cloud servers are in San Francisco, USA. 
+                                
+                              
+                                
+                                It is up to the user to
+                                determine whether the laws of
+                                his
+                                /her country and organization allow him/her to store this data on a cloud server in San Francisco, USA.
+Details entered by user are decided solely by the user, and may include any of his personal details such as name, address,
+                                contacts, clients' details etc.
+                                All
+                                these details are the sole property of the user and at the userâ€™s own discretion. This information is never used for any
+                                marketing purposes and are never
+                                shared
+                                with any third party.
+For the users who have not registered for the cloud Account, the details of invoices generated, clients, products, or any other
+                                information except for those
+                                mentioned above ( in section 1a) , which is asked for within the mobile application while using the mobile application are NOT
+                                stored on any storage media/
+                                server affiliated or owned by Tacktile Systems Private Limited. They are confined to users' device and/or Storage services used
+                                personally by the user
+                                itself.
+                                We thus bear no liability towards privacy / security of this information for those who do not use our cloud services.
+2. Various Files Created / Accessed / Stored by the App and Its Purpose
+The App may create and access the files on your device for the following purpose(s)
+â€¢ Backup and Restore Functionality
+: You can create backups as files and restore them if you
+                                re-install the device. Such files may be transferred to
+                                another
+                                device by you for restoring your data on another device.
+â€¢ Creating PDF / Images / XLS
+format of your information such as Invoices, Estimates, Orders and other similar Documents
+                                or Reports
+â€¢ Logo and Signature
+: User can create an image file for the logo of his organization and an image of his signature. This
+                                logo and signature are
+                                embedded in the
+                                invoices, estimates, orders, reports etc. created by the user using this app.
+â€¢ Log files
+can be generated and uploaded to our server for troubleshooting and for fixing errors related to data in your
+                                app. These log files may
+                                also capture
+                                your usage behavior such as install date, app version, registration date etc. for diagnostic and troubleshooting purpose.
+3. How do we use your information?
+We may use the above information in the following ways:
+â€¢ To Provide Cloud Services to our Paid Subscribers
+â€¢ To allow us to better service you in responding to your customer service requests.
+â€¢ To quickly process your transactions
+â€¢ To resolve any payment or delivery related issues
+â€¢ To process refunds request for orders, when considered reasonable by management
+4. How do we protect your information?
+â€¢ We never ask for credit card details directly within or outside the app, so we do not use vulnerability scanning and/or
+                                scanning to PCI standards.
+â€¢ We do use an SSL certificate for transmission of all data between the device and our servers.
+â€¢ Although we make our best efforts to maintain privacy of your data, you agree to share any data at your own risk, and we
+                                assume no liability in case of any
+                                theft or breach of your data by any malicious use by a 3rd party without our consent.
+5. Third-party disclosure
+We do not knowingly sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information. We however
+                                do use Google Analytics to
+                                Analyse User behaviour and improve the product without collecting any personally identifiable information for the above purpose.
+6. Third-party links
+We do not include or offer third-party products or services on our website. We however do use Google Analytics to Analyse User
+                                behaviour and improve the product
+                                without collecting any personally identifiable information for the above purpose.
+Contact Us
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+Location
+2nd Floor, Plot No 5, Hiwari Layout, Wardhaman Nagar, Opposite Poonam Mall (Inox Movies), Nagpur 440008 (MS), India
+E-mail
+Phone
++91-712-2766150

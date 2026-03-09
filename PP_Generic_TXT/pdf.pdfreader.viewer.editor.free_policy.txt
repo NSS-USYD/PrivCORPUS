@@ -1,0 +1,28 @@
+Privacy Policy
+Privacy Policy for PDF Reader - PDF Viewer
+QR Code Scanner （"we", "us", "our"） is committed to maintaining customer privacy through an ethical performance culture that is based on trust, simplicity and confidence. It is one of SafeAuth 's core principles to secure customer information while using our mobile applications ("products"), and provide privacy protection that is critical in maintaining trust and providing better services.
+We hope the following statement helps you understand how our app handles personally identifiable information that you occasionally provide to us over the Internet (Android platform).
+Generally, we do not collect any personally identifiable information from you when you download and use our application. Specifically, we do not require users to register and log in when using the application, we do not track user visits to our application, and we do not even have servers to store this information.
+Information we collect
+Device
+: When you download and use the SafeAuth, we automatically collect information about the type of device you have downloaded the app on and your device identifier. We collect this to ensure we deliver the right version of the app for your device and so that we can provide appropriate follow up support as necessary.
+Analytics
+: We use a third party analytics tool, Google Analytics, to help us measure traffic and usage trends for the service. Google Analytics collects information such as how often users visit our services, what pages they visit when they do so, and what other pages they use prior to coming to our services. We use the information we get from Google Analytics only to improve our services.
+Usage Data
+: When you use our token to help your login, we may automatically gather your username from your third-party account such as Twitter, Instagram. Permitting us to access this third party information can help you to maximise your App experience, and we will handle any such third-party information in accordance with this Privacy Policy.
+Log file
+: The only situation we may get access to your personally identifiable information is when you personally decide to email us your feedback or to provide us with a bug log report. The personally identifiable information we may get from you in that situation are strictly limited to your name, email address, device information, location Information and your survey response only.
+Notably, we shall only use this information for collecting feedback and improve your experience, and we will not store them in our service.
+App Permission
+In order to make some features available, we need permissions of your devices   below:
+CAMERA PERMISSION - We need to access your phone's camera if you take photos of feedback. This permission is only for sending feedback containing pictures.
+STORAGE PERMISSION - We require access to your storage to save files. This permission is solely for file saving purposes and we will never alter or remove any data from your local media storage.
+ACCESS TO ALL FILES PERMISSION - Our application is a document management tool. In order to assist users in their file search, viewing, and editing needs, authorization is required to scan all files present on the device and manage documents.
+How we use your information
+In the above situation, we guarantee that your personal identifiable information will only be used for contacting you and improving our services. We will never use such information (e.g. your name and email address) for any other purposes, such as to further market our products, or to disclose your personal information to a third party for commercial gains.
+Links to other websites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Children
+These Services do not address anyone under the age of 14. We do not knowingly collect information from children under 14. In the case we discover that a child under 14 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+Contact us
+We welcome your comments or questions regarding this Privacy Policy. Please email us at support@deepthought.industries.

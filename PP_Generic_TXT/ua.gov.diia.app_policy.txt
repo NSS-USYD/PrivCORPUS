@@ -1,0 +1,444 @@
+Повідомлення про обробку персональних даних | Дія
+Повідомлення про обробку персональних даних
+П
+овідомлення про обробку персональних даних
+Privacy Notice
+Відповідно до пунктів 1 і 2 частини другої статті 8, частини другої статті 12 Закону України «Про захист персональних даних» Міністерство цифрової трансформації України повідомляє про володільця, розпорядника, місцезнаходження, склад і мету збору персональних даних, що обробляються за допомогою програмних засобів в мобільному додатку Єдиного державного вебпортал електронних послуг (мобільному додатку Порталу Дія (Дія)), третіх осіб, яким передаються такі персональні дані, та права суб'єкта персональних даних.
+Єдиний державний вебпортал електронних послуг створено та впроваджено в експлуатацію Міністерством цифрової трансформації України на виконання постанови Кабінету Міністрів України від 04 грудня 2019 року № 1137.
+According to Article 8, part 2, paragraphs 1 and 2 and Article 12, part two, of the Law of Ukraine «On Personal Data Protection» the Ministry of Digital Transformation of Ukraine shall inform about the controller, processor, location, composition and collection purposes of personal data to be processed by «Дія» mobile application of the Single State E-Services Web Portal Diia («Diia», ua.gov.diia.app), the third parties whom personal data is transferred to and about the rights of the personal data subject.
+The Single State E-Services Web Portal Diia was created and launched by the Ministry of Digital Transformation of Ukraine following the Decree of the Cabinet of Ministers of Ukraine No.1137 dated December 4, 2019.
+1. Володільцем персональних даних, що обробляються
+за допомогою програмних засобів мобільного додатку Порталу Дія (Дія), є держатель Єдиного державного вебпорталу електронних послуг (далі – Портал Дія) – Міністерство цифрової трансформації України (ідентифікаційний код юридичної особи в Єдиному державному реєстрі підприємств і організацій України – 43220851;
+Володільцями персональних даних користувачів, які зберігаються в державних електронних інформаційних ресурсах, є органи державної влади та місцевого самоврядування, визначені законодавством.
+1. The controller of personal data processed
+by Diia mobile application is the Ministry of Digital Transformation of Ukraine – a holder of the Single State E-Services Web Portal Diia (hereinafter – Portal Diia).  Identification code of the legal entity in the Unified State Register of Enterprises and Organizations of Ukraine – 43220851;
+Controllers of users' personal data stored on state electronic information resources shall be public authorities and local self-governments specified by law.
+2. Розпорядником персональних даних
+є державне підприємство «Дія» (ідентифікаційний код юридичної особи в Єдиному державному реєстрі підприємств і організацій України – 43395033;
+2. The processor of personal data
+is State-owned Enterprise «DIIA» (identification code of the legal entity in the Unified State Register of Enterprises and Organizations of Ukraine – 43395033;
+3. Місцезнаходження персональних даних:
+дата-центр DeNovo.
+3. The location of personal data
+is DeNovo Data Center.
+4. До складу персональних даних
+можуть включатися:
+4. Personal data to be processed
+may include:
+1)
+дані, необхідні для авторизації:
+ім'я, прізвище, по батькові (за наявності);
+реєстраційний номер облікової картки платника податків з Державного реєстру фізичних осіб – платників податків;
+дата народження;
+стать.
+1) Data required for users' authorization:
+Name, Surname, Patronymic (if any);
+Registration number of the taxpayer's registration card from the State Register of Individual Taxpayers;
+Date of birth;
+Sex.
+2) дані, необхідні для відображення інформації про притягнення до адміністративної відповідальності:
+номер та дата постанови;
+статус;
+пільговий період;
+вид правопорушення;
+сума штрафу;
+марка і номер транспортного засобу;
+адреса місця, де було здійснене правопорушення.
+2) Data required for information on administrative offenses display:
+Resolution number and date;
+Status;
+Grace period;
+Type of offense;
+Penalty amount;
+Vehicle model and license plate number;
+Offense commitment address.
+3) дані, необхідні для відображення інформації про виконавчі провадження:
+номер та дата відкриття виконавчого провадження;
+сума боргу;
+стан виконавчого провадження;
+найменування органу державної виконавчої служби (приватного виконавця);
+стягувач.
+3) Data required for information on enforcement proceedings display:
+Enforcement proceedings opening number and date;
+Debt amount;
+Status of enforcement proceedings;
+Name of the authority of the state enforcement service (private enforcement agent);
+Debt collector.
+4)
+дані, необхідні для відображення інформації в електронній формі інформації, що міститься в документах:
+ID
+-картки і закордонного паспорта:
+назва паспорта;
+прізвище, ім'я, по батькові (за наявності) особи українською мовою та латинськими літерами;
+стать;
+дата народження;
+місце народження;
+відцифрований підпис особи;
+відцифрований образ обличчя особи;
+унікальний номер запису в Єдиному державному демографічному реєстрі;
+дата видачі та закінчення строку дії паспорта;
+серія (за наявності) та/або номер паспорта;
+орган, що видав паспорт;
+реєстраційний номер облікової картки платника податків;
+адреса зареєстрованого місця проживання та дата реєстрації.
+Реєстраційного номеру облікової картки платника податків (окремого):
+назва документа;
+прізвище, ім'я, по батькові (за наявності) особи;
+дата народження;
+податковий номер.
+Водійського посвідчення:
+прізвище, ім'я, по батькові (за наявності) особи;
+дата народження;
+дата закінчення строку дії;
+назва (код) установи, яка видала посвідчення;
+серія і номер посвідчення;
+категорія прав;
+відцифрований образ обличчя особи.
+Довідки внутрішньо переміщеної особи:
+прізвище, ім'я, по батькові (за наявності) особи;
+дата народження;
+місце народження;
+стать;
+серія (за наявності) та номер паспорта громадянина України або документа, що посвідчує особу та підтверджує її спеціальний статус;
+найменування органу, який видав паспорт громадянина України або документ, що посвідчує особу та підтверджує її спеціальний статус, дата видачі паспорта або документів;
+відомості про зареєстроване та фактичне місце проживання;
+номер та дата видачі довідки про взяття на облік внутрішньо переміщеної особи;
+найменування органу, який видав довідку про взяття на облік внутрішньо переміщеної особи.
+Свідоцтва про народження:
+прізвище, ім'я, по батькові (за наявності);
+дата народження;
+місце народження;
+номер і дата складення актового запису;
+відомості про батька та матір (прізвище, ім'я, по батькові (за наявності) та громадянство);
+місце державної реєстрації акта цивільного стану (найменування органу державної реєстрації актів цивільного стану);
+найменування органу державної реєстрації актів цивільного стану, що видав свідоцтво;
+дата видачі свідоцтва;
+унікальний номер запису в Єдиному державному демографічному реєстрі (за наявності);
+реєстраційний номер облікової картки платника податків (за наявності);
+серія та номер свідоцтва;
+громадянство/підданство (за наявності в інформаційно-телекомунікаційній системі ДМС);
+адреса зареєстрованого місця проживання та дата його реєстрації (за наявності в інформаційно-телекомунікаційній системі ДМС).
+Студентського квитка:
+тип;
+серія;
+номер;
+статус;
+ким виданий;
+найменування факультету (відділення);
+структурного підрозділу;
+форма навчання;
+дата видачі;
+строк дії;
+цифрова фотографія;
+код (унікальний ідентифікатор) згідно з Єдиною державною електронною базою з питань освіти.
+Дані, необхідні для відображення інформації в електронній формі, що міститься в документах:
+свідоцтво про реєстрацію транспортного засобу, обов'язковий поліс страхування на транспортний засіб.
+4) Data required for display of information from official documents in electronic form:
+ID-card and foreign travel passport:
+Passport name;
+Passport holder Surname, Name, Patronymic (if any) in Ukrainian and with latin letters;
+Sex;
+Date of birth;
+Place of birth;
+Digitized person’s signature;
+Digitized image of a person’s face;
+Unique record number in the Unified State Demographic
+Register;
+Passport issuance and expiration dates;
+Passport series (if available) and/or number;
+Passport issuer;
+Registration number of the taxpayer's registration card;
+Address of registered residence and registration date.
+Registration number of the taxpayer's registration card (separately);
+Document name;
+Surname, name, patronymic (if any) of a holder;
+Date of birth;
+Tax identification number.
+Driver's license:
+Surname, Name, Patronymic (if any) of a holder;
+Date of birth;
+Expiration date;
+Issuer name (code);
+License series and number;
+Driver's license category;
+Digitized image of a person's face.
+Certificates of Internally Displaced Person (IDP):
+Surname, Name, Patronymic (if any) of a holder;
+Date of birth;
+Place of birth;
+Sex;
+Series (if available) and/or number of a Ukrainian citizen passport or other ID document confirming his/her special status;
+Name of the issuer of Ukrainian citizen passport or other ID documents confirming his/her special status;
+Legal and residential addresses;
+Number and date of issuance of the internally displaced person registration certificate;
+Name of an issuer of the internally displaced person registration certificate.
+Birth Certificate:
+Surname, Name, Patronymic (if any) of a holder;
+Date of birth;
+Place of birth;
+Registry record number and date;
+Information about the father and mother (Surname, Name, Patronymic (if any) and citizenship);
+Place of state registration of civil act record (name of a body of state registration of civil acts records);
+Name of a body of state registration of civil acts records that issued the certificate;
+Certificate issuance date;
+Unique record number in the Unified State Demographic Register (if available);
+Registration number of the taxpayer’s registration card (if available);
+Certificate series and number;
+Citizenship/nationality (if available in the State Migration Service (SMS) information and telecommunication system);
+Address of registered residence and registration date (if available in the State Migration Service (SMS) information and telecommunication system).
+Student's card:
+Type;
+Series;
+Number;
+Status;
+Issuer;
+Faculty (department);
+Structural subdivision;
+Enrollment status;
+Issuance date;
+Validity period;
+Digital photo;
+Code (unique identifier) under the Unified State Electronic Database on Education.
+Data required for display of information from official documents in electronic form include:
+vehicle registration certificate and mandatory vehicle insurance certificate.
+5) дані, необхідні для формування віддаленого кваліфікованого електронного підпису Дія Підпис
+:
+ID-картки або закордонного паспорта;
+реєстраційний номер облікової картки платника податків
+відцифрований образ обличчя, особи, що міститься в Єдиному державному демографічному реєстрі;
+фото з використанням фронтальної камери мобільного пристрою.
+Збір прізвища, ім'я, по батькові (за наявності), адреси електронної пошти, дати народження, серії (за наявності) та номера паспорта, місця реєстрації та реєстраційного номера облікової картки платника податків здійснюється під час авторизації (електронної ідентифікації) шляхом використання технології BankID.
+Інші персональні дані збираються шляхом електронної взаємодії з відповідними реєстрами.
+Відображення інформації про особу здійснюється шляхом отримання інформації із відповідних інформаційних систем, зокрема, з Єдиної інформаційної системи Міністерства внутрішніх справ України, Державного реєстру актів цивільного стану громадян, Єдиної інформаційної бази даних про внутрішньо переміщених осіб, Державного реєстру фізичних осіб – платників податків, автоматизованої системи виконавчого провадження, Єдиної державної електронної бази з питань освіти Міністерства освіти та науки України та інформаційної системи Моторного (транспортного) страхового бюро України, Електронної системи охорони здоров'я.
+Порядок інформаційного обміну між зазначеними інформаційними системами визначається законодавством України.
+Під час перевірки документів чи даних особи за допомогою згенерованого QR-коду, здійснюється його зчитування за допомогою камери та QR-рідера мобільного додатку Дія користувача та верифікація даних в реєстрах та системах, вказаних в цьому пункті.
+5) Data required for creation of the remote qualified electronic signature – DiiaID:
+ID-card or foreign travel passport;
+Registration number of the taxpayer's registration card;
+Digitized image of a person’s face contained in the Unified State Demographic Register;
+Photo taken with a front-facing camera of the mobile device.
+Collection of Surname, Name, Patronymic (if available), email address, date of birth, series (if available) and passport number, place of registration and registration number of the taxpayer’s registration card is carried out during the authorization (electronic identification) using BankID technology.
+Other personal data is collected via an electronic interaction with relevant registers.
+Diia mobile application displays the information about a person from relevant information systems, specifically from the Unified Information System of the Ministry of Internal Affairs of Ukraine, the State Register of Civil Acts Records, the Unified Internally Displaced Persons Information Database, the State Register of Individual Taxpayers, the Automated System of Enforcement Proceedings, the Unified State Electronic Database on Education of the Ministry of Education and Science of Ukraine and the Information System of the Motor (Transport) Insurance Bureau of Ukraine, the Electronic Healthcare System.
+The Ukrainian legislation determines the procedure for information exchange between these information systems.
+Documents validation or personal data verification to the data in the registers and systems specified in this paragraph to be done by using the generated QR-code, read using the user's device camera and Diia mobile app QR-reader.
+5. Дані щодо
+Covid
+-19
+З метою формування, засвідчення, видачі, використання та підтвердження чинності COVID-сертифікату та у порядку, передбаченому такими нормативними актами:
+Закон України «Про захист персональних даних»
+;
+«Про захист населення від інфекційних хвороб»
+.
+Постанова Кабінету Міністрів України №677 від 29 червня 2021 року «Деякі питання формування та використання сертифіката, що підтверджує вакцинацію від гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2, негативний результат тестування або одужання особи від зазначеної хвороби»
+;
+Постанова Кабінету Міністрів України № 1236 від 09 грудня 2020 року «Про встановлення карантину та запровадження обмежувальних протиепідемічних заходів з метою запобігання поширенню на території України гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2»
+;
+Постанова Кабінету Міністрів України «Питання Єдиного державного вебпорталу електронних послуг та Реєстру адміністративних послуг»
+.
+Мобільний додаток Дія надає окрему функціональність, для обліку наступних даних:
+вакцинації від гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2;
+негативних результатів тестування або одужання особи від зазначеної хвороби.
+Тип даних, що використовуються:
+прізвище, ім'я власника українською мовою та латинськими літерами;
+дата народження власника;
+інформація про хворобу;
+наявність вакцинації від COVID-19 (інформація про вакцину, кількість доз вакцини відповідно до інструкції для медичного застосування лікарського засобу, порядковий номер отриманої дози вакцини та дата введення останньої дози, країна вакцинації);
+наявність негативного результату тестування на COVID-19 (інформація про тест, дата і час забору зразка біологічного матеріалу та отримання результату дослідження, інформація про суб’єкта господарювання, що має ліцензію на провадження господарської діяльності з медичної практики та провів дослідження);
+наявність факту одужання особи від COVID-19 (дата першого позитивного результату тестування на COVID-19);
+відцифрований образ обличчя особи, що міститься в Єдиному державному демографічному реєстрі (за наявності).
+Даний перелік даних є вичерпним
+та визначений Постановою Кабінету Міністрів України № 677 від 29 червня 2021 року «Деякі питання формування та використання сертифіката, що підтверджує вакцинацію від гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2, негативний результат тестування або одужання особи від зазначеної хвороби».
+Володілець медичних
+(даних стосовно
+COVID-19) даних
+– Національна Служба Здоров'я України, (ідентифікаційний код юридичної особи в Єдиному державному реєстрі підприємств і організацій України – 43220851;
+Розпорядник даних
+—
+Державне підприємство «ДІЯ», що знаходиться у сфері управління Міністерства цифрової трансформації України, та діє на підставі п. 4 Постанови Кабінету Міністрів 677 від 29 червня 2021 року.
+Реалізація прав суб'єкта персональних даних:
+Оскільки володільцем зазначених даних є НСЗУ, реалізацію усіх прав суб'єктів персональних даних можна здійснити через запити до Національної Служби Здоров'я України за контактами, зазначеними вище.
+Спосіб отримання даних
+:
+після надання згоди на передачу даних користувачем, мобільний додаток Дія робить запит до електронної системи охорони здоров'я, володільцем якої є Національна Служба Здоров'я на відображення даних про статус вакцинації, тестування чи факт одужання у мобільному додатку Дія.
+Зберігання даних.
+Дані, які містяться в сертифікаті, що підтверджує вакцинацію від гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2, негативний результат тестування або одужання особи від зазначеної хвороби, передаються з Електронної системи охорони здоров'я та Єдиного державного демографічного реєстру, та зберігаються на особистому мобільному телефоні користувача. Розпорядник не має доступу до даних, переданих з реєстрів.
+Такі персональні дані передаються за згодою особи, яка засвідчена електронним підписом на кваліфікованому сертифікаті електронного підпису та видаляються разом з видаленням мобільного додатку з мобільного пристрою.
+Обмеження щодо використання даних:
+дані, що отримані у порядку роботи пов'язаного з COVID-19 функціоналу, використовуються лише з метою відображення COVID-сертифікатів та не використовуються у будь-якому іншому функціоналі додатку.
+5. COVID-19-related data
+The procedures defined in the following legislative acts shall be followed to form, certify, issue, use, and validate the COVID-certificate:
+Law of Ukraine «On Personal Data Protection»
+;
+«On Protection of Population from Infectious Diseases»
+.
+Decree of the Cabinet of Ministers of Ukraine No.677 dated June 29, 2021 «Some issues of forming and using a certificate confirming vaccination against the severe respiratory disease COVID-19 caused by SARS-CoV-2 coronavirus, a negative test result or recovery of a person from the specified disease
+»
+;
+Decree of the Cabinet of Ministers of Ukraine No.1236 dated December 9, 2020 «On imposing quarantine and introducing restrictive anti-epidemic measures to prevent the spread of severe respiratory disease COVID-19 caused by SARS-CoV-2 coronavirus»
+;
+Decree of the Cabinet of Ministers of Ukraine «Issues of the Single State Web Portal of Electronic Services and the Register of Administrative Services»
+.
+The Diia mobile application provides separate functionality for the following data record-taking:
+Vaccination against acute respiratory disease COVID-19 caused by the coronavirus SARS-CoV-2;
+Person's negative test results or recovery from the specified disease statement.
+Type of data to be used:
+Surname, Name, Patronymic of a holder in Ukrainian and with latin letters;
+Date of birth of a holder;
+Information about the disease;
+Vaccination against COVID-19 (information about the vaccine, number of the vaccine doses according to the usage instructions, serial number of the received vaccine dose and the date of the last vaccine dose, country of vaccination);
+Negative test result for COVID-19 (information about the test, date and time of biological material sampling and test result receiving, information about the entity licensed for medical practice where the test was conducted);
+COVID-19 recovery statement (date of the first positive test result for COVID-19);
+Digitized image of a person's face contained in the Unified State Demographic Register (if available).
+This data list is exhaustive
+and specified by the Decree of the Cabinet of Ministers of Ukraine No.677 dated June 29, 2021 «Some issues of forming and using a certificate confirming vaccination against the acute respiratory disease COVID-19 caused by coronavirus SARS-CoV-2, negative test result or person recovery from the specified disease statement».
+Medical data (Covid-19-related data) controller
+is the National Healthcare Service of Ukraine (identification code of the legal entity in the Unified State Register of Enterprises and Organizations of Ukraine – 43220851;
+address: 19, Stepana Bandery Avenue, Kyiv, 04073, Ukraine;
+contact phone number: +38 (044) 426-67-77;
+e-mail:
+info@nszu.gov.ua
+).
+Personal data processor
+is the State-owned Enterprise «DIIA» supervised by the Ministry of Digital Transformation of Ukraine and operates based on paragraph 4 of the Decree of the Cabinet of Ministers No.677 of June 29, 2021.
+Fulfillment of data subject rights:
+Since the National Healthcare Service of Ukraine is a controller of the specified data, all personal data subject rights may be fulfilled through requests to the National Healthcare Service of Ukraine at the contacts mentioned above.
+Data collection methods:
+After the user provides consent to his/her data usage, Diia mobile application sends a request to the Electronic Healthcare System owned by the National Healthcare Service to display data on vaccination status, testing, or recovery in Diia mobile application.
+Data storage.
+The data contained in the certificate confirming COVID-19 vaccination, a negative test result or disease recovery record , are transmitted from the Electronic Healthcare System and the Unified State Demographic Register and stored on a user’s personal mobile phone. The processor does not have access to the data transferred from the registers.
+Such personal data is transferred upon a person's consent certified by an electronic signature on the qualified electronic signature certificate and can be removed by deleting the mobile application from the mobile device.
+Data usage limitations:
+The data obtained as a part of COVID-19-related functionality are used only to display COVID-19 certificates and are not be used for any other purpose or functionality of the application.
+Передача третім сторонам:
+дані користувача, що стосуються Covid-19 не передаються третім сторонам, окрім авторизованої передачі шляхом генерації та зчитування QR-коду. Кожну таку операцію користувач авторизує самостійно.
+Заходи безпеки:
+передача даних з електронної системи охорони здоров'я на пристрій користувача відбувається за допомогою технології шифрування таких даних. Засвідчення COVID-сертифікатів здійснюється програмними засобами Порталу Дія, зокрема з використанням мобільного додатка Порталу Дія, або програмними засобами, інтегрованими до інформаційної системи уповноваженої установи, із забезпеченням централізованого автоматизованого постачання таких засобів технічним адміністратором Порталу Дія. Формування та засвідчення COVID-сертифікатів здійснюється з використанням форматів та алгоритмів, які відповідають європейським та міжнародним стандартам і специфікаціям та забезпечують інтероперабельність під час підтвердження їх чинності.
+Доступ до камери та файлів для цілей пов'язаних з боротьбою з
+COVID
+-19 не використовується.
+Transfer to third parties:
+user's COVID-19-related data is not transferred to third parties, except for the purpose of an authorized transfer by QR-code generating and reading. A user must authorize each such transfer.
+Security measures:
+Data is transferred from the Electronic Healthcare System to a user's device using data encryption. Verification of COVID-19 certificates is conducted by Portal Diia software, particularly by Diia mobile application or by software integrated into an information system of the authorized institution, conducting the centralized automated provision of such measures by Portal Diia technical administrator. COVID-19 certificates forming and verification are performed by using formats and algorithms that are compliant with the European and international standards and specifications and ensure interoperability during their validity confirmation.
+Camera and file access is not used for COVID-19 combat purposes.
+6. Мета обробки персональних даних, окрім тих, що стосуються
+Covid
+-19
+визначена в нормативно-правових актах, зокрема, Положенні про Єдиний державний вебпортал електронних послуг, затвердженому постановою Кабінету Міністрів України від 04 грудня 2019 року, Положенні про Міністерство цифрової трансформації, затвердженому постановою Кабінету Міністрів України від 18 вересня 2019 року № 856 та інших нормативно-правових актах.
+Метою обробки (збору) персональних даних є
+:
+створення та забезпечення функціонування електронного кабінету суб'єкта персональних даних мобільного додатку Порталу Дія (Дія);
+надання з використанням мобільного додатку Порталу Дія (Дія) електронних послуг, за отриманням яких звертається суб'єкт персональних даних;
+забезпечення доступу суб’єкта персональних даних через його електронний кабінет в мобільному додатку Порталу Дія (Дія) до інформації з інших національних електронних інформаційних ресурсів, зокрема доступу до даних про себе;
+забезпечення сплати суб’єктом персональних даних адміністративного збору за надання адміністративних послуг, штрафів за адміністративні правопорушення, державного мита, інших платежів, а також здійснення розрахунків за інші публічні послуги (зокрема житлово-комунальні) з використанням мобільного додатку Порталу Дія (Дія);
+забезпечення реалізації права суб'єкта персональних даних на оскарження з використанням мобільного додатку Порталу Дія (Дія);
+забезпечення участі суб'єкта персональних даних в опитуваннях щодо ініціатив і проектів у різних сферах суспільного життя, які проводяться з використанням мобільного додатку Порталу Дія (Дія), а також залишення відгуків, запитань чи коментарів суб’єктом персональних даних;
+можливість формування віддаленого кваліфікованого електронного підпису ДіяID.
+6. General purpose of personal data processing, except for those related to COVID-19,
+is defined in the regulations, specifically in the Regulation on the Single State E-Services Web Portal, approved by the Cabinet of Ministers of Ukraine on December 4, 2019, the Regulation on the Ministry of Digital Transformation, approved by the Decree of the Cabinet of Ministers of Ukraine No.856 dated September 18, 2019, and other regulations.
+The purpose of personal data processing is as follows:
+Creation and ensuring the functioning of the data subject's user account within Portal Diia mobile application (Diia);
+Electronic services provision requested by a data subject using Portal Diia mobile application (Diia);
+Ensuring access of a data subject to the information from other national electronic information resources, particularly access to his/her personal data through his/her user account in Portal Diia mobile application (Diia);
+Ensuring that a data subject pays an administrative fee for the provision of administrative services, fines for administrative offenses, state duties, other payments, as well as payments for other public services (including housing and utility payments) through Portal Diia mobile application (Diia);
+Ensuring the exercise of the data subject right to appeal using Portal Diia mobile application (Diia);
+Ensuring the participation of the data subject in surveys on initiatives and projects in various spheres of civic life, which are conducted using Diia mobile application, as well as leaving feedback, questions, or comments by the personal data subject;
+Providing the possibility to generate a remote qualified electronic signature – Diia.Signature.
+7. Третіми особами, яким можуть передаватися персональні дані, що обробляються, є:
+державні органи, органи влади Автономної Республіки Крим, органи місцевого самоврядування, підприємства, установи та організації, що належать до сфери їх управління, виконавці житлово-комунальних послуг, яким персональні дані, що обробляються, передаються згідно з визначеним законодавством порядком взаємодії між мобільним додатком Порталу Дія (Дія) та іншими електронними інформаційними ресурсами;
+учасники/члени платіжних систем в Україні, що забезпечують авторизацію та проведення суб'єктами персональних даних переказу коштів з використанням мобільного додатку Порталу Дія (Дія) та яким персональні дані, що обробляються, передаються для забезпечення проведення такого переказу;
+інші особи, що звертаються до Міністерства цифрової трансформації України, та мають право отримати персональні дані виключно на підставах, визначених законом.
+Передача персональних даних іноземним суб'єктам відносин, пов’язаних з персональними даними (транскордонна передача персональних даних) не здійснюється.
+Доступ до інформації про особу (персональних даних), що формується за допомогою мобільного додатку Порталу Дія (Дія), має лише користувач (суб’єкт персональних даних), який авторизувався у вказаному мобільному додатку у визначеному законодавством порядку, і виключно до тієї інформації, яка стосується такого користувача.
+Суб'єкт персональних даних за власним бажанням може передавати електронну копію та/або підтвердження інформації, що міститься у е-паспорті та/або е-паспорті для виїзду за кордон, до інформаційних систем визначених ним юридичних осіб та фізичних осіб – підприємців, підключених до Порталу Дія.
+Додаток може містити посилання на сторонні вебсервіси. Володілець персональних даних не несе відповідальності за вміст таких сервісів та обробку персональних даних на них. Користувач повинен ознайомлюватись з повідомленням про обробку даних кожного вебсервісу, на який він переходить.
+7
+. Third parties, which data transfers are possible to, are the following:
+State bodies, authorities of the Autonomous Republic of Crimea, local self-governments, enterprises, institutions, and organizations under their supervision, housing and utility services providers, to which personal data is transferred under the interaction procedure between Diia mobile application and other electronic information resources;
+Participants/members of payment systems in Ukraine providing authorization and funds transfers, initiated by personal data subjects in Diia mobile application, and to whom the processed personal data is transferred to ensure such a transfer;
+Other persons who apply to the Ministry of Digital Transformation of Ukraine and have the right to receive personal data only based on the specific legal grounds.
+The transfer of personal data to third countries (cross-border data transfer) does not take place.
+Access to personal data displayed in Diia mobile application has the only user (personal data subject) who signed in to the application as prescribed by law and the access is provided only to the information related to such only user.
+At his/her own discretion, personal data subject may transfer an electronic copy and/or confirmation of information contained in e-passport and/or foreign travel e-passport to the information systems of legal entities and individual entrepreneurs integrated to the Portal Diia.
+The application may contain the links to third-party web services. The data controller is not responsible for the content of such services and personal data processing by them. A user must read the privacy notice of each web service to which he/she goes.
+8. Зберігання персональних даних користувачів
+Персональні дані користувачів мобільного додатку Порталу Дія (Дія), які отримуються ними з реєстрів, не зберігаються, застосовується підхід data-in-transition, згідно з яким дані з реєстрів передаються та зберігаються на мобільному телефоні користувача, а не на сервері. Мінцифри не має доступу до даних, переданих з реєстрів. Такі персональні дані видаляються разом з видаленням цього додатку з мобільного пристрою.
+8. Personal data storage
+Users' personal data displayed by Diia mobile application from the registers are not stored by the application. Diia mobile application uses a data-in-transition approach, when data from the registers are transmitted and stored on the user’s mobile device locally and not on the server. Therefore, the Ministry of Digital Transformation of Ukraine does not have access to data displayed from the registers. Such personal data will be removed when the Diia mobile application is deleted from the mobile device.
+9.
+Використання зовнішнього сховища
+Додаток Дія
+може запитувати дозвіл на читання та використання мобільного зовнішнього сховища користувача виключно з метою зберігання копій документів, що підтверджує надання електронних послуг, а також з метою завантаження фотографій під час створення електронної петиції до місцевих органів влади. Будь-який доступ до зовнішнього сховища користувач підтверджує активною інформованою згодою.
+Користувач самостійно визначає місце збереження даних та типи даних, згенерованих додатком. Додаток Дія не використовує доступ до зовнішнього сховища для будь-яких інших цілей, окрім зазначених у цьому пункті.
+9. External storage use
+Diia mobile application may request the permission to read and use user’s mobile external storage solely for the purpose of documents' copies storing as electronic services provision confirmation, as well as for photo uploading when creating an electronic petition to local authorities. User authorizes any external storage access by his/her own affirmative informed consent.
+A user solely determines the storage location for data generated by Diia mobile application. Diia mobile application does not use access to external storage for any purpose other than specified in this paragraph.
+10. Доступ до камери смартфону
+Додаток Дія може запитувати доступ до камери з метою перевірки документів чи даних користувачів за допомогою сканування QR-коду. Додаток може отримувати доступ до фронтальної камери за дозволом користувача з метою ідентифікації для створення та використання кваліфікованого віддаленого електронного підпису. Обробка даних, зібраних за допомогою фронтальної камери мобільного телефону користувача (Photo ID) здійснюється на підставі Постанови Кабінету Міністрів України від 2 вересня 2020 року № 785 «Про реалізацію експериментального проєкту щодо використання віддаленого кваліфікованого електронного підпису».
+Фото з фронтальної камери використовується для технології розпізнавання обличчя особи шляхом порівняння фотозображення особи, створеного нею за допомогою мобільного додатка Порталу Дія, з відцифрованим образом обличчя відповідної особи Єдиного державного демографічного реєстру (PhotoID). Будь-який доступ до камери користувача дозволяє активною інформованою згодою.
+Доступ до камери не використовується для будь-яких інших цілей, окрім зазначених у цьому пункті.
+10. Access to smartphone camera
+Diia mobile application may request access to the camera for documents validation or user data verification by QR-code scanning. The application can access the front-facing camera with user's permission for identification purposes to create and use a remote qualified electronic signature. Processing of data collected with the user's mobile device front-facing camera (Photo ID) is conducted based on the Decree of the Cabinet of Ministers of Ukraine No. 785 dated September 2, 2020, «On Implementing a Pilot Project on the Use of Remote Qualified Electronic Signature».
+Photo from the front-facing camera is used for face recognition technology and comparison of a person's photo created by him/her using Diia mobile application with the digitized image of a person's face contained in the Unified State Demographic Register (Photo ID). User authorizes any camera access by his/her own affirmative informed consent.
+The camera is not used for any other purposes other than specified in this paragraph.
+11. Доступ до геолокації особи
+Додаток Дія може запитувати відомості про геолокацію особи на момент подання заяви про взяття на облік та включення до Єдиної інформаційної бази даних про внутрішньо переміщених осіб. Відомості про геолокацію не зберігаються та не передаються додатком Дія, а необхідні лише для цілей вказаної послуги.
+Обробка даних здійснюється на підставі Постанови Кабінету Міністрів України від 1 жовтня 2014 року № 509 “Про облік внутрішньо переміщених осіб”, якою затверджено Порядок оформлення і видачі довідки про взяття на облік внутрішньо переміщеної особи (із змінами, затвердженими Постановою Кабінету Міністрів України від 20 березня 2022 року № 332 “Деякі питання виплати допомоги на проживання внутрішньо переміщеним особам”).
+Для подання заяви особі необхідно, серед іншого, встановити Додаток Дія на електронний пристрій, критерії якого підтримують використання такого додатка, підключений до Інтернету, із увімкненою функцією геолокації.
+Під час подання заяви особі приходить сповіщення щодо необхідності надання доступу до геолокації для підтвердження місця перебування. Особа перед наданням дозволу ознайомлюється з текстом такого змісту:
+«Надати «Дії» одноразовий доступ до геолокації?
+Надайте доступ Дії до геолокації, для підтвердження місця перебування. Таким чином, Дія перевірить достовірність адреси, зазначеної як поточна. Геолокація не використовуватиметься для будь-яких інших цілей.
+Дія може запитувати доступ до геолокації з метою перевірки достовірність адреси, зазначеної як поточна.
+ВАЖЛИВО!!! Геолокація не використовуватиметься для будь-яких інших цілей».
+Після надання особою дозволу доступ до геолокації особи використовується Додатком Дія для підтвердження достовірності вказаного особою у заяві місця перебування.
+Відомості про геолокацію не використовуються для будь-яких інших цілей чи послуг, окрім зазначених у цьому пункті.
+11. Acces to personal geolocation
+Diia mobile application may request information about personal geolocation at the moment of application for registration and inclusion in the Unified Information Database on Internally Displaced Persons.
+Information about personal geolocation is not stored or transmitted by Diia mobile application, but is needed only for the purposes of this specified service.
+Processing of data is conducted based on the Decree of the Cabinet of Ministers of Ukraine No. 509 dated October 1, 2014, “On registration of internally displaced persons”, which approved the Procedure of registration and issuance of a certificate of registration of an internally displaced person (as amended by the Decree of the Cabinet of Ministers of Ukraine No. 332 dated March 20, 2022, “Some issues of payment for accommodation assistance to internally displaced persons”).
+To submit an application, a person should, among other things, install Diia mobile application on electronic device, criteria for which support the use of such an application, connected to the Internet, with the geolocation function enabled.
+When submitting the application, the person is notified of the need to provide access to the geolocation to confirm the current location. Before granting permission, the person reads the text of the following content:
+“Provide Diia with one-time access to geolocation?
+Provide Diia access to the geolocation to confirm your current location. Thus, Diia will verify the address specified as the current one. Geolocation will not be used for any other purpose.
+Diia may request access to the geolocation to verify the address specified as the current one.
+IMPORTANTLY!!! Geolocation will not be used for any other purpose”.
+After person has given permission, access to the personal geolocation is used by Diia mobile application to confirm the credibility of the location indicated by the person in application.
+Geolocation information shall not be used for any purpose or service other than that specified in this paragraph.
+12. Згідно з частиною другою статті 8 Закону України «Про захист персональних даних» суб'єкт персональних даних має право:
+1) знати про джерела збирання, місцезнаходження своїх персональних даних, мету їх обробки, місцезнаходження або місце проживання (перебування) володільця чи розпорядника персональних даних або дати відповідне доручення щодо отримання цієї інформації уповноваженим ним особам, крім випадків, встановлених законом;
+2) отримувати інформацію про умови надання доступу до персональних даних, зокрема інформацію про третіх осіб, яким передаються його персональні дані;
+3) на доступ до своїх персональних даних;
+4) отримувати не пізніше як за тридцять календарних днів з дня надходження запиту, крім випадків, передбачених законом, відповідь про те, чи обробляються його персональні дані, а також отримувати зміст таких персональних даних;
+5) пред'являти вмотивовану вимогу володільцю персональних даних із запереченням проти обробки своїх персональних даних;
+6) пред'являти вмотивовану вимогу щодо зміни або знищення своїх персональних даних будь-яким володільцем та розпорядником персональних даних, якщо ці дані обробляються незаконно чи є недостовірними;
+7) на захист своїх персональних даних від незаконної обробки та випадкової втрати, знищення, пошкодження у зв’язку з умисним приховуванням, ненаданням чи несвоєчасним їх наданням, а також на захист від надання відомостей, що є недостовірними чи ганьблять честь, гідність та ділову репутацію фізичної особи;
+8) звертатися із скаргами на обробку своїх персональних даних до Уповноваженого Верховної Ради України з прав людини або до суду;
+9) застосовувати засоби правового захисту в разі порушення законодавства про захист персональних даних;
+10) знати механізм автоматичної обробки персональних даних;
+11) на захист від автоматизованого рішення, яке має для нього правові наслідки.
+1
+2. Under Article 8, part 2 of the Law of Ukraine «On Personal Data Protection», the data subject has the right to:
+1) Know about his/her personal data sources of collection, location, purpose of their processing, personal data controllers or processors location or place of residence (stay) or give a respective instruction to authorized persons to obtain this information, except as provided by law;
+2) Receive information about the conditions for granting access to personal data, particularly information about third parties to whom his personal data is transferred;
+3) Access his/her personal data;
+4) Receive an answer to requests whether his/her personal data is processed no later than (30) thirty calendar days from the request date of receipt, except as provided by law, as well as receive such personal data content;
+5) Make a reasoned request to personal data controller with an objection against his/her personal data processing;
+6) Make a reasoned request to his/her personal data change or destroy by any personal data controller and processor if such data is processed illegally or is inaccurate;
+7) Protect his/her personal data from unlawful processing and accidental loss, destruction, damage due to intentional concealment, non-provision or untimely provision, as well as to protect from providing information that is inaccurate or discredits honor, dignity and business reputation of an individual;
+8) Appeal to the Commissioner for Human Rights of the Verkhovna Rada of Ukraine or the court with complaints about the processing of their personal data;
+9) Exercise legal remedies in case of violation of the personal data protection legislation;
+10) Know the mechanism of automatic processing of personal data;
+11) Be protected against an automated decision that has legal consequences for him/her.
+13. Вікові обмеження
+Мобільний додаток Єдиного державного вебпорталу електронних послуг (мобільний додаток «Дія») не призначений для використання малолітніми особами, до досягнення ними 14-річного віку.
+У випадку використання додатку особою до досягнення нею зазначеного віку, відповідальність за дії такої особи несуть її батьки (усиновлювачі), або опікуни чи інші фізичні особи, які на законних підставах здійснюють виховання малолітньої особи.
+13. Age limits
+The mobile application of the Single State E-Services Web Portal (Diia mobile application) is not intended for use by minors until they reach 14 years of age.
+In case a person uses the application before the specified age, the person's parents (legal representatives), or guardians, or other individuals who are legally upbringing a minor shall be responsible for his/her actions.
+14. Запити
+Ви можете звертатися до володільцев своїх персональних даних у випадках, визначених Законом України «Про захист персональних даних».
+14. Requests
+You can submit requests to the controllers of your personal data in cases specified by the Law of Ukraine «On Personal Data Protection».
+15. Дана версія повідомлення є актуальною та застосовується з 01.08.2021 року.»
+15. Current version of the privacy notice is valid tive as of August 1, 2.»

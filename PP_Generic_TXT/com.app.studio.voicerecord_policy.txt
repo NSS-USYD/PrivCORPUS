@@ -1,0 +1,21 @@
+Voice recorder
+Search this site
+Skip to main content
+Skip to navigation
+Voice recorder
+Privacy policy
+Voice recorder
+personal information
+Voice recorder
+with your privacy in mind, so the app does not collect personally identifiable information about you. In other words, we do not collect information.
+Permission requests:
+Explaining for some permission requests:
+In
+Voice recorder
+, The app requests some sensitive permissions to make functions of application work properly:
+android.permission.STORAGE android.permission.READ_EXTERNAL_STORAGE android.permission.WRITE_EXTERNAL_STORAGE: to save files on storage (internal and external)
+android.permission.RECORD_AUDIO: to use microphone to record voice as the main feature of the app described
+android.permission.READ_PHONE_STATE: to detect incomming calls to handle voice recording properly, pause and save recording when user pick up the call. Auto recording when ending call.
+Report abuse
+Google Sites
+Report abuse
