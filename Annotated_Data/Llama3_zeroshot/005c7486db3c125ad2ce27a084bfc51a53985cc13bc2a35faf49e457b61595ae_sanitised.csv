@@ -1,0 +1,117 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,MyTransit App ,14,<error>,<error>
+PRIVACY POLICY,Privacy Policy,100.0,14,main,"Privacy PolicyPRIVACYPOLICYThis privacy policy governs the use of the softwareapplication “MyTransit” (“Application”) for mobiledevices. We developed this documentin order foryouto understand how we collect, use, communicate, disclose and make use ofpersonal information. Unless otherwise specified, terms used in this PrivacyPolicy have the same meanings as in our Terms and Conditions.",387,<generic>,<error>
+User Provided Information,User Provided Information,100.0,412,main,User Provided Information,25,<generic>,<error>
+"The Application obtains the information you provide when you download, use and or register for the Application.","The Application obtains the information you provide when you
+download, use and or register for the Application.",99.09909909909909,438,sub,"The Application obtains the information you provide when youdownload, use and or register for the Application. ",111,<first>,<error>
+"Registration with us may be optional, however please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.","Registration with us may be
+optional, however please keep in mind that you may not be able to use some of
+the features offered by the Application unless you register with us.",98.85057471264368,550,sub,"Registration with us may beoptional, however please keep in mind that you may not be able to use some ofthe features offered by the Application unless you register with us.",172,<first>,<error>
+"When you register with us and use the Application, you may generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help and; (d) information you enter into our system when using the Application, such as contact information or any other user entered information.","When you register with us and use the Application, you may
+generally provide (a) your name, email address, age, user name, password and
+other registration information; (b) transaction-related information, such as
+when you make purchases, respond to any offers, or download or use applications
+from us; (c) information you provide us when you contact us for help and; (d)
+information you enter into our system when using the Application, such as contact
+information or any other user entered information.",98.80715705765407,725,sub,"When you register with us and use the Application, you maygenerally provide (a) your name, email address, age, user name, password andother registration information; (b) transaction-related information, such aswhen you make purchases, respond to any offers, or download or use applicationsfrom us; (c) information you provide us when you contact us for help and; (d)information you enter into our system when using the Application, such as contactinformation or any other user entered information.",497,<first>,<error>
+"We may also use the information you provided us to contact your from time to time to provide you with important information, required notices, app updates and improvements, news and marketing promotions.","We may also use the information you provided us to contact
+your from time to time to provide you with important information, required
+notices, app updates and improvements,
+news
+and
+marketing promotions.",97.53694581280789,1229,sub,"We may also use the information you provided us to contactyour from time to time to provide you with important information, requirednotices, app updates and improvements,newsandmarketing promotions.",198,<first>,<error>
+Automatically Collected Information,Automatically Collected Information,100.0,1433,main,Automatically Collected Information,35,<generic>,<error>
+"Application may collect certain information automatically in order to: show transit and safety alert notifications, predict delays, show relevant transit details, provide travel directions, determine navigation and routes, determine your current location, determine the city you are located within, determine your location relative to or within third party locations, displaying a location map and other relevant or location based information, improve user experience, operate and improve our services, provide user and other support including to our third-party business partners, provide you with information when you enter or leave locations, to personalize user experience and content provided to you, to improve user interface, and carry out other purposes that are disclosed to you and to which you consent.","Application may collect certain information automatically in
+order to: show transit and safety alert notifications, predict delays, show
+relevant transit details, provide travel directions, determine navigation and
+routes, determine your current location, determine the city you are located
+within, determine your location relative to or within third party locations,
+displaying a location map and other relevant or location based information, improve
+user experience, operate and improve our services, provide user and other
+support including to our third-party business partners, provide you with
+information when you enter or leave locations, to personalize user experience
+and content provided to you, to improve user interface, and carry out other
+purposes that are disclosed to you and to which you consent.",98.76998769987699,1469,sub,"Application may collect certain information automatically inorder to: show transit and safety alert notifications, predict delays, showrelevant transit details, provide travel directions, determine navigation androutes, determine your current location, determine the city you are locatedwithin, determine your location relative to or within third party locations,displaying a location map and other relevant or location based information, improve",446,<third>,<error>
+"Application may collect certain information automatically in order to: show transit and safety alert notifications, predict delays, show relevant transit details, provide travel directions, determine navigation and routes, determine your current location, determine the city you are located within, determine your location relative to or within third party locations, displaying a location map and other relevant or location based information, improve user experience, operate and improve our services, provide user and other support including to our third-party business partners, provide you with information when you enter or leave locations, to personalize user experience and content provided to you, to improve user interface, and carry out other purposes that are disclosed to you and to which you consent.","Application may collect certain information automatically in
+order to: show transit and safety alert notifications, predict delays, show
+relevant transit details, provide travel directions, determine navigation and
+routes, determine your current location, determine the city you are located
+within, determine your location relative to or within third party locations,
+displaying a location map and other relevant or location based information, improve
+user experience, operate and improve our services, provide user and other
+support including to our third-party business partners, provide you with
+information when you enter or leave locations, to personalize user experience
+and content provided to you, to improve user interface, and carry out other
+purposes that are disclosed to you and to which you consent.",98.76998769987699,1469,sub,"user experience, operate and improve our services, provide user and othersupport including to our third-party business partners, provide you withinformation when you enter or leave locations, to personalize user experienceand content provided to you, to improve user interface, and carry out otherpurposes that are disclosed to you and to which you consent.",357,<third>,<error>
+"Application may collect certain information automatically, even if you are not logged in to the Application, including but not limited to: the type of mobile device you use; your device's make and model; your device's operating system; your mobile device’s unique device ID or other unique identifier; the IP address of your mobile device; information about the way you use the Application; your geo-location; advertising identifier or similar identifier information; information about your use of features, functions, or notifications on the device; signal strengths; temperature; battery level; mobile web browser used and other similar technical data.","Application may collect certain information automatically,
+even if you are not logged in to the Application, including but not limited to:
+the type of mobile device you use; your device's make and model; your device's
+operating system; your mobile device’s unique device ID or other unique identifier;
+the IP address of your mobile device; information about the way you use the
+Application; your geo-location; advertising identifier or similar identifier
+information; information about your use of features, functions, or
+notifications on the device; signal strengths; temperature; battery level;
+mobile web browser used and other similar technical data.",98.77675840978594,2283,sub,"Application may collect certain information automatically,even if you are not logged in to the Application, including but not limited to:the type of mobile device you use; your device's make and model; your device'soperating system; your mobile device’s unique device ID or other unique identifier;the IP address of your mobile device; information about the way you use theApplication; your geo-location; advertising identifier or similar identifier",449,<third>,<error>
+"Application may collect certain information automatically, even if you are not logged in to the Application, including but not limited to: the type of mobile device you use; your device's make and model; your device's operating system; your mobile device’s unique device ID or other unique identifier; the IP address of your mobile device; information about the way you use the Application; your geo-location; advertising identifier or similar identifier information; information about your use of features, functions, or notifications on the device; signal strengths; temperature; battery level; mobile web browser used and other similar technical data.","Application may collect certain information automatically,
+even if you are not logged in to the Application, including but not limited to:
+the type of mobile device you use; your device's make and model; your device's
+operating system; your mobile device’s unique device ID or other unique identifier;
+the IP address of your mobile device; information about the way you use the
+Application; your geo-location; advertising identifier or similar identifier
+information; information about your use of features, functions, or
+notifications on the device; signal strengths; temperature; battery level;
+mobile web browser used and other similar technical data.",98.77675840978594,2283,sub,"information; information about your use of features, functions, ornotifications on the device; signal strengths; temperature; battery level;mobile web browser used and other similar technical data.",197,<third>,<error>
+Information Sharing,Information Sharing,100.0,2938,main,Information Sharing,19,<third>,<error>
+"We may disclose user provided and automatically collected information: as required by law, such as to comply with a subpoena, or similar legal process;","We may disclose user provided and automatically collected
+information: as required by law, such as to comply with a subpoena, or similar
+legal
+process;",98.01324503311258,2958,sub,"We may disclose user provided and automatically collectedinformation: as required by law, such as to comply with a subpoena, or similarlegalprocess;",148,<third>,<error>
+"When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;","When we believe in good faith that disclosure is necessary to
+protect our rights, protect your safety or the safety of others, investigate
+fraud, or respond to a government
+request;",98.34254143646409,3110,sub,"When we believe in good faith that disclosure is necessary toprotect our rights, protect your safety or the safety of others, investigatefraud, or respond to a governmentrequest;",178,<error>,<error>
+With our trusted services providers who work on our behalf and have agreed to adhere to the rules set forth in this privacy statement;,"With our trusted services providers who work on our behalf and
+have agreed to adhere to the rules set forth in this privacy
+statement;",98.50746268656717,3292,sub,With our trusted services providers who work on our behalf andhave agreed to adhere to the rules set forth in this privacystatement;,132,<error>,<error>
+We may share the information we collect only with third-party business partners who commit to comply with applicable laws concerning their usage of the information.,"We may share the information we collect only with third-party
+business partners who commit to comply with applicable laws concerning their
+usage of the information.",98.78048780487805,3427,sub,"We may share the information we collect only with third-partybusiness partners who commit to comply with applicable laws concerning theirusage of the information. Our third-party business partners may share theinformation with their own third party business partners and use theinformation either for themselves or on behalf of their own business partnersto: operate and improve their services; provide you with advertisements andinformation for products and services in this app or on other apps or websites,",509,<error>,<error>
+We may share the information we collect only with third-party business partners who commit to comply with applicable laws concerning their usage of the information.,"We may share the information we collect only with third-party
+business partners who commit to comply with applicable laws concerning their
+usage of the information.",98.78048780487805,3427,sub,"and assess your level of engagement with them; use anonymized aggregated devicedata for analytics or market research; and carry out other purposes that aredisclosed to you and to which you consent. We reserve the right to share yourinformation with third parties including but not limited to ways that aredescribed in this document.If MyTransit is involved in a merger, acquisition, or sale ofall or a portion of its assets, you may be notified via email and/or a",463,<error>,<error>
+We may share the information we collect only with third-party business partners who commit to comply with applicable laws concerning their usage of the information.,"We may share the information we collect only with third-party
+business partners who commit to comply with applicable laws concerning their
+usage of the information.",98.78048780487805,3427,sub,"prominent notice on our Web site of any change in ownership or uses of thisinformation, as well as any choices you may have regarding this information.",151,<error>,<error>
+Opt-Out Rights,Opt-Out Rights,100.0,4566,main,Opt-Out Rights,14,<error>,<error>
+You can stop all collection of information by the Application easily by uninstalling the Application.,"You can stop all collection of information by the Application
+easily by uninstalling the Application.",99.00990099009901,4581,sub,You can stop all collection of information by the Applicationeasily by uninstalling the Application.,100,<error>,<error>
+You may also use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.,"You may also use the standard uninstall processes as may be
+available as part of your mobile device or via the mobile application
+marketplace or network.",98.69281045751634,4683,sub,You may also use the standard uninstall processes as may beavailable as part of your mobile device or via the mobile applicationmarketplace or network.,151,<error>,<error>
+You may also be able to adjust your settings on your mobile device to prevent collection of location-based information by disabling location services or permissions.,"You may also be able to adjust your settings on your mobile
+device to prevent collection of location-based information by disabling
+location services or permissions.",98.7878787878788,4837,sub,You may also be able to adjust your settings on your mobiledevice to prevent collection of location-based information by disablinglocation services or permissions. Some Application features and / or screensthat depend on location information may not function as expected or appeardisabled.,289,<error>,<error>
+Data Retention Policy,Data Retention Policy,100.0,5131,main,Data Retention Policy,21,<error>,<error>
+We may retain user provided data indefinitely.,We may retain user provided data indefinitely.,100.0,5153,sub,We may retain user provided data indefinitely. ,47,<error>,<error>
+Please note that some of the user provided data and automatically collected information may be required in order for the Application to function properly.,"Please note that
+some of the user provided data and automatically collected information may be
+required
+in order for
+the Application to function
+properly.",96.75324675324676,5200,sub,Please note thatsome of the user provided data and automatically collected information may berequiredin order forthe Application to functionproperly.,149,<error>,<error>
+Security,Security,100.0,5355,main,Security,8,<error>,<error>
+We are always concerned about safeguarding the confidentiality of your information.,"We are always concerned about safeguarding the confidentiality
+of your information.",98.79518072289156,5364,sub,We are always concerned about safeguarding the confidentialityof your information. ,83,<error>,<error>
+"We provide physical, electronic, and procedural safeguards to protect information we process and maintain.","We provide physical, electronic, and procedural safeguards
+to protect information we process and maintain.",99.05660377358491,5448,sub,"We provide physical, electronic, and procedural safeguardsto protect information we process and maintain.For example, we may limit access to this information only toauthorized employees, contractors, partners and trusted third parties. Pleasebe aware that, although we strive to provide reasonable security forinformation we process and maintain, no security system can prevent allpotential security breaches.",409,<error>,<error>
+Changes,Changes,100.0,5864,main,Changes,7,<error>,<error>
+This Privacy Policy may be updated from time to time for any reason.,"This Privacy Policy may be updated from time to time for any
+reason.",98.52941176470588,5872,sub,This Privacy Policy may be updated from time to time for anyreason. ,68,<error>,<error>
+We may notify you of any changes to our Privacy Policy by posting the new Privacy Policy.,"We may notify you of any changes to our Privacy Policy by posting the
+new Privacy Policy.",98.87640449438202,5941,sub,"We may notify you of any changes to our Privacy Policy by posting thenew Privacy Policy. You are advised to consult this Privacy Policy regularlyfor any changes, as continued use is deemed approval of all changes.",213,<error>,<error>
+Your Consent,"Your
+Consent",91.66666666666666,6157,main,YourConsent,11,<error>,<error>
+"By using the Application, you are consenting to our processing of your information as set forth in this document now and as amended by us.","By using the Application, you are
+consenting to our processing of your information as set forth in this document
+now and as amended by us.",98.55072463768117,6170,sub,"By using the Application, you areconsenting to our processing of your information as set forth in this documentnow and as amended by us.ContactUsIf you have any questions regardingprivacy while using the Application, or have questions about our practices,please ",262,<error>,<error>
+Contact Us,contact us,100.0,6439,main,contact us via email atinfo@MyTrans.it,38,<error>,<error>

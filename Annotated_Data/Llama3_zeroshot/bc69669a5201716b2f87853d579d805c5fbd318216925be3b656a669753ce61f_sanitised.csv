@@ -1,0 +1,12 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy PolicyPrivacy Policy,28,<error>,<error>
+Applies to the use of Tayasui Websites and Apps.,Applies to the use of Tayasui Websites and Apps.,100.0,30,main,Applies to the use of Tayasui Websites and Apps.,48,<generic>,<error>
+For all Tayasui applications,For all Tayasui applications,100.0,79,main,For all Tayasui applications :- No account creation is required- No personal data is collected.,95,<generic>,<what>
+Through the use of iOS,Through the use of iOS,100.0,177,main,"Through the use of iOS, some technical data can be collected :The type of mobile device, the mobile device unique ID, the mobile operating system, the unique device identifiers and other diagnostic data.This data may be used for this purposes:To provide customer supportTo monitor the usage of the AppTo detect and address technical issues",339,<generic>,<how-gathered>
+Links to Other Websites,Links to Other Websites,100.0,522,main,"Links to Other WebsitesThis website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you  review the privacy policy of every website you visit, whether or not they are linked to by our own site.",417,<third>,<what>
+Changes,Changes,100.0,941,main,"ChangesTayasui reserves the right to make amendments to this Privacy Policy at any time. If you have objections to the Privacy Policy, you should not access or use the Sites or the Applications.",194,<change>,<when>
+Contact Us,Contact Us,100.0,1137,main,Contact UsIf you have any questions ,36,<contact>,<how-gathered>
+About,about,100.0,1174,main,"about these Terms, please ",26,<generic>,<other>
+Contact,contact,100.0,1200,main,contact us at com@tayasui.comThis ,34,<contact>,<how-gathered>
+Privacy,privacy,100.0,1235,main,privacy policy was last updated on August 1st 2022.Illustration by Ilias SounasAboutContactPrivacy,98,<generic>,<other>
+Facebook,Facebook,100.0,1338,main,Facebook* tayasuijapanese word meaningâ€œeasy and simpleâ€,59,<third>,<other>

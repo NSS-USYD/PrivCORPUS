@@ -1,0 +1,12 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,voice recorderSearch this siteSkip to main contentSkip to navigationvoice recorder,82,<error>,<error>
+Privacy policy,Privacy policy,100.0,87,main,Privacy policy,14,<error>,<error>
+Personal information,Personal information,100.0,102,sub,Personal information,20,<error>,<error>
+"We made Apps with your privacy in mind, so we do not collect personally identifiable information about you.","We made Apps with your privacy in mind, so we do not collect personally identifiable information about you.",100.0,123,sub,"We made Apps with your privacy in mind, so we do not collect personally identifiable information about you. ",108,<generic>,<error>
+"In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.","In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.",100.0,231,sub,"In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.",133,<first>,<error>
+Explains for some permission requests,Explains for some permission requests,100.0,365,sub,"Explains for some permission requestsin my application, I request somes sensitive permissions to make functions of application work properly:",141,<not>,<how-gathered>
+android.permission.RECORD_AUDIO,android.permission.RECORD_AUDIO,100.0,508,sub,android.permission.RECORD_AUDIO: to use microphone to record voice as the main feature of the app described,107,<not>,<error>
+android.permission.STORAGE,android.permission.STORAGE,100.0,616,sub,android.permission.STORAGE ,27,<not>,<error>
+android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,100.0,643,sub,android.permission.WRITE_EXTERNAL_STORAGE ,42,<not>,<error>
+android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,100.0,685,sub,android.permission.READ_EXTERNAL_STORAGE: to save files on storage (internal and external),90,<not>,<error>
+android.permission.READ_PHONE_STATE,android.permission.READ_PHONE_STATE,100.0,776,sub,"android.permission.READ_PHONE_STATE: to detect incomming calls to handle voice recording properly, stop and save recording when user pick up the call.Report abuseGoogle SitesReport abuse",186,<not>,<error>

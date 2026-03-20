@@ -1,0 +1,84 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Bruno MirabelSkip to main contentSearch This BlogBruno MirabelBruno MirabelGet linkFacebookTwitterPinterestEmailOther AppsApril 19, 2022Brovo developerbuiltTools and Productive Categoryappsas a Free app. This SERVICE is provided byBrovo developerat no cost and is intended for use as is.This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.",449,<error>,<error>
+,,-1.0,0,,"If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information thatwecollect is used for providing and improving the Service.Wewill not use or share your information with anyone except as described in this Privacy Policy.The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessiblein appsunless otherwise defined in this Privacy Policy.",468,<error>,<error>
+Information Collection and Use,Information Collection and Use,100.0,946,main,Information Collection and Use,30,<generic>,<error>
+"For a better experience, while using our Service, We may require you to provide us with certain personally identifiable information.","For a better experience, while using our Service,
+We
+may require you to provide us with certain personally identifiable information.",98.48484848484848,977,sub,"For a better experience, while using our Service,Wemay require you to provide us with certain personally identifiable information. ",131,<error>,<why>
+The information that I request will be retained on your device and is not collected by us in any way.,"The information that I request will be retained on your device and is not collected by
+us
+in any way.",98.01980198019803,1110,sub,The information that I request will be retained on your device and is not collected byusin any way.,99,<first>,<what>
+The app does use third party services that may collect information used to identify you.,The app does use third party services that may collect information used to identify you.,100.0,1212,sub,The app does use third party services that may collect information used to identify you.,88,<third>,<error>
+Link to privacy policy of third party service providers used by the app,Link to privacy policy of third party service providers used by the app,100.0,1301,sub,Link to privacy policy of third party service providers used by the app,71,<third>,<error>
+· Google Play Services,"·
+Google Play Services",95.45454545454545,1373,sub,·Google Play Services,21,<error>,<error>
+· AdMob,"·
+AdMob",85.71428571428572,1396,sub,·AdMob,6,<error>,<error>
+· Google Analytics for Firebase,"·
+Google Analytics for Firebase",96.7741935483871,1404,sub,·Google Analytics for Firebase,30,<error>,<error>
+· Facebook,"·
+Facebook",90.0,1436,sub,·Facebook,9,<error>,<error>
+Log Data,Log Data,100.0,1447,main,Log Data,8,<generic>,<what>
+"We want to inform you that whenever you use our Service, in a case of an error in the app We collect data and information (through third party products) on your phone called Log Data.","We
+want to inform you that whenever you use our Service, in a case of an error in the app
+We
+collect data and information (through third party products) on your phone called Log Data.",98.36065573770492,1456,sub,"Wewant to inform you that whenever you use our Service, in a case of an error in the appWecollect data and information (through third party products) on your phone called Log Data. ",181,<error>,<how-used>
+"This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.","This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",100.0,1640,sub,"This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",255,<first>,<what>
+Cookies,Cookies,100.0,1896,main,Cookies,7,<tracking>,<what>
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.,Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.,100.0,1904,sub,Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. ,102,<generic>,<what>
+These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,100.0,2006,sub,These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,112,<not>,<how-gathered>
+This Service does not use these “cookies” explicitly.,This Service does not use these “cookies” explicitly.,100.0,2119,sub,This Service does not use these “cookies” explicitly. ,54,<generic>,<error>
+"However, the app may use third party code and libraries that use “cookies” to collect information and improve their services.","However, the app may use third party code and libraries that use “cookies” to collect information and improve their services.",100.0,2173,sub,"However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. ",126,<third>,<how-used>
+You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device.,You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device.,100.0,2299,sub,"You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",208,<choice>,<error>
+Service Providers,Service Providers,100.0,2508,main,Service Providers,17,<third>,<error>
+We may employ third-party companies and individuals due to the following reasons:,"We
+may employ third-party companies and individuals due to the following reasons:",98.76543209876543,2526,sub,Wemay employ third-party companies and individuals due to the following reasons:,80,<generic>,<how-gathered>
+· To facilitate our Service;,"·
+To facilitate our Service;",96.42857142857143,2608,sub,·To facilitate our Service;,27,<third>,<error>
+· To provide the Service on our behalf;,"·
+To provide the Service on our behalf;",97.43589743589743,2637,sub,·To provide the Service on our behalf;,38,<third>,<error>
+· To perform Service-related services; or,"·
+To perform Service-related services; or",97.5609756097561,2677,sub,·To perform Service-related services; or,40,<third>,<error>
+· To assist us in analyzing how our Service is used.,"·
+To assist us in analyzing how our Service is used.",98.07692307692307,2719,sub,·To assist us in analyzing how our Service is used.,51,<third>,<error>
+We want to inform our users of this Service that these third parties have access to your Personal Information.,"We
+want to inform
+our
+users of this Service that these third parties have access to your Personal Information.",97.27272727272728,2772,sub,"Wewant to informourusers of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",264,<generic>,<how-used>
+Security,Security,100.0,3040,main,Security,8,<security>,<error>
+"I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.","I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.",100.0,3049,sub,"I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. ",138,<generic>,<how-used>
+"But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.","But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and
+we
+cannot guarantee its absolute security.",98.82352941176471,3187,sub,"But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, andwecannot guarantee its absolute security.",168,<security>,<error>
+Links to Other Sites,Links to Other Sites,100.0,3358,main,Links to Other Sites,20,<generic>,<error>
+This Service may contain links to other sites.,This Service may contain links to other sites.,100.0,3379,sub,This Service may contain links to other sites. ,47,<third>,<error>
+"If you click on a third-party link, you will be directed to that site.","If you click on a third-party link, you will be directed to that site.",100.0,3426,sub,"If you click on a third-party link, you will be directed to that site.",70,<third>,<error>
+Note that these external sites are not operated by us.," Note that these external sites are not operated by
+us",96.2962962962963,3496,sub, Note that these external sites are not operated byus. ,55,<generic>,<error>
+"Therefore, I strongly advise you to review the Privacy Policy of these websites.","Therefore, I strongly advise you to review the Privacy Policy of these websites.",100.0,3553,sub,"Therefore, I strongly advise you to review the Privacy Policy of these websites.",80,<access>,<error>
+"We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.","We
+have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",99.27536231884058,3634,sub,"Wehave no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",137,<generic>,<error>
+Children’s Privacy,Children’s Privacy,100.0,3773,main,Children’s Privacy,18,<audience>,<error>
+These Services do not address anyone under the age of 13.,These Services do not address anyone under the age of 13.,100.0,3792,sub,These Services do not address anyone under the age of 13.,57,<error>,<error>
+We do not knowingly collect personally identifiable information from children under 13 years of age.,"We
+do not knowingly collect personally identifiable information from children under 13 years of age.",99.0,3850,sub,Wedo not knowingly collect personally identifiable information from children under 13 years of age. ,100,<error>,<error>
+"In the case we discover that a child under 13 has provided me with personal information, we immediately delete this from our servers.","In the case
+we
+discover that a child under 13 has provided me with personal information,
+we
+immediately delete this from our servers.",96.99248120300751,3951,sub,"In the casewediscover that a child under 13 has provided me with personal information,weimmediately delete this from our servers. ",130,<error>,<error>
+"If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.","If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact
+us
+so that
+we
+will be able to do necessary actions.",97.71428571428571,4085,sub,"If you are a parent or guardian and you are aware that your child has provided us with personal information, please contactusso thatwewill be able to do necessary actions.",171,<error>,<error>
+Changes to This Privacy Policy,Changes to This Privacy Policy,100.0,4261,main,Changes to This Privacy Policy,30,<error>,<error>
+We may update our Privacy Policy from time to time.,"We
+may update our Privacy Policy from time to time.",98.0392156862745,4292,sub,Wemay update our Privacy Policy from time to time. ,51,<error>,<error>
+"Thus, you are advised to review this page periodically for any changes.","Thus, you are advised to review this page periodically for any changes.",100.0,4344,sub,"Thus, you are advised to review this page periodically for any changes. ",72,<error>,<error>
+I will notify you of any changes by posting the new Privacy Policy on this page.,I will notify you of any changes by posting the new Privacy Policy on this page.,100.0,4416,sub,I will notify you of any changes by posting the new Privacy Policy on this page.This policy is effective as of 2022-01-18,121,<error>,<error>
+Contact Us,Contact Us,100.0,4539,main,Contact Us,10,<error>,<error>
+"If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at zuniirana0032@gmail.com.","If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at
+zuniirana0032@gmail.com.",99.19354838709677,4550,sub,"If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me atzuniirana0032@gmail.com.Get linkFacebookTwitterPinterestEmailOther AppsCommentsAndrew3 July 2022 at 14:11OkayI want to play right nowReplyDeleteRepliesReplyNorm Henry9 July 2022 at 12:13???ReplyDeleteRepliesReplyAmal Techs1 September 2022 at 22:36This comment has been removed by the author.ReplyDeleteRepliesReplyAdd commentLoad more...Post a CommentPowered by BloggerTheme images byMichael ElkanBrovo developer",511,<error>,<error>
+"If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at zuniirana0032@gmail.com.","If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at
+zuniirana0032@gmail.com.",99.19354838709677,4550,sub,Visit profileArchiveApril 20221Report Abuse,43,<error>,<error>

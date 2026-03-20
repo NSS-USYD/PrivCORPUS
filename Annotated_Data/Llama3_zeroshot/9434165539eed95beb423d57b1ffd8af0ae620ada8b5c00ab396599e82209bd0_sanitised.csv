@@ -1,0 +1,5 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy PolicyThe following page provides our privacy policy about how our app(s) use your data and what we do with it.,119,<error>,<error>
+Personal information:,Personal information:,100.0,121,main,"Personal information:Your privacy is important to us. This Privacy Policy covers your use of this application. This app does not collect, store or share any personal or device related information. We do not collect any statistics, trends or track any user information.",268,<generic>,<what>
+Sharing Data:,Sharing Data:,100.0,391,main,"Sharing Data:This application does not share any of your personal or device or any other sensitive user information, under any scenario.",136,<first>,<why>
+Contact:,Contact:,100.0,529,main,Contact:In case you would like to know more about the privacy policy or just have questions please contact me at:eflasoft@hotmail.com,133,<contact>,<how-used>

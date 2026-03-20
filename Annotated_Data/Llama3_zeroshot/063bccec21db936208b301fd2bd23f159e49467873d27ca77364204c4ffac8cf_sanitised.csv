@@ -1,0 +1,141 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy,14,<generic>,<error>
+Personal,Personal,100.0,15,main,Personal,8,<error>,<error>
+SME,SME,100.0,24,main,SME,3,<error>,<error>
+Corporate,Corporate,100.0,28,main,Corporate,9,<error>,<error>
+Financial Partner,Financial Partner,100.0,38,main,Financial Partner,17,<error>,<error>
+Investor Relations,Investor Relations,100.0,56,main,Investor Relations,18,<error>,<error>
+Sustainability,Sustainability,100.0,75,main,Sustainability,14,<error>,<error>
+About Us,About Us,100.0,90,main,About Us,8,<generic>,<error>
+Contact Us,Contact Us,100.0,99,main,Contact Us,10,<generic>,<error>
+EN,EN,100.0,110,main,EN,2,<generic>,<error>
+ไทย,ไทย,100.0,113,main,ไทย,3,<generic>,<error>
+Deposit,Deposit,100.0,117,main,Deposit,7,<generic>,<error>
+Product,Product,100.0,125,main,Product,7,<generic>,<error>
+Current Account,Current Account,100.0,133,main,Current Account,15,<generic>,<error>
+Fixed Deposit Account,Fixed Deposit Account,100.0,149,main,Fixed Deposit Account,21,<generic>,<error>
+Savings Account,Savings Account,100.0,171,main,Savings Account,15,<generic>,<error>
+Tax-free Time Deposit,Tax-free Time Deposit,100.0,187,main,Tax-free Time Deposit,21,<generic>,<error>
+Foreign Currency Deposit,Foreign Currency Deposit,100.0,209,main,Foreign Currency Deposit,24,<generic>,<error>
+Online Krungthai NEXT,Online Krungthai NEXT,100.0,234,main,Online Krungthai NEXT,21,<generic>,<error>
+Card,Card,100.0,256,main,CardProduct,11,<generic>,<error>
+Debit Card,Debit Card,100.0,269,main,Debit Card,10,<generic>,<error>
+Krungthai Travel Visa Platinum Card,Krungthai Travel Visa Platinum Card,100.0,280,main,Krungthai Travel Visa Platinum Card,35,<generic>,<error>
+Krungthai Travel UnionPay Debit Card,Krungthai Travel UnionPay Debit Card,100.0,316,main,Krungthai Travel UnionPay Debit Card,36,<generic>,<error>
+Cash Card and Top Up Card,Cash Card and Top Up Card,100.0,353,main,Cash Card and Top Up Card,25,<generic>,<error>
+Credit Card,Credit Card,100.0,379,main,Credit Card,11,<generic>,<error>
+Loan,Loan,100.0,391,main,LoanProduct,11,<generic>,<error>
+Personal Loan,Personal Loan,100.0,404,main,Personal Loan,13,<generic>,<error>
+Housing Loan,Housing Loan,100.0,418,main,Housing Loan,12,<generic>,<error>
+"Krungthai Smart Money Loan! Cash Loan with high credit limit, with lower interest rate.","Krungthai Smart Money Loan! Cash Loan with high credit limit, with lower interest rate.",100.0,431,main,"Krungthai Smart Money Loan! Cash Loan with high credit limit, with lower interest rate.",87,<generic>,<error>
+Insurance,Insurance,100.0,519,main,Insurance,9,<generic>,<error>
+Product,Product,100.0,529,main,Product,7,<generic>,<error>
+Health Insurance,Health Insurance,100.0,537,main,Health Insurance,16,<generic>,<error>
+Life Insurance,Life Insurance,100.0,554,main,Life Insurance,14,<generic>,<error>
+Motor Insurance,Motor Insurance,100.0,569,main,Motor Insurance,15,<generic>,<error>
+Accident Insurance,Accident Insurance,100.0,585,main,Accident Insurance,18,<generic>,<error>
+Others/non-life Insurance,Others/non-life Insurance,100.0,604,main,Others/non-life Insurance,25,<generic>,<error>
+Investment,Investment,100.0,630,main,Investment,10,<generic>,<error>
+Product,Product,100.0,641,main,Product,7,<generic>,<error>
+KTAM,KTAM,100.0,649,main,KTAM,4,<generic>,<error>
+KTX,KTX,100.0,654,main,KTX,3,<generic>,<error>
+Services,Services,100.0,658,main,Services,8,<generic>,<error>
+Product,Product,100.0,667,main,Product,7,<generic>,<error>
+Money Transfer,Money Transfer,100.0,675,main,Money Transfer,14,<generic>,<error>
+Payment & Top Up,Payment & Top Up,100.0,690,main,Payment & Top Up,16,<generic>,<error>
+Foreign Exchange,Foreign Exchange,100.0,707,main,Foreign Exchange,16,<generic>,<error>
+Oversea Education Services,Oversea Education Services,100.0,724,main,Oversea Education Services,26,<generic>,<error>
+International Money Transfer via Western Union,International Money Transfer via Western Union,100.0,751,main,International Money Transfer via Western Union,46,<generic>,<error>
+E-Banking,E-Banking,100.0,798,main,E-Banking,9,<generic>,<error>
+Product,Product,100.0,808,main,Product,7,<generic>,<error>
+Krungthai NEXT,Krungthai NEXT,100.0,816,main,Krungthai NEXT,14,<generic>,<error>
+Krungthai Connext,Krungthai Connext,100.0,831,main,Krungthai Connext,17,<generic>,<error>
+Krungthai Inter Wallet,Krungthai Inter Wallet,100.0,849,main,Krungthai Inter Wallet,22,<generic>,<error>
+Krungthai Telebanking,Krungthai Telebanking,100.0,872,main,Krungthai Telebanking,21,<generic>,<error>
+Krungthai SMS Alert,Krungthai SMS Alert,100.0,894,main,Krungthai SMS Alert,19,<generic>,<error>
+Buy-advance booking for lottery tickets project,Buy-advance booking for lottery tickets project,100.0,914,main,Buy-advance booking for lottery tickets project,47,<generic>,<error>
+Online service for securities subscription via Money Connect by Krungthai,Online service for securities subscription via Money Connect by Krungthai,100.0,962,main,Online service for securities subscription via Money Connect by Krungthai,73,<generic>,<error>
+Exclusive Wealth Privileges,Exclusive Wealth Privileges,100.0,1036,main,Exclusive Wealth Privileges,27,<generic>,<error>
+Home,Home,100.0,1064,main,Home,4,<first>,<error>
+Cash Management,Cash Management,100.0,1069,main,Cash Management,15,<first>,<error>
+Product,Product,100.0,1085,main,Product,7,<first>,<error>
+Collection Service,Collection Service,100.0,1093,main,Collection Service,18,<first>,<error>
+Liquidity Management,Liquidity Management,100.0,1112,main,Liquidity Management,20,<first>,<error>
+Transfer and Payment Services,Transfer and Payment Services,100.0,1133,main,Transfer and Payment ,21,<first>,<error>
+Services,Services,100.0,1154,main,ServicesServices,16,<first>,<error>
+Product,Product,100.0,1172,main,Product,7,<first>,<error>
+Deposit,Deposit,100.0,1180,main,Deposit,7,<first>,<error>
+Cards,Cards,100.0,1188,main,Cards,5,<first>,<error>
+International Money Transfer via Western Union,International Money Transfer via Western Union,100.0,1194,main,International Money Transfer via Western Union,46,<first>,<error>
+E-Banking,E-Banking,100.0,1241,main,E-Banking,9,<first>,<error>
+Product,Product,100.0,1251,main,Product,7,<generic>,<error>
+Krungthai Corporate Online,Krungthai Corporate Online,100.0,1259,main,Krungthai Corporate Online,26,<first>,<error>
+Krungthai Telebanking,Krungthai Telebanking,100.0,1286,main,Krungthai Telebanking,21,<first>,<error>
+Global Markets,Global Markets,100.0,1308,main,Global Markets,14,<generic>,<error>
+Product,Product,100.0,1323,main,Product,7,<generic>,<error>
+Treasury Products,Treasury Products,100.0,1331,main,Treasury Products,17,<generic>,<error>
+Learn Financial,Learn Financial,100.0,1349,main,Learn Financial,15,<generic>,<error>
+Security Tips,Security Tips,100.0,1365,main,Security Tips,13,<error>,<error>
+Krungthai COMPASS,Krungthai COMPASS,100.0,1379,main,Krungthai COMPASS,17,<error>,<error>
+Business Digest,Business Digest,100.0,1397,main,Business Digest,15,<error>,<error>
+Infographic,Infographic,100.0,1413,main,Infographic,11,<error>,<error>
+Economic Report,Economic Report,100.0,1425,main,Economic Report,15,<error>,<error>
+ประมาณการเศรษฐกิจ,ประมาณการเศรษฐกิจ,100.0,1441,main,ประมาณการเศรษฐกิจทำความรู้จัก วิสาหกิจขนาดกลางและขนาดย่อม,57,<error>,<error>
+Shareholders Information,Shareholders Information,100.0,1500,main,Shareholders Information,24,<error>,<error>
+Message from The Chairman,Message from The Chairman,100.0,1525,main,Message from The Chairman,25,<error>,<error>
+& The President,& The President,100.0,1551,sub,& The President,15,<error>,<error>
+Shareholders List,Shareholders List,100.0,1567,main,Shareholders List,17,<error>,<error>
+Dividend Information,Dividend Information,100.0,1585,main,Dividend Information,20,<error>,<error>
+Minutes of Shareholders Meeting,Minutes of Shareholders Meeting,100.0,1606,main,Minutes of Shareholders Meeting,31,<error>,<error>
+Announcements to the SET,Announcements to the SET,100.0,1638,main,Announcements to the SET,24,<error>,<error>
+Invitation of Shareholders Meeting,Invitation of Shareholders Meeting,100.0,1663,main,Invitation of Shareholders Meeting,34,<error>,<error>
+Financial Information,Financial Information,100.0,1698,main,Financial Information,21,<error>,<error>
+Financial Highlight,Financial Highlight,100.0,1720,main,Financial Highlight,19,<error>,<error>
+Financial Report,Financial Report,100.0,1740,main,Financial Report,16,<error>,<error>
+Presentation and Fact Sheet,Presentation and Fact Sheet,100.0,1757,main,Presentation and Fact Sheet,27,<error>,<error>
+Pillar lll Disclosures,Pillar lll Disclosures,100.0,1785,main,Pillar lll Disclosures,22,<error>,<error>
+LCR Disclosures,LCR Disclosures,100.0,1808,main,LCR Disclosures,15,<error>,<error>
+Events Calendar,Events Calendar,100.0,1824,main,Events Calendar,15,<error>,<error>
+General Information,General Information,100.0,1840,main,General Information,19,<error>,<error>
+Credit Ratings,Credit Ratings,100.0,1860,main,Credit Ratings,14,<error>,<error>
+Analyst Coverage,Analyst Coverage,100.0,1875,main,Analyst Coverage,16,<error>,<error>
+FAQ,FAQ,100.0,1892,main,FAQSustainability,17,<error>,<error>
+Sustainable Development Goals,Sustainable Development Goals,100.0,1911,main,Sustainable Development Goals,29,<error>,<error>
+Awards and Achievements,Awards and Achievements,100.0,1941,main,Awards and Achievements,23,<error>,<error>
+Message from the Chairman and the President,Message from the Chairman and the President,100.0,1965,sub,Message from the Chairman and the President,43,<error>,<error>
+Materiality,Materiality,100.0,2009,main,Materiality,11,<error>,<error>
+Sustainable Finance,Sustainable Finance,100.0,2021,main,Sustainable Finance,19,<error>,<error>
+Sustainable Krungthai,Sustainable Krungthai,100.0,2041,main,Sustainable Krungthai,21,<error>,<error>
+ESG Policies,ESG Policies,100.0,2063,main,ESG Policies,12,<error>,<error>
+Environmental,Environmental,100.0,2076,main,Environmental,13,<error>,<error>
+Social,Social,100.0,2090,main,Social,6,<error>,<error>
+Governance,Governance,100.0,2097,main,Governance,10,<error>,<error>
+Sustainable and Business Solutions,"Sustainable and
+Business Solutions",97.05882352941177,2108,main,Sustainable andBusiness Solutions,33,<error>,<error>
+Ecosystem Orchestrator,Ecosystem Orchestrator,100.0,2143,main,Ecosystem Orchestrator,22,<error>,<error>
+Customer Solutions,Customer Solutions,100.0,2166,main,Customer Solutions,18,<error>,<error>
+Sustainable Developments Solutions,Sustainable Developments Solutions,100.0,2185,main,Sustainable Developments Solutions,34,<error>,<error>
+Invisible Banking,Invisible Banking,100.0,2220,main,Invisible Banking,17,<error>,<error>
+Customer Experience,Customer Experience,100.0,2238,main,Customer Experience,19,<error>,<error>
+Customer Relationship Management,Customer Relationship Management,100.0,2258,main,Customer Relationship Management,32,<error>,<error>
+Sustainability Report,Sustainability Report,100.0,2291,main,Sustainability Report,21,<error>,<error>
+"Go - Local,","Go - Local,",100.0,2313,main,"Go - Local,",11,<error>,<error>
+Grow - Local,Grow - Local,100.0,2325,sub,Grow - Local,12,<error>,<error>
+CSR Projects,CSR Projects,100.0,2338,main,CSR Projects,12,<error>,<error>
+CSR News,CSR News,100.0,2351,main,CSR News,8,<error>,<error>
+About Us,About Us,100.0,2360,main,About UsHome,12,<error>,<error>
+History,History,100.0,2374,main,History,7,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"Corporate IdentifyOrganization ChartBoard of Directors & Senior ExecutiveCorporate GovernanceCorporate Governance ReportBusiness EthicsCharter of BoardCorporate Governance AML/CFTReport of Audit CommitteeFATCARegistered DocumentsCorporate Risk ManagementOverviewRisk Management PoliciesRisk Management Organization StructuresAwards & AchievementsStatement of Direction ,Vision & MissionStrategic Plans & Key OperationsSubsidiaries Groupรางวัลและความสำเร็จCAREER & SCHOLARSHIPIs KTB for meCareers and Scholarhip",510,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"ดูทุนการศึกษาล่าสุดจากกรุงไทยLOCATE USOversea OfficesContact UsComment & FeedbackOthersRates & FeeForward Points สำหรับผู้ประกอบการรายย่อยThai Baht Deposit Interest RatesKrungthai netbank Deposit Interest RatesForeign Currency Deposit Interest RatesBill of Exchange Interest or Discount RatesLoan Interest RatesFee RatesInterest Rates, Fee and Other Service Charges for Fleet Card BusinessPersonal Loan Fee RatesFAQAbout ProductsAbout Services and E-bankingAbout Transaction CodeDownloadsProduct Documents",505,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,Service and E-banking DocumentsGeneral DocumentsTerm of UseNPAeProcurementSite-Recommendedคำถามที่พบบ่อยKrungthai Corporate OnlineKrungthai netbankKrungthai NEXTKrungthai NEXTService PointsFind InformationContact UsPersonalSMECorporateFinancial PartnerInvestor RelationsSustainabilityAbout UsContact UsENไทยPersonalHomeDepositCurrent AccountFixed Deposit AccountSavings AccountTax-free Time DepositForeign Currency DepositOnline Krungthai NEXTCardDebit CardKrungthai Travel Visa Platinum Card,492,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,Krungthai Travel UnionPay Debit CardCash Card and Top Up CardCredit CardLoanPersonal LoanHousing LoanInsuranceHealth InsuranceLife InsuranceMotor InsuranceAccident InsuranceOthers/non-life InsuranceInvestmentKTAMKTXServicesMoney TransferPayment & Top UpForeign ExchangeOversea Education ServicesE-BankingKrungthai NEXTKrungthai ConnextKrungthai Inter WalletKrungthai TelebankingKrungthai SMS AlertBuy-advance booking for lottery tickets project,444,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,Online service for securities subscription via Money Connect by KrungthaiExclusive Wealth PrivilegesSMEHomeCorporateHomeCash ManagementCollection ServiceLiquidity ManagementTransfer and Payment ServicesServicesDepositCardsE-BankingKrungthai Corporate OnlineKrungthai TelebankingGlobal MarketsTreasury ProductsFinancial PartnerHomeLearn FinancialSecurity TipsKrungthai COMPASSBusiness DigestInfographicEconomic ReportประมาณการเศรษฐกิจInvestor RelationsHomeShareholders InformationMessage from The Chairman,504,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,& The PresidentShareholders ListDividend InformationMinutes of Shareholders MeetingAnnouncements to the SETInvitation of Shareholders MeetingFinancial InformationFinancial HighlightFinancial ReportPresentation and Fact SheetPillar lll DisclosuresLCR DisclosuresEvents CalendarGeneral InformationCredit RatingsAnalyst CoverageFAQSustainabilityHomeSustainabilitySustainable Development GoalsAwards and AchievementsMessage from the Chairman and the PresidentMaterialitySustainable FinanceSustainable Krungthai,506,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"ESG PoliciesEnvironmentalSocialGovernanceSustainable andBusiness SolutionsEcosystem OrchestratorCustomer SolutionsSustainable Developments SolutionsInvisible BankingCustomer ExperienceCustomer Relationship ManagementSustainability ReportGo - Local,Grow - LocalCSR ProjectsCSR NewsAbout UsHomeAbout UsHomeHistoryCorporate IdentifyOrganization ChartBoard of Directors & Senior ExecutiveCorporate GovernanceCorporate Governance ReportBusiness EthicsCharter of BoardCorporate Governance AML/CFT",490,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"Report of Audit CommitteeFATCARegistered DocumentsCorporate Risk ManagementOverviewRisk Management PoliciesRisk Management Organization StructuresAwards & AchievementsStatement of Direction ,Vision & MissionStrategic Plans & Key OperationsSubsidiaries GroupCAREER & SCHOLARSHIPIs KTB for meCareers and ScholarhipContact UsHomeLOCATE USOversea OfficesContact UsComment & FeedbackOthersRates & FeeForward Points สำหรับผู้ประกอบการรายย่อยThai Baht Deposit Interest RatesKrungthai netbank Deposit Interest Rates",507,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"Foreign Currency Deposit Interest RatesBill of Exchange Interest or Discount RatesLoan Interest RatesFee RatesInterest Rates, Fee and Other Service Charges for Fleet Card BusinessPersonal Loan Fee RatesFAQAbout ProductsAbout Services and E-bankingAbout Transaction CodeDownloadsProduct DocumentsService and E-banking DocumentsGeneral DocumentsTerm of UseNPAeProcurementSite-Recommended×Download Krungthai NEXTSupport For iOS and Androidor log in toInternet BankingKrungthai NEXTKrungthai Corporate OnlineLocation",512,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,Contact UsFind Information×Privacy Policy,41,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"Krung Thai Bank Public Company Limited (the “Bank”) is a leading financial institution in Thailand, the Bank is strictly committed to good corporate governance policy and brings the principle of high standard of market conduct for conducting the Bank’s businesses. The Bank would like to thank all valued customers and sincerely appreciates the trust and confidence you have in the Bank. The Bank fully understands and realizes that the customers expect a high level of security for banking transactions and safekeeping of personal information.",544,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"The Bank has setthe privacy policy for ensuring our customers having confidence in protecting personal information, safekeeping of confidential information, as well as the disclosure or the use thereof will be discreet with primary concerns for security of personal information.DownloadKrungthai Privacy Policy  Update: 30/09/2022(0.21 MB) PDFDownloadPrivacy Policy for Human Resource(0.73 MB) PDFDownloadPrivacy Policy for Business Partner Updated : 10/02/2021(0.16 MB) PDFDownload",482,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,Name lists of Krungthai Bank Public Company Limited’s affiliated companies and financial business group Updated: 19/04/2022(0.12 MB) PDFDownloadHomeShareFacebookLineTwitterEmbedded LinksFind a branch/phone number near youContact usFind a branch/phone number near youContact usFind us onFacebookLineTwitterInstagramYoutubeTiktokSustainabilitySustainabilityESG PolicySustainable and Business SolutionSustainability ReportCSR ProjectCSR NewsCareers and ScholarshipsCareersScholarshipsKrungthai UpdateNews,501,<error>,<error>
+Corporate Identify,Corporate Identify,100.0,2382,main,"AnnouncementPromotionOthersRates & FeeNPAFAQDownloadSite RecommendTerm of Use / Cookie PolicyContact UsLocationOversea OfficesContact UsComment & FeedbackDisclosurePrivacy PolicyProcurement and Standard PriceSupplier Registration SystemThis website is best viewed with Chrome, Firefox, and Safari.Copyright © 2020 Krungthai Bank PCL | SWIFT CODE : krththbkThis site uses cookies to improve user experience. By continuing to use the site, you agree to ourTerm of Use.OK",468,<error>,<error>

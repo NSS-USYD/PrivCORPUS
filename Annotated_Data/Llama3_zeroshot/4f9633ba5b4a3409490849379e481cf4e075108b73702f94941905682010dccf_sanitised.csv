@@ -1,0 +1,26 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,mydlink,7,<error>,<error>
+Select Your Portal,Select Your Portal,100.0,8,main,Select Your Portal,18,<generic>,<error>
+1st Generation Portal,1st Generation Portal,100.0,27,sub,1st Generation PortalFor cameras and other devices which use the old mydlink Lite app (model numbers ending in L),113,<generic>,<error>
+2nd Generation Portal,2nd Generation Portal,100.0,142,sub,"2nd Generation PortalFor cameras which use the new mydlink app (model numbers ending in LH)You can switch between these portals later by clicking ""CHANGE PORTAL"" from the menu at the top of the screen.",201,<generic>,<error>
+Sign in,Sign in,100.0,346,main,Sign in,7,<generic>,<error>
+Home,Home,100.0,354,sub,Home,4,<generic>,<error>
+Product,Product,100.0,359,sub,Product,7,<generic>,<error>
+Mobile App,Mobile App,100.0,367,sub,Mobile App,10,<generic>,<error>
+Help,Help,100.0,378,sub,Help,4,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,383,main,Privacy Policy,14,<generic>,<error>
+Official Information,Official Information,100.0,398,sub,Official Information,20,<generic>,<error>
+Global D-Link,Global D-Link,100.0,419,sub,Global D-Link,13,<generic>,<error>
+About mydlink,About mydlink,100.0,433,sub,About mydlink,13,<generic>,<error>
+Terms of Use,Terms of Use,100.0,447,sub,Terms of UsePrivacy Policy,26,<generic>,<error>
+Privacy Pledge,Privacy Pledge,100.0,475,main,Privacy Pledge,14,<generic>,<error>
+Product,Product,100.0,490,main,Product,7,<generic>,<error>
+Cloud Cameras,Cloud Cameras,100.0,498,sub,Cloud Cameras,13,<generic>,<error>
+Mobile App,Mobile App,100.0,512,sub,Mobile App,10,<generic>,<error>
+Download Apps,Download Apps,100.0,523,sub,Download Apps,13,<generic>,<error>
+Help,Help,100.0,537,sub,Help,4,<generic>,<error>
+FAQ,FAQ,100.0,542,sub,FAQ,3,<generic>,<error>
+Download,Download,100.0,546,sub,Download,8,<generic>,<error>
+Support,Support,100.0,555,sub,Support,7,<generic>,<error>
+Copyright,Copyright,100.0,563,main,Copyright © 2023 D-Link Corporation. All rights reserved.,57,<generic>,<error>
+Language,Language,100.0,621,sub,Language:English▲ČeskyDeutschEspañolFrançaisItalianoMagyarNederlandsPolskiPortuguês do BrasilРусскийSvenska中文(繁體)中文(简体)日本語한국어,125,<generic>,<error>

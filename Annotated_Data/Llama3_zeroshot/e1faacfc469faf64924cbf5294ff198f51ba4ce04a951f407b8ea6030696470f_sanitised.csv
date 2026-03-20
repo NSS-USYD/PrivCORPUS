@@ -1,0 +1,107 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy,Privacy,100.0,0,main,Privacy | Vivaldi ,18,<error>,<error>
+Browser,Browser,100.0,18,main,BrowserBrowser,14,<error>,<error>
+Mail,Mail,100.0,34,main,Mail,4,<error>,<error>
+News,News,100.0,39,main,News,4,<error>,<error>
+Community,Community,100.0,44,main,Community,9,<error>,<error>
+About,About,100.0,54,main,About,5,<error>,<error>
+Download,Download,100.0,60,main,Download,8,<error>,<error>
+Privacy & Terms,Privacy & Terms,100.0,69,main,Privacy & Terms,15,<generic>,<error>
+About,About,100.0,85,main,About,5,<error>,<error>
+Privacy & Terms,Privacy & Terms,100.0,91,main,Privacy & Terms,15,<choice>,<error>
+Security,Security,100.0,107,main,Security,8,<security>,<error>
+Press,Press,100.0,116,main,Press,5,<error>,<error>
+Privacy,Privacy,100.0,122,main,"PrivacyAt Vivaldi, we believe in being transparent about how and why we handle your data. Below is an overview of our terms of use and privacy policy.Browser",157,<error>,<error>
+Vivaldi Browser Privacy Policy,Vivaldi Browser Privacy Policy,100.0,282,main,Vivaldi Browser Privacy Policy,30,<generic>,<error>
+Vivaldi End User License Agreement,Vivaldi End User License Agreement,100.0,313,main,Vivaldi End User License Agreement,34,<generic>,<error>
+Third-Parties,Third-Parties,100.0,348,main,Third-Parties,13,<third>,<error>
+Sync,Sync,100.0,362,main,Sync,4,<first>,<error>
+Community,Community,100.0,367,main,Community,9,<error>,<error>
+Community Privacy Policy,Community Privacy Policy,100.0,377,main,Community Privacy Policy,24,<choice>,<error>
+Terms of Use,Terms of Use,100.0,402,main,Terms of Use,12,<error>,<error>
+Code of Conduct,Code of Conduct,100.0,415,main,Code of Conduct,15,<error>,<error>
+Websites,Websites,100.0,431,main,Websites,8,<error>,<error>
+Websites Privacy policy,Websites Privacy policy,100.0,440,main,Websites Privacy policy,23,<error>,<error>
+Cookie Policy,Cookie Policy,100.0,464,main,Cookie Policy,13,<error>,<error>
+Vivaldi Help,Vivaldi Help,100.0,478,main,Vivaldi Help,12,<error>,<error>
+Help articles,Help articles,100.0,491,main,Help articles,13,<error>,<error>
+Tutorials,Tutorials,100.0,505,main,Tutorials,9,<error>,<error>
+Ask the community,Ask the community,100.0,515,main,Ask the community,17,<error>,<error>
+Report a bug,Report a bug,100.0,533,main,Report a bug,12,<error>,<error>
+Subscribe to our newsletter,Subscribe to our newsletter,100.0,546,main,Subscribe to our newsletter,27,<error>,<error>
+Browser,Browser,100.0,574,main,Browser,7,<error>,<error>
+Desktop,Desktop,100.0,582,main,Desktop,7,<error>,<error>
+Android,Android,100.0,590,main,Android,7,<error>,<error>
+iOS,iOS,100.0,598,main,iOS,3,<error>,<error>
+Automotive,Automotive,100.0,602,main,Automotive,10,<error>,<error>
+Download Vivaldi,Download Vivaldi,100.0,613,main,Download Vivaldi,16,<error>,<error>
+Features,Features,100.0,630,main,Features,8,<error>,<error>
+Compare browsers,Compare browsers,100.0,639,main,Compare browsers,16,<error>,<error>
+Mail,Mail,100.0,656,main,MailMail,8,<error>,<error>
+Calendar,Calendar,100.0,666,main,Calendar,8,<error>,<error>
+Feed Reader,Feed Reader,100.0,675,main,Feed Reader,11,<error>,<error>
+Compare email clients,Compare email clients,100.0,687,main,Compare email clients,21,<error>,<error>
+News,News,100.0,709,main,News,4,<error>,<error>
+Vivaldi Blog,Vivaldi Blog,100.0,714,main,Vivaldi Blog,12,<error>,<error>
+Desktop Snapshots,Desktop Snapshots,100.0,727,main,Desktop Snapshots,17,<error>,<error>
+Mobile Snapshots,Mobile Snapshots,100.0,745,main,Mobile Snapshots,16,<error>,<error>
+Help,Help,100.0,762,main,Help,4,<error>,<error>
+Vivaldi Help Pages,Vivaldi Help Pages,100.0,767,main,Vivaldi Help Pages,18,<error>,<error>
+Tutorials,Tutorials,100.0,786,main,Tutorials,9,<error>,<error>
+Report a Bug,Report a Bug,100.0,796,main,Report a Bug,12,<error>,<error>
+Contact,Contact,100.0,809,main,ContactCommunity,16,<error>,<error>
+Vivaldi Community,Vivaldi Community,100.0,827,main,Vivaldi Community,17,<error>,<error>
+Blogs,Blogs,100.0,845,main,Blogs,5,<error>,<error>
+Forum,Forum,100.0,851,main,Forum,5,<error>,<error>
+Themes,Themes,100.0,857,main,Themes,6,<error>,<error>
+Social,Social,100.0,864,main,Social,6,<error>,<error>
+Contribute,Contribute,100.0,871,main,Contribute,10,<error>,<error>
+Merchandise,Merchandise,100.0,882,main,Merchandise,11,<error>,<error>
+Banners,Banners,100.0,894,main,Banners,7,<error>,<error>
+About,About,100.0,902,main,About,5,<error>,<error>
+What We Believe,What We Believe,100.0,908,main,What We Believe,15,<error>,<error>
+We Don't Track You,We Don't Track You,100.0,924,main,We Don't Track You,18,<first>,<error>
+Privacy & Terms,Privacy & Terms,100.0,943,main,Privacy & Terms,15,<error>,<error>
+Security,Security,100.0,959,main,Security,8,<error>,<error>
+Our Team,Our Team,100.0,968,main,Our Team,8,<contact>,<error>
+Jobs,Jobs,100.0,977,main,Jobs,4,<contact>,<error>
+Press & Media,Press & Media,100.0,982,main,Press & Media,13,<contact>,<error>
+Linux Distributions,Linux Distributions,100.0,996,main,Linux Distributions,19,<region>,<error>
+Status,Status,100.0,1016,main,Status,6,<error>,<error>
+Afrikaans,Afrikaans,100.0,1023,main,Afrikaans,9,<region>,<error>
+Azərbaycanca,Azərbaycanca,100.0,1033,main,Azərbaycanca,12,<region>,<error>
+български,български,100.0,1046,main,български,9,<region>,<error>
+Català,Català,100.0,1056,main,Català,6,<region>,<error>
+Čeština,Čeština,100.0,1063,main,Čeština,7,<region>,<error>
+Dansk,Dansk,100.0,1071,main,Dansk,5,<region>,<error>
+Deutsch,Deutsch,100.0,1077,main,Deutsch,7,<region>,<error>
+English,English,100.0,1085,main,English,7,<region>,<error>
+Español,Español,100.0,1093,main,Español,7,<region>,<error>
+فارسی,فارسی,100.0,1101,main,فارسی,5,<region>,<error>
+Suomi,Suomi,100.0,1107,main,Suomi,5,<region>,<error>
+Français,Français,100.0,1113,main,Français,8,<region>,<error>
+Galego,Galego,100.0,1122,main,Galego,6,<region>,<error>
+Magyar,Magyar,100.0,1129,main,Magyar,6,<region>,<error>
+Հայերեն,Հայերեն,100.0,1136,main,Հայերեն,7,<region>,<error>
+Indonesia,Indonesia,100.0,1144,main,Indonesia,9,<region>,<error>
+Íslenska,Íslenska,100.0,1154,main,Íslenska,8,<region>,<error>
+Italiano,Italiano,100.0,1163,main,Italiano,8,<region>,<error>
+日本語,日本語,100.0,1172,main,日本語,3,<region>,<error>
+関西弁,関西弁,100.0,1176,main,関西弁,3,<region>,<error>
+Taqbaylit,Taqbaylit,100.0,1180,main,Taqbaylit,9,<region>,<error>
+Kurdish,Kurdish,100.0,1190,main,Kurdish,7,<region>,<error>
+Nederlands,Nederlands,100.0,1198,main,Nederlands,10,<region>,<error>
+Norsk bokmål,Norsk bokmål,100.0,1209,main,Norsk bokmål,12,<region>,<error>
+polski,polski,100.0,1222,main,polski,6,<region>,<error>
+Português Brasileiro,Português Brasileiro,100.0,1229,main,Português Brasileiro,20,<region>,<error>
+Português Europeu,Português Europeu,100.0,1250,main,Português Europeu,17,<region>,<error>
+Русский,Русский,100.0,1268,main,Русский,7,<region>,<error>
+Slovenčina,Slovenčina,100.0,1276,main,Slovenčina,10,<region>,<error>
+Slovenščina,Slovenščina,100.0,1287,main,Slovenščina,11,<region>,<error>
+Српски,Српски,100.0,1299,main,Српски,6,<region>,<error>
+Srpski,Srpski,100.0,1306,main,Srpski,6,<region>,<error>
+Svenska,Svenska,100.0,1313,main,Svenska,7,<region>,<error>
+Türkçe,Türkçe,100.0,1321,main,Türkçe,6,<region>,<error>
+Ukrainian,Ukrainian,100.0,1328,main,Ukrainian,9,<error>,<error>
+简体中文,简体中文,100.0,1338,main,简体中文,4,<region>,<error>
+繁體中文,繁體中文,100.0,1343,main,繁體中文© Vivaldi Technologies™— All rights reserved.,49,<region>,<error>

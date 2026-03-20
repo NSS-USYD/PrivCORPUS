@@ -1,0 +1,7 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Delta Icons: ,13,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,13,main,"Privacy PolicyDeltaPrivacy PolicyDelta doesn't collect any information by default. The app is fully usable without internet connection (except you can't download wallpapers).However, ",183,<generic>,<error>
+When You Request an Icon,when you request an icon,100.0,200,sub,"when you request an icon, by default some data is gathered when you send the request. You can modify what you send in the email:the email address which you send the request withthe manufacturer, the model, product name, screen resolution, and Android version of your phoneapp version & Candybar version (the app dashboard)name and ComponentInfo of the app whose icon you wantSame for bug reporting, but in addition we gather names and ComponentInfos of all installed apps on your phone for debug purposes.",505,<first>,<when>
+When You Request an Icon,when you request an icon,100.0,200,sub,"This information is solely used for the icon request and remains private. You're also fully controlling what data you send to us via email.If you have any questions or suggestions about Privacy Policy, do not hesitate to",220,<first>,<when>
+Contact Us,contact us,100.0,933,main,contact us.,11,<contact>,<other>
+Last Modified,Last modified,100.0,946,main,Last modified:27 June 2023Home,30,<change>,<other>

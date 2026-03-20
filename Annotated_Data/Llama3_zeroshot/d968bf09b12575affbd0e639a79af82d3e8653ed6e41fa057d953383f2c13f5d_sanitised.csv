@@ -1,0 +1,20 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy PolicyX,15,<error>,<error>
+Company Details,Company Details,100.0,17,main,Company Details,15,<generic>,<error>
+Website,Website,100.0,33,main,Website,7,<generic>,<error>
+Contact,Contact,100.0,41,main,Contact,7,<contact>,<error>
+Love calculator,Love calculator,100.0,49,main,Love calculatorcom.mobilplug.lovetest,37,<generic>,<what>
+This app is aimed at people,This app is aimed at people,100.0,88,main,This app is aimed at people,27,<generic>,<what>
+under,under,100.0,116,main,under13,7,<audience>,<when>
+View more information,View more information,100.0,125,main,View more information,21,<generic>,<other>
+on data this app collects,on data this app collects,100.0,147,main,on data this app collects,25,<first>,<what>
+We also collect data for:,We also collect data for:,100.0,173,main,We also collect data for:,25,<first>,<why>
+Direct Marketing,Direct Marketing,100.0,199,main,Direct Marketing,16,<error>,<error>
+Advertising,Advertising,100.0,216,main,Advertising,11,<error>,<error>
+Location Services,Location Services,100.0,228,main,Location Services,17,<error>,<error>
+Analytics,Analytics,100.0,246,main,Analytics,9,<error>,<error>
+Social Networking,Social Networking,100.0,256,main,Social Networking,17,<error>,<error>
+Process Payments,Process Payments,100.0,274,main,Process PaymentsTap the buttons below to find out how your info is secured and managed,86,<error>,<error>
+Security and Retention,Security and Retention,100.0,362,main,Security and Retention,22,<error>,<how-used>
+Control,"
+Contro",85.71428571428572,384,main,Control,7,<choice>,<how-used>

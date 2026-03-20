@@ -1,0 +1,100 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy policy,14,<error>,<error>
+Clatter Privacy Policy,Clatter privacy policy,100.0,15,main,Clatter privacy policy,22,<error>,<error>
+The Company,The company,100.0,38,main,"The company (under article referred to as ""we"") know the profile of the user is extremely important; In view of this, we will do our best to protect the user 's personal information, and to develop this Privacy Policy ( under the text referred to as the ""Policy""), please note :This policy does not apply to other third- party platform services provided to you, do not apply to this software already set up a separate independent privacy policy product or service.",464,<error>,<error>
+The Company,The company,100.0,38,main,"Before using the products or services of this software, please be sure to read carefully and thoroughly understand this policy. Once you start using the products or services of this software, it means that you have fully understood and agreed to this policy. If you have any questions, comments or suggestions about the content of this policy, you can contact us through various contact methods provided in this software. And this software only provides services to users who are over 18 years old. If you are younger than 18 years old, please stop using this software immediately.",581,<error>,<error>
+The Company,The company,100.0,38,main,"The company has the right to modify this policy. The company will publish the modified content in the software. If you do not agree to the modified content, please stop using or access the software immediately. If you continue to access or use the software, it will be deemed You accept the revised policy content.1.",316,<error>,<error>
+Information Collected by Clatter,Information collected by Clatter,100.0,1404,main,Information collected by Clatter,32,<error>,<error>
+a) Registration information,"a)
+Registration information",96.2962962962963,1437,sub,"a)Registration information. When you register to use the application, you will provide us with basicinformation :such as age, gender. This information is collected to help you match up with the right chat partner.",213,<error>,<error>
+b) Personal information,"b)
+Personal information",95.65217391304348,1654,sub,"b)Personal information: When creating personal information on the app, you can provide us with information, such as personalinformation ,pictures, name (first name and / or last name) and any other information about you.",220,<error>,<error>
+c) Non-personally identifiable information,"c)
+non-personally identifiable
+information",95.23809523809523,1878,sub,c)non-personally identifiableinformation :such as country of residence and preference information .,99,<error>,<error>
+d) Your user information on other platforms,"d)
+Your user information on other platforms",97.67441860465115,1981,sub,"d)Your user information on other platforms: If you use your Facebook account (such as Facebook Connect) to register on Woo,we may store your Facebook ID on our server. If you express your consent, we will It is possible to access and collect certain information that you provide on Facebook (for example, your first and last name, email address, profile picture, list of your friends, and birthday).",399,<error>,<error>
+e) Messages,"e)
+Messages",90.9090909090909,2385,sub,"e)Messages :When you send or receive messages through the app, we will collect historical message content.",106,<error>,<error>
+f) Logs and data usage information,"f)
+Logs and data usage information",97.05882352941177,2494,sub,"f)Logs and data usage information : We collect information about how you use the service, such as the date and time of sending the message , the person you are chatting with , your Internet Protocol ( ""IP"" ) address, and how you use third-party websites or service.",265,<error>,<error>
+g) Device and browser information,"g)
+Device and browser information",96.96969696969697,2761,sub,"g)Device and browser information. We collect information about your device from your device to access our services, which may include information such as your hardware model, operating system version, device model and / or carrier, web browser type and settings, and unique Device identifier and mobile network information.",323,<error>,<error>
+h) Location information,"h)
+Location
+information",91.30434782608697,3086,sub,h)Locationinformation :We will use your IP address to infer your approximate location. Or use the longitude and latitude to determine your location.,148,<error>,<error>
+i) Information collected from cookies and similar technologies,"i)
+Information collected from cookies and similar
+technologies",96.7741935483871,3238,sub,i)Information collected from cookies and similartechnologies :We and our third-party partners (such as advertising partners) can collect information through the use of cookies and technologies similar to web beacons. Cookies are small text files containing strings and alphanumeric characters. We may use both session cookies and permanentcookies .,348,<error>,<error>
+j) Upload content,"j)
+Upload content",94.11764705882352,3591,sub,"j)Upload content: Collect user content (such as photos, screenshots,commentsand other materials) created on the service.",120,<error>,<error>
+k) Transaction information,"k)
+transaction information",96.15384615384616,3715,sub,"k)transaction information: To Clatter virtual completion of the transaction in the Item Shop, you will be asked to provide payment information, including your credit card number, credit card expiration date, billing address, and soon .In this case, we will forward your information securely transmitted directly to athird party",327,<error>,<error>
+k) Transaction information,"k)
+transaction information",96.15384615384616,3715,sub,"provider or a businessman, who will collect this information to process and complete your purchase. Clatter will not process or store your payment information. However, we may store information about you "" serve "" other purchases made on the information, which may include your name, date, time and amount of the transaction, and other behavioral information.",359,<error>,<error>
+l) Error report information,"l)
+Error report information",96.2962962962963,4407,sub,"l)Error report information: If the service crashes or hangs up, we will also collect error report information so that we can investigate errors and improve the stability of the service. Generally, these reports contain no or only a small amount of personally identifiable information. In these error reports, we will receive information about the type and version of yourdevice ,",379,<error>,<error>
+l) Error report information,"l)
+Error report information",96.2962962962963,4407,sub,"the device identifier, when the error occurred, the functions used, and the state of the application when the error occurred. We will not use this information for any other purpose except to investigate and correcterrors .",222,<error>,<error>
+m) When you contact our customer service team,"m)
+When you contact our customer service team",97.77777777777777,5013,sub,"m)When you contact our customer service team, we will collect your IP address and the information you provide to us. This information will be used to help you solve problems and ensure the quality of our services.",213,<error>,<error>
+n) Device information,"n)
+Device information",95.23809523809523,5228,sub,"n)Device information: We collect information about the devices through which you access our services, including: information about hardware and software (such as IP , device ID , network ID , advertising ID , browser type, device language, application version And operation)2.",276,<error>,<error>
+Parties who share your information with Clatter,"Parties who share your information with
+Clatter",97.87234042553192,5507,main,Parties who share your information withClatter :,48,<error>,<error>
+a) We may share user content and your information,"a)
+We may share user content and your information",97.95918367346938,5557,sub,"a)We may share user content and your information (including but not limited to information in cookies , log files, device identifiers, location data and usage data) with companies that are legally affiliated with the same company group of Clatter .",248,<error>,<error>
+b) We may also share your information and information from tools,"b)
+We may also share your information and information from tools",98.4375,5807,sub,"b)We may also share your information and information from tools such ascookies ,log files, device identifiers and location data with third-party organizations (""serviceproviders"") that help us provide services to you . In accordance with reasonable confidentiality clauses, in order to provide services, our service providers will be granted access to your information when reasonablynecessary .",395,<error>,<error>
+c) We may also share aggregated or anonymous information,"c)
+We may also share aggregated or anonymous information",98.21428571428571,6208,sub,"c)We may also share aggregated or anonymous information with third parties including advertisers and investors. For example, we may tell advertisers the number of users our app has received. This information does not contain any personal or personally identifiable information, and is used to develop content and services that you are interested in.",349,<error>,<error>
+d) to law enforcement agencies,"d)
+to law enforcement agencies",96.66666666666667,6559,sub,"d)to law enforcement agencies to share information in order to protect the rights and safety of any person in accordance with legal procedures reasonably necessary in the circumstances , the illegal activity, fraud or other misconduct to investigate or take any precautions or other measures.",292,<error>,<error>
+e) Before working with any service provider or partner,"e)
+Before working with any service provider or partner",98.14814814814815,6853,sub,"e)Before working with any service provider or partner, we will conduct a strict review process.All ofour service providers and partners should agree to fulfill their confidentiality obligations due diligence. In the event of a merger (in whole or in part), sale, acquisition, divestment, reorganization, reorganization, dissolution or bankruptcy or a change in the ownership or control of the company, we will issue a relevant announcement.3.",442,<error>,<error>
+How do we protect your information,"How do we protect your
+information",97.05882352941177,7301,main,How do we protect yourinformation:,34,<error>,<error>
+a) We will adopt reasonable and feasible security protection measures,"a)
+We will adopt reasonable and feasible security protection measures",98.55072463768117,7337,sub,a),2,<error>,<error>
+a) We will adopt reasonable and feasible security protection measures,"a)
+We will adopt reasonable and feasible security protection measures",98.55072463768117,7337,sub,"We will adopt reasonable and feasible security protection measures in line with the industry's general solutions to protect the personal data you provide, and prevent unauthorized access, public disclosure, use, modification, damage or loss of personal data. However, we cannot guarantee that your data will be completely safe. If you find that your personal information, especially your account or password, is leaked, please contact us immediately so that we can take corresponding measures based on your application.",519,<error>,<error>
+b) Please note that the data you voluntarily share,"b)
+Please note that the data you voluntarily share",98.0,7860,sub,"b)Please note that the data you voluntarily share or even publicly share when using our services may involve your personal data or other peopleâ€™s personal data. For example, you choose to upload texts and pictures that contain personal data when you post a dynamic or use our service. Wait, please consider carefully beforeuploading .4.",338,<error>,<error>
+How we use your information,How we use your information,100.0,8202,main,How we use your information:,28,<error>,<error>
+a) Verify your identity,"a)
+Verify your
+identity",91.30434782608697,8231,sub,a)Verify youridentity;,22,<error>,<error>
+b) Enable your contact with others through the service,"b)
+Enable your contact with others through the
+service",96.2962962962963,8256,sub,b)Enable your contact with others through theservice;,53,<error>,<error>
+c) Share your personal information with others on the service,"c)
+Share your personal information with others on the
+service",96.72131147540983,8312,sub,c)Share your personal information with others on theservice;,60,<error>,<error>
+d) Show you the name of the person you communicate with,"d)
+Show you the name of the person you communicate with",98.18181818181819,8375,sub,"d)Show you the name of the person you communicate with, and show your name to the person you communicate with in the ""Service"";",127,<error>,<error>
+e) Provide you with any management notices related to your use of the service,"e)
+Provide you with any management notices related to your use of the
+service",97.40259740259741,8505,sub,e)Provide you with any management notices related to your use of theservice;,76,<error>,<error>
+f) For internal operations,"f)
+For internal operations",96.15384615384616,8584,sub,"f)For internal operations, including troubleshooting problems, data analysis, testing, research, service improvement, detection and prevention of errors, fraud or other illegalactivities;",187,<error>,<error>
+g) When we sincerely believe that the law,"g)
+When we sincerely believe that the law",97.5609756097561,8774,sub,"g)When we sincerely believe that the law, any legal process, law enforcement, national security or public importance issues need to bedisclosed;",144,<error>,<error>
+h) Protect and defend our rights or property,"h)
+protect and defend our rights or property",97.72727272727273,8921,sub,"h)protect and defend our rights or property (including the implementation of our Terms of Use and other agreements); or involving Woocompany transactions related to such business purchase or sale, asset acquisition, merger, sale or other similar event.5.",254,<error>,<error>
+How to manage with you about the data,"How to manage with you about the
+data",97.2972972972973,9180,main,How to manage with you about thedata :,38,<error>,<error>
+a) Unless otherwise provided by laws and regulations,"a)
+Unless otherwise provided by laws and regulations",98.07692307692307,9220,sub,"a)Unless otherwise provided by laws and regulations, you have the right to access, correct, supplement, and delete your personal data. When you delete data from our service, we may not delete the corresponding data from the backup systemimmediately .If you want us to delete your data, please contact customer service or leave a message to our email wwapp998@gmail.com, we will assist you as soon as possible.",409,<error>,<error>
+"b) In addition, you can also change the scope of your license agreement","b)
+In addition, you can also change the scope of your license agreement",98.59154929577466,9632,sub,b),2,<error>,<error>
+"b) In addition, you can also change the scope of your license agreement","b)
+In addition, you can also change the scope of your license agreement",98.59154929577466,9632,sub,"In addition, you can also change the scope of your license agreement, and when you withdraw the authorization, we will no longer deal with the appropriate profile, but you decided to withdraw authorization, does not affect the authority had undertaken based on your personal data At the same time, please be aware that each business function requires some basic personal data to be completed. If you change part of the authorized content, it may result in the inability to use some of the services or products provided by",521,<error>,<error>
+"b) In addition, you can also change the scope of your license agreement","b)
+In addition, you can also change the scope of your license agreement",98.59154929577466,9632,sub,us .Please choose carefully.6.,30,<error>,<error>
+How to manage information about minors,How to manage information about minors,100.0,10190,main,How to manage information about minors,38,<error>,<error>
+a) We will not intentionally collect personal information from children under 13,"a)
+We will not intentionally collect personal information from children under
+13",97.5,10229,sub,"a)We will not intentionally collect personal information from children under13 ,and we will not serve children under 13 years of age. If we learn that we have unintentionally collected the personal information of children under the age of 13, we will delete it as soon aspossible .7.",283,<error>,<error>
+Privacy policy modification,Privacy policy modification,100.0,10518,main,Privacy policy modification,27,<error>,<error>
+a) I have from time to time may revise this Privacy Policy,"a)
+I have from time to time may revise this Privacy Policy",98.27586206896551,10546,sub,"a)I have from time to time may revise this Privacy Policy, updated version in the release after effective. We recommend that you check this page regularly to see if there is any new content.If you have any questions about this privacy policy, please contact us via email: wwapp998@gmail.com",290,<error>,<error>

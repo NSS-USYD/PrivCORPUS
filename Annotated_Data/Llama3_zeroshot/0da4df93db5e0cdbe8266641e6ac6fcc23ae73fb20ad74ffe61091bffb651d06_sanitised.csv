@@ -1,0 +1,107 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Unknown,7,<error>,<error>
+EU APPLICATION PRIVACY POLICY,EU APPLICATION PRIVACY POLICY,100.0,8,main,EU APPLICATION PRIVACY POLICY,29,<error>,<error>
+Last,Last,100.0,38,main,Last    ,8,<error>,<error>
+"updated: August 10, 2021","updated: August
+10
+, 202",91.66666666666666,47,sub,"updated: August10, 2021",23,<error>,<error>
+1. Who we are,1. Who we are,100.0,73,main,1. Who we are,13,<generic>,<error>
+1.1. We are,1.1. We are,100.0,87,main,1.1. We are    ,15,<generic>,<error>
+"Craigpark Limited located at Trident Chambers, Wickhams Cay 1 P.O. Box 146, Road Town, Tortola, British Virgin Islands (hereinafter “Craigpark”).","Craigpark Limited located at Trident Chambers, Wickhams Cay 1 P.O.
+    Box 146, Road Town, Tortola, British Virgin Islands (hereinafter
+    «Crai",93.79310344827586,103,sub,"Craigpark Limited located at Trident Chambers, Wickhams Cay 1 P.O.    Box 146, Road Town, Tortola, British Virgin Islands (hereinafter    «Craigpark»).1.2. This Privacy    Policy sets out how we collect and use your non-personal information    when you use the mobile application «Efectum» («Services»)    offered by Craigpark and the choices available to you in connection    with our use of your information (the Privacy Policy). You do not    need to register in order to use Services. All the data that we",509,<error>,<error>
+"Craigpark Limited located at Trident Chambers, Wickhams Cay 1 P.O. Box 146, Road Town, Tortola, British Virgin Islands (hereinafter “Craigpark”).","Craigpark Limited located at Trident Chambers, Wickhams Cay 1 P.O.
+    Box 146, Road Town, Tortola, British Virgin Islands (hereinafter
+    «Crai",93.79310344827586,103,sub,    process in relation to your use of our Services is non-personal one    and has a statistic nature.This Privacy Policy    should be read alongside,149,<error>,<error>
+1.2. This Privacy Policy,".
+2. This Privacy Policy",95.83333333333334,773,main,.,1,<first>,<error>
+2. This Privacy Policy,2. This Privacy Policy,100.0,775,main,2. This Privacy Policy,22,<generic>,<error>
+"2.1. By making available the Services we, acting reasonably and in good faith, believe that you:","2.1. By making
+    available the Services we, acting reasonably and in good faith,
+    believe t",91.66666666666666,798,main,"2.1. By making    available the Services we, acting reasonably and in good faith,    believe that you:",102,<error>,<error>
+(a) have all necessary rights to use the Services;,"(a) have all
+    necessary rights to use the Servi",92.0,903,sub,(a) have all    necessary rights to use the Services;,53,<error>,<error>
+(b) are aware of and accept this Privacy Policy.,"(b) are aware of and
+    accept this Privacy Pol",91.66666666666666,958,sub,"(b) are aware of and    accept this Privacy Policy.3. Information we collect        about you3.1. In order to    implement the agreement between you and us, and provide you with    access to the use of the Services, we will improve, develop and    implement new features to our Services, and enhance the available    Services functionality. To achieve these objectives, and in    compliance with applicable laws, we will collect, store, aggregate,    organize, extract, compare, use, and supplement your data",508,<error>,<error>
+(b) are aware of and accept this Privacy Policy.,"(b) are aware of and
+    accept this Privacy Pol",91.66666666666666,958,sub,    (hereinafter “processing”).3.2. We set out in    more detail ,65,<error>,<error>
+"3.2. We set out in more detail the information we collect when you use our Services, why we collect and process it and the legal bases below.","the information we collect when you use our Services, why
+    we collect and process it and the legal bases below.
+Information Collected
+Purp",78.01418439716312,1544,main,"the information we collect when you use our Services, why    we collect and process it and the legal bases below.",113,<error>,<error>
+Information Collected,Information Collected,100.0,1659,main,Information Collected,21,<first>,<error>
+Purpose,Purpose,100.0,1681,main,Purpose,7,<purpose>,<error>
+Legal Basis,Legal Basis,100.0,1689,main,Legal Basis1,12,<legal_basis>,<error>
+1. Access to camera on the device,"Access
+			to camera on the device",87.87878787878788,1703,sub,Access			to camera on the deviceYou			,38,<first>,<error>
+You should give the permission for the application to camera on the device in order to use the Services because of the Services nature.,"should give the permission for the application to camera on the
+			device in order to use the Services because of the Services
+			natur",94.07407407407408,1744,sub,should give the permission for the application to camera on the			device in order to use the Services because of the Services			nature. ,136,<error>,<error>
+Please note that by rejecting such permission you may not be able to access Services.,"Please note that by rejecting such permission you may not
+			be able to access Servic",95.29411764705881,1882,sub,Please note that by rejecting such permission you may not			be able to access Services.,87,<error>,<error>
+Consent,Consent,100.0,1971,sub,Consent,7,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,1979,sub,Performance			of our contract with you2Additional	,50,<error>,<error>
+"2. Additional statistic data received via integrated internal and external SDK (for instance, myTracker) as the result of your behavioral actions when using the Services and technical interaction with the Services (for instance, your actions such as your choice of the filters, frames or effects, choose the speed of the video)","		statistic data received via integrated internal and external SDK
+			(for instance, myTracker) as the result of your behavioral actions
+			when using the Services and technical interaction with the
+			Services (for instance, your actions such as your choice of the
+			filters, frames or effects, choose the speed of the video)",94.4954128440367,2033,sub,"		statistic data received via integrated internal and external SDK			(for instance, myTracker) as the result of your behavioral actions			when using the Services and technical interaction with the			Services (for instance, your actions such as your choice of the			filters, frames or effects, choose the speed of the video)",323,<error>,<error>
+"We use this information for internal review in order to constantly improve the content of our Services, optimizing user experience, to understand any errors users may encounter when using the Services","We
+			use this information for internal review in order to constantly
+			improve the content of our Services, optimizing user experience,
+			to understand any errors users may encounter when using the",94.0,2361,sub,"We			use this information for internal review in order to constantly			improve the content of our Services, optimizing user experience,			to understand any errors users may encounter when using the			Services",208,<error>,<error>
+Legitimate Interests,"Legitimate
+			Intere",80.0,2574,sub,Legitimate			Interests,22,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,2598,sub,Performance			of our contract with you3,39,<error>,<error>
+"3. Additional statistic data received via integrated internal and external SDK (for instance, Firebase ) when some crashes are caused while using the Services.","Additional
+			statistic data received via integrated internal and external SDK
+			(for instance, Firebase ) when some crashes are caused while
+			using the Ser",91.82389937106919,2640,sub,"Additional			statistic data received via integrated internal and external SDK			(for instance, Firebase ) when some crashes are caused while			using the Services.We			",167,<error>,<error>
+"We use this information for internal review in order to understand any errors users may encounter when using the Services, fix such bugs, constantly improve our Services, optimizing user experience.","use this information for internal review in order to understand
+			any errors users may encounter when using the Services, fix such
+			bugs, constantly improve our Services, optimizing user experien",95.95959595959596,2812,sub,"use this information for internal review in order to understand			any errors users may encounter when using the Services, fix such			bugs, constantly improve our Services, optimizing user experience.We			",204,<error>,<error>
+We use this information in order to manage and administer the Services.,"use this information in order to manage and administer the
+			Services.",94.36619718309859,3020,sub,use this information in order to manage and administer the			Services.,70,<error>,<error>
+Legitimate Interests,"Legitimate
+			Intere",80.0,3092,sub,Legitimate			Interests,22,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,3116,sub,Performance			of our contract with you4Technical              ,62,<error>,<error>
+4. Technical information that is received when you access the Services that contain myTracker SDK.,"  information that is received when you access the Services that contain
+                myTracker",83.6734693877551,3182,sub,  information that is received when you access the Services that contain                myTracker SDK.,102,<first>,<error>
+"This also refers to various technical identifiers that only identify a device (for instance, Google Device Account).","This also refers to various technical identifiers that only identify a device
+                (for instance, Google ",86.20689655172413,3286,sub,"This also refers to various technical identifiers that only identify a device                (for instance, Google Device Account).We use this             ",155,<error>,<error>
+We use this information to provide our Services for tracking the performance of the application as well as our marketing and advertising campaigns.,"   information to provide our Services for tracking the performance of the application
+                as well as our marketing and advertising cam",89.1156462585034,3444,sub,   information to provide our Services for tracking the performance of the application                as well as our marketing and advertising campaigns.We also use       ,171,<error>,<error>
+"We also use this information to better understand how individuals access and use our Services, both on an aggregated and individualized basis; to respond to their desires and preferences; to improve the products of the Company, its partners and affiliates (including targeted advertising and modelling Internet user behaviour) and for other research, analytical or statistical purposes.","         this information to better understand how individuals access and use our Services,
+                both on an aggregated and individualized basis; to respond to their desires and
+                preferences; to improve the products of the Company, its partners and affiliates
+                (including targeted advertising and modelling Internet user behaviour) and for
+      ",85.75129533678756,3618,sub,"         this information to better understand how individuals access and use our Services,                both on an aggregated and individualized basis; to respond to their desires and                preferences; to improve the products of the Company, its partners and affiliates                (including targeted advertising and modelling Internet user behaviour) and for                other research, analytical or statistical purposes.",443,<error>,<error>
+Legitimate Interests,"Legitimate
+			Intere",80.0,4066,sub,Legitimate			Interests,22,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"Performance			of our contract with you3.3. Our legitimate    interests include  (1) maintaining and administrating the    Services; (2) providing the Services to you; (3) improving the    content of the Services; (4) ensuring data is adequately protected;    and (5) compliance with any contractual, legal or regulatory    obligations under any applicable law.3.4. As part of    maintaining and administrating the Services we use the information to",448,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"    analyze user activity and ensure that rules and terms of use for the    Services are not violated.3.5. Please note, if    you do not want us to process sensitive and special categories of    data about you (including data relating to your health, racial or    ethnic origin, political opinion, religious or philosophical beliefs,    sex life,  and your sexual orientation) you should take care not    to post this information or share this data when using the Services    where applicable.",493,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"3.6. Please note, if    you withdraw your consent (and related device permissions) to    processing or you do not provide the data that we require in order to    maintain and administer the Services, you may not be able to access    the Services.3.7. If we intend to    further process your data for any other purpose to those set out in    this Privacy Policy, we shall provide you with details of this    further purpose before we commence processing.3.8. Our app uses Facebook, Admob as ads providers.",504,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"    The advertising providers want to show ads that are relevant to you.    For more information, please checkhttps://www.facebook.com/privacy/explanationhttps://support.google.com/admob/answer/6128543?hl=en4. Data sharing4.1. We take    technical and organizational measures to ensure that your data is    safe. We may share your data with Craigpark Limited and other our    affiliates. Sometimes we may also need to share your data with a    third party in order to provide our Services to you or to administer",512,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"    the Services, for example as described in paragraph 2 and 3 in the    table below.4.2. External SDKs    (Firebase, My Tracker) are connected to the Services, which collect    and store the number of events and actions performed by users inside    the Application, without personal identification. We such data for    internal review in order to optimize user experience and to    understand any errors users may encounter when using the Services.5. Limitation of liability5.1. We bear no",491,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,    liability for the consequences of use of the Services. We ask you to    take a responsible approach to use of the Services.6. International Transfers6.1. We may transfer    and maintain on our servers or databases some of your personal    information outside the European Economic Area (EEA) including in    Russia.6.2. The countries    to which we transfer your data may not have the same data protection    laws as your jurisdiction. We take reasonable cyber security measures,482,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"    and/or put in place the Standard Contractual Clauses (e.g. Model    Clauses, Data Processing Agreement/Addendum) to ensure your data is    adequately protected.7. Retention Periods7.1. We will retain    information for as long as required to perform the purposes for which    the data was collected depending on the legal basis for which that    data was obtained and/or whether additional legal/regulatory    obligations mandate that we retain your personal information during",481,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"    the term that is required and/or permissible under    applicable/relevant law.8. Individual Rights8.1.There are the following rights, in certain circumstances, in relationto personal information of the data subjects under GDPR:(a)Right to access  personal information.(b) Right to rectifypersonal information:  when subject of personal data can requestthat controller or processor of personal data update, block or deletepersonal data, if the data is incomplete, outdated, incorrect,",487,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,unlawfully received or no longer relevant  for the purpose ofprocessing.(c) Right to restrict the use of personalinformation.(d) Right to request that personal information iserased.(e) Right to object to processing of personalinformation.(f) Right to data portability (in certain specificcircumstances).(g) Right not to be subject to an automateddecision.(h) Right to lodge a complaint with a supervisoryauthority.8.2. Please be sure    that we do not collect and process your personal information    intendedly.,512,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"9. Security Measures9.1. We    take technical, organizational and legal measures, including,    where suitable, encryption, to ensure that your personal data are    protected from unauthorized or accidental access, deletion,    modification, blocking, copying and dissemination.10. Changes to this Policy10.1. From time to    time, we may change and/or update this Privacy Policy. If this    Privacy Policy changes in any way, we will post an updated version on",461,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,"    this page. We recommend you regularly review this page to ensure that    you are always aware of our information practices and any changes to    such.11. Contact Us11.1.If you have any questions, please send your inquiries to Servicesupport atefectum.app@gmail.comor in writing to Trident Chambers, Wickhams Cay 1 P.O. Box 146, RoadTown, Tortola, British Virgin Islands. So we can deal with yourenquiry effectively, please quote this Privacy Policy. We will aim to",468,<error>,<error>
+Performance of our contract with you,"Performance
+			of our contract with ",88.88888888888889,4090,sub,respond to you within 30 days from receipt of request.11.2. All    correspondence received by us from you (written or electronic    inquiries) is classified as restricted-access information and may not    be disclosed without your written consent.11.3. The e-mail    address of our DPO isdpo@mailapps.me,303,<error>,<error>

@@ -1,0 +1,13 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,PaulNadler.comGranite Apps ,27,<error>,<error>
+Privacy policy,Privacy policy,100.0,28,main,"Privacy policyGranite Apps LLC does not collect personally identifiable information about its            users except to the extent required by the features of the app and in providing            support for these features. In all other cases data collected by the app is stored            on the device only.Some features, such as providing severe weather alerts, require the users device to            send location information to Granite Apps servers so that it can send the appropriate",489,<error>,<error>
+Privacy policy,Privacy policy,100.0,28,main,            weather alerts. The information is not used for other purposes and the data is not            collected if the user does not enable these features.,159,<error>,<error>
+Third Party Services,Third Party Services,100.0,685,main,Third Party ServicesThis app users third party services which may collect user information in            accordance with their privacy polices.,143,<third>,<error>
+Google Services,Google Services,100.0,831,sub,Google Services,15,<first>,<error>
+Google Play Services,Google Play Services,100.0,847,main,Google Play Services,20,<first>,<error>
+Google Firebase,Google Firebase,100.0,868,main,Google Firebase,15,<first>,<error>
+Google Analytics for Firebase,Google Analytics for Firebase,100.0,884,main,Google Analytics for Firebase,29,<first>,<error>
+Ad Networks,Ad Networks,100.0,914,sub,Ad Networks,11,<third>,<error>
+Google Admob,Google Admob,100.0,926,main,Google Admob,12,<first>,<error>
+InMobi,"
+InMob",83.33333333333334,938,main,InMobi,6,<first>,<error>

@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,HomeSearch this siteSkip to main contentSkip to navigation,58,<error>,<error>
+Privacy policy,Privacy policy,100.0,62,main,Privacy policy,14,<generic>,<error>
+Personal information,Personal information,100.0,77,main,"Personal informationMade this App with your privacy in mind, so ",64,<generic>,<error>
+We do not collect personally identifiable information,we do not collect personally identifiable information,100.0,142,sub,"we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address and location .  Also application is using Admob network to display ads. Application free to use and does not ask you to create login.",300,<first>,<error>
+Permission requests,Permission requests,100.0,443,main,Permission requests,19,<first>,<error>
+Following sensitive permissions are require to make application work properly:,Following sensitive permissions are require to make application work properly:,100.0,463,sub,Following sensitive permissions are require to make application work properly:1. ,81,<first>,<error>
+STORAGE access,STORAGE access,100.0,545,main,STORAGE access : to save/read files on storage (internal and external).2. ,74,<error>,<error>
+Location Access,Location Access,100.0,620,main,Location Access (ACCESS_FINE_LOCATION  andACCESS_COARSE_LOCATION) : This is required to open map and highlight  your current location. This is used when you calculate area using GPS. You can still access application without providing these permissions.Google SitesReport abuseGoogle SitesReport abuse,300,<error>,<error>

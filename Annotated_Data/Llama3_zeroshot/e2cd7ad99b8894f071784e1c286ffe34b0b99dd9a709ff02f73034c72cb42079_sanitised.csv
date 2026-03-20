@@ -1,0 +1,79 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,QuiverVision,12,<error>,<error>
+Products,Products,100.0,13,main,Products,8,<access>,<error>
+Apps,Apps,100.0,22,main,Apps,4,<error>,<error>
+Digital,Digital,100.0,27,main,Digital                                                                              ,85,<error>,<error>
+Environments,Environments,100.0,113,sub,Environments,12,<error>,<error>
+AR Books,AR Books,100.0,126,main,AR Books,8,<error>,<error>
+Services,Services,100.0,135,main,Services,8,<access>,<error>
+AR Coloring,AR Coloring,100.0,144,main,AR Coloring,11,<error>,<error>
+General AR,General AR,100.0,156,sub,General AR,10,<error>,<error>
+Digital,Digital,100.0,167,sub,Digital                                                                              ,85,<error>,<error>
+Environment,Environment,100.0,253,sub,EnvironmentGame Development,27,<error>,<error>
+Licensing,Licensing,100.0,282,main,Licensing,9,<error>,<error>
+Subscribe,Subscribe,100.0,292,main,Subscribe,9,<choice>,<error>
+Education Subscription,Education Subscription,100.0,302,main,Education Subscription,22,<generic>,<error>
+Individual Subscription,Individual Subscription,100.0,325,main,Individual Subscription,23,<error>,<error>
+Education,Education,100.0,349,main,Education                                                                  ResourcesActivity PlansQuiver                                                                              ,182,<access>,<error>
+Ambassadors,Ambassadors,100.0,535,sub,Ambassadors,11,<error>,<error>
+Ambassador Application,Ambassador Application,100.0,547,sub,Ambassador Application,22,<error>,<error>
+Educators,Educators,100.0,570,sub,Educators                                                                              ,87,<error>,<error>
+Mailing List,Mailing List,100.0,658,sub,Mailing List,12,<error>,<error>
+Quiver Live,Quiver Live,100.0,671,main,Quiver Live,11,<third>,<error>
+Facebook Community,Facebook Community,100.0,683,main,Facebook Community,18,<third>,<error>
+Showcase,Showcase,100.0,702,main,Showcase,8,<generic>,<error>
+Our Clients,Our Clients,100.0,711,main,Our Clients,11,<generic>,<error>
+Case,Case,100.0,723,sub,Case                                                                              ,82,<error>,<error>
+Studies,Studies,100.0,806,sub,Studies,7,<error>,<error>
+Testimonials,Testimonials,100.0,814,main,Testimonials,12,<generic>,<error>
+Help,Help,100.0,827,main,Help,4,<access>,<error>
+Contact Us,Contact Us,100.0,832,main,Contact Us,10,<access>,<error>
+Education,Education,100.0,843,main,Education                                                                  ,75,<error>,<error>
+Subscription,Subscription,100.0,919,sub,Subscription,12,<error>,<error>
+Activity,Activity,100.0,932,sub,Activity                                                                  ,74,<generic>,<error>
+Plans,Plans,100.0,1007,sub,Plans,5,<generic>,<error>
+Coloring Packs,Coloring Packs,100.0,1013,main,Coloring Packs,14,<generic>,<error>
+Login/Register,Login/Register,100.0,1028,main,Login/Register,14,<access>,<error>
+Products,Products,100.0,1043,main,Products,8,<error>,<error>
+Services,Services,100.0,1052,main,Services,8,<error>,<error>
+Education,Education,100.0,1061,main,Education                                                            ,69,<error>,<error>
+Resources,Resources,100.0,1131,main,Resources,9,<access>,<error>
+Subscribe,Subscribe,100.0,1141,main,Subscribe,9,<access>,<error>
+Showcase,Showcase,100.0,1151,main,Showcase,8,<generic>,<error>
+Help,Help,100.0,1160,main,Help,4,<error>,<error>
+Contact Us,Contact Us,100.0,1165,main,Contact Us,10,<error>,<error>
+Education Subscription,Education Subscription,100.0,1176,main,Education Subscription,22,<error>,<error>
+Activity,Activity,100.0,1199,sub,Activity ,9,<error>,<error>
+Plans,Plans,100.0,1208,sub,Plans,5,<error>,<error>
+Coloring Packs,Coloring Packs,100.0,1214,main,Coloring Packs,14,<error>,<error>
+Login/Register,Login/Register,100.0,1229,main,Login/Register,14,<access>,<error>
+Sign up to receive,Sign up to receive,100.0,1244,main,Sign up to receive                                                ,66,<choice>,<error>
+updates,updates,100.0,1311,main,updates. You                                                wonâ€™t want to miss out on any of our exciting new products.,121,<error>,<error>
+Sign Up to QuiverVision Newsletter,Sign Up to QuiverVision Newsletter,100.0,1434,main,Sign Up to QuiverVision Newsletter,34,<choice>,<error>
+Stay Tuned,Stay Tuned,100.0,1469,main,Stay Tuned,10,<choice>,<error>
+Company,Company,100.0,1480,main,Company,7,<generic>,<error>
+About Us,About Us,100.0,1488,main,About Us,8,<generic>,<error>
+Meet The Team,Meet The Team,100.0,1497,main,Meet The Team,13,<generic>,<error>
+Testimonials,Testimonials,100.0,1511,main,Testimonials,12,<generic>,<error>
+Showcase,Showcase,100.0,1524,main,Showcase,8,<error>,<error>
+Reseller Program,Reseller Program,100.0,1533,main,Reseller Program,16,<third>,<error>
+Partners,Partners,100.0,1550,main,Partners,8,<third>,<error>
+Quiver Solutions,Quiver Solutions,100.0,1559,main,Quiver Solutions,16,<third>,<error>
+Subscribe,Subscribe,100.0,1576,main,Subscribe,9,<access>,<error>
+Products,Products,100.0,1586,main,Products,8,<error>,<error>
+Services,Services,100.0,1595,main,Services,8,<error>,<error>
+Help,Help,100.0,1604,main,Help,4,<error>,<error>
+News,News,100.0,1609,main,News,4,<third>,<error>
+Education Resources,Education Resources,100.0,1614,main,Education Resources,19,<third>,<error>
+Blog,Blog,100.0,1634,main,Blog,4,<third>,<error>
+Quiver Live,Quiver Live,100.0,1639,main,Quiver Live,11,<error>,<error>
+Facebook Community,Facebook Community,100.0,1651,main,Facebook Community,18,<error>,<error>
+Follow Us,Follow Us,100.0,1670,main,Follow Us,9,<third>,<error>
+Terms & Conditions,Terms & Conditions,100.0,1680,main,Terms & Conditions|,19,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,1701,main,Privacy Policy|,15,<generic>,<error>
+2022 Â,2022 Â,100.0,1718,main,2022 Â© ,8,<generic>,<error>
+QuiverVision,QuiverVision,100.0,1726,main,QuiverVision,12,<generic>,<error>
+Quiver makes learning fun!,Quiver makes learning fun!,100.0,1739,main,Quiver makes learning fun!,26,<generic>,<error>
+Learn More,Learn More,100.0,1766,main,Learn More,10,<generic>,<error>
+"Our subscription gives access to an extensive range of AR coloring experiences (250+ coloring sheets), and a repository of curriculum-aligned lesson and activity plans (75+ activity plans) to use in combination with the 3D AR content. New content added every month is inclusive in the subscription too!","
+Our subscription gives access to an extensive range of AR coloring experiences (250+ coloring sheets), and a repository of curriculum-aligned lesson and activity plans (75+ activity plans) to use in combination with the 3D AR content. New content added every month is inclusive in the subscription too",99.66887417218543,1776,main,"Our subscription gives access to an extensive range of AR coloring experiences (250+ coloring sheets), and a repository of curriculum-aligned lesson and activity plans (75+ activity plans) to use in combination with the 3D AR content. New content added every month is inclusive in the subscription too!",302,<generic>,<error>

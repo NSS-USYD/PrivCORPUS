@@ -1,0 +1,129 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy – ,17,<generic>,<error>
+Home,Home,100.0,17,main,Home of C25KHome,16,<generic>,<error>
+Forums,Forums,100.0,35,main,Forums,6,<generic>,<error>
+Success Stories,Success Stories,100.0,42,main,Success Stories,15,<generic>,<error>
+Blog,Blog,100.0,58,main,Blog,4,<generic>,<error>
+Apps,Apps,100.0,63,main,Apps,4,<generic>,<error>
+Support,Support,100.0,68,main,Support,7,<generic>,<error>
+Press,Press,100.0,76,main,Press,5,<generic>,<error>
+Contact,Contact,100.0,82,main,Contact,7,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,90,main,Privacy PolicyHomePrivacy PolicyPrivacy PolicyZen Labs LLC (“us” or “we”) is committed to protecting your online and mobile privacy. This Privacy Policy discloses the privacy practices for the Zen Labs LLC apps and website. We encourage you to read this Privacy Policy carefully to learn what information we collect from you and how we use that information.,357,<generic>,<error>
+Outlogic,Outlogic,100.0,452,main,Outlogic,8,<generic>,<error>
+California Users,California Users,100.0,461,sub,"California Users:If you are located in California, then under the CCPA, you have a right to opt-out of the sale of your information. To do this, please head over to Outlogic’s“Opt-out/Do Not Sell” Form.Outlogic collects and passes to third parties a variety of information for use as described below:",300,<third>,<error>
+California Users,California Users,100.0,461,sub,"When this app is in use (or running in the background) we collect and share with our business partners certain device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address. That data may be used for the following purposes: (a) to customize and measure ads in apps and other advertising; (b) for app and user analytics; (c) for disease prevention, and cybersecurity,; (d) for market, civic or other research regarding aggregated human foot and traffic patterns, and (e) to generate proprietary pseudonymized identifiers tied to the information collected for the above purposes.",862,<third>,<error>
+California Users,California Users,100.0,461,sub,"You may opt out of the above usage by (1) follow the instructions inOutlogic’s Privacy Policy, or (2) for a platform-based opt-out of interest-based or “personalized” advertising, go to your device settings and opt out of interest-based or personalized advertising (iOS: Settings → General → Privacy → Advertising →Limit Ad-Tracking; Android: Settings →",353,<third>,<error>
+California Users,California Users,100.0,461,sub,"Google → Ads → Opt out of Ads Personalization). You may also prevent location from being collected by this or other apps through your location permission settings.What’s Collected:Precise location information (such as your device GPS coordinates), relative location information (from WiFi signals or Bluetooth Low Energy devices in your proximity, for example), device-based advertising identifiers, information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier and IP address.",547,<third>,<error>
+California Users,California Users,100.0,461,sub,When We Collect It:When the app is in use or running in the background.How We Use and Share It:,95,<third>,<error>
+California Users,California Users,100.0,461,sub,"We and other third parties may use the information (a) to customize ads in this or other apps (for instance, if your device is often located at or near music venues, you might receive offers for music tickets); (b) to measure effectiveness of those ads; (c) for disease prevention and research, security, anti-crime and law enforcement; or (d) for market, civic or other research regarding aggregated traffic patterns (for instance, a company that analyzes shopping trends might want to learn whether more or fewer devices are seen near malls or in other shopping districts).",575,<third>,<error>
+Sense360,Sense360,100.0,3209,main,Sense360,8,<third>,<error>
+California Users,California Users,100.0,3218,sub,"California Users:If you are located in California, then under the CCPA, you have a right to opt-out of the collection of your information. Sense360 does not “sell” and in the past 12 months have not “sold” any “personal information” they have collected from a Sense360 Enabled App, as those terms are defined under the CCPA. To opt-out, please head over to Sense360’s“Opt-out” Form.",382,<third>,<error>
+California Users,California Users,100.0,3218,sub,"For users in North America, some of Zen Labs LLC’s apps may share your device’s precise geolocation and other details about your device (like hardware characteristics, a variety of sensor data, and a list of installed third-party applications) with our partner Sense360 on an ongoing basis, including when the apps are closed. This information is sent with the device’s advertising identifier or another unique device-specific code. Sense360 may use all of this information for market research and other research regarding aggregated patterns, and as further described in its",575,<third>,<error>
+California Users,California Users,100.0,3218,sub,"Privacy Policy, which has more detail on the entire process. For example, Sense360 analyzes restaurant visit trends to help their clients create new food and coupon offerings to better serve customers’ needs. You can use your device settings to (i) disable or limit precise geolocation collection for the entire device or particular apps, which may affect the functionality of certain app features and/or (ii) disable or limit use of the advertising identifier (which will block that identifier’s transmission to Sense360).",523,<third>,<error>
+ADDENDUM FOR CALIFORNIA RESIDENT'S PRIVACY RIGHTS,ADDENDUM FOR CALIFORNIA RESIDENT’S PRIVACY RIGHTS,97.95918367346938,4705,main,ADDENDUM FOR CALIFORNIA RESIDENT’S PRIVACY RIGHTS,49,<error>,<error>
+The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California.,The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California.,100.0,4755,sub,The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California. This section of the Privacy Policy applies if you are a natural person who is a resident of California (“California Consumer”) and uses our Services. This Addendum supplements the information in thePrivacy Policy,317,<first>,<error>
+The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California.,The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California.,100.0,4755,sub,". However, this Addendum is intended solely for, and is applicable only as to, California Consumers: if you are not a California Consumer (or a resident of California), this does not apply to you and you should not rely on it.In the below tables and sections, we describe (as required by the CCPA):The Categories of Personal Information we Collect, Use, and Share with Third PartiesOur Business Purposes for Collecting and Sharing Personal InformationYour California Privacy Rights and Choices(Section 3)",504,<first>,<error>
+The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California.,The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California.,100.0,4755,sub,Right to Opt-out of the sale of your personal informationRight to request Deletion of your personal informationRight to request Access to your personal informationExercising Your Rights & Submitting a Verifiable Consumer RequestRight to NondiscriminationInformation about Persons Under 16 Years of AgeAuthorized AgentsThe following sets forth the categories of information we collect and purposes for which we may use California Consumers’ personal information:,461,<first>,<error>
+OUR COLLECTION OF PERSONAL INFORMATION,OUR COLLECTION OF PERSONAL INFORMATION,100.0,6053,main,OUR COLLECTION OF PERSONAL INFORMATION,38,<first>,<error>
+"Depending on how you interact with us, we may collect about you the categories of information summarized in the table below.","Depending on how you interact with us, we may collect about you the categories of information summarized in the table below.",100.0,6092,sub,"Depending on how you interact with us, we may collect about you the categories of information summarized in the table below. The following tables describe:",155,<first>,<error>
+Our Collection of Personal Information:,Our Collection of Personal Information:,100.0,6248,sub,"Our Collection of Personal Information:the types of Personal Information that we collect and the types of sources we collect it from. “Personal Information” means information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.Our Collection of Personal Information:",386,<first>,<error>
+Our Collection of Personal Information:,Our Collection of Personal Information:,100.0,6248,sub,the types of recipients and/or Third Parties to whom we disclose or sell Personal Information and have disclosed or sold Personal Information to within the past 12 months.,171,<first>,<error>
+Our Business Purposes:,Our Business Purposes:,100.0,6809,sub,"Our Business Purposes:our business purposes for (a) collecting and (b) sharing Personal Information, which are generally the same.All of the information below is subject to your Right to Access:Category:Identifiers(e.g., online identifiers; IP address; mobile ad identifiers, other online or advertising platform identifiers)We Currently Collect/Use this Category of Personal Information:YESThe Sources we collect this Category of Personal Information from:Data analystics providers and data compilers",501,<first>,<error>
+Our Business Purposes:,Our Business Purposes:,100.0,6809,sub,Third party mobile applications and websitesCustomer CategoriesWe Have “Sold” this Category of Personal Information in the Past 12 Months:YESThis Category of Personal Information was shared with the following Categories of Third Parties for Business Purpose(s):Data analystics providers and data compilersThird party mobile applications and websitesCustomer CategoriesWe also may share any of the personal information we collect as follows:,440,<first>,<error>
+Sharing for Legal Purposes,Sharing for Legal Purposes,100.0,7769,main,Sharing for Legal Purposes:,27,<third>,<error>
+Sharing for Legal Purposes,Sharing for Legal Purposes,100.0,7769,main,"In addition, we may share personal information with third parties in order to: (a) comply with an official legal process or a regulatory investigation (e.g. a subpoena or court order); (b) enforce our Terms of Service, this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; and/or (d) protect the rights, property or personal safety of us, our platform, our customers, our agents and affiliates, its users and/or the public. We likewise may provide information to other companies and organizations (including law enforcement) for fraud protection, and spam/malware prevention, and similar purposes.",727,<third>,<error>
+Sharing In Event of a Corporate Transaction,Sharing In Event of a Corporate Transaction,100.0,8525,main,"Sharing In Event of a Corporate Transaction:We may also share personal information in the event of a major corporate transaction, including for example a merger, investment, acquisition, reorganization, consolidation, bankruptcy, liquidation, or sale of some or all of our assets, or for purposes of due diligence connected with any such transaction.",350,<third>,<error>
+Sharing With Service Providers,Sharing With Service Providers,100.0,8877,main,"Sharing With Service Providers:We share any personal information we collect with our service providers, which may include (for instance) providers involved in tech or customer support, operations, web or data hosting, billing, accounting, security, marketing, data management, validation, enhancement or hygiene, or otherwise assisting us to provide, develop, maintain and improve our services.",394,<third>,<error>
+Sharing of Aggregate Information,Sharing of Aggregate Information,100.0,9273,main,"Sharing of Aggregate Information:We may aggregate and/or de-identify any information collected so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”). We may use Aggregate/De-Identified Information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors, in our discretion.",467,<third>,<error>
+Outlogic & Trusted Partners,Outlogic & Trusted Partners,100.0,9742,main,Outlogic & Trusted Partners,27,<third>,<error>
+Adder,Adder,100.0,9770,sub,Adder,5,<third>,<error>
+Adform,Adform,100.0,9776,sub,Adform,6,<third>,<error>
+Adobe,Adobe,100.0,9783,sub,Adobe,5,<third>,<error>
+AdSquare,AdSquare,100.0,9789,sub,AdSquare,8,<third>,<error>
+Advan Research Company,Advan Research Company,100.0,9798,sub,Advan Research Company,22,<third>,<error>
+Affinity Answers,Affinity Answers,100.0,9821,sub,Affinity Answers,16,<third>,<error>
+AirSage,AirSage,100.0,9838,sub,AirSage,7,<third>,<error>
+Amazon,Amazon,100.0,9846,sub,Amazon,6,<third>,<error>
+Amazon Web Services – AWS Offerings,Amazon Web Services – AWS Offerings,100.0,9853,sub,Amazon Web Services – AWS Offerings,35,<third>,<error>
+Amobee,Amobee,100.0,9889,sub,Amobee,6,<third>,<error>
+Analytic Services LLC dba Culmen International,Analytic Services LLC dba Culmen International,100.0,9896,sub,Analytic Services LLC dba Culmen International,46,<third>,<error>
+AppliedPost,AppliedPost,100.0,9943,sub,AppliedPost,11,<third>,<error>
+AppNexus Inc.,AppNexus Inc.,100.0,9955,sub,AppNexus Inc.,13,<third>,<error>
+Arrivalist,Arrivalist,100.0,9969,sub,Arrivalist,10,<third>,<error>
+AT&T,AT&T,100.0,9980,sub,AT&T,4,<third>,<error>
+Atlassian,Atlassian,100.0,9985,sub,Atlassian,9,<third>,<error>
+AWS,AWS,100.0,9995,sub,AWS,3,<third>,<error>
+BattleFin,BattleFin,100.0,9999,sub,BattleFin,9,<third>,<error>
+Bazze,Bazze,100.0,10009,sub,Bazze,5,<third>,<error>
+Billups,Billups,100.0,10015,sub,Billups,7,<third>,<error>
+Blis,Blis,100.0,10023,sub,Blis,4,<third>,<error>
+Block by Block,Block by Block,100.0,10028,sub,Block by Block,14,<third>,<error>
+Blogwatcher Inc.,Blogwatcher Inc.,100.0,10043,sub,Blogwatcher Inc.,16,<third>,<error>
+CACI,CACI,100.0,10060,sub,CACI,4,<third>,<error>
+Carbon Reach,Carbon Reach,100.0,10065,sub,Carbon Reach,12,<third>,<error>
+CARTO,CARTO,100.0,10078,sub,CARTO,5,<third>,<error>
+Camber Systems,Camber Systems,100.0,10084,sub,Camber Systems,14,<third>,<error>
+"Cisco Systems, Inc. (Meraki LLC)","Cisco Systems, Inc. (Meraki LLC)",100.0,10099,sub,"Cisco Systems, Inc. (Meraki LLC)",32,<third>,<error>
+Civilia,Civilia,100.0,10132,sub,Civilia,7,<third>,<error>
+Clear Channel,Clear Channel,100.0,10140,sub,Clear Channel,13,<third>,<error>
+Complementics,Complementics,100.0,10154,sub,Complementics,13,<third>,<error>
+"Connected2Fiber, Inc","Connected2Fiber, Inc",100.0,10168,sub,"Connected2Fiber, Inc",20,<third>,<error>
+Crossover Communications Ltd.,Crossover Communications Ltd.,100.0,10189,sub,Crossover Communications Ltd.,29,<third>,<error>
+Crux,Crux,100.0,10219,sub,Crux,4,<third>,<error>
+Cuende,Cuende,100.0,10224,sub,Cuende,6,<third>,<error>
+DDQI,DDQI,100.0,10231,sub,DDQI,4,<third>,<error>
+"Descartes Labs, Inc.","Descartes Labs, Inc.",100.0,10236,sub,"Descartes Labs, Inc.",20,<third>,<error>
+Digital Envoy,Digital Envoy,100.0,10257,sub,Digital Envoy,13,<third>,<error>
+Ecopia Tech,Ecopia Tech,100.0,10271,sub,Ecopia Tech,11,<third>,<error>
+Eyeota,Eyeota,100.0,10283,sub,Eyeota,6,<third>,<error>
+Facebook,Facebook,100.0,10290,sub,Facebook,8,<third>,<error>
+Factual,Factual,100.0,10299,sub,Factual,7,<third>,<error>
+GEOBLINK SL,GEOBLINK SL,100.0,10307,sub,GEOBLINK SL,11,<error>,<error>
+GeoUniq,GeoUniq,100.0,10319,sub,GeoUniq,7,<error>,<error>
+Google,Google,100.0,10327,sub,Google,6,<error>,<error>
+GroundTruth,GroundTruth,100.0,10334,sub,GroundTruth,11,<error>,<error>
+Gyana,Gyana,100.0,10346,sub,Gyana,5,<error>,<error>
+HERE Technologies,HERE Technologies,100.0,10352,sub,HERE Technologies,17,<error>,<error>
+Hubspot,Hubspot,100.0,10370,sub,Hubspot,7,<error>,<error>
+Hyas,Hyas,100.0,10378,sub,Hyas,4,<error>,<error>
+Infinia Mobile,Infinia Mobile,100.0,10383,sub,Infinia Mobile,14,<error>,<error>
+InMarket,InMarket,100.0,10398,sub,InMarket,8,<error>,<error>
+Intersection,Intersection,100.0,10407,sub,Intersection,12,<error>,<error>
+JCDecaux UK Limited,JCDecaux UK Limited,100.0,10420,sub,JCDecaux UK Limited,19,<error>,<error>
+JLL,JLL,100.0,10440,sub,JLL,3,<error>,<error>
+Jorte,Jorte,100.0,10444,sub,Jorte,5,<error>,<error>
+Kairos Fire,Kairos Fire,100.0,10450,sub,Kairos Fire,11,<error>,<error>
+Kalibrate,Kalibrate,100.0,10462,sub,Kalibrate,9,<error>,<error>
+Kantar Media,Kantar Media,100.0,10472,sub,Kantar Media,12,<error>,<error>
+Kisio Consulting,Kisio Consulting,100.0,10485,sub,Kisio Consulting,16,<error>,<error>
+Liveramp,Liveramp,100.0,10502,sub,Liveramp,8,<error>,<error>
+Location Sciences,Location Sciences,100.0,10511,sub,Location Sciences,17,<error>,<error>
+Locomizer,Locomizer,100.0,10529,sub,Locomizer,9,<error>,<error>
+LoopMe,LoopMe,100.0,10539,sub,LoopMe,6,<error>,<error>
+Lotame,Lotame,100.0,10546,sub,Lotame,6,<error>,<error>
+M1 Data and Analytics,M1 Data and Analytics,100.0,10553,sub,M1 Data and Analytics,21,<error>,<error>
+Macefusion,Macefusion,100.0,10575,sub,Macefusion,10,<error>,<error>
+Market Services Inc. (AggData),Market Services Inc. (AggData),100.0,10586,sub,Market Services Inc. (AggData),30,<error>,<error>
+Maxar,Maxar,100.0,10617,sub,Maxar,5,<error>,<error>
+MediaMath,MediaMath,100.0,10623,sub,MediaMath,9,<error>,<error>
+Merkle,Merkle,100.0,10633,sub,Merkle,6,<error>,<error>
+Microsoft,Microsoft,100.0,10640,sub,Microsoft,9,<error>,<error>
+MiQ,MiQ,100.0,10650,sub,MiQ,3,<error>,<error>
+Mobilewalla,Mobilewalla,100.0,10654,sub,Mobilewalla,11,<error>,<error>
+MyTraffic,MyTraffic,100.0,10666,sub,MyTraffic,9,<error>,<error>
+Native Touch,Native Touch,100.0,10676,sub,Native Touch,12,<error>,<error>
+nContext,nContext,100.0,10689,sub,nContext,8,<error>,<error>
+Nearco,Nearco,100.0,10698,sub,Nearco,6,<error>,<error>
+Neustar,Neustar,100.0,10705,sub,Neustar,7,<error>,<error>
+Nielsen,Nielsen,100.0,10713,sub,Nielsen,7,<error>,<error>
+Nodle International,Nodle International,100.0,10721,sub,Nodle International,19,<error>,<error>
+NYBSYS,NYBSYS,100.0,10741,sub,NYBSYS,6,<error>,<error>
+OmniSci,OmniSci,100.0,10748,sub,OmniSci,7,<error>,<error>
+On Device Research,On Device Research,100.0,10756,sub,On Device Research,18,<error>,<error>
+ONICS-IT,ONICS-IT,100.0,10775,sub,ONICS-IT,8,<error>,<error>
+OnSpot Data,OnSpot Data,100.0,10784,sub,OnSpot Data,11,<error>,<error>
+Optibus,Optibus,100.0,10796,sub,Optibus,7,<error>,<error>
+Place Dashboard,Place Dashboard,100.0,10804,sub,"Place DashboardPlacensePosterscopePushSpringQuorum Data Inc.Reveal MobileRoq.adS4MSalesforceSense360ShopfullySierra Nevada CorporationSinglespotSirenSitu8edSkyhook WirelessSpur IntelligenceStatiqStreetMetricsSystems and Technology ResearchTalon Outdoor LimitedTargomoTeam CymruTectonixTelefonicaThe FloowThe Rubicon Project, LimitedThe Trade Desk, Inc and affiliated companiesTiendeoUberMediaUbimo, IncUniversity of VirginiaWireless Registry dba SignalFrameOutlogicxAd, Inc. dba GroundTruthXandrZeotapABOUT US",509,<error>,<error>
+Place Dashboard,Place Dashboard,100.0,10804,sub,"Zen Labs is a company founded upon health and fitness. Our goal is to provide our users with intuitive, helpful, and useful apps that will help them on their journey to living a better and healthier life. Be healthy. Stay happy. Namaste.RECOMMENDED POSTSNo Running Experience? No Problem. C25K (Couch-to-5K) Is The Perfect Program That Will Get You Running.Perfecting Your Breathing Technique During Running5 Tips And Tricks To Deal With Plantar FasciitisLearning The Proper Running Technique",492,<error>,<error>
+Place Dashboard,Place Dashboard,100.0,10804,sub,"How To Combine Good Nutrition With Running For Maximum Fat LossLATEST BLOG NEWSAvoid These 5 Common Mistakes of First-Time RunnersFebruary 21, 20234 Habits of Successful RunnersAugust 20, 2019How To Make Your Long Runs Race-ReadyJanuary 21, 2019TAGS5km to 10 km training plam5km to 10km running plan5km to 10km running program10k runbcaasbenefits of winter runningbreathing techniquecold weatherDesigndifferent types of runningseating healthierevening trainingfish oilfoodfood and activity diaryfood diary",505,<error>,<error>
+Place Dashboard,Place Dashboard,100.0,10804,sub,health benefitshealth benefits of jogging everydayhealthy eatingHIIThill repeatsHolidayimportance of cross trainingimprove distanceincrease mileage runninginterval trainingLifemeal planmorning trainingproteinrecoveryrest daysrunningrunning breathing tips for beginnerssprintingsprintssupplementsTechtempo runtrackingTravelTripwinter runningwomenworkout log© 2023 Home of C25K. All rights reservedDownload C25K for free!,419,<error>,<error>

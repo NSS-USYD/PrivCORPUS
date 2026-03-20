@@ -1,0 +1,16 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,п»ї,3,<error>,<error>
+Privacy police,Privacy police,100.0,4,main,Privacy police,14,<error>,<error>
+РљРѕРЅС„РёРґРµРЅС†РёР°Р»СЊРЅРѕСЃС‚СЊ,РљРѕРЅС„РёРґРµРЅС†РёР°Р»СЊРЅРѕСЃС‚СЊ,100.0,19,main,РљРѕРЅС„РёРґРµРЅС†РёР°Р»СЊРЅРѕСЃС‚СЊ,36,<error>,<error>
+"РџСЂРѕРіСЂР°РјРјР° ""AlReader"" РЅРµ РёСЃРїРѕР»СЊР·СѓРµС‚ РєР°РєРёС…-Р»РёР±Рѕ Р»РёС‡РЅС‹С… РґР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ","РџСЂРѕРіСЂР°РјРјР° ""AlReader"" РЅРµ РёСЃРїРѕР»СЊР·СѓРµС‚ РєР°РєРёС…-Р»РёР±Рѕ Р»РёС‡РЅС‹С… РґР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ",100.0,56,main,"РџСЂРѕРіСЂР°РјРјР° ""AlReader"" РЅРµ РёСЃРїРѕР»СЊР·СѓРµС‚ РєР°РєРёС…-Р»РёР±Рѕ Р»РёС‡РЅС‹С… РґР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.",127,<error>,<error>
+Р Р°Р·СЂРµС€РµРЅРёРµ РґРѕСЃС‚СѓРїР°,Р Р°Р·СЂРµС€РµРЅРёРµ РґРѕСЃС‚СѓРїР°,100.0,184,main,Р Р°Р·СЂРµС€РµРЅРёРµ РґРѕСЃС‚СѓРїР° Рє РґР°РЅРЅС‹Рј С‚РµР»РµС„РѕРЅР° (android.permission.READ_PHONE_STATE) РЅРµРѕР±С…РѕРґРёРјРѕ ,128,<error>,<error>
+РґР»СЏ РѕР±РµСЃРїРµС‡РµРЅРёСЏ,РґР»СЏ РѕР±РµСЃРїРµС‡РµРЅРёСЏ,100.0,313,sub,РґР»СЏ РѕР±РµСЃРїРµС‡РµРЅРёСЏ Р,31,<error>,<error>
+OСЃС‚Р°РЅРѕРІРєРё TTS,ѕСЃС‚Р°РЅРѕРІРєРё TTS,95.23809523809523,344,sub,ѕСЃС‚Р°РЅРѕРІРєРё TTS РІРѕ ,27,<error>,<error>
+РІСЂРµРјСЏ РІС…РѕРґСЏС‰РµРіРѕ РёР»Рё РёСЃС…РѕРґСЏС‰РµРіРѕ Р·РІРѕРЅРєР°,РІСЂРµРјСЏ РІС…РѕРґСЏС‰РµРіРѕ РёР»Рё РёСЃС…РѕРґСЏС‰РµРіРѕ Р·РІРѕРЅРєР°,100.0,371,sub,РІСЂРµРјСЏ РІС…РѕРґСЏС‰РµРіРѕ РёР»Рё РёСЃС…РѕРґСЏС‰РµРіРѕ Р·РІРѕРЅРєР°.,71,<error>,<error>
+РќРѕРјРµСЂР°,РќРѕРјРµСЂР°,100.0,443,main,РќРѕРјРµСЂР° ,13,<error>,<error>
+С‚РµР»РµС„РѕРЅРѕРІ,С‚РµР»РµС„РѕРЅРѕРІ,100.0,456,sub,С‚РµР»РµС„РѕРЅРѕРІ Рё ,22,<error>,<error>
+РїСЂРѕС‡РёРµ РґР°РЅРЅС‹Рµ РїСЂРѕРіСЂР°РјРјРѕР№,РїСЂРѕС‡РёРµ РґР°РЅРЅС‹Рµ РїСЂРѕРіСЂР°РјРјРѕР№,100.0,478,sub,"РїСЂРѕС‡РёРµ РґР°РЅРЅС‹Рµ РїСЂРѕРіСЂР°РјРјРѕР№ РЅРµ Р°РЅР°Р»РёР·РёСЂСѓСЋС‚СЃСЏ, РЅРµ СЃРѕС…СЂР°РЅСЏСЋС‚СЃСЏ Рё РЅРµ РёСЃРїРѕР»СЊР·СѓСЋС‚СЃСЏ.~~~",144,<error>,<error>
+Statement of customer privacy,Statement of customer privacy,100.0,625,main,Statement of customer privacy.,30,<generic>,<error>
+The AlReader application does not use any private data of the customer,The AlReader application does not use any private data of the customer,100.0,656,sub,The AlReader application does not use any private data of the customer.,71,<first>,<error>
+The permission to access the phone state (android.permission.READ_PHONE_STATE) is solely requested to provide ability to stop TTS on an incoming call,The permission to access the phone state (android.permission.READ_PHONE_STATE) is solely requested to provide ability to stop TTS on an incoming call,100.0,728,sub,The permission to access the phone state (android.permission.READ_PHONE_STATE) is solely requested to provide ability to stop TTS on an incoming call.,150,<first>,<error>
+"Any phone numbers or other data are not analyzed, saved or otherwise used by the application","Any phone numbers or other data are not analyzed, saved or otherwise used by the application",100.0,879,main,"Any phone numbers or other data are not analyzed, saved or otherwise used by the application.",93,<first>,<error>

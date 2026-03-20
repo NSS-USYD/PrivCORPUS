@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Paramount Privacy | RedirectingRedirectingIf this page does not redirect within a few seconds, please check any ad blocking extensions you may be using and try again.",166,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,169,main,Privacy Policy,14,<generic>,<error>
+Cookie Policy,Cookie Policy,100.0,184,main,Cookie Policy,13,<generic>,<error>
+Children's Policy,"
+Childrens Policy",94.11764705882352,197,main,Childrens Policy,16,<generic>,<error>
+Do Not Sell My Personal Information,"
+Do Not Sell My Personal Informatio",97.14285714285714,214,main,Do Not Sell My Personal Information,35,<third>,<error>

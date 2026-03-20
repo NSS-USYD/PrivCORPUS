@@ -1,0 +1,14 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,ï»¿,3,<error>,<error>
+Privacy Policy,privacy policy,100.0,4,main,privacy policyPrivacy Policy,28,<generic>,<error>
+As noted in the policy above,As noted in the policy above,100.0,34,main,"As noted in the policy above, the English language version of the ",66,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,100,main,Privacy Policy and ,19,<generic>,<error>
+Terms of Use,Terms of Use,100.0,119,main,Terms of Use will govern your ,30,<generic>,<error>
+relationship,relationship,100.0,149,main,relationship with ,18,<generic>,<error>
+Pandas Of Caribbean Limited,Pandas Of Caribbean Limited,100.0,167,main,Pandas Of Caribbean Limited. While the ,39,<first>,<error>
+English version,English version,100.0,206,main,"English version will govern, you can also use an ",49,<generic>,<error>
+automatic translation tool,automatic translation tool,100.0,255,main,automatic translation tool like ,32,<first>,<error>
+Google Translate,Google Translate,100.0,287,main,Google Translate to view the ,29,<third>,<error>
+documents,documents,100.0,316,main,documents in your ,18,<generic>,<error>
+language,language,100.0,334,main,language. Any further translation revisions will be posted on this ,67,<generic>,<error>
+page,page,100.0,401,main,page.,5,<generic>,<error>

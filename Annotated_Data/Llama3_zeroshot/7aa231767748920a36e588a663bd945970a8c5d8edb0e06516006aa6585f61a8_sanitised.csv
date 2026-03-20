@@ -1,0 +1,23 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,HomeSearch this siteSkip to main contentSkip to navigationHomeAntiTheftTOUFileSharePPAntiTheftPPHomeAntiTheftTOUFileSharePPAntiTheftPPMoreHomeAntiTheftTOUFileSharePPAntiTheftPPApps Vendors ,189,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,206,main,Privacy PolicyPrivacy PolicyThe above mentioned document is an agreement between Apps Vendors & our users who’re going to download Apps from our store. Read carefully all above mentioned details including rules that are applicable on users availing services of our app by downloading / installing our products.For ease read carefully all details in case of any disagreement you can uninstall our apps.,401,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,206,main,"Apps we’re offering are available on Google Play Store. You can download our android apps from Apps Vendors. Please note we’ve right to implement usage free on our free apps in future.The application asks for the ""Manage Storage"" permission as the application has to fetch and read all the documents files in there respective categories.We do not collect any personal data or non-personal data from users in anyway.",415,<generic>,<error>
+Data / Information Collection,Data / Information Collection,100.0,1029,main,Data / Information Collection:,30,<generic>,<error>
+a- Personal Data,"a-
+Personal Data",93.75,1060,sub,a-Personal Data :We do not collect any personal data from users by any mean,75,<first>,<what>
+b- Non-Personal Data,"b-
+Non-Personal Data",95.0,1138,sub,b-Non-Personal Data :We do not collect any non-personal data from users in any way,82,<first>,<what>
+Third Parties Agreements,Third Parties Agreements,100.0,1223,main,Third Parties Agreements:We offer Advertisements in our android apps. The advertisements offered in our app are from Third Parties. We do not share any details of users to any server or any party.,196,<third>,<why>
+Advertisement in Apps,Advertisement in Apps,100.0,1421,main,Advertisement in Apps:Our apps are displaying advertisement we received from Third parties including Admob owned by Google. You can read Admob Privacy Policy by visiting this link:https://policies.google.com/privacy?hl=en,221,<third>,<why>
+Information Sharing with Law & Enforcement,Information Sharing with Law & Enforcement,100.0,1645,sub,Information Sharing with Law & Enforcement:The scenario where sharing data or information to law & enforcement agencies are concerned for sole purpose (safety) we do share with them by following legal protection acts without concerning any harm to user data policy.,265,<third>,<why>
+We Offered Apps,We Offered Apps,100.0,1912,main,We Offered Apps with making sure no related such permissions are present in them:,81,<generic>,<how-gathered>
+- Few permissions required for app proper functionality,"-
+Few permissions required for app proper functionality",98.18181818181819,1994,sub,-Few permissions required for app proper functionality required by few apps will be asked from users. On agree with the permission grant the required specific functionality will work.,183,<first>,<how-used>
+- No Sign In / Sign Up required from Users,"-
+No Sign In / Sign Up required from Users",97.61904761904762,2179,sub,-No Sign In / Sign Up required from Users,41,<first>,<other>
+- No Data gathering,"-
+No Data gathering",94.73684210526316,2222,sub,-No Data gathering,18,<first>,<other>
+- Not installing other apps without asking,"-
+Not installing other apps without asking",97.61904761904762,2242,sub,-Not installing other apps without asking,41,<first>,<other>
+- No harmful Trojan or virus,"-
+No harmful Trojan or virus",96.42857142857143,2285,sub,-No harmful Trojan or virusFor better user satisfaction we do welcome suggestions & feedback from users you can reach out us at:appsvendors@gmail.comPlease Note we do have right to make changes in our policy at any time in future. Keep yourself-updated by visiting this link randomly.Report abusePage detailsPage updatedGoogle SitesReport abuse,344,<first>,<other>

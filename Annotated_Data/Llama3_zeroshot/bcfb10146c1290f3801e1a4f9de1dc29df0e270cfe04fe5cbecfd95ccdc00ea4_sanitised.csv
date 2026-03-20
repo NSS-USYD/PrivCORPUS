@@ -1,0 +1,33 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Watsons Philippines Privacy Policy | Watsons PhilippinesGet up to P200 off with vouchers!Join Watsons Club to get member exclusive perks!Look Good, Do Good, Feel GreatDownload the appDOWNLOAD NOWOur StoresTrending NowStores ServicesLOGINLogin/Sign UpActivate CardMy AccountWish ListMy OrdersWatsons Club Privileges0MY BagMY ACCOUNTHi Friend !Login/Sign UpActivate CardMy AccountWish ListMy OrdersWatsons Club PrivilegesGet our app via:10.10 SaleColgate SaleLifestrong SaleHoliday GiftsMemberHealthSkincare",505,<error>,<error>
+,,-1.0,0,,"Personal CareHairMom & BabyPet CareOnly @ WatsonsMakeupSexual WellnessFragranceMenHealth HubAll BrandsDownload the Watsons App now! Use code 'SKIP' to get extra P100 off when you check out via Click & CollectJoin Watsons Club to get member exclusive perks!Get a shipping fee discount with minimum purchase of Php 1,000 for all Watsons Club Members (discount capped at Php 50.00).Download the Watsons App now! Use code 'SKIP' to get extra P100 off when you check out via Click & Collect",485,<error>,<error>
+,,-1.0,0,,"Join Watsons Club to get member exclusive perks!Get a shipping fee discount with minimum purchase of Php 1,000 for all Watsons Club Members (discount capped at Php 50.00).Download the appto enjoy the best shopping experienceWatsons eStore",238,<error>,<error>
+Order & Payment,Order & Payment,100.0,1282,main,Order & Payment,15,<error>,<what>
+Cancellation Policy,Cancellation Policy,100.0,1298,sub,Cancellation Policy,19,<error>,<what>
+Shipping & Delivery,Shipping & Delivery,100.0,1318,main,Shipping & Delivery,19,<generic>,<what>
+Return & Refund,Return & Refund,100.0,1338,sub,Return & Refund,15,<generic>,<what>
+Senior Citizen/PWD Discounts,Senior Citizen/PWD Discounts,100.0,1354,main,Senior Citizen/PWD Discounts,28,<generic>,<what>
+Watsons Card Members,Watsons Card Members,100.0,1383,main,Watsons Card Members,20,<generic>,<what>
+Member Registration,Member Registration,100.0,1404,sub,Member Registration,19,<generic>,<what>
+Members Online Exclusive Deals,Members Online Exclusive Deals,100.0,1424,sub,Members Online Exclusive Deals,30,<generic>,<what>
+Card Member Benefits,Card Member Benefits,100.0,1455,sub,Card Member Benefits,20,<generic>,<what>
+Card Member Rewards,Card Member Rewards,100.0,1476,sub,Card Member Rewards,19,<generic>,<what>
+Card Member FAQ,Card Member FAQ,100.0,1496,sub,Card Member FAQ,15,<generic>,<what>
+Elite Card Member Benefits,Elite Card Member Benefits,100.0,1512,sub,Elite Card Member Benefits,26,<generic>,<what>
+Elite Card Member FAQ,Elite Card Member FAQ,100.0,1539,sub,Elite Card Member FAQ,21,<generic>,<what>
+Members Terms and Conditions,Members Terms and Conditions,100.0,1561,sub,Members Terms and Conditions,28,<generic>,<what>
+Shopping @ Watsons,Shopping @ Watsons,100.0,1590,main,Shopping @ Watsons,18,<generic>,<what>
+Our Stores,Our Stores,100.0,1609,sub,Our Stores,10,<generic>,<what>
+Contact Us,Contact Us,100.0,1620,sub,Contact Us,10,<contact>,<what>
+About Us,About Us,100.0,1631,sub,About Us,8,<generic>,<what>
+Who We Are,Who We Are,100.0,1640,sub,Who We Are,10,<generic>,<what>
+Watsons Brand Promise,Watsons Brand Promise,100.0,1651,sub,Watsons Brand Promise,21,<generic>,<what>
+Sustainability,Sustainability,100.0,1673,sub,Sustainability,14,<generic>,<what>
+Affiliate Program,Affiliate Program,100.0,1688,sub,Affiliate Program,17,<generic>,<what>
+Press Release,Press Release,100.0,1706,sub,Press Release,13,<generic>,<what>
+Careers,Careers,100.0,1720,sub,Careers,7,<generic>,<what>
+A.S. Watson Group,A.S. Watson Group,100.0,1728,sub,A.S. Watson Group,17,<generic>,<what>
+Legal,Legal,100.0,1746,main,Legal,5,<region>,<what>
+Terms of Use,Terms of Use,100.0,1752,sub,Terms of Use,12,<first>,<what>
+Terms & Conditions,Terms & Conditions,100.0,1765,sub,Terms & Conditions,18,<first>,<what>
+Privacy Policy,Privacy Policy,100.0,1784,sub,Privacy PolicyFIND US ON© Watsons. All Right Reserved,53,<first>,<what>

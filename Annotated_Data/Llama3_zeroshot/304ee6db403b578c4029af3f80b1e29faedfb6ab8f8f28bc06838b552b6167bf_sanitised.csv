@@ -1,0 +1,6 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy PolicyPrivacy Policy,28,<generic>,<error>
+This Privacy Policy,This privacy policy,100.0,30,main,This privacy policy applies to the following apps by keuwlsoft:Sand TimerThis app does not request any Android ,111,<generic>,<error>
+Permissions,permissions,100.0,143,main,permissions.We do NOT ,22,<first>,<error>
+Collection and Sharing of Personal Information,collect or share any of your Personal informat,76.08695652173914,166,main,collect or share any of your Personal information.Some,54,<first>,<error>
+Anonymous Data, anonymous ana,85.71428571428572,221,main, anonymous analytical data (e.g. crash reports) is available to us through the Google Developer Console.,104,<third>,<error>

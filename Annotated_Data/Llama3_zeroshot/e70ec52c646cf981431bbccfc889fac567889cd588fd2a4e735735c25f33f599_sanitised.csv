@@ -1,0 +1,11 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy Policy (Android Apps)We respect your privacy and recognize the importance of protecting any information collected about you. This Privacy    Policy defines the usage of personal and non-personal information.    You agree to this privacy policy by installing and using our applications. Please do not install or use our    applications if you do not agree with this privacy policy. We reserve the right to change this Privacy Policy from,444,<error>,<error>
+,,-1.0,0,,    time to time. Your continued use of our applications will signify your acceptance of the changes to this Privacy    Policy.,127,<error>,<error>
+Personal Data:,Personal Data:,100.0,579,main,Personal Data:We do not collect or use any personal data that may be used to identify or contact you.,101,<generic>,<what>
+Non-personal data:,Non-personal data:,100.0,682,main,"Non-personal data:We may use and disclose the collected non-personal data for purposes of analyzing usage of the Services,    advertisement serving, managing and providing the Services and to further develop the Services and other    services and products.",256,<first>,<what>
+In order to improve our applications we may collect anonymous non-personal information related to:,In order to improve our applications we may collect anonymous non-personal information related to:,100.0,942,sub,In order to improve our applications we may collect anonymous non-personal information related to: ,99,<first>,<how-used>
+(i) device type;,(i) device type;,100.0,1041,sub,(i) device type;    ,20,<first>,<how-gathered>
+(ii) device software platform;,(ii) device software platform;,100.0,1062,sub,(ii) device software platform;,30,<first>,<how-gathered>
+(iii) stack traces;, (iii) stack traces,94.73684210526316,1092,sub, (iii) stack traces,19,<first>,<how-gathered>
+(iv) google analytics;, (iv) google analytics,95.45454545454545,1111,sub, (iv) google analytics,22,<third>,<how-gathered>
+(v) FireBase Analytics, (v) FireBase Analytic,95.45454545454545,1133,sub, (v) FireBase Analytics,23,<third>,<how-gathered>

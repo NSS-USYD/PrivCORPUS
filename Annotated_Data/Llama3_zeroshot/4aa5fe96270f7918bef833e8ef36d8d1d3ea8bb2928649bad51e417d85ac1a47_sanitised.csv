@@ -1,0 +1,15 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,privacy,7,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,8,main,Privacy Policy,14,<generic>,<error>
+Information we collect,Information we collect,100.0,23,main,Information we collect,22,<generic>,<what>
+We do not collect personal information,We do not collect personal information,100.0,46,sub,"We do not collect personal information (such as email address, phone number, phyisical address, fax, ssn and etc), We only collect device-specific information (Android OS and others).",183,<first>,<what>
+How we use information we collect,How we use information we collect,100.0,230,sub,How we use information we collectWe use the information we collect from you to improve SoloVPN.,95,<first>,<how-used>
+Information security,Information security,100.0,327,main,"Information securityWe are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. ",204,<security>,<other>
+For example,For example,100.0,532,sub,"For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.",355,<generic>,<how-gathered>
+Changes,Changes,100.0,888,main,ChangesOur Privacy Policy may change from time to time. ,56,<change>,<when>
+We will not reduce your rights under this Privacy Policy,We will not reduce your rights under this Privacy Policy,100.0,945,sub,"We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, ",178,<not>,<other>
+We will provide a more prominent notice,we will provide a more prominent notice,100.0,1123,sub,we will provide a more prominent notice. We will also keep prior versions of this Privacy Policy in an archive for your review.,127,<not>,<other>
+Contact us,Contact us,100.0,1251,main,"Contact usIf you have any questions regarding privacy while using the Application, or have questions about our practices, ",122,<contact>,<other>
+Please contact us via email,please contact us via email,100.0,1374,sub,please contact us via email:solovpn.co@gmail.com,48,<contact>,<how-gathered>
+Other,Other,100.0,1424,main,Other,5,<not>,<error>
+To learn about ads in our apps,To learn about ads in our apps,100.0,1430,sub,"To learn about ads in our apps, visithttps://m.facebook.com/ads/ad_choices",74,<not>,<other>

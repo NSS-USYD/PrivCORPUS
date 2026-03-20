@@ -1,0 +1,6 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,FitProSport ,12,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,12,main,"Privacy PolicyPrivacy PolicyTo synchronize data, you need to add and verify your email in the app.",98,<generic>,<error>
+When You Add Your Email,If you added your email,82.6086956521739,113,sub,If you added your email:- The app is uploading your email address tohttps://fitprosport.com.- All the data is transmitted via a cryptographic protocol HTTPS.- ,159,<first>,<error>
+Third Party Access,A third party does,77.77777777777779,277,main,A third party does not have access to the email address.- We do not sell any of yo,82,<third>,<error>
+Personal Data Use,ur personal data ,82.35294117647058,360,main,"ur personal data to third parties.If you have any questions, please contact us byfitprosportapp@gmail.com.Always with you,«FitProSport» team",140,<first>,<error>

@@ -1,0 +1,10 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,sample nameSearch this siteSkip to main contentSkip to navigationsample name,76,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,81,main,Privacy Policy - ,17,<generic>,<error>
+RedMail,RedMail,100.0,98,sub,RedMail,7,<generic>,<error>
+Report abuse,Report abuse,100.0,106,sub,Report abuse,12,<choice>,<error>
+Page details,Page details,100.0,119,sub,Page details,12,<generic>,<error>
+Page updated,Page updated,100.0,132,sub,Page updated,12,<change>,<error>
+Google Sites,Google Sites,100.0,145,sub,Google Sites,12,<third>,<error>
+Report abuse,"
+Report abus",91.66666666666666,157,sub,Report abuse,12,<generic>,<error>

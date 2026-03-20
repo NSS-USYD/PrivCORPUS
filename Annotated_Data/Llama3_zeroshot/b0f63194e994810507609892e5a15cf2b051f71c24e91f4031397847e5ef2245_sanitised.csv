@@ -1,0 +1,16 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy PolicyPrivacy Policy,28,<error>,<error>
+Basic Policy on Protection of Personal Information,Basic Policy on Protection of Personal Information,100.0,30,main,Basic Policy on Protection of Personal InformationWe do not collect any personally identifiable information.,108,<generic>,<error>
+1. Advertising,1. Advertising,100.0,142,main,1. AdvertisingWe may use third-party Service Providers to show advertisements to you to help support and maintain our Service.These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.,288,<first>,<why>
+AdMob by Google,AdMob by Google,100.0,434,sub,AdMob by Google,15,<third>,<what>
+Opt-out option,Opt-out option,100.0,450,sub,Opt-out option,14,<choice>,<how-used>
+Google Privacy Policy,Google Privacy Policy,100.0,465,sub,Google Privacy Policy,21,<third>,<what>
+Facebook,Facebook,100.0,487,sub,Facebook,8,<third>,<what>
+Opt-out option,Opt-out option,100.0,496,sub,Opt-out option,14,<choice>,<error>
+Data Policy,Data Policy,100.0,511,sub,Data Policy,11,<third>,<what>
+Pangle,Pangle,100.0,523,sub,Pangle,6,<third>,<what>
+Pangle End User Data Privacy Policy,Pangle End User Data Privacy Policy,100.0,530,sub,Pangle End User Data Privacy Policy,35,<third>,<what>
+2. Analytics,2. Analytics,100.0,566,main,2. AnalyticsWe may use third-party Service Providers to monitor and analyze the use of our Service.These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.,261,<generic>,<why>
+Firebase,Firebase,100.0,831,sub,Firebase,8,<third>,<what>
+Opt-out & Privacy Term,Opt-out & Privacy Term,100.0,840,sub,Opt-out & Privacy Term,22,<choice>,<how-used>
+3. Contact Us,3. Contact Us,100.0,863,main,3. Contact Use-mail : siranet36@gmail.com,41,<generic>,<other>

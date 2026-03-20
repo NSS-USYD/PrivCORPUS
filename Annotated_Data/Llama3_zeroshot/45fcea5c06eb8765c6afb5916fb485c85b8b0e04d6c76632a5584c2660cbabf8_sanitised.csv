@@ -1,0 +1,17 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy Policy,14,<error>,<error>
+Audipo Privacy Policy,Audipo Privacy Policy,100.0,15,main,Audipo Privacy Policy,21,<error>,<error>
+What information do we collect?,What information do we collect?,100.0,37,main,What information do we collect?,31,<error>,<what>
+We collect app analysis information from your device.,We collect app analysis information from your device.,100.0,69,sub,We collect app analysis information from your device.,53,<first>,<error>
+We collect crash information from your device when the app crashed.,We collect crash information from your device when the app crashed.,100.0,123,sub,We collect crash information from your device when the app crashed.,67,<first>,<error>
+We collect Android ID from your device when you restore purchase status.,We collect Android ID from your device when you restore purchase status.,100.0,191,sub,We collect Android ID from your device when you restore purchase status.,72,<first>,<error>
+We collect Google Advertising ID for advertising or analytics purposes,We collect Google Advertising ID for advertising or analytics purposes,100.0,264,sub,We collect Google Advertising ID for advertising or analytics purposes,70,<first>,<error>
+What do we use your information for?,What do we use your information for?,100.0,335,main,What do we use your information for?,36,<error>,<error>
+To improve user experiences of the app.,To improve user expreriences of the app,97.43589743589743,372,sub,To improve user expreriences of the app.,40,<first>,<error>
+To detect the abuse of the purchase information.,To detect the abuse of the purchase information.,100.0,413,sub,To detect the abuse of the purchase information.,48,<first>,<error>
+For advertising or analytics purposes,For advertising or analytics purposes,100.0,462,sub,For advertising or analytics purposes,37,<first>,<why>
+Do we disclose any information to outside parties?,Do we disclose any information to outside parties?,100.0,500,main,Do we disclose any information to outside parties?,50,<error>,<error>
+"We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.","We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.",100.0,551,sub,"We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.",105,<third>,<error>
+Your Consent,Your Consent,100.0,657,main,"Your ConsentBy using our app, you consent to our privacy policy.",64,<choice>,<other>
+Changes to our Privacy Policy,Changes to our Privacy Policy,100.0,723,main,"Changes to our Privacy PolicyIf we decide to change our privacy policy, we will post those changes on this page.",112,<change>,<when>
+Contacting Us,Contacting Us,100.0,837,main,Contacting UsIf there are any questions regarding this privacy policy you may contact us using the information below.tosehidev@gmail.com,136,<contact>,<other>

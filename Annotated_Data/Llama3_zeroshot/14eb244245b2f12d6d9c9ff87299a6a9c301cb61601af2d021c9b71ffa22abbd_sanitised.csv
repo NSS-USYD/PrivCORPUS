@@ -1,0 +1,4 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"We use cookies to offer you better user experience, personalize content, provide social media features and analyze traffic.            Read about how we use cookies and how you can control them in our",200,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,202,main,Privacy Policy. You consent that we use ,40,<error>,<error>
+Cookies,cookies,100.0,243,main,cookies if you continue using our website,41,<generic>,<what>

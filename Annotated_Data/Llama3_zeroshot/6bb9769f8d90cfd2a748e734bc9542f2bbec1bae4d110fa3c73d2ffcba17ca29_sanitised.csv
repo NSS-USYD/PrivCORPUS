@@ -1,0 +1,10 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Secure Gallery - Privacy PolicyYour privacy is important to Secure Gallery. Sometimes we need information to provide services that you request, this privacy statement applies to Secure Gallery.",193,<error>,<error>
+Personal Information,Personal Information,100.0,195,main,"Personal InformationThe app uses user's Google Account(Email Address) in the following circumstances :Â· when requesting confirmation that you are an existing paid version userÂ· when requesting password reset using Email Authentication(during Email Authentication, the user's email address is temporarily stored on the email server and deleted after a certain period)Except for the above circumstances, We DO NOT collect, store or use any personal information while you visit, download or upgrade our products.",511,<generic>,<error>
+Personal Information,Personal Information,100.0,195,main,Non-Personal ,13,<generic>,<error>
+Information Collection and Use,"Information
+We may collect and",76.66666666666666,725,sub,InformationWe may collect and use ,34,<first>,<error>
+Non-Personal Information,non-personal information,100.0,760,main,"non-personal information in the following circumstances. To have a better understanding in user's behavior, solve problems in products and services, improve our products, services and advertising",195,<generic>,<error>
+The Main Permissions Used by Secure Gallery,"
+The main Permission used by Secure Gallery",97.67441860465115,955,main,The main Permission used by Secure Gallery are described below.Get your accountUsed to identify users who have purchased an existing paid version.Read phone state and Process outgoing callsUsed to launch Secure Gallery using dial number.Repository accessUsed to get the pictures and videos for view and lock.,308,<third>,<error>
+Contact Us,Contact Us,100.0,1271,main,"Contact UsIf you have any questions regarding this Privacy Policy, you may contact us at sputnik@spsoftmobile.comPrivacy Policy | â“’ Spsoft.",141,<contact>,<error>

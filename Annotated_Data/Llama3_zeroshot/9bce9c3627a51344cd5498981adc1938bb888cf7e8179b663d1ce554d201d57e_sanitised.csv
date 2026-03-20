@@ -1,0 +1,11 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy | PrimaTips.comPrivacy Policy,44,<generic>,<error>
+PrimaTips do not collect and store any personal information at the moment,PrimaTips do not collect and store any personal information at the moment,100.0,46,main,PrimaTips do not collect and store any personal information at the moment.,74,<first>,<error>
+"We do not use cookies or get any personal information such as e-mail, phone, etc.","We do not use cookies or get any personal information such as e-mail, phone, etc.",100.0,121,main,"We do not use cookies or get any personal information such as e-mail, phone, etc.",81,<first>,<error>
+The only information that we get from user device is Language and Time Zone settings,The only information that we get from user device is Language and Time Zone settings,100.0,203,main,The only information that we get from user device is Language and Time Zone settings.,85,<first>,<error>
+That information is processed only in memory of the server and it is not stored anywhere,That information is processed only in memory of the server and it is not stored anywhere,100.0,289,main,That information is processed only in memory of the server and it is not stored anywhere. ,90,<first>,<error>
+The purpose is to provide data in your local Language and in your local Time Zone,"The purpose is to
+provide data in your local Language and in your local Time Zone",98.76543209876543,379,main,The purpose is toprovide data in your local Language and in your local Time Zone.,81,<first>,<error>
+However we show ads using,However we show ads using,100.0,462,main,However we show ads usingGoogle AdMob.,38,<third>,<error>
+"If you have some concerns about that, please get familiar with","If you have some concerns about that, please get familiar with",100.0,503,main,"If you have some concerns about that, please get familiar with",62,<choice>,<error>
+Google Privacy Policy,Google Privacy Policy,100.0,566,main,Google Privacy Policy.,22,<third>,<error>

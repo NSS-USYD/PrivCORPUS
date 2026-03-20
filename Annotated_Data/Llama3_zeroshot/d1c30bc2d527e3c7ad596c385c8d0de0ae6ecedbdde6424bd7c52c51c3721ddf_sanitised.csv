@@ -1,0 +1,57 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,"Privacy PolicyPrivacy PolicyZimBomBah built the Code de la route app as                  an Ad Supported app. This SERVICE is provided by                  ZimBomBah at no cost and is intended for use as                  is.This page is used to inform visitors regarding my                  policies with the collection, use, and disclosure of Personal                  Information if anyone decided to use my Service.If you choose to use my Service, then you agree to",467,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,"                  the collection and use of information in relation to this                  policy. The Personal Information that I collect is                  used for providing and improving the Service. I will not use or share your information with                  anyone except as described in this Privacy Policy.The terms used in this Privacy Policy have the same meanings                  as in our Terms and Conditions, which are accessible at",453,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,                  Code de la route unless otherwise defined in this Privacy Policy.,83,<generic>,<error>
+Information Collection and Use,Information Collection and Use,100.0,1020,main,Information Collection and,26,<generic>,<error>
+"For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information."," Use
+For a better experience, while using our Service, I
+                  may require you to provide us with certain personally
+  ",81.67938931297711,1046,sub," UseFor a better experience, while using our Service, I                  may require you to provide us with certain personally                  identifiable information. The information ",186,<first>,<error>
+The information that I request will be retained on your device and is not collected by me in any way.,"that
+                  I request will be retained on your device and is not collected by me in any wa",83.16831683168317,1235,sub,that                  I request will be retained on your device and is not collected by me in any way.The app does use third-party services that may collect                    information used to identif,203,<first>,<error>
+Link to the privacy policy of third-party service providers used by the app,"y you.
+Link to the privacy policy of third-party service providers used
+   ",89.33333333333333,1441,main,y you.Link to the privacy policy of third-party service providers used                    by the app,100,<third>,<error>
+Google Play Services,Google Play Services,100.0,1544,sub,Google Play Services,20,<third>,<error>
+AdMob,AdMob,100.0,1565,sub,AdMob,5,<third>,<error>
+Google Analytics for Firebase,Google Analytics for Firebase,100.0,1571,sub,Google Analytics for Firebase,29,<third>,<error>
+Firebase Crashlytics,Firebase Crashlytics,100.0,1601,sub,Firebase Crashlytics,20,<third>,<error>
+Facebook,Facebook,100.0,1622,sub,Facebook,8,<third>,<error>
+Unity,Unity,100.0,1631,sub,Unity,5,<third>,<error>
+Log Data,Log Data,100.0,1637,main,Log DataI want to inform you that whenever you          ,56,<third>,<error>
+"I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data.","        use my Service, in a case of an error in the app
+                  I collect data and information (through third-party
+                  products) on your phone called Log ",80.0,1695,sub,"        use my Service, in a case of an error in the app                  I collect data and information (through third-party                  products) on your phone called Log Data. This Log Data may              ",215,<first>,<error>
+"This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.","    include information such as your device Internet Protocol
+                  (“IP”) address, device name, operating system version, the
+                  configuration of the app when utilizing my Service,
+                  the time and date of your u",78.74015748031495,1913,sub,"    include information such as your device Internet Protocol                  (“IP”) address, device name, operating system version, the                  configuration of the app when utilizing my Service,                  the time and date of your use of the Service, and other                  statistics.",308,<first>,<error>
+Cookies,Cookies,100.0,2226,main,Cookies,7,<tracking>,<error>
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.,"Cookies are files with a small amount of data that are
+                  commonly used as anonymous u",82.17821782178218,2234,sub,Cookies are files with a small amount of data that are                  commonly used as anonymous unique identifiers. These are sent               ,148,<tracking>,<error>
+These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,"   to your browser from the websites that you visit and are
+                  stored on your device's internal m",83.92857142857143,2384,sub,"   to your browser from the websites that you visit and are                  stored on your device's internal memory.This Service does not use these “cookies” explicitly. However,                  the app may use third-party code and libraries that use                  “cookies” to collect information and improve their services.                  You have the option to either accept or refuse these cookies                  and know when a cookie is being sent to your device. If you",485,<tracking>,<error>
+These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,"   to your browser from the websites that you visit and are
+                  stored on your device's internal m",83.92857142857143,2384,sub,"                  choose to refuse our cookies, you may not be able to use some                  portions of this Service.",122,<tracking>,<error>
+Service Providers,Service Providers,100.0,3000,main,Service Providers,17,<third>,<error>
+I may employ third-party companies and individuals due to the following reasons:,"I may employ third-party companies and
+                  individuals due to the ",77.5,3018,sub,I may employ third-party companies and                  individuals due to the following reasons:,97,<first>,<error>
+To facilitate our Service;,To facilitate our Service;,100.0,3117,sub,To facilitate our Service;,26,<first>,<error>
+To provide the Service on our behalf;,To provide the Service on our behalf;,100.0,3144,sub,To provide the Service on our behalf;,37,<first>,<error>
+To perform Service-related services; or,To perform Service-related services; or,100.0,3182,sub,To perform Service-related services; or,39,<first>,<error>
+To assist us in analyzing how our Service is used.,To assist us in analyzing how our Service is used.,100.0,3222,sub,"To assist us in analyzing how our Service is used.I want to inform users of this Service                  that these third parties have access to their Personal                  Information. The reason is to perform the tasks assigned to                  them on our behalf. However, they are obligated not to                  disclose or use the information for any other purpose.",381,<first>,<error>
+Security,Security,100.0,3609,main,"SecurityI value your trust in providing us your                  Personal Information, thus we are striving to use commercially                  acceptable means of protecting it. But remember that no method                  of transmission over the internet, or method of electronic                  storage is 100% secure and reliable, and I cannot                  guarantee its absolute security.",400,<security>,<error>
+Links to Other Sites,Links to Other Sites,100.0,4016,main,Links to Other Sites,20,<not>,<error>
+This Service may contain links to other sites.,This Service may contain links to other sites.,100.0,4037,sub,This Service may contain links to other sites. If you click on  ,64,<error>,<error>
+"If you click on a third-party link, you will be directed to that site.","                a third-party link, you will be directed to that site.",82.85714285714285,4102,sub,"                a third-party link, you will be directed to that site. Note                  that these external sites are not operated by me.                  Therefore, I strongly advise you to review the                  Privacy Policy of these websites. I have                  no control over and assume no responsibility for the content,                  privacy policies, or practices of any third-party sites or                  services.",446,<error>,<error>
+Children’s Privacy,Children’s Privacy,100.0,4555,main,Children’s Privacy,18,<audience>,<error>
+These Services do not address anyone under the age of 13.,These Services do not address anyone under the age of 13.,100.0,4574,sub,These Services do not address anyone under the age of 13.                    ,77,<generic>,<error>
+I do not knowingly collect personally identifiable information from children under 13 years of age.,"I do not knowingly collect personally
+                    identifiable information from children un",79.7979797979798,4652,sub,"I do not knowingly collect personally                    identifiable information from children under 13 years of age. In the case                    I discover that a child under 13 has provided                    me with personal information, I immediately                    delete this from our servers. If you are a parent or guardian                    and you are aware that your child has provided us with                    personal information, please contact me so that",480,<generic>,<error>
+I do not knowingly collect personally identifiable information from children under 13 years of age.,"I do not knowingly collect personally
+                    identifiable information from children un",79.7979797979798,4652,sub,                    I will be able to do the necessary actions.,63,<generic>,<error>
+Changes to This Privacy Policy,Changes to This Privacy Policy,100.0,5203,main,Changes to This Priva,21,<change>,<error>
+I may update our Privacy Policy from time to time.,"cy Policy
+I may update our Privacy Policy from
+   ",78.0,5224,sub,"cy PolicyI may update our Privacy Policy from                  time to time. Thus, you are advised to review this page                  periodically for any changes. I will                  notify you of any changes by posting the new Privacy Policy on                  this page.This policy is effective as of 2022-08-28",321,<generic>,<error>
+Contact Us,Contact Us,100.0,5552,main,"Contact UsIf you have any questions or suggestions about my                  Privacy Policy, do not hesitate to contact me at zimbombah@outlook.com.",148,<contact>,<error>

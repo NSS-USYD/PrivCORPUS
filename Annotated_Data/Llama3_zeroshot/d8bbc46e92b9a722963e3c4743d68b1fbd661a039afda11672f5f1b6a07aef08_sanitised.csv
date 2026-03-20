@@ -1,0 +1,7 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Document,Document,100.0,0,main,Document,8,<error>,<error>
+Back,Back,100.0,9,main,Back,4,<error>,<error>
+Region & Language,Region & Language,100.0,14,main,Region & Language,17,<error>,<error>
+Select the terms of use,Select the terms of use,100.0,32,main,Select the terms of use,23,<change>,<error>
+Loading,"
+Loadin",85.71428571428572,55,main,Loading,7,<error>,<error>

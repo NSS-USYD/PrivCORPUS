@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy policy,100.0,0,main,"Privacy policyFluid Simulation, Privacy PolicyThis page contains information regarding the policies about collection, use and disclosure of personal information for my app ""Fluid Simulation"".The ""Fluid Simulation""",213,<generic>,<error>
+Collection of Personal Data, app collects personal data,77.77777777777779,216,main, app co,7,<first>,<what>
+Use of Personal Data,llects personal data,75.0,223,main,llects personal data through a ,31,<first>,<why>
+Third Party Services,third party services,100.0,254,main,third party services like ,26,<third>,<other>
+Unity Analytics,Unity Analytics,100.0,280,sub,Unity Analytics and ,20,<third>,<how-gathered>
+AdMob,AdMob,100.0,300,sub,AdMob.Privacy policy of Unity Analyticshere.Privacy policy of AdMobhere.By using an app you agree to the collection and use of information in relation with this policy. I will not use or share your information with anyone except as described in this Privacy policy.If you have questions about this Privacy policy,312,<third>,<how-gathered>
+Contact Us,", contact ",80.0,620,main,", contact me at[email protected]Pavel Dobryakov            October 23, 2021",75,<contact>,<other>

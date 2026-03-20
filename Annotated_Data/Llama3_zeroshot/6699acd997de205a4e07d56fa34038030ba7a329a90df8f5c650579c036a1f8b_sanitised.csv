@@ -1,0 +1,40 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Palmsoft | ,11,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,11,main,Privacy Policy,14,<generic>,<error>
+About us,About us,100.0,26,main,About us,8,<generic>,<error>
+Composer,Composer,100.0,35,main,Composer,8,<generic>,<error>
+Music Keyboard,Music Keyboard,100.0,44,main,Music Keyboard,14,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,59,main,Privacy PolicyPrivacy Policy,28,<generic>,<error>
+English,English,100.0,89,main,English,7,<error>,<error>
+Arabic,Arabic,100.0,97,main,Arabic,6,<error>,<error>
+Chinese (Simplified),Chinese (Simplified),100.0,104,main,Chinese (Simplified),20,<error>,<error>
+Dutch,Dutch,100.0,125,main,DutchEnglish,12,<error>,<error>
+French,French,100.0,139,main,French,6,<error>,<error>
+German,German,100.0,146,main,German,6,<error>,<error>
+Italian,Italian,100.0,153,main,Italian,7,<error>,<error>
+Portuguese,Portuguese,100.0,161,main,Portuguese,10,<error>,<error>
+Russian,Russian,100.0,172,main,Russian,7,<error>,<error>
+Spanish,Spanish,100.0,180,main,Spanish,7,<error>,<error>
+We want you to be able to use all Palmsoft apps as privately as possible,We want you to be able to use all Palmsoft apps as privately as possible,100.0,188,main,We want you to be able to use all Palmsoft apps as privately as possible. ,74,<first>,<error>
+All apps of Palmsoft collect no sensitive personal information,All apps of Palmsoft collect no sensitive personal information,100.0,262,main,"All apps of Palmsoft collect no sensitive personal information like phone number, credit card number, home address and the like. ",129,<first>,<other>
+Even if you buy something using in-app purchases,Even if you buy something using in-app purchases,100.0,391,main,"Even if you buy something using in-app purchases, we never receive any personal or financial details, as this is all managed by Google Play.However, many Android devices behave differently, and everybody wants an app that works on his device too, so we are collecting both crash-reports and usage data of the apps. ",315,<first>,<error>
+"For example, if we receive a crash","For example, if we receive a crash",100.0,707,main,"For example, if we receive a crash, we can seewhat events happened before (e.g. the user pressed a certain button, or the app woke up from sleep)the version of the app, so maybe it only happened on an old versionthe country of the incident (some crashes are language dependent!)a device fingerprint consisting of hardware information.",334,<first>,<error>
+All these information is shared with,All these information is shared with,100.0,1046,main,All these information is shared withno third partyand isnot used for advertisment.,82,<first>,<error>
+"Additionally, in order to help you recover your account","Additionally, in order to help you recover your account",100.0,1133,main,"Additionally, in order to help you recover your account and to prevent abuse of the apps by trolls, hackers, bots or spammers, we collect information about your hardware, including a device fingerprint and yourgoogle account’s primary account information (email address) or your amazon-id.",289,<third>,<what>
+These information are never shared with other users of the app,These information are never shared with other users of the app,100.0,1424,main,"These information are never shared with other users of the app or any third parties, and are solely used for administration.",124,<third>,<error>
+All in-app advertisement is managed by AdMob (Google),All in-app advertisement is managed by AdMob (Google),100.0,1549,main,"All in-app advertisement is managed by AdMob (Google). If you want to know more about their data usage, visitGoogle’s privacy policy page. ",139,<third>,<other>
+The PRO versions of Palmsoft apps don’t use any in-app advertisements,The PRO versions of Palmsoft apps don’t use any in-app advertisements,100.0,1690,main,The PRO versions of Palmsoft apps don’t use any in-app advertisements.,70,<first>,<other>
+Recent Posts,Recent Posts,100.0,1761,main,Recent Posts,12,<not>,<other>
+Music Keyboard hits 10  million downloads & gets featured on taimienphi.vn,Music Keyboard hits 10  million downloads & gets featured on taimienphi.vn,100.0,1774,main,Music Keyboard hits 10  million downloads & gets featured on taimienphi.vn,74,<not>,<other>
+Music Keyboard reaches 5 million downloads,Music Keyboard reaches 5 million downloads,100.0,1849,main,Music Keyboard reaches 5 million downloads,42,<not>,<other>
+Music Keyboard released!,Music Keyboard released!,100.0,1892,main,Music Keyboard released!,24,<not>,<other>
+Composer 1.0 released!,Composer 1.0 released!,100.0,1917,main,Composer 1.0 released!,22,<not>,<other>
+Beta Testing started,Beta Testing started,100.0,1940,main,Beta Testing started,20,<not>,<other>
+Pages,Pages,100.0,1961,main,Pages,5,<not>,<other>
+About us,About us,100.0,1967,main,About us,8,<first>,<error>
+Composer,Composer,100.0,1976,main,Composer,8,<first>,<error>
+Music Keyboard,Music Keyboard,100.0,1985,main,Music Keyboard,14,<first>,<error>
+Privacy Policy,Privacy Policy,100.0,2000,main,Privacy PolicyHeader Image CC-BYAlexander Khimushin,51,<error>,<error>
+Impressum,Impressum,100.0,2054,main,Impressum,9,<generic>,<error>
+(c) Palmsoft 2016,"
+(c) Palmsoft 201",94.11764705882352,2063,main,(c) Palmsoft 2016,17,<first>,<error>

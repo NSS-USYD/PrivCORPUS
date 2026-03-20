@@ -1,0 +1,15 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,rec by spectrl,14,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,15,main,"Privacy PolicyThanks for using Rec.SPECTRL Limited (“we”) only collect the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us – your use of the app; we don’t sell any information to third parties.While Rec. (“the app”) provides shortcuts for uploading your recordings to various online video streaming and storage services, the app itself does not transmit or store your recordings anywhere other than on your device.",474,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,15,main,"Regarding in-app purchases, we never publicly disclose any personal or sensitive user data related to financial or payment activities.We may use non-personally identifying information via third party services – for crash reporting and analytics – to help improve your experience using the app.By using Rec. you agree to consent to the terms and conditions outlined in this Privacy Policy.",388,<generic>,<error>
+Permissions,Permissions,100.0,884,main,"PermissionsThe following are the permissions required by the app, which are only requested in the app as they are needed, as well as why they are needed.com.android.vending.BILLING– ",182,<first>,<error>
+In-app purchases,In-app purchases,100.0,1069,sub,In-app purchasesandroid.permission.WRITE_SETTINGS– ,51,<first>,<error>
+Show touches,Show touches,100.0,1122,sub,Show touchesandroid.permission.WRITE_EXTERNAL_STORAGE– ,55,<first>,<error>
+Saving recordings,Saving recordings,100.0,1179,sub,Saving recordingsandroid.permission.RECORD_AUDIO– ,50,<first>,<error>
+Recordings with audio,Recordings with audio,100.0,1231,sub,Recordings with audioandroid.permission.INTERNET– ,50,<first>,<error>
+"Crash reporting, analytics, and ads","Crash reporting, analytics, and ads",100.0,1283,sub,"Crash reporting, analytics, and adsandroid.permission.ACCESS_NETWORK_STATE– ",76,<third>,<error>
+AdMob,AdMob,100.0,1361,sub,AdMobandroid.permission.WAKE_LOCK– ,35,<third>,<error>
+Keeping screen on while recording,Keeping screen on while recording,100.0,1398,sub,Keeping screen on while recording,33,<first>,<error>
+Links,Links,100.0,1432,main,Links,5,<third>,<error>
+https://www.google.com/policies/privacy/,https://www.google.com/policies/privacy/,100.0,1438,sub,https://www.google.com/policies/privacy/,40,<third>,<error>
+https://fabric.io/terms,https://fabric.io/terms,100.0,1479,sub,https://fabric.io/termsLast updated: 13/03/2017,47,<third>,<error>

@@ -1,0 +1,64 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Documents,Documents,100.0,0,main,Documents | JET SharingDocuments:Azerbaijan:Terms and conditionsAccession agreementPrivacy policy,97,<error>,<error>
+Requisites,Requisites,100.0,103,main,Requisites,10,<error>,<error>
+Insurance,Insurance,100.0,114,main,Insurance,9,<error>,<error>
+Kazakhstan,Kazakhstan,100.0,124,main,Kazakhstan:,11,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,136,sub,Terms and conditions,20,<generic>,<error>
+Accession agreement,Accession agreement,100.0,157,sub,Accession agreement,19,<generic>,<error>
+Privacy policy,Privacy policy,100.0,177,sub,Privacy policy,14,<generic>,<error>
+Requisites,Requisites,100.0,192,sub,Requisites,10,<error>,<error>
+Insurance,Insurance,100.0,203,sub,Insurance,9,<error>,<error>
+Ways of payment,Ways of payment,100.0,213,sub,Ways of paymentPowerbanks:User AgreementPublic lease agreement,62,<generic>,<error>
+Brasil,Brasil,100.0,279,main,Brasil:,7,<region>,<error>
+Acordo de LicenÃ§a - UsuÃ¡rio Final,Acordo de LicenÃ§a - UsuÃ¡rio Final,100.0,287,sub,Acordo de LicenÃ§a - UsuÃ¡rio Final,35,<error>,<error>
+Termos e condiÃ§Ãµes (Santa Catarina e Rio Grande do Sul),"Termos e condiÃ§Ãµes (Santa Catarina
+e Rio Grande do Sul)",98.24561403508771,323,sub,Termos e condiÃ§Ãµes (Santa Catarinae Rio Grande do Sul),56,<error>,<error>
+Termos e condiÃ§Ãµes (SÃ£o Paulo),Termos e condiÃ§Ãµes (SÃ£o Paulo),100.0,381,sub,Termos e condiÃ§Ãµes (SÃ£o Paulo),33,<error>,<error>
+Termos e condiÃ§Ãµes (EspÃ­rito Santo),Termos e condiÃ§Ãµes (EspÃ­rito Santo),100.0,415,sub,Termos e condiÃ§Ãµes (EspÃ­rito Santo),38,<error>,<error>
+PolÃ­tica de privacidade,PolÃ­tica de privacidade,100.0,454,sub,PolÃ­tica de privacidade,24,<error>,<error>
+RequisiÃ§Ãµes,RequisiÃ§Ãµes,100.0,479,sub,RequisiÃ§Ãµes,13,<error>,<error>
+CondiÃ§Ãµes de devoluÃ§Ã£o,CondiÃ§Ãµes de devoluÃ§Ã£o,100.0,493,sub,CondiÃ§Ãµes de devoluÃ§Ã£o,26,<generic>,<error>
+Seguro,Seguro,100.0,520,sub,Seguro,6,<error>,<error>
+Belarus,Belarus,100.0,527,main,Belarus:,8,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,536,sub,Terms and conditions,20,<first>,<error>
+Privacy policy,Privacy policy,100.0,557,sub,Privacy policy,14,<first>,<error>
+Ways of payment,Ways of payment,100.0,572,sub,Ways of payment,15,<first>,<error>
+Return conditions,Return conditions,100.0,588,sub,Return conditions,17,<generic>,<error>
+Requisites,Requisites,100.0,606,sub,Requisites,10,<error>,<error>
+Insurance,Insurance,100.0,617,sub,Insurance,9,<error>,<error>
+Kyrgyzstan,Kyrgyzstan,100.0,627,main,Kyrgyzstan:,11,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,639,sub,Terms and conditions,20,<first>,<error>
+Public lease agreement,Public lease agreement,100.0,660,sub,Public lease agreement,22,<generic>,<error>
+Ways of payment,Ways of payment,100.0,683,sub,Ways of payment,15,<third>,<error>
+Privacy policy,Privacy policy,100.0,699,sub,Privacy policy,14,<retention>,<error>
+Requisites,Requisites,100.0,714,sub,Requisites,10,<error>,<error>
+Bulgaria,Bulgaria,100.0,725,main,Bulgaria:,9,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,735,sub,Terms and conditions,20,<third>,<error>
+Return conditions,Return conditions,100.0,756,sub,Return conditions,17,<first>,<error>
+Requisites,Requisites,100.0,774,sub,Requisites,10,<error>,<error>
+Insurance,Insurance,100.0,785,sub,Insurance,9,<error>,<error>
+Serbia,Serbia,100.0,795,main,Serbia:,7,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,803,sub,Terms and conditions,20,<retention>,<error>
+Return conditions,Return conditions,100.0,824,sub,Return conditions,17,<third>,<error>
+Requisites,Requisites,100.0,842,sub,Requisites,10,<error>,<error>
+Insurance,Insurance,100.0,853,sub,Insurance,9,<error>,<error>
+Georgia,Georgia,100.0,863,main,Georgia:,8,<region>,<error>
+Terms of service,Terms of service,100.0,872,sub,Terms of service,16,<generic>,<error>
+Return conditions,Return conditions,100.0,889,sub,Return conditions,17,<audience>,<error>
+Privacy policy,Privacy policy,100.0,907,sub,Privacy policy,14,<security>,<error>
+Requisites,Requisites,100.0,922,sub,Requisites,10,<error>,<error>
+Insurance,Insurance,100.0,933,sub,Insurance,9,<error>,<error>
+Uzbekistan,Uzbekistan,100.0,943,main,Uzbekistan:,11,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,955,sub,Terms and conditions,20,<security>,<error>
+Accession agreement,Accession agreement,100.0,976,sub,Accession agreement,19,<first>,<error>
+Requisites,Requisites,100.0,996,sub,Requisites,10,<error>,<error>
+Mongolia,Mongolia,100.0,1007,main,Mongolia:,9,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,1017,sub,Terms and conditions,20,<choice>,<error>
+Accession agreement,Accession agreement,100.0,1038,sub,Accession agreement,19,<third>,<error>
+Requisites,Requisites,100.0,1058,sub,Requisites,10,<error>,<error>
+Chile,Chile,100.0,1069,main,Chile:,6,<region>,<error>
+Terms and conditions,Terms and conditions,100.0,1076,sub,Terms and conditions,20,<access>,<error>
+Privacy policy,Privacy policy,100.0,1097,sub,Privacy policy,14,<choice>,<error>
+Requisites,Requisites,100.0,1112,sub,Requisites,10,<error>,<error>
+Insurance,"
+Insuranc",88.88888888888889,1122,sub,Insurance,9,<error>,<error>

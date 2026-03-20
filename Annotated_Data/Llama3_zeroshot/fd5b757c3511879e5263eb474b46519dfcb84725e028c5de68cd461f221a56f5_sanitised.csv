@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,"Privacy PolicyMy Talking Monkeyis a free application for children. Children can play and learn with Monkey through this application. Including books, music, game... suitable for children.Thank you for using My Talking Monkey. This is a privacy policy for app.",259,<generic>,<error>
+Permissions Requested for Main Functionality,Permissions requested for main functionality,100.0,263,main,Permissions requested for main functionality and how they are being used by the app:,84,<generic>,<error>
+1. RECORD_AUDIO,1. RECORD_AUDIO,100.0,348,sub,1. RECORD_AUDIOOur application requires RECORD_AUDIO rights to serve the functions (listening and talking) of the application. We don't save the audio data and don't collect any user information.,195,<first>,<what>
+2. INTERNET,2. INTERNET,100.0,545,sub,"2. INTERNETis used to display advertisement banners. We use Google Admob as a service for that. We collect the Android advertising ID for advertising purposes.In addition, we don't collect any other user information.We are committed not use our application for bad intentions. We comply with the Privacy Policy, ",312,<first>,<what>
+Secure Transmission,Secure Transmission,100.0,860,main,"Secure Transmission, and ",25,<security>,<how-used>
+Prominent Disclosure,Prominent Disclosure,100.0,885,main,Prominent Disclosure requirements. Such as collecting us,56,<access>,<how-used>
+Collecting and Revealing User Information,"er information, revealing user informatio",75.60975609756098,941,main,"er information, revealing user information.If you have any questions or suggestions about my Privacy Policy, pleas",114,<first>,<how-gathered>
+Contact Us,e contact ,80.0,1056,main,e contact me:info@sonlam.com,28,<contact>,<other>

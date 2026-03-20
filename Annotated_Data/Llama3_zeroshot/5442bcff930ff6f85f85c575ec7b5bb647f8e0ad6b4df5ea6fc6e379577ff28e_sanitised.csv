@@ -1,0 +1,86 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,"Privacy PolicySkip to main contentRaamos SoftechPrivacy PolicyMarch 06, 2019Raamo Apps(“Service”, “RaamoApps”, ""we,"" ""us,"" or ""our"") collects informationfrom you in order to provide better service and a better user experience.Your privacy is a toppriority to us, and this Privacy Policy explains how we collect, use, and protectyour information.This does not coverany collection, use or disclosure by third parties through any of ourapplications, products or services Web sites that we do not control or own and",511,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,any third party features or services made available via an Application.,71,<generic>,<error>
+What information we use and how we use it:,"What information we
+use and how we use it:",97.61904761904762,598,main,What information weuse and how we use it:,41,<first>,<error>
+1. Read your contacts,"1.  Read your
+contact",90.47619047619048,641,sub,1.  Read yourcontactsRaamo Appsdoes not saveor upload your contacts. Permission to access contact information is used whenyou search contacts in Raamo Apps search bar.,167,<error>,<what>
+2. Take pictures and videos,"2.  Take
+pictures and video",92.5925925925926,814,sub,2.  Takepictures and videosThis permissionallowsRaamo Apps to use your device’scamera to take photos / videos and turn ON/OFF Camera Flash. We do not save orupload your photos/videos.,183,<error>,<what>
+3. Approximate location (network-based),"3.  Approximate
+location (network-based",94.87179487179486,1004,sub,3.  Approximatelocation (network-based)This permissionallows Raamo Apps to identify and display your location on map or appsinstalled by anonymous surrounding users and to recommend popular apps based onusers’ location. This information is untraceable.,252,<error>,<what>
+4. Read phone status and identity,"4.  Read phone
+status and identit",93.93939393939394,1262,sub,"4.  Read phonestatus and identityThis permissionallows Raamo Appsto recognize anincoming/outgoing call and to switch between the User System interface and callinterface or announces/shows the caller name while some one is calling, youwill identify it without looking to your smart phone.",287,<error>,<what>
+5. Read your text messages (SMS or MMS),"5.  Read your
+text messages (SMS or MMS",94.87179487179486,1557,sub,"5.  Read yourtext messages (SMS or MMS)We do not save orupload your messages. We use this permission to read your text messages whenyou search messages in search bar or announce the sender name while some one issend you a message, you will identify it without looking to your smart phone.",288,<error>,<what>
+6. Modify or delete the contents of your USB storage,"6.  Modify or
+delete the contents of your USB storag",96.15384615384616,1851,sub,"6.  Modify ordelete the contents of your USB storageThis permissionallows Raamo Apps to delete app data (image, text, audio etc..) stored on theirSD card.",154,<error>,<what>
+7. Find accounts on the devices,"7.  Find
+accounts on the device",93.5483870967742,2010,sub,7.  Findaccounts on the devicesRaamo Apps does notrecognize or save your account information for any programs. Raamo Apps onlydetects whether users have a Google account linked with the device which helpsus confirm the state of Google Service and provide users with appropriateapplication download and update methods.,317,<error>,<what>
+8. Read calendar events plus confidential information,"8.  Read
+calendar events plus confidential informatio",96.22641509433963,2334,sub,8.  Readcalendar events plus confidential informationThis information isused only in the Raamo Apps to remind you of your latest calendar events. We donot save or upload any of your calendar information.,203,<error>,<what>
+9. Read the contents of your USB storage,"9.  Read the
+contents of your USB storag",95.0,2542,sub,"9.  Read thecontents of your USB storageThis permissionallows Raamo Apps to view app data (image, text, audio etc..) stored on theirSD card.",140,<error>,<what>
+10. Read Google service configuration,"10.  Read Google
+service configuratio",94.5945945945946,2687,sub,10.  Read Googleservice configurationThis information isused to acquire advertising ID. Raamo Apps provide users with betteradvertising service by using such anonymous ID.,171,<error>,<what>
+11. Change network connectivity,"11.  Change
+network connectivit",93.5483870967742,2863,sub,"11.  Changenetwork connectivityThis permission isused in Raamo Apps settings and notification toolbar, in order to change/checknetwork connectivity.",148,<error>,<what>
+12. Connect and disconnect from Wi-Fi,"12.  Connect and
+disconnect from Wi-F",94.5945945945946,3016,sub,12.  Connect anddisconnect from Wi-FiThis permission isused in Raamo Apps settings and notification toolbar in order to connect anddisconnect from Wi-Fi.,153,<error>,<what>
+13. Set an alarm,"13.  Set an
+alar",87.5,3174,sub,13.  Set analarmThis permissionallows users to access the device's alarm through Raamo Apps clock widget.,105,<error>,<what>
+14. Full network access,"14.  Full
+network acces",91.30434782608697,3283,sub,14.  Fullnetwork accessThis permission isused to access the device’s network for certain functions including receivingupdate notifications or accessing app classification labels.,178,<error>,<what>
+15. View network connections,"15.  View
+network connection",92.85714285714286,3466,sub,"15.  Viewnetwork connectionsThis permission isused in Raamo Apps settings and notification toolbar, in order to view networkconnections.",136,<error>,<what>
+16. View Wi-Fi connections,"16.  View Wi-Fi
+connection",92.3076923076923,3607,sub,"16.  View Wi-FiconnectionsThis permission isused in Raamo Apps settings and notification toolbar, in order to view Wi-Ficonnections.",132,<error>,<what>
+17. Access Bluetooth settings,"17.  Access
+Bluetooth setting",93.10344827586206,3744,sub,"17.  AccessBluetooth settingsThis permission isused in Raamo Apps settings, in order to turn on and off the Bluetooth.",118,<error>,<what>
+18. Pair with Bluetooth devices,"18.  Pair with
+Bluetooth device",93.5483870967742,3866,sub,"18.  Pair withBluetooth devicesThis permissionis used in Raamo Apps settings, in order to pair with Bluetooth devices.",118,<error>,<what>
+19. Close other apps,"19.  Close other
+app",90.0,3988,sub,19.  Close otherappsThis permission isused in Raamo Apps Boost in order to turn off the back-end apps and make thephone run faster.,131,<error>,<what>
+20. Retrieve running apps,"20.  Retrieve
+running app",92.0,4124,sub,20.  Retrieverunning appsThis permission isused in Raamo Apps Boost in order to view the running apps.,102,<error>,<what>
+21. Run as startup,"21.  Run as
+startu",88.88888888888889,4230,sub,21.  Run asstartupRaamo Apps will runas startup to provide users with a launcher service.,89,<error>,<what>
+22. Control vibration,"22.  Control
+vibratio",90.47619047619048,4323,sub,"22.  ControlvibrationThis permissionallows Raamo Apps to make the phone vibrate once after users set the device onvibrate, confirming the setting has been turned on.",165,<error>,<what>
+23. Adjust your wallpaper size,"23.  Adjust your
+wallpaper siz",93.33333333333333,4493,sub,23.  Adjust yourwallpaper sizeThis permissionallows users to crop Raamo Apps wallpaper to the desired size.,107,<error>,<what>
+24. Set wallpaper,"24.  Set
+wallpape",88.23529411764706,4604,sub,24.  SetwallpaperThis permissionallows users to set a selected Raamo Apps image as their wallpaper.,99,<error>,<what>
+25. Photos/Media/Files,"25. 
+Photos/Media/File",90.9090909090909,4707,sub,"25. Photos/Media/FilesModify or delete thecontents of your USB storage Test access to protected storage When userrecommends friends to download Raamo Appsby sharing to social network, we need to savean introduction picture to be shared on SD card. We won’t access other file onSD card.",285,<error>,<what>
+26. Device & app history,"26.  Device
+& app histor",91.66666666666666,5000,sub,"26.  Device& app historyRetrieve running appsWe use thisinformation to boost your Android phone effectively, clean your device's RAMand make your phone speed up in depth.",170,<error>,<what>
+27. Measure app storage space,"27.  Measure app
+storage spac",93.10344827586206,5176,sub,27.  Measure appstorage spaceThis permission isused to acquire the amount of storage space used by an application.,114,<error>,<what>
+28. Modify system settings,"28.  Modify
+system setting",92.3076923076923,5294,sub,"28.  Modifysystem settingsThis permission isused in Raamo Apps settings, in order to switch or adjust ringtone, vibrationand brightness level of the screen.",156,<error>,<what>
+29. Read Home settings and shortcuts,"29.  Read Home
+settings and shortcut",94.44444444444444,5455,sub,"29.  Read Homesettings and shortcutsThis permission isused to acquire the user’s Home settings and shortcuts, in order to maintainuser preferences.",147,<error>,<what>
+30. Uninstall shortcuts,"30.  Uninstall
+shortcut",91.30434782608697,5607,sub,30.  UninstallshortcutsThis permissionallows Raamo Apps to delete the shortcuts created by Raamo Apps in otherAndroid launchers.,128,<error>,<what>
+31. Draw over other apps,"31.  Draw over
+other app",91.66666666666666,5740,sub,31.  Draw overother appsThis permissionallows the Raamo Apps Free Swipe tab to be displayed as a floating window onother apps.,126,<error>,<what>
+32. Read sync settings,"32.  Read sync
+setting",90.9090909090909,5871,sub,"32.  Read syncsettingsThis permission isused in Raamo Apps power’s save mode, and allows Raamo Appsto recognize whether sync settings are turnedon or off.",154,<error>,<what>
+33. Toggle sync on and off,"33.  Toggle sync
+on and of",92.3076923076923,6031,sub,"33.  Toggle syncon and offThis permission isused in Raamo Apps power’s save mode, and allows Raamo Appsto synchronize with the user's sync settings.",148,<error>,<what>
+34. Expand/collapse status bar,"34. 
+Expand/collapse status ba",93.33333333333333,6184,sub,34. Expand/collapse status barThis permission isused for the gesture feature of Raamo Apps User System to expand and collapsethe status bar.,140,<error>,<what>
+35. Install shortcuts,"35.  Install
+shortcut",90.47619047619048,6329,sub,"35.  InstallshortcutsThis permission isused to install shortcuts on other launchers, so users can continue to useRaamo Apps relatedfunctions.",141,<error>,<what>
+How we protect your information,"How we protect your
+information",96.7741935483871,6476,main,"How we protect yourinformationWe have implementedcommercially reasonable technical and organizational measures to protect yourpersonal information from accidental loss and from loss, misuse andunauthorized access, disclosure, alteration and destruction. However, pleasenote that although we take reasonable measures to protect your information, noapp, website, Internet transmission, computer system or wireless connection iscompletely secure.Sensitive InformationWe ask that you not",483,<security>,<why>
+How we protect your information,"How we protect your
+information",96.7741935483871,6476,main,"send us and also not disclose any sensitive Personal Information (e.g.,information related to political opinions, racial or ethnic origin, religion orother beliefs, health etc) on or through application, the Services or the Siteor otherwise to us. Keep safe your personal and sensitive information andstrictly we do not ask to submit.",334,<security>,<why>
+How we share your information,"How we share your
+information",96.55172413793103,7309,main,How we share yourinformationWe may retain thirdparties to perform services on our behalf and we may collaborate with thirdparties with respect to particular products or services. These third partiesmay be provided with acce,223,<third>,<why>
+Sensitive Information,ss to the information,76.19047619047619,7537,main,"ss to the information needed to perform theirfunctions, as long as they agree to keep the information confidential. Wereserve the right to disclose your information as required by law, when webelieve disclosure is necessary to comply with a regulatory requirement,judicial proceeding, court order, or legal process served on us, or to protectthe safety, rights, or property of our users, the public or Raamo Apps .",414,<audience>,<other>
+Children's Privacy,Children's Privacy,100.0,7957,main,Children's PrivacyWe are committed toprotecting the privacy of children. We do not knowingly collect personalinformation from children under the age of 13.,155,<region>,<error>
+Changes to the Privacy Policy,"Changes to the
+Privacy Policy",96.55172413793103,8116,main,"Changes to thePrivacy PolicyRaamo Appsmay, in its sole discretion, change thisPrivacy Policy from time to time, any and all changes will be reflected hereand the date new versions are posted will be stated at the top of this PrivacyPolicy, so please review it periodically.",273,<retention>,<when>
+Contact us,Contact us,100.0,8396,main,"Contact usIf you have anysuggestions, feedback or requests, please contact us by writing an E-Mail atravanaapps@gmail.comPowered by BloggerTheme images byMichael ElkanRaamos SoftechVisit profileArchiveMarch 20191Report Abuse",224,<contact>,<error>

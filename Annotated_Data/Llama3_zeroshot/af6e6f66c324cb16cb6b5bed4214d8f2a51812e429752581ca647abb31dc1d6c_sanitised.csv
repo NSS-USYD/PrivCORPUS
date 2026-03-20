@@ -1,0 +1,7 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,HomeSearch this siteSkip to main contentSkip to navigationApplock Privacy policy,80,<error>,<error>
+Personal information,Personal information,100.0,85,main,"Personal informationWe made AppLock with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or any information.",252,<generic>,<what>
+Permission explantation,Permission explantation,100.0,339,main,Permission explantation:,24,<first>,<what>
+BIND_DEVICE_ADMIN,BIND_DEVICE_ADMIN,100.0,364,sub,"BIND_DEVICE_ADMINpermission: App will ask this permission when you enable feature Prevent Uninstallation, it will help to prevent other people to uninstall this app, keep safe & prevent losing vault data. It is NOT required feature, you can choose to not granting this permission to the app.",291,<first>,<what>
+Google Sites,Google Sites,100.0,657,main,Google Sites,12,<first>,<what>
+Report abuse,Report abuse,100.0,670,sub,Report abuseGoogle SitesReport abuse,36,<first>,<what>

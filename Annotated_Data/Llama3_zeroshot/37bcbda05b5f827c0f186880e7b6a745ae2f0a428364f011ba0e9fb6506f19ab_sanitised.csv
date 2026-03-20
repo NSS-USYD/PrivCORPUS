@@ -1,0 +1,36 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,privacy,7,<error>,<error>
+Privacy policy,Privacy policy,100.0,8,main,Privacy policy,14,<error>,<other>
+"Protecting your 
+privacy is important to us","Protecting your 
+privacy is important to us",100.0,23,main,"Protecting your privacy is important to us. We hope that the following statement will help you understand how our app offers with personally identifiable information (""PII"") that you can sometimes provide to us over the internet (in Google Play and App Store). As a rule, we do not collect any INFORMATION from you when downloading our Android apps. To be specific, we do not require consumers to register before downloading the application, and we do not track whether consumers visit our ",490,<error>,<other>
+"Protecting your 
+privacy is important to us","Protecting your 
+privacy is important to us",100.0,23,main,"application, we do not even have a Server to store such PII.",60,<error>,<other>
+Information collected through our Games,Information collected through our Games,100.0,582,main,Information collected through our Games,39,<error>,<what>
+Information Collected Automatically By:,Information Collected Automatically By:,100.0,622,sub,Information Collected Automatically By:,39,<error>,<what>
+horoscope and others,horoscope and others,100.0,662,sub,"horoscope and others.  Most of our apps note your IP address and use this to determine the country the device is located. The IP address is not stored on our systems, but we keep track of the country our app is functioning in. This information cannot be connected to a unique device and is never shared with third parties.For every device a Game is installed on, Space Match 3D may collect some analytical information. We collect this information to improve the ",462,<error>,<what>
+horoscope and others,horoscope and others,100.0,662,sub,"performance and reliability of our Games and to get a better understanding of what users prefer. We do not link any of this information in any way to individuals or any other information we might obtain. We do not share, sell or in any other way give other persons or companies outside Space Match 3D access to this information, except to comply with a legal obligation to do so (e.g. court order) or in case the ownership of the information changes due to a merger, acquisition or",481,<error>,<what>
+horoscope and others,horoscope and others,100.0,662,sub, restructuring involving AmayaKids.,35,<error>,<what>
+Information you provide through the Games,Information you provide through the Games,100.0,1656,main,Information you provide through the Games: Child users do not have the ability to provide any personal information when using the Games beyond what has collected automatically (as noted above).,193,<error>,<how-gathered>
+The information we collect cookies (Webview browser cookies),"The 
+information we collect cookies (Webview browser cookies",98.33333333333333,1852,main,"The information we collect cookies (Webview browser cookies). When you visit the forum service, we may send one or more cookies with a small amount of data, which is usually used as a unique anonymous identifier, to your mobile device, which uniquely identifies your device and allows the application to help you log in. in a faster and easier navigation of the forum. You can reset your web browser settings to refuse all cookies or specify when they are sent. If you decide to opt out of our cookies, ",503,<third>,<what>
+The information we collect cookies (Webview browser cookies),"The 
+information we collect cookies (Webview browser cookies",98.33333333333333,1852,main,you may not be able to use some parts of this Service.,54,<third>,<what>
+Advertising,Advertising,100.0,2418,main,"AdvertisingOur application may use some providers to display ads. These advertising providers may use cookies only to identify your device (as described above), and then display ads that match the type of our application. We do not share any user data with Facebook or others (verified by BBC and Privacy International).",320,<error>,<why>
+Analytics,Analytics,100.0,2744,main,"Analytics - We use a third-party analytics tool, Google Analytics, to measure traffic and usage trends of the service. Google Analytics collects information such as how often users visit our services, which pages they visit, when they do, and which other pages they use before switching to our services. We use the information we receive from Google Analytics only to improve our services.",389,<error>,<why>
+Logging,Logging,100.0,3140,main,Logging,7,<error>,<how-used>
+"The only situation in which we can access your PII is 
+when you personally decide to send us your feedback by email or provide 
+us with a bug report","The only situation in which we can access your PII is 
+when you personally decide to send us your feedback by email or provide 
+us with a bug report",100.0,3148,sub,"The only situation in which we can access your PII is when you personally decide to send us your feedback by email or provide us with a bug report. The PII we may receive from you in such a situation is strictly limited only to your name, email address, device information, location information and your response to the survey. How we use your information In the above situation, we guarantee that your PII will only be used to contact you and improve our services. We will ",474,<error>,<how-gathered>
+"The only situation in which we can access your PII is 
+when you personally decide to send us your feedback by email or provide 
+us with a bug report","The only situation in which we can access your PII is 
+when you personally decide to send us your feedback by email or provide 
+us with a bug report",100.0,3148,sub,"never use such information (for example, your name and email address) for any other purposes, for example, to further promote our products or to disclose your personal information to third parties for commercial purposes.",221,<error>,<how-gathered>
+Contact us,Contact us,100.0,3854,main,"Contact usIT should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have concern about your PII being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at[email protected], we will endeavor to provide clear answers to your questions in a timely manner.",407,<choice>,<other>
+Terms Of Use,Terms Of Use,100.0,4269,main,Terms Of Use,12,<error>,<other>
+Privacy Policy,"
+Privacy Polic",92.85714285714286,4281,sub,Privacy Policy,14,<error>,<error>

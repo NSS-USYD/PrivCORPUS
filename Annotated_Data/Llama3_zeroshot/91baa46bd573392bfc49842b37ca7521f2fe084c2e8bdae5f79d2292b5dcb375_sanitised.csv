@@ -1,0 +1,27 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Bycro :: HomePhoto BenderSupportLast updated: January 2015,58,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,62,main,"Privacy PolicyAllBycroServices are governed by this Privacy Policy, by using our Services you signify your acceptance of this policy. Please do not install or use our Services if you do not agree to this Privacy Policy.Our Services include our website and mobile applications.",276,<generic>,<error>
+What information we collect,What information we collect,100.0,343,main,What information we collectWe are collecting non-personal information to provide better services to all of our users. ,118,<generic>,<what>
+When using our Services we may collect data like:,When using our Services we may collect data like:,100.0,462,sub,When using our Services we may collect data like: ,50,<first>,<how-gathered>
+application usage data,application usage data,100.0,512,sub,"application usage data, ",24,<error>,<error>
+your hardware model,your hardware model,100.0,536,sub,"your hardware model, ",21,<error>,<error>
+operating system version,operating system version,100.0,557,sub,"operating system version, ",26,<error>,<error>
+unique device identifier,unique device identifier,100.0,583,sub,"unique device identifier, IP adress, device event information such as crashes, language you are using on your device and other non-personal data.On our website we are using cookies- small data files that are sent to your computer or mobile phone from a website's computer (server) and stored on your device's hard drive.If you do not wish to accept cookies on to your device you can do so by adjusting the settings on your browser.AboutCookies.org",447,<error>,<error>
+unique device identifier,unique device identifier,100.0,583,sub,provides a guide to how you can do this on the most commonly used browsers.Third Party servicesWe may allow third parties to serve advertisements and provide analytics services in connection with our Services. These services may collect and use data like ,255,<error>,<error>
+IP address,IP address,100.0,1291,sub,"IP address, ",12,<error>,<error>
+Device ID,Device ID,100.0,1303,sub,"Device ID, ",11,<error>,<error>
+MAC address,MAC address,100.0,1314,sub,"MAC address, ",13,<error>,<error>
+application usage data,application usage data,100.0,1327,sub,"application usage data, ",24,<error>,<error>
+hardware type,hardware type,100.0,1351,sub,"hardware type, ",15,<error>,<error>
+operating system information,operating system information,100.0,1366,sub,"operating system information, ",30,<error>,<error>
+browser information,browser information,100.0,1396,sub,"browser information, ",21,<error>,<error>
+unique identifiers in browser cookies,unique identifiers in browser cookies,100.0,1417,sub,unique identifiers in browser cookies and ,42,<error>,<error>
+other,other,100.0,1459,sub,other.,6,<error>,<error>
+We are using,We are using,100.0,1466,main,We are using,12,<error>,<how-gathered>
+Flurry Analytics,Flurry Analytics,100.0,1479,sub,Flurry Analytics,16,<error>,<error>
+"in our apps, to collect application usage data","in our apps, to collect application usage data",97.82608695652173,1496,sub,"in our apps, to collect application usage data. If you want to stop collecting data by Flurry, you can do so by following this instrucions guide:Opt-Out.We are using",165,<error>,<error>
+Crashlytics,Crashlytics,100.0,1665,sub,Crashlytics,11,<error>,<error>
+to collect crash reports,to collect crash reports,100.0,1677,sub,to collect crash reports.,25,<error>,<error>
+Changes to this Privacy Policy,Changes to this Privacy Policy,100.0,1703,main,Changes to this Privacy Policy,30,<change>,<when>
+This Privacy Policy may change from time to time,This Privacy Policy may change from time to time,100.0,1734,sub,This Privacy Policy may change from time to time. ,50,<error>,<how-used>
+"If we make changes, we will notify you by updating the date at the top of the policy","If we make changes, we will notify you by updating the date at the top of the policy",100.0,1784,sub,"If we make changes, we will notify you by updating the date at the top of the policy.If you have any questions about our privacy policies, please contact us at support@bycro.comÂ© 2022 Bycro. All rights reserved.Privacy Policy",226,<error>,<other>

@@ -1,0 +1,72 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,ï»¿wetv policy viewer,21,<error>,<error>
+Thumbnails,Thumbnails,100.0,23,main,Thumbnails,10,<generic>,<what>
+Document Outline,Document Outline,100.0,34,main,Document Outline,16,<generic>,<what>
+Attachments,Attachments,100.0,51,main,Attachments,11,<generic>,<what>
+Layers,Layers,100.0,63,main,Layers,6,<generic>,<what>
+Current Outline Item,Current Outline Item,100.0,70,main,Current Outline Item,20,<generic>,<what>
+Previous,Previous,100.0,91,main,Previous,8,<generic>,<what>
+Next,Next,100.0,100,main,Next,4,<generic>,<what>
+Highlight all,Highlight all,100.0,105,main,Highlight all,13,<generic>,<what>
+Match case,Match case,100.0,119,main,Match case,10,<generic>,<what>
+Whole words,Whole words,100.0,130,main,Whole words,11,<generic>,<what>
+Presentation Mode,Presentation Mode,100.0,142,main,Presentation Mode,17,<generic>,<what>
+Open,Open,100.0,160,main,Open,4,<generic>,<what>
+Print,Print,100.0,165,main,Print,5,<generic>,<what>
+Download,Download,100.0,171,main,Download,8,<generic>,<what>
+Current View,Current View,100.0,180,main,Current View,12,<generic>,<what>
+Go to First Page,Go to First Page,100.0,193,main,Go to First Page,16,<generic>,<what>
+Go to Last Page,Go to Last Page,100.0,210,main,Go to Last Page,15,<generic>,<what>
+Rotate Clockwise,Rotate Clockwise,100.0,226,main,Rotate Clockwise,16,<generic>,<what>
+Rotate Counterclockwise,Rotate Counterclockwise,100.0,243,main,Rotate Counterclockwise,23,<generic>,<what>
+Text Selection Tool,Text Selection Tool,100.0,267,main,Text Selection Tool,19,<generic>,<what>
+Hand Tool,Hand Tool,100.0,287,main,Hand Tool,9,<generic>,<what>
+Vertical Scrolling,Vertical Scrolling,100.0,297,main,Vertical Scrolling,18,<generic>,<what>
+Horizontal Scrolling,Horizontal Scrolling,100.0,316,main,Horizontal Scrolling,20,<generic>,<what>
+Wrapped Scrolling,Wrapped Scrolling,100.0,337,main,Wrapped Scrolling,17,<generic>,<what>
+No Spreads,No Spreads,100.0,355,main,No Spreads,10,<generic>,<what>
+Odd Spreads,Odd Spreads,100.0,366,main,Odd Spreads,11,<generic>,<what>
+Even Spreads,Even Spreads,100.0,378,main,Even Spreads,12,<generic>,<what>
+Document Properties…,"
+Document Properties",95.0,390,main,Document Propertiesâ€¦,22,<generic>,<other>
+Toggle Sidebar,Toggle Sidebar,100.0,414,main,Toggle Sidebar,14,<generic>,<what>
+Find,Find,100.0,429,main,Find,4,<generic>,<what>
+Previous,Previous,100.0,434,main,Previous,8,<generic>,<what>
+Next,Next,100.0,443,main,Next,4,<generic>,<what>
+Presentation Mode,Presentation Mode,100.0,448,main,Presentation Mode,17,<generic>,<what>
+Open,Open,100.0,466,main,Open,4,<generic>,<what>
+Print,Print,100.0,471,main,Print,5,<generic>,<what>
+Download,Download,100.0,477,main,Download,8,<generic>,<what>
+Current View,Current View,100.0,486,main,Current View,12,<generic>,<what>
+Tools,Tools,100.0,499,main,Tools,5,<generic>,<what>
+Zoom Out,Zoom Out,100.0,505,main,Zoom Out,8,<generic>,<what>
+Zoom In,Zoom In,100.0,514,main,Zoom In,7,<generic>,<what>
+Automatic Zoom,Automatic Zoom,100.0,522,main,Automatic Zoom,14,<generic>,<what>
+Actual Size,Actual Size,100.0,537,main,Actual Size,11,<generic>,<what>
+Page Fit,Page Fit,100.0,549,main,Page Fit,8,<generic>,<what>
+Page Width,Page Width,100.0,558,main,Page Width50%75%100%125%150%200%300%400%,40,<generic>,<what>
+More Information,More Information,100.0,607,main,More Information,16,<generic>,<other>
+Less Information,Less Information,100.0,624,main,Less Information,16,<generic>,<other>
+Close,Close,100.0,641,main,Close,5,<generic>,<other>
+Enter the password to open this PDF file:,Enter the password to open this PDF file:,100.0,647,main,Enter the password to open this PDF file:,41,<generic>,<what>
+Cancel,Cancel,100.0,689,main,Cancel,6,<generic>,<what>
+OK,OK,100.0,696,main,OK,2,<generic>,<what>
+File name:,File name:,100.0,699,main,File name:-,11,<generic>,<what>
+File size:,File size:,100.0,712,main,File size:-,11,<generic>,<what>
+Title:,Title:,100.0,725,main,Title:-,7,<generic>,<what>
+Author:,Author:,100.0,734,main,Author:-,8,<generic>,<what>
+Subject:,Subject:,100.0,744,main,Subject:-,9,<generic>,<what>
+Keywords:,Keywords:,100.0,755,main,Keywords:-,10,<generic>,<what>
+Creation Date:,Creation Date:,100.0,767,main,Creation Date:-,15,<generic>,<what>
+Modification Date:,Modification Date:,100.0,784,main,Modification Date:-,19,<generic>,<what>
+Creator:,Creator:,100.0,805,main,Creator:-,9,<generic>,<what>
+PDF Producer:,PDF Producer:,100.0,816,main,PDF Producer:-,14,<generic>,<what>
+PDF Version:,PDF Version:,100.0,832,main,PDF Version:-,13,<generic>,<what>
+Page Count:,Page Count:,100.0,847,main,Page Count:-,12,<generic>,<what>
+Page Size:,Page Size:,100.0,861,main,Page Size:-,11,<generic>,<what>
+Fast Web View:,Fast Web View:,100.0,874,main,Fast Web View:-,15,<generic>,<what>
+Close,Close,100.0,891,main,Close,5,<generic>,<what>
+Preparing document for printing…,"
+Preparing document for printing",96.875,896,main,Preparing document for printingâ€¦0%,36,<generic>,<what>
+Cancel,"
+Cance",83.33333333333334,934,main,Cancel,6,<generic>,<what>

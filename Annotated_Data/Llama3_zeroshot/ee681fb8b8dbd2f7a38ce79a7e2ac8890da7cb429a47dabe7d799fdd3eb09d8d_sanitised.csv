@@ -1,0 +1,6 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,SmartCoin - ,12,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,12,main,Privacy Policy,14,<generic>,<error>
+Privacy Policy - SmartCoin,Privacy Policy - SmartCoin,100.0,27,main,Privacy Policy - SmartCoin,26,<generic>,<error>
+Copyright,Copyright,100.0,54,main,Copyright Ⓒ 2015-2021,21,<copyright>,<error>
+SmartCoin Financials Pvt Ltd,SmartCoin Financials Pvt Ltd,100.0,77,main,SmartCoin Financials Pvt Ltd. All Rights Reserved.,50,<first>,<error>

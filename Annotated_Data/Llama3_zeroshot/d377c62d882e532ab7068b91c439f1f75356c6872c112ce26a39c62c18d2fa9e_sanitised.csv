@@ -1,0 +1,126 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,XE Money Transfer: ,19,<error>,<error>
+Important Information,Important Information,100.0,19,main,Important InformationSkip to Content,36,<generic>,<error>
+Personal,Personal,100.0,57,main,Personal,8,<generic>,<what>
+Business,Business,100.0,66,main,Business,8,<generic>,<what>
+Send Money,Send Money,100.0,75,main,Send Money,10,<generic>,<what>
+Converter,Converter,100.0,86,main,ConverterCurrency API,21,<generic>,<what>
+Tools,Tools,100.0,109,main,Tools,5,<generic>,<what>
+Currency Charts,Currency Charts,100.0,115,main,Currency Charts,15,<generic>,<what>
+Trends for any currency,Trends for any currency,100.0,131,main,Trends for any currency,23,<generic>,<what>
+Rate Alerts,Rate Alerts,100.0,155,main,Rate Alerts,11,<generic>,<what>
+Set your target rate and get alerted,Set your target rate and get alerted,100.0,167,main,Set your target rate and get alerted,36,<generic>,<what>
+Historical Currency Rates,Historical Currency Rates,100.0,204,main,Historical Currency Rates,25,<generic>,<what>
+Check rates for any date,Check rates for any date,100.0,230,main,Check rates for any date,24,<generic>,<what>
+Travel Expenses Calculator,Travel Expenses Calculator,100.0,255,main,Travel Expenses Calculator,26,<generic>,<what>
+Calculate foreign exchange charges,Calculate foreign exchange charges,100.0,282,main,Calculate foreign exchange charges,34,<generic>,<what>
+Apps,Apps,100.0,317,main,AppsSmartphone apps and ,24,<generic>,<what>
+More,more,100.0,342,main,moreMore,8,<generic>,<error>
+Resources,Resources,100.0,352,main,Resources,9,<generic>,<what>
+Help Center,Help Center,100.0,362,main,Help Center,11,<generic>,<what>
+Blog,Blog,100.0,374,main,Blog,4,<generic>,<what>
+Money Transfer Tips,Money Transfer Tips,100.0,379,main,Money Transfer Tips,19,<generic>,<what>
+Currency Encyclopedia,Currency Encyclopedia,100.0,399,main,Currency Encyclopedia,21,<generic>,<what>
+Currency Newsletters,Currency Newsletters,100.0,421,main,Currency Newsletters,20,<generic>,<what>
+Glossary,Glossary,100.0,442,main,Glossary,8,<generic>,<what>
+More,More,100.0,451,main,More,4,<generic>,<error>
+Sign In,Sign In,100.0,456,main,Sign In,7,<generic>,<what>
+Money Transfer,Money Transfer,100.0,464,main,Money Transfer,14,<generic>,<what>
+Rate Alerts,Rate Alerts,100.0,479,main,Rate Alerts,11,<generic>,<what>
+Register,Register,100.0,491,main,Register,8,<generic>,<what>
+Money Transfer,Money Transfer,100.0,500,main,Money Transfer,14,<generic>,<what>
+Rate Alerts,Rate Alerts,100.0,515,main,Rate Alerts,11,<generic>,<what>
+Personal,Personal,100.0,527,main,Personal,8,<generic>,<what>
+Business,Business,100.0,536,main,Business,8,<generic>,<what>
+Send Money,Send Money,100.0,545,main,Send Money,10,<generic>,<what>
+Converter,Converter,100.0,556,main,Converter,9,<generic>,<what>
+Currency API,Currency API,100.0,566,main,Currency API,12,<generic>,<what>
+Tools,Tools,100.0,579,main,Tools,5,<generic>,<what>
+Currency Charts,Currency Charts,100.0,585,main,Currency Charts,15,<generic>,<what>
+Trends for any currency,Trends for any currency,100.0,601,main,Trends for any currency,23,<generic>,<what>
+Rate Alerts,Rate Alerts,100.0,625,main,Rate Alerts,11,<generic>,<what>
+Set your target rate and get alerted,Set your target rate and get alerted,100.0,637,main,Set your target rate and get alerted,36,<generic>,<what>
+Historical Currency Rates,Historical Currency Rates,100.0,674,main,Historical Currency Rates,25,<generic>,<what>
+Check rates for any date,Check rates for any date,100.0,700,main,Check rates for any date,24,<generic>,<what>
+Travel Expenses Calculator,Travel Expenses Calculator,100.0,725,main,Travel Expenses Calculator,26,<generic>,<what>
+Calculate foreign exchange charges,Calculate foreign exchange charges,100.0,752,main,Calculate foreign exchange charges,34,<generic>,<what>
+Apps,Apps,100.0,787,main,AppsSmartphone apps and ,24,<generic>,<what>
+More,more,100.0,812,main,moreMore,8,<generic>,<error>
+Resources,Resources,100.0,822,main,Resources,9,<generic>,<what>
+Help Center,Help Center,100.0,832,main,Help Center,11,<generic>,<what>
+Blog</money Transfer Tips,"
+Blog
+Money Transfer Tips",92.0,843,main,BlogMoney Transfer Tips,23,<generic>,<what>
+Currency Encyclopedia,Currency Encyclopedia,100.0,869,main,Currency Encyclopedia,21,<generic>,<what>
+Currency Newsletters,Currency Newsletters,100.0,891,main,Currency Newsletters,20,<generic>,<what>
+Glossary,Glossary,100.0,912,main,Glossary,8,<generic>,<what>
+More,More,100.0,921,main,More,4,<generic>,<error>
+Sign In,Sign In,100.0,926,main,Sign InSign In,14,<generic>,<error>
+Money Transfer,Money Transfer,100.0,942,main,Money Transfer,14,<generic>,<what>
+Rate Alerts,Rate Alerts,100.0,957,main,Rate Alerts,11,<generic>,<what>
+Register,Register,100.0,969,main,RegisterRegister,16,<generic>,<error>
+Money Transfer,Money Transfer,100.0,987,main,Money Transfer,14,<error>,<error>
+Rate Alerts,Rate Alerts,100.0,1002,main,Rate Alerts,11,<error>,<what>
+XE Money Transfer,XE Money Transfer,100.0,1014,main,XE Money Transfer,17,<error>,<error>
+Contact,Contact,100.0,1032,main,Contact,7,<error>,<error>
+FAQ,FAQ,100.0,1040,main,FAQ,3,<error>,<error>
+Log in,Log in,100.0,1044,main,Log in,6,<error>,<error>
+XE Money Transfer - Important Information,XE Money Transfer - Important Information,100.0,1051,main,XE Money Transfer - Important Information,41,<third>,<error>
+Please choose your country,Please choose your country,100.0,1093,main,Please choose your country▼,27,<generic>,<error>
+Language,Language,100.0,1122,main,LanguageEnglishDeutschEspañolFrançaisPortuguêsItalianoSvenska日本語简体中文繁體中文العربية,79,<generic>,<error>
+Transfer Money,Transfer Money,100.0,1213,main,Transfer Money,14,<generic>,<error>
+Register / Login,Register / Login,100.0,1228,main,Register / Login,16,<generic>,<what>
+US Money Transfer,US Money Transfer,100.0,1245,main,US Money Transfer,17,<generic>,<error>
+UK Money Transfer,UK Money Transfer,100.0,1263,main,UK Money Transfer,17,<generic>,<error>
+Europe Money Transfer,Europe Money Transfer,100.0,1281,main,Europe Money Transfer,21,<generic>,<error>
+Canada Money Transfer,Canada Money Transfer,100.0,1303,main,Canada Money Transfer,21,<generic>,<error>
+Australia Money Transfer,Australia Money Transfer,100.0,1325,main,Australia Money Transfer,24,<generic>,<error>
+New Zealand Money Transfer,New Zealand Money Transfer,100.0,1350,main,New Zealand Money Transfer,26,<generic>,<error>
+How does it work?,How does it work?,100.0,1377,main,How does it work?,17,<generic>,<error>
+Money Transfer Advice,Money Transfer Advice,100.0,1395,main,Money Transfer Advice,21,<generic>,<error>
+Fraud Prevention,Fraud Prevention,100.0,1417,main,Fraud Prevention,16,<generic>,<error>
+Trustpilot Reviews,Trustpilot Reviews,100.0,1434,main,Trustpilot Reviews,18,<generic>,<error>
+Apps,Apps,100.0,1453,main,Apps,4,<generic>,<what>
+Money Transfer & Currency Apps,Money Transfer & Currency Apps,100.0,1458,main,Money Transfer & Currency Apps,30,<generic>,<error>
+Android Money Transfer App,Android Money Transfer App,100.0,1489,main,Android Money Transfer App,26,<generic>,<error>
+iOS Money Transfer App,iOS Money Transfer App,100.0,1516,main,iOS Money Transfer App,22,<generic>,<error>
+Salesforce App,Salesforce App,100.0,1539,main,Salesforce App,14,<generic>,<error>
+Alexa App,Alexa App,100.0,1554,main,Alexa App,9,<error>,<error>
+Slack App,Slack App,100.0,1564,main,Slack App,9,<error>,<error>
+Google Assistant App,Google Assistant App,100.0,1574,main,Google Assistant App,20,<error>,<error>
+Facebook App,Facebook App,100.0,1595,main,Facebook App,12,<error>,<error>
+Tools & Resources,Tools & Resources,100.0,1608,main,Tools & Resources,17,<error>,<error>
+Blog,Blog,100.0,1626,main,Blog,4,<generic>,<what>
+Currency Converter,Currency Converter,100.0,1631,main,Currency Converter,18,<error>,<what>
+Currency Charts,Currency Charts,100.0,1650,main,Currency Charts,15,<error>,<what>
+Currency Encyclopedia,Currency Encyclopedia,100.0,1666,main,Currency Encyclopedia,21,<error>,<what>
+Historical Currency Rates,Historical Currency Rates,100.0,1688,main,Historical Currency Rates,25,<error>,<what>
+Travel Expenses Calculator,Travel Expenses Calculator,100.0,1714,main,Travel Expenses Calculator,26,<error>,<what>
+IBAN Calculator,IBAN Calculator,100.0,1741,main,IBAN Calculator,15,<error>,<what>
+Currency Newsletters,Currency Newsletters,100.0,1757,main,Currency Newsletters,20,<error>,<what>
+Glossary,Glossary,100.0,1778,main,Glossary,8,<error>,<what>
+XE Business,XE Business,100.0,1787,main,XE Business,11,<error>,<what>
+Register / Login,Register / Login,100.0,1799,main,Register / Login,16,<error>,<error>
+US Business Money Transfer,US Business Money Transfer,100.0,1816,main,US Business Money Transfer,26,<error>,<what>
+UK Business Money Transfer,UK Business Money Transfer,100.0,1843,main,UK Business Money Transfer,26,<error>,<error>
+Europe Business Money Transfer,Europe Business Money Transfer,100.0,1870,main,Europe Business Money Transfer,30,<error>,<error>
+Canada Business Money Transfer,Canada Business Money Transfer,100.0,1901,main,Canada Business Money Transfer,30,<error>,<error>
+Australia Business Money Transfer,Australia Business Money Transfer,100.0,1932,main,Australia Business Money Transfer,33,<error>,<error>
+New Zealand Business Money Transfer,New Zealand Business Money Transfer,100.0,1966,main,New Zealand Business Money Transfer,35,<error>,<error>
+Malaysia Business Money Transfer,Malaysia Business Money Transfer,100.0,2002,main,Malaysia Business Money Transfer,32,<error>,<error>
+Mass Payments,Mass Payments,100.0,2035,main,Mass Payments,13,<error>,<error>
+Products & Services,Products & Services,100.0,2049,main,Products & Services,19,<error>,<error>
+Partnerships,Partnerships,100.0,2069,main,Partnerships,12,<error>,<error>
+Why XE?,Why XE?,100.0,2082,main,Why XE?,7,<error>,<error>
+Company Info,Company Info,100.0,2090,main,Company Info,12,<error>,<error>
+Site Map,Site Map,100.0,2103,main,Site Map,8,<error>,<error>
+About Us,About Us,100.0,2112,main,About Us,8,<error>,<error>
+Partnerships,Partnerships,100.0,2121,main,Partnerships,12,<error>,<error>
+Careers,Careers,100.0,2134,main,Careers,7,<error>,<error>
+Help Center,Help Center,100.0,2142,main,Help Center,11,<error>,<what>
+Legal,Legal,100.0,2154,main,Legal,5,<error>,<error>
+Privacy,Privacy,100.0,2160,main,Privacy,7,<error>,<error>
+Cookie Policy,Cookie Policy,100.0,2168,main,Cookie Policy,13,<error>,<error>
+Consent Manager,Consent Manager,100.0,2182,main,Consent Manager,15,<error>,<error>
+Money Transfer Important Information,Money Transfer Important Information,100.0,2198,main,Money Transfer Important Information,36,<error>,<error>
+File a Complaint,File a Complaint,100.0,2235,main,File a Complaint© 1995-2023XE.com Inc.,38,<error>,<error>

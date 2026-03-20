@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy,7,<error>,<error>
+Privacy,Privacy,100.0,8,main,Privacy PolicyThis app does not collect and stores any user data.No data is collected or distributed by the app itself.,119,<generic>,<error>
+Advertising,Advertising,100.0,130,main,Advertising - ,14,<first>,<error>
+Google AdMob SDK is used for ads(AdMob Google Inc.),Google AdMob SDK is used for ads(AdMob Google Inc.),100.0,144,sub,Google AdMob SDK is used for ads(AdMob Google Inc.)	To see information about data used by Google Admob please look at:Google AdmobFor more information and qustions:,164,<third>,<error>
+Contact Us,Contact Us,100.0,312,main,Contact Us:,11,<contact>,<error>
+contact@bialamusic.com,contact@bialamusic.com,100.0,324,sub,contact@,8,<contact>,<error>
+bialamusic.com,bialamusic.com,100.0,332,sub,bialamusic.combialamusic.com,28,<region>,<error>

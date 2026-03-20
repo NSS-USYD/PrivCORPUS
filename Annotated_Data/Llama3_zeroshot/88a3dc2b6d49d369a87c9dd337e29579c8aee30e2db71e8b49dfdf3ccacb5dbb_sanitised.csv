@@ -1,0 +1,20 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy,14,<generic>,<error>
+About,About,100.0,15,main,About,5,<generic>,<error>
+Team,Team,100.0,21,sub,Team,4,<generic>,<error>
+Contribute,Contribute,100.0,26,sub,Contribute,10,<generic>,<error>
+Community,Community,100.0,37,sub,Community,9,<generic>,<error>
+Blog,Blog,100.0,47,sub,Blog,4,<generic>,<error>
+Documentation,Documentation,100.0,52,sub,Documentation,13,<generic>,<error>
+Download,Download,100.0,66,sub,Download,8,<generic>,<error>
+Support Forum,Support Forum,100.0,75,sub,Support ForumAboutTeamContributeCommunityBlogDocumentationDownloadSupport Forum© 2023 K9-MailPrivacy Policy,107,<generic>,<error>
+K-9 Mail,K-9 Mail,100.0,193,main,K-9 Mail is an email client for Android that uses the user's email provider to send and      retrieve messages. The app requests the following privacy-relevant Android permissions:Read/modify your ContactsThe names and email addresses in the user's address book (contacts) are used to provide      suggestions and auto-complete recipients when composing a message.For more information on the permissions K-9 Mail requires see:Permissions.,438,<first>,<error>
+K-9 Mail,K-9 Mail,100.0,193,main,"Sensitive user information is only used to perform the basic functionality of the app,      sending and receiving email. K-9 Mail does not automatically collect and send data to the developers of the app or      any third party. Sensitive information is also not included in application logs unless this is enabled by the      user.K-9 Mail's use and transfer to any other app of information received from Google APIs      will adhere toGoogle API Services User Data Policy,",474,<first>,<error>
+K-9 Mail,K-9 Mail,100.0,193,main,      including the Limited Use requirements.Please note that Google APIs will only be used in case a Google/Gmail account is added to K-9 Mail.K-9 Mail,152,<first>,<error>
+Documentation,Documentation,100.0,1276,sub,Documentation,13,<first>,<error>
+Overview,Overview,100.0,1290,sub,Overview,8,<first>,<error>
+Contribute,Contribute,100.0,1299,sub,Contribute,10,<first>,<error>
+Users,Users,100.0,1310,sub,Users,5,<first>,<error>
+Developers,Developers,100.0,1316,sub,DevelopersDocumentation,23,<first>,<error>
+Donate,Donate,100.0,1341,sub,Donate,6,<first>,<error>
+Download,Download,100.0,1348,sub,DownloadPlay StoreF-DroidGitHubAmazonInformationAboutTeamContributeCommunitySocial© 2023 K-9                    Mail|Privacy Policy,131,<first>,<error>

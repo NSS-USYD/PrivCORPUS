@@ -1,0 +1,34 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Penguin Apps | Privacy PolicyThe short summary is that we do not sell, or otherwise share your personal information or data with third parties.The long form is as follows...",173,<error>,<error>
+Information we collect,Information we collect,100.0,176,main,Information we collect,22,<first>,<what>
+"When creating a sync account, you will be asked to enter passphrase and your childs date of birth.","When creating a sync account, you will be asked to enter passphrase and your childs date of birth.",100.0,199,sub,"When creating a sync account, you will be asked to enter passphrase and your childs date of birth.",98,<error>,<how-gathered>
+If you use Feed Baby Sync then we'll store information that you have entered about your baby so we can sync this information between all of your devices where you use the app.,"If you use Feed Baby Sync then we'll store information that you have entered about your baby so we can sync this information
+        between all of your devices where you use ",95.42857142857143,298,sub,If you use Feed Baby Sync then we'll store information that you have entered about your baby so we can sync this information        between all of your devices where you use the app. ,183,<retention>,<how-gathered>
+We also collect aggregate statistics about syncs.,We also collect aggregate statistics about syncs.,100.0,482,sub,We also collect aggregate statistics about syncs.,49,<error>,<how-gathered>
+Information usage,Information usage,100.0,532,main,Information usage,17,<first>,<why>
+"We use the information we collect to operate and improve our website, apps, and customer support.","We use the information we collect to operate and improve our website, apps, and customer support.",100.0,550,sub,"We use the information we collect to operate and improve our website, apps, and customer support.",97,<error>,<how-used>
+"We do not sell, or otherwise share your personal information or data with third parties.","We do not sell, or otherwise share your personal information or data with third parties.",100.0,648,sub,"We do not sell, or otherwise share your personal information or data with third parties.",88,<third>,<how-used>
+"We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.","We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise
+        our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities,
+        suspected fraud or abuse, violations of our policies; or to protect our righ",95.07692307692308,737,sub,"We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise        our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities,        suspected fraud or abuse, violations of our policies; or to protect our rights and property.",339,<third>,<error>
+Security,Security,100.0,1079,main,"SecurityWe implement a variety of security measures to help keep your information secure, such as SSL and hashing.",114,<security>,<error>
+Accessing your information,Accessing your information,100.0,1195,main,Accessing your information,26,<error>,<error>
+"You may access or delete your sync account at any time. To do so, please email customer support.","
+You may access or delete your sync account at any time. To do so, please
+email customer support",97.91666666666666,1221,sub,"You may access or delete your sync account at any time. To do so, pleaseemail customer support.",95,<access>,<error>
+California Online Privacy Protection Act Compliance,California Online Privacy Protection Act Compliance,100.0,1320,main,California Online Privacy Protection Act Compliance,51,<audience>,<other>
+We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.,"We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal
+        information to outside parties without your ",95.0,1372,sub,We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal        information to outside parties without your consent.,167,<error>,<error>
+Children's Online Privacy Protection Act Compliance,Children's Online Privacy Protection Act Compliance,100.0,1541,main,Children's Online Privacy Protection Act Compliance,51,<audience>,<other>
+"We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.","We never collect or maintain information at our website from those we actually know are under 13, and no part of our
+        website is structured to attract anyone u",95.18072289156626,1593,sub,"We never collect or maintain information at our website from those we actually know are under 13, and no part of our        website is structured to attract anyone under 13.",173,<error>,<error>
+Your Consent,Your Consent,100.0,1768,main,Your Consent,12,<choice>,<other>
+"By using our site or apps, you consent to our privacy policy.","By using our site or apps, you consent to our privacy policy.",100.0,1781,sub,"By using our site or apps, you consent to our privacy policy.",61,<error>,<error>
+Contacting Us,Contacting Us,100.0,1843,main,Contacting Us,13,<contact>,<other>
+"If you have questions regarding this privacy policy, you may email us.","
+If you have questions regarding this privacy policy, you may
+email us",97.14285714285714,1856,sub,"If you have questions regarding this privacy policy, you mayemail us.",69,<error>,<error>
+Changes to this policy,Changes to this policy,100.0,1929,main,Changes to this policy,22,<change>,<other>
+"If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.","If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.",100.0,1952,sub,"If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.",137,<error>,<error>
+"This policy was last modified on 22nd August, 2014.","
+This policy was last modified on 22nd August, 2014",98.0392156862745,2089,main,"This policy was last modified on 22nd August, 2014.",51,<error>,<other>

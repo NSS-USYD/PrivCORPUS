@@ -1,0 +1,5 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Doc Scanner ,12,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,12,main,Privacy PolicyPrivacy PolicyThe following information applies to Doc Scanner Android App.,89,<generic>,<error>
+Data Collection,Data collection,100.0,104,main,Data collectionDoc Scanner collects anonymous usage data by using Google Analytics and Crashlytics. Doc Scanner does not share any information or the user data provided to any third party companies or services.,210,<generic>,<error>
+Required Permissions,Required permissions,100.0,316,main,Required permissionsDoc Scanner requests following permissions on your device:CAMERA– required to capture image of documents using device camera.READ EXTERNAL STORAGE- this permission is required to read images from external storage.WRITE EXTERNAL STORAGE- this permission is required to write to external storage.,314,<first>,<error>

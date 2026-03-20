@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Display TesterDisplay Tester,28,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,30,main,Privacy Policy,14,<generic>,<error>
+Terms and conditions,Terms and conditions,100.0,45,main,Terms and conditions,20,<generic>,<error>
+Display Tester Pro Unlocker,Display Tester Pro Unlocker,100.0,66,main,Display Tester Pro Unlocker,27,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,94,main,Privacy Policy,14,<generic>,<error>
+Terms and conditions,Terms and conditions,100.0,109,main,Terms and conditions,20,<generic>,<error>
+Other apps by BrainTrapp,Other apps by BrainTrapp,100.0,130,main,Other ,6,<generic>,<error>
+Apps by BrainTrapp,apps by BrainTrapp,100.0,136,main,apps by BrainTrappApps by BrainTrapp,36,<generic>,<error>

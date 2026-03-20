@@ -1,0 +1,26 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy: EMI CalculatorKalaGatomenu,42,<generic>,<error>
+Our Company,Our Company,100.0,46,main,Our Company,11,<generic>,<error>
+Who We Are,Who We Are,100.0,58,sub,Who We Are,10,<generic>,<error>
+News Room,News Room,100.0,69,sub,News Room,9,<generic>,<error>
+Press Coverage,Press Coverage,100.0,79,sub,Press Coverage,14,<generic>,<error>
+Career,Career,100.0,94,sub,Career,6,<generic>,<error>
+App Portfolio,App Portfolio,100.0,101,sub,App Portfolio,13,<generic>,<error>
+News & Blog,News & Blog,100.0,115,sub,News & Blog,11,<generic>,<error>
+How it works,How it works,100.0,127,main,How it works,12,<generic>,<error>
+Contact Us,Contact Us,100.0,140,main,Contact Us,10,<choice>,<other>
+Login,Login,100.0,151,sub,Login,5,<first>,<error>
+Get Your Valuation,Get Your Valuation,100.0,157,sub,Get Your ValuationKalaGatocontactus@kalagato.co,47,<first>,<error>
+Portfolio,Portfolio,100.0,208,main,Portfolio,9,<first>,<error>
+IOS Apps,IOS Apps,100.0,218,sub,IOS Apps,8,<first>,<error>
+Android Apps,Android Apps,100.0,227,sub,Android Apps,12,<first>,<error>
+Selling your App,Selling your App,100.0,240,sub,Selling your App,16,<first>,<error>
+How To Sell,How To Sell,100.0,257,sub,How To Sell,11,<first>,<error>
+Resources,Resources,100.0,269,sub,Resources,9,<first>,<error>
+Blogs,Blogs,100.0,279,sub,Blogs,5,<first>,<error>
+Our Company,Our Company,100.0,285,main,Our Company,11,<generic>,<error>
+Who We Are,Who We Are,100.0,297,sub,Who We Are,10,<generic>,<error>
+Press Coverage,Press Coverage,100.0,308,sub,Press Coverage,14,<generic>,<error>
+News room,News room,100.0,323,sub,News room,9,<generic>,<error>
+Careers,Careers,100.0,333,sub,Careers,7,<generic>,<error>
+Sitemap,Sitemap,100.0,341,main,SitemapAll Rights Reserved to KalaGato,38,<generic>,<error>

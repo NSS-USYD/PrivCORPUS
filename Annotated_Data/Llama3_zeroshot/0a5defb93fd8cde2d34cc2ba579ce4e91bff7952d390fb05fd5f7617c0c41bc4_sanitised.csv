@@ -1,0 +1,14 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,sub,Privacy Policy | Prodege         :        ProdegePrivacy Policy,63,<error>,<error>
+United States and Canada,United States and Canada,100.0,65,sub,United States and CanadaUnited States and Canada,48,<generic>,<error>
+International,International,100.0,115,main,International,13,<generic>,<other>
+Play Video,Play Video,100.0,129,sub,Play Video,10,<generic>,<other>
+Looking for Customer Support?,Looking for Customer Support?,100.0,140,sub,Looking for Customer Support?,29,<generic>,<other>
+Find the Help Centers Below:,Find the Help Centers Below:,100.0,170,sub,Find the Help Centers Below:,28,<generic>,<other>
+Swagbucks,Swagbucks,100.0,199,sub,Swagbucks,9,<generic>,<error>
+InboxDollars,InboxDollars,100.0,209,sub,InboxDollars,12,<generic>,<error>
+MyPoints,MyPoints,100.0,222,sub,MyPoints,8,<generic>,<error>
+Upromise,Upromise,100.0,231,sub,Upromise,8,<generic>,<error>
+Tada,Tada,100.0,240,sub,Tada,4,<error>,<error>
+ySense,ySense,100.0,245,sub,ySense,6,<generic>,<error>
+Terms of Use,Terms of Use,100.0,252,main,Terms of UsePrivacy Policyclose popup,37,<generic>,<other>

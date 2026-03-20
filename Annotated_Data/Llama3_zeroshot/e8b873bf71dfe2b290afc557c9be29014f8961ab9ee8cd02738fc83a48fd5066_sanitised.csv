@@ -1,0 +1,38 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy policy,Privacy policy,100.0,0,main,Privacy policy – Lonely Cat GamesSkip to contentLonely Cat GamesDocumentationX-plorePrivacy policyBe careful about your dataCopying filesMulti-selectionHiding filesSortingCreating ZipExtracting from ZipBatch renameBookmarks and favoritesWiFi file sharingX-plore in Web browserWiFi sharing with TaskerFTP sharing serverSSH ProtocolRoot modeDonationsRestore purchaseDisk MapWriting to external storageImage viewerMusic playerRecycle binApp managerHome screen shortcutsSetting default applicationUSB OTG,500,<error>,<error>
+Privacy policy,Privacy policy,100.0,0,main,NTFS/HFS+ Paragon pluginPDF viewerStartup securityVaultExperimentsKnown problemsNo access to Android/data on Android 11Not keeping file time after copyingCan’t write to external storageRooted device doesn’t see all foldersFile syncHomeDocsX-plorePrivacy policyPrivacy policyX-plore privacy policy,296,<error>,<error>
+X-plore does not collect user’s private information,X-plore does not collect user’s private information,100.0,845,main,"X-plore does not collect user’s private information, ",53,<error>,<error>
+"such as Google username, accounts, etc, except of for functionality provided by application.","such as Google username, accounts, etc, except of for functionality provided by application.",100.0,898,sub,"such as Google username, accounts, etc, except of for functionality provided by application.",92,<error>,<error>
+X-plore does not show ads.,X-plore does not show ads.,100.0,991,main,X-plore does not show ads.,26,<error>,<error>
+X-plore does not access or use device location.,X-plore does not access or use device location.,100.0,1018,main,X-plore does not access or use device location.,47,<error>,<error>
+X-plore can:,X-plore can:,100.0,1066,main,X-plore can:,12,<error>,<error>
+read/write/delete in device’s internal or external memory,read/write/delete in device’s internal or external memory,100.0,1079,sub,read/write/delete in device’s internal or external memory,57,<error>,<error>
+send or receive data over Internet (as result of user interaction with the app),send or receive data over Internet (as result of user interaction with the app),100.0,1137,sub,send or receive data over Internet (as result of user interaction with the app),79,<error>,<error>
+play music or video,play music or video,100.0,1217,sub,play music or video,19,<error>,<error>
+and provide all the functions as described on X-plore website,"and provide all the functions as described on
+X-plore website",98.36065573770492,1237,sub,and provide all the functions as described onX-plore website,60,<error>,<error>
+Login details to network services,Login details to network services,100.0,1299,main,"Login details to network servicesSince X-plore allows connecting to various Interned services such as FTP, Google Drive, etc, the app may ask user for login details (username and password).For services where this is possible, X-plore uses OAuth method of logging, where service’s own web page is used to get access token, and X-plore doesn’t keep login details at all.",368,<error>,<error>
+Login details to network services,Login details to network services,100.0,1299,main,"For services where this is not possible (such as FTP), X-plore stores login details in its private configuration file (not accessible by other apps) in encrypted form, so that password is not readable even on rooted device.",223,<error>,<error>
+Explanation of needed permissions,Explanation of needed permissions,100.0,1894,main,Explanation of needed permissionsX-plore requests following permissions for given purpose:,90,<error>,<error>
+Internet,Internet,100.0,1986,sub,Internet,8,<error>,<error>
+"– access to network file servers, and other network-related functionality","– access to network file servers, and other network-related functionality",100.0,1995,sub,"– access to network file servers, and other network-related functionality",73,<error>,<error>
+Access/change WiFi state,Access/change WiFi state,100.0,2069,sub,Access/change WiFi state,24,<error>,<error>
+– for providing WiFi sharing function,– for providing WiFi sharing function,100.0,2094,sub,– for providing WiFi sharing function,37,<error>,<error>
+Read/write external storage,Read/write external storage,100.0,2132,sub,Read/write external storage,27,<error>,<error>
+– for file management,– for file management,100.0,2160,sub,– for file management,21,<error>,<error>
+In-app purchases,In-app purchases,100.0,2182,sub,In-app purchases,16,<error>,<error>
+– to allow donations,"– to allow
+donations",95.0,2199,sub,– to allowdonations,19,<error>,<error>
+Identity,Identity,100.0,2220,sub,Identity,8,<error>,<error>
+– to get Google accounts for Google services (Google Drive),– to get Google accounts for Google services (Google Drive),100.0,2229,sub,– to get Google accounts for Google services (Google Drive),59,<error>,<error>
+Prevent device from sleeping,Prevent device from sleeping,100.0,2289,sub,Prevent device from sleeping,28,<error>,<error>
+– for proper work of long-lasting operations,– for proper work of long-lasting operations,100.0,2318,sub,– for proper work of long-lasting operations,44,<error>,<error>
+Crash reports,Crash reports,100.0,2363,main,Crash reports,13,<error>,<error>
+"When X-plore crashes, it sends crash report to crashlytics, which is a development tool from Google for improving applications and make them crash-free.","When X-plore crashes, it sends crash report to
+crashlytics
+, which is a development tool from Google for improving applications and make them crash-free",98.68421052631578,2377,sub,"When X-plore crashes, it sends crash report tocrashlytics, which is a development tool from Google for improving applications and make them crash-free.",151,<error>,<error>
+Crash report contain anonymous data:,Crash report contain anonymous data:,100.0,2531,sub,Crash report contain anonymous data:,36,<error>,<error>
+date of posting,date of posting,100.0,2568,sub,date of posting,15,<error>,<error>
+app version,app version,100.0,2584,sub,app version,11,<error>,<error>
+"details about device (model, make, android version, etc)","details about device (model, make, android version, etc)",100.0,2596,sub,"details about device (model, make, android version, etc)",56,<error>,<error>
+"stack trace – actual information about the crash, describing locations into app’s source code where the crash happened; this information doesn’t store anything personal","stack trace – actual information about the crash, describing locations into app’s source code where the crash happened; this information doesn’t store anything personal",100.0,2653,sub,"stack trace – actual information about the crash, describing locations into app’s source code where the crash happened; this information doesn’t store anything personalCrash reports are sent automatically when app crashes, and don’t contain any personal information.Updated on November 1, 2021Doc navigationBe careful about your data →© Lonely Cat Games",353,<error>,<error>

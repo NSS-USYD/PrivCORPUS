@@ -1,0 +1,68 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Lá»‹ch Váº¡n NiÃªn - Lá»‹ch VNLich Van Nien - Lich VN privacy policyThis Privacy Policy (â€œPolicyâ€) provides important information regarding Lich Van Nien - Lich VN brands (â€œLich Van Nien - Lich VNâ€, â€œweâ€ or â€œourâ€). You provide consent to this Policy when you open and use Lich Van Nien - Lich VN application (â€œAppâ€) and other related services (â€œServicesâ€) .1. ",384,<error>,<error>
+"COPPA, personal and non-personal information.","COPPA, personal and non-personal information.",100.0,391,main,"COPPA, personal and non-personal informatio",43,<generic>,<what>
+1. We comply with the Childrenâ€™s Online Privacy Protection Act.,"n.
+We comply with the Childrenâ€™s Online Privacy Protection Act.",96.92307692307692,434,sub,n.We comply with the Childrenâ€™s Online Privacy Protection Act. ,65,<first>,<why>
+We do not knowingly collect personal information on children under the age of 13.,"We do 
+not knowingly collect personal information on children under the age of 
+1",97.53086419753086,500,sub,We do not knowingly collect personal information on children under the age of 13.,81,<first>,<when>
+The App does not collect or require users to enter their personal information.,"The App does not collect or require users to enter their personal 
+information",98.71794871794873,584,sub,The App does not collect or require users to enter their personal information.,78,<first>,<error>
+"When using the App, we might read non-personal information (such as network connection, Wi-Fi availability, wake lock, alarm, device status) for the use of Product development and Service improvement.","When using the App, we might read non-personal information (such
+ as network connection, Wi-Fi availability, wake lock, alarm, device 
+status) for the use of Product development and Service improvemen",99.0,664,sub,"When using the App, we might read non-personal information (such as network connection, Wi-Fi availability, wake lock, alarm, device status) for the use of Product development and Service improvement. The collection of information will be used for the development and functional improvement of our App to ensure quality user experience. We only collect such information to the extent that allow us to conduct our normal business operation and App's research and development.",474,<third>,<why>
+"When using the App, we might read non-personal information (such as network connection, Wi-Fi availability, wake lock, alarm, device status) for the use of Product development and Service improvement.","When using the App, we might read non-personal information (such
+ as network connection, Wi-Fi availability, wake lock, alarm, device 
+status) for the use of Product development and Service improvemen",99.0,664,sub,Any information we received will be used internally for the purpose of product development.2. ,94,<third>,<why>
+Permission asking,Permission asking,100.0,1241,main,Permission aski,15,<access>,<what>
+"2. Lich Van Nien - Lich VN requires some device permissions, we declare below:","ng
+Lich Van Nien - Lich VN requires some device permissions, we declare below:",96.15384615384616,1256,sub,"ngLich Van Nien - Lich VN requires some device permissions, we declare below:",77,<generic>,<error>
+Device location: to update & show the weather forecast at current user location.,"Device location:
+to update & show the weather forecast at current user location.",98.75,1335,sub,Device location:to update & show the weather forecast at current user location.3. ,82,<audience>,<error>
+Right of access and collection user information,Right of access and collection user information,100.0,1419,main,Right of access and collection user informatio,46,<choice>,<error>
+"3. (a) By using the App, you acknowledge that we reserve the right to use the following system APIs to access data on your phone:","n
+(a) By using the App, you acknowledge that we reserve the right to 
+use the following system APIs to access data on your phone:",97.67441860465115,1465,sub,"n(a) By using the App, you acknowledge that we reserve the right to use the following system APIs to access data on your phone:",127,<first>,<how-gathered>
+Obtain your current location with consent.,Obtain your current location with consent.,100.0,1595,sub,Obtain your current location with consent.,42,<first>,<how-gathered>
+Access the Internet from the device.,Access the Internet from the device.,100.0,1638,sub,Access the Internet from the device.,36,<first>,<how-gathered>
+Write app data to the external storage.,Write app data to the external storage.,100.0,1675,sub,"Write app data to the external storage.All such access is made by us with your consent, so you undertake and acknowledge that, once you have granted us permission, you will not have any claims about this access.",211,<first>,<how-gathered>
+"(b) For a better experience, while using our Services, we may require you to provide us with certain personally identifiable information, including but not limited to Android Advertising ID.","(b) For a better experience, while using our Services, we may require you to provide us with certain personally identifiable information, including but not limited to Android Advertising ID.",100.0,1889,sub,"(b) For a better experience, while using our Services, we may require you to provide us with certain personally identifiable information, including but not limited to Android Advertising ID.",190,<first>,<how-used>
+The app does use third party services that may collect information used to identify you.,The app does use third party services that may collect information used to identify you.,100.0,2080,sub,The app does use third party services that may collect information used to identify you. ,89,<third>,<error>
+Link to privacy policy of third party service providers used by the app: Google Play Services,"Link to privacy policy of third party service providers used by the app:
+Google Play Services",98.9247311827957,2170,sub,Link to privacy policy of third party service providers used by the app:Google Play Services,92,<retention>,<error>
+"(c) With access, we will collect the following information from you:","(c) With access, we will collect the following information from you:",100.0,2264,sub,"(c) With access, we will collect the following information from you:",68,<first>,<error>
+Personal information: includes information you provide us to verify your account such as email address;,"Personal information: includes information you provide us to 
+verify your account such as email address",99.02912621359224,2333,sub,Personal information: includes information you provide us to verify your account such as email address;,103,<first>,<what>
+Location information: your geolocation data will be stored on the server to help you use the App's search function;,"Location information: your geolocation data will be stored on the server to help 
+	you use the App's search functio",98.26086956521739,2438,sub,Location information: your geolocation data will be stored on the server to help 	you use the App's search function;,116,<first>,<what>
+"We do not use any means to track message content, exchange or otherwise to track users while using this App.","We do not use any means to track message content, exchange or otherwise to track users while using this App.",100.0,2556,sub,"We do not use any means to track message content, exchange or otherwise to track users while using this App.",108,<first>,<error>
+(d) Note content: can be stored on the server if you select uploading function.,(d) Note content: can be stored on the server if you select uploading function.,100.0,2665,sub,(d) Note content: can be stored on the server if you select uploading function.,79,<first>,<what>
+(e) Submitting email: You can contact us by sending an email.,"(e) Submitting email:
+You can contact us by sending an email.",98.36065573770492,2745,sub,"(e) Submitting email:You can contact us by sending an email.You can use your email address to register account and sign in the App.If you submit a request with email address or register an account, we may receive your email address you provided.4. ",248,<choice>,<error>
+Third party websites and cookies,Third party websites and cookies,100.0,2998,main,Third party websites and cooki,30,<third>,<error>
+4. The App may open our website or third party websites.,"es
+The App may open our website or third party websites.",94.64285714285714,3028,sub,esThe App may open our website or third party websites. ,56,<generic>,<what>
+Our Privacy Policy will have no effect on any third party websitesâ€™ privacy policy or their usage of personal information collected.,"Our
+ Privacy Policy will have no effect on any third party websitesâ€™ privacy
+ policy or their usage of personal information collecte",98.50746268656717,3085,sub,"Our Privacy Policy will have no effect on any third party websitesâ€™ privacy policy or their usage of personal information collected. Our Privacy Policy as expressed herein does not apply to other parties, and we do not dictate the collection or usage of information by them. We do not take part in the operation of third party advertisers or websites.",353,<generic>,<other>
+The App does not use cookies.,The App does not use cookies.,100.0,3444,sub,The App does not use cookies.5. ,32,<tracking>,<other>
+Amendments,Amendments,100.0,3477,main,Amendment,9,<change>,<error>
+"5. We may amend our privacy policy from time to time by posting the amended Policy on our website, without directly informing our users.","s
+We may amend our privacy policy from time to time by posting the 
+amended Policy on our website, without directly informing our users.",97.79411764705883,3486,sub,"sWe may amend our privacy policy from time to time by posting the amended Policy on our website, without directly informing our users. Therefore we encourage our users to review this policy frequently.6. ",204,<error>,<when>
+Update or remove user data,Update or remove user data,100.0,3694,main,Update or remove user dat,25,<error>,<error>
+6. Lich Van Nien - Lich VN keeps your content for as long as necessary in providing its services.,"a
+Lich Van Nien - Lich VN keeps your content for as long as necessary in providing 
+its services.",96.90721649484536,3719,sub,aLich Van Nien - Lich VN keeps your content for as long as necessary in providing its services. ,96,<error>,<when>
+"If you want to remove user data, please do following steps in your Android phone:","If you want to remove user data, please do following steps in your Android phone:",100.0,3817,sub,"If you want to remove user data, please do following steps in your Android phone:Swipe down to yourQuick SettingsPanel andTapon theSettingscogwheel.Scroll down the screen andTaponApps.Locate the app you would like toClear Databy scrolling through the app list or by using the search icon.SelectStorage.Tap onClear Data.SelectOKto Clear App Data.7. ",348,<error>,<error>
+Facebook data deletion instructions,Facebook data deletion instructions,100.0,4190,main,Facebook data deletion instruction,34,<error>,<other>
+"7. According to the Facebook Platform rules, we have to provide User Data Deletion Callback URL or Data Deletion Instructions URL.","s
+According to the Facebook Platform rules, we have to provide User Data Deletion Callback URL 
+or Data Deletion Instructions URL.",97.6923076923077,4224,sub,"sAccording to the Facebook Platform rules, we have to provide User Data Deletion Callback URL or Data Deletion Instructions URL. ",129,<error>,<error>
+"If you want to delete your activities for our application (Ex: Lich Van Nien - Lich VN), you can remove your activities by the following instructions.","If you want to delete your activities for our application 
+(Ex: Lich Van Nien - Lich VN), you can remove your activities by the following instructions",99.33333333333333,4355,sub,"If you want to delete your activities for our application (Ex: Lich Van Nien - Lich VN), you can remove your activities by the following instructions.Go to your FacebookAccountâ€™s Setting & Privacy. ClickSetting.Go toApps and Websitesand you will see all of your Apps activities.Select the option box of our application which you want to remove.ClickRemovebutton.Congratulation, you are successfully remove your activities.",424,<error>,<error>
+"If you want to delete your activities for our application (Ex: Lich Van Nien - Lich VN), you can remove your activities by the following instructions.","If you want to delete your activities for our application 
+(Ex: Lich Van Nien - Lich VN), you can remove your activities by the following instructions",99.33333333333333,4355,sub,"In case you do not want to continue using our application, please use the delete account feature in the application. All your personal data will be permanently deleted from our system.8. ",187,<error>,<error>
+Contact us,Contact us,100.0,4983,main,Contact,7,<error>,<error>
+8. If there is any question you may contact us using the information below.," us
+If there is any question you may contact us using the information below",96.0,4990,sub," usIf there is any question you may contact us using the information below.We love hearing your voice. Let's contact us and stay connected!Website: weplay.vnEmail: lichvn@weplay.vnâ€¬Address: No.28, Alley 165, Mai Dich Street, Mai Dich Ward, Cau Giay District, Ha Noi, Viet Nam",277,<error>,<other>

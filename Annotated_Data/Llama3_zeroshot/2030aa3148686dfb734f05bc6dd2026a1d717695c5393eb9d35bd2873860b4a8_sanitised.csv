@@ -1,0 +1,22 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,number_lock_screenSearch this siteSkip to main contentSkip to navigationnumber_lock_screen,90,<error>,<error>
+Screen Lock Number User Policy,Screen Lock Number User Policy,100.0,95,main,Screen Lock Number User PolicyThis application is using normal and sensitive permissions.,89,<error>,<error>
+Details of sensitive permissions are given below,Details of sensitive permissions are given below,100.0,186,main,Details of sensitive permissions are given below below,54,<generic>,<error>
+"1. Phone, Device ID & Call Information","1) Phone, Device ID & Call Information",97.36842105263158,241,sub,"1) Phone, Device ID & Call Informationandroid.permission.READ_PHONE_STATEAllows read only access to phone state, including the phone number of the device, current cellular network information, the status of any ongoing calls, and a list of any Phone Accounts registered on the device.Purpose of this permission in this screen lock:This is a Number Briefcase screen lock pattern, it need to finish lock screen when receive a call and re-lock screen after the end of the call.",474,<first>,<error>
+"1. Phone, Device ID & Call Information","1) Phone, Device ID & Call Information",97.36842105263158,241,sub,In the application this permission will be only used to listen incoming calls to unlock screen and lock screen when call will be finished.If you will deny this permission then screen lock will show on foreground of  call application.Other ,239,<first>,<error>
+Permissions to access these functionalities,Permissions to access these functionalities,100.0,961,main,Permissions to access these functionalities given below:,56,<error>,<error>
+2. INTERNET & ACCESS NETWORK STATE Permission,2) INTERNET & ACCESS NETWORK STATE Permission,97.77777777777777,1018,sub,"2) INTERNET & ACCESS NETWORK STATE Permission:android.permission.INTERNET,android.permission.ACCESS_NETWORK_STATEpurpose of this permission:Need of this permission is to show google admob ads.",192,<first>,<error>
+3. SYSTEM ALERT WINDOW Permission,3) SYSTEM ALERT WINDOW Permission,96.96969696969697,1214,sub,3) SYSTEM ALERT WINDOW Permission: android.permission.SYSTEM_ALERT_WINDOWpurpose of this permission:Purpose of this permission is to show this application on front of other applications because this is screen lock application and it should above other apps.,257,<first>,<error>
+Further permissions are also using in this application,Further permissions are also using in this application,100.0,1474,main,Further permissions are also using in this applicatio,53,<first>,<error>
+1. view network connections,"n:
+view network connections",88.88888888888889,1527,sub,n:view network connectio,24,<first>,<error>
+2. disable your screen lock,"ns
+disable your screen lock",88.88888888888889,1552,sub,nsdisable your screen lo,24,<first>,<error>
+3. full network access,"ck
+full network access",86.36363636363636,1577,sub,ckfull network acce,19,<first>,<error>
+4. run at startup,"ss
+run at startup",82.35294117647058,1597,sub,ssrun at start,14,<first>,<error>
+5. draw over other apps,"up
+draw over other apps",86.95652173913044,1612,sub,updraw over other ap,20,<first>,<error>
+6. prevent device from sleeping,"ps
+prevent device from sleeping",90.32258064516128,1633,sub,psprevent device from sleepingIMPORTANT NOTE:This application is basically near to screen lock functionality. This screen lock is not developed for professional security lock for screen but it is an effort to develop a fancy screen lock.Report abuseGoogle SitesReport abuse,273,<first>,<error>

@@ -1,0 +1,18 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,JuiceSSH - Free SSH client for AndroidFollow usInstall JuiceSSHJuiceSSHScreenshotsFeaturesChangelogFAQBookclub,110,<error>,<error>
+About Us,About Us,100.0,120,sub,About Us,8,<generic>,<other>
+Contact,Contact,100.0,129,sub,ContactQuick LinksScreenshotsChangelogRoadmapFAQBookclub,56,<generic>,<other>
+About Us,About Us,100.0,192,sub,About Us,8,<generic>,<other>
+Contact,Contact,100.0,201,sub,Contact,7,<generic>,<other>
+Privacy Policy,Privacy Policy,100.0,209,main,Privacy Policy,14,<generic>,<what>
+About,About,100.0,224,sub,About,5,<generic>,<what>
+JuiceSSH was published to the Play Store in December 2012.,JuiceSSH was published to the Play Store in December 2012.,100.0,230,sub,JuiceSSH was published to the Play Store in December 2012. ,59,<error>,<error>
+Since then we've not stopped adding new features and functionality.,Since then we've not stopped adding new features and functionality.,100.0,289,sub,Since then we've not stopped adding new features and functionality.,67,<first>,<error>
+"If like us, you spend most of your life in a terminal window then you'll love some of the ideas we've got that will be coming to JuiceSSH in the coming months.","If like us, you spend most of your life in a terminal window then you'll love some of the ideas we've got that will be coming to JuiceSSH in the coming months.",100.0,357,sub,"If like us, you spend most of your life in a terminal window then you'll love some of the ideas we've got that will be coming to JuiceSSH in the coming months.",159,<third>,<error>
+News,News,100.0,517,sub,News{{ item.date }}v{{ item.version }},38,<error>,<other>
+Contact,Contact,100.0,558,sub,Contact,7,<error>,<what>
+support@sonelli.com,support@sonelli.com,100.0,566,sub,support@sonelli.com,19,<contact>,<error>
+@juicessh,@juicessh,100.0,586,sub,@juicessh,9,<contact>,<error>
++JuiceSSH,+JuiceSSH,100.0,596,sub,+JuiceSSH,9,<contact>,<error>
+facebook.com/juicessh,facebook.com/juicessh,100.0,606,sub,"facebook.com/juicessh© Sonelli Ltd,",35,<contact>,<error>
+2013 - Registered UK Company No. 07878261, 2013 - Registered UK Company No. 0787826,97.5609756097561,642,sub, 2013 - Registered UK Company No. 07878261,42,<first>,<error>

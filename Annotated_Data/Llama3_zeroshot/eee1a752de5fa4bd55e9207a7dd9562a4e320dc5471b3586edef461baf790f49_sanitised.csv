@@ -1,0 +1,20 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Policy,6,<error>,<error>
+Home,Home,100.0,7,main,Home,4,<generic>,<error>
+About,About,100.0,12,main,About,5,<generic>,<error>
+Contact us,Contact us,100.0,18,main,Contact us,10,<generic>,<error>
+SPIKESROID,SPIKESROID,100.0,29,main,SPIKESROID,10,<generic>,<error>
+App Policy,App Policy,100.0,40,main,App ,4,<generic>,<error>
+Policy,Policy,100.0,44,main,"PolicyWe do not save or store or share users dataPolicyWe do not save or store any kind of app or user's data. None of the app or user's data is shared with anyone and it is safe and private to our users.				We know that our users care about how your personal information is safe, and we take your privacy seriously. 				We change our policies time to time. Please visit our websitewww.spikesroidapps.comfor more details, features, content, mobile applications, or any other services we offer from time to time.",511,<generic>,<error>
+Policy,Policy,100.0,44,main,"Please read the following to learn more about our Privacy Policy. You acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby show your consent.",191,<generic>,<error>
+Data Safety,Data Safety,100.0,755,main,Data SafetyApp does not collect or share any of the user data with any third party.,83,<first>,<error>
+Advertising,Advertising,100.0,840,main,AdvertisingApp uses mobile advertising platforms like AdMob and fully complies with their privacy and the developerâ€™s policy.,127,<third>,<error>
+Analytics,Analytics,100.0,969,main,AnalyticsApp uses Google Analytics to collect information about how many people install and use it. Analytics data helps us to improve ACR. Collected information is neither personally identifiable nor contains personal information. 				You can read related Google policies athttps://www.google.com/intl/en/policies,314,<third>,<error>
+Record audio,Record audio,100.0,1287,main,Record audioApp uses your phoneâ€™s microphone to take users voice commands. It does not transfer any audio or voice data to us or to any third party. Voice commands are never stored anywhere.,192,<first>,<error>
+Phone storage access,Phone storage access,100.0,1481,main,Phone storage accessApp uses access to the phone storage to show media content. It does not transfer any media content to us or to any third party.,147,<first>,<error>
+IR Blaster,IR Blaster,100.0,1630,main,IR BlasterApp uses inbuilt android IR Blaster to send IR commands to compatible devices. Its only application to those phones which has inbuilt IR.,147,<first>,<error>
+Vibrator,Vibrator,100.0,1779,main,VibratorVibrator is used for necessary clicks within the app and can be disabled from the app settings.,103,<first>,<error>
+Contacting the User,Contacting the User,100.0,1884,main,Contacting the UserApp does not save or transfer any email address to us or to any third party.,95,<choice>,<error>
+Policy Changes,Policy Changes,100.0,1981,main,Policy ChangesWe may change Usage Terms and Privacy Policy from time to time. If it is changed we will post the new version on our web sitewww.spikesroidapps.comand we recommend that you revisit it from time to time to know the newest version.,243,<change>,<error>
+Questions OR Concerns,Questions OR Concerns,100.0,2228,main,"Questions OR ConcernsIf you have any questions or concerns regarding our privacy policies, please send us a detailed message via email tospikesroid@gmail.com. We will make every effort to resolve your concerns.",210,<choice>,<error>
+Ready to try?,Ready to try?,100.0,2442,main,Ready to try?© 2013 www.spikesroidapps.com All Rights Reserved.,63,<generic>,<error>

@@ -1,0 +1,22 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,ï»¿,3,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,4,main,Privacy PolicyPrivacy PolicyThis Application collects some Personal Data from its Users in order to provide better service and user experience to its Users. We endeavor to comply with all applicable laws on privacy protection and personal information security. Privacy is important to us and we value the trust that our users have placed in us.,344,<error>,<error>
+Personal Data We Collect,Personal Data We Collect,100.0,351,main,Personal Data We CollectWe collects data to provide you with the best experiences with our products. The following personal data is collected:,142,<first>,<what>
+1. Read phone status and identity (android.permission.READ_PHONE_STATE),1. Read phone status and identity (android.permission.READ_PHONE_STATE),100.0,495,sub,1. Read phone status and identity (android.permission.READ_PHONE_STATE),71,<error>,<error>
+2. Read your text messages (SMS or MMS),2. Read your text messages (SMS or MMS),100.0,567,sub,2. Read your text messages (SMS or MMS),39,<error>,<error>
+3. Access fine location,3. Access fine location,100.0,607,sub,3. Access fine location,23,<error>,<error>
+4. Read your contacts (android.permission.READ_CONTACTS),4. Read your contacts (android.permission.READ_CONTACTS),100.0,631,sub,4. Read your contacts (android.permission.READ_CONTACTS),56,<error>,<error>
+5. Modify or delete the contents of your USB storage,5. Modify or delete the contents of your USB storage,100.0,688,sub,5. Modify or delete the contents of your USB storage,52,<error>,<error>
+6. Read the contents of your USB storage,6. Read the contents of your USB storage,100.0,741,sub,6. Read the contents of your USB storage,40,<error>,<error>
+7. Find accounts on the devices (android.permission.GET_ACCOUNTS),7. Find accounts on the devices (android.permission.GET_ACCOUNTS),100.0,782,sub,7. Find accounts on the devices (android.permission.GET_ACCOUNTS),65,<error>,<error>
+8. Read Google service configuration,8. Read Google service configuration,100.0,848,sub,8. Read Google service configuration,36,<error>,<error>
+9. Change network connectivity,9. Change network connectivity,100.0,885,sub,9. Change network connectivity,30,<error>,<error>
+10. Full network access,10. Full network access,100.0,916,sub,10. Full network access,23,<error>,<error>
+11. View network connections,11. View network connections,100.0,940,sub,11. View network connections,28,<error>,<error>
+12. View Wi-Fi connections,12. View Wi-Fi connections,100.0,969,sub,12. View Wi-Fi connections,26,<error>,<error>
+How Personal Data Is Used,How Personal Data Is Used,100.0,996,main,How Personal Data Is UsedWe uses the data we collect to operate our products and to improve the product experience. We may use the data we collect to:,150,<first>,<why>
+1. Perform analysis to improve our products,1. Perform analysis to improve our products,100.0,1148,sub,1. Perform analysis to improve our products,43,<error>,<error>
+2. Provide personalized experiences,2. Provide personalized experiences,100.0,1192,sub,2. Provide personalized experiences,35,<error>,<error>
+3. Provide more relevant search results,3. Provide more relevant search results,100.0,1228,sub,3. Provide more relevant search results,39,<error>,<error>
+4. Share aggregate statistics with the public or our partners,4. Share aggregate statistics with the public or our partners,100.0,1268,sub,4. Share aggregate statistics with the public or our partnersWe will not share any personally identifying information with outside parties.,139,<error>,<error>
+Security,Security,100.0,1409,main,"SecurityThe security of your data is important to us. We employ industry recommended security practices to protect the data that we collect.            Furthermore, we do not store any personally identifiable information on our servers. This ensures your protection            in the unlikely event that our security precautions fail.",334,<security>,<error>

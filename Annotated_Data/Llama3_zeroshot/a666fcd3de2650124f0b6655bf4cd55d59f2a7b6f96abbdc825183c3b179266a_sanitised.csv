@@ -1,0 +1,67 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Tech Arena Apps: Tech Arena Privacy PolicyTech Arena AppsTech Arena Privacy PolicyBy installing and using the apps, you agree to this privacy policy and give an explicit and informed consent to the processing. If you do not agree, please do not install and use the apps.",270,<error>,<error>
+Privacy Policy for Mobile Applications,Privacy Policy for Mobile Applications,100.0,277,main,Privacy Policy for Mobile Applications,38,<generic>,<error>
+1. Non-personal Data:,"1.
+Non-personal Data:",95.23809523809523,316,main,1.Non-personal Data:,20,<generic>,<error>
+"Non-personal data means information that, by itself, does not personally identify you.","Non-personal
+ data means information that, by itself, does not personally identify 
+yo",97.67441860465115,338,sub,"Non-personal data means information that, by itself, does not personally identify you. ",87,<first>,<error>
+"We may collect Non-personal data such as your device model number, operating system version, country code and other properties for purposes of managing the apps and communicating with you.","We may collect Non-personal data such as your device model number, 
+operating system version, country code and other properties for purposes
+ of managing the apps and communicating with yo",98.93617021276596,427,sub,"We may collect Non-personal data such as your device model number, operating system version, country code and other properties for purposes of managing the apps and communicating with you.",188,<first>,<error>
+2. Personal Data,"2.
+Personal Data",93.75,618,main,2.Personal Data,15,<generic>,<error>
+"Personal data means personally identifiable information that specifically identifies you as an individual (e.g. your name, email address).","Personal
+ data means personally identifiable information that specifically 
+identifies you as an individual (e.g. your name, email address",98.55072463768117,635,sub,"Personal data means personally identifiable information that specifically identifies you as an individual (e.g. your name, email address). ",139,<generic>,<error>
+We never collect and / or store Personal data,"We 
+never collect and / or store Personal dat",97.77777777777777,776,sub,We never collect and / or store Personal data,45,<first>,<error>
+3. Third party terms and conditions,"3.
+Third party terms and conditions",97.14285714285714,823,main,3.Third party terms and conditions,34,<third>,<error>
+Please note that your access to and use of the apps may be subject to certain third-party terms and conditions and privacy policies.,"Please
+ note that your access to and use of the apps may be subject to certain 
+third-party terms and conditions and privacy policie",98.48484848484848,859,sub,Please note that your access to and use of the apps may be subject to certain third-party terms and conditions and privacy policies. ,133,<third>,<error>
+You recognise and agree that we is not liable for any such third-party terms and conditions and any third party's use of your Personal data.,"You
+recognise
+and
+ agree that we is not liable for any such third-party terms and 
+conditions and any third party's use of your Personal dat",97.14285714285714,994,sub,Yourecogniseand agree that we is not liable for any such third-party terms and conditions and any third party's use of your Personal data. ,139,<third>,<error>
+Here are links to the privacy policies of a few of the distributors we use: Google,"Here are 
+links to the privacy policies of a few of the distributors we use: 
+Goog",97.5609756097561,1137,sub,Here are links to the privacy policies of a few of the distributors we use: Google,82,<third>,<error>
+4. Disclosure and Transfer of Personal Data,"4.
+Disclosure and Transfer of Personal Data",97.67441860465115,1222,main,4.Disclosure and Transfer of Personal DataWe,44,<third>,<error>
+"We disclose information to respond to subpoenas, court orders and other legal processes as well as to establish/exercise our legal rights or defend against legal claims."," disclose information to respond to subpoenas, court orders and other 
+legal processes as well as to establish/exercise our legal rights or 
+defend against legal claims.",98.81656804733728,1269,sub," disclose information to respond to subpoenas, court orders and other legal processes as well as to establish/exercise our legal rights or defend against legal claims. ",168,<third>,<error>
+"We will share Personal data and Non-personal data in order to investigate, prevent or take action against illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of our Terms of Use or as otherwise required by law.","We will share Personal data and 
+Non-personal data in order to investigate, prevent or take action 
+against illegal activities, suspected fraud, potential threats to the 
+physical safety of any person, violations of our Terms of Use or as 
+otherwise required by ",98.47328244274809,1439,sub,"We will share Personal data and Non-personal data in order to investigate, prevent or take action against illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of our Terms of Use or as otherwise required by law.",262,<third>,<error>
+5. Changes to the Privacy Policy,"5.
+Changes to the Privacy Policy",96.875,1706,main,5.Changes to the Privacy Policy,31,<retention>,<error>
+"TechArena Apps may, in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, so please review it periodically.","TechArena Apps may, in its sole discretion, change this Privacy 
+Policy from time to time, any and all changes will be reflected here and
+ the date new versions are posted will be stated at the top of this 
+Privacy Policy, so please review it periodical",98.81422924901186,1739,sub,"TechArena Apps may, in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, so please review it periodically.",253,<retention>,<error>
+6. Advertising,"6.
+Advertising",92.85714285714286,1996,main,6.Advertising,13,<third>,<error>
+Ad networks are companies that manage the advertising process on this and many other apps.,"Ad
+ networks are companies that manage the advertising process on this and 
+many other app",97.77777777777777,2011,sub,Ad networks are companies that manage the advertising process on this and many other apps. ,91,<third>,<error>
+"For that reason, they may know information about you based on the way you use all the apps where they provide advertising services.","For that reason, they may know information about you 
+based on the way you use all the apps where they provide advertising 
+service",98.47328244274809,2104,sub,"For that reason, they may know information about you based on the way you use all the apps where they provide advertising services. ",132,<third>,<error>
+They compile this information to paint a picture of which types of adverts you are likely to be interested in.,"They compile this information to paint a picture of which 
+types of adverts you are likely to be interested in",99.0909090909091,2238,sub,They compile this information to paint a picture of which types of adverts you are likely to be interested in. ,111,<third>,<error>
+This app uses Google's mobile advertising platform Admob and fully complies with their privacy and the developer's policy.,"This app uses 
+Google's mobile advertising platform Admob and fully complies with their
+ privacy and the developer's polic",98.36065573770492,2350,sub,This app uses Google's mobile advertising platform Admob and fully complies with their privacy and the developer's policy. ,123,<third>,<error>
+You can find out more about how they use your personal information here.,"You can find out more about how 
+they use your personal information here",98.61111111111111,2475,sub,You can find out more about how they use your personal information here.,72,<third>,<error>
+7. AdMob,1. AdMob,87.5,2549,main,1. AdMob,8,<third>,<error>
+8. Contact us,"7.
+Contact us",84.61538461538461,2558,main,7.Contact us,12,<choice>,<error>
+"If you have any suggestions, feedback or requests, please contact us on our email us at techarenaapps@gmail.com","If you have any suggestions, feedback or requests, please contact us on our  email us at
+techarenaapps@gmail.co",98.1981981981982,2572,sub,"If you have any suggestions, feedback or requests, please contact us on our  email us attecharenaapps@gmail.comEmail ThisBlogThis!Share to TwitterShare to FacebookShare to PinterestNo comments:Post a CommentHomeSubscribe to:Posts (Atom)About MeTech Arena AppsView my complete profileSimple theme. Powered byBlogger.",315,<error>,<error>

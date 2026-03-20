@@ -1,0 +1,112 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,"Privacy PolicyWe take the privacy and personal information protection                of our users very seriously. We may collect and use your information when you use our products and/or                services. We hope that through the Privacy Policy (""This Policy""), we will explain to you how we                collect, use and store this information when you use our products and/or services.We hope that you have read and confirmed that you fully",451,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,"                understand the content of this policy before using our products and / or services.If we wish to use your personal information for other                purposes not covered by this policy, or for other purposes for a specific purpose, you will be given                your prior consent.Please note that all personal information you provide                will continue to be authorized during the use of our products and/or services, unless you remove or",470,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,"                refuse to collect them through our system settings. When you cancel your account, we will stop using and                delete your personal infor",162,<error>,<error>
+The scope of personal information that you authorize us to collect:,"mation.
+1. The scope of personal information that you authorize
+   ",82.08955223880598,1096,main,mation.1. The scope of personal information that you authorize                us to collect:,92,<generic>,<error>
+Personal information refers to various information recorded electronically or otherwise that can identify a particular natural person or reflect the activities of a particular natural person.,"Personal information refers to various information
+                recorded electronically or otherwise that can identify a particular natural person or reflect the
+                activities",83.24607329842932,1191,sub,Personal information refers to various information                recorded electronically or otherwise that can identify a particular natural person or reflect the                activities of a particular natural person. ,222,<first>,<what>
+This information can be used alone or in combination with other information.,"This information can be used alone or in combination with
+                ot",80.26315789473684,1415,sub,This information can be used alone or in combination with                other information. ,92,<first>,<what>
+Personal information covered by this policy includes:,Personal information covered by this policy includes:,100.0,1508,sub,Personal information covered by this policy includes: ,54,<first>,<error>
+"basic information (including personal name, date of birth, gender, address, personal telephone number, email)","basic information (including
+                personal name, date of birth, gender, address, personal telephon",85.3211009174312,1562,sub,"basic information (including                personal name, date of birth, gender, address, personal telephone number, email); personally     ",141,<first>,<error>
+"personally identifiable information (including ID card, military officer's card, passport, driver's license, etc.)","           identifiable information (including ID card, military officer's card, passport, driver's license, etc.)",91.22807017543859,1705,sub,"           identifiable information (including ID card, military officer's card, passport, driver's license, etc.);                ",131,<first>,<error>
+facial features,facial features,100.0,1837,sub,facial features; ,17,<first>,<error>
+"Network identity information (including system account number, IP address, email address and password, password, password-protected answers related to the above)","Network identity information (including system account number, IP address, email
+                address and password, password, password-protected answers relat",90.06211180124224,1854,sub,"Network identity information (including system account number, IP address, email                address and password, password, password-protected answers related to the above); personal property              ",209,<first>,<error>
+"personal property information (transaction records and consumption records, and virtual property information such as balances, coupons)","  information (transaction records and consumption records, and virtual property information such as
+                balances, coupons)",88.14814814814815,2065,sub,  information (transaction ,27,<first>,<error>
+Record,record,100.0,2092,sub,"records and consumption records, and virtual property information such as                balances, coupons); Record; ",117,<first>,<error>
+personal device information,personal device information,100.0,2210,sub,personal device information; ,29,<first>,<error>
+"personal location information (including itinerary information, precise location information, accommodation information, latitude and longitude, etc.)","personal location information (including
+                itinerary information, precise location information, accommodation information, latitude and ",89.33333333333333,2239,sub,"personal location information (including                itinerary information, precise location information, accommodation information, latitude and longitude,                etc.); ",182,<first>,<error>
+"personal health information (exercise energy, sleep analysis, physical exercise, heart rate, weight, height, steps, walking), running distance, riding distance, etc.)","personal health information (exercise energy, sleep analysis, physical exercise, heart rate,
+                weight, height, steps, walking) , running distance, ridin",89.75903614457832,2423,sub,"personal health information (exercise energy, sleep analysis, physical exercise, heart rate,                weight, height, steps, walking) , running distance, riding distance, etc.).2. ",186,<first>,<error>
+We may collect information collected during the service to you for the following purposes:,"We may collect information collected during the
+                service to you for the fol",82.22222222222221,2611,main,We may collect information collected during the                service to you for the following purposes:,105,<first>,<error>
+(1) to provide services for you;,(1) to provide services for you;,100.0,2718,sub,(1) to provide services for,27,<first>,<error>
+"(2) For certification, customer service, security, fraud monitoring, archiving and backup purposes for our services to ensure the security of the products and services we provide to you;"," you;
+(2) For certification, customer service, security, fraud
+                monitoring, archiving and backup purposes for our services to ensure the security of the products and
+     ",87.63440860215054,2745,sub," you;(2) For certification, customer service, security, fraud                monitoring, archiving and backup purposes for our services to ensure the security of the products and                services we provide ",214,<first>,<error>
+(3) help us design new services and improve our existing services;,"to you;
+(3) help us design new services and improve our existing
+ ",86.36363636363636,2962,sub,to you;(3) help us design new services and improve our existing                services;,88,<first>,<error>
+"(4) Let us know more about how you access and use our services to specifically meet your individual needs, such as language settings, location settings, personalized help services and instructions, or for you and others Other responses from the user;","(4) Let us know more about how you access and use our
+                services to specifically meet your individual needs, such as language settings, location settings,
+                personalized help services and instructions, or for you and other",87.2,3053,sub,"(4) Let us know more about how you access and use our                services to specifically meet your individual needs, such as language settings, location settings,                personalized help services and instructions, or for you and others Other responses from ",271,<first>,<error>
+(5) to provide you with more relevant ads to replace popular ads;,"the user;
+(5) to provide you with more relevant ads to replace
+  ",83.07692307692307,3326,sub,the user;(5) to provide you with more relevant ads to replace                popular ads;,89,<first>,<error>
+(6) Evaluate and improve the effectiveness of advertising and other promotions and promotions in our services;,"(6) Evaluate and improve the effectiveness of
+                advertising and other promotions and promotions ",85.45454545454545,3418,sub,(6) Evaluate and improve the effectiveness of                advertising and other promotions and promotions in our ser,119,<first>,<error>
+(7) software certification or management software upgrade;,"vices;
+(7) software certification or management software
+ ",86.20689655172413,3538,sub,vices;(7) software certification or management software              ,69,<first>,<error>
+(8) Lets you participate in surveys about our products and services.,"  upgrade;
+(8) Lets you participate in surveys about our products
+  ",82.35294117647058,3609,sub,"  upgrade;(8) Lets you participate in surveys about our products                and services.In order to give you a better experience, improve our                services or other uses that you agree to, we may collect information or personalize through certain                services in compliance with relevant laws and regulations. The information collected for our other                services. For example, information collected when you use one of our services may be used in another",491,<first>,<error>
+(8) Lets you participate in surveys about our products and services.,"  upgrade;
+(8) Lets you participate in surveys about our products
+  ",82.35294117647058,3609,sub,"                service to provide you with specific content or to show you information that is not normally pushed by                you. If we provide this option in the relevant service, you can also authorize us to use the information                provided and stored by the service for our other services.3. ",315,<first>,<error>
+"We will not share your personal information with any company, organization or individual other than HryFine except:","We will not share your personal information with any
+                company, organization or individual other than",86.08695652173914,4425,main,"We will not share your personal information with any                company, organization or individual other thanHryFinee",122,<third>,<error>
+(1) obtain your explicit consent or authorization in advance;,"xcept:
+(1) obtain your explicit consent or authorization in
+ ",86.88524590163934,4550,sub,xcept:(1) obtain your explicit consent or authorization in               ,73,<error>,<error>
+"(2) comply with applicable laws and regulations, legal procedures;"," advance;
+(2) comply with applicable laws and regulations, legal
+ ",83.33333333333334,4625,sub," advance;(2) comply with applicable laws and regulations, legal                procedures;(3) To maintain",105,<error>,<error>
+"(3) To maintain HryFine, the parties or partners of you or other HryFine users, or to provide public interest, property or security from damage, to the extent permitted by laws and regulations;","HryFine
+, the parties or partners of you or other
+HryFine
+users, or to provide public interest, property or
+                security from damage, to the extent permitted by laws and regulations",90.15544041450777,4734,sub,"HryFine, the parties or partners of you or otherHryFineusers, or to provide public interest, property or                security from damage, to the extent permitted by laws and regulations;",190,<error>,<error>
+(4) Only by sharing your information can we implement the core functionality of our products and / or services or provide the services you need;,"(4) Only by sharing your information can we implement
+                the core functionality of our products and / or services or provide the se",88.88888888888889,4929,sub,(4) Only by sharing your information can we implement                the core functionality of our products and / or services or provide the services you need;,159,<error>,<error>
+(5) to handle disputes or disputes between you and others according to your needs;,"(5) to handle disputes or disputes between you and
+                others accordin",80.48780487804879,5090,sub,(5) to handle disputes or disputes between you and                others according to your needs;,97,<error>,<error>
+(6) is provided in accordance with the relevant agreement signed with you or other legal documents;,"(6) is provided in accordance with the relevant
+                agreement signed with you or other ",83.83838383838383,5189,sub,(6) is provided in accordance with the relevant                agreement signed with you or other legal ,104,<error>,<error>
+(7) In the public interest in accordance with laws and regulations.,"documents;
+(7) In the public interest in accordance with laws and
+ ",82.08955223880598,5294,sub,documents;(7) In the public interest in accordance with laws and                regulati,88,<error>,<error>
+How to protect and save your personal information together:,"ons.
+4. How to protect and save your personal information
+ ",84.7457627118644,5384,main,ons.4. How to protect and save your personal information                tog,75,<error>,<error>
+(1) We attach great importance to the security of personal information and take all reasonable and feasible data security technical measures to protect your personal information;,"ether:
+(1) We attach great importance to the security of
+                personal information and take all reasonable and feasible data security technical measures to protect
+   ",86.51685393258427,5461,sub,ether:(1) We attach great importance to the security of                personal information and take all reasonable and feasible data security technical measures to protect                your personal information;,214,<error>,<error>
+(2) The Internet environment is not 100% secure and we will do our utmost to ensure or guarantee the security of any information you send us.,"(2) The Internet environment is not 100% secure and we
+                will do our utmost to ensure or guarantee the security of any informat",88.65248226950355,5679,sub,"(2) The Internet environment is not 100% secure and we                will do our utmost to ensure or guarantee the security of any information you send us. If our physical,                technical or administrative protection equipment is destroyed, resulting in unauthorized access, public                disclosure, alteration or destruction of information, thereby jeopardizing your legal rights, we will                bear the corresponding legal responsibilities.",471,<error>,<error>
+"(3) If you have any questions about the protection of our personal information, you can contact us.","(3) If you have any questions about the protection of
+                our personal information, you",83.83838383838383,6155,sub,"(3) If you have any questions about the protection of                our personal information, you can contact us. If you find that your personal information has been                compromised, especially if your account password and personal information have been compromised, please                contact us immediately so that we can take appropriate action.5. ",366,<error>,<error>
+Minors use our services,Minors use our services,100.0,6525,main,Minors use our services ,24,<error>,<error>
+We encourage parents or guardians to guide minors under the age of 18 to use our services.,"We encourage parents or
+                guardians to guide minors under the age of 18 to u",82.22222222222221,6549,sub,We encourage parents or                guardians to guide minors under the age of 18 to use our services. We recommend that minors encoura,138,<error>,<error>
+We recommend that minors encourage their parents or guardians to read this Privacy Policy and advise minors to seek parental or guardian consent and guidance before submitting personal information.,"ge
+                their parents or guardians to read this Privacy Policy and advise minors to seek parental or guardian
+                consent and guidance before submitting personal information.",85.27918781725889,6688,sub,ge                their parents or guardians to read this Privacy Policy and advise minors to seek parental or guardian                consent and guidance before submitting personal information.6. ,198,<error>,<error>
+The scope of the privacy policy:,The scope of the privacy policy:,100.0,6889,main,The scope of the privacy policy:,32,<error>,<error>
+"(1) Except for certain services, all of our services are subject to this Privacy Policy.","(1) Except for certain services, all of our services are
+                subject to this",81.81818181818181,6922,sub,"(1) Except for certain services, all of our services are                subject to this Privacy Policy. These specific services will apply to specific privacy policies. For                certain service specific privacy policies, we will describe more specifically how we use your                information in these services. The privacy policy for this particular service forms part of this Privacy",401,<error>,<error>
+"(1) Except for certain services, all of our services are subject to this Privacy Policy.","(1) Except for certain services, all of our services are
+                subject to this",81.81818181818181,6922,sub,"                Policy. If there is any inconsistency between the privacy policy of a particular service and this                privacy policy, the privacy policy of that particular service will prevail;",204,<error>,<error>
+"(2) Unless otherwise stated in this Privacy Policy, the terms used in this Privacy Policy shall have the same meaning as defined in the ""HryFine User Agreement"";","(2) Unless otherwise stated in this Privacy Policy, the
+                terms used in this Privacy Policy shall have the same meaning as defined in the ""
+HryFine",89.44099378881988,7533,sub,"(2) Unless otherwise stated in this Privacy Policy, the                terms used in this Privacy Policy shall have the same meaning as defined in the ""HryFineUser Agreement""",174,<error>,<error>
+(3) Please note that this Privacy Policy does not apply to:,";
+(3) Please note that this Privacy Policy does not apply
+ ",94.91525423728814,7710,sub,;(3) Please note that this Privacy Policy does not apply                to:,75,<error>,<error>
+1) Information collected by third-party services accessed through our services (including any third-party websites);,"1) Information collected by third-party services
+                accessed through our services (including any third-",86.20689655172413,7788,sub,1) Information collected by third-party services                accessed through our services (including any third-party websites);,131,<error>,<error>
+2) Information collected by other companies or organizations that conduct advertising services in our services;,"2) Information collected by other companies or
+                organizations that conduct advertising services ",85.58558558558559,7921,sub,"2) Information collected by other companies or                organizations that conduct advertising services in our services;3) If you are using an Apple device (such as an Apple                phone or iPad), in order to calculate your sports data, we will receive and send your sports data from                Apple's Healthkit under your authorization. We will read your height, weight and gender data from                Healthkit, and the number of steps generated byHryFine",480,<error>,<error>
+2) Information collected by other companies or organizations that conduct advertising services in our services;,"2) Information collected by other companies or
+                organizations that conduct advertising services ",85.58558558558559,7921,sub,"APP, walking + running distance, exercise energy, riding                distance and sleep analysis data will be written into Apple's Healthkit. The data obtained by any Pass                Healthkit will not be shared or sold to any third party company, nor will we use the information                obtained from Healthkit for commercial purposes such as advertising and marketing.7. Change:We may modify the terms of this Privacy Policy as",443,<error>,<error>
+2) Information collected by other companies or organizations that conduct advertising services in our services;,"2) Information collected by other companies or
+                organizations that conduct advertising services ",85.58558558558559,7921,sub,"                appropriate and such amendments form part of this Privacy Policy. If these amendments result in a                significant reduction in your rights under this Privacy Policy, we will notify you either by emailing                you or by notifying you on the homepage before the amendments become effective. In this case, if you                continue to use our services, you agree to be bound by the revised Privacy Policy.",444,<error>,<error>

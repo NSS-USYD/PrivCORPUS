@@ -1,0 +1,18 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+MEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTION,MEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTION,100.0,0,main,"MEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTIONMEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTIONWe attach great importance to protecting your privacy. Before using the Memorize Quran application, please read carefully the following statements.",261,<generic>,<other>
+MEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTION,MEMORIZE QURAN SOFTWARE'S STATEMENT OF PRIVACY PROTECTION,100.0,0,main,"In order to provide more accurate and well-targeted services, we may use some anonymous information regarding your device metrics such as screen resolution, device brand and model name. By using this application you agree to provide those anonymous information. We do not collect any personal information in the Memorize Quran application.",339,<generic>,<other>
+Permissions use the application for the following reasons:,Permissions use the application for the following reasons:,100.0,604,main,Permissions use the application for the following reasons:,58,<first>,<why>
+Phone,Phone,100.0,663,sub,Phone,5,<first>,<what>
+read phone status and identity:,read phone status and identity:,100.0,669,sub,read phone status and identity:This permission is needed  to pause the recication upon receiving a phone call.,110,<first>,<what>
+Photos/Media/Files,Photos/Media/Files,100.0,781,sub,Photos/Media/Files,18,<first>,<what>
+read the contents of your USB storage:,read the contents of your USB storage:,100.0,800,sub,read the contents of your USB storage:This permission is needed to read and open downloaded recitation files.,109,<first>,<what>
+modify or delete the contents of your USB storage:,modify or delete the contents of your USB storage:,100.0,911,sub,modify or delete the contents of your USB ,42,<first>,<what>
+Storage,storage,100.0,953,sub,storage:This permission is needed  to download qiraat recitation files to your device.Storage,93,<first>,<what>
+read the contents of your USB storage:,read the contents of your USB storage:,100.0,1049,sub,read the contents of your USB storage:This permission is needed to read and open downloaded recitation files.,109,<first>,<what>
+modify or delete the contents of your USB storage:,modify or delete the contents of your USB storage:,100.0,1160,sub,modify or delete the contents of your USB storage:This permission is needed  to download qiraat recitation files to your device.,128,<first>,<what>
+Device ID & call information,Device ID & call information,100.0,1290,sub,Device ID & call information,28,<first>,<what>
+read phone status and identity:,read phone status and identity:,100.0,1319,sub,read phone status and identity:This permission is needed to pause the recication upon receiving a phone call.,109,<first>,<what>
+Other,Other,100.0,1430,sub,Other,5,<first>,<other>
+"view network connections, change network connectivity:","view network connections, change network connectivity:",100.0,1436,sub,"view network connections, change network connectivity:This permission is needed to check your Internet connection & type to provide the best method to download recitation files.",177,<first>,<other>
+full network access:,full network access:,100.0,1615,sub,full network access:This permission is needed  to be able to download recitation files.,87,<first>,<other>
+prevent device from sleeping:,prevent device from sleeping:,100.0,1704,sub,prevent device from sleeping:This permission is needed to prevent your device from sleeping during the recitation.,114,<first>,<other>

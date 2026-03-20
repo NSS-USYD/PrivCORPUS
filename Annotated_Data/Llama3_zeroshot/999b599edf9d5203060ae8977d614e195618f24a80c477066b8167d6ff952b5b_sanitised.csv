@@ -1,0 +1,5 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Music playerSearch this siteSkip to main contentSkip to navigationMusic player,78,<error>,<error>
+Privacy policy,Privacy policy,100.0,83,main,"Privacy policyMusic player personal informationMusic player App with your privacy in mind, so we do not collect ",112,<generic>,<error>
+Personally Identifiable Information,personally identifiable information,100.0,197,sub,"personally identifiable information about you.Explains for permission requestsinMusic player, I request a sensitive permission to make functions of application work properly :android.permission.READ_PHONE_STATE: hanld the call to allow pause or play music when incoming or outgoing callReport abuse",298,<first>,<what>
+Google,Google,100.0,502,sub,Google SitesReport abuse,24,<third>,<what>

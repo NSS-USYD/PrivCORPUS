@@ -1,0 +1,94 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Moon+ Reader for AndroidHome|Download|FAQ|PressMoon+ Reader Privacy PolicyMoon+ Reader On Google Play are subject to the following privacy policy:This page is used to inform visitors regarding our 	policies with the collection, use, and disclosure of Personal Information if 	anyone decided to use our Service.If you choose to use our Service, then you agree to the collection and use 	of information in relation to this policy. The Personal Information that we ",462,<error>,<error>
+,,-1.0,0,,"	collect is used for providing and improving the Service. We will not use or 	share your information with anyone except as described in this Privacy 	Policy.The terms used in this Privacy Policy have the same meanings as in our Terms 	and Conditions, which is accessible at Moon+ Reader unless otherwise defined 	in this Privacy Policy.",336,<error>,<error>
+Information Collection and Use,Information Collection and Use,100.0,819,main,Information Collection and Use,30,<generic>,<what>
+"For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information.","For a better experience, while using our Service, we may require you to 
+	provide us with certain personally identifiable informatio",98.48484848484848,850,sub,"For a better experience, while using our Service, we may require you to 	provide us with certain personally identifiable information. ",134,<first>,<error>
+The information that we request will be retained by us and used as described in this privacy policy.,"The information 
+	that we request will be retained by us and used as described in this privacy 
+	pol",96.0,985,sub,The information 	that we request will be retained by us and used as described in this privacy 	policy.,102,<first>,<how-used>
+The app does use third party services that may collect information used to identify you.,"The app does use third party services that may collect information used to 
+	identify yo",97.72727272727273,1090,sub,The app does use third party services that may collect information used to 	identify you.,89,<third>,<how-gathered>
+Link to privacy policy of third party service providers used by the app,Link to privacy policy of third party service providers used by the app,100.0,1181,main,Link to privacy policy of third party service providers used by the appGoogle Play ServicesAdMob,96,<third>,<other>
+Log Data,Log Data,100.0,1280,main,Log Data,8,<generic>,<what>
+"We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data.","We want to inform you that whenever you use our Service, in a case of an 
+	error in the app we collect data and information (through third party 
+	products) on your phone called Log D",97.81420765027322,1289,sub,"We want to inform you that whenever you use our Service, in a case of an 	error in the app we collect data and information (through third party 	products) on your phone called Log Data. ",186,<first>,<when>
+"This Log Data may include information such as your device Internet Protocol (â€œIPâ€) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.","This Log Data may include 
+	information such as your device Internet Protocol (â€œIPâ€) address, device 
+	name, operating system version, the configuration of the app when utilizing 
+	our Service, the time and date of your use of the Service, and other 
+	sta",96.91119691119691,1477,sub,"This Log Data may include 	information such as your device Internet Protocol (â€œIPâ€) address, device 	name, operating system version, the configuration of the app when utilizing 	our Service, the time and date of your use of the Service, and other 	statistics.",263,<first>,<how-used>
+Cookies,Cookies,100.0,1745,main,Cookies,7,<tracking>,<what>
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.,"Cookies are files with a small amount of data that are commonly used as 
+	anonymous unique identifier",98.01980198019803,1753,sub,Cookies are files with a small amount of data that are commonly used as 	anonymous unique identifiers. ,103,<first>,<how-used>
+These are sent to your browser from the websites that you visit and are stored on your deviceâ€™s internal memory.,"These are sent to your browser from the 
+	websites that you visit and are stored on your deviceâ€™s internal memor",98.24561403508771,1857,sub,These are sent to your browser from the 	websites that you visit and are stored on your deviceâ€™s internal memory.,115,<first>,<error>
+This Service does not use these â€œcookiesâ€ explicitly.,This Service does not use these â€œcookiesâ€ explicitly.,100.0,1974,sub,This Service does not use these â€œcookiesâ€ explicitly. ,58,<error>,<error>
+"However, the app may use third party code and libraries that use â€œcookiesâ€ to collect information and improve their services.","However, the app may 
+	use third party code and libraries that use â€œcookiesâ€ to collect information 
+	and improve their servi",96.89922480620154,2032,sub,"However, the app may 	use third party code and libraries that use â€œcookiesâ€ to collect information 	and improve their services. ",132,<third>,<how-gathered>
+You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device.,"You have the option to either accept or refuse 
+	these cookies and know when a cookie is being sent to your devic",98.23008849557522,2166,sub,You have the option to either accept or refuse 	these cookies and know when a cookie is being sent to your device. ,115,<choice>,<how-gathered>
+"If you choose to refuse our cookies, you may not be able to use some portions of this Service.","If you 
+	choose to refuse our cookies, you may not be able to use some portions of 
+	this Serv",95.74468085106383,2282,sub,"If you 	choose to refuse our cookies, you may not be able to use some portions of 	this Service.",96,<error>,<error>
+Service Providers,Service Providers,100.0,2381,main,Service Providers,17,<generic>,<what>
+We may employ third-party companies and individuals due to the following reasons:,"We may employ third-party companies and individuals due to the following 
+	reason",97.53086419753086,2399,sub,We may employ third-party companies and individuals due to the following 	reasons:,82,<third>,<how-gathered>
+To facilitate our Service;,To facilitate our Service;,100.0,2483,sub,To facilitate our Service;,26,<third>,<why>
+To provide the Service on our behalf;,To provide the Service on our behalf;,100.0,2510,sub,To provide the Service on our behalf;,37,<third>,<why>
+To perform Service-related services; or,To perform Service-related services; or,100.0,2548,sub,To perform Service-related services; or,39,<third>,<why>
+To assist us in analyzing how our Service is used.,To assist us in analyzing how our Service is used.,100.0,2588,sub,To assist us in analyzing how our Service is used.,50,<third>,<why>
+We want to inform users of this Service that these third parties have access to your Personal Information.,"We want to inform users of this Service that these third parties have access 
+	to your Personal Informatio",98.11320754716981,2639,sub,We want to inform users of this Service that these third parties have access 	to your Personal Information. ,108,<error>,<error>
+The reason is to perform the tasks assigned to them on our behalf.,"The reason is to perform the tasks assigned to 
+	them on our behal",96.96969696969697,2748,sub,The reason is to perform the tasks assigned to 	them on our behalf. ,68,<error>,<error>
+"However, they are obligated not to disclose or use the information for any other purpose.","However, they are obligated not to disclose or use the 
+	information for any other purpos",97.75280898876404,2817,sub,"However, they are obligated not to disclose or use the 	information for any other purpose.",90,<error>,<error>
+Security,Security,100.0,2909,main,Security,8,<security>,<what>
+"We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.","We value your trust in providing us your Personal Information, thus we are 
+	striving to use commercially acceptable means of protecting i",98.55072463768117,2918,sub,"We value your trust in providing us your Personal Information, thus we are 	striving to use commercially acceptable means of protecting it. ",140,<generic>,<error>
+"But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.","But remember 
+	that no method of transmission over the internet, or method of electronic 
+	storage is 100% secure and reliable, and we cannot guarantee its absolute 
+	sec",96.47058823529412,3059,sub,"But remember 	that no method of transmission over the internet, or method of electronic 	storage is 100% secure and reliable, and we cannot guarantee its absolute 	security.",173,<security>,<error>
+Links to Other Sites,Links to Other Sites,100.0,3236,main,Links to Other Sites,20,<region>,<what>
+This Service may contain links to other sites.,This Service may contain links to other sites.,100.0,3257,sub,This Service may contain links to other sites. ,47,<region>,<error>
+"If you click on a third-party link, you will be directed to that site.","If you click on a third-party 
+	link, you will be directed to that sit",97.14285714285714,3304,sub,"If you click on a third-party 	link, you will be directed to that site. ",72,<region>,<error>
+Note that these external sites are not operated by us.,"Note that these external sites are 
+	not operated by u",96.2962962962963,3377,sub,Note that these external sites are 	not operated by us. ,56,<region>,<other>
+"Therefore, we strongly advise you to review the Privacy Policy of these websites.","Therefore, we strongly advise you to review the Privacy 
+	Policy of these website",97.53086419753086,3434,sub,"Therefore, we strongly advise you to review the Privacy 	Policy of these websites. ",83,<region>,<error>
+"We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.","We have no control over and assume no 
+	responsibility for the content, privacy policies, or practices of any 
+	third-party sites or servi",97.10144927536231,3518,sub,"We have no control over and assume no 	responsibility for the content, privacy policies, or practices of any 	third-party sites or services.",140,<error>,<other>
+Childrenâ€™s Privacy,Childrenâ€™s Privacy,100.0,3661,main,Childrenâ€™s Privacy,20,<error>,<what>
+These Services do not address anyone under the age of 13.,These Services do not address anyone under the age of 13.,100.0,3682,sub,These Services do not address anyone under the age of 13.,57,<error>,<other>
+We do not knowingly collect personally identifiable information from children under 13.," We do not 
+	knowingly collect personally identifiable information from children under ",96.55172413793103,3739,sub, We do not 	knowingly collect personally identifiable information from children under 	13. ,91,<error>,<error>
+"In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.","In the case we discover that a child under 13 has provided us with 
+	personal information, we immediately delete this from our server",98.49624060150376,3832,sub,"In the case we discover that a child under 13 has provided us with 	personal information, we immediately delete this from our servers. ",135,<error>,<error>
+"If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.","If you 
+	are a parent or guardian and you are aware that your child has provided us 
+	with personal information, please contact us so that we will be able to do 
+	necessary ac",96.57142857142857,3968,sub,"If you 	are a parent or guardian and you are aware that your child has provided us 	with personal information, please contact us so that we will be able to do 	necessary actions.",178,<error>,<error>
+Permissions Required,Permissions Required,100.0,4150,main,Permissions Required,20,<error>,<what>
+The app requires different Permissions depending on their functionality:,The app requires different Permissions depending on their functionality:,100.0,4171,sub,The app requires different Permissions depending on their functionality:,72,<error>,<error>
+"1) The ""INTERNET"" permission is used for the reader to download ebooks from Internet.","1) The ""INTERNET"" permission is used for the reader to download ebooks from 
+	Interne",97.6470588235294,4244,sub,"1) The ""INTERNET"" permission is used for the reader to download ebooks from 	Internet.",86,<error>,<error>
+"2) The ""WRITE_EXTERNAL_STORAGE"" (Android 4-10) or ""MANAGE_EXTERNAL_STORAGE"" (Android 11+) permissions are used for the reader to save book files and book information caches;","2) The ""WRITE_EXTERNAL_STORAGE"" 
+	(Android 4-10) or ""MANAGE_EXTERNAL_STORAGE"" (Android 11+) permissions are used for the reader to save book files and book information 
+	cac",97.6878612716763,4332,sub,"2) The ""WRITE_EXTERNAL_STORAGE"" 	(Android 4-10) or ""MANAGE_EXTERNAL_STORAGE"" (Android 11+) permissions are used for the reader to save book files and book information 	caches; ",176,<error>,<error>
+you can also manage your files saved in local storage with the reader directly by this permission.,"you can also manage your files saved in local storage with the 
+	reader directly by this permissio",97.95918367346938,4510,sub,you can also manage your files saved in local storage with the 	reader directly by this permission.,99,<error>,<error>
+Changes to This Privacy Policy,Changes to This Privacy Policy,100.0,4611,main,Changes to This Privacy Policy,30,<error>,<error>
+We may update our Privacy Policy from time to time.,We may update our Privacy Policy from time to time.,100.0,4642,sub,We may update our Privacy Policy from time to time. ,52,<error>,<when>
+"Thus, you are advised to review this page periodically for any changes.","Thus, you are advised to 
+	review this page periodically for any change",97.1830985915493,4694,sub,"Thus, you are advised to 	review this page periodically for any changes. ",73,<error>,<error>
+We will notify you of any changes by posting the new Privacy Policy on this page.,"We will notify you of any 
+	changes by posting the new Privacy Policy on this pag",97.53086419753086,4768,sub,We will notify you of any 	changes by posting the new Privacy Policy on this page. ,83,<error>,<error>
+These changes are effective immediately after they are posted on this page.,"These changes are 
+	effective immediately after they are posted on this pag",97.33333333333334,4852,sub,These changes are 	effective immediately after they are posted on this page.,76,<error>,<error>
+Contact Us,Contact Us,100.0,4930,main,"Contact UsIf you have any questions or suggestions about our Privacy Policy, do not 	hesitate to contact us: moonplusreader @ gmail.comAll Rights Reserved Â© 2010 - 2020 Moon Reader Limited (HK)",194,<error>,<error>

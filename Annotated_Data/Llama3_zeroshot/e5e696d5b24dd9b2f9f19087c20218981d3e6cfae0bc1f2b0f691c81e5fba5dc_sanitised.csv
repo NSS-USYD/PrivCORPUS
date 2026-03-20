@@ -1,0 +1,23 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy policy,Privacy policy,100.0,0,main,"Privacy policyBy continuing to use this website, you consent to our use of cookies in accordance with ourPrivacy policy.",120,<generic>,<error>
+Apps,Apps,100.0,124,main,Apps,4,<generic>,<error>
+Pdf Converter,Pdf Converter,100.0,129,main,Pdf Converter,13,<generic>,<error>
+Pdf Scanner,Pdf Scanner,100.0,143,main,Pdf Scanner,11,<generic>,<error>
+Pdf Editor,Pdf Editor,100.0,155,main,Pdf Editor,10,<generic>,<error>
+About,About,100.0,166,main,About,5,<generic>,<error>
+Why,Why,100.0,172,main,Why,3,<first>,<error>
+Blog,Blog,100.0,176,main,Blog,4,<first>,<error>
+Contact,Contact,100.0,181,main,Contact,7,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,189,main,Privacy Policy,14,<generic>,<error>
+Web Map,Web Map,100.0,204,main,Web Map,7,<error>,<error>
+Apps,Apps,100.0,212,main,Apps,4,<error>,<error>
+About,About,100.0,217,main,About,5,<error>,<error>
+Why Offiwiz,Why Offiwiz,100.0,223,main,Why Offiwiz,11,<error>,<error>
+Send us a message,Send us a message,100.0,235,main,Send us a message,17,<choice>,<error>
+Come meet us,Come meet us,100.0,253,main,Come meet us,12,<choice>,<error>
+Contact,Contact,100.0,266,main,"ContactSalitre 1 street, 4th Floor, Malaga 29002, Spaininfo@offiwiz.com(+34) 650 776 324",88,<error>,<error>
+Quick links,Quick links,100.0,358,main,Quick links,11,<generic>,<error>
+Privacy policy,Privacy policy,100.0,370,main,Privacy policy,14,<error>,<error>
+Terms of use,Terms of use,100.0,385,main,Terms of use,12,<third>,<error>
+FAQ,FAQ,100.0,398,main,FAQ©,4,<access>,<error>
+Copyright,Copyright,100.0,403,main,Copyright:Offiwiz2023,21,<generic>,<error>

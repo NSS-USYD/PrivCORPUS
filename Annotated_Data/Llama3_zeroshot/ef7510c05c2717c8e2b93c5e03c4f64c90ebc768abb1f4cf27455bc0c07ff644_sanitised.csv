@@ -1,0 +1,60 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"STCodesApp - TextToSpeechSearch this siteSkip to main contentSkip to navigationSTCodesAppহোমNoteItAppsTextToSpeechSpeechToTextImage To PDFVideo Compressor, ConverterImage CompressorAdd Audio To VideoBPL2019Video Trimmer - Video CutterAudio Trimmer And EditorSlide Show Maker - Video MakerAdd Text On PhotoSTCodesAppহোমNoteItAppsTextToSpeechSpeechToTextImage To PDFVideo Compressor, ConverterImage CompressorAdd Audio To VideoBPL2019Video Trimmer - Video CutterAudio Trimmer And Editor",484,<error>,<error>
+,,-1.0,0,,"Slide Show Maker - Video MakerAdd Text On PhotoMoreহোমNoteItAppsTextToSpeechSpeechToTextImage To PDFVideo Compressor, ConverterImage CompressorAdd Audio To VideoBPL2019Video Trimmer - Video CutterAudio Trimmer And EditorSlide Show Maker - Video MakerAdd Text On PhotoText to Speech",281,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,815,main,Privacy Policy,14,<generic>,<error>
+Internet Access and Usage,Internet Access and Usage,100.0,830,main,Internet Access and Usage,25,<generic>,<error>
+This app use internet connection for fetching data from internet.,This app use internet connection for fetching data from internet.,100.0,856,sub,This app use internet connection for fetching data from internet. The internet access permission is required for couple of reason.,130,<first>,<error>
+The app Contains Ads and In App Purchase.," The app
+Contains Ads
+and
+In App Purchase",90.2439024390244,986,sub, The appContains AdsandIn App Purchase. ,40,<first>,<error>
+For showing ad and fetching in app purchase information access to internet is necessary.,For showing ad and fetching in app purchase information access to internet is necessary.,100.0,1030,sub,For showing ad and fetching in app purchase information access to internet is necessary. ,89,<first>,<error>
+"The app also use couple of Firebase Services like Firebase Crashlytics (For logging crash info), Firebase RemoteConfig (For storing and fetching app specific value).","The app also use couple of
+Firebase Services
+like
+Firebase Crashlytics
+(For logging crash info),
+Firebase RemoteConfig
+(For storing and fetching app specific value).",96.36363636363636,1119,sub,"The app also use couple ofFirebase ServiceslikeFirebase Crashlytics(For logging crash info),Firebase RemoteConfig(For storing and fetching app specific value). These services also required internet connection access.",216,<first>,<error>
+Storage Access,Storage Access,100.0,1342,main,Storage Access,14,<generic>,<error>
+This app takes the permission of writing the internal or external storage of your phone.,This app takes the permission of writing the internal or external storage of your phone.,100.0,1357,sub,This app takes the permission of writing the internal or external storage of your phone. ,89,<first>,<error>
+For saving individual image to Gallery as file Writing Storage Permission is required.,"For saving individual image to Gallery as file
+Writing Storage Permission
+is required.",97.67441860465115,1446,sub,For saving individual image to Gallery as fileWriting Storage Permissionis required. While sav,94,<first>,<error>
+For Text To Speech as Audio files inside App private folder no special permission is required.,"ing
+Text To Speech as Audio
+files inside
+App private folder
+no special permission is required.",92.5531914893617,1542,sub,ingText To Speech as Audiofiles insideApp private folderno special permission is required. ,91,<first>,<error>
+But when you wish to save them inside your Gallery then Storage Write Permission is required for.,"But when you wish to save
+them
+inside your
+Gallery
+then
+Storage Write Permission
+is required for.",93.81443298969072,1637,sub,But when you wish to savetheminside yourGallerythenStorage Write Permissionis required for. ,92,<first>,<error>
+For Android 6.0 Marshmallow - Android 9 Pie Storage Write Permission is required for saving audio files inside gallery as these files are saved inside Public Folder.,"For
+Android 6.0 Marshmallow - Android 9 Pie
+Storage Write Permission is required for saving
+audio files
+inside gallery as these files are saved inside Public Folder.",97.57575757575758,1735,sub,ForAndroid 6.0 Marshmallow - Android 9 PieStorage Write Permission is required for savingaudio filesinside gallery as these files are saved inside Public Folder. ,162,<first>,<error>
+For Android 10.0 and Onwards No special permission is required for saving audio files inside gallery as these files are saved inside Music Folder.,"For
+Android 10.0 and Onwards
+No special permission is required for saving
+audio files
+inside gallery as these files are saved inside
+Music
+Folder.",95.89041095890411,1901,sub,ForAndroid 10.0 and OnwardsNo special permission is required for savingaudio filesinside gallery as these files are saved insideMusicFolder. You may find these permission inside Google Play asPhotos / Media / Files- read the contents of your USB storageStorage- read the contents of your USB storage,299,<first>,<error>
+Others,Others,100.0,2211,main,Others,6,<generic>,<error>
+The app also has the following access to your device according to Android Permission Information displayed on the PlayStore.,"
+The app also has the following access to your device according to Android Permission Information displayed on the
+PlayStore",98.38709677419355,2217,sub,The app also has the following access to your device according to Android Permission Information displayed on thePlayStore,122,<third>,<error>
+* view Wi-Fi connections,"*
+view Wi-Fi connections",95.83333333333334,2342,sub,*view Wi-Fi connections,23,<third>,<error>
+* full network access,* full network access,100.0,2367,sub,* full network access,21,<third>,<error>
+* prevent device from sleeping,* prevent device from sleeping,100.0,2389,sub,* prevent device from sleeping,30,<third>,<error>
+* view network connections,* view network connections,100.0,2420,sub,* view network connectionsAny Question?We always encourage user's feedback and queries. If you have any question or queries regarding to any feature and privacy policy related issue feel free to drop us an email atstappsbd@gmail.comWe are looking forward to assist you.,269,<third>,<error>
+Further Clarification,Further Clarification,100.0,2694,main,Further Clarification,21,<error>,<error>
+Without the provides information and privacy policy we do not access any other user's data.,Without the provides information and privacy policy we do not access any other user's data.,100.0,2716,sub,Without the provides information and privacy policy we do not access any other user's data. ,92,<choice>,<error>
+We strongly claim not to view these data or store these data anywhere in the universe.,We strongly claim not to view these data or store these data anywhere in the universe.,100.0,2808,sub,We strongly claim not to view these data or store these data anywhere in the universe. ,87,<security>,<error>
+We also confident about not to share your data with anyone.,We also confident about not to share your data with anyone.,100.0,2895,sub,We also confident about not to share your data with anyone. STCodesApp also hold the right to modify this privacy policy with proper consideration under certain circumstances. ThanksGoogle SitesReport abuseGoogle SitesReport abuse,230,<security>,<error>

@@ -1,0 +1,37 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,OK,2,<error>,<error>
+English,English,100.0,3,main,English,7,<error>,<error>
+русский,русский,100.0,11,main,русскийEnglish,14,<error>,<error>
+Беларуская,Беларуская,100.0,27,main,Беларуская,10,<error>,<error>
+ქართული,ქართული,100.0,38,main,ქართული,7,<error>,<error>
+українська,українська,100.0,46,main,українська,10,<error>,<error>
+Татар теле,Татар теле,100.0,57,main,Татар теле,10,<error>,<error>
+Қазақ тілі,Қазақ тілі,100.0,68,main,Қазақ тілі,10,<error>,<error>
+Հայերեն,Հայերեն,100.0,79,main,Հայերեն,7,<error>,<error>
+O'zbek tili,O'zbek tili,100.0,87,main,O'zbek tili,11,<error>,<error>
+Română (MD),Română (MD),100.0,99,main,Română (MD),11,<error>,<error>
+Azərbaycan dili,Azərbaycan dili,100.0,111,main,Azərbaycan dili,15,<error>,<error>
+Română (RO),Română (RO),100.0,127,main,Română (RO),11,<error>,<error>
+Türkçe,Türkçe,100.0,139,main,Türkçe,6,<error>,<error>
+Help,Help,100.0,146,main,Help,4,<error>,<error>
+VK services,VK services,100.0,151,main,VK services,11,<error>,<error>
+Mail.ru,Mail.ru,100.0,163,main,Mail.ru,7,<error>,<error>
+E-mail,E-mail,100.0,171,main,E-mail,6,<error>,<error>
+Cloud,Cloud,100.0,178,main,Cloud,5,<error>,<error>
+Calendar,Calendar,100.0,184,main,Calendar,8,<error>,<error>
+Goals,Goals,100.0,193,main,Goals,5,<error>,<error>
+Video calls,Video calls,100.0,199,main,Video calls,11,<error>,<error>
+.VK E-mail,"
+VK E-mail",90.0,210,main,VK E-mail,9,<error>,<error>
+TV listings,TV listings,100.0,221,main,TV listings,11,<error>,<error>
+Weather,Weather,100.0,233,main,Weather,7,<error>,<error>
+Horoscopes,Horoscopes,100.0,241,main,Horoscopes,10,<error>,<error>
+Sport,Sport,100.0,252,main,Sport,5,<error>,<error>
+Replies,Replies,100.0,258,main,Replies,7,<error>,<error>
+Auto,Auto,100.0,266,main,Auto,4,<error>,<error>
+Lady,Lady,100.0,271,main,LadyVK,6,<error>,<error>
+More,More,100.0,279,main,MoreWe use cookies to improve our service for you.You can accept them or configure them yourself.More informationAccept allConfigure,132,<error>,<error>
+License Agreement,License Agreement,100.0,417,main,License Agreement,17,<error>,<error>
+Stickers,Stickers,100.0,435,main,Stickers,8,<error>,<error>
+Emoticons,"
+Emoticon",88.88888888888889,443,main,Emoticons,9,<error>,<error>

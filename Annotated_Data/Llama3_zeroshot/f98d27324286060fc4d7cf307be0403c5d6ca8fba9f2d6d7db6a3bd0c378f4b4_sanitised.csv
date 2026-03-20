@@ -1,0 +1,17 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Batalsoft Privacy Policy,BATALSOFT PRIVACY POLICY,100.0,0,main,"BATALSOFT PRIVACY POLICYYour privacy is very important to Batalsoft. For that reason, thisdocument explains how we treat ",121,<generic>,<error>
+Data Collection,data we collect,80.0,123,main,"data we collect. This is valid for bothBatalsoft apps and Batalsoft web.First of all, you should know that Batalsoft does not collect anypersonal or sensible information from you (for example, we does not collectyour name, address, passwords, emails, credit card numbers, images, etc.). Datacollected is not shared, nor sold to any third party. All data is collected byBatalsoft through the next services:- Batalsoft apps use ",426,<first>,<error>
+Google Analytics,Google Analytics,100.0,556,sub,Google Analytics to measure performance ofthe different features and to improve apps in the future. You can check GoogleAnalytics privacy policy in thislink-Batalsoft apps use some ,181,<first>,<error>
+Ad Networks,ad networks,100.0,742,sub,ad networks that also collect information:-GoogleAdmob. You can check ,70,<third>,<error>
+Google Admob,Google Admob,100.0,815,sub,Google Admob privacy policyhere.-,33,<first>,<error>
+StartApp,StartApp,100.0,852,sub,StartApp. You can check StartApp privacy policyhere.-,53,<third>,<error>
+MobileCore,MobileCore,100.0,910,sub,MobileCore. You can check MobileCore privacy policyhere.-,57,<third>,<error>
+AppNext,AppNext,100.0,972,sub,AppNext. You can check AppNext privacy policyhere.,50,<third>,<error>
+Explanation of Permissions,"Explanation
+of the permiss",80.76923076923077,1026,main,Explanationof the permissions required by the apps:,51,<generic>,<error>
+android.permission.INTERNET,android.permission.INTERNET,100.0,1079,main,android.permission.INTERNET,27,<first>,<error>
+android.permission.ACCESS_NETWORK_STATE,android.permission.ACCESS_NETWORK_STATE,100.0,1107,main,android.permission.ACCESS_NETWORK_STATE,39,<first>,<error>
+android.permission.ACCESS_WIFI_STATE,android.permission.ACCESS_WIFI_STATE,100.0,1147,main,android.permission.ACCESS_WIFI_STATEAbove permissions arerequired for sending data collected to Google Analytics and for adquiring adsfrom the ad networks.,155,<first>,<error>
+android.permission.VIBRATE,android.permission.VIBRATE,100.0,1306,main,android.permission.VIBRATEThispermission is used by make the device vibrate on several events.,94,<first>,<error>
+android.permission.READ_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,100.0,1403,main,android.permission.READ_EXTERNAL_STORAGE,40,<first>,<error>
+android.permission.WRITE_EXTERNAL_STORAGE,android.permission.WRITE_EXTERNAL_STORAGE,100.0,1444,main,"android.permission.WRITE_EXTERNAL_STORAGEAbovepermissions give the app the possibility to access ONLY to your music to playit on the app, and for saving some temporal files. It is important to highlightthat the app access the music, not Batalsoft.No information from your SDcard is collected or analyzed.Ifyou have any questions about the above policy, or any suggestions to update theinformation, please send us a mail to[email protected]",439,<first>,<error>

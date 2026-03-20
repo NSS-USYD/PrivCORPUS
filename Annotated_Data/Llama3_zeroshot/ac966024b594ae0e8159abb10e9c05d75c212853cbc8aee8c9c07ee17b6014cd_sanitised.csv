@@ -1,0 +1,73 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+House of Juniors,HOUSE OF JUNIORS,100.0,0,main,HOUSE OF JUNIORS,16,<error>,<error>
+PRIVACY POLICY,PRIVACY POLICY,100.0,17,main,"PRIVACY POLICYWe respect and value your privacy here at House of Juniors.Our Privacy Policy describes the information collected byour company House of Juniors, and our affiliates or partners, through ourmobile apps and the use of that information.If you have any questions about our privacy policy, you cancontact us atinfo@hojschool.com",337,<error>,<error>
+What third parties collect via our apps,What third parties collect via our apps,100.0,362,main,What third parties collect via our apps,39,<error>,<error>
+We receive some information automatically when you use our mobile apps.,"We receive some information automatically when you use our
+mobile apps.",98.59154929577466,402,sub,We receive some information automatically when you use ourmobile apps. ,71,<error>,<error>
+"This includes data about your device, software, operating system (OS), the language you have set for your Device, advertising IDs for advertisement tracking (Advertising IDs) and your IP address.","This includes data about your device, software, operating system
+(OS), the language you have set for your Device, advertising IDs for advertisement
+tracking (Advertising IDs) and your IP address.",98.97435897435898,474,sub,"This includes data about your device, software, operating system(OS), the language you have set for your Device, advertising IDs for advertisementtracking (Advertising IDs) and your IP address.",193,<error>,<error>
+We do not collect personally identifiable information about you or your children through our apps.,"We do not collect personally identifiable information about
+you or your children through our apps.",98.9795918367347,670,sub,We do not collect personally identifiable information aboutyou or your children through our apps. ,98,<error>,<error>
+"In other words, we do not collect information such as your name, phone number, address or email address.","In other words, we do not collect
+information such as your name, phone number, address or email address.",99.03846153846155,769,sub,"In other words, we do not collectinformation such as your name, phone number, address or email address.",103,<error>,<error>
+"When you make in-app purchases in our apps, we do not collect or have any access to your name and billing information.","When you make in-app purchases in our apps, we do not
+collect or have any access to your name and billing information.",99.15254237288136,874,sub,"When you make in-app purchases in our apps, we do notcollect or have any access to your name and billing information. ",118,<error>,<error>
+This information is collected and stored by your platform (Android Google Play) or your platform payment processor.,"This
+information is collected and stored by your platform (Android Google Play) or
+your platform payment processor.",98.26086956521739,993,sub,Thisinformation is collected and stored by your platform (Android Google Play) oryour platform payment processor.,113,<error>,<error>
+Few of our apps might use Google Analytics (third party scripts) that collect the following information and might (also) store such information as a cookie on the device you use to access our Apps:,"Few of our apps might use Google Analytics (third party
+scripts) that collect the following information and might (also) store such information
+as a cookie on the device you use to access our Apps:",98.98477157360406,1109,sub,Few of our apps might use Google Analytics (third partyscripts) that collect the following information and might (also) store such informationas a cookie on the device you use to access our Apps:,195,<error>,<error>
+Google Analytics:,Google Analytics:,100.0,1307,sub,Google Analytics:,17,<error>,<error>
+"Demographics (browser language, country, city)","Demographics (browser language, country, city)",100.0,1325,sub,"Demographics (browser language, country, city)",46,<error>,<error>
+"Mobile (operating system, screen resolution, service provider)","Mobile (operating system, screen resolution, service
+provider)",98.38709677419355,1372,sub,"Mobile (operating system, screen resolution, serviceprovider)",61,<error>,<error>
+"System information (operating system, browser, service provider)","System information (operating system, browser, service
+provider)",98.4375,1435,sub,"System information (operating system, browser, serviceprovider)",63,<error>,<error>
+"Site behavior (which pages users visit, duration of visit)","Site behavior (which pages users visit, duration of visit)",100.0,1500,sub,"Site behavior (which pages users visit, duration of visit)",58,<error>,<error>
+"For more information about our partners practices, please visit the following link:","For more information about our partners practices, please
+visit the following link:",98.79518072289156,1559,sub,"For more information about our partners practices, pleasevisit the following link:",82,<error>,<error>
+https://www.google.com/policies/privacy/partners/,https://www.google.com/policies/privacy/partners/,100.0,1643,sub,https://www.google.com/policies/privacy/partners/,49,<error>,<error>
+How we use this information collected in our mobile apps,How we use this information collected in our mobile apps,100.0,1693,main,How we use this information collected in our mobile apps,56,<error>,<error>
+"We collect this information to improve performance and reliability of our apps and to get a better understanding of what users prefer, to help improve our app.","We collect this information to improve performance and
+reliability of our apps and to get a better understanding of what users prefer,
+to help improve our app.",98.74213836477988,1750,sub,"We collect this information to improve performance andreliability of our apps and to get a better understanding of what users prefer,to help improve our app. ",158,<error>,<error>
+We do not link any of this information in any way to individuals or any other information we might obtain.,"We do not link any of this information in any way to
+individuals or any other information we might obtain.",99.05660377358491,1910,sub,We do not link any of this information in any way toindividuals or any other information we might obtain. ,106,<error>,<error>
+"We do not sell, share or in any other way give this information to other persons or companies.","We do not sell, share or
+in any other way give this information to other persons or companies.",98.93617021276596,2017,sub,"We do not sell, share orin any other way give this information to other persons or companies. ",94,<error>,<error>
+We do not rent or sell your email address.,"We do not
+rent or sell your email address.",97.61904761904762,2112,sub,We do notrent or sell your email address.,41,<error>,<error>
+Our mobile applications comply with the Childrens Online Privacy Protection Act (COPPA).,"Our mobile applications comply with the Childrens Online
+Privacy Protection Act (COPPA).",98.86363636363636,2155,sub,Our mobile applications comply with the Childrens OnlinePrivacy Protection Act (COPPA). ,88,<error>,<error>
+"In the event that a user identifies himself/herself as a child under the age of 13 through a support request or feedback, we will not collect, store or use and will delete in a secure manner any personal information of such a user.","In the event that a user identifies
+himself/herself as a child under the age of 13 through a support request or
+feedback, we will not collect, store or use and will delete in a secure manner
+any personal information of such a user.",98.7012987012987,2244,sub,"In the event that a user identifieshimself/herself as a child under the age of 13 through a support request orfeedback, we will not collect, store or use and will delete in a secure mannerany personal information of such a user.",228,<error>,<error>
+We take care of filtering categories of sensitive and unsuitable ads for children.,"We take care of filtering categories of sensitive and
+unsuitable ads for children.",98.78048780487805,2476,sub,We take care of filtering categories of sensitive andunsuitable ads for children. ,82,<error>,<error>
+"But rarely can an advertiser misclassify your ads, and this situation is beyond our reach.","But rarely can an advertiser misclassify your ads,
+and this situation is beyond our reach.",98.88888888888889,2559,sub,"But rarely can an advertiser misclassify your ads,and this situation is beyond our reach.",89,<error>,<error>
+COOKIES,COOKIES,100.0,2650,main,COOKIES,7,<error>,<error>
+"When you visit our website, we may send cookies to your computer that uniquely identify your browser.","When you visit our website, we may send cookies to your
+computer that uniquely identify your browser.",99.00990099009901,2658,sub,"When you visit our website, we may send cookies to yourcomputer that uniquely identify your browser. ",101,<tracking>,<error>
+We use cookies to improve the quality of our service by storing user preferences and tracking usage information.,"We use cookies to improve the
+quality of our service by storing user preferences and tracking usage
+information.",98.21428571428571,2760,sub,We use cookies to improve thequality of our service by storing user preferences and tracking usageinformation. ,111,<error>,<error>
+Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer.,"Most browsers allow you to disable cookies or set your browser to
+alert you when cookies are being sent to your computer.",99.17355371900827,2873,sub,Most browsers allow you to disable cookies or set your browser toalert you when cookies are being sent to your computer.,120,<error>,<error>
+CHANGES TO THIS PRIVACY POLICY,CHANGES TO THIS PRIVACY POLICY,100.0,2995,main,CHANGES TO THIS PRIVACY POLICY,30,<error>,<error>
+House of Juniors has the discretion to update this privacy policy at any time.,"House of Juniors has the discretion to update this privacy
+policy at any time.",98.71794871794873,3026,sub,House of Juniors has the discretion to update this privacypolicy at any time. ,78,<error>,<error>
+"When we do, we will revise the updated date at the bottom of this page.","When we do, we will revise the updated date at the bottom
+of this page.",98.59154929577466,3105,sub,"When we do, we will revise the updated date at the bottomof this page. ",71,<error>,<error>
+We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.,"We encourage Users to frequently check this page for any changes
+to stay informed about how we are helping to protect the personal information
+we collect.",98.7012987012987,3177,sub,We encourage Users to frequently check this page for any changesto stay informed about how we are helping to protect the personal informationwe collect. ,153,<error>,<error>
+You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.,"You acknowledge and agree that it is your responsibility to review
+this privacy policy periodically and become aware of modifications.",99.25373134328358,3332,sub,You acknowledge and agree that it is your responsibility to reviewthis privacy policy periodically and become aware of modifications.,133,<error>,<error>
+CONTACTING US,CONTACTING US,100.0,3467,main,CONTACTING US,13,<error>,<error>
+"If you have any questions about this Privacy Policy, the practices of this site, or your dealings with our Apps, please contact us at:","If you have any questions about this Privacy Policy, the
+practices of this site, or your dealings with our Apps, please contact us at:",99.25373134328358,3481,sub,"If you have any questions about this Privacy Policy, thepractices of this site, or your dealings with our Apps, please contact us at:",133,<error>,<error>
+info@hojschool.com,info@hojschool.com,100.0,3616,sub,"info@hojschool.comDate updated: 24thSeptember, 2021",51,<error>,<error>

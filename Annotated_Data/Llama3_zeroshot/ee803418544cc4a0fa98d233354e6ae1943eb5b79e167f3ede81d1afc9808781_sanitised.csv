@@ -1,0 +1,68 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy Policy - Practo,23,<error>,<error>
+About Company,About Company,100.0,24,main,About Company,13,<generic>,<error>
+Guiding Principles,Guiding Principles,100.0,38,main,Guiding Principles,18,<generic>,<error>
+Data Security,Data Security,100.0,57,main,Data Security,13,<generic>,<what>
+Careers,Careers,100.0,71,main,Careers,7,<generic>,<what>
+Download the app,Download the app,100.0,79,main,Download the app,16,<generic>,<error>
+Faster & complete healthcare experience,Faster & complete healthcare experience,100.0,96,main,Faster & complete healthcare experience,39,<generic>,<error>
+Practo for Providers,"Practo for Patients
+",75.0,136,main,Practo for PatientsPracto for                                  Providers,72,<generic>,<error>
+Help,Help,100.0,211,main,Help,4,<generic>,<error>
+Contact us,Contact us,100.0,216,main,Contact us,10,<generic>,<error>
+Terms of service,Terms of service,100.0,227,main,Terms of service,16,<generic>,<error>
+About Practo,About Practo,100.0,244,main,About Practo,12,<generic>,<error>
+Guiding Principles,Guiding Principles,100.0,257,main,Guiding Principles,18,<generic>,<error>
+Data Security,Data Security,100.0,276,main,Data Security,13,<error>,<what>
+Careers,Careers,100.0,290,main,Careers,7,<generic>,<what>
+For Patients,For Patients,100.0,298,main,For Patients,12,<generic>,<error>
+For Providers,For Providers,100.0,311,main,For Providers,13,<error>,<error>
+Practo,Practo,100.0,325,main,Practo,6,<error>,<error>
+About,About,100.0,332,main,About,5,<error>,<error>
+Guiding Principles,Guiding Principles,100.0,338,main,Guiding Principles,18,<error>,<error>
+Careers,Careers,100.0,357,main,Careers,7,<error>,<what>
+Press,Press,100.0,365,main,Press,5,<generic>,<error>
+Contact,Contact,100.0,371,main,Contact,7,<generic>,<error>
+Blog,Blog,100.0,379,main,Blog,4,<generic>,<error>
+For patients,For patients,100.0,384,main,For patients,12,<error>,<error>
+Ask free health questions,Ask free health questions,100.0,397,main,Ask free health questions,25,<generic>,<error>
+Search for doctors,Search for doctors,100.0,423,main,Search for doctors,18,<generic>,<error>
+Search for clinics,Search for clinics,100.0,442,main,Search for clinics,18,<generic>,<error>
+Read health articles,Read health articles,100.0,461,main,Read health articles,20,<generic>,<error>
+Read about medicines,Read about medicines,100.0,482,main,Read about medicines,20,<generic>,<error>
+Consult a doctor,Consult a doctor,100.0,503,main,Consult a doctor,16,<generic>,<error>
+Order medicines,Order medicines,100.0,520,main,Order medicines,15,<generic>,<error>
+Health app,Health app,100.0,536,main,Health app,10,<generic>,<error>
+For doctors,For doctors,100.0,547,main,For doctors,11,<generic>,<error>
+Practo Consult,Practo Consult,100.0,559,main,Practo Consult,14,<generic>,<error>
+Practo Health Feed,Practo Health Feed,100.0,574,main,Practo Health Feed,18,<generic>,<error>
+Practo Profile,Practo Profile,100.0,593,main,Practo Profile,14,<generic>,<error>
+Practo Pro App,Practo Pro App,100.0,608,main,Practo Pro App,14,<generic>,<error>
+For clinics,For clinics,100.0,623,main,For clinics,11,<generic>,<error>
+Practo Prime,Practo Prime,100.0,635,main,Practo Prime,12,<generic>,<error>
+Ray by Practo,Ray by Practo,100.0,648,main,Ray by Practo,13,<generic>,<error>
+Practo Reach,Practo Reach,100.0,662,main,Practo Reach,12,<generic>,<error>
+For hospitals,For hospitals,100.0,675,main,For hospitals,13,<generic>,<error>
+Practo Prime,Practo Prime,100.0,689,main,Practo Prime,12,<generic>,<error>
+Insta by Practo,Insta by Practo,100.0,702,main,Insta by Practo,15,<generic>,<error>
+Qikwell by Practo,Qikwell by Practo,100.0,718,main,Qikwell by Practo,17,<generic>,<error>
+Practo Profile,Practo Profile,100.0,736,main,Practo Profile,14,<generic>,<error>
+Practo Reach,Practo Reach,100.0,751,main,Practo Reach,12,<generic>,<error>
+More,More,100.0,764,main,More,4,<generic>,<error>
+Help,Help,100.0,769,main,Help,4,<generic>,<error>
+Developers,Developers,100.0,774,main,Developers,10,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,785,main,Privacy Policy,14,<generic>,<error>
+Terms & Conditions,Terms & Conditions,100.0,800,main,Terms & Conditions,18,<generic>,<error>
+Subscribers,Subscribers,100.0,819,main,Subscribers,11,<generic>,<error>
+Sitemap,Sitemap,100.0,831,main,Sitemap,7,<generic>,<error>
+Social,Social,100.0,839,main,Social,6,<generic>,<error>
+Facebook,Facebook,100.0,846,main,Facebook,8,<generic>,<error>
+Twitter,Twitter,100.0,855,main,Twitter,7,<generic>,<error>
+LinkedIn,LinkedIn,100.0,863,main,LinkedIn,8,<generic>,<error>
+YouTube,YouTube,100.0,872,main,YouTube,7,<generic>,<error>
+GitHub,GitHub,100.0,880,main,GitHub,6,<generic>,<error>
+India,India,100.0,887,main,IndiaIndia,10,<region>,<error>
+Indonesia (English),Indonesia (English),100.0,899,main,Indonesia (English),19,<region>,<error>
+Indonesia (Bahasa),Indonesia (Bahasa),100.0,919,main,Indonesia (Bahasa),18,<region>,<error>
+Philippines,Philippines,100.0,938,main,Philippines,11,<region>,<error>
+Singapore,Singapore,100.0,950,main,"SingaporeCopyright © 2017, Practo. All rights reserved.",55,<region>,<error>

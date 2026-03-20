@@ -1,0 +1,27 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,"Privacy PolicyPrivacy PolicyIf you choose to use this app, then you agree to the collection and use of information in relation to this policy. The Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.",321,<generic>,<error>
+Personal Information,Personal Information,100.0,324,main,Personal Information.Personal information is data that can be used to identify or contact a single person. We do not collect Personal Information.  So we may not use your personal information in any way.,203,<generic>,<what>
+Non-Personal Information,Non-Personal Information,100.0,529,main,"Non-Personal Information.We may collect non-personal identification information about Users whenever they interact with our apps. Non-personal identification information may include the type of your phone and technical information about Users means of connection to our apps, such as the versions of phone model and other similar information.The Non-Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.",531,<generic>,<what>
+Advertising ID,Advertising ID,100.0,1062,main,Advertising ID.Google Advertising ID by Google Play Service for advertising is used in the third-party advertising network to prevent inappropriate advertisement content for you.,178,<first>,<what>
+App Usage Data,App Usage Data,100.0,1242,main,App Usage Data.We collect usage data to analyze and improve the user experience. We promise that we will never disclose your privacy to any person or third party interest information.,183,<first>,<what>
+Storage,Storage,100.0,1427,main,"StorageThis permission is used to File Mange, System Clear, Backup & Restore.",77,<retention>,<how-gathered>
+Accessibility,Accessibility,100.0,1506,main,AccessibilityThis permission is used to close apps by user. This is only used to speed up user devices and no relative information will be uploaded.,148,<access>,<other>
+Do Not Disturb access,Do Not Disturb access,100.0,1656,main,Do Not Disturb accessThis permission is used to set Ringtone in the Tools.,74,<access>,<how-gathered>
+ACCESS_NETWORK_STATE,ACCESS_NETWORK_STATE,100.0,1732,main,ACCESS_NETWORK_STATE,20,<access>,<how-gathered>
+INTERNET,INTERNET,100.0,1753,main,INTERNETThese permission is used to access the device’s network in the Tools.,77,<access>,<how-gathered>
+BLUETOOTH,BLUETOOTH,100.0,1832,main,BLUETOOTH_ADMINBLUETOOTHThese permission is used to view Bluetooth connections and turned on or off in the Tools.,113,<access>,<how-gathered>
+WRITE_SETTINGS,WRITE_SETTINGS,100.0,1948,main,WRITE_SETTINGSThis permission is used to change sleep and brightness in the Tools.,82,<access>,<how-gathered>
+ACCESS_WIFI_STATE,ACCESS_WIFI_STATE,100.0,2032,main,ACCESS_WIFI_STATEThis permission is used to view Wi-Fi connections in the Tools.,80,<access>,<how-gathered>
+CHANGE_NETWORK_STATE,CHANGE_NETWORK_STATE,100.0,2114,main,CHANGE_NETWORK_STATEThis permission is used to change network connectivity in the Tools.,88,<access>,<how-gathered>
+CHANGE_WIFI_STATE,CHANGE_WIFI_STATE,100.0,2204,main,CHANGE_WIFI_STATEThis permission is used to connect and disconnect from Wi-Fi in the Tools.,91,<access>,<how-gathered>
+CLEAR_APP_CACHE,CLEAR_APP_CACHE,100.0,2297,main,CLEAR_APP_CACHE,15,<access>,<how-gathered>
+GET_PACKAGE_SIZE,GET_PACKAGE_SIZE,100.0,2313,main,GET_PACKAGE_SIZE,16,<access>,<how-gathered>
+PACKAGE_USAGE_STATS,PACKAGE_USAGE_STATS,100.0,2330,main,PACKAGE_USAGE_STATSThese permission is used to delete cache files,65,<access>,<how-gathered>
+KILL_BACKGROUND_PROCESSES,KILL_BACKGROUND_PROCESSES,100.0,2397,main,KILL_BACKGROUND_PROCESSESThis permission is used to close other apps and boost your phone.,90,<access>,<how-gathered>
+READ_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,100.0,2489,main,READ_EXTERNAL_STORAGEThis permission is used to view files stored on their SD card. We promise that we will never disclose your privacy to any person or third party interest information.,186,<access>,<how-gathered>
+READ_SYNC_SETTINGS,READ_SYNC_SETTINGS,100.0,2677,main,READ_SYNC_SETTINGSThis permission is used to get sync state in the Tools.,73,<access>,<how-gathered>
+RECEIVE_BOOT_COMPLETED,RECEIVE_BOOT_COMPLETED,100.0,2752,main,RECEIVE_BOOT_COMPLETEDThis permission is used to Show Notification Icon and Show Startup .,90,<access>,<how-gathered>
+WRITE_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,100.0,2844,main,WRITE_EXTERNAL_STORAGEThis permission is used to delete files stored on their SD card. We promise that we will never disclose your privacy to any person or third party interest information.,189,<access>,<how-gathered>
+WRITE_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,100.0,3035,main,WRITE_SYNC_SETTINGSThis permission is used to set sync state in the Tools.,74,<access>,<how-gathered>
+REQUEST_INSTALL_PACKAGES,REQUEST_INSTALL_PACKAGES,100.0,3111,main,REQUEST_INSTALL_PACKAGESThese permission is used to help users install apps easily.,83,<access>,<how-gathered>
+Accessibility permission,Accessibility permission,100.0,3196,main,"Accessibility permissionThese permission is used to help users kill apps and clear cache.If you have any questions, please contact crazymobile.wind@gmail.com.",158,<access>,<how-gathered>

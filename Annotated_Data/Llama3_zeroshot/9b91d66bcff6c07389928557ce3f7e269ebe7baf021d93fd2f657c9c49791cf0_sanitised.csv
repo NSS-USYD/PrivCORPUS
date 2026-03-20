@@ -1,0 +1,133 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Windguru - ,11,<error>,<error>
+Help,Help,100.0,11,main,Help,4,<generic>,<error>
+search spots...,search spots...,100.0,16,sub,search spots...,15,<generic>,<error>
+Maps,Maps,100.0,32,sub,Maps,4,<first>,<error>
+Forecasts,Forecasts,100.0,37,sub,Forecasts,9,<first>,<error>
+Spots,Spots,100.0,47,sub,Spots,5,<first>,<error>
+Stations,Stations,100.0,53,sub,Stations,8,<first>,<error>
+Tides,Tides,100.0,62,sub,Tides,5,<first>,<error>
+Wind statistics,Wind statistics,100.0,68,sub,Wind statistics,15,<first>,<error>
+Archive,Archive,100.0,84,sub,Archive,7,<first>,<error>
+Daily archive,Daily archive,100.0,92,sub,Daily archive,13,<error>,<error>
+Statistics,Statistics,100.0,106,sub,Statistics,10,<error>,<error>
+Top spots,Top spots,100.0,117,sub,Top spots,9,<error>,<error>
+Tides,Tides,100.0,127,sub,Tides,5,<error>,<error>
+Windguru PRO,Windguru PRO,100.0,133,sub,Windguru PRO,12,<error>,<error>
+More...,More...,100.0,146,sub,More...,7,<error>,<error>
+Tides,Tides,100.0,154,sub,Tides,5,<error>,<error>
+Windguru PRO,Windguru PRO,100.0,160,sub,Windguru PRO,12,<error>,<error>
+Mobile Apps,Mobile Apps,100.0,173,sub,Mobile Apps,11,<error>,<error>
+Windguru Directory,Windguru Directory,100.0,185,sub,Windguru Directory,18,<error>,<error>
+Forecast widgets,Forecast widgets,100.0,204,sub,Forecast widgets,16,<error>,<error>
+Windguru Station,Windguru Station,100.0,221,sub,Windguru Station,16,<error>,<error>
+Old Windguru,Old Windguru,100.0,238,sub,Old Windguru,12,<error>,<error>
+Help,Help,100.0,251,sub,Help,4,<error>,<error>
+News,News,100.0,256,sub,News,4,<error>,<error>
+Quick guide,Quick guide,100.0,261,sub,Quick guide,11,<access>,<error>
+Help section,Help section,100.0,273,sub,Help section,12,<access>,<error>
+Keyboard shortcuts,Keyboard shortcuts,100.0,286,sub,Keyboard shortcuts,18,<access>,<error>
+New site intro,New site intro,100.0,305,sub,New site intro,14,<access>,<error>
+News,News,100.0,320,sub,News,4,<error>,<error>
+Options,Options,100.0,325,sub,Options,7,<choice>,<error>
+Login,Login,100.0,333,sub,Login,5,<choice>,<error>
+en,en,100.0,339,sub,en,2,<error>,<error>
+Basque,Basque,100.0,342,sub,Basque,6,<error>,<error>
+Bulgarian,Bulgarian,100.0,349,sub,Bulgarian,9,<error>,<error>
+Catalan,Catalan,100.0,359,sub,Catalan,7,<error>,<error>
+Czech,Czech,100.0,367,sub,Czech,5,<error>,<error>
+Danish,Danish,100.0,373,sub,Danish,6,<error>,<error>
+Dutch,Dutch,100.0,380,sub,Dutch,5,<error>,<error>
+English,English,100.0,386,sub,English,7,<error>,<error>
+Estonian,Estonian,100.0,394,sub,Estonian,8,<error>,<error>
+Finnish,Finnish,100.0,403,sub,Finnish,7,<error>,<error>
+French,French,100.0,411,sub,French,6,<error>,<error>
+Galician,Galician,100.0,418,sub,Galician,8,<error>,<error>
+German,German,100.0,427,sub,German,6,<error>,<error>
+Hungarian,Hungarian,100.0,434,sub,Hungarian,9,<error>,<error>
+Chinese (traditional),Chinese (traditional),100.0,444,sub,Chinese (traditional),21,<error>,<error>
+Italian,Italian,100.0,466,sub,Italian,7,<error>,<error>
+Latvian,Latvian,100.0,474,sub,Latvian,7,<error>,<error>
+Lithuanian,Lithuanian,100.0,482,sub,Lithuanian,10,<error>,<error>
+Polish,Polish,100.0,493,sub,Polish,6,<error>,<error>
+Portuguese,Portuguese,100.0,500,sub,Portuguese,10,<error>,<error>
+Romanian,Romanian,100.0,511,sub,Romanian,8,<error>,<error>
+Russian,Russian,100.0,520,sub,Russian,7,<error>,<error>
+Spanish,Spanish,100.0,528,sub,Spanish,7,<error>,<error>
+Swedish,Swedish,100.0,536,sub,Swedish,7,<error>,<error>
+Turkish,Turkish,100.0,544,sub,Turkish,7,<error>,<error>
+Ukrainian,Ukrainian,100.0,552,sub,Ukrainian,9,<error>,<error>
+Homepage (reload app),Homepage (reload app),100.0,562,sub,Homepage (reload app),21,<choice>,<error>
+Login,Login,100.0,584,sub,Login,5,<error>,<error>
+Options,Options,100.0,590,sub,Options,7,<error>,<error>
+Maps,Maps,100.0,598,sub,Maps,4,<error>,<error>
+Forecasts,Forecasts,100.0,603,sub,Forecasts,9,<error>,<error>
+Spots,Spots,100.0,613,sub,Spots,5,<error>,<error>
+Stations,Stations,100.0,619,sub,Stations,8,<error>,<error>
+Tides,Tides,100.0,628,sub,Tides,5,<error>,<error>
+Wind statistics,Wind statistics,100.0,634,sub,Wind statistics,15,<error>,<error>
+Archive,Archive,100.0,650,sub,Archive,7,<error>,<error>
+Daily archive,Daily archive,100.0,658,sub,Daily archive,13,<error>,<error>
+Statistics,Statistics,100.0,672,sub,Statistics,10,<error>,<error>
+Top spots,Top spots,100.0,683,sub,Top spots,9,<error>,<error>
+Tides,Tides,100.0,693,sub,Tides,5,<error>,<error>
+Windguru PRO,Windguru PRO,100.0,699,sub,Windguru PRO,12,<error>,<error>
+Mobile Apps,Mobile Apps,100.0,712,sub,Mobile Apps,11,<error>,<error>
+Forecast widgets,Forecast widgets,100.0,724,sub,Forecast widgets,16,<error>,<error>
+Windguru Station,Windguru Station,100.0,741,sub,Windguru Station,16,<error>,<error>
+Windguru Directory,Windguru Directory,100.0,758,sub,Windguru Directory,18,<error>,<error>
+Old Windguru,Old Windguru,100.0,777,sub,Old Windguru,12,<error>,<error>
+News,News,100.0,790,sub,News,4,<error>,<error>
+Help,Help,100.0,795,sub,Help,4,<error>,<error>
+Quick guide,Quick guide,100.0,800,sub,Quick guide,11,<error>,<error>
+Help section,Help section,100.0,812,sub,Help section,12,<error>,<error>
+Keyboard shortcuts,Keyboard shortcuts,100.0,825,sub,Keyboard shortcuts,18,<error>,<error>
+New site intro,New site intro,100.0,844,sub,New site intro,14,<error>,<error>
+English,English,100.0,859,sub,English,7,<error>,<error>
+Basque,Basque,100.0,867,sub,Basque,6,<error>,<error>
+Bulgarian,Bulgarian,100.0,874,sub,Bulgarian,9,<error>,<error>
+Catalan,Catalan,100.0,884,sub,Catalan,7,<error>,<error>
+Czech,Czech,100.0,892,sub,Czech,5,<error>,<error>
+Danish,Danish,100.0,898,sub,Danish,6,<error>,<error>
+Dutch,Dutch,100.0,905,sub,Dutch,5,<error>,<error>
+English,English,100.0,911,sub,English,7,<error>,<error>
+Estonian,Estonian,100.0,919,sub,Estonian,8,<error>,<error>
+Finnish,Finnish,100.0,928,sub,Finnish,7,<error>,<error>
+French,French,100.0,936,sub,French,6,<error>,<error>
+Galician,Galician,100.0,943,sub,Galician,8,<error>,<error>
+German,German,100.0,952,sub,German,6,<error>,<error>
+Hungarian,Hungarian,100.0,959,sub,Hungarian,9,<error>,<error>
+Chinese (traditional),Chinese (traditional),100.0,969,sub,Chinese (traditional),21,<error>,<error>
+Italian,Italian,100.0,991,sub,Italian,7,<error>,<error>
+Latvian,Latvian,100.0,999,sub,Latvian,7,<error>,<error>
+Lithuanian,Lithuanian,100.0,1007,sub,Lithuanian,10,<error>,<error>
+Polish,Polish,100.0,1018,sub,Polish,6,<error>,<error>
+Portuguese,Portuguese,100.0,1025,sub,Portuguese,10,<error>,<error>
+Romanian,Romanian,100.0,1036,sub,Romanian,8,<error>,<error>
+Russian,Russian,100.0,1045,sub,Russian,7,<error>,<error>
+Spanish,Spanish,100.0,1053,sub,Spanish,7,<error>,<error>
+Swedish,Swedish,100.0,1061,sub,Swedish,7,<error>,<error>
+Turkish,Turkish,100.0,1069,sub,Turkish,7,<error>,<error>
+Ukrainian,Ukrainian,100.0,1077,sub,Ukrainian,9,<error>,<error>
+Search,Search,100.0,1087,sub,Search,6,<error>,<error>
+Favourites,Favourites,100.0,1094,sub,Favourites,10,<error>,<error>
+Maps,Maps,100.0,1105,sub,Maps,4,<error>,<error>
+Options,Options,100.0,1110,sub,Options,7,<error>,<error>
+Home,Home,100.0,1118,sub,Home,4,<error>,<error>
+Favourites,Favourites,100.0,1123,sub,Favourites,10,<error>,<error>
+Maps,Maps,100.0,1134,sub,Maps,4,<error>,<error>
+Options,Options,100.0,1139,sub,Options,7,<error>,<error>
+Last used:,Last used:,100.0,1147,sub,Last used:,10,<error>,<error>
+more,more,100.0,1158,sub,more,4,<error>,<error>
+Favourites:,Favourites:,100.0,1163,sub,Favourites:,11,<error>,<error>
+Search,Search,100.0,1175,sub,Search,6,<error>,<error>
+Favourites,Favourites,100.0,1182,sub,Favourites,10,<error>,<error>
+Maps,Maps,100.0,1193,sub,Maps,4,<error>,<error>
+Options,Options,100.0,1198,sub,Options,7,<error>,<error>
+Time...,Time...,100.0,1206,sub,Time...,7,<error>,<error>
+UTC,UTC,100.0,1214,sub,UTC,3,<error>,<error>
+Pick timezone from map,Pick timezone from map,100.0,1218,sub,Pick timezone from map,22,<error>,<error>
+Home,Home,100.0,1241,sub,Home,4,<error>,<error>
+Forecasts,Forecasts,100.0,1246,sub,Forecasts,9,<error>,<error>
+Spots,Spots,100.0,1256,sub,Spots,5,<error>,<error>
+Stations,Stations,100.0,1262,sub,StationsForecastMapWindTemperatureWindTemperaturePeriod1 hour3 hours6 hours12 hours1 day2 days7 days14 days30 daysDateAlertmax:min:rh:HomeSearchFavouritesMapsOptionsFacebookTwitterEmailFeedbackHelp|FAQ|Intro|Terms|Privacy Policy|Advertising|Stations|Old WindguruCCPA setting© 2023 Windguru,289,<error>,<error>

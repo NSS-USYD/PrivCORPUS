@@ -1,0 +1,5 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,sub,Privacy PolicyBandpassHomePrivacy Policy,40,<generic>,<error>
+Terms & Conditions,Terms & Conditions,100.0,44,sub,Terms & Conditions,18,<generic>,<error>
+Contact,Contact,100.0,63,sub,Contact,7,<contact>,<error>
+FAQ,FAQ,100.0,71,sub,FAQPrivacy PolicySite powered by Weebly. Managed bySiteGroundHomePrivacy PolicyTerms & ConditionsContactFAQ,107,<generic>,<error>

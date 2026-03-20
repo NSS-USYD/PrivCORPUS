@@ -1,0 +1,6 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Ringtone, mp3 cutterSearch this siteSkip to main contentSkip to navigationRingtone, mp3 cutter",94,<error>,<error>
+Privacy Policy,Privacy policy,100.0,99,main,"Privacy policyMp3 cutter personal informationMp3 cutter with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information.Explains for some ",215,<error>,<error>
+Permission Requests,permission requests,100.0,317,main,"permission requestsin Ringtone, mp3 cutter application, I request somes sensitive permissions to make functions of application work properly:",141,<first>,<why>
+android.permission.RECORD_AUDIO,android.permission.RECORD_AUDIO,100.0,460,sub,android.permission.RECORD_AUDIO: This permission to allow you recorder audio to cut  or make ringtone,101,<first>,<what>
+android.permission.READ_CONTACTS,android.permission.READ_CONTACTS,100.0,562,sub,"android.permission.READ_CONTACTS: This permission to allow you asign ringtone to each contact, by read Contacts, you can set ringtone for each contact if you want.Google SitesReport abuseGoogle SitesReport abuse",211,<first>,<what>

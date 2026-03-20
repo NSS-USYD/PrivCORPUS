@@ -1,0 +1,83 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Vimeo Creation Tools | ,23,<error>,<error>
+Privacy,Privacy,100.0,23,main,Privacy,7,<generic>,<error>
+Get started,Get started,100.0,31,sub,Get started,11,<generic>,<error>
+Templates,Templates,100.0,43,sub,Templates,9,<generic>,<error>
+What you can do,What you can do,100.0,53,sub,What you can do,15,<generic>,<error>
+Video Maker,Video Maker,100.0,69,sub,Video Maker,11,<generic>,<error>
+Real Estate,Real Estate,100.0,81,sub,Real Estate,11,<generic>,<error>
+Fitness,Fitness,100.0,93,sub,Fitness,7,<generic>,<error>
+Cooking,Cooking,100.0,101,sub,Cooking,7,<generic>,<error>
+Photographers,Photographers,100.0,109,sub,Photographers,13,<generic>,<error>
+YouTube Ads,YouTube Ads,100.0,123,sub,YouTube Ads,11,<generic>,<error>
+Video Ads,Video Ads,100.0,135,sub,Video Ads,9,<generic>,<error>
+Promo,Promo,100.0,145,sub,Promo,5,<generic>,<error>
+Facebook Ads,Facebook Ads,100.0,151,sub,Facebook Ads,12,<generic>,<error>
+Instagram Videos,Instagram Videos,100.0,164,sub,Instagram Videos,16,<generic>,<error>
+Marketing,Marketing,100.0,181,sub,Marketing,9,<generic>,<error>
+Social Media,Social Media,100.0,191,sub,Social Media,12,<generic>,<error>
+Video Slideshow,Video Slideshow,100.0,204,sub,Video Slideshow,15,<generic>,<error>
+Wedding,Wedding,100.0,220,sub,Wedding,7,<generic>,<error>
+Birthday,Birthday,100.0,228,sub,Birthday,8,<generic>,<error>
+Blog,Blog,100.0,237,sub,Blog,4,<generic>,<error>
+Solutions,Solutions,100.0,242,sub,Solutions,9,<generic>,<error>
+Explore,Explore,100.0,252,sub,Explore,7,<generic>,<error>
+Pricing,Pricing,100.0,260,sub,Pricing,7,<generic>,<error>
+Login,Login,100.0,268,sub,Login,5,<generic>,<error>
+Sign In,Sign In,100.0,274,sub,Sign InGet started,18,<generic>,<error>
+This site uses cookies,This site uses cookies,100.0,294,sub,This site uses cookiesLearn more,32,<tracking>,<error>
+We use cookies on this website. To find out more about cookies used on this website and your choices,We use cookies on this website. To find out more about cookies used on this website and your choices,100.0,328,sub,We use cookies on this website. To find out more about cookies used on this website and your choicesGo here.AcceptAccept,120,<third>,<error>
+Language,Language,100.0,453,sub,Language,8,<region>,<error>
+English,English,100.0,462,sub,English,7,<region>,<error>
+Deutsch,Deutsch,100.0,470,sub,Deutsch,7,<region>,<error>
+Español,Español,100.0,478,sub,Español,7,<region>,<error>
+Français,Français,100.0,486,sub,Français,8,<region>,<error>
+Português,Português,100.0,495,sub,Português,9,<region>,<error>
+Italiano,Italiano,100.0,505,sub,Italiano,8,<region>,<error>
+Get Started,Get Started,100.0,514,sub,Get Started,11,<generic>,<error>
+Create,Create,100.0,526,sub,Create,6,<generic>,<error>
+Templates,Templates,100.0,533,sub,Templates,9,<generic>,<error>
+Explore,Explore,100.0,543,sub,Explore,7,<generic>,<error>
+iPhone,iPhone,100.0,551,sub,iPhone,6,<generic>,<error>
+Android,Android,100.0,558,sub,Android,7,<generic>,<error>
+Help Center,Help Center,100.0,566,sub,Help Center,11,<generic>,<error>
+Contact Support,Contact Support,100.0,578,sub,Contact Support,15,<choice>,<error>
+Connect,Connect,100.0,594,sub,Connect,7,<choice>,<error>
+Blog,Blog,100.0,602,sub,Blog,4,<choice>,<error>
+Facebook,Facebook,100.0,607,sub,Facebook,8,<third>,<error>
+Instagram,Instagram,100.0,616,sub,Instagram,9,<third>,<error>
+Twitter,Twitter,100.0,626,sub,Twitter,7,<third>,<error>
+YouTube,YouTube,100.0,634,sub,YouTube,7,<third>,<error>
+LinkedIn,LinkedIn,100.0,642,sub,LinkedIn,8,<third>,<error>
+Company,Company,100.0,651,sub,Company,7,<generic>,<error>
+How it works,How it works,100.0,659,sub,How it works,12,<generic>,<error>
+Careers at Vimeo,Careers at Vimeo,100.0,672,sub,Careers at Vimeo,16,<generic>,<error>
+Products,Products,100.0,689,sub,Products,8,<generic>,<error>
+Online Video Maker,Online Video Maker,100.0,698,sub,Online Video Maker,18,<generic>,<error>
+Fitness Video Maker,Fitness Video Maker,100.0,717,sub,Fitness Video Maker,19,<generic>,<error>
+Birthday,Birthday,100.0,737,sub,Birthday                                        ,48,<generic>,<error>
+Video Maker,Video Maker,100.0,786,sub,Video Maker,11,<generic>,<error>
+Wedding,Wedding,100.0,798,sub,Wedding                                        ,47,<generic>,<error>
+Video Maker,Video Maker,100.0,846,sub,Video Maker,11,<generic>,<error>
+Cooking,Cooking,100.0,858,sub,Cooking                                    ,43,<generic>,<error>
+Video Maker,Video Maker,100.0,902,sub,Video Maker,11,<generic>,<error>
+Instagram,Instagram,100.0,914,sub,Instagram                                        ,49,<generic>,<error>
+Video Maker,Video Maker,100.0,964,sub,Video Maker,11,<generic>,<error>
+Slideshow,Slideshow,100.0,976,sub,Slideshow                                        ,49,<generic>,<error>
+Video Maker,Video Maker,100.0,1026,sub,Video Maker,11,<generic>,<error>
+Social,Social,100.0,1038,sub,Social                                        ,46,<generic>,<error>
+Video Maker,Video Maker,100.0,1085,sub,Video Maker,11,<generic>,<error>
+Promo,Promo,100.0,1097,sub,Promo                                        ,45,<generic>,<error>
+Video Maker,Video Maker,100.0,1143,sub,Video Maker,11,<generic>,<error>
+Android,Android,100.0,1155,sub,Android                                        ,47,<generic>,<error>
+Video Editor,Video Editor,100.0,1203,sub,Video Editor,12,<generic>,<error>
+Video Maker for,Video Maker for,100.0,1216,sub,Video Maker for                                        ,55,<generic>,<error>
+iPhone,iPhone,100.0,1272,sub,iPhone,6,<generic>,<error>
+Video,Video,100.0,1279,sub,Video                                        ,45,<error>,<error>
+Maker for Shopify,Maker for Shopify,100.0,1325,sub,Maker for Shopify,17,<error>,<error>
+Vimeo Create,Vimeo Create,100.0,1343,sub,Vimeo Create® ,14,<error>,<error>
+"2021 Vimeo.com, Inc.","2021 Vimeo.com, Inc.",100.0,1358,sub,"2021 Vimeo.com, Inc.",20,<error>,<error>
+Privacy,Privacy,100.0,1379,sub,Privacy,7,<error>,<error>
+CA Privacy,CA Privacy,100.0,1387,sub,CA Privacy,10,<error>,<error>
+Terms of use,"
+Terms of us",91.66666666666666,1397,sub,Terms of use,12,<error>,<error>

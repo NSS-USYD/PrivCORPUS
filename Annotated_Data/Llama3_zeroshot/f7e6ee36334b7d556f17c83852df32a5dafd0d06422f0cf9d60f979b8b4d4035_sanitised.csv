@@ -1,0 +1,54 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"funapplogicfunapplogicSearch this sitePrivacy PolicySitemapPrivacy PolicyFun AppLogicis the name of quality designed product in themobile world andtakesuser privacy very seriously. Sometimes we need information to provide servicesthat you request, this privacy statement applies to and itsproducts. We are committed toprotecting your privacy. So we’ve made a Privacy Policy. Please take a momentto familiarize yourself with our privacy Policy.",443,<error>,<error>
+INFORMATIONs WE GET FROM YOUR USE OF OUR SERVICES,"INFORMATIONs WE GET
+FROM YOUR USE OF OUR SERVICES",97.95918367346938,459,main,"INFORMATIONs WE GETFROM YOUR USE OF OUR SERVICESWemay collect information about the services that you use and how you use them,such as when you view and interact with our content. We may collectdevice-specific information (such as your hardware model, operating systemversion, unique device identifiers, and mobile network information).Fun App Logicwill not share that information with thirdparties.",399,<first>,<what>
+CAMERA,CAMERA,100.0,868,sub,CAMERAThisis used because it is necessary for the shooting function.,68,<first>,<what>
+WRITE EXTERNAL STORAGE,"WRITE EXTERNAL
+STORAGE",95.45454545454545,939,sub,WRITE EXTERNALSTORAGEThisis used to save photographed pictures.,63,<first>,<what>
+ACCESS FINE LOCATION,ACCESS FINE LOCATION,100.0,1006,sub,ACCESS FINE LOCATIONThisis used to add GPS position information to photographed photos.,87,<first>,<what>
+GET TASKS,GET TASKS,100.0,1096,sub,"GET TASKSThisis used for background processing when the application is closed while savingphotos, and to terminate the application completely at the end of theprocessing.",170,<first>,<what>
+INTERNET,INTERNET,100.0,1271,sub,INTERNETThisis used because it is necessary for acquiring advertisement through a netconnection.,96,<first>,<what>
+ACCESS NETWORK STATE,ACCESS NETWORK STATE,100.0,1371,sub,ACCESS NETWORK STATEThisis used because it is necessary for acquiring advertisement through a netconnection.,108,<first>,<what>
+ACCESS WIFI STATE,ACCESS WIFI STATE,100.0,1483,sub,ACCESS WIFI STATEThisis used because it is necessary for acquiring advertisement through a netconnection.,105,<first>,<what>
+RECORD AUDIO PERMISSION,RECORD AUDIO PERMISSION,100.0,1592,sub,RECORD AUDIO PERMISSION:This is used because it is necessary for record audio during making videos.,99,<first>,<what>
+SYSTEM ALERT WINDOW,SYSTEM ALERT WINDOW,100.0,1693,sub,SYSTEM ALERT WINDOW:This is used because it is necessary for showing Gadget or notifications.,93,<first>,<what>
+WRITE SETTINGS PERMISSION,"WRITE SETTINGS
+PERMISSION",96.0,1788,sub,WRITE SETTINGSPERMISSION:This is used because it is necessary for draw over other apps modify system settings.,110,<first>,<what>
+PERSONAL INFORMATION,PERSONAL INFORMATION,100.0,1901,main,PERSONAL INFORMATION,20,<first>,<what>
+"“Personal Information,”","“Personal
+Information,”",95.65217391304348,1922,sub,"“PersonalInformation,” which is the type of information that specifically identifies youpersonally and/or can be used alone to contact you online or offline, such asyour full name, physical address, email address, photograph, precisegeo location information (i.e., your specific location), We can be collectpersonally identification information from Users in a distinctive ways.",378,<generic>,<error>
+Cookies,COOKIES,100.0,2306,main,COOKIESInconnection with the foregoing collection of Personal Information and,77,<first>,<what>
+NON- PERSONAL INFORMATION,"
+Non-Personal Information",96.0,2385,main,"Non-Personal Information, we may also use cookies or similar technologies.Should you choose to submit Personal Information to us, we may link cookieinformation to such Personal Information. You can disable cookies or set yourbrowser to alert you when cookies are being sent.NON- PERSONALINFORMATIONWemay collect and use non-personal information in the following circumstances. Tohave a better understanding in user’s behavior, solve problems in products and",457,<first>,<what>
+NON- PERSONAL INFORMATION,"
+Non-Personal Information",96.0,2385,main,"services, improve our products, services and advertising, we may collectnon-personal information such as installed application name and package name,the data of install, frequency of use, country, equipment and channel.",219,<first>,<what>
+KIDS PRIVACY POLICY OF APPS,"KIDS PRIVACY POLICY
+OF APPS",96.2962962962963,3074,main,"KIDS PRIVACY POLICYOF APPSThisKids Privacy Policy has to be specified to indicate you, with guidanceregarding our privacy policies with respect to collecting, using and disclosingpersonal information ,regarding the legal guardian of a child under the age of13 years old. Many of our Games/Apps are intended for general audiences, and wedo not knowingly gather or use any Personal Information from children and kidsunder the age of 13. When users are identified as under 13, we will block such",492,<third>,<other>
+KIDS PRIVACY POLICY OF APPS,"KIDS PRIVACY POLICY
+OF APPS",96.2962962962963,3074,main,users from providing Personal Information or make sure to get prior parentalconsent before collecting Personal Information.,123,<third>,<other>
+LOCATION INFORMATION,LOCATION INFORMATION,100.0,3700,main,"LOCATION INFORMATIONWhenyou use a location-enabled service, we may collect and process informationabout your actual location, like GPS signals sent by a mobile device. We mayalso use various technologies to determine location, such as sensor data fromyour device that may, for example, provide information on nearby Wi-Fi accesspoints and cell towers.",351,<first>,<what>
+AD NETWORKS & CROSS PROMOTION ADS,"AD NETWORKS &
+CROSS PROMOTION ADS",96.96969696969697,4058,main,"AD NETWORKS &CROSS PROMOTION ADSWehave to welcome the third parties ad networks for accepting advertisements(banners,interstitial andvideo ads etc,..).In our apps and games ,these advertisements authorized to bedisplayed. Advertisers may use cookies and other web-tracking technologies tocollect data, in case that user clicks on any of these advertisements.",358,<third>,<what>
+WRITE_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,100.0,4425,sub,WRITE_EXTERNAL_STORAGE:Save photoscreated by this app into user’s device storage.,81,<first>,<what>
+CAMERA,CAMERA,100.0,4510,sub,"CAMERA:Take photos by user’s device camera. Tohelp you access and use camera to take pictures, record Video.",108,<first>,<error>
+INTERNET AND ACCESS NETWORK STATE,"INTERNET AND ACCESS
+NETWORK STATE",96.96969696969697,4622,sub,INTERNET AND ACCESSNETWORK STATE:1.Access internet to request ads.2.Access photo data to show mirror photos.,108,<third>,<error>
+We may use personal information submitted by you only for the following purposes:,"We
+may use personal information submitted by you only for the following purposes:",98.76543209876543,4736,main,Wemay use personal information submitted by you only for the following purposes:,80,<first>,<why>
+"help us develop, deliver, and improve our products and services and supply higher quality service","help us develop, deliver, and improve our products and services and supply
+higher quality service",98.96907216494846,4818,sub,"help us develop, deliver, and improve our products and services and supplyhigher quality service; ",98,<first>,<why>
+manage online surveys and other activities you’ve participated in,"manage online surveys and other activities you’ve
+participated in",98.46153846153847,4917,sub,manage online surveys and other activities you’veparticipated in.,65,<first>,<why>
+"In the following circumstances, we may disclose your personal information according to your wish or regulations by law:","In
+the following circumstances, we may disclose your personal information
+according to your wish or regulations by law:",98.31932773109243,4984,main,"Inthe following circumstances, we may disclose your personal informationaccording to your wish or regulations by law:",117,<first>,<how-used>
+1. Your prior permission;,"1.
+Your prior permission;",96.0,5104,sub,1.Your prior permission;,24,<third>,<error>
+"2. By the applicable law within or outside your country of residence, legal process, litigation requests;","2.
+By the applicable law within or outside your country of
+residence, legal process, litigation requests;",98.09523809523809,5130,sub,"2.By the applicable law within or outside your country ofresidence, legal process, litigation requests;",103,<third>,<error>
+3. By requests from public and governmental authorities;,"3.
+By requests from public and governmental authorities;",98.21428571428571,5236,sub,3.By requests from public and governmental authorities;,55,<third>,<error>
+4. To protect our legal rights and interests.,"4.
+To protect our legal rights and interests.",97.77777777777777,5293,sub,4.To protect our legal rights and interests.,44,<third>,<error>
+PRIVACY QUESTIONS,PRIVACY QUESTIONS,100.0,5339,main,"PRIVACY QUESTIONSIfyou have any questions or concerns about our Privacy Policy or data processing,please contact usfunapplogic@gmail.comWe may update Privacy Policy from time totime. When we change the policy in a material way, a notice will be posted onour website along with the updated Privacy Policy.Copyright © . All Rights Reserved |Fun App LogicSign in|Recent Site Activity|Report Abuse|Print Page|Powered ByGoogle Sites",427,<choice>,<other>

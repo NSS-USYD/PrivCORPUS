@@ -1,0 +1,67 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,"Privacy PolicyPrivacy PolicyBanaka built the  app as                  an Ad Supported app. This SERVICE is provided by                  Banaka at no cost and is intended for use as                  is.This page is used to inform visitors regarding my                  policies with the collection, use, and disclosure of Personal                  Information if anyone decided to use my Service.If you choose to use my Service, then you agree to",445,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,"                  the collection and use of information in relation to this                  policy. The Personal Information that I collect is                  used for providing and improving the Service. I will not use or share your information with                  anyone except as described in this Privacy Policy.The terms used in this Privacy Policy have the same meanings                  as in our Terms and Conditions, which is accessible at",452,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,                   unless otherwise defined in this Privacy Policy.,67,<generic>,<error>
+Information Collection and Use,Information Collection and Use,100.0,981,main,Information Collection and,26,<generic>,<error>
+"For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information."," Use
+For a better experience, while using our Service, I
+                  may require you to provide us with certain personally
+  ",81.67938931297711,1007,sub," UseFor a better experience, while using our Service, I                  may require you to provide us with certain personally                  identifiable information. The information ",186,<first>,<error>
+The information that I request will be retained on your device and is not collected by me in any way.,"that
+                  I request will be retained on your device and is not collected by me in any wa",83.16831683168317,1196,sub,that                  I request will be retained on your device and is not collected by me in any way.The app does use third party services that may collect                    information used to identif,203,<third>,<error>
+Link to privacy policy of third party service providers used by the app,"y you.
+Link to privacy policy of third party service providers used
+   ",88.73239436619718,1402,main,y you.Link to privacy policy of third party service providers used                    by the app,96,<third>,<error>
+Google Play Services,Google Play Services,100.0,1501,sub,Google Play Services,20,<third>,<error>
+Google Analytics for Firebase,Google Analytics for Firebase,100.0,1522,sub,Google Analytics for Firebase,29,<third>,<error>
+Firebase Crashlytics,Firebase Crashlytics,100.0,1552,sub,Firebase Crashlytics,20,<third>,<error>
+Facebook,Facebook,100.0,1573,sub,Facebook,8,<third>,<error>
+Fabric,Fabric,100.0,1582,sub,Fabric,6,<third>,<error>
+Appodeal,Appodeal,100.0,1589,sub,Appodeal,8,<third>,<error>
+AppLovin,AppLovin,100.0,1598,sub,AppLovin,8,<third>,<error>
+StartApp,StartApp,100.0,1607,sub,StartApp,8,<third>,<error>
+AdColony,AdColony,100.0,1616,sub,AdColony,8,<third>,<error>
+Log Data,Log Data,100.0,1625,main,Log DataI want to inform you that whenever you          ,56,<generic>,<error>
+"I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data.","        use my Service, in a case of an error in the app
+                  I collect data and information (through third party
+                  products) on your phone called Log ",80.0,1683,sub,"        use my Service, in a case of an error in the app                  I collect data and information (through third party                  products) on your phone called Log Data. This Log Data may              ",215,<third>,<error>
+"This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.","    include information such as your device Internet Protocol
+                  (“IP”) address, device name, operating system version, the
+                  configuration of the app when utilizing my Service,
+                  the time and date of your u",78.74015748031495,1901,sub,"    include information such as your device Internet Protocol                  (“IP”) address, device name, operating system version, the                  configuration of the app when utilizing my Service,                  the time and date of your use of the Service, and other                  statistics.",308,<error>,<error>
+Cookies,Cookies,100.0,2214,main,Cookies,7,<generic>,<error>
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.,"Cookies are files with a small amount of data that are
+                  commonly used as anonymous u",82.17821782178218,2222,sub,Cookies are files with a small amount of data that are                  commonly used as anonymous unique identifiers. These are sent               ,148,<third>,<error>
+These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,"   to your browser from the websites that you visit and are
+                  stored on your device's internal m",83.92857142857143,2372,sub,"   to your browser from the websites that you visit and are                  stored on your device's internal memory.This Service does not use these “cookies” explicitly. However,                  the app may use third party code and libraries that use                  “cookies” to collect information and improve their services.                  You have the option to either accept or refuse these cookies                  and know when a cookie is being sent to your device. If you",485,<third>,<error>
+These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,"   to your browser from the websites that you visit and are
+                  stored on your device's internal m",83.92857142857143,2372,sub,"                  choose to refuse our cookies, you may not be able to use some                  portions of this Service.",122,<third>,<error>
+Service Providers,Service Providers,100.0,2988,main,Service Providers,17,<third>,<error>
+I may employ third-party companies and individuals due to the following reasons:,"I may employ third-party companies and
+                  individuals due to the ",77.5,3006,sub,I may employ third-party companies and                  individuals due to the following reasons:,97,<third>,<error>
+To facilitate our Service;,To facilitate our Service;,100.0,3105,sub,To facilitate our Service;,26,<third>,<error>
+To provide the Service on our behalf;,To provide the Service on our behalf;,100.0,3132,sub,To provide the Service on our behalf;,37,<third>,<error>
+To perform Service-related services; or,To perform Service-related services; or,100.0,3170,sub,To perform Service-related services; or,39,<third>,<error>
+To assist us in analyzing how our Service is used.,To assist us in analyzing how our Service is used.,100.0,3210,sub,"To assist us in analyzing how our Service is used.I want to inform users of this Service                  that these third parties have access to your Personal                  Information. The reason is to perform the tasks assigned to                  them on our behalf. However, they are obligated not to                  disclose or use the information for any other purpose.",380,<third>,<error>
+"I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.","Security
+I value your trust in providing us your
+                  Personal Information, thus we are striving to use commercially
+       ",78.1021897810219,3596,sub,"SecurityI value your trust in providing us your                  Personal Information, thus we are striving to use commercially                  acceptable means of protecting it. ",180,<security>,<error>
+"But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.","But remember that no method
+                  of transmission over the internet, or method of electronic
+                  storage is 100% secure and reliable, and I can",78.69822485207101,3779,sub,"But remember that no method                  of transmission over the internet, or method of electronic                  storage is 100% secure and reliable, and I cannot                  guarantee its absolute security.",220,<security>,<error>
+Links to Other Sites,Links to Other Sites,100.0,4003,main,Links to Other Sites,20,<not>,<error>
+This Service may contain links to other sites.,This Service may contain links to other sites.,100.0,4024,sub,This Service may contain links to other sites. If you click on  ,64,<not>,<error>
+"If you click on a third-party link, you will be directed to that site.","                a third-party link, you will be directed to that site.",82.85714285714285,4089,sub,"                a third-party link, you will be directed to that site. Note             ",88,<not>,<error>
+Note that these external sites are not operated by me.,     that these external sites are not operated by me.,92.5925925925926,4178,sub,"     that these external sites are not operated by me.                  Therefore, I strongly advise you to review the                  Privacy Policy of these websites. I have                  no control over and assume no responsibility for the content,                  privacy policies, or practices of any third-party sites or                  services.",358,<not>,<error>
+Children’s Privacy,Children’s Privacy,100.0,4542,main,Children’s Privacy,18,<audience>,<error>
+These Services do not address anyone under the age of 13.,These Services do not address anyone under the age of 13.,100.0,4561,sub,These Services do not address anyone under the age of 13.                  ,75,<audience>,<error>
+I do not knowingly collect personally identifiable information from children under 13.,"I do not knowingly collect personally
+                  identifiable information from ",79.06976744186046,4637,sub,"I do not knowingly collect personally                  identifiable information from children under 13. In the case                  I discover that a child under 13 has provided                  me with personal information, I immediately                  delete this from our servers. If you are a parent or guardian                  and you are aware that your child has provided us with                  personal information, please contact me so that                  I will be able to do necessary actions.",512,<audience>,<error>
+Changes to This Privacy Policy,Changes to This Privacy Policy,100.0,5157,main,Changes to This Priva,21,<change>,<error>
+I may update our Privacy Policy from time to time.,"cy Policy
+I may update our Privacy Policy from
+   ",78.0,5178,sub,"cy PolicyI may update our Privacy Policy from                  time to time. Thus, you are advised to review this page                  periodically for any changes. I will                  notify you of any changes by posting the new Privacy Policy on                  this page.This policy is effective as of 2020-07-12",321,<error>,<error>
+Contact Us,Contact Us,100.0,5506,main,Contact Us,10,<error>,<error>
+"If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@banaka.in.","If you have any questions or suggestions about my
+                  Privacy Policy, do not hesitate to contact me at ",84.61538461538461,5517,sub,"If you have any questions or suggestions about my                  Privacy Policy, do not hesitate to contact me at support@banaka.in.This privacy policy page was created atprivacypolicytemplate.netand modified/generated byApp Privacy Policy Generator",251,<error>,<error>

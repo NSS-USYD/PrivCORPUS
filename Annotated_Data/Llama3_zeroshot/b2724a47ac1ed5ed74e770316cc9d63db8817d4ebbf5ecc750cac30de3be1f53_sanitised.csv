@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy PolicyPrivacy Policy,28,<generic>,<error>
+This Privacy Policy Applies To,This privacy policy applies to,100.0,30,main,This privacy policy applies to the following apps by keuwlsoft:,63,<generic>,<error>
+Metronome,Metronome,100.0,94,sub,"MetronomeThis app uses the internet (android.permission.INTERNET) permission so that we can serve ads and generate a little revenue.In order to deliver the ads, we use the AdMob SDK from Google.   Please see their terms andprivacy policyfor information on any data they might collect or share.   Also seehttps://policies.google.com/technologies/partner-sitesfor a good explanation of how Google uses information from Apps.          Only ",437,<first>,<error>
+Non-personalised Ads,Non personalised ads,95.0,541,sub,Non personalised ads are shown. AdMob will serve ads from any of the Google-certified ad networks.Whilst keuwlsoft does not directly collect or store any of your personal or non-,178,<third>,<other>
+Non-personal Information,"personal information, 
+ ",83.33333333333334,720,sub,"personal information,    some anonymous analytical data (e.g. app usage, crash reports and ad effectiveness data) is available to us through ",141,<first>,<what>
+AdMob SDK,AdMob and,77.77777777777779,862,sub,AdMob and/or the ,17,<third>,<how-gathered>
+Google,Google,100.0,879,sub,"Google Developer Console.In an older versions of the app (Version 1.21 and below), personalised may have been used. You can see the privacy policy for for earlier app versionshere.",180,<third>,<error>

@@ -1,0 +1,38 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+End user license agreement - General rules,End user license agreement - General rules,100.0,0,main,End user license agreement - General rulesRevision:2013-01-01-2018-04-20,72,<generic>,<error>
+1. Terms of service and user's data,1. Terms of service and user's data,100.0,77,main,1. Terms of service and user's data,35,<generic>,<why>
+1.1,1.1,100.0,113,sub,"1.1 - It is strictly forbidden to use our services in an inappropriate manner, for example by accessing them in a way not provided by FEMA Studios S.r.l.s.",155,<first>,<error>
+1.2,1.2,100.0,269,sub,1.2 - It is forbidden to insult or provoke other users in any way,65,<first>,<error>
+1.3,1.3,100.0,335,sub,"1.3 - It is strictly forbidden to insert in our platforms copyrighted, illegal or pornographic material",103,<first>,<error>
+1.4,1.4,100.0,439,sub,1.4 - We reserve the rights to suspend the service for a user if we think it's necessary,88,<first>,<error>
+1.5,1.5,100.0,528,sub,1.5 - It is forbidden the registration to and use of our services by users under the age of 13,94,<first>,<error>
+2. Privacy,2. Privacy,100.0,623,main,2. Privacy,10,<generic>,<what>
+2.1,2.1,100.0,634,sub,2.1 - Data collected about you can be shared with our partners to enhance your user experience,94,<third>,<error>
+2.2,2.2,100.0,729,sub,"2.2 - Your data can be used for anonymous and statistical purposes, to improve our products",91,<third>,<error>
+2.3,2.3,100.0,821,sub,"2.3 - Your public information, including but not limited to your avatar and nickname, will be visible to anyone (both registered and anonymous users)",149,<third>,<error>
+2.4,2.4,100.0,971,sub,2.4 - You could receive emails about our latest updates and products only if you explicitly allowed it,102,<third>,<error>
+2.5,2.5,100.0,1074,sub,"2.5 - You may receive emails of important notices regarding your account, including but not limited to: password change, email change, email verification link. These emails cannot be disabled",191,<third>,<error>
+3. Our rights,3. Our rights,100.0,1266,main,3. Our rights,13,<generic>,<other>
+3.1,3.1,100.0,1280,sub,"3.1 - As service providers, we reserve the right to delete or alter, even without notice or reason, any account, data or service",128,<first>,<error>
+3.2,3.2,100.0,1409,sub,"3.2 - If you violate this Terms of Service in any part, the civil, legal and criminal liability will fall back to the user. We are not responsible for the content inserted by our users",184,<first>,<error>
+4. Limitation of Liability,4. Limitation of Liability,100.0,1594,main,4. Limitation of Liability,26,<generic>,<how-used>
+4.1,4.1,100.0,1621,sub,"4.1 - Your data will be stored in our servers and, during transmission, will be crypted using the HTTPS protocol. We are not responsible for any theft, loss or tampering of said data",182,<first>,<error>
+4.2,4.2,100.0,1804,sub,"4.2 - Our services and products are provided «as is». This means that we don't guarantee their correctness, reliability, availability nor their ability to meet user needs",170,<first>,<error>
+5. Other information,5. Other information,100.0,1975,main,5. Other information,20,<generic>,<other>
+5.1,5.1,100.0,1996,sub,"5.1 - To be able to use our services, you need to read and accept these terms in every part. Therefore it is duty and responsibility of the user to review this agreement",169,<first>,<error>
+5.2,5.2,100.0,2166,sub,5.2 - FEMA Studios S.r.l.s. may apply changes to these terms: it's a right and responsibility of the user to consult it periodically,132,<first>,<error>
+5.3,5.3,100.0,2299,sub,"5.3 - You understand and agree that if you use the service after the date on which these Terms have changed, FEMA Studios S.r.l.s. will treat your use as acceptance of the updated terms",185,<first>,<error>
+5.4,5.4,100.0,2485,sub,5.4 - All the terms come into force at the time of publication and are considered retroactive,93,<first>,<error>
+5.5,5.5,100.0,2579,sub,"5.5 - You cannot yield, completely or in part, directly or indirectly, the rights and responsibility derived by these terms",123,<first>,<error>
+5.6,5.6,100.0,2703,sub,"5.6 - This is only a translation of the original terms in Italian. By accepting these terms, you accept also the original Italian terms, available athttps://users.femastudios.com/tos?locales=it",193,<first>,<error>
+"End user license agreement - ""Everyfad"" service","End user license agreement - ""Everyfad"" service",100.0,2898,main,"End user license agreement - ""Everyfad"" serviceRevision:2013-01-01-2018-04-20",77,<generic>,<error>
+1. Privacy,1. Privacy,100.0,2980,main,1. Privacy,10,<first>,<error>
+1.1,1.1,100.0,2991,sub,"1.1 - All data you produce, included but not limited to TV shows and movies in your collection and watched episodes/movies, can be used to enhance and personalize your user experience and to improve the quality of the service",225,<first>,<error>
+1.2,1.2,100.0,3217,sub,"1.2 - Some information you enter, including but not limited to posts, comments, surveys and reviews, will be public and visible to anyone (both registered and anonymous users)",175,<first>,<error>
+2. General Terms of Service,2. General Terms of Service,100.0,3393,main,2. General Terms of Service,27,<generic>,<other>
+2.1,2.1,100.0,3421,sub,"2.1 - To use this service, it is also necessary to read and accept the General Terms of Service",95,<first>,<error>
+2.2,2.2,100.0,3517,sub,"2.2 - By accepting this terms, FEMA Studios S.r.l.s. will consider accepted also the General Terms of Service",109,<first>,<error>
+3. Other informations,3. Other informations,100.0,3627,main,3. Other informations,21,<generic>,<how-gathered>
+3.1,3.1,100.0,3649,sub,"3.1 - To be able to use our services, you need to read and accept these terms in every part. Therefore it is duty and responsibility of the user to review this agreement",169,<first>,<error>
+3.2,3.2,100.0,3819,sub,"3.2 - FEMA Studios S.r.l.s. may apply changes to these terms: it's a right and responsibility of the user to consult it periodically3.3 - You understand and agree that if you use the service after the date on which these Terms have changed, FEMA Studios S.r.l.s. will treat your use as acceptance of the updated terms3.4 - All the terms come into force at the time of publication and are considered retroactive",410,<first>,<error>
+3.2,3.2,100.0,3819,sub,"3.5 - You cannot yield, completely or in part, directly or indirectly, the rights and responsibility derived by these terms3.1 - This is only a translation of the original terms in Italian. By accepting these terms, you accept also the original Italian terms, available onhttps://users.femastudios.com/tos?locales=it&service=everyfad",333,<first>,<error>

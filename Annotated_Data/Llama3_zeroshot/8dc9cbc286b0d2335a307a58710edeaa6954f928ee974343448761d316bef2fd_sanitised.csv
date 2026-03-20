@@ -1,0 +1,41 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy,Privacy,100.0,0,main,"PrivacyTo give you the best possible experience, this site uses cookies. Review ourPrivacy Policyand",100,<error>,<error>
+Terms of Service,Terms of Service,100.0,104,main,Terms of Serviceto learn more.Got it!Choose languageUpgradeSettingsProfileHelp/FAQTerms of Service,98,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,211,main,Privacy Policy,14,<generic>,<error>
+Advertise with us,Advertise with us,100.0,226,main,Advertise with us,17,<third>,<error>
+Contact us,Contact us,100.0,244,main,Contact us,10,<contact>,<error>
+Logout,Logout,100.0,255,main,Logout,6,<access>,<error>
+Login,Login,100.0,262,main,Login,5,<access>,<error>
+Accessibility,Accessibility,100.0,268,main,AccessibilityChoose languageUpgradeSettingsProfileHelp/FAQTerms of ServicePrivacy PolicyAdvertise with usContact usLogoutLoginAccessibility××▾,142,<audience>,<error>
+Discover,Discover,100.0,426,main,Discover▾,9,<generic>,<error>
+Subscriptions,Subscriptions,100.0,437,main,Subscriptions▾,14,<generic>,<error>
+Playlists,Playlists,100.0,453,main,Playlists××▾Discover,20,<generic>,<error>
+Signup,Signup,100.0,478,main,SignupLoginENUpgrade×Choose languageUpgradeSettingsProfileHelp/FAQTerms of ServicePrivacy PolicyAdvertise with usContact usLogoutLoginAccessibility,147,<first>,<error>
+Log in,Log in,100.0,642,main,Log inSign up×,14,<access>,<error>
+Partners,Partners,100.0,659,main,Partners,8,<third>,<error>
+Get Premium,Get Premium,100.0,668,main,Get Premium,11,<first>,<error>
+Log in,Log in,100.0,680,main,Log in,6,<access>,<error>
+Sign up,Sign up,100.0,687,main,Sign up,7,<access>,<error>
+Search,Search,100.0,695,main,Searcha title or topicPrivacy PolicyRelated:Terms of ServiceRedirecting...,74,<first>,<error>
+Quick Reference Guide,Quick Reference Guide,100.0,775,main,Quick Reference Guide,21,<generic>,<error>
+Top Podcasts,Top Podcasts,100.0,797,main,Top PodcastsThe Bill Simmons PodcastPTIFirst TakeMarketplaceComedy of the WeekAdam Carolla ShowHow Did This Get Made?Doug Loves MoviesPlanet MoneyTED Talks DailyNBC Nightly News with Lester HoltThe World This HourDaily Boost Motivation and CoachingRadiolabScience FridayThis American LifeCriminalSword and ScaleIn The DarkContact us|,333,<generic>,<error>
+Help/FAQ,Help/FAQ,100.0,1152,main,Help/FAQ|,9,<access>,<error>
+Upgrade,Upgrade,100.0,1163,main,Upgrade|,8,<first>,<error>
+Advertise,Advertise,100.0,1173,main,Advertise,9,<third>,<error>
+Arts,Arts,100.0,1183,main,Arts|,5,<generic>,<error>
+Business,Business,100.0,1190,main,Business|,9,<generic>,<error>
+Comedy,Comedy,100.0,1201,main,Comedy|,7,<generic>,<error>
+Economics,Economics,100.0,1210,main,Economics|,10,<generic>,<error>
+Entertainment,Entertainment,100.0,1222,main,Entertainment|,14,<generic>,<error>
+News,News,100.0,1238,main,News|,5,<generic>,<error>
+Politics,Politics,100.0,1245,main,Politics|,9,<generic>,<error>
+Religion,Religion,100.0,1256,main,Religion,8,<generic>,<error>
+Science,Science,100.0,1265,main,Science|,8,<generic>,<error>
+Soccer,Soccer,100.0,1275,main,Soccer|,7,<generic>,<error>
+Sports,Sports,100.0,1284,main,Sports|,7,<generic>,<error>
+Storytelling,Storytelling,100.0,1293,main,Storytelling|,13,<generic>,<error>
+Technology,Technology,100.0,1308,main,Technology|,11,<generic>,<error>
+True Crime,True Crime,100.0,1321,main,True Crime,10,<generic>,<error>
+Copyright,Copyright,100.0,1332,main,Copyright 2023|,15,<first>,<error>
+Sitemap,Sitemap,100.0,1349,main,Sitemap|Privacy Policy|,23,<generic>,<error>
+Terms of Service,Terms of Service,100.0,1376,main,Terms of Service||Copyrightx1SpeedSeries settings1x1xVolume100%/View Player FM in...Player FMOpenBrowserChromeSafariFirefoxContinue<% _(superChannels).chain().sortBy(function(c) { return } ).each(function(superchan) { %>    <% inclusion = superchan.findInclusion(subChannel.id) %>' id='<%= superchan.id %>'><% checkedStr = inclusion ? 'checked=checked' : '' %>/><%= superchan.title %>Public:/>Content source:/><% }); %>,419,<first>,<error>

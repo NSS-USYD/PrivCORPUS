@@ -1,0 +1,4 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,HomePhoto Frame Apps,20,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,22,main,Privacy Policy.1. This app will need permision of Camera to allow user to take photos and save in app.2. This app will modify and read the content of,149,<error>,<error>
+2.2 SD Card Access, SD card for acces,77.77777777777779,173,sub," SD card for access photos, media and files.3. This photo frame contains Advertisement.",87,<first>,<error>

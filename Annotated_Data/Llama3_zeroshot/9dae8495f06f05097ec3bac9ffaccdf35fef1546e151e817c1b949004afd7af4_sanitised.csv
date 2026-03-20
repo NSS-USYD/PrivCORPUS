@@ -1,0 +1,10 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Framelapse - PrivacySearch this siteSkip to main contentSkip to navigationFramelapseHomeGuideFAQStorageVideosPrivacyFramelapseHomeGuideFAQStorageVideosPrivacyMoreHomeGuideFAQStorageVideosPrivacy,194,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,219,main,Privacy Policy,14,<generic>,<error>
+Base permissions,Base permissions,100.0,234,main,Base permissions,16,<generic>,<error>
+Framelapse,Framelapse,100.0,251,main,"Framelapse App hastwovariants, latest one called ""Framelapse"" (contains all legacy pro features too) and older ""Framelapse Pro (legacy)"" .Both versions might request following as per need:",188,<error>,<error>
+Camera,Camera,100.0,443,main,Camera- To capture time lapse footage.,38,<first>,<error>
+Storage,Storage,100.0,483,main,"Storage- To store recorded time lapse videos on users device.Framelapse: Timelapse Camera(Latest Version)Requestsbothbase permissionstill Android 10.For Android 11+only camerais requested, storage permission not needed as it only writes to own app folder (visible in Gallery).Nointernetpermission requestedand thus,no user data is collected by the app itself. The app is designed taking absolute user privacy in mind.",417,<first>,<error>
+Framelapse Pro (legacy),"Framelapse Pro
+(Legacy)",95.65217391304348,919,main,Framelapse Pro(Legacy)requests only the ,40,<first>,<error>
+Base permissions,base permissions,100.0,961,main,base permissionsfor all Android versions.© Neximo LabsReport abuseGoogle SitesReport abuse,90,<first>,<error>

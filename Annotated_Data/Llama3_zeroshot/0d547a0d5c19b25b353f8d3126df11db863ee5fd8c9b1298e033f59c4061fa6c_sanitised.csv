@@ -1,0 +1,17 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Privacy Policy | Hornet, the Queer Social NetworkAdvertiseStories",65,<error>,<error>
+About,About,100.0,68,main,AboutContributeLog inToggle Menu,32,<error>,<error>
+About Hornet - Redefining the Queer App,About Hornet - Redefining the Queer App,100.0,104,sub,About Hornet - Redefining the Queer App,39,<generic>,<other>
+News,News,100.0,144,sub,NewsAdvertiseAbout UsLeadership Team,36,<generic>,<other>
+Advertising and Brand Partnership,Advertising and Brand Partnership,100.0,184,sub,Advertising and Brand Partnership,33,<generic>,<other>
+Board Of Advisors,Board Of Advisors,100.0,218,sub,Board Of Advisors,17,<generic>,<other>
+Investors,Investors,100.0,236,sub,Investors,9,<generic>,<other>
+Board Of Directors,Board Of Directors,100.0,246,sub,Board Of Directors,18,<generic>,<other>
+Support,Support,100.0,265,sub,Support,7,<generic>,<other>
+Jobs,Jobs,100.0,273,sub,Jobs,4,<generic>,<other>
+Know Your Status,Know Your Status,100.0,278,sub,Know Your Status,16,<generic>,<other>
+Guidelines,Guidelines,100.0,295,sub,Guidelines,10,<generic>,<other>
+Terms of Service,Terms of Service,100.0,306,sub,Terms of Service,16,<generic>,<other>
+Privacy Policy,Privacy Policy,100.0,323,sub,Privacy PolicyNewsAdvertise,27,<generic>,<error>
+Company,Company,100.0,353,sub,"CompanyJobsPrivacy Policy© HORNET NETWORKS LTD., ALL RIGHTS RESERVED.SupportJobsKnow Your StatusGuidelinesTerms of ServicePrivacy Policy",136,<generic>,<other>
+Safety Pledge,Safety Pledge,100.0,499,sub,Safety Pledgev:75.2.3; GO:; AV: ; curLoc: en;,45,<generic>,<other>

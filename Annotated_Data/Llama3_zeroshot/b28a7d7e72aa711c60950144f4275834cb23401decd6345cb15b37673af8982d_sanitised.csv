@@ -1,0 +1,28 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Sites in VR - ,14,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,14,main,Privacy PolicyPrivacy Policy,28,<generic>,<error>
+Personal Data,Personal Data,100.0,44,main,Personal Data,13,<generic>,<error>
+"We do not collect any personal data (like your name, address, phone number, etc.)","We do not collect any personal data (like your name, address, phone number, etc.)",100.0,58,sub,"We do not collect any personal data (like your name, address, phone number, etc.).",82,<first>,<error>
+Non-Personal Data,Non-Personal Data,100.0,141,main,Non-Personal Data,17,<first>,<error>
+The 'Sites in VR' app may collect non personal data like your devices hardware properties or in app choices like the chosen VR viewer.,The 'Sites in VR' app may collect non personal data like your devices hardware properties or in app choices like the chosen VR viewer.,100.0,159,sub,The 'Sites in VR' app may collect non personal data like your devices hardware properties or in app choices like the chosen VR viewer.,134,<first>,<error>
+This information is used for driving statistics that will be in turn used to improve the app.,This information is used for driving statistics that will be in turn used to improve the app.,100.0,294,sub,This information is used for driving statistics that will be in turn used to improve the app.,93,<first>,<error>
+We will not use this data to identify you in any way.,We will not use this data to identify you in any way.,100.0,388,sub,We will not use this data to identify you in any way.,53,<first>,<error>
+This data will not be disclosed to third parties.,This data will not be disclosed to third parties.,100.0,442,sub,This data will not be disclosed to third parties.,49,<first>,<error>
+What is the camera used for?,What is the camera used for?,100.0,492,main,What is the camera used for?,28,<third>,<error>
+The 'Sites in VR' app uses the camera only to scan a QR code with which the user can configure a VR viewer.,The 'Sites in VR' app uses the camera only to scan a QR code with which the user can configure a VR viewer.,100.0,521,sub,The 'Sites in VR' app uses the camera only to scan a QR code with which the user can configure a VR viewer.,107,<first>,<error>
+There is no other information extracted from the camera images other than the QR code.,There is no other information extracted from the camera images other than the QR code.,100.0,629,sub,There is no other information extracted from the camera images other than the QR code.,86,<first>,<error>
+The camera images are not stored or shared in any way.,The camera images are not stored or shared in any way.,100.0,716,sub,The camera images are not stored or shared in any way.,54,<first>,<error>
+Are there other sources that collect data?,Are there other sources that collect data?,100.0,771,main,Are there other sources that collect data?,42,<third>,<error>
+"This website uses Google Analytics for driving statistcs, please see their Privacy Policy for more details.","This website uses Google Analytics for driving statistcs, please see their
+Privacy Policy
+for more details.",98.13084112149532,814,sub,"This website uses Google Analytics for driving statistcs, please see theirPrivacy Policyfor more details.",105,<third>,<error>
+The 'Sites in VR' app has no thirt party componets that collect data.,The 'Sites in VR' app has no thirt party componets that collect data.,100.0,922,sub,The 'Sites in VR' app has no thirt party componets that collect data.,69,<not>,<error>
+Changes,Changes,100.0,992,main,Changes,7,<change>,<error>
+This Privacy Policy may be updated from time to time for any reason.,This Privacy Policy may be updated from time to time for any reason.,100.0,1000,sub,This Privacy Policy may be updated from time to time for any reason.,68,<change>,<error>
+"As we do not collect any personal information, including your contact information, we cannot personally inform you of any changes made.","As we do not collect any personal information, including your contact information, 
+we cannot personally inform you of any changes made",99.25925925925925,1069,sub,"As we do not collect any personal information, including your contact information, we cannot personally inform you of any changes made.",135,<change>,<error>
+"However, if you wish to be informed of any future changes, you can send us your e-mail address using the contact infromation below.","However, if you wish to be informed of any future changes, you can send us your e-mail address using the contact infromation below.",100.0,1206,sub,"However, if you wish to be informed of any future changes, you can send us your e-mail address using the contact infromation below.",131,<change>,<error>
+Contact us,Contact us,100.0,1338,main,Contact us,10,<contact>,<error>
+"If you have any questions regarding privacy, or have questions about our practices, please contact us via email at 3dmekanlar@gmail.com.","
+If you have any questions regarding privacy, or have questions about our practices, please contact us via email at
+3dmekanlar@gmail.com",98.52941176470588,1348,sub,"If you have any questions regarding privacy, or have questions about our practices, please contact us via email at3dmekanlar@gmail.com.",135,<contact>,<error>

@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Email - fast mailSearch this siteSkip to main contentSkip to navigationEmail - fast mail,88,<error>,<error>
+Privacy Policy,Privacy policy,100.0,93,main,"Privacy policyEmail client personal informationEmail clientapp with your privacy in mind, so we do not collect personally identifiable information about you. Sensitive user information is only used to perform the basic functionality of the app, sending and receiving email. Mail does not automatically collect and send data to the developers of the app or any third pa",368,<error>,<error>
+Explainations for Permission Requests,"rty.
+Explains for permission requests",86.48648648648648,464,sub,"rty.Explains for permission requestsinEmail client, I request a sensitive permission to make functions of application work properly :android.permission.CAMERA :to take photo, video and send to your friendsRead/modify your ContactsThe names and email addresses in the user’s address book (contacts) are used to provide suggestions and auto-complete recipients when composing a message.Read from/write to Storage (Photos/Media/Files)",431,<generic>,<why>
+Explainations for Permission Requests,"rty.
+Explains for permission requests",86.48648648648648,464,sub,The storage area is used to save attachments or export app settings. It can also be used to import app settings or select files to attach to a message the user is composing.,173,<generic>,<why>
+Report Abuse,Report abuse,100.0,1079,sub,Report abuseGoogle SitesReport abuse,36,<choice>,<other>

@@ -1,0 +1,63 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Privacy PolicySkip to main contentSearch This BlogFungame1836Privacy PolicyGet linkFacebookTwitterPinterestEmailOther AppsSeptember 29, 2018This privacy policy is applicable to our all games.*",192,<error>,<error>
+Personal Information:,Personal Information:,100.0,205,main,Personal Information:,21,<generic>,<error>
+What personal information do we collect.,What personal information do we collect.,100.0,227,sub,What personal information do we collect.- ,42,<first>,<error>
+"We DO NOT collect your name, location, phone number or any other information.","We DO NOT collect your name, location, phone number or any other information.",100.0,270,sub,"We DO NOT collect your name, location, phone number or any other information.- ",79,<first>,<error>
+"We use ad network but We DO NOT collect your device id via Admob, adcolony a third party analytics tool.","we use ad network but We DO NOT collect your device id via Admob, adcolony a third party analytics tool.",100.0,350,sub,"we use ad network but We DO NOT collect your device id via Admob, adcolony a third party analytics tool.- ",106,<third>,<error>
+User's device id is required in order to know how many users use any given feature in our app.,User's device id is required in order to know how many users use any given feature in our app.,100.0,457,sub,User's device id is required in order to know how many users use any given feature in our app. ,95,<first>,<error>
+This helps us to make our apps more user-friendly.,This helps us to make our apps more user-friendly.,100.0,552,sub,This helps us to make our apps more user-friendly.- ,52,<first>,<error>
+"To make sure Admob, adcolony DOES NOT use your device id for any behavioral advertising of its own.","To make sure Admob, adcolony DOES NOT use your device id for any behavioral advertising of its own.",100.0,605,sub,"To make sure Admob, adcolony DOES NOT use your device id for any behavioral advertising of its own.-",100,<third>,<error>
+We Include Ads is just because we can earn from them and then make a more creative games from them.,We Include Ads is just because we can earn from them and then make a more creative games from them.,100.0,706,sub,We Include Ads is just because we can earn from them and then make a more creative games from them.=>,101,<first>,<error>
+EU user policy:,EU user  policy,93.33333333333333,808,main,EU user  policy-,16,<region>,<error>
+"As part of Google’s commitment to complying with the General Data Protection Regulation (GDPR), we provide some of ad technology providers to serve and measure ads in the European Economic Area (EEA), to support ad delivery, ad measurement, and other functions.","As part of Google’s commitment to complying with the General Data Protection Regulation (GDPR), we provide some of ad technology providers to serve and measure ads in the European Economic Area (EEA), to support ad delivery, ad measurement, and other functions.",100.0,825,sub,"As part of Google’s commitment to complying with the General Data Protection Regulation (GDPR), we provide some of ad technology providers to serve and measure ads in the European Economic Area (EEA), to support ad delivery, ad measurement, and other functions.-",262,<first>,<error>
+We have listed the certified ad providers below. and also their privacy policy url give.,we have listed the certified ad providers below. and also their privacy policy url give.,100.0,1088,sub,we have listed the certified ad providers below. and also their privacy policy url give.,88,<third>,<error>
+Ad Technology Provider,Ad Technology Provider,100.0,1177,main,Ad Technology Provider,22,<generic>,<error>
+PRIVACY POLICY URL,PRIVACY POLICY URL,100.0,1200,sub,PRIVACY POLICY URL,18,<not>,<error>
+Integral Ad Science,Integral Ad Science,100.0,1219,sub,Integral Ad Science,19,<error>,<error>
+http://www.integralads.com/privacy-policy,http://www.integralads.com/privacy-policy,100.0,1239,sub,http://www.integralads.com/privacy-policy,41,<error>,<error>
+Criteo,Criteo,100.0,1281,sub,Criteo,6,<error>,<error>
+https://www.criteo.com/privacy,https://www.criteo.com/privacy,100.0,1288,sub,https://www.criteo.com/privacy,30,<error>,<error>
+Kochava,Kochava,100.0,1319,sub,Kochava,7,<error>,<error>
+https://www.kochava.com/support-privacy/,https://www.kochava.com/support-privacy/,100.0,1327,sub,https://www.kochava.com/support-privacy/,40,<error>,<error>
+Fractional Media,Fractional Media,100.0,1368,sub,Fractional Media,16,<error>,<error>
+https://www.fractionalmedia.com/privacy-policy,https://www.fractionalmedia.com/privacy-policy,100.0,1385,sub,https://www.fractionalmedia.com/privacy-policy,46,<error>,<error>
+Neuralone,Neuralone,100.0,1432,sub,Neuralone,9,<error>,<error>
+https://web.neural.one/privacy-policy/,https://web.neural.one/privacy-policy/,100.0,1442,sub,https://web.neural.one/privacy-policy/,38,<error>,<error>
+Aarki,Aarki,100.0,1481,sub,Aarki,5,<error>,<error>
+http://corp.aarki.com/privacy,http://corp.aarki.com/privacy,100.0,1487,sub,http://corp.aarki.com/privacy,29,<error>,<error>
+Beeswax,Beeswax,100.0,1517,sub,Beeswax,7,<error>,<error>
+https://www.beeswax.com/privacy.html,https://www.beeswax.com/privacy.html,100.0,1525,sub,https://www.beeswax.com/privacy.html,36,<error>,<error>
+AppNexus,AppNexus,100.0,1562,sub,AppNexus,8,<error>,<error>
+https://www.appnexus.com/en/company/platform-privacy-policy,https://www.appnexus.com/en/company/platform-privacy-policy,100.0,1571,sub,https://www.appnexus.com/en/company/platform-privacy-policy,59,<error>,<error>
+SpotX,SpotX,100.0,1631,sub,SpotX,5,<error>,<error>
+https://www.spotx.tv/privacy-policy/,https://www.spotx.tv/privacy-policy/,100.0,1637,sub,https://www.spotx.tv/privacy-policy/,36,<error>,<error>
+Oath,Oath,100.0,1674,sub,Oath,4,<error>,<error>
+https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/,https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/,100.0,1679,sub,https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/,73,<error>,<error>
+Manage.com,Manage.com,100.0,1753,sub,Manage.com,10,<error>,<error>
+https://www.manage.com/privacy-policy/,https://www.manage.com/privacy-policy/,100.0,1764,sub,https://www.manage.com/privacy-policy/,38,<error>,<error>
+Smart,Smart,100.0,1803,sub,Smart,5,<error>,<error>
+http://smartadserver.com/company/privacy-policy/,http://smartadserver.com/company/privacy-policy/,100.0,1809,sub,http://smartadserver.com/company/privacy-policy/,48,<error>,<error>
+Sizmek,Sizmek,100.0,1858,sub,Sizmek,6,<error>,<error>
+https://www.sizmek.com/privacy-policy/,https://www.sizmek.com/privacy-policy/,100.0,1865,sub,https://www.sizmek.com/privacy-policy/,38,<error>,<error>
+Adobe Advertising Cloud,Adobe Advertising Cloud,100.0,1904,sub,Adobe Advertising Cloud,23,<error>,<error>
+https://www.adobe.com/privacy/general-data-protection-regulation.html,https://www.adobe.com/privacy/general-data-protection-regulation.html,100.0,1928,sub,https://www.adobe.com/privacy/general-data-protection-regulation.html,69,<error>,<error>
+Liftoff,Liftoff,100.0,1998,sub,Liftoff,7,<error>,<error>
+https://liftoff.io/privacy-policy/,https://liftoff.io/privacy-policy/,100.0,2006,sub,https://liftoff.io/privacy-policy/,34,<error>,<error>
+Evidon,Evidon,100.0,2041,sub,Evidon,6,<error>,<error>
+https://www.evidon.com/resources/privacy-statement/,https://www.evidon.com/resources/privacy-statement/,100.0,2048,sub,https://www.evidon.com/resources/privacy-statement/,51,<error>,<error>
+Amazon,Amazon,100.0,2100,sub,Amazon,6,<error>,<error>
+https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010,https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010,100.0,2107,sub,https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010,71,<error>,<error>
+StreamRail,StreamRail,100.0,2179,sub,StreamRail,10,<error>,<error>
+https://www.ironsrc.com/wp-content/uploads/2016/11/ironSourceDisplayPrivacyPolicy.pdf,https://www.ironsrc.com/wp-content/uploads/2016/11/ironSourceDisplayPrivacyPolicy.pdf,100.0,2190,sub,https://www.ironsrc.com/wp-content/uploads/2016/11/ironSourceDisplayPrivacyPolicy.pdf,85,<error>,<error>
+Flashtalking,Flashtalking,100.0,2276,sub,Flashtalking,12,<error>,<error>
+http://www.flashtalking.com/first-party-ad-serving/,http://www.flashtalking.com/first-party-ad-serving/,100.0,2289,sub,http://www.flashtalking.com/first-party-ad-serving/,51,<error>,<error>
+TreSensa,TreSensa,100.0,2341,sub,TreSensa,8,<error>,<error>
+http://tresensa.com/eu-privacy/index.html,http://tresensa.com/eu-privacy/index.html,100.0,2350,sub,http://tresensa.com/eu-privacy/index.html,41,<error>,<error>
+Bannerflow,Bannerflow,100.0,2392,sub,Bannerflow,10,<error>,<error>
+https://www.bannerflow.com/privacy,https://www.bannerflow.com/privacy,100.0,2403,sub,https://www.bannerflow.com/privacy,34,<error>,<error>
+The Trade Desk,The Trade Desk,100.0,2438,sub,The Trade Desk,14,<error>,<error>
+https://www.thetradedesk.com/general/privacy-policy,https://www.thetradedesk.com/general/privacy-policy,100.0,2453,sub,https://www.thetradedesk.com/general/privacy-policy,51,<error>,<error>
+TrustArc,TrustArc,100.0,2505,sub,TrustArc,8,<error>,<error>
+https://www.trustarc.com/privacy-policy/,https://www.trustarc.com/privacy-policy/,100.0,2514,sub,https://www.trustarc.com/privacy-policy/,40,<error>,<error>
+Nielsen,Nielsen,100.0,2555,sub,"Nielsenhttp://www.nielsen.com/us/en/privacy-statement/digital-measurement.html=>ChangesFun Games Studio reserves the right to change, alter, or update this Privacy Statement at any time. As a result, we encourage you to review this privacy statement periodically to track changes.=>Contact UsIf you have any questions or concerns regarding this Privacy Policy, please send us an email at fungame1836@gmail.com .Get linkFacebookTwitterPinterestEmailOther AppsPowered by BloggerTheme images byMichael Elkan",504,<error>,<error>
+Nielsen,Nielsen,100.0,2555,sub,Fun Game StudioVisit profileArchiveSeptember 20181Report Abuse,62,<error>,<error>

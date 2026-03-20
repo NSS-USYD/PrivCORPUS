@@ -1,0 +1,10 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Difuminator - ,14,<error>,<error>
+Privacy policy,Privacy policy,100.0,14,main,"Privacy policyPrivacy policyPlease read this privacy policy carefully. By using the ""Difuminator"" app you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all of the terms and conditions set forth below, you may not use this app.",322,<error>,<error>
+What information we collect,What information we collect,100.0,339,main,What information we collectSome information may be collected by AdMob for advertising purposes (Google Privacy & Terms).,120,<first>,<error>
+Requested permissions of Android device,Requested permissions of Android device,100.0,463,main,Requested permissions of Android device,39,<first>,<error>
+Camera,Camera,100.0,503,sub,Camera:used to allow the user edit a picture taken from the device camera.,74,<error>,<error>
+Read external storage,Read external storage,100.0,579,sub,Read external storage:used to allow the user edit a picture chosen from the device photo gallery.,97,<error>,<error>
+Read from Google Photos,Read from Google Photos,100.0,678,sub,Read from Google Photos:used to allow the user select a picture from Google Photos.,83,<error>,<error>
+Write external storage,Write external storage,100.0,763,sub,Write external storage:used to save edited photos by the user.,62,<error>,<error>
+Internet,Internet,100.0,827,sub,Internet:used by AdMob for advertising.,39,<error>,<error>

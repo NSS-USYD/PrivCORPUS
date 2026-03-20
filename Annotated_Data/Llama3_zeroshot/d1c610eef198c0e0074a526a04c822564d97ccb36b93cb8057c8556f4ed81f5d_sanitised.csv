@@ -1,0 +1,12 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,QR code readerSearch this siteSkip to main contentSkip to navigationQR code readerQR code reader ,97,<error>,<error>
+Privacy policy,Privacy policy,100.0,102,main,Privacy policy,14,<generic>,<error>
+Personal information,Personal information,100.0,117,main,"Personal informationQr code reader with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not use your camera.",172,<first>,<error>
+Permission requests:,Permission requests:,100.0,291,main,"Permission requests:In Qr code reader, the app requests some sensitive permissions to make functions of application work properly:permission ",141,<first>,<error>
+CAMERA,CAMERA,100.0,434,sub,"CAMERA: To take picture to decode QR code and barcode, this is main feature of the app.permission ",98,<error>,<error>
+"READ_CONTACTS, LOCATION","READ_CONTACTS, LOCATION",100.0,534,sub,"READ_CONTACTS, LOCATION :To make/generator a QR code for your contact, location.permissio",89,<error>,<error>
+P PHOTO,n PHOTO,85.71428571428572,625,sub,n PHOTO:Get photo to read QR code from your device.,51,<error>,<error>
+The App,The App,100.0,678,main,The App,7,<first>,<error>
+DOES NOT,DOES NOT,100.0,686,sub,DOES NOTcollect your any information.,37,<error>,<error>
+Google Sites,Google Sites,100.0,725,main,Google Sites,12,<third>,<error>
+Report abuse,Report abuse,100.0,738,sub,Report abuseGoogle SitesReport abuse,36,<first>,<other>

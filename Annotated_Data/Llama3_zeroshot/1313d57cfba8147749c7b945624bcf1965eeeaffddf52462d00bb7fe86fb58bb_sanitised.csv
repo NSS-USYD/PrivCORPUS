@@ -1,0 +1,52 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+INTERNAL FEEDBACK,INTERNAL FEEDBACK,100.0,0,main,INTERNAL FEEDBACK,17,<generic>,<error>
+SAVE MORE ON APP,SAVE MORE ON APP,100.0,18,main,SAVE MORE ON APPDownload the App for the best experienceShop through our app to enjoy:Exclusive VouchersBetter dealsPersonalised recommendationsFind out firstSuccess! Please check your phone for the download linksell on lazada,226,<generic>,<error>
+CUSTOMER CARE,CUSTOMER CARE,100.0,253,main,CUSTOMER CARE,13,<generic>,<error>
+Help Center,Help Center,100.0,267,sub,Help Center,11,<generic>,<error>
+Orders & Payment,Orders & Payment,100.0,279,sub,Orders & Payment,16,<generic>,<error>
+Shipping & Delivery,Shipping & Delivery,100.0,296,sub,Shipping & Delivery,19,<generic>,<error>
+Returns & Refunds,Returns & Refunds,100.0,316,sub,Returns & Refunds,17,<generic>,<error>
+Track my order,Track my order,100.0,334,sub,"Track my orderTrack my orderYour order number:For any other inquiries,Click here",80,<generic>,<error>
+login,login,100.0,419,main,login,5,<generic>,<error>
+signup,signup,100.0,425,main,signup,6,<generic>,<error>
+Manage My Account,Manage My Account,100.0,432,main,Manage My Account,17,<generic>,<error>
+My Orders,My Orders,100.0,450,sub,My Orders,9,<generic>,<error>
+My Wishlist & Followed Stores,My Wishlist & Followed Stores,100.0,460,sub,My Wishlist & Followed Stores,29,<generic>,<error>
+My Reviews,My Reviews,100.0,490,sub,My Reviews,10,<generic>,<error>
+My Returns & Cancellations,My Returns & Cancellations,100.0,501,sub,My Returns & CancellationsLogout,32,<generic>,<error>
+Categories,Categories,100.0,535,main,Categories,10,<generic>,<error>
+Electronic Devices,Electronic Devices,100.0,546,sub,Electronic Devices,18,<generic>,<error>
+Electronic Accessories,Electronic Accessories,100.0,565,sub,Electronic Accessories,22,<generic>,<error>
+TV & Home Appliances,TV & Home Appliances,100.0,588,sub,TV & Home Appliances,20,<generic>,<error>
+Health & Beauty,Health & Beauty,100.0,609,sub,Health & Beauty,15,<generic>,<error>
+Babies & Toys,Babies & Toys,100.0,625,sub,Babies & Toys,13,<generic>,<error>
+Groceries & Pets,Groceries & Pets,100.0,639,sub,Groceries & Pets,16,<generic>,<error>
+Home & Living,Home & Living,100.0,656,sub,Home & Living,13,<generic>,<error>
+Women's Fashion & Accessories,Women's Fashion & Accessories,100.0,670,sub,Wo,2,<generic>,<error>
+Men's Fashion & Accessories,men's Fashion & Accessories,100.0,672,sub,men's Fashion & AccessoriesMen's Fashion & Accessories,54,<generic>,<error>
+Kid's Fashion & Accessories,Kid's Fashion & Accessories,100.0,728,sub,Kid's Fashion & Accessories,27,<generic>,<error>
+Sports & Lifestyle,Sports & Lifestyle,100.0,756,sub,Sports & Lifestyle,18,<generic>,<error>
+Automotive & Motorcycles,Automotive & Motorcycles,100.0,775,sub,Automotive & MotorcyclesMobilesTabletsLaptopsDesktopsSecurity CamerasAction/Video CamerasDigital CamerasGaming ConsolesGadgetsMobile AccessoriesAudioComputer AccessoriesCamera AccessoriesStoragePrintersComputer ComponentsNetwork ComponentsWearable TechnologyConsole AccessoriesTablet AccessoriesTV & Video DevicesTV AccessoriesHome AudioCooling & Air TreatmentSmall Kitchen AppliancesVacuums & Floor CareHousehold AppliancesPersonal Care AppliancesLarge AppliancesParts & AccessoriesMake-UpSkincareHair Care,507,<generic>,<error>
+Automotive & Motorcycles,Automotive & Motorcycles,100.0,775,sub,"Bath & BodyPersonal CareMen's CareFragrancesBeauty ToolsFood SupplementsMedical SuppliesSexual WellnessAdult Diapers & IncontinenceDiapering & PottyMilk Formula & Baby FoodBaby Fashion & AccessoriesFeeding EssentialsBaby GearNurseryBaby Personal CareToys & GamesElectronic & Remote Control ToysSports Toys & Outdoor PlayBaby & Toddler ToysLearning & EducationDrinksFood Staples & Cooking EssentialsChocolate, Snacks & SweetsBeer, Wine & SpiritsBreakfast Cereals & SpreadsFrozenBakeryFruit & Vegetables",501,<generic>,<error>
+Automotive & Motorcycles,Automotive & Motorcycles,100.0,775,sub,"Meat and SeafoodHousehold SuppliesPet SuppliesPet HealthcareBathBeddingFurnitureStorage & OrganisationLaundry & Cleaning EquipmentKitchen & DiningLightingHome DécorOutdoor & GardenStationery & CraftTools & Home ImprovementWomen's ClothingWomen's ShoesLingerie, Sleep & LoungeWomen's Sports ClothingWomen's Sports ShoesAccessoriesWomen's BagsWomen's WatchesWomen's JewelleryMen's ClothingMen's ShoesUnderwearMen's Sports ClothingMen's Sports ShoesAccessoriesMen's BagsMen's WatchesMen's JewelleryGirls' Clothing",510,<generic>,<error>
+Automotive & Motorcycles,Automotive & Motorcycles,100.0,775,sub,"Girls' ShoesGirls' Sports ClothingGirls' Sports ShoesBoys' ClothingBoys' ShoesBoys' Sports ClothingBoys' Sports ShoesKids' BagsKids' WatchesKids' JewelleryOutdoor RecreationSports ShoesSports ApparelExercise & Fitness EquipmentSports EquipmentTeam Merchandise/Fan ShopMusical InstrumentsBooksMusicMoviesMagazinesAutomotiveMotorcyclesVehicle CareAutomobile Sales & ReservationMotorcycle Sales & ReservationFuels - Gasoline/Petrol, DieselAutomotive Oils & FluidsMotorcycle Oils & Fluids",484,<generic>,<error>
+Load & eStore,Load & eStore,100.0,2903,main,Load & eStore,13,<generic>,<error>
+LazMall,LazMall,100.0,2917,sub,LazMall,7,<generic>,<error>
+Vouchers,Vouchers,100.0,2925,sub,VouchersCategoriesElectronic DevicesElectronic AccessoriesTV & Home AppliancesHealth & BeautyBabies & ToysGroceries & PetsHome & LivingWomen's Fashion & AccessoriesMen's Fashion & AccessoriesKid's Fashion & AccessoriesSports & LifestyleAutomotive & MotorcyclesMobilesTabletsLaptopsDesktopsSecurity CamerasAction/Video CamerasDigital CamerasGaming ConsolesGadgetsMobile AccessoriesAudioComputer AccessoriesCamera AccessoriesStoragePrintersComputer ComponentsNetwork ComponentsWearable Technology,494,<generic>,<error>
+Vouchers,Vouchers,100.0,2925,sub,Console AccessoriesTablet AccessoriesTV & Video DevicesTV AccessoriesHome AudioCooling & Air TreatmentSmall Kitchen AppliancesVacuums & Floor CareHousehold AppliancesPersonal Care AppliancesLarge AppliancesParts & AccessoriesMake-UpSkincareHair CareBath & BodyPersonal CareMen's CareFragrancesBeauty ToolsFood SupplementsMedical SuppliesSexual WellnessAdult Diapers & IncontinenceDiapering & PottyMilk Formula & Baby FoodBaby Fashion & AccessoriesFeeding EssentialsBaby GearNurseryBaby Personal CareToys & Games,511,<generic>,<error>
+Vouchers,Vouchers,100.0,2925,sub,"Electronic & Remote Control ToysSports Toys & Outdoor PlayBaby & Toddler ToysLearning & EducationDrinksFood Staples & Cooking EssentialsChocolate, Snacks & SweetsBeer, Wine & SpiritsBreakfast Cereals & SpreadsFrozenBakeryFruit & VegetablesMeat and SeafoodHousehold SuppliesPet SuppliesPet HealthcareBathBeddingFurnitureStorage & OrganisationLaundry & Cleaning EquipmentKitchen & DiningLightingHome DécorOutdoor & GardenStationery & CraftTools & Home ImprovementWomen's ClothingWomen's Shoes",490,<generic>,<error>
+Vouchers,Vouchers,100.0,2925,sub,"Lingerie, Sleep & LoungeWomen's Sports ClothingWomen's Sports ShoesAccessoriesWomen's BagsWomen's WatchesWomen's JewelleryMen's ClothingMen's ShoesUnderwearMen's Sports ClothingMen's Sports ShoesAccessoriesMen's BagsMen's WatchesMen's JewelleryGirls' ClothingGirls' ShoesGirls' Sports ClothingGirls' Sports ShoesBoys' ClothingBoys' ShoesBoys' Sports ClothingBoys' Sports ShoesKids' BagsKids' WatchesKids' JewelleryOutdoor RecreationSports ShoesSports ApparelExercise & Fitness EquipmentSports Equipment",502,<generic>,<error>
+Vouchers,Vouchers,100.0,2925,sub,"Team Merchandise/Fan ShopMusical InstrumentsBooksMusicMoviesMagazinesAutomotiveMotorcyclesVehicle CareAutomobile Sales & ReservationMotorcycle Sales & ReservationFuels - Gasoline/Petrol, DieselAutomotive Oils & FluidsMotorcycle Oils & FluidsLoad & eStoreLazMallVouchers",269,<generic>,<error>
+Lists,Lists,100.0,5333,sub,Lists,5,<generic>,<error>
+Help,Help,100.0,5339,sub,HelpCustomer CareHelp CenterHow to BuyShipping & DeliveryInternational Product PolicyHow to ReturnQuestion?Contact Us,117,<generic>,<error>
+Lazada,Lazada,100.0,5465,main,Lazada,6,<generic>,<error>
+All Categories,All Categories,100.0,5472,sub,All Categories,14,<generic>,<error>
+About Lazada,About Lazada,100.0,5487,sub,About Lazada,12,<generic>,<error>
+Afﬁliate Program,Afﬁliate Program,100.0,5500,sub,Afﬁliate Program,16,<generic>,<error>
+LAffiliate Academy,LAffiliate Academy,100.0,5517,sub,LAffiliate Academy,18,<generic>,<error>
+Careers,Careers,100.0,5536,sub,Careers,7,<generic>,<error>
+Terms & Conditions,Terms & Conditions,100.0,5544,sub,Terms & Conditions,18,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,5563,sub,Privacy Policy,14,<generic>,<error>
+Press & Media,Press & Media,100.0,5578,sub,Press & Media,13,<generic>,<error>
+Campaign Terms & Conditions,Campaign Terms & Conditions,100.0,5592,sub,Campaign Terms & Conditions,27,<generic>,<error>
+Intellectual Property Protection,Intellectual Property Protection,100.0,5620,sub,Intellectual Property ProtectionGo where your heart beatsDownload the AppPayment MethodsDelivery ServicesVerified byLazada Southeast AsiaFollow Us© Lazada 2023,159,<generic>,<error>

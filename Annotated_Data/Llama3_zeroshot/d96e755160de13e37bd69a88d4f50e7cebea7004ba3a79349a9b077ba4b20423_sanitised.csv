@@ -1,0 +1,76 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"This privacy policy governs your use of a softwareapplication (“Application”) on a mobile device that was created bySpriteFish Inc.TheApplication ""Fast Burst Camera Lite"" can shoot photos fast, up to 30photos/ec",211,<error>,<error>
+What Information Does the Application Obtain and How is it Used?,What information does the Application obtain and how is it used?,100.0,217,main,What information does the Application obtain and how is it used?,64,<generic>,<what>
+This Application will gather statistical information about how the app is used.,"This Application will gather statistical information about
+how the app is used.",98.73417721518987,282,sub,This Application will gather statistical information abouthow the app is used. ,79,<first>,<how-used>
+It will do so anonymously.,It will do so anonymously.,100.0,362,sub,It will do so anonymously. ,27,<first>,<how-used>
+"Furthermore, it will collect information in the case the app crashes or malfunctions.","Furthermore, it will collect
+information in the case the app crashes or malfunctions.",98.82352941176471,389,sub,"Furthermore, it will collectinformation in the case the app crashes or malfunctions. ",85,<first>,<how-used>
+Both these cases are used by the developer to improve the functionality of the application,"Both these cases are
+used by the developer to improve the functionality of the application",98.88888888888889,475,sub,Both these cases areused by the developer to improve the functionality of the application,89,<first>,<how-used>
+Does the Application Collect Precise Real Time Location Information of the Device?,"Does
+the Application collect precise real time location information of the device?",98.78048780487805,566,main,Doesthe Application collect precise real time location information of the device?,81,<generic>,<what>
+This Application does not collect precise information about the location of your mobile device.,"This Application does not collect precise information about
+the location of your mobile device.",98.94736842105263,649,sub,This Application does not collect precise information aboutthe location of your mobile device.,94,<first>,<what>
+Do Third Parties See and/or Have Access to Information Obtained by the Application?,"Do third parties see and/or have access to information obtained by the
+Application?",98.79518072289156,745,main,Do third parties see and/or have access to information obtained by theApplication?Yes. ,87,<third>,<what>
+We will share your information with third parties only in the ways that are described in this privacy statement.,"We will share your information with third parties only
+in the ways that are described in this privacy statement.",99.10714285714286,834,sub,"We will share your information with third parties onlyin the ways that are described in this privacy statement.We may disclose User Provided and Automatically CollectedInformation:<![if !supportLists]>·<![endif]>as required by law, such as to comply with asubpoena, or similar legal process;<![if !supportLists]>·<![endif]>when we believe in good faith that disclosure isnecessary to protect our rights, protect your safety or the safety of others,investigate fraud, or respond to agovernment request;",501,<third>,<what>
+We will share your information with third parties only in the ways that are described in this privacy statement.,"We will share your information with third parties only
+in the ways that are described in this privacy statement.",99.10714285714286,834,sub,"<![if !supportLists]>·<![endif]>with our trusted services providers who work onour behalf, do not have anindependent use of the information we disclose to them,and have agreed to adhereto the rules set forth in this privacy statement.ifSpriteFish Incisinvolved in a merger, acquisition, or sale of all or aportion of its assets, you willbe notified via email and/or a prominent notice on our Web site of any changein ownership.",427,<third>,<what>
+Automatic Data Collection and Advertising,Automatic Data Collection and Advertising,100.0,1790,main,Automatic Data Collection and Advertising,41,<generic>,<how-gathered>
+"This Application is supported via advertising, and collects data to help the Application serve ads.","This Application is supported via advertising, and collects
+data to help the Application serve ads.",98.98989898989899,1832,sub,"This Application is supported via advertising, and collectsdata to help the Application serve ads. ",99,<first>,<what>
+"We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage.","We may work with analytics companies to
+help us understand how the Application is being used, such as the frequency and
+duration of usage.",98.55072463768117,1932,sub,"We may work with analytics companies tohelp us understand how the Application is being used, such as the frequency andduration of usage.",136,<third>,<how-gathered>
+"We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application free."," We work with advertisers and third party advertising
+networks, who need to know how you interact with advertising provided in the
+Application which helps us keep the cost of the Application free",98.46153846153847,2070,sub," We work with advertisers and third party advertisingnetworks, who need to know how you interact with advertising provided in theApplication which helps us keep the cost of the Application free.Advertisers and advertising networks use some ofthe information collected by the Application, including the uniqueidentification ID of your mobile device.If you’d like to opt-out from third party use of this typeof information to help serve targeted advertising, please visit the sectionentitled “Opt-out” below.",506,<third>,<how-gathered>
+What Are My Opt-out Rights?,What are my opt-out rights?,100.0,2586,main,What are my opt-out rights?,27,<choice>,<when>
+Opt-out of all information collection by uninstalling the Application – You can stop all collection of information by the Application easily by uninstalling the Application.,"Opt-out of all information collection by uninstalling the
+Application – You can stop all collection of information by the
+Application easily by uninstalling the Application.",98.84393063583815,2614,sub,Opt-out of all information collection by uninstalling theApplication – You can stop all collection of information by theApplication easily by uninstalling the Application. ,172,<choice>,<when>
+You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.,"You may use the standard
+uninstall processes as may be available as part of your mobile device or via
+the mobile application marketplace or network.",98.64864864864865,2788,sub,You may use the standarduninstall processes as may be available as part of your mobile device or viathe mobile application marketplace or network. ,147,<choice>,<when>
+Note that the paid version of the app does not contain advertising.,"Note that the paid version of
+the app does not contain advertising.",98.50746268656717,2937,sub,Note that the paid version ofthe app does not contain advertising.,66,<not>,<other>
+Children,Children,100.0,3005,main,Children,8,<audience>,<when>
+We do not use the Application to knowingly solicit data from or market to children under the age of 13.,"We do not use the Application to knowingly solicit data from
+or market to children under the age of 13.",99.02912621359224,3014,sub,We do not use the Application to knowingly solicit data fromor market to children under the age of 13. ,103,<audience>,<when>
+"If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at support@spritefish.com.","If a parent or guardian becomes
+aware that his or her child has provided us with information without their
+consent, he or she should contact us at
+support@spritefish.com.",98.23529411764706,3118,sub,"If a parent or guardian becomesaware that his or her child has provided us with information without theirconsent, he or she should contact us atsupport@spritefish.com.We will delete such information from our files within a reasonable time.",239,<not>,<when>
+Security,Security,100.0,3362,main,Security,8,<security>,<how-gathered>
+We are concerned about safeguarding the confidentiality of your information.,"We are concerned about safeguarding
+the confidentiality of your information.",98.68421052631578,3371,sub,We are concerned about safeguardingthe confidentiality of your information. ,76,<security>,<how-gathered>
+"We provide physical, electronic, and procedural safeguards to protect information we process and maintain.","We provide physical, electronic, and
+procedural safeguards to protect information we process and maintain.",99.05660377358491,3448,sub,"We provide physical, electronic, andprocedural safeguards to protect information we process and maintain. Forexample, we limit access to this information to authorized employees andcontractors who need to know that information in order to operate, develop orimprove our Application. Please be aware that, although we endeavor to providereasonable security for information we process and maintain, no security systemcan prevent all potential security breaches.",459,<security>,<how-gathered>
+Changes,Changes,100.0,3914,main,Changes,7,<change>,<when>
+This Privacy Policy may be updated from time to time for any reason.,"This Privacy Policy may be updated from time to time for any
+reason.",98.52941176470588,3922,sub,This Privacy Policy may be updated from time to time for anyreason. ,68,<change>,<when>
+We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here www.spritefish.com,"We will notify you of any changes to our Privacy Policy by posting the
+new Privacy Policy here
+www.spritefish.com",98.23008849557522,3991,sub,We will notify you of any changes to our Privacy Policy by posting thenew Privacy Policy herewww.spritefish.com,111,<choice>,<when>
+Your Consent,Your Consent,100.0,4105,main,Your Consent,12,<choice>,<error>
+"By using the Services, you are consenting to our processing of User Provided and Automatically Collection information as set forth in this Privacy Policy now and as amended by us.","By using the Services, you are consenting to our processing
+of User Provided and Automatically Collection information as set forth in this
+Privacy Policy now and as amended by us.",98.88268156424581,4118,sub,"By using the Services, you are consenting to our processingof User Provided and Automatically Collection information as set forth in thisPrivacy Policy now and as amended by us. """,179,<error>,<error>
+"Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States.","Processing,” means using cookies
+on a computer/hand held device or using or touching information in any way,
+including, but not limited to, collecting, storing, deleting, using, combining
+and disclosing information, all of which activities will take place in the
+United States.",98.55595667870037,4299,sub,"Processing,” means using cookieson a computer/hand held device or using or touching information in any way,including, but not limited to, collecting, storing, deleting, using, combiningand disclosing information, all of which activities will take place in theUnited States. If you reside outside the U.S. your information will betransferred to the U.S., and processed and stored there under U.S. privacystandards. By using the Application and providing information to us, you",475,<error>,<error>
+"Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States.","Processing,” means using cookies
+on a computer/hand held device or using or touching information in any way,
+including, but not limited to, collecting, storing, deleting, using, combining
+and disclosing information, all of which activities will take place in the
+United States.",98.55595667870037,4299,sub,"consent to such transfer to, and processing in, the US.",55,<error>,<error>
+Contact Us,Contact us,100.0,4837,main,Contact us,10,<error>,<error>
+"If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at support@spritefish.com","
+If you
+have any questions regarding privacy while using the Application, or have
+questions about our practices, please contact us via email at
+support@spritefish.co",97.57575757575758,4847,sub,"If youhave any questions regarding privacy while using the Application, or havequestions about our practices, please contact us via email atsupport@spritefish.com",162,<error>,<error>

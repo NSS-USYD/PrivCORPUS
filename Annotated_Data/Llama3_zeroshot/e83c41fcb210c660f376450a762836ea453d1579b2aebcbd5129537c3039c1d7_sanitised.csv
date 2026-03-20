@@ -1,0 +1,30 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Tasks,Tasks,100.0,0,main,"Tasks: Todo list, Task List, ReminderTasks",42,<error>,<error>
+Getting Started,Getting Started,100.0,44,main,Getting Started,15,<generic>,<how-gathered>
+Tips & Tricks,Tips & Tricks,100.0,60,main,Tips & Tricks,13,<generic>,<what>
+FAQs,FAQs,100.0,74,main,FAQs,4,<generic>,<other>
+Premium,Premium,100.0,79,main,Premium,7,<generic>,<what>
+List Sharing,List Sharing,100.0,87,main,List Sharing,12,<generic>,<what>
+Log in,Log in,100.0,100,main,Log in,6,<generic>,<how-gathered>
+Privacy Policy,Privacy Policy,100.0,107,main,Privacy Policy,14,<generic>,<error>
+Your data,Your data,100.0,122,main,Your data,9,<first>,<what>
+Information we collect,Information we collect,100.0,132,main,Information we collect,22,<first>,<what>
+Security,Security,100.0,155,main,Security,8,<security>,<what>
+Contact us,Contact us,100.0,164,main,Contact us,10,<contact>,<error>
+Your data,Your data,100.0,175,main,Your data#When using Tasks without Premium services we do not                        collect or store any personal data on our or any                        third-party servers. All personal data is stored locally                        on your device and is protected from access by other                        applications.When using Tasks with Premium service we will store some                        personal information that you share with us such as,457,<first>,<what>
+Your data,Your data,100.0,175,main,"                        email address. Tasks uses third-party hosting to provide                        the required hardware, software, networking, storage,                        and related technology required to run the cloud                        service. You always retain the right to your data and we                        will never share or sell your personal data with                        third-parties.All voluntary communications with us such as emails are",474,<first>,<what>
+Your data,Your data,100.0,175,main,                        stored but never shared. These communications are used                        to help diagnose customer issues and improve Tasks.,153,<first>,<what>
+Information we collect,Information we collect,100.0,1277,main,"Information we collect#We do collect anonymous statistical usage data in the                        form of analytics. This is stored on third-party servers                        (Google Analytics) and is used to improve the                        application, service and bug fix along with users                        feedback.",331,<first>,<why>
+Security,Security,100.0,1615,main,Security#All data and information transmitted between your device                        and the Tasks cloud service uses the SSL protocol. When                        stored in the cloud your personal data is encrypted.,220,<security>,<why>
+How to contact us,How to contact us,100.0,1840,main,"How to contact us#I try to be as transparent as possible. However, If you                        have any questions about the Privacy Policy or the                        Service, please email me. Cheers, Steve""Better notes are better than the best memory."" - Tania Muñiz            (Tasks user)© 2017-2023 Tasksby Pocket Brilliance LimitedInstagramYouTubeHelp",360,<contact>,<how-gathered>
+Getting Started,Getting Started,100.0,2212,main,Getting Started,15,<generic>,<when>
+Tips & Tricks,Tips & Tricks,100.0,2228,main,Tips & Tricks,13,<generic>,<when>
+FAQs,FAQs,100.0,2242,main,FAQs,4,<generic>,<error>
+Premium,Premium,100.0,2247,main,Premium,7,<generic>,<other>
+List Sharing,List Sharing,100.0,2255,main,List Sharing,12,<generic>,<error>
+Support,Support,100.0,2268,main,Support,7,<access>,<other>
+Contact Us,Contact Us,100.0,2276,main,Contact Us,10,<contact>,<error>
+What's New,What's New,100.0,2287,main,What's New,10,<generic>,<other>
+Donate,Donate,100.0,2298,main,Donate,6,<not>,<other>
+Jobs on Jooble,Jobs on Jooble,100.0,2305,main,Jobs on Jooble,14,<third>,<what>
+Legal,Legal,100.0,2320,main,LegalPrivacy PolicyTerms of Service,35,<region>,<other>

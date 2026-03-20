@@ -1,0 +1,28 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Privacy PolicyAlkitabkuAlkitab, Renungan Harian, Ayat Emas, Pujian...AlkitabkuHalaman UtamaRenungan HarianAlkitabCerita Alkitab AnakPrivacy Policy",146,<error>,<error>
+What information do we collect?,What information do we collect?,100.0,156,main,What information do we collect?We collect information from you when you register on our site. ,94,<first>,<what>
+When ordering or registering on our site,When ordering or registering on our site,100.0,251,sub,"When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.What do we use your information for?Any",198,<first>,<how-gathered>
+What information do we collect from you, of the information we collect from you,84.61538461538461,451,sub, of the information we collect from you may be used to personalize your experience (your information helps us to better respond to your individual needs),153,<first>,<what>
+How do we protect your information?,How do we protect your information?,100.0,605,main,"How do we protect your information?We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.",191,<security>,<how-used>
+Do we use cookies?,Do we use cookies?,100.0,798,main,Do we use cookies?Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information,284,<tracking>,<other>
+We use cookies to understand and save your preferences for future visits,We use cookies to understand and save your preferences for future visits,100.0,1084,sub,We use cookies to understand and save your preferences for future visits.,73,<tracking>,<how-used>
+Do we disclose any information to outside parties?,Do we disclose any information to outside parties?,100.0,1158,main,"Do we disclose any information to outside parties?We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. ",156,<third>,<what>
+This does not include trusted third parties who assist us in operating our website,This does not include trusted third parties who assist us in operating our website,100.0,1315,sub,"This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. ",197,<third>,<why>
+We may also release your information when we believe release is appropriate,We may also release your information when we believe release is appropriate,100.0,1512,sub,"We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.",314,<third>,<when>
+Your Consent,Your Consent,100.0,1827,main,"Your ConsentBy using our site, you consent to our online privacy policy.",72,<choice>,<other>
+Changes to our Privacy Policy,Changes to our Privacy Policy,100.0,1901,main,Changes to our Privacy PolicyAny changes to our Privacy Policy will be placed here and will supersede this version of our Policy. ,130,<change>,<other>
+We will take reasonable steps to draw your attention to any changes in our Policy,We will take reasonable steps to draw your attention to any changes in our Policy,100.0,2032,sub,"We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.",234,<generic>,<when>
+Sitemap,Sitemap,100.0,2267,main,Sitemap,7,<not>,<other>
+Halaman Utama,Halaman Utama,100.0,2275,sub,Halaman Utama,13,<not>,<other>
+Renungan Harian,Renungan Harian,100.0,2289,sub,Renungan Harian,15,<not>,<other>
+Alkitab,Alkitab,100.0,2305,sub,Alkitab,7,<not>,<other>
+Cerita Alkitab Anak,Cerita Alkitab Anak,100.0,2313,sub,Cerita Alkitab Anak,19,<not>,<other>
+Contact Us,Contact Us,100.0,2333,main,Contact UsSend your questions and feedback to our email address feedback(at)alkitabku.com,89,<not>,<other>
+Download Alkitabku,Download Alkitabku,100.0,2424,main,Download AlkitabkuDownload for AndroidDownload for iOSDownload for BlackBerry OS 10 (new BB)Download for BlackBerry Java (old BB)© 2023Ikon Media Indonesia. All rights reserved.,177,<not>,<other>
+Navigation,Navigation,100.0,2609,main,Navigation,10,<not>,<other>
+Halaman Utama,Halaman Utama,100.0,2620,sub,Halaman Utama,13,<not>,<other>
+Renungan Harian,Renungan Harian,100.0,2634,sub,Renungan Harian,15,<not>,<other>
+Alkitab,Alkitab,100.0,2650,sub,Alkitab,7,<not>,<other>
+Cerita Alkitab Anak,Cerita Alkitab Anak,100.0,2658,sub,Cerita Alkitab Anak,19,<not>,<other>
+Social Media,"
+Social Medi",91.66666666666666,2677,main,Social Media,12,<not>,<other>

@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Singtel’s Data Privacy & Protection PolicySingtel’s Data Privacy & Protection Policy,84,<error>,<error>
+Data Protection,DATA PROTECTION,100.0,86,main,DATA PROTECTION,15,<generic>,<error>
+Careers,CAREERS,100.0,102,main,CAREERS,7,<generic>,<error>
+Terms of Use,TERMS OF USE,100.0,110,main,TERMS OF USE,12,<generic>,<error>
+Copyright Notices,COPYRIGHT NOTICES,100.0,123,main,COPYRIGHT NOTICES,17,<generic>,<error>
+Contact Us,CONTACT US,100.0,141,main,CONTACT US,10,<contact>,<error>
+Singtel Global Offices,SINGTEL GLOBAL OFFICES,100.0,152,main,SINGTEL GLOBAL OFFICES,22,<region>,<error>
+Store Locator,STORE LOCATOR,100.0,175,main,STORE LOCATOR© Singtel (CRN: 199201624D) All Rights Reserved.,61,<access>,<error>

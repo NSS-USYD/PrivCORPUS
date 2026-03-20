@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Cloneit,7,<error>,<error>
+Copy Data,Copy Data,100.0,8,sub,Copy DataCopy your data from one phone to another over a WiFi network.,70,<error>,<error>
+Download,Download,100.0,80,sub,Download,8,<error>,<error>
+Settings,Settings,100.0,89,sub,Settings,8,<error>,<error>
+Permission,Permission,100.0,98,sub,PermissionGET_ACCOUNTS +Function: Get user name for send and receive data,73,<error>,<error>
+Support,Support,100.0,174,sub,"SupportEmail: sharefile.tech@gmail.comFacebook:facebook/sharefileOver 40 Popular LanguagesLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",297,<error>,<error>
+Get Notified When It's Released,Get Notified When It's Released,100.0,476,sub,"Get Notified When It's ReleasedLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.InvalidInvalidSubmit",175,<error>,<error>
+Thank You for Signing Up!,Thank You for Signing Up!,100.0,656,sub,"Thank You for Signing Up!Please share with your friends, family, and co-workers.Or share this URL:Loading...",108,<error>,<error>

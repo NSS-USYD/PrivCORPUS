@@ -1,0 +1,28 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Lesser AudioSwitch PrivacyPolicyLesser AudioSwitch is ownedfully by the individual Mathias Peter Nordskog ( Roughy ).We do not collect or store anyof your information, but are still required to provide a privacypolicy.Belowyou will find detailsofhow we do not store or collect your data, as well as your rightsconcerning this non-data, and who to contact should you have anyconcerns or requests concerningyour data that we do no possess.",437,<error>,<error>
+What data do we collect?,"What data do we
+collect?",95.83333333333334,452,main,What data do wecollect?We do not	collect any data.,50,<generic>,<what>
+How do we collect your data?,"How do we collect
+your data?",96.42857142857143,506,main,How do we collectyour data?We do not	collect your data.,55,<first>,<how-gathered>
+How will we use your data?,"How will we use your
+data?",96.15384615384616,565,main,How will we use yourdata?We will not use	your data because we do not collect it.,80,<first>,<how-used>
+We do not collect your data so that we can:,"We do not collect
+your data so that we can:",97.67441860465115,649,main,We do not collectyour data so that we can:We do not	collect your data.,70,<first>,<why>
+How do we store your data?,"How do we store your
+data?",96.15384615384616,723,main,How do we store yourdata?We do not store	your data.,51,<first>,<how-used>
+What are your data protection rights?,"What
+are your data protection rights?",97.2972972972973,778,main,Whatare your data protection rights?,36,<choice>,<other>
+The right to access –,"The right to
+access –",95.23809523809523,816,sub,"The right toaccess –You have theright to request that we provide copies of your personal data, ofwhich we have none.",116,<access>,<other>
+The right to rectification –,"The right to
+rectification –",96.42857142857143,937,sub,"The right torectification –You havethe right to request that we correct any information we hold that youbelieve is inaccurate. You also have the right to request that wecomplete information you believe is inaccurate. However, we storenone of your data so there is nothing to correct.",283,<access>,<other>
+The right to erasure–,"The right to
+erasure–",95.23809523809523,1227,sub,"The right toerasure–You have theright to request that we erase your personal data, under certainconditions. We do not possess any of your personal data, so anyrequests are automatically fulfilled.",196,<access>,<other>
+The right to restrict processing –,"The right to
+restrict processing –",97.05882352941177,1429,sub,"The right torestrict processing –Youhave the right to request that we restrict the processing of yourpersonal data, under certain conditions. We do not possess any ofyour data, nor do we process it.",198,<access>,<other>
+The right to data portability–,"The right to data
+portability–",96.66666666666667,1633,sub,"The right to dataportability–You have theright to request that we transfer the data that we have collected toanother organization, or directly to you, under certain conditions.Since we do note collect, store, or otherwise possess any of yourdata, this would be a blank sheet.Ifyou make a request ,we have one month to respond to you. If you wouldlike to exercise any of these rights, please contact us at our email:[email protected]",432,<access>,<other>
+Changes to our privacy policy,Changes to our privacy policy,100.0,2076,main,"Changes to our privacy policyWe keep our privacy policyunder regular review and place any updates on this web page. Thisprivacy policy was last updated January 20th, 2022.",171,<change>,<other>
+How to contact us,How to contact us,100.0,2253,main,How to contact usEmail us at:[email protected],46,<contact>,<other>
+How to contact the appropriate authority,"How to contact the appropriate
+authority",97.5,2302,main,"How to contact the appropriateauthorityShould you wish to report acomplaint or if you feel that we have not addressed your concern in asatisfactory manner, you may contact the Norwegian Data ProtectionAuthority ( Datatilsynet ):Email:[email protected]Phone:+47 22 39 69			00",274,<contact>,<other>

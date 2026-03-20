@@ -1,0 +1,5 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Total Commander - LAN plugin ,29,<error>,<error>
+Privacy Policy,privacy policy,100.0,29,main,privacy policyPrivacy Policy  - LAN plugin for Total CommanderThis app connects to Windows or Samba shares via SMB (server mesage blocks).It's in the responsibility of the user what data he uploads to these sharesThis plugin will store your user name and/or password for the shares only ifyou enter them in the settings of the connection.This plugin does not collect or share any personal information.This plugin does not show any ads.This plugin does not use any social networking functions.,492,<generic>,<error>
+Privacy Policy,privacy policy,100.0,29,main,This plugin does not link to external web sites.This plugin does not all,72,<generic>,<error>
+7. In-App Purchases,ow in-app purchases,89.47368421052632,603,main,"ow in-app purchases.This plugin does not store or share your location.Ghisler Software GmbHHuehnerbuehlstr. 45Bolligen, CH-3065Switzerland",138,<first>,<error>

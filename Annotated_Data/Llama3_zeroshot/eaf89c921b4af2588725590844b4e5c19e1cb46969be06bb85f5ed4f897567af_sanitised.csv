@@ -1,0 +1,15 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Copyright © 2020 Deanship of eTransactions and Communications, King Saud University, All Rights Reserved.Intellectual property and copyrights of this application are owned by King Saud University ETC.        This license does not indicate or include - by any means – the sale of any right relating to Ayat application. Rather, this license allows only free distribution of Ayat application through the current platform of application store.",440,<error>,<error>
+We only collect anonymous information.,We only collect anonymous information.,100.0,443,sub,We only collect anonymous information.We use,44,<first>,<why>
+"We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your device so we can deliver a better experience."," technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your device so we can deliver a better experience.
+We do",96.79144385026738,488,sub," technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your device so we can deliver a better experience.We do not collect ",199,<first>,<why>
+Personally Identifiable Information,personally identifiable information,100.0,688,main,personally identifiable information about you. ,47,<error>,<what>
+"In other words, we do not collect information such as your name, address, phone number or email address.","In other words, we do not collect information such as your name, address, phone number or email address.",100.0,735,sub,"In other words, we do not",25,<first>,<error>
+Location Information, collect information,75.0,760,main," collect information such as your name, address, phone number or email address.",79,<error>,<what>
+We do not store or share your precise location.,We do not store or share your precise location.,100.0,840,sub,We do not store or share your precise location.,47,<first>,<when>
+We do not use or collect your precise geographic location.,We do not use or collect your precise geographic location.,100.0,888,sub,We do not use or collect your precise geographic location.,58,<first>,<why>
+No ad companies collect data through our service.,No ad companies collect data through our service.,100.0,947,sub,No ad companies collect data through our service.,49,<third>,<error>
+We do not allow advertising companies to collect data through our service for ad targeting.,We do not allow advertising companies to collect data through our service for ad targeting.,100.0,997,sub,"We do not allow advertising companies to collect data through our service for ad targeting.You can ask privacy questions.If you have any questions or concerns about our privacy policies, please ",194,<third>,<error>
+Contact Us,contact us,100.0,1193,main,contact us:,11,<contact>,<other>
+http://quran.ksu.edu.sa,"
+http://quran.ksu.edu.s",95.65217391304348,1204,sub,http://quran.ksu.edu.sa,23,<error>,<error>

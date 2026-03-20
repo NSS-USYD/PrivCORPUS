@@ -1,0 +1,23 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Confidentiality,Confidentiality,100.0,0,main,ConfidentialityOTG Checked,26,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,28,main,Privacy PolicyThe app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.,144,<error>,<error>
+DETAILS,DETAILS,100.0,174,main,DETAILS,7,<error>,<error>
+Sound Level Meter,Sound Level Meter,100.0,182,main,Sound Level Meter,17,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,200,main,"Privacy PolicyThe app doesn't collect any personal information. The Audio permission is used to measeu the sound level, we do not record or keep any audio files. We integrate Admob plugin but you can configure it not to push personalized ads.",242,<error>,<error>
+DETAILS,DETAILS,100.0,444,main,DETAILS,7,<error>,<error>
+Kaomoji,Kaomoji,100.0,452,main,Kaomoji,7,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,460,main,Privacy PolicyThe app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.,144,<error>,<error>
+DETAILS,DETAILS,100.0,606,main,DETAILS,7,<error>,<error>
+Fait Au Japon,Fait Au Japon,100.0,614,main,Fait Au Japon,13,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,628,main,Privacy PolicyThe app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.,144,<error>,<error>
+DETAILS,DETAILS,100.0,774,main,DETAILS,7,<error>,<error>
+APK Extractor,APK Extractor,100.0,782,main,APK Extractor,13,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,796,main,Privacy PolicyThe app doesn't collect any personal information. But we integrate Admob plugin but we configured it not to push personalized ads.,144,<error>,<error>
+DETAILS,DETAILS,100.0,942,main,DETAILS,7,<error>,<error>
+Sim Infos & Contacts,Sim Infos & Contacts,100.0,950,main,Sim Infos & Contacts,20,<error>,<error>
+Requested permissions,Requested permissions,100.0,971,main,Requested permissionsREAD_PHONE_STATE: It is used to read the SIM ID & IMEI. These data stay on the phone.READ_CONTACTS: It is used to get the SIM contacts. These data stay on the phone. Only the user can share the data from the app to wherever he decides.,256,<error>,<error>
+DETAILS,DETAILS,100.0,1232,main,DETAILS,7,<error>,<error>
+Voice recorder,Voice recorder,100.0,1240,main,Voice recorder,14,<error>,<error>
+Requested permission,Requested permission,100.0,1255,main,Requested permissionRECORD_AUDIO: The sounds recorded using the mic are used only to create recordings files on your phone. It doesn't leave your phone unless you share these files yourself.,190,<error>,<error>
+DETAILS,"
+DETAIL",85.71428571428572,1447,main,DETAILS,7,<error>,<error>

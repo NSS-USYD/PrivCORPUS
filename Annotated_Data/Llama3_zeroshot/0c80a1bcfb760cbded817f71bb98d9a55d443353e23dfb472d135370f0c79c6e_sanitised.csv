@@ -1,0 +1,2 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,24,main,Privacy PolicyCoolReader application for Android platform usesREAD_PHONE_STATEpermission which may be considered as dangerous.This permission is used only forpausing Text-To-Speech on incoming call.Neither phone number nor other sensitive information is used by application.,274,<error>,<error>

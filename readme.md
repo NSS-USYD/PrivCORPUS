@@ -4,7 +4,7 @@ This repository contains sanitised Privacy Policy (PP) and Google Play Data Safe
 ## Related Publications
 Refer to the following publications for detailed explanations
 
-01. PrivPRISM [link to be updated]
+01. PrivPRISM [Link Text](https://arxiv.org/pdf/2603.09214)
 02. PrivXXXXXX [to be updated]
 
 ## Repository Structure
@@ -23,22 +23,22 @@ Refer to the following publications for detailed explanations
 ├── DS_Generic/                     # Sanitised version of the DS declarations of non-games, follows similar tagging
 ```
 Note: Please contact the authors if you requre access to .APK files.
-Contact: bpin9254@sydney.edu.au
 
 ## Citation
 If you use the datasets or frameworks in this repository for your research, please cite the corresponding papers:
 ```text
-@misc{silva2026privprism,
-      title={{PrivPRISM}: Automatically Detecting Discrepancies Between Google Play Data Safety Declarations and Developer Privacy Policies}, 
+@misc{silva2026privprismautomaticallydetectingdiscrepancies,
+      title={PrivPRISM: Automatically Detecting Discrepancies Between Google Play Data Safety Declarations and Developer Privacy Policies}, 
       author={Bhanuka Silva and Dishanika Denipitiyage and Anirban Mahanti and Aruna Seneviratne and Suranga Seneviratne},
       year={2026},
-      eprint={},
+      eprint={2603.09214},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
-      url={}, 
+      url={https://arxiv.org/abs/2603.09214}, 
 }
 ```
 
 ## Update History
-2026.03.10 - Initial upload of the corpus
-To be uploaded - Raw HTML files for PP and DS (contact authors if you require the resources prior to release)
+2026.03.10 - Initial upload of the corpus <br>
+2026.03.20 - Zero shot annotations of GPT5, Llama3 added. <br>
+To be uploaded - Raw HTML files for PP and DS (contact authors if you require the resources prior to release). 

@@ -1,0 +1,13 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"PRIVATE POLICY – MAXELUS '2023HOMELIVE WALLPAPERSGAMESABOUTThis is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.CONTACTKontakt Kontakt KontaktPRIVATE POLICY",372,<error>,<error>
+,,-1.0,0,,"This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of ours applications.",150,<error>,<error>
+Information Collection And Use,Information Collection And Use,100.0,532,main,Information Collection And Use,30,<generic>,<what>
+We using Google Alalytic to collect data about :,We using Google Alalytic to collect data about :,100.0,563,sub,"We using Google Alalytic to collect data about :Purchase activity, in-app purchases activityActivity on app : like settings tab using, buttons using",148,<first>,<what>
+We DON’T store any private/personal data in our servers.,We DON’T store any private/personal data in our servers.,100.0,714,main,We DON’T store any private/personal data in our servers.,56,<generic>,<why>
+We DON’T hold any private user data.,We DON’T hold any private user data.,97.22222222222221,771,main,We DON’T hold any private user data.,36,<generic>,<why>
+Log Data,Log Data,100.0,808,main,Log Data,8,<first>,<what>
+Applications DON’T send / collect  any personal / private data to our servers  like:,Applications DON’T send / collect  any personal / private data to our servers  like:,100.0,817,sub,"Applications DON’T send / collect  any personal / private data to our servers  like: photos, recods, text , IP.",111,<first>,<what>
+Contact Us,Contact Us,100.0,929,main,Contact Us,10,<first>,<other>
+"If you have any questions about this Privacy Policy, please contact us email :","If you have any questions about this Privacy Policy, please contact us email :",100.0,940,sub,"If you have any questions about this Privacy Policy, please contact us email : ",79,<contact>,<other>
+info@maxelus.net,info@maxelus.net,100.0,1019,sub,info@maxelus.net. ,18,<error>,<error>
+Company MAXELUS ul.Poleska 31/13 51-354 Wrocław,Company MAXELUS ul.Poleska 31/13 51-354 Wrocław,97.87234042553192,1037,sub,Company MAXELUS ul.Poleska 31/13 51-354 Wrocław.MAXELUS '2023TwitterInstagramFacebookYouTubepowered by WordPress,112,<first>,<other>

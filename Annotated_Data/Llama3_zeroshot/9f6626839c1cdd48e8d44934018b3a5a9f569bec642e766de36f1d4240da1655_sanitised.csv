@@ -1,0 +1,49 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Online Safety For Children & Families - Google Safety Centre,Online Safety For Children & Families - Google Safety Centre,100.0,0,main,Online Safety For Children & Families - Google ,47,<generic>,<error>
+Safety Centre,Safety Centre,100.0,47,main,Safety CentreSafety CentreSafety Centre,39,<generic>,<error>
+Overview,Overview,100.0,89,main,Overview,8,<generic>,<error>
+In our products,In our products,100.0,98,main,In our products,15,<generic>,<error>
+Security and privacy,Security and privacy,100.0,114,main,Security and privacy,20,<security>,<error>
+Built-in security,Built-in security,100.0,135,main,Built-in security,17,<security>,<error>
+Privacy controls,Privacy controls,100.0,153,main,Privacy controls,16,<choice>,<error>
+Data practices,Data practices,100.0,170,main,Data practices,14,<retention>,<error>
+Security tips,Security tips,100.0,185,main,Security tips,13,<security>,<error>
+Ads and data,Ads and data,100.0,199,main,Ads and data,12,<third>,<error>
+Content safety,Content safety,100.0,212,main,Content safety,14,<audience>,<error>
+Family safety,Family safety,100.0,227,main,Family safety,13,<audience>,<error>
+Parental controls,Parental controls,100.0,241,main,Parental controls,17,<choice>,<error>
+Family-friendly experiences,Family-friendly experiences,100.0,259,main,Family-friendly experiences,27,<audience>,<error>
+Cybersecurity,Cybersecurity,100.0,287,main,Cybersecurity,13,<generic>,<error>
+Protecting Critical Infrastructure,Protecting Critical Infrastructure,100.0,301,main,Protecting Critical Infrastructure,34,<generic>,<error>
+Workforce skilling,Workforce skilling,100.0,336,main,Workforce skilling,18,<generic>,<error>
+Secure AI Framework,Secure AI Framework,100.0,355,main,Secure AI Framework,19,<generic>,<error>
+Google Account,Google Account,100.0,375,main,Google Account,14,<generic>,<error>
+We help you manage whatâ€™s,We help you manage whatâ€™s,100.0,390,main,"We help you manage whatâ€™sright for your family online.Children today are growing up with technology, not growing into it like previous generations. So weâ€™re working directly with experts and educators to help you set boundaries and use technology in a way thatâ€™s right for your family.Help keep your familysafer online.",325,<choice>,<error>
+FAMILY LINK,FAMILY LINK,100.0,720,main,FAMILY LINK,11,<generic>,<error>
+Set up parental controls,Set up parental controls,100.0,732,main,Set up parental controls,24,<access>,<error>
+Family Link helps you manage your childâ€™s account and devices as they explore online.,Family Link helps you manage your childâ€™s account and devices as they explore online.,100.0,757,main,"Family Link helps you manage your childâ€™s account and devices as they explore online. Set screen-time limits, manage the content your child can see and know their location when they have their device with them.",212,<choice>,<error>
+Learn more,Learn more,100.0,970,main,Learn more,10,<generic>,<error>
+Building family-friendly,Building family-friendly,100.0,981,main,Building family-friendly,24,<error>,<error>
+experiences,experiences,100.0,1006,main,experiences,11,<error>,<error>
+across,across,100.0,1018,main,across,6,<generic>,<error>
+our products.,our products.,100.0,1025,main,our products.,13,<generic>,<error>
+Family-friendly experiences,Family-friendly experiences,100.0,1039,main,Family-friendly experiences,27,<generic>,<error>
+Explore features designed for families,Explore features designed for families,100.0,1067,main,Explore features designed for families,38,<choice>,<error>
+"We build special features â€“ like smart filters, site blockers and content ratings â– into many of our products across the Play Store, Assistant, YouTube and more, to make them more enjoyable for your family.","We build special features â€“ like smart filters, site blockers and content ratings â€“ into many of our products across the Play Store, Assistant, YouTube and more, to make them more enjoyable for your family",99.04306220095694,1106,main,"We build special features â€“ like smart filters, site blockers and content ratings â€“ into many of our products across the Play Store, Assistant, YouTube and more, to make them more enjoyable for your family.",210,<generic>,<error>
+Learn more,Learn more,100.0,1317,main,Learn more,10,<generic>,<error>
+Manage whatâ€™s right  for your family online.,Manage whatâ€™s right  for your family online.,100.0,1328,main,Manage whatâ€™s right  for your family online.,46,<generic>,<error>
+Parental controls,Parental controls,100.0,1375,main,Parental controls,17,<choice>,<error>
+Learn about how Google helps families set digital ground rules and create healthy habits online.,Learn about how Google helps families set digital ground rules and create healthy habits online.,100.0,1393,main,Learn about how Google helps families set digital ground rules and create healthy habits online.,96,<generic>,<error>
+Family-friendly experiences,Family-friendly experiences,100.0,1490,main,Family-friendly experiences,27,<generic>,<error>
+Learn about the features that we build into our products with family safety in mind.,Learn about the features that we build into our products with family safety in mind.,100.0,1518,main,Learn about the features that we build into our products with family safety in mind.,84,<generic>,<error>
+Not all products or features may be available in all locations.,Not all products or features may be available in all locations.,100.0,1603,main,Not all products or features may be available in all locations.,63,<region>,<error>
+Follow us,Follow us,100.0,1667,main,Follow us,9,<contact>,<error>
+About Google,About Google,100.0,1677,main,About Google,12,<contact>,<error>
+Google products,Google products,100.0,1690,main,Google products,15,<contact>,<error>
+Privacy policy,Privacy policy,100.0,1706,main,Privacy policy,14,<change>,<error>
+Terms,Terms,100.0,1721,main,Terms,5,<change>,<error>
+Partners,Partners,100.0,1727,main,Partners,8,<third>,<error>
+Security news,Security news,100.0,1736,main,Security news,13,<security>,<error>
+Principles,Principles,100.0,1750,main,Principles,10,<generic>,<error>
+Help,Help,100.0,1761,main,Help,4,<contact>,<error>
+Cookies management controls,Cookies management controls,100.0,1766,main,Cookies management controlss,28,<tracking>,<error>

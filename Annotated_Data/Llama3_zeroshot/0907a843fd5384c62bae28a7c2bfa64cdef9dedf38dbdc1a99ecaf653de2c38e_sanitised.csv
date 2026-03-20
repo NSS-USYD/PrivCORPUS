@@ -1,0 +1,11 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Convert to Mp3 - ,17,<error>,<error>
+Privacy policy,Privacy policy,100.0,17,main,"Privacy policyPrivacy policyPlease read this privacy policy carefully. By using the ""Convert to Mp3"" app you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all of the terms and conditions set forth below, you may not use this app.",325,<generic>,<error>
+What information we collect,What information we collect,100.0,345,main,What information we collect,27,<first>,<what>
+Some information may be collected by AdMob for advertising purposes (Google Privacy & Terms),"Some information may be collected by AdMob for advertising purposes (
+Google Privacy & Terms",98.91304347826086,373,sub,Some information may be collected by AdMob for advertising purposes (Google Privacy & Terms).,93,<third>,<what>
+Requested permissions of Android device,Requested permissions of Android device,100.0,469,main,Requested permissions of Android device,39,<first>,<how-gathered>
+Read external storage:,Read external storage:,100.0,509,sub,Read external storage:used to allow the user choose an audio file from the device.,82,<first>,<how-gathered>
+Write external storage:,Write external storage:,100.0,593,sub,"Write external storage:used to allow the user save, rename or delete an audio file.",83,<first>,<how-gathered>
+Wake lock:,Wake lock:,100.0,678,sub,Wake lock:this allows the WAV sound to be converted while the phone is locked.,78,<first>,<how-gathered>
+Internet:,Internet:,100.0,758,sub,Internet:used by AdMob for advertising.,39,<first>,<how-gathered>

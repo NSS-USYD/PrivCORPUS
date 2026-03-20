@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+The Simple Apps,The Simple Apps,100.0,0,main,The Simple Apps - ,18,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,18,main,"Privacy Policy""",15,<error>,<error>
+The Simple Apps,The Simple Apps,100.0,34,main,"The Simple Apps"" ",17,<error>,<error>
+developer,developer,100.0,51,main,developer- Do not collect any information- Do not require unnecessary permissions- Display ads using Google AdMob platform that may collect certain information from apps,169,<error>,<error>
+Net Blocker app,Net Blocker app,100.0,224,main,Net Blocker app- Only sets up a local VPN interface to be able to block the network traffic of apps without root- Does not connect to a remote server to steal your privacy data,176,<error>,<error>
+DNS Changer app,DNS Changer app,100.0,403,main,DNS Changer app- Only sets up a local VPN interface to be able to change DNS server addresses without root- Does not connect to a remote server to steal your privacy data,170,<error>,<error>
+Copyright,Copyright,100.0,576,main,Copyright © 2021,16,<error>,<error>

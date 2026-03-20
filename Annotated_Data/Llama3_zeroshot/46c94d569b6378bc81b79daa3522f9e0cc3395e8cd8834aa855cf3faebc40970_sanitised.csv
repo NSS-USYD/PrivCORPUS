@@ -1,0 +1,10 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Sunplus Online ,15,<error>,<error>
+Privacy Statement,Privacy Statement,100.0,15,main,Privacy StatementSunplus Online Privacy StatementPrivacy Statement,66,<generic>,<error>
+Scope,Scope,100.0,84,main,Scope,5,<generic>,<error>
+Collected Information Types,Collected Information Types,100.0,90,main,Collected Information Types,27,<first>,<error>
+Uses,Uses,100.0,118,main,Uses,4,<first>,<error>
+Your Choices,Your Choices,100.0,123,main,Your Choices,12,<choice>,<error>
+Scope,Scope,100.0,136,sub,ScopeThe Sunplus Online Privacy Statement applies to Sunplusâ€™ Web sites and Productions that link to the Statement. Below are the highlights of the Statement.,160,<generic>,<error>
+Collected Information Types,Collected Information Types,100.0,298,sub,"Collected Information TypesWe may collect your application information for some purposes, such as mobile phone installation application related information, SIM card related information and location information.We may collect phone information, such as motherboard model, system version, etc.We may collect log information when AutolinkAPK is running.",351,<first>,<error>
+Uses,Uses,100.0,653,sub,"UsesTo fulfill your requests by us or by others involved in fulfillment.To support products or services you have obtained from us.Your ChoicesDuring installing the APK and asking for authorization information, you can selectively refuse our authorization to access relevant information.Copyright @ sunmedia. All Right Reserved | èœ€ICPå¤‡13001769å·-1",351,<first>,<error>

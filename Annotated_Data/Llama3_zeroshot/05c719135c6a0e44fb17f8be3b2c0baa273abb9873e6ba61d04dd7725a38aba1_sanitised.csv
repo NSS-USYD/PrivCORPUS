@@ -1,0 +1,6 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,FacebookFacebookEmail or phonePasswordForgotten account?,56,<error>,<error>
+Sign Up,Sign Up,100.0,61,sub,Sign UpYour request couldn't be processedYour request couldn't be processedThere was a problem with this request. We're working on getting it fixed as soon as we can.Return homeEnglish (UK)中文(简体)한국어日本語Français (France)EspañolDeutschItalianoPortuguês (Brasil)العربيةहिन्दीSign Up,278,<generic>,<error>
+Login,Log i,80.0,356,sub,Log inMessengerFacebook LiteVideoPlacesGamesMarketplaceMeta PayMeta StoreMeta QuestInstagramThreadsFundraisers,110,<generic>,<error>
+Services,Services,100.0,479,sub,ServicesVoting Information CentrePrivacy PolicyPrivacy CentreGroupsAboutCreate adCreate PageDevelopersCareersCookiesAdChoicesTermsHelpContact uploading and non-usersSettingsActivity log,185,<generic>,<error>
+Meta,Meta,100.0,681,sub,Meta © 2023,11,<generic>,<error>

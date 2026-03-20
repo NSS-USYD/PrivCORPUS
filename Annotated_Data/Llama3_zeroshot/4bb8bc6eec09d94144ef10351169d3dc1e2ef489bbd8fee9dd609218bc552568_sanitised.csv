@@ -1,0 +1,30 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy - MobiWIASkip to contentMobiWIAPrivacy PolicyType to start searchingMobiWIABlogGPS StatusGPS StatusUser GuideF.A.Q.EULAPrivacy PolicyPrivacy Policy,162,<generic>,<error>
+Table of contents,Table of contents,100.0,176,main,Table of contents,17,<generic>,<error>
+Short version,Short version,100.0,194,main,Short version,13,<generic>,<error>
+Full version,Full version,100.0,208,main,Full version,12,<generic>,<error>
+Get PRO,Get PRO,100.0,221,main,Get PRO,7,<generic>,<error>
+Autokiller,Autokiller,100.0,229,main,AutokillerAutokiller,20,<generic>,<error>
+Introduction,Introduction,100.0,251,main,Introduction,12,<generic>,<error>
+Theory,Theory,100.0,264,main,Theory,6,<generic>,<error>
+Process Manager,Process Manager,100.0,271,main,Process Manager,15,<generic>,<error>
+F.A.Q.,F.A.Q.,100.0,287,main,F.A.Q.,6,<generic>,<error>
+Troubleshooting,Troubleshooting,100.0,294,main,Troubleshooting,15,<generic>,<error>
+System Tweaks,System Tweaks,100.0,310,main,System Tweaks,13,<generic>,<error>
+Changelog,Changelog,100.0,324,main,ChangelogPrivacy Policy,23,<generic>,<error>
+Go PRO,Go PRO,100.0,349,main,Go PRO,6,<generic>,<error>
+Autourun Manager,"
+Autorun Manager",93.75,355,main,Autorun ManagerAutorun Manager,30,<generic>,<error>
+Introduction,Introduction,100.0,388,main,Introduction,12,<generic>,<error>
+User Guide,User Guide,100.0,401,main,User Guide,10,<generic>,<error>
+F.A.Q.,F.A.Q.,100.0,412,main,F.A.Q.,6,<generic>,<error>
+Troubleshooting,Troubleshooting,100.0,419,main,Troubleshooting,15,<generic>,<error>
+Changelog,Changelog,100.0,435,main,ChangelogPrivacy PolicyGo PRO,29,<generic>,<error>
+Company,Company,100.0,467,main,CompanyCompany,14,<first>,<error>
+About Us,About Us,100.0,483,main,About Us,8,<first>,<error>
+License,License,100.0,492,main,LicensePrivacy Policy,21,<first>,<error>
+Table of contents,Table of contents,100.0,515,main,Table of contents,17,<generic>,<error>
+Short version,Short version,100.0,533,main,Short version,13,<generic>,<error>
+Full version,Full version,100.0,547,main,Full versionPrivacy Policy¶Short version¶We are using advertising identifiers to personalise ads and to gather usage statistics and app health data.We share such identifiers and other personally non-identifiable information from your device with ouradvertising and analytics service providers. Currently the following 3rdparty services are usedfor these purposes:Google AdMob - for advertisements in the free versionGoogle Firebase Analytics - for aggregated usage analytics,474,<generic>,<error>
+Full version,Full version,100.0,547,main,"Google Firebase Remote Config - for A/B testingGoogle Crashlytics - for app diagnostics and error reportingGithub Pages- for hosting the companion websiteFor your reference, Google's privacy policy is availablehere.You can opt-out from targeted advertisements on the AdMob networkhereoron your device Settings|Goolge|Ads screen.We do not collect any personally identifiable information without your explicit consent.Full version¶The full version of the detailedPrivacy Policy is available here.PreviousEULANext",510,<generic>,<error>
+Full version,Full version,100.0,547,main,Get PROCopyright © 2012 - 2020 MobiWIA Ltd.Made withMaterial for MkDocs,71,<generic>,<error>

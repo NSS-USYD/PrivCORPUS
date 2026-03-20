@@ -1,0 +1,11 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy PolicyPrivacy Policy,28,<error>,<error>
+Protecting your privacy is important for us,Protecting your privacy is important for us,100.0,30,main,"Protecting your privacy is important for us.We do not collect, transmit or store your Personal and Sensitive Information (PSI); we do not have a Server to store your PSI.",170,<generic>,<error>
+The permissions requested,The permissions requested,100.0,202,main,"The permissions requested (e.g. microphone, accounts, or phone) ",64,<error>,<error>
+are used only to provide you certain functionality as part of the app,are used only to provide you certain functionality as part of the app,100.0,266,sub,are used only to provide you certain functionality as part of the app.,70,<first>,<error>
+The only situation where we may get your PSI,The only situation where we may get your PSI,100.0,337,main,The only situation where we may get your PSI ,45,<error>,<error>
+is when you personally decide to send us an email or  a bug report,is when you personally decide to send us an email or  a bug report,100.0,382,sub,"is when you personally decide to send us an email or  a bug report. In above situation, we guarantee that your PSI will only be used for contacting you and improving our services. We never use such information (e.g. your name and email address) for any other purposes.",268,<error>,<error>
+We use,We use,100.0,651,main,We use AdMob (Google Mobile Ads SDK) ,37,<error>,<error>
+to serve ads,to serve ads,100.0,688,sub,"to serve ads. Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics. Interests, demographics, and other data may be used to serve better targeted ads to the user.If you want further information about our ",266,<error>,<error>
+Privacy Policy,privacy policy,100.0,955,main,"privacy policy and what it mean, ",33,<error>,<error>
+please feel free to email us at mirolunapp@gmail.com,please feel free to email us at mirolunapp@gmail.com,100.0,988,sub,"please feel free to email us at mirolunapp@gmail.com, we will endeavor to provide clear answers to your questions.",114,<contact>,<error>

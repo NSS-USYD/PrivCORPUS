@@ -1,0 +1,43 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Launcher iOS 15 - Privacy PolicySearch this siteSkip to main contentSkip to navigationLauncher iOS 15 - Privacy PolicyLauncher iOS 15Privacy PolicyPrivacy Policy for ""iLauncher for Android"" applicationLink download:https://play.google.com/store/apps/details?id=com.launcheros15.ilauncher",287,<error>,<error>
+Application Privacy Statement,Application Privacy Statement,100.0,297,main,"Application Privacy Statement This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.",391,<generic>,<error>
+WHAT PERSONAL INFORMATION DOES APPROIDS TECHNOLOGIES COLLECT?,WHAT PERSONAL INFORMATION DOES APPROIDS TECHNOLOGIES COLLECT?,100.0,689,main,WHAT PERSONAL INFORMATION DOES APPROIDS TECHNOLOGIES COLLECT?We do not collect any information from user and save it on our server or database.,143,<first>,<error>
+CAN CHILDREN USE THE APPLICATION?,CAN CHILDREN USE THE APPLICATION?,100.0,834,main,CAN CHILDREN USE THE APPLICATION?This Applications can be used by any one as it does not contain any nudity or spams.,117,<audience>,<error>
+CHANGES TO THIS PRIVACY STATEMENT,CHANGES TO THIS PRIVACY STATEMENT,100.0,953,main,"CHANGES TO THIS PRIVACY STATEMENT.We may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Site or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Application after such changes have been first posted.",505,<change>,<error>
+LINK TO PRIVACY POLICY OF THIRD PARTY SERVICE PROVIDERS USED BY THE APP,LINK TO PRIVACY POLICY OF THIRD PARTY SERVICE PROVIDERS USED BY THE APP,100.0,1460,main,LINK TO PRIVACY POLICY OF THIRD PARTY SERVICE PROVIDERS USED BY THE APP:,72,<third>,<error>
+Google Play Services,Google Play Services,100.0,1533,sub,Google Play Services,20,<third>,<error>
+AdMob,AdMob,100.0,1554,sub,AdMob,5,<third>,<error>
+Firebase Analytics,Firebase Analytics,100.0,1560,sub,Firebase Analytics,18,<third>,<error>
+ironSource mobile ltd,ironSource mobile ltd,100.0,1579,sub,ironSource mobile ltd,21,<third>,<error>
+ADVERTISING,ADVERTISING,100.0,1601,main,"ADVERTISING:We use Admob, Facebook, IronSource as Ads Provider. Admob, Facebook, IronSource  may collect some information to improve your ads, show ads that relevant to you.",173,<generic>,<error>
+ANALYTICS,ANALYTICS,100.0,1776,main,ANALYTICS:We may use third-party Service Providers to monitor and analyze the use of our Service.,97,<generic>,<error>
+Google Analytics,Google Analytics,100.0,1875,sub,"Google Analytics:Google Analytics is a analytics service offered by Google that tracks and reports user traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en",491,<third>,<error>
+SECURITY,SECURITY,100.0,2369,main,"SECURITY:The security of your data is very very important to us and we ensure your information we use in the applications will not be sent to anyone with internet, all your information are stored in your device storage.",219,<security>,<error>
+PERMISSIONS,PERMISSIONS,100.0,2590,main,PERMISSIONS:- ,14,<first>,<error>
+Permission android.permission.,Permission android.permission.,100.0,2605,sub,Permission android.permission.,30,<first>,<error>
+READ_CONTACTS,READ_CONTACTS,100.0,2636,sub,READ_CONTACTS,13,<error>,<error>
+only read favorite contacts for user quickly to dialer.,only read favorite contacts for user quickly to dialer.,100.0,2650,sub,only read favorite contacts for user quickly to dialer.- ,57,<error>,<error>
+Permission android.permission.,Permission android.permission.,100.0,2708,sub,Permission android.permission.,30,<first>,<error>
+ACCESS_FINE_LOCATION,ACCESS_FINE_LOCATION,100.0,2739,sub,ACCESS_FINE_LOCATION,20,<error>,<error>
+",",",",100.0,2760,sub,",",1,<error>,<error>
+ACCESS_COARSE_LOCATION,ACCESS_COARSE_LOCATION,100.0,2762,sub,ACCESS_COARSE_LOCATION,22,<error>,<error>
+only listen location of device to weather forecast function.,only listen location of device to weather forecast function.,100.0,2785,sub,only listen location of device to weather forecast function.- ,62,<error>,<error>
+Permission android.permission.,Permission android.permission.,100.0,2848,sub,Permission android.permission.,30,<first>,<error>
+READ_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,100.0,2879,sub,READ_EXTERNAL_STORAGE,21,<error>,<error>
+"only use for access device wallpaper to blur widget, folder, hot seat.","only use for access device wallpaper to blur widget, folder, hot seat.",100.0,2901,sub,"only use for access device wallpaper to blur widget, folder, hot seat.- ",72,<error>,<error>
+Permission android.permission.,Permission android.permission.,100.0,2974,sub,Permission android.permission.,30,<error>,<error>
+WRITE_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,100.0,3005,sub,WRITE_EXTERNAL_STORAGE,22,<error>,<error>
+only use for save device wallpaper.,only use for save device wallpaper.,100.0,3028,sub,only use for save device wallpaper.- ,37,<error>,<error>
+Permission android:name=android.permission.,Permission android:name=android.permission.,100.0,3066,sub,Permission android:name=android.permission.,43,<error>,<error>
+READ_CALENDAR,READ_CALENDAR,100.0,3110,sub,READ_CALENDAR,13,<error>,<error>
+to build Calendar widget.,to build Calendar widget.,100.0,3124,sub,to build Calendar widget.- ,27,<error>,<error>
+Permission android.permission.,Permission android.permission.,100.0,3152,sub,Permission android.permission.,30,<error>,<error>
+BIND_NOTIFICATION_LISTENER_SERVICE,BIND_NOTIFICATION_LISTENER_SERVICE,100.0,3183,sub,BIND_NOTIFICATION_LISTENER_SERVICE,34,<error>,<error>
+only listen notifications to show for users.,only listen notifications to show for users.,100.0,3218,sub,only listen notifications to show for users.- ,46,<error>,<error>
+Permission android.permission.,Permission android.permission.,100.0,3265,sub,Permission android.permission.,30,<error>,<error>
+BIND_ACCESSIBILITY_SERVICE,BIND_ACCESSIBILITY_SERVICE,100.0,3296,sub,BIND_ACCESSIBILITY_SERVICE,26,<error>,<error>
+to allow apps to draw on phone's lock screen and status bar.,to allow apps to draw on phone's lock screen and status bar.,100.0,3323,sub,to allow apps to draw on phone's lock screen and status bar.,60,<error>,<error>
+ACCESSIBILITY,ACCESSIBILITY,100.0,3384,main,"ACCESSIBILITYThe application commits not to collect or share any user information about this accessibility right.Apps need accessibility permission for the following purposes:To use functions: go home, recent apps, go back, lock screen...Set up the lock screen and display the Control Center.Listen to the open application to use the ""Animation App"" function.",359,<access>,<error>
+CONTACT US,CONTACT US,100.0,3749,main,CONTACT US:,11,<contact>,<error>
+"If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at","If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at",100.0,3761,sub,"If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at",98,<error>,<error>
+bluesky.encode@gmail.com,bluesky.encode@gmail.com,100.0,3860,sub,bluesky.encode@gmail.comTHANK YOU SO MUCH!Report abusePage detailsPage updatedGoogle SitesReport abuse,102,<error>,<error>

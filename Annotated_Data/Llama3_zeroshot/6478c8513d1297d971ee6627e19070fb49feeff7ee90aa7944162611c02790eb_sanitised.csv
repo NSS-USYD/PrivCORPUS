@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Karaoke Mode - ,15,<error>,<error>
+Privacy policy,Privacy policy,100.0,15,main,"Privacy policyPrivacy policyPlease read this privacy policy carefully. By using the ""Karaoke Mode"" app you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all of the terms and conditions set forth below, you may not use this app.",323,<error>,<error>
+What information we collect,What information we collect,100.0,341,main,What information we collectSome information may be collected by AdMob for advertising purposes (Google Privacy & Terms).,120,<first>,<what>
+Requested permissions of Android device,Requested permissions of Android device,100.0,465,main,Requested permissions of Android device,39,<first>,<how-gathered>
+Write external storage:,Write external storage:,100.0,505,sub,Write external storage:used to save the user recorded voice in the karaokes and for caching thumbnails to offer better experience.,130,<first>,<how-gathered>
+Record audio:,Record audio:,100.0,637,sub,Record audio:used to allow the user to record his voice for the karaokes.,73,<first>,<how-gathered>
+Wake lock:,Wake lock:,100.0,712,sub,Wake lock:this prevents the phone going to sleep mode while recording a song.,77,<first>,<how-gathered>
+Internet:,Internet:,100.0,791,sub,Internet:used for streaming of the Youtube Karaoke Videos and used by AdMob for advertising .,93,<first>,<how-gathered>

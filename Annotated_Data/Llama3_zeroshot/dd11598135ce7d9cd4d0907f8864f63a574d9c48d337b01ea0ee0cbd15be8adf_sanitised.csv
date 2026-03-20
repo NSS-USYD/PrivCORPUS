@@ -1,0 +1,22 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Jmz Software,12,<error>,<error>
+Home,Home,100.0,13,main,Home,4,<error>,<other>
+About,About,100.0,18,sub,About,5,<error>,<other>
+Our Works,Our Works,100.0,24,sub,Our Works,9,<first>,<other>
+Status,Status,100.0,34,sub,Status,6,<error>,<other>
+Services,Services,100.0,41,sub,Services,8,<error>,<other>
+Contact,Contact,100.0,50,sub,Contact,7,<first>,<other>
+We are,We are,100.0,58,sub,"We areJmz Software, LLC is a software development firm that is dedicated to the c",81,<error>,<other>
+US,us,100.0,140,sub,"ustomers and believes in open source.Contact UsABOUTUSJmz Software, LLC is a software development firm that is dedicated to the customers and believes in open source. After being in the Android development community for several years, we (James Taylor and Bret Zamzow) decided to ",280,<generic>,<other>
+About Jmz Software,start Jmz Software,83.33333333333334,424,sub,"start Jmz Software. We were active duty military at the time that Jmz Software started. The drive and dedication we learned while serving our country has helped fuel the pride and work they put into Jmz Software. Jmz Software was officially founded in September of 2013 and launched TWRP Manager, our first app, in October of the same year.TWRP Manager has had over four million downloads and maintains a ",405,<generic>,<other>
+Our Story,four star,77.77777777777779,830,sub,"four star rating on the Play Store. In that time frame, we have kept the interface up to date with current design trends and added more functionality to include a Live Backup system. We have gone on to develop several other apps while still maintaining their open source roots. We both still contribute to open source Android ROMs as well as PHPBB modules and even open source apps.",382,<first>,<other>
+Our Story,four star,77.77777777777779,830,sub,We have worked with several development teams in the past to provide assistance and improve software. We have also taken on contract work in support of US Government agencies. Most recently we were contracted by a company named Compliant Campaign and met every objective and even added extra features for the customer.The dedication to the customer does not waiver and we have a great customer supp,398,<first>,<other>
+Our Team,ort team,87.5,1612,sub,ort team. We are very active in responding to reviews on the Play Store and replying to emails for support.,107,<first>,<other>
+Recent,Recent,100.0,1720,sub,Recent,6,<first>,<other>
+Works,Works,100.0,1727,sub,WorksSee some of our apps and designs below:Mobile App DevelopmentPhotoshopPermissions ManagementIllustratorAdvanced PermissionsHtml / CssLoad MoreTotal DownloadedEditors SupportedLanguages DetectedHappy Clients,211,<first>,<other>
+We Specialize,We Specialize,100.0,1951,sub,We Specialize,13,<first>,<other>
+In,In,100.0,1965,sub,"InMobile and web app developmentWeb ApplicationsCreating fully responsive and dynamic web applicationsSEOProperly and quickly searchable websitesTruly MultipurposeFull-stack software that can do whatever you need it to.Graphic DesignPixel perfect design services to meet every need.AnalyticsTrue data analytics services that will help tell the story of any data for any need.Unlimited ColorsWe put a lot of effort in design, as it’s the most important ingredient of successful website.",485,<first>,<other>
+Contact,Contact,100.0,2464,sub,Contact,7,<first>,<other>
+Us,Us,100.0,2472,sub,UsLooking for a quote? Please send as much detail as possible and we will respond promptlySEND,94,<first>,<other>
+Terms of Use,Terms of Use,100.0,2569,sub,Terms of Use,12,<third>,<other>
+Privacy Policy,Privacy Policy,100.0,2582,sub,Privacy Policy© 2023 Jmz Software. All rights reserved.,55,<generic>,<what>

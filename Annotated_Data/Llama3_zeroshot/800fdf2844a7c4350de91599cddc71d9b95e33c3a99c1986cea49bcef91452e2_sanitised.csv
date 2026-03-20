@@ -1,0 +1,7 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Blur EffectSearch this siteSkip to main contentSkip to navigationBlur Effect,76,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,81,main,Privacy Policy,14,<error>,<error>
+Personal Information,Personal Information,100.0,96,main,"Personal InformationBlur Effect app does not violate any kinds of users privacy. This app does not collect any personal information such as user name, email address, mobile number or precise geographic location.",211,<generic>,<error>
+Sensitive Permissions,Sensitive Permissions,100.0,309,main,Sensitive PermissionsIn order to use this app it needs some sensitive users permissions such as...1. Internet access (to show ad and fetch remote data )2. Device storage read permission ( to read media file when you want to work with them)3. Device storage write permission (to write media file when you want to save your working file ),336,<error>,<error>
+Contact Us,Contact Us,100.0,650,main,"Contact UsIf you have any questions regarding our privacy while using the Application, or have questions about our practices, please contact us via email at bluefishapp@gmail.com",178,<contact>,<error>
+Report Abuse,Report abuse,100.0,830,sub,Report abuseGoogle SitesReport abuse,36,<generic>,<error>

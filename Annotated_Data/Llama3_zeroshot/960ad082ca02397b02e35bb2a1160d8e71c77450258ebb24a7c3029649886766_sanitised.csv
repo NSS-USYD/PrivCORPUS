@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Quartic Software - PrivacyHome ofRealCalcScientificCalculatorHomeNewsScreenshotsFAQHelpView in mobileContents:,110,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,122,main,Privacy Policy,14,<generic>,<error>
+What data do we collect?,What data do we collect?,100.0,137,main,What data do we collect?,24,<first>,<error>
+How do we use your data?,How do we use your data?,100.0,162,main,How do we use your data?,24,<first>,<error>
+How do we store your data?,How do we store your data?,100.0,187,main,How do we store your data?,26,<retention>,<error>
+Who do we share your data with?,Who do we share your data with?,100.0,214,main,Who do we share your data with?,31,<third>,<error>
+How do we use cookies?,How do we use cookies?,100.0,246,main,How do we use cookies?Privacy PolicyThis privacy policy applies to both the Quartic Software website and RealCalc Scientific Calculator apps.What data do we collect?None.How do we use your data?We don't.How do we store your data?We don't.Who do we share your data with?Nobody.How do we use cookies?We don't.Privacy,314,<tracking>,<error>

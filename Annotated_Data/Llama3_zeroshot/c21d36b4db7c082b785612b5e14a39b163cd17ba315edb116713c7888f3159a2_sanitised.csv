@@ -1,0 +1,50 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Главная страницаSearch this siteSkip to main contentSkip to navigation,70,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,74,main,"Privacy PolicyPrivacy PolicyAndiQwer built the Guns Mods for Minecraft PE | weapons & swords app as an Ad Supported app. This app  is provided by at no cost and is intended for use as is.This privacy policy is used to inform you regarding policies with the collection, use, anddisclosure of Personal Information if anyone decided to use this Service.",350,<generic>,<error>
+1. Overview,1. Overview,100.0,429,main,1. ,3,<error>,<error>
+Overview,Overview,100.0,432,sub,OverviewThe app uses advertising and in app payments to make revenue. The app uses third partylibraries for advertising which may collect and share personal information with thirdparties.Links to privacy policies of third party service providers used in the appGoogle Play ServicesAdMobFirebase analytics,304,<generic>,<error>
+2. Sharing Your Information,2. Sharing Your Information,100.0,744,main,2. ,3,<error>,<error>
+Sharing Your Information,Sharing Your Information,100.0,747,sub,Sharing Your InformationThe developer will share personal information with third parties only in the ways that aredescribed in this privacy statement.,150,<first>,<error>
+Your personal information may be disclosed:,Your personal information may be disclosed:,100.0,900,sub,Your personal information may be disclosed:,43,<error>,<error>
+1. As required by law,"
+* As required by law",90.47619047619048,943,sub,"* As required by law, such as to comply with a subpoena, or similar legal process",81,<third>,<error>
+2. To any other third party with your prior consent,".
+* To any other third party with your prior consen",96.07843137254902,1025,sub,.* To any other third party with your prior consent to do so.,61,<third>,<error>
+3. What information are collected and why,3. What information are collected and why,100.0,1088,sub,3. What information are collected and why,41,<error>,<error>
+3.1 AdMob,3.1 AdMob,100.0,1130,sub,"3.1 AdMobAdMob, is Google's mobile app advertising platform designed specifically for appdevelopers. In order to understand Google's use of Data, consult Google's partner policy.",178,<error>,<error>
+Personal Data:,Personal Data:,100.0,1311,sub,Personal Data:,14,<first>,<error>
+"1. Online identifiers, including cookie identifiers","
+* Online identifiers, including cookie identifiers",96.07843137254902,1325,sub,"* Online identifiers, including cookie identifiers",50,<first>,<error>
+2. IP addresses,"
+* IP addresses",86.66666666666667,1376,sub,* IP addresses,14,<first>,<error>
+3. Device identifiers,"
+* Device identifiers",90.47619047619048,1391,sub,* Device identifiers,20,<first>,<error>
+4. Client identifiers,"
+* Client identifiers",90.47619047619048,1412,sub,* Client identifiers,20,<first>,<error>
+"5. unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)","
+* unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)",97.72727272727273,1433,sub,"* unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)",87,<first>,<error>
+6. Usage Data.,"
+* Usage Data.",85.71428571428572,1521,sub,* Usage Data.,13,<first>,<error>
+Retention:,Retention:,100.0,1536,sub,Retention:,10,<retention>,<error>
+Google anonymizes the log data by removing part of the IP address (after 9 months) and cookie information (after 18 months),"Google anonymizes the log data by removing part of the IP address (after 9 months) and
+cookie information (after 18 months)",99.1869918699187,1547,sub,Google anonymizes the log data by removing part of the IP address (after 9 months) andcookie information (after 18 months),122,<error>,<error>
+Online resources:,Online resources:,100.0,1671,sub,"Online resources:*Privacy Policy*Opt out*Service Information*Partner policy*Ad technology providers3.2 Google Play ServicesGoogle Play Services offers APIs and security services to the Android developer ecosystem.Google acts as a data controller for any personal data processed in Google Play Services,and offers user notices and consents about the use of personal data in the service’s userinterface in Android.Collected informations:* Device information* Log information* Location information",494,<third>,<error>
+Online resources:,Online resources:,100.0,1671,sub,"* Unique application numbers* Local storage* Cookies and similar technologiesGoogle use the collected information to provide, maintain, protect and improve Google'sservices, to develop new ones, and to protect Google and the users. Google also use thisinformation to offer you tailored content – like giving you more relevant search resultsand ads.Online resources:*Google Terms of Service*Goog",394,<third>,<error>
+1. Privacy Policy,le Privacy Policy,88.23529411764706,2590,sub,le Privacy Policy,17,<third>,<error>
+3.3 Firebase analytics,"3.3
+Firebase
+analytics",90.9090909090909,2608,sub,3.3Firebaseanalytics,20,<error>,<error>
+Personal Data:,Personal Data:,100.0,2631,sub,Personal Dat,12,<first>,<error>
+1. Cookies,a: Cookies,80.0,2643,sub,a: Cookie,9,<first>,<error>
+"2. unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)","s; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)",97.72727272727273,2652,sub,"s; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example",87,<first>,<error>
+3. Usage Data,); Usage Data,84.61538461538461,2739,sub,); Usage Data,13,<first>,<error>
+4. Security,4. Security,100.0,2753,main,4. ,3,<error>,<error>
+Security,Security,100.0,2756,sub,"SecurityI am striving to use commercially acceptable means of protecting your PersonalInformation. But remember that no method of transmission over the internet, or method ofelectronic storage is 100% secure and reliable, and I cannot guarantee its absolutesecurity.",266,<security>,<error>
+5. Links to Other Sites,5. Links to Other Sites,100.0,3027,main,5. ,3,<third>,<error>
+Links to Other Sites,Links to Other Sites,100.0,3030,sub,"Links to Other SitesThis Service may contain links to other sites. If you click on a third-party link, youwill be directed to that site. Note that these external sites are not operated by me.Therefore, I strongly advise you to review the Privacy Policy of these websites. I haveno control over and assume no responsibility for the content, privacy policies, orpractices of any third-party sites or services.",407,<error>,<error>
+6. Children’s Privacy,6. Children’s Privacy,100.0,3443,main,6. ,3,<audience>,<error>
+Children’s Privacy,Children’s Privacy,100.0,3446,sub,"Children’s PrivacyThese Services do not address anyone under the age of 13. I do not knowingly collectpersonally identifiable information from children under 13. In the case I discover thata child under 13 has provided me with personal information, I immediately delete thoseinformations. If you are a parent or guardian and you are aware that your child hasprovided personal information, please contact me so that I will be able to do necessaryactions.",453,<error>,<error>
+7. Distribution,7. Distribution,100.0,3906,main,7. ,3,<region>,<error>
+Distribution,Distribution,100.0,3909,sub,"DistributionThe only official channel for distribution of this app are:*Google Play StoreAny other mode of distribution is not official and thus, is not maintained by the developer.This privacy policy is effective to distribution made on official channel only.",260,<error>,<error>
+8. Changes to This Privacy Policy,8. Changes to This Privacy Policy,100.0,4175,main,8. ,3,<change>,<error>
+Changes to This Privacy Policy,Changes to This Privacy Policy,100.0,4178,sub,"Changes to This Privacy PolicyThis policy may be updated from time to time.If you have any questions or suggestions about my Privacy Policy, do not hesitate tocontact me.devandiqwer@gmail.comReport abusePage detailsPage updatedGoogle SitesReport abuse",251,<error>,<error>

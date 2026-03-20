@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Privacy policy,14,<error>,<error>
+What personal information do we collect from the people that use our app?,What personal information do we collect from the people that use our app?,100.0,15,main,"What personal information do we collect from the people that use our app?Name,Email,Location,Browser History",108,<first>,<what>
+When do we collect information?,When do we collect information?,100.0,125,main,When do we collect information?At the first start of the app.,61,<first>,<when>
+How do we use your information?,How do we use your information?,100.0,188,main,How do we use your information?To personalize the user experience for each user. This might be different advertisements or different game behaviour.,148,<first>,<how-used>
+How do we protect your information?,How do we protect your information?,100.0,338,main,How do we protect your information?The app does not send your Name and Email outside of the app / other services. ,114,<security>,<how-used>
+Third-party disclosure,Third-party disclosure,100.0,453,main,"Third-party disclosure We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.",128,<third>,<what>
+Opting out,Opting out,100.0,582,main,Opting out:You can opt out by sending an email request to our developer email which you can find in google play store.,118,<choice>,<other>

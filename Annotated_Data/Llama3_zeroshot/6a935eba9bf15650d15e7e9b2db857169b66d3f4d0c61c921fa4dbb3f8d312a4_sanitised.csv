@@ -1,0 +1,13 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Distance and Area Measurement privacy policyDistance and Area Measurement privacy policy,88,<error>,<error>
+Introduction,Introduction,100.0,90,main,IntroductionDistance and Area Measurement is an application devloped and released by Second Tech AB.			This document describes what data may be collected when you use Distance and Area Measurement and for what purpose this data is collected.,241,<generic>,<error>
+What data we collect,What data we collect,100.0,334,main,"What data we collectDistance and Area Measurement does not collect any personal data directly.			However, trusted third party services are used to collect data required to display advertisement, process payments, and provide usage statistics.			See the ""list of privacy policies for third party services"" below for links to privacy policies detailing what data is collected by these services.",392,<first>,<error>
+Legal basis for collecting data,Legal basis for collecting data,100.0,730,main,Legal basis for collecting dataTo use the application the user must first accept the privacy policy.,100,<first>,<error>
+List of privacy policies for third party services,List of privacy policies for third party services,100.0,832,main,List of privacy policies for third party services,49,<third>,<error>
+Google Play Services,Google Play Services,100.0,882,sub,Google Play Services,20,<third>,<error>
+AdMob,AdMob,100.0,903,sub,AdMob,5,<third>,<error>
+Firebase Analytics,Firebase Analytics,100.0,909,sub,Firebase Analytics,18,<third>,<error>
+User rights,User rights,100.0,928,main,"User rightsDistance and Area Measurement does not itself collect or store any personal information.			For inquires about, and request for removal of, any personal information stored by third parties, plaease send a mail to kristofer.bjornson@second-tech.com titled ""Personal information"".",288,<choice>,<error>
+Access to sensitive services,Access to sensitive services,100.0,1219,main,"Access to sensitive servicesDistance and Area Measurement requires access to the device storage to save data.			Access is also required to the GPS, but the GPS data never leaves the phone.",188,<access>,<error>
+Change of privacy policy,Change of privacy policy,100.0,1410,main,Change of privacy policyUpdates to the privacy policy will be anounced through application updates.,99,<change>,<error>
+Effective date of privacy policy,Effective date of privacy policy,100.0,1511,main,"Effective date of privacy policyThis is the Distance and Area Measurement privacy policy 1.1, effective as of the 25th of June 2022.",132,<retention>,<error>

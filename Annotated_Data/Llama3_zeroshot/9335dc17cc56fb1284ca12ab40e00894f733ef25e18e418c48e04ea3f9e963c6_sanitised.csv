@@ -1,0 +1,52 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy PolicyPrivacy Policy,28,<generic>,<error>
+As a general rule,As a general rule,100.0,30,main,"As a general rule,				",22,<generic>,<error>
+this web site does not collect Personal Information about you when,this web site does not collect Personal Information about you when,100.0,53,sub,this web site does not collect Personal Information about you when				you visit the site. ,90,<error>,<error>
+You can generally visit the site without,You can generally visit the site without,100.0,144,sub,You can generally visit the site without				,44,<first>,<error>
+"revealing Personal Information, unless you choose to provide such","revealing Personal Information, unless you choose to provide such",100.0,189,sub,"revealing Personal Information, unless you choose to provide such				",69,<error>,<error>
+information. Any Personal information collected shall be used only,information. Any Personal information collected shall be used only,100.0,259,sub,information. Any Personal information collected shall be used only				,70,<first>,<error>
+for the purpose for which you have provided it. In very exceptional,for the purpose for which you have provided it. In very exceptional,100.0,330,sub,for the purpose for which you have provided it. In very exceptional				,71,<error>,<error>
+"cases, data could be shared with other government agencies, but this","cases, data could be shared with other government agencies, but this",100.0,402,sub,"cases, data could be shared with other government agencies, but this				",72,<third>,<error>
+will be done only after following the due process. This site may,will be done only after following the due process. This site may,100.0,475,sub,will be done only after following the due process. This site may				,68,<error>,<error>
+contain links to third party sites whose data protection and privacy,contain links to third party sites whose data protection and privacy,100.0,544,sub,contain links to third party sites whose data protection and privacy				,72,<third>,<error>
+practices may differ from ours. We therefore have no responsibility,practices may differ from ours. We therefore have no responsibility,100.0,617,sub,practices may differ from ours. We therefore have no responsibility				,71,<error>,<error>
+"for the content, privacy practices and activities of other websites","for the content, privacy practices and activities of other websites",100.0,689,sub,"for the content, privacy practices and activities of other websites				",71,<error>,<error>
+and encourage you to consult the privacy notices of those sites.,and encourage you to consult the privacy notices of those sites.,100.0,761,sub,and encourage you to consult the privacy notices of those sites.,64,<error>,<error>
+Site Visit Data,Site Visit Data,100.0,826,main,Site Visit Data,15,<first>,<error>
+This website records,This website records,100.0,842,sub,This website records				,24,<error>,<error>
+your visit and logs the following information for statistical and,your visit and logs the following information for statistical and,100.0,867,sub,your visit and logs the following information for statistical and				,69,<first>,<error>
+security purposes your server's address; the name of the top-level,security purposes your server's address; the name of the top-level,100.0,937,sub,security purposes your server's address; the name of the top-level				,70,<error>,<error>
+"domain from which you access the Internet (for example,.gov,.com,","domain from which you access the Internet (for example, .gov, .co",96.92307692307692,1008,sub,"domain from which you access the Internet (for example, .gov, .com,				",71,<error>,<error>
+".in, etc.); the type of browser you use; the date and time you",".in, etc.); the type of browser you use; the date and time you",100.0,1080,sub,".in, etc.); the type of browser you use; the date and time you				",66,<error>,<error>
+access the site; the pages you have accessed and the documents,access the site; the pages you have accessed and the documents,100.0,1147,sub,access the site; the pages you have accessed and the documents				,66,<error>,<error>
+downloaded and the previous Internet address from which you linked,downloaded and the previous Internet address from which you linked,100.0,1214,sub,downloaded and the previous Internet address from which you linked				,70,<error>,<error>
+directly to the site.,directly to the site.,100.0,1285,sub,directly to the site.,21,<error>,<error>
+"We will not identify users or their browsing activities, except when","We will not identify users or their browsing activities, except when",100.0,1307,main,"We will not identify users or their browsing activities, except when				",72,<error>,<error>
+a law enforcement agency may exercise a warrant to inspect the,a law enforcement agency may exercise a warrant to inspect the,100.0,1380,sub,a law enforcement agency may exercise a warrant to inspect the				,66,<error>,<error>
+service provider's logs.,service provider's logs.,100.0,1447,sub,service provider's logs.,24,<error>,<error>
+Cookies,Cookies,100.0,1472,main,Cookies,7,<first>,<error>
+Cookie is a piece of,Cookie is a piece of,100.0,1480,sub,Cookie is a piece of				,24,<error>,<error>
+software code that an internet web site sends to your browser when,software code that an internet web site sends to your browser when,100.0,1505,sub,software code that an internet web site sends to your browser when				,70,<error>,<error>
+you access information at that site. This site does not use cookies.,you access information at that site. This site does not use cookies.,100.0,1576,sub,you access information at that site. This site does not use cookies.,68,<error>,<error>
+Email Management,Email Management,100.0,1645,main,Email Management,16,<first>,<error>
+Your email address,Your email address,100.0,1662,sub,Your email address				,22,<error>,<error>
+will only be recorded if you choose to send/receive a message. It,will only be recorded if you choose to send/receive a message. It,100.0,1685,sub,will only be recorded if you choose to send/receive a message. It				,69,<first>,<error>
+will only be used for the purpose for which you have provided it and,will only be used for the purpose for which you have provided it and,100.0,1755,sub,will only be used for the purpose for which you have provided it and				,72,<first>,<error>
+will not be added to a mailing list. Your email address will not be,will not be added to a mailing list. Your email address will not be,100.0,1828,sub,will not be added to a mailing list. Your email address will not be				,71,<error>,<error>
+"used for any other purpose, and will not be disclosed, without your","used for any other purpose, and will not be disclosed, without your",100.0,1900,sub,"used for any other purpose, and will not be disclosed, without your				",71,<first>,<error>
+consent.,consent.,100.0,1972,sub,consent.,8,<error>,<error>
+If at any time you believe the principles referred to in this,If at any time you believe the principles referred to in this,100.0,1981,main,If at any time you believe the principles referred to in this				,65,<error>,<error>
+"privacy policy have not been followed, or have any other comments on","privacy policy have not been followed, or have any other comments on",100.0,2047,sub,"privacy policy have not been followed, or have any other comments on				",72,<error>,<error>
+"these principles, please notify the Project Director, Passport Seva","these principles, please notify the Project Director, Passport Seva",100.0,2120,sub,"these principles, please notify the Project Director, Passport Seva				",71,<error>,<error>
+Project at:,Project at:,100.0,2192,sub,Project at:CPV,14,<error>,<error>
+"CPV Division, Ministry of External Affairs","				Division, Ministry of External Affairs",90.47619047619048,2208,main,"				Division, Ministry of External Affairs",42,<contact>,<error>
+"Patiala House Annexe,","Patiala House Annexe,",100.0,2251,sub,"Patiala House Annexe,",21,<error>,<error>
+"Tilak Marg, New Delhi-110001","Tilak Marg, New Delhi-110001",100.0,2273,sub,"Tilak Marg, New Delhi-110001",28,<error>,<error>
+E-mail:,E-mail:,100.0,2302,sub,E-mail:,7,<error>,<error>
+dirpsp@mea.gov.in,dirpsp@mea.gov.in,100.0,2310,sub,dirpsp@mea.gov.in,17,<contact>,<error>
+Fax: 011-23386082,Fax: 011-23386082,100.0,2328,sub,Fax: 011-23386082,17,<contact>,<error>
+Note:,Note:,100.0,2346,main,Note:,5,<error>,<error>
+The use,The use,100.0,2352,sub,The use				,11,<error>,<error>
+"of the term ""Personal Information"" in this privacy statement refers","of the term ""Personal Information"" in this privacy statement refers",100.0,2364,sub,"of the term ""Personal Information"" in this privacy statement refers				",71,<error>,<error>
+to any information from which your identity is apparent or can be,to any information from which your identity is apparent or can be,100.0,2436,sub,to any information from which your identity is apparent or can be				,69,<error>,<error>
+reasonably ascertained.,reasonably ascertained.,100.0,2506,sub,reasonably ascertained.Close,28,<error>,<error>

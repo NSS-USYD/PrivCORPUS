@@ -1,0 +1,3 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+PRIVACY AND COOKIES,PRIVACY AND COOKIES,100.0,0,main,PRIVACY AND ,12,<error>,<error>
+Cookies,COOKIES,100.0,12,sub,COOKIESUpdated on 27 Oct 2020,29,<tracking>,<error>

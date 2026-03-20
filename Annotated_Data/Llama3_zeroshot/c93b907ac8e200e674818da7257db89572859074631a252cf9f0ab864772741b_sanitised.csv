@@ -1,0 +1,69 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Aptitude Questions and Answers - IndiaBIX,41,<error>,<error>
+Home,Home,100.0,42,main,Home,4,<generic>,<error>
+Arithmetic Aptitude,Arithmetic Aptitude,100.0,47,sub,Arithmetic Aptitude,19,<generic>,<error>
+Data Interpretation,Data Interpretation,100.0,67,sub,Data Interpretation,19,<generic>,<error>
+Verbal Ability,Verbal Ability,100.0,87,sub,Verbal Ability,14,<generic>,<error>
+Logical Reasoning,Logical Reasoning,100.0,102,sub,Logical Reasoning,17,<generic>,<error>
+Verbal Reasoning,Verbal Reasoning,100.0,120,sub,Verbal Reasoning,16,<generic>,<error>
+Nonverbal Reasoning,Nonverbal Reasoning,100.0,137,sub,Nonverbal Reasoning,19,<generic>,<error>
+Online Tests,Online Tests,100.0,157,sub,Online Tests,12,<generic>,<error>
+Current Affairs,Current Affairs,100.0,170,sub,Current Affairs,15,<generic>,<error>
+General Knowledge,General Knowledge,100.0,186,sub,General Knowledge,17,<generic>,<error>
+HR Interview,HR Interview,100.0,204,sub,HR Interview,12,<generic>,<error>
+Group Discussion,Group Discussion,100.0,217,sub,Group Discussion,16,<generic>,<error>
+Placement Papers,Placement Papers,100.0,234,sub,Placement Papers,16,<generic>,<error>
+Technical Interview,Technical Interview,100.0,251,sub,Technical Interview,19,<generic>,<error>
+Mechanical Engineering,Mechanical Engineering,100.0,271,sub,Mechanical Engineering,22,<generic>,<error>
+Civil Engineering,Civil Engineering,100.0,294,sub,Civil Engineering,17,<generic>,<error>
+ECE,ECE,100.0,312,sub,ECE,3,<generic>,<error>
+EEE,EEE,100.0,316,sub,EEE,3,<generic>,<error>
+CSE,CSE,100.0,320,sub,CSERead more…,13,<generic>,<error>
+C Programming,C Programming,100.0,335,sub,C Programming,13,<generic>,<error>
+C++,C++,100.0,349,sub,C++,3,<generic>,<error>
+C#,C#,100.0,353,sub,C#,2,<generic>,<error>
+Java,Java,100.0,356,sub,Java,4,<generic>,<error>
+Database,Database,100.0,361,sub,Database,8,<generic>,<error>
+Networking,Networking,100.0,370,sub,Networking,10,<generic>,<error>
+Microbiology,Microbiology,100.0,381,sub,Microbiology,12,<generic>,<error>
+Biochemistry,Biochemistry,100.0,394,sub,Biochemistry,12,<generic>,<error>
+Biotechnology,Biotechnology,100.0,407,sub,Biotechnology,13,<generic>,<error>
+Biochemical,Biochemical,100.0,421,sub,Biochemical,11,<generic>,<error>
+Puzzles Quiz,Puzzles Quiz,100.0,433,sub,Puzzles Quiz,12,<generic>,<error>
+Sudoku,Sudoku,100.0,446,sub,Sudoku,6,<generic>,<error>
+Contact Us,Contact Us,100.0,453,sub,Contact Us,10,<generic>,<other>
+IndiaBIX,IndiaBIX,100.0,464,sub,IndiaBIXWelcome to IndiaBIX.Com!Aptitude questions and answers for your placement interviews and competitive exams!Aptitude Questions and Answers - IndiaBIX,156,<generic>,<error>
+Why should I learn to solve aptitude questions?,Why should I learn to solve aptitude questions?,100.0,624,sub,Why should I learn to solve aptitude questions?,47,<generic>,<why>
+"You have to learn and practise solving aptitude problems to enhance your mathematical and logical skills so that you can clear the interviews, competitive examinations, and various entrance tests (CAT, GATE, GRE, MAT, bank exams, railway exams, etc.) with full confidence.","You have to learn and practise solving aptitude problems to enhance your mathematical and logical skills so that you can clear the interviews, competitive examinations, and various entrance tests (CAT, GATE, GRE, MAT, bank exams, railway exams, etc.) with full confidence.",100.0,672,sub,"You have to learn and practise solving aptitude problems to enhance your mathematical and logical skills so that you can clear the interviews, competitive examinations, and various entrance tests (CAT, GATE, GRE, MAT, bank exams, railway exams, etc.) with full confidence.",272,<first>,<error>
+Where can I get aptitude questions and answers with explanations?,Where can I get aptitude questions and answers with explanations?,100.0,945,sub,Where can I get aptitude questions and answers with explanations?,65,<error>,<why>
+IndiaBIX provides you with numerous aptitude questions and answers with explanations. Fully solved problems with detailed answer descriptions and explanations are given and will be easy to understand.,IndiaBIX provides you with numerous aptitude questions and answers with explanations. Fully solved problems with detailed answer descriptions and explanations are given and will be easy to understand.,100.0,1011,sub,IndiaBIX provides you with numerous aptitude questions and answers with explanations. Fully solved problems with detailed answer descriptions and explanations are given and will be easy to understand.,200,<first>,<error>
+"Where can I get Aptitude MCQ Interview Questions and Answers (objective type, multiple choice)?","Where can I get Aptitude MCQ Interview Questions and Answers (objective type, multiple choice)?",100.0,1212,sub,"Where can I get Aptitude MCQ Interview Questions and Answers (objective type, multiple choice)?",95,<error>,<why>
+"In this section, you can find MCQ-type aptitude questions and answers for the interview and entrance examination. Objective-type and true-or-false-type questions are also given here.","In this section, you can find MCQ-type aptitude questions and answers for the interview and entrance examination. Objective-type and true-or-false-type questions are also given here.",100.0,1308,sub,"In this section, you can find MCQ-type aptitude questions and answers for the interview and entrance examination. Objective-type and true-or-false-type questions are also given here.",182,<first>,<error>
+How do I download aptitude questions in PDF format?,How do I download aptitude questions in PDF format?,100.0,1491,sub,How do I download aptitude questions in PDF format?,51,<error>,<why>
+You can download aptitude quiz questions and answers as PDF files or eBooks.,You can download aptitude quiz questions and answers as PDF files or eBooks.,100.0,1543,sub,You can download aptitude quiz questions and answers as PDF files or eBooks.,76,<first>,<error>
+How do I solve aptitude quiz problems?,How do I solve aptitude quiz problems?,100.0,1620,sub,How do I solve aptitude quiz problems?,38,<error>,<why>
+"You can easily solve all kinds of quiz questions based on aptitude by practising the given exercises, including shortcuts and tricks.","You can easily solve all kinds of quiz questions based on aptitude by practising the given exercises, including shortcuts and tricks.",100.0,1659,sub,"You can easily solve all kinds of quiz questions based on aptitude by practising the given exercises, including shortcuts and tricks.",133,<first>,<how-used>
+What are the main questions and answers sections provided on IndiaBIX.com?,What are the main questions and answers sections provided on IndiaBIX.com?,100.0,1793,sub,What are the main questions and answers sections provided on IndiaBIX.com?,74,<error>,<why>
+The following is the list of main subjects given on IndiaBIX.com:,The following is the list of main subjects given on IndiaBIX.com:,100.0,1868,sub,The following is the list of main subjects given on IndiaBIX.com:,65,<generic>,<error>
+Current Affairs,Current Affairs,100.0,1934,sub,Current Affairs,15,<error>,<error>
+Online Tests,Online Tests,100.0,1950,sub,Online Tests,12,<error>,<error>
+Arithmetic Aptitude,Arithmetic Aptitude,100.0,1963,sub,Arithmetic Aptitude,19,<error>,<error>
+Data Interpretation,Data Interpretation,100.0,1983,sub,Data Interpretation,19,<error>,<error>
+Verbal Ability,Verbal Ability,100.0,2003,sub,Verbal Ability,14,<error>,<error>
+Logical Reasoning,Logical Reasoning,100.0,2018,sub,Logical Reasoning,17,<error>,<error>
+Verbal Reasoning,Verbal Reasoning,100.0,2036,sub,Verbal Reasoning,16,<error>,<error>
+Nonverbal Reasoning,Nonverbal Reasoning,100.0,2053,sub,Nonverbal Reasoning,19,<error>,<error>
+General Knowledge,General Knowledge,100.0,2073,sub,General Knowledge,17,<error>,<error>
+Interview Questions,Interview Questions,100.0,2091,sub,Interview Questions,19,<error>,<error>
+Group Discussion,Group Discussion,100.0,2111,sub,Group Discussion,16,<error>,<error>
+Placement Papers,Placement Papers,100.0,2128,sub,Placement Papers,16,<error>,<error>
+Interview QAs,Interview QAs,100.0,2145,sub,Interview QAs,13,<error>,<error>
+"Programming: C, C++, C#, Java, etc.","Programming: C, C++, C#, Java, etc.",100.0,2159,sub,"Programming: C, C++, C#, Java, etc.",35,<error>,<error>
+"Engineering: Mechanical, Civil, ECE, EEE, CSE, etc.","Engineering: Mechanical, Civil, ECE, EEE, CSE, etc.",100.0,2195,sub,"Engineering: Mechanical, Civil, ECE, EEE, CSE, etc.",51,<error>,<error>
+"Technical: Database, Networking","Technical: Database, Networking",100.0,2247,sub,"Technical: Database, Networking",31,<error>,<error>
+"Others: Sudoku, Interview puzzles","Others: Sudoku, Interview puzzles",100.0,2279,sub,"Others: Sudoku, Interview puzzles",33,<error>,<error>
+The page you are looking for was not found.,The page you are looking for was not found.,100.0,2313,sub,The page you are looking for was not found.,43,<third>,<other>
+×,×,100.0,2357,sub,×© IndiaBIX™ TechnologiesContact Us,35,<error>,<error>
+Copyright,Copyright,100.0,2395,sub,Copyright,9,<first>,<other>
+Privacy Policy,"
+Privacy Polic",92.85714285714286,2404,sub,Privacy Policy,14,<change>,<other>

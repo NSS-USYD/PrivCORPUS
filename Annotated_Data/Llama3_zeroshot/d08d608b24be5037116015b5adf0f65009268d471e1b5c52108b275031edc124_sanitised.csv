@@ -1,0 +1,13 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Rain Alarm - ,13,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,13,main,Privacy PolicyRain AlarmPrivacy Policy,38,<generic>,<error>
+This App Requires,This app requires,100.0,54,main,This app requires the following ,32,<generic>,<what>
+Mandatory Information,mandatory information,100.0,86,sub,mandatory information:,22,<first>,<what>
+Location Data,Location data,100.0,109,sub,Location data (manual or automatic) and ,40,<first>,<what>
+App Instance ID,App Instance ID,100.0,149,sub,"App Instance ID for core warning functionalityData controller is Michael Diener - Software e.K.; data is pseudonymized, stored in the EU, automatically deleted 180 days after last use; might be used for querying weather information anonymously from a third party weather serviceApp Instance ID for push notifications",316,<first>,<what>
+App Instance ID,App Instance ID,100.0,149,sub,"Data controller is Michael Diener - Software e.K.; data processor is Google Firebase; data is pseudonymized, might be stored outside of EU via Privacy Shield, automatically deleted 180 days after last use",204,<first>,<what>
+Advertising ID,Advertising ID,100.0,673,sub,Advertising ID for showing advertisementData controller is Google;More Info[Yes | No] Personalized AdsSharing the f,115,<first>,<what>
+Optional Information,ollowing information,75.0,792,main,"ollowing information is optional and it would help us to improve the app:[Yes | No] App Instance ID, Advertising ID, and Android ID for ",136,<first>,<what>
+Analytics,analytics,100.0,929,sub,"analyticsData controller is Michael Diener - Software e.K.; data processor is Google Firebase Analytics; data is pseudonymized, might be stored outside of EU via Privacy Shield, automatically deleted after 14 monthsWe try to be as transparent as possible about data use. If you have any questions about your rights, you can ",324,<third>,<why>
+Contact Us,contact us,100.0,1255,sub,contact us via the help menu or at android@rain-alarm.com. You can change your privacy settings in the help menu.,113,<contact>,<how-gathered>
+Copyright,Copyright,100.0,1369,main,Copyright © 2023Michael Diener - Software e.K.,46,<not>,<when>

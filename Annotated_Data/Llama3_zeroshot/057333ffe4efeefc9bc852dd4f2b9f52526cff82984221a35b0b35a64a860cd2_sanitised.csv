@@ -1,0 +1,4 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Privacy PolicyPrivacy PolicyThe recorded audio by this application will no be stored out of your device, it is redirected to the audio output channel of your device",164,<error>,<error>
+隱私權政策,隱私權政策,100.0,167,main,隱私權政策此應用程序所收集的音訊，不會被儲存到本機以外的任何地方，直接被傳送到本機音訊輸出通道,47,<error>,<error>
+隐私权政策,隐私权政策,100.0,216,main,隐私权政策此应用程序所收集的音讯，不会被储存到本机以外的任何地方，直接被传送至本机音讯输出通道,47,<error>,<error>

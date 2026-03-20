@@ -1,0 +1,63 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy,Privacy,100.0,0,main,PrivacyPolicyYour privacy isextremely important to us and we are committed to protect it. Pleaseread our Privacy Policy carefully and email us if you have anyfurther questions or concerns.Note: Our PrivacyPolicy covers the use of our blog/website and all software productsdeveloped by ESSE Joint Stock Company and available on the GooglePlayâ„¢ store website.,359,<error>,<error>
+PERSONAL INFORMATION,PERSONAL INFORMATION,100.0,369,main,PERSONAL INFORMATION,20,<first>,<error>
+"We DO NOT collect, share, sell, send, store or use any personal information obtained while using any of our software applications or visiting our website.","We DO NOT collect,
+share, sell, send, store or use any personal information obtained
+while using any of our software applications or visiting our website.",98.7012987012987,390,sub,"We DO NOT collect,share, sell, send, store or use any personal information obtainedwhile using any of our software applications or visiting our website.",152,<error>,<error>
+We may use information submitted by you when you email us or submit an error report in order to improve our products and services to you.,"We may use information submitted by you when you email us or submit
+an error report in order to improve our products and services to you.",99.27007299270073,545,sub,"We may use information submitted by you when you email us or submitan error report in order to improve our products and services to you.NON-PERSONALINFORMATIONNon-personalinformation refers to information that cannot relate to a specificindividual. Such information may include the device id, model andbuild number, operating system version, application usage frequencye.t.c.We may collect",389,<error>,<error>
+"We may collect non-personal information from time to time in order to understand our users needs better, fix problems with our products, improve the quality of our products and improve the overall user experience with our products.","non-personal information from time to time in order to understand our
+users needs better, fix problems with our products, improve the
+quality of our products and improve the overall user experience with
+our products. In the case wh",92.20779220779221,944,sub,"non-personal information from time to time in order to understand ourusers needs better, fix problems with our products, improve thequality of our products and improve the overall user experience withour products. ",214,<error>,<error>
+"In the case where non-personal information is combined with personal information, this information will be treated as personal information.","In the case where non-personal information is combined
+with personal information, this information will be treated as
+personal information.",98.56115107913669,1161,sub,"In the case where non-personal information is combinedwith personal information, this information will be treated aspersonal information.",137,<error>,<error>
+PROTECTION OF PERSONAL INFORMATION,"PROTECTION OF
+PERSONAL INFORMATION",97.05882352941177,1301,main,PROTECTION OFPERSONAL INFORMATION,33,<first>,<error>
+"We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your information from unauthorized access and disclosure.","We take appropriate
+security measures (including physical, electronic and procedural
+measures) to help safeguard your information from unauthorized access
+and disclosure.",98.23529411764706,1336,sub,"We take appropriatesecurity measures (including physical, electronic and proceduralmeasures) to help safeguard your information from unauthorized accessand disclosure. ",168,<error>,<error>
+"Please know that, despite our efforts, no security measures are perfect or impenetrable.","Please know that, despite our efforts, no security
+measures are perfect or impenetrable.",98.86363636363636,1507,sub,"Please know that, despite our efforts, no securitymeasures are perfect or impenetrable.",87,<error>,<error>
+INFORMATION YOU SUBMIT TO OTHER SERVICES,"INFORMATION YOU
+SUBMIT TO OTHER SERVICES",97.5,1596,main,INFORMATION YOUSUBMIT TO OTHER SERVICES,39,<third>,<error>
+Please note that we cannot be held responsible for information you submit to other services (such as when submitting comments regarding our products to other websites).,"Please note that we
+cannot be held responsible for information you submit to other
+services (such as when submitting comments regarding our products to
+other websites).",98.21428571428571,1637,sub,Please note that wecannot be held responsible for information you submit to otherservices (such as when submitting comments regarding our products toother websites). ,166,<error>,<error>
+You should therefore take the necessary precautions when using other services in order to safeguard your personal information.,"You should therefore take the necessary precautions
+when using other services in order to safeguard your personal
+information.",98.41269841269842,1806,sub,You should therefore take the necessary precautionswhen using other services in order to safeguard your personalinformation.,124,<error>,<error>
+ADS,ADS,100.0,1933,main,ADS,3,<third>,<error>
+"Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.","Third party vendors,
+including Google, use cookies to serve ads based on a user's prior
+visits to our website.",98.18181818181819,1937,sub,"Third party vendors,including Google, use cookies to serve ads based on a user's priorvisits to our website.",108,<error>,<error>
+Ad networks may use cookies in our applications in order to improve the user's experience by serving relevant ads,"Ad networks may use
+cookies in our applications in order to improve the user's experience
+by serving relevant ads",98.23008849557522,2048,sub,Ad networks may usecookies in our applications in order to improve the user's experienceby serving relevant ads,111,<error>,<error>
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your based on your visit to our site and/or other sites on the Internet.,"Google's use of the
+DoubleClick cookie enables it and its partners to serve ads to your
+based on your visit to our site and/or other sites on the Internet.",98.70967741935483,2162,sub,Google's use of theDoubleClick cookie enables it and its partners to serve ads to yourbased on your visit to our site and/or other sites on the Internet.,153,<error>,<error>
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings,"Users may opt out of
+the use of the DoubleClick cookie for interest-based advertising by
+visiting Ads Settings",98.18181818181819,2318,sub,Users may opt out ofthe use of the DoubleClick cookie for interest-based advertising byvisiting Ads Settings,108,<error>,<error>
+Third party vendors may use the device's location in order to improve the quality of ads that are displayed to the user.,"Third party vendors
+may use the device's location in order to improve the quality of ads
+that are displayed to the user.",98.33333333333333,2429,sub,Third party vendorsmay use the device's location in order to improve the quality of adsthat are displayed to the user.,118,<error>,<error>
+PRIVACY POLICY UPDATES,"PRIVACY POLICY
+UPDATES",95.45454545454545,2550,main,PRIVACY POLICYUPDATES,21,<generic>,<error>
+"We may update our Privacy Policy from time to time, therefore you should check back often.","We may update our
+Privacy Policy from time to time, therefore you should check back
+often.",97.77777777777777,2573,sub,"We may update ourPrivacy Policy from time to time, therefore you should check backoften. ",89,<error>,<error>
+When we update our Privacy Policy we will post a notice on our website.,"When we update our Privacy Policy we will post a notice on our
+website.",98.59154929577466,2664,sub,When we update our Privacy Policy we will post a notice on ourwebsite. ,71,<error>,<error>
+You can always find the latest version of our Privacy Policy on this link.,"You can always find the latest version of our Privacy Policy
+on this link.",98.64864864864865,2736,sub,You can always find the latest version of our Privacy Policyon this link.,73,<error>,<error>
+HOW TO CONTACT US,HOW TO CONTACT US,100.0,2811,main,HOW TO CONTACT US,17,<contact>,<error>
+If you have any questions about our Privacy Policy you can email us using our developer contact email.,"If you have any
+questions about our Privacy Policy you can email us using our
+developer contact email.",98.0392156862745,2829,sub,If you have anyquestions about our Privacy Policy you can email us using ourdeveloper contact email.,100,<error>,<error>
+Our email can be found on the Google Play page or the About page of any of our applications.," Our email can be found on the Google Play
+page or the About page of any of our applications",97.82608695652173,2931,sub, Our email can be found on the Google Playpage or the About page of any of our applications.,92,<error>,<error>

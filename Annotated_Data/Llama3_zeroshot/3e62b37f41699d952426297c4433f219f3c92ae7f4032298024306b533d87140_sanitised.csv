@@ -1,0 +1,13 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy - Chartcross LimitedPrivacy PolicyWe a,53,<generic>,<error>
+Usage of Advertising Identifiers,re using advertising identifiers,84.375,55,sub,re using advertising identifiers to personalise the adverts shown to you and to also gather usage analytics.We share these identifiers and other personally non-identifiable information from your device with ouradvertising and analytics providers. Currently the following,270,<first>,<what>
+Third Party Providers," 3
+rd
+party providers",80.95238095238095,327,sub, 3rdparty providers and sdk's usedfor this are:,47,<third>,<other>
+Google AdMob,Google AdMob,100.0,378,sub,Google AdMob - for advertisements,33,<third>,<other>
+AppBrain,AppBrain,100.0,412,sub,AppBrain - for advertisements,29,<third>,<other>
+Google Firebase Analytics,Google Firebase Analytics,100.0,442,sub,Google Firebase Analytics - for gathering app usage analytics,61,<third>,<other>
+Google Firebase Remote Config,Google Firebase Remote Config,100.0,504,sub,Google Firebase Remote Config - for app configuration and informing of app sales,80,<third>,<other>
+Google's Privacy Policy,Google's privacy policy,100.0,585,sub,Google's privacy policycan be viewed here.,42,<third>,<other>
+AppBrain's Privacy Policy,AppBrain's privacy policy,100.0,630,sub,AppBrain's privacy policycan be viewed here.You can,51,<third>,<other>
+Opting Out of Targeted Advertisements, opt-out from targeted advertisements,86.48648648648648,684,sub, opt-out from targeted advertisements on the AdMob networkhereoron your device in:Settings -> Google -> AdsWe do not collect any information that could personally identify you without your explicit consent.Copyright © 2018 Chartcross Ltd,237,<choice>,<how-gathered>

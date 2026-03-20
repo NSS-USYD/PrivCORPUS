@@ -1,0 +1,8 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,ï»¿,3,<error>,<error>
+Privacy Policy - Adcoms,Privacy Policy - Adcoms,100.0,4,main,Privacy Policy - AdcomsPrivacy Policy - Adcoms,46,<error>,<error>
+This app is supported by ads from Google Advertising,This app is supported by ads from Google Advertising,100.0,52,main,This app is supported by ads from Google Advertising. ,54,<generic>,<error>
+Learn more about Google’s privacy practices and your choices,Learn more about Googleâ€™s privacy practices and your choic,95.0,106,main,Learn more about Googleâ€™s privacy practices and your choices. Learn more link: https://www.google.com/policies/technologies/ads/,130,<third>,<error>
+This application does not share another personal information with third parties nor does it store any information about you,This application does not share another personal information with third parties nor does it store any information about you,100.0,237,main,This application does not share another personal information with third parties nor does it store any information about you.,124,<first>,<error>
+This privacy policy is subject to change without notice,This privacy policy is subject to change without notice,100.0,362,main,This privacy policy is subject to change without notice and ,60,<change>,<error>
+was last updated on 14/12/16,was last updated on 14/12/16,100.0,422,main,was last updated on 14/12/16.,29,<error>,<error>

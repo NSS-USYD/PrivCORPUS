@@ -1,0 +1,84 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Privacy PolicyLastupdated: January 31st, 2023",45,<error>,<error>
+Introduction and definitions,Introduction and definitions,100.0,50,main,"Introduction and definitionsThis Privacy Policyexplains how Fulmine Software („we” or „us”)collect, store, use and disclose information about you („you”or „user”) acquired when you use our apps, products,services or websites („Services”) or when you interactwith us in other ways.",280,<generic>,<error>
+Personally identifiable information,Personally identifiable information,100.0,337,main,Personally identifiable information,35,<generic>,<what>
+We may collect personally identifiable information from you,"We may collect
+personally identifiable information from you",98.30508474576271,373,sub,"We may collectpersonally identifiable information from you. Personally identifiableinformation („PII”) in this document means, but is notlimited to: first name, last name, phone number, e-mail address.Wewill collect PII only if you voluntarily submit such information tous.",273,<first>,<how-gathered>
+Some parts of services may require personally identifiable information to operate,"Some parts of services may require personally identifiable
+information to operate",98.76543209876543,653,sub,"Some parts of services may require personally identifiableinformation to operate, so just won't be accessible if you decide tonot provide it.",141,<first>,<why>
+Non-personally identifiable information,Non-personally identifiable information,100.0,797,main,Non-personally identifiable information,39,<generic>,<what>
+We may collect non-personally identifiable information from you,"We may collect
+non-personally identifiable information from you",98.41269841269842,837,sub,"We may collectnon-personally identifiable information from you. Non-personallyidentifiable information („NPII”) in this document means,but is not limited to ",157,<first>,<how-gathered>
+"Information about user's device such as: Android Advertising Identifier, device identifier, installation identifier, version of operating system, device brand and model, screen resolution, coarse location and usage information about our Services","information about user's device such as:
+Android Advertising Identifier, device identifier, installation
+identifier, version of operating system, device brand and model,
+screen resolution, coarse location and usage information about our
+Services",98.36734693877551,997,sub,"information about user's device such as:Android Advertising Identifier, device identifier, installationidentifier, version of operating system, device brand and model,screen resolution, coarse location and usage information about ourServices.",242,<first>,<error>
+Note about Children's Privacy,Note about Children's Privacy,100.0,1244,main,"Note about Children's PrivacyOur Services arenot directed to and we do not knowingly collect personal informationof children under the age of 13 years. If we learn that we havecollected personal information of a child under the age of 13, wewill take all reasonable steps to delete the information. If youbelieve that we might have any personal information of a child under13, please contact us atinfo@fulminesoftware.com.",422,<audience>,<other>
+Note about Sensitive Information,Note about Sensitive Information,100.0,1676,main,Note about Sensitive Information,32,<audience>,<other>
+Some of our Services may handle sensitive information,"Some of our
+Services may handle sensitive information",98.11320754716981,1709,sub,"Some of ourServices may handle sensitive information. Sensitive information (SI)in this document means, but is not limited to camera sensor data. ",146,<first>,<how-gathered>
+Our Services do not collect and transmit SI unrelated to functionality described prominently in the Services user interface or their descriptions in appropriate app store listings unless explicitly disclosed and got affirmative consent for such use from you,"Our
+Services do not collect and transmit SI unrelated to functionality
+described prominently in the Services user interface or their
+descriptions in appropriate app store listings unless explicitly
+disclosed and got affirmative consent for such use from you",98.44357976653697,1857,sub,OurServices do not collect and transmit SI unrelated to functionalitydescribed prominently in the Services user interface or theirdescriptions in appropriate app store listings unless explicitlydisclosed and got affirmative consent for such use from you.,254,<first>,<when>
+How collected information is used,How collected information is used,100.0,2116,main,How collected information is used,33,<first>,<error>
+Technical support and quality improvement,Technical support and quality improvement,100.0,2150,sub,Technical support and quality improvementWe want to improvethe quality of our Services and for this purpose we may collect anduse your data. NPII helps us detect possible causes of errors in ourServices and give you more accurate help when responding to yourservice requests.,275,<first>,<how-used>
+The way we collect data for this purpose is:,"The way we collect
+data for this purpose is:",97.72727272727273,2431,sub,The way we collectdata for this purpose is:,43,<first>,<error>
+Crash reports (NPII only),"Crash reports
+	(NPII only",92.0,2476,sub,Crash reports	(NPII only),25,<first>,<how-gathered>
+E-mails received from user (PII and NPII),"E-mails
+	received from user (PII and NPII",95.1219512195122,2503,sub,"E-mails	received from user (PII and NPII)Crash reportsOur Services may useFirebaseCrashlyticsservice to collect and analyse information about appcrashes. This service collects the following NPII data:Crashlytics Installation UUIDCrash tracesAbove data is kept for 90 days.E-mails received from userWhenyou send an e-mail to us, we receive at least your e-mail address andmay receive other PII you decided to send, like your name. This dataallows us to contact you when we respond to your customer service",504,<first>,<how-gathered>
+E-mails received from user (PII and NPII),"E-mails
+	received from user (PII and NPII",95.1219512195122,2503,sub,"requests, bug reports or other messages.Any ideas andsuggestions for improvements, modifications, changes, as well as anyother feedback related to our current or future Services or us („UserFeedback”) shall be solely owned by us (including intellectualproperty rights  therein and thereto) and we or those we allow mayuse User Feedback in any manner, without attribution and without anyobligations to you.",405,<first>,<how-gathered>
+Advertisements,Advertisements,100.0,3436,main,Advertisements,14,<first>,<how-gathered>
+Our free Services may display advertisements which allows us to fund development of our current and future Services,"Our free Services
+may display advertisements which allows us to fund development of our
+current and future Services",98.26086956521739,3451,sub,"Our free Servicesmay display advertisements which allows us to fund development of ourcurrent and future Services.GoogleAdMobis used for that purpose, so please read and accepthowGoogle uses data when you use our partners' sites or apps.",237,<first>,<why>
+Games services,Games services,100.0,3697,main,Games services,14,<first>,<how-used>
+"Our only game – My Jump – may use Play Games Services for additional, optional features, like e.g. submitting a high score to leaderboards","Our only game –
+My Jump – may use
+Play
+Games Services
+for additional, optional features, like e.g.
+submitting a high score to leaderboards",96.37681159420289,3712,sub,"Our only game –My Jump – may usePlayGames Servicesfor additional, optional features, like e.g.submitting a high score to leaderboards. This service is used whenyou sign in toPlayGames Servicesfrom our app. If you want to use it, please readand accepthowGoogle uses data when you use our partners' sites or apps.",311,<first>,<error>
+Analytics,Analytics,100.0,4037,main,Analytics,9,<first>,<how-used>
+Our Services may use third-party tools for the collection of analytics information that helps us make our Services better and user friendly,"Our Services may
+use third-party tools for the collection of analytics information
+that helps us make our Services better and user friendly",98.56115107913669,4047,sub,"Our Services mayuse third-party tools for the collection of analytics informationthat helps us make our Services better and user friendly. In thiscase NPII is used. Specifically, the Services useGoogleAnalytics for Firebase(our mobile apps) andGoogleAnalytics(our web pages). To see how those services collect andprocess data, please read and accepthowGoogle uses data when you use our partners' sites or apps.",410,<third>,<why>
+Translations,Translations,100.0,4471,main,Translations,12,<first>,<how-used>
+Some of our Services are translated using third-party translation service WebTranslateIt,"Some of our
+Services are translated using third-party translation service
+WebTranslateIt",97.72727272727273,4484,sub,"Some of ourServices are translated using third-party translation serviceWebTranslateIt.If you want to join this service to translate our apps, please readand acceptWebTranslateIt'sPrivacy Policy.",195,<third>,<error>
+Third-Parties and business partners,Third-Parties and business partners,100.0,4688,main,Third-Parties and business partners,35,<third>,<error>
+"Data can be transferred to, stored and used in United States and any other countries where our business partners services or any third-party service providers acting on its behalf operates","Data can be
+transferred to, stored and used in United States and any other
+countries where our business partners services or any third-party
+service providers acting on its behalf operates",98.40425531914893,4724,sub,"Data can betransferred to, stored and used in United States and any othercountries where our business partners services or any third-partyservice providers acting on its behalf operates. Privacy and dataprotection laws in some of these countries may vary from the laws inthe country where you live.Please note thatyour access to and use of the third-party services may be subject tocertain third-party terms and conditions and we are not liable forany such third-parties’ use of your personal data.",498,<third>,<why>
+"Data can be transferred to, stored and used in United States and any other countries where our business partners services or any third-party service providers acting on its behalf operates","Data can be
+transferred to, stored and used in United States and any other
+countries where our business partners services or any third-party
+service providers acting on its behalf operates",98.40425531914893,4724,sub,"Specifically, weoften use some of Google's services, so kindly please read and accepthowGoogle uses data when you use our partner's sites or appsandGoogle'sPrivacy & Terms.The following oursoftware products are usingGoogleMaps APIs:Alarms (mobile	app),Alarms Pro	(mobile app),so if you are usingthem, the followingGoogle'sPrivacy Policyapply.",342,<third>,<why>
+Web browser cookies,"Web browser
+cookies",94.73684210526316,5596,main,Web browsercookies,18,<tracking>,<how-used>
+Cookies are small data files stored by your web browser on your computer’s hard drive or in device memory,"Cookies are small
+data files stored by your web browser on your computer’s hard
+drive or in device memory",98.09523809523809,5616,sub,"Cookies are smalldata files stored by your web browser on your computer’s harddrive or in device memory. Our Services may use cookies to allow uspersonalise content and ads, to provide social media features, toanalyse our traffic and to improve our Services.Most web browsersare accepting cookies by default. If you want, you can usually chooseto set your device browser to remove or reject browser cookies.Please note that if you choose to remove or reject cookies, some",471,<generic>,<how-gathered>
+Cookies are small data files stored by your web browser on your computer’s hard drive or in device memory,"Cookies are small
+data files stored by your web browser on your computer’s hard
+drive or in device memory",98.09523809523809,5616,sub,"parts of our Services may not function properly.Changes to thisPrivacy PolicyWe reserve theright to modify this Privacy Policy at any time. When we do so, we'llchange last updated date at the top of this policy. We encourage Youto frequently check this policy for any changes. You acknowledge andagree that it is your responsibility to review this policyperiodically and become aware of modifications.Your acceptance ofthese terms and revocation of your consentBy using our",473,<generic>,<how-gathered>
+Cookies are small data files stored by your web browser on your computer’s hard drive or in device memory,"Cookies are small
+data files stored by your web browser on your computer’s hard
+drive or in device memory",98.09523809523809,5616,sub,"Services, you signify your acceptance of this Privacy Policy and anythird-party terms or policies mentioned in this Privacy Policy.Please do not install and do not use our Services if you do notconsent to this fact. Your continued use of Services following theposting of ",271,<generic>,<how-gathered>
+Changes to this Privacy Policy,changes to this Privacy Policy,100.0,6856,main,changes to this Privacy Policy will signify,43,<change>,<other>
+Your acceptance of these terms and revocation of your consent," your
+acceptance of those changes.
+Revocation of your
+consent",81.9672131147541,6899,main, youracceptance of those changes.,33,<choice>,<when>
+Revocation of your consent to these terms,"Revocation of your
+consent to these terms",97.5609756097561,6934,main,Revocation of yourconsent to these termsTo revoke yourconsent just uninstall and do not use our Services.,105,<choice>,<when>
+Opt-out,Opt-out,100.0,7043,main,"Opt-outTo opt out ofpersonalized ads visitthefollowing pageto getinstructions. To opt out of analytics, please do not install and donot use our Services.If you want to becertain that no PII or NPII is sent to us, our partners orthird-parties and behaviorally targeted advertising is not displayedto you, please uninstall, do not install and do not use our Servicesas well as do not interact with us in any way.",410,<choice>,<other>
+Further information,"Further
+information",94.73684210526316,7466,main,"FurtherinformationThis Privacy Policyis governed by Polish law.If you have anyquestions about this policy, or dealing with our Services, pleasecontact us atinfo@fulminesoftware.com.©2013 – 2023 Fulmine Software",210,<not>,<other>

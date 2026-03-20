@@ -1,0 +1,24 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy for Digital Compass,Privacy Policy for Digital Compass,100.0,0,main,Privacy Policy for Digital Compass - ,37,<error>,<error>
+Axiomatic,Axiomatic,100.0,37,main,Axiomatic Inc.Axiomatic,23,<error>,<error>
+Apps for Android,Apps for Android,100.0,62,main,Apps for Android,16,<error>,<error>
+Careers,Careers,100.0,79,main,Careers,7,<error>,<error>
+Contact,Contact,100.0,87,main,Contact,7,<error>,<error>
+Privacy Policy for Digital Compass,Privacy Policy for Digital Compass,100.0,95,main,Privacy Policy for Digital Compass,34,<error>,<error>
+"Last updated on August 31, 2020","Last updated on August 31, 2020",100.0,130,main,"Last updated on August 31, 2020",31,<error>,<error>
+This Privacy Policy explains the privacy practices of,This Privacy Policy explains the privacy practices of,100.0,162,main,This Privacy Policy explains the privacy practices of,53,<error>,<error>
+Digital Compass,Digital Compass,100.0,216,main,Digital Compassapp.,19,<error>,<error>
+Non-Personally Identifiable Information We Use,Non-Personally Identifiable Information We Use,100.0,237,main,Non-Personally Identifiable Information We Use,46,<error>,<what>
+Android Advertising ID,Android Advertising ID,100.0,284,sub,"Android Advertising ID- An advertising ID is a non-persistent, resettable identifier of your device that is used for purposes of advertising and analytics.",155,<error>,<how-gathered>
+"Links to privacy policy of third party service providers using the advertising ID, used by Our App","Links to privacy policy of third party service providers using the advertising ID, used by Our App",100.0,441,sub,"Links to privacy policy of third party service providers using the advertising ID, used by Our App",98,<error>,<what>
+Google Analytics for Firebase,Google Analytics for Firebase,100.0,540,sub,Google Analytics for Firebase(usage analytics),46,<error>,<how-gathered>
+Crashlytics,Crashlytics,100.0,588,sub,Crashlytics(crash reporting),28,<error>,<how-gathered>
+AdMob,AdMob,100.0,618,sub,AdMob(advertising),18,<error>,<how-gathered>
+Facebook Audience Network,Facebook Audience Network,100.0,638,sub,Facebook Audience Network(advertising),38,<error>,<how-gathered>
+Non-Personally Identifiable Information We Use but Never Collect,Non-Personally Identifiable Information We Use but Never Collect,100.0,678,main,"Non-Personally Identifiable Information We Use but Never CollectWe may need to access these data or features to provide functions, but we never collect or store those information.",179,<first>,<what>
+Location,Location,100.0,859,sub,Location,8,<error>,<what>
+Changes to This Privacy Policy,Changes to This Privacy Policy,100.0,868,main,Changes to This Privacy Policy,30,<error>,<when>
+We may amend this Privacy Policy from time to time at our sole discretion,We may amend this Privacy Policy from time to time at our sole discretion,100.0,899,main,"We may amend this Privacy Policy from time to time at our sole discretion. If we make material changes in the way we collect or use your personal information, the changes will be posted on this page 30 days prior to taking effect. We encourage you to stay informed by reviewing this Privacy Policy periodically.",311,<change>,<other>
+How to Contact Us,How to Contact Us,100.0,1211,main,How to Contact Us,17,<error>,<error>
+"If you have any questions about this Privacy Policy or our privacy practices, please contact us by","If you have any questions about this Privacy Policy or our privacy practices, please contact us by",100.0,1229,sub,"If you have any questions about this Privacy Policy or our privacy practices, please contact us by",98,<choice>,<error>
+email,email,100.0,1328,sub,email.Please turn on JavaScript to reveal the email address.Axiomaticis a proud donor to theNetBSD Project.Privacy Policy© 2023Axiomatic Inc.,141,<error>,<how-gathered>

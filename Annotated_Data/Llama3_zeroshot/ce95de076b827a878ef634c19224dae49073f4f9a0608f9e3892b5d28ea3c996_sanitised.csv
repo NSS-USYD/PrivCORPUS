@@ -1,0 +1,15 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Cider-Women's Fashion ClothingGet 20% off orders of AU$89; get 25% off orders of AU$179Get an exclusive outdoor bucket hat with orders AU$299+Bestseller special offers for all under AU$26.99>>Limited-time only: 60% Off Flash ,225,<error>,<error>
+Sale,Sale,100.0,229,main,"Sale, Shop Here >>Sale",22,<first>,<error>
+New,New,100.0,253,sub,New New,7,<first>,<error>
+Clothing,Clothing,100.0,261,main,Clothing,8,<error>,<error>
+Pick A Mood,Pick A Mood,100.0,270,sub,Pick A Mood,11,<error>,<error>
+Dresses,Dresses,100.0,282,sub,Dresses,7,<first>,<error>
+Tops,Tops,100.0,290,sub,Tops,4,<first>,<error>
+Bestseller,Bestseller,100.0,295,main,Bestseller,10,<first>,<error>
+Sustainability,Sustainability,100.0,306,main,Sustainability,14,<first>,<error>
+Curve & Plus,Curve & Plus,100.0,321,sub,Curve & Plus,12,<first>,<error>
+ACC & Shoes,ACC & Shoes,100.0,334,sub,ACC & Shoes,11,<first>,<error>
+About Us,About Us,100.0,346,main,About Us,8,<generic>,<error>
+With the Future in Mind,With the Future in Mind,100.0,355,sub,"With the Future in MindSustainable fashion should be accessible, not exclusive. That's why we're on a mission to create affordable, everyday statement pieces with sustainability in mind. From inventing a smart fashion model that only produces on demand, to adopting recycled materials and a responsible supply chain in our production process, we're able to reduce our environmental impact in the fashion industry all while working to create a more eco-friendly brand.",467,<generic>,<error>
+With the Future in Mind,With the Future in Mind,100.0,355,sub,"Cider was founded in 2020 by four friends who wanted to build a fashion brand that celebrates happiness in the mundane. Like the drink we're named after, Cider is bubbly, sweet, and has just the right amount of sass. It's also perfect for fun gatherings, like sipping cider with your besties at a neighborhood bar or just lounging at home. That's why we like to think of ourselves as <b>your closet's happy hour.</b> Ready to hang with us?",439,<generic>,<error>

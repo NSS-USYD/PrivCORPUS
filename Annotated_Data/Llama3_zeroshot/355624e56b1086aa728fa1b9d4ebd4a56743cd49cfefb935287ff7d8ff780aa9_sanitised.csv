@@ -1,0 +1,243 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"PrivacyPolicyLast updated May 15, 2020Innovative is committed to protectingyour privacy.Our guiding principle toward data collection isto collect only the minimal data required to operate a world-class VPN serviceat scale. We want you to understand what information we collect, what wedon't collect, and how we collect, use, and store information.Wedo not collect logs of your activity, including no logging of browsing history,traffic destination, data content, or DNS queries. We also never store",498,<error>,<error>
+,,-1.0,0,,"connection logs, i.e., no logs of your IP address, your outgoing VPN IPaddress, connection timestamp, or session duration.Wedesigned our systems not to have sensitive data about you; even when compelled,we cannot provide data that we do not possess.This ",254,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,769,main,"Privacy Policy describes how INNOVATIVE PTE. LIMITED andits affiliates (""Innovative,"" ""we,"" ""our"" or""us"") collect, use, and share information in connection withyour use of our services, and applications (collectively, the""Services""). This Privacy Policy (the ""Privacy Policy"")does not apply to information you may process when using our Services.",346,<generic>,<error>
+1. USER-CONTROLLED OPTION: PERSONAL INFORMATION,"1. (USER-CONTROLLED
+OPTION): PERSONAL INFORMATI",93.61702127659575,1121,main,1. (USER-CONTROLLEDOPTION): PERSONAL INFORMATION,48,<generic>,<error>
+Our VPN APP is a non-obligatory log network.,"Our VPN APP is a non-obligatory
+log network.",97.72727272727273,1171,sub,Our VPN APP is a non-obligatorylog network.,43,<first>,<error>
+"Innovative are not available for the information related to the personal information of users, including but not limited to names (subscriber names, user names and screen names), addresses (including mailing addresses, residential address, business addresses) and telephones, unless the data you provide depending on the context of your interactions with us and the choices you make, including your privacy settings, and the products and features you use for the purpose of administering your subscription and for the purpose to enjoy our VPN services.","Innovative are not available for the information related
+to the personal information of users, including but not limited to names
+(subscriber names, user names and screen names), addresses (including mailing
+addresses, residential address, business addresses) and telephones, unless the
+data you provide depending on the context of your interactions with us and the
+choices you make, including your privacy settings, and the products and
+features you use for the purpose of administering your subscription and for the
+purpose to enjoy our VPN services.",98.73188405797102,1216,sub,"Innovative are not available for the information relatedto the personal information of users, including but not limited to names(subscriber names, user names and screen names), addresses (including mailingaddresses, residential address, business addresses) and telephones, unless thedata you provide depending on the context of your interactions with us and thechoices you make, including your privacy settings, and the products andfeatures you use for the purpose of administering your subscription and for the",511,<first>,<error>
+"Innovative are not available for the information related to the personal information of users, including but not limited to names (subscriber names, user names and screen names), addresses (including mailing addresses, residential address, business addresses) and telephones, unless the data you provide depending on the context of your interactions with us and the choices you make, including your privacy settings, and the products and features you use for the purpose of administering your subscription and for the purpose to enjoy our VPN services.","Innovative are not available for the information related
+to the personal information of users, including but not limited to names
+(subscriber names, user names and screen names), addresses (including mailing
+addresses, residential address, business addresses) and telephones, unless the
+data you provide depending on the context of your interactions with us and the
+choices you make, including your privacy settings, and the products and
+features you use for the purpose of administering your subscription and for the
+purpose to enjoy our VPN services.",98.73188405797102,1216,sub,purpose to enjoy our VPN services.,34,<first>,<error>
+"Except for the limited exceptions, we don't automatically collect any Personal Information from you.","Except for the limited exceptions, we
+don't automatically collect any Personal Information from you.",99.0,1769,sub,"Except for the limited exceptions, wedon't automatically collect any Personal Information from you.When youopen the APP seeking for our VPN services, the APP assigns a unique identifierto you for the service (such unique identifier just binds up with your deviceidentification code, but does not tie to any other personal information ofusers). When you use the VPN services, we will check your account information throughthis unique identifier to determine the level of service you have signed up for",500,<first>,<error>
+"Except for the limited exceptions, we don't automatically collect any Personal Information from you.","Except for the limited exceptions, we
+don't automatically collect any Personal Information from you.",99.0,1769,sub,"before establishing your VPN connection.Withsome forms of payment, certain Mac version of our VPN services may redirect youto the website of a third-party payment processor (namely PayPal) to completethe transaction. To understand what personal information the processor collectsand stores, please refer to the respective processor's terms and privacypolicy.Therefore, except for the limited exception above, we do not knowany means or source of user's detailed payment for VPN services (including any",501,<first>,<error>
+"Except for the limited exceptions, we don't automatically collect any Personal Information from you.","Except for the limited exceptions, we
+don't automatically collect any Personal Information from you.",99.0,1769,sub,"credit card or bank account number) or any billing records either.If you contact usdirectly, we may receive additional information about you such as your name,email address, phone number, the contents of the message and/or attachments youmay send us, and any other information you may choose to provide. We may alsoreceive a confirmation when you open an email from us.AutumnBreeze uses your email address (if any depending on your choice) for thefollowing reasons:To communicate with you about",494,<first>,<error>
+"Except for the limited exceptions, we don't automatically collect any Personal Information from you.","Except for the limited exceptions, we
+don't automatically collect any Personal Information from you.",99.0,1769,sub,"     your VPN services or respond to your communications.To send you updates and     announcements.To send marketing information,     such as Innovative offers, surveys, invitations, and content about     other matters in connection with Innovative (""Marketing emails""). You     may choose to not receive Marketing emails by following the opt-out     procedure described in these emails.Innovative uses yourpersonal information only for the purposes listed in this Privacy Policy, andwe",486,<first>,<error>
+"Except for the limited exceptions, we don't automatically collect any Personal Information from you.","Except for the limited exceptions, we
+don't automatically collect any Personal Information from you.",99.0,1769,sub,don't sell your personal information to third parties without your priorconsent.,80,<first>,<error>
+2. SERVICE INFORMATION RELATED TO YOUR VPN USAGE,"2. SERVICE
+INFORMATION RELATED TO YOUR VPN USAGE",97.91666666666666,3872,main,2. SERVICEINFORMATION RELATED TO YOUR VPN USAGE,47,<first>,<error>
+"Subject to applicable laws and for the avoidance to infringe any internet service provider, any browsing information, traffic destination, data content, IP addresses, DNS queries or other similar information relating to your online activities transmitted by you to our servers is encrypted and cleared after the VPN ""session"" is closed.","Subject to applicable
+laws and for the avoidance to infringe any internet service provider, any
+browsing information, traffic destination, data content, IP addresses, DNS
+queries or other similar information relating to your online activities
+transmitted by you to our servers is encrypted and cleared after the VPN
+""session"" is closed.",98.51190476190477,3921,sub,"Subject to applicablelaws and for the avoidance to infringe any internet service provider, anybrowsing information, traffic destination, data content, IP addresses, DNSqueries or other similar information relating to your online activitiestransmitted by you to our servers is encrypted and cleared after the VPN""session"" is closed. That said,",342,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"wedon't collect any information regardingthe websites you visit or any data stored on or transmittedfrom your device, including any data that applications on your device maytransmit through the VPN network.More specifically, Innovative hasNOdocuments/information below under the situations of thelimited connecting with your personal information and the non-collection of the websites you visitor any data stored on or transmitted from your device:-We",451,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"do not know which user ever accessed a particular website or service.-Wedo not know which user was connected to the VPN at a specific time.-Wedo not know the set oforiginal IP addresses of a user'scomputeror the temporarily assigned network addresses.If anyone would like toaccess to or try to compel Innovative to release user information based onany of the above,we cannot supply this information because the datadon't exist.For the purpose to fulfill our contractual obligations in good",489,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"faith and to make you enjoy excellent VPN services, we collect the followinginformation related to your VPN usage:Information related to Appsand Apps versionsWe collect information related to which Apps and Apps version(s)you have activated. It makes our Support Team efficiently find out andeliminate technical issues for you.Information related to ConnectionWe collect information about whether a VPN connection issuccessful on a particular day (but not a specific time of the day), to which VPN",497,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"location (but not your assigned outgoing IP address), and from whichcountry/ISP (but not your source IP address). The minimal information allows usto provide efficient technical support to you, such as identifying connectionproblems, providing country-specific advice about how to use our VPN services,and to enable our engineers to identify and fix network issues.The Size (in MB) of Datatransferred(but not any websites you visit or any data transmitted fromyour device)",472,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"We collect information regarding the total sum of data transferredby a given user. It is one of our service principles to provide unlimited datatransfer, however if we notice that a user occupies more traffic than thousandsof others combined, what influence other users to enjoy high-quality service,we may seek for the reason with the user.Anonymous Data for NetworkDiagnostics, Study and AnalysisWhen you become one of our users for the VPN services, with your",462,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"permission, we collect minimal usage statistics and anonymized analytics dataused for network diagnostics in our network operations tools, for the purposeto optimize network speeds and to let us identify problems related to specificapps, VPN servers, or ISPs. Learning and analyzing the statistics allows us toimprove the quality of the services and the products.We ensure theinformation we receive is fully anonymized and cannot be tied back to",445,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"individual users (i.e., we do not store which user sent which data, and wedo not store IP addresses).We will collect the following information:-Diagnostic information about if and how a VPN connection attemptfailed.-Speed test data.-Crash reports, also without any personally identifiableinformation. These are handled in an anonymized form by third parties,dependent on the platform you are using.On iOS,Apple's crashreporting can be turned off in iOS settings.Conclusion",472,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,"We collect minimal usage statistics to maintain our quality ofservice. Although we provide service to users improving the network speed, wecan't uniquely identify any specific behavior of any user, because thousands ofusers share one same location simultaneously to enjoy surfing the internet andthe usage pattern overlaps with thousands of other customers who also connectedto the same location on the same day.Regarding to the sensitive data, we've engineered our systems to",476,<first>,<error>
+"We don't collect any information regarding the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit through the VPN network.","we
+don't collect any information regarding
+the websites you visit or any data stored on or transmitted
+from your device
+, including any data that applications on your device may
+transmit through the VPN network",97.61904761904762,4269,sub,categorically eliminate the storage of sensitive data. We never know HOWthey have utilized our Service.We stand by our firm commitment to our customers' privacy by notpossessing any data related to a user's online activities.,225,<first>,<error>
+3. THE USE AND SHARING OF INFORMATION,"3. THE
+USE AND SHARING OF INFORMATION",97.2972972972973,8352,main,3. THEUSE AND SHARING OF INFORMATION,36,<third>,<error>
+How we use information,How we use information,100.0,8390,sub,How we use information,22,<third>,<error>
+"We use the information we collect in various ways, including to:","We use the information we collect in various
+ways, including to:",98.4375,8413,sub,"We use the information we collect in variousways, including to:",63,<error>,<error>
+"- Provide, operate, and maintain our Services;","-
+Provide,
+operate, and maintain our Services;",95.65217391304348,8478,sub,"-Provide,operate, and maintain our Services;",44,<error>,<error>
+"- Improve, personalize, and expand our Services;","-
+Improve,
+personalize, and expand our Services;",95.83333333333334,8525,sub,"-Improve,personalize, and expand our Services;",46,<error>,<error>
+- Understand and analyze how you use our Services;,"-
+Understand
+and analyze how you use our Services;",96.0,8574,sub,-Understandand analyze how you use our Services;,48,<error>,<error>
+"- Develop new products, services, features, and functionality;","-
+Develop
+new products, services, features, and functionality;",96.7741935483871,8625,sub,"-Developnew products, services, features, and functionality;",60,<error>,<error>
+"- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the Service, and for marketing and promotional purposes;","-
+Communicate
+with you, either directly or through one of our partners, including for
+customer service, to provide you with updates and other information relating to
+the Service, and for marketing and promotional purposes;",98.1981981981982,8688,sub,"-Communicatewith you, either directly or through one of our partners, including forcustomer service, to provide you with updates and other information relating tothe Service, and for marketing and promotional purposes;",218,<error>,<error>
+- Process your transactions;,"-
+Process
+your transactions;",92.85714285714286,8911,sub,-Processyour transactions;,26,<error>,<error>
+- Send you text messages and push notifications;,"-
+Send
+you text messages and push notifications;",95.83333333333334,8940,sub,-Sendyou text messages and push notifications;,46,<error>,<error>
+- Find and prevent fraud; and,"-
+Find
+and prevent fraud; and",93.10344827586206,8989,sub,-Findand prevent fraud; and,27,<error>,<error>
+"- For compliance purposes, including enforcing our Terms of Service, or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency.","-
+For
+compliance purposes, including enforcing our Terms of Service, or other legal
+rights, or as may be required by applicable laws and regulations or requested
+by any judicial process or governmental agency.",98.08612440191388,9019,sub,"-Forcompliance purposes, including enforcing our Terms of Service, or other legalrights, or as may be required by applicable laws and regulations or requestedby any judicial process or governmental agency.",205,<error>,<error>
+How we share information,"How we share
+information",95.83333333333334,9229,sub,How we shareinformation,23,<third>,<error>
+"We may share the information we collect in various ways, including the following:","We may share the information we collect in
+various ways, including the following:",98.76543209876543,9254,sub,"We may share the information we collect invarious ways, including the following:",80,<error>,<error>
+- Vendors and Service Providers.,"-
+Vendors
+and Service Providers.",93.75,9336,sub,-Vendorsand Service Providers.,30,<error>,<error>
+"We may share information with third-party vendors and service providers that provide services on our behalf, such as helping to provide our Services, for promotional and/or marketing purposes, and to provide you with information relevant to you such as product announcements, software updates, special offers, or other information.","We may share information with third-party vendors and service
+providers that provide services on our behalf, such as helping to provide our
+Services, for promotional and/or marketing purposes, and to provide you with
+information relevant to you such as product announcements, software updates,
+special offers, or other information.",98.79154078549848,9369,sub,"We may share information with third-party vendors and serviceproviders that provide services on our behalf, such as helping to provide ourServices, for promotional and/or marketing purposes, and to provide you withinformation relevant to you such as product announcements, software updates,special offers, or other information.",327,<error>,<error>
+- Aggregate Information.,"-
+Aggregate
+Information.",91.66666666666666,9701,sub,-AggregateInformation.,22,<error>,<error>
+"Where legally permissible, we may use and share information about users with our partners in aggregated or de-identified form that can't reasonably be used to identify you.","Where legally permissible, we may use and share information about
+users with our partners in aggregated or de-identified form that can't
+reasonably be used to identify you.",98.83720930232558,9726,sub,"Where legally permissible, we may use and share information aboutusers with our partners in aggregated or de-identified form that can'treasonably be used to identify you.",170,<error>,<error>
+- Information We Share When You Sign Up Through a Referral.,"-
+Information
+We Share When You Sign Up Through a Referral.",96.61016949152543,9899,sub,-InformationWe Share When You Sign Up Through a Referral.,57,<error>,<error>
+"If you sign up for our Services through a referral from a friend, we may share information with your referrer to let them know that you used their referral to sign up for our Services.","If you sign up for our Services through a
+referral from a friend, we may share information with your referrer to let them
+know that you used their referral to sign up for our Services.",98.91304347826086,9959,sub,"If you sign up for our Services through areferral from a friend, we may share information with your referrer to let themknow that you used their referral to sign up for our Services.",182,<error>,<error>
+- Analytics.,"
+-
+Analytics",83.33333333333334,10143,sub,-Analytics.,11,<error>,<error>
+We collect minimal usage statistics and anonymized analytics data used for network diagnostics in our network operations tools.,"
+We collect minimal usage
+statistics and anonymized analytics data used for network diagnostics in our
+network operations tools",97.63779527559055,10157,sub,"We collect minimal usagestatistics and anonymized analytics data used for network diagnostics in ournetwork operations tools. Please see more information in Section 2 of this Privacy Policy.-BusinessTransfers. Information may be disclosed and otherwise transferred toany potential acquirer, successor, or assignee as part of any proposed merger,acquisition, debt financing, sale of assets, or similar transaction, or in theevent of insolvency, bankruptcy, or receivership in which information is",495,<error>,<error>
+We collect minimal usage statistics and anonymized analytics data used for network diagnostics in our network operations tools.,"
+We collect minimal usage
+statistics and anonymized analytics data used for network diagnostics in our
+network operations tools",97.63779527559055,10157,sub,"transferred to one or more third parties as one of our business assets.-As Required byLaw and Similar Disclosures.We may also share information to (i) satisfy any applicablelaw, regulation, legal process, or governmental request; (ii) enforce thisPrivacy Policy and our Terms of Service, including investigation of potentialviolations hereof; (iii) detect, prevent, or otherwise address fraud, security,or technical issues; (iv) respond to your requests; or (v) protect our rights,",481,<error>,<error>
+We collect minimal usage statistics and anonymized analytics data used for network diagnostics in our network operations tools.,"
+We collect minimal usage
+statistics and anonymized analytics data used for network diagnostics in our
+network operations tools",97.63779527559055,10157,sub,"property or safety, our users and the public. This includes exchanginginformation with other companies and organizations for fraud protection andspam/malware prevention.-With YourConsent.We may share information with your consent.",230,<error>,<error>
+4. ADVERTISING,"4.
+ADVERTISING",92.85714285714286,11391,main,4.ADVERTISING,13,<error>,<error>
+We do not server any ads for the VIP subscription of our services.,"We do not server any ads for the VIP
+subscription of our services.",98.48484848484848,11406,sub,We do not server any ads for the VIPsubscription of our services. ,66,<error>,<error>
+"As well, we are proud to offer free, advertising-supported VPN services to the customers.","As well, we are proud to offer free,
+advertising-supported VPN services to the customers.",98.87640449438202,11473,sub,"As well, we are proud to offer free,advertising-supported VPN services to the customers. ",89,<error>,<error>
+We work with third-party advertising partners to show ads to the customers who choose free VPN services.,"We work with third-party
+advertising partners to show ads to the customers who choose free VPN services.",99.03846153846155,11563,sub,"We work with third-partyadvertising partners to show ads to the customers who choose free VPN services.We ensure that we do not target anypersonal information based on these ads. Although you opt in to use the free,advertising-supported VPN services, we won't share the advertisers any yourpersonal information or any usage information without your prior consent.Notwithstanding the foregoing, theseadvertising partners may set and access their own cookies, pixel tags, and",473,<error>,<error>
+We work with third-party advertising partners to show ads to the customers who choose free VPN services.,"We work with third-party
+advertising partners to show ads to the customers who choose free VPN services.",99.03846153846155,11563,sub,"similar technologies on our services, and they may otherwise collect or haveaccess to information about you which they may collect over time and acrossdifferent online services.To learn more about these programs, please visit:AdMob: https://policies.google.com/privacyUnity AD: https://unity3d.com/legal/privacy-policyVungle: https://vungle.com/privacy",352,<error>,<error>
+5. JURISDICTION AND APPLICABLE LAW,"5. JURISDICTION
+AND APPLICABLE LAW",97.05882352941177,12403,main,5. JURISDICTIONAND APPLICABLE LAW,33,<error>,<error>
+Keeping your information private is our core mission.,"Keeping your information private is our
+core mission.",98.11320754716981,12438,sub,Keeping your information private is ourcore mission. ,53,<error>,<error>
+"In service of this mission, Innovative's registered place of business is in Singapore, where has integrated data protection legislation.","In service of this mission, Innovative's registered place of
+business is in Singapore, where has integrated data protection legislation.",99.26470588235294,12492,sub,"In service of this mission, Innovative's registered place ofbusiness is in Singapore, where has integrated data protection legislation.There are no special data retention lawsand no guidance pertaining to e-discovery or disclosure to foreign lawenforcement agencies in Singapore. The disclosure of personal data may followthis Privacy Policy.Required by any foreign law enforcementagencies, Innovative turns over protected user information only upon receipt",457,<error>,<error>
+"In service of this mission, Innovative's registered place of business is in Singapore, where has integrated data protection legislation.","In service of this mission, Innovative's registered place of
+business is in Singapore, where has integrated data protection legislation.",99.26470588235294,12492,sub,"of a valid subpoena, court order, or search warrant, which shall be served effectivelyunder the Rules of Court of Singapore. More specifically, we think the subpoena,court order or search warrant may lose its coercive effect when it crosses itsboundary. It only regains coercive effect on the other side of the lineeither through a domestication action (in the other state's courts) orunder the authority of a statute. Additionally, we will notify affected users",462,<error>,<error>
+"In service of this mission, Innovative's registered place of business is in Singapore, where has integrated data protection legislation.","In service of this mission, Innovative's registered place of
+business is in Singapore, where has integrated data protection legislation.",99.26470588235294,12492,sub,"about any requests for their account information, unless prohibited from doingso by law or court order.Should we receive a valid served legal order,it is important to note that Innovative does not collect any IPaddresses, browsing history, traffic data, or DNS queries that could be used toidentify any specific user.",317,<error>,<error>
+6. DATA RETENTION,"6. DATA
+RETENTION",94.11764705882352,13748,main,6. DATARETENTION,16,<error>,<error>
+"We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).","We retain personal information we collect
+from you where we have an ongoing legitimate business need to do so (for
+example, to provide you with a service you have requested or to comply with
+applicable legal, tax, or accounting requirements).",98.7603305785124,13766,sub,"We retain personal information we collectfrom you where we have an ongoing legitimate business need to do so (forexample, to provide you with a service you have requested or to comply withapplicable legal, tax, or accounting requirements).When we have no ongoing legitimatebusiness need to process your personal information, we will either delete oranonymize it or, if this is not possible (for example, because your personalinformation has been stored in backup archives), then we will securely store",501,<error>,<error>
+"We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).","We retain personal information we collect
+from you where we have an ongoing legitimate business need to do so (for
+example, to provide you with a service you have requested or to comply with
+applicable legal, tax, or accounting requirements).",98.7603305785124,13766,sub,"your personal information and isolate it from any further processing untildeletion is possible.We keep records of any correspondence,questions, complaints, or compliments you submit to us, along with ourresponse. Depending on how you contact us, we may collect your email addressand any additional information you provide to us. Having full correspondencerecords enables us to provide the best possible customer support experience.We use emails for support correspondence:[email protected].",490,<error>,<error>
+"We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).","We retain personal information we collect
+from you where we have an ongoing legitimate business need to do so (for
+example, to provide you with a service you have requested or to comply with
+applicable legal, tax, or accounting requirements).",98.7603305785124,13766,sub,"When you correspond with us using these emails,your correspondence records, including your name and email address, are storedin their systems.",142,<error>,<error>
+7. SECURITY MEASURES,"7. SECURITY
+MEASURES",95.0,14920,main,7. SECURITYMEASURES,19,<error>,<error>
+Autumn Breeze is committed to protecting your information.,"Autumn
+Breeze is committed to protecting your information.",98.27586206896551,14941,sub,AutumnBreeze is committed to protecting your information. ,58,<error>,<error>
+"We use best-in-class physical, procedural, and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of information.","We use best-in-class
+physical, procedural, and technical security with respect to our offices and
+information storage facilities so as to prevent any loss, misuse, unauthorized
+access, disclosure, or modification of information.",98.68421052631578,15000,sub,"We use best-in-classphysical, procedural, and technical security with respect to our offices andinformation storage facilities so as to prevent any loss, misuse, unauthorizedaccess, disclosure, or modification of information. Access to user information isrestricted to staff who require such access to perform their job functions.Whilewe believe these systems are robust, it is important to understand that no datasecurity measures in the world can offer 100% protection.Servers",478,<error>,<error>
+"We use best-in-class physical, procedural, and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of information.","We use best-in-class
+physical, procedural, and technical security with respect to our offices and
+information storage facilities so as to prevent any loss, misuse, unauthorized
+access, disclosure, or modification of information.",98.68421052631578,15000,sub,"are housed in data centers with strong security practices. None of these datacenters require us to collect or store any traffic data or personal informationrelated to your use of VPN services. If any data center were to ask us to logsuch data, we would immediately cease operations with said data center and findalternative options.Evenif a government were to physically seize one of our VPN servers and manage tobreak its disk encryption, there would be no logs or information that would tie",492,<error>,<error>
+"We use best-in-class physical, procedural, and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of information.","We use best-in-class
+physical, procedural, and technical security with respect to our offices and
+information storage facilities so as to prevent any loss, misuse, unauthorized
+access, disclosure, or modification of information.",98.68421052631578,15000,sub,"any individual user to a particular event, website, or behavior.",64,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"8.THIRD-PARTY SERVICESYoumay access other third-party services while using the VPN services, for exampleby clicking on links to those third-party services from within the Services. Weare not responsible for the privacy policies and/or practices of thesethird-party services, and we encourage you to carefully review their privacypolicies.9CHILDREN'S PRIVACYWe feel under a particular obligation to protect informationobtained from young children. We would strongly urge parents to instruct their",495,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"children never to disclose their real name, their address or their telephonenumber while they are on-line without prior permission. Innovative does notknowingly collect information from children under the age of 16, and childrenunder 16 years old are prohibited from using our services. If you learn that achild has provided us with personal information in violation of this PrivacyPolicy, you can alert us at[email protected].10. ACCESSWhen you become one of our",463,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"users for the VPN services, you may access certain information associated withyou by emailing[email protected]. If you decide not to use ourVPN services any more, any public activity on your Account prior to deletion mayremain stored on our servers and may remain accessible to the public.To protect your privacy andsecurity, we may also take reasonable steps to verify your identity beforeupdating or removing your information. The information you provide us may be archived",475,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"or stored periodically by us according to backup processes conducted in theordinary course of business for disaster recovery purposes. Your ability toaccess and correct your information may be temporarily limited where access andcorrection could: inhibit our ability to comply with a legal obligation;inhibit our ability to investigate, make or defend legal claims; result indisclosure of personal information about a third party; or result in breach of",453,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"a contract or disclosure of trade secrets or other proprietary businessinformation belonging to us or a third party.11. GDPRInnovative is committed to user privacy globally, and personalinformation under users' control and minimal collection of data are ourexisting practices. According to the requirements of the General DataProtection Regulation (GDPR) of the European Union (EU), we collect and processthe data in a specific manner of users in EU outlined in this Privacy Policy on",484,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"one of the following bases, depending on the circumstances:i)For the purposes offulfilling our contractual obligations to users, including:-Providingusers with the VPN services and Apps they have requested.-Managinguser subscriptions and processing payments.-Providingcustomer support.ii)For a legitimateinterest associated with the operation of our business, including:-Enhancingthe quality, reliability, and effectiveness of our VPN Services, and Apps.-Communicating",468,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"with customers to provide information and seek feedback related to our VPN servicesand Apps.You can withdraw your consent at any time. Withdrawingyour consent will not affect the lawfulness of any processing we conducted priorto your withdrawal, nor will it affect the processing of your personalinformation conducted in reliance on lawful processing grounds other thanconsent.As well, you have the right to opt-out of marketingcommunications we send you at any time. You can exercise this right by",498,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"clicking on the ""unsubscribe"" or ""opt-out"" link in themarketing emails we send you.You can exercise your rights under the GDPR to access, transfer,correct, delete, or object to the processing of your personal information by contactingus at[email protected].12.INTERNATIONALDATA TRANSFERSInnovative is a global business. We maytransfer personal information to countries other than the country in which thedata was originally collected. These countries may not have the same data",477,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"protection laws as the country in which you initially provided the information.When we transfer your personal information to other countries, we will protectthat information as described in this Privacy Policy.13. CHANGES TO THIS PRIVACY POLICIYFor the purpose to consist with applicableprivacy laws and principles, this Privacy Policy may be modified from time totime without prior notice to you, so please review it frequently. Yourcontinued use of our VPN services constitutes your acceptance of our Privacy",510,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"Policy.Changes tothis Privacy Policy will be posted inside our APP. If we materially change theways in which we use or share personal information previously collected fromyou through our VPN services, we will notify you through our APP, by email, orother communication.14. ContactsIf you have any questions or concernsabout this Privacy Policy, please feel free to contact us at[email protected].[Allen Yu] is the Data Protection Officer(""DPO"") for Innovative, having been appointed in 2018. If you are not in a",511,<error>,<error>
+8. THIRD-PARTY SERVICES,"8.
+THIRD-PARTY SERVICES",95.65217391304348,16052,main,"position to engage with us by the above mentioned means, please contact DPO at[email protected].",96,<error>,<error>

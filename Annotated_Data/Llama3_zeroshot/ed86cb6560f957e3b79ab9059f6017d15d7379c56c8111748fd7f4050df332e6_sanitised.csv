@@ -1,0 +1,34 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,Aquamarine Networks. - ,23,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,23,main,Privacy PolicySearch this siteSkip to main contentSkip to navigationAquamarine Networks.HomeJota+How to localize Jota+pluginsPrivacy PolicyJota+ (日本語)プラグイン個人情報の取り扱いについてaDice辞書変換例aDice(日本語)aGrepaGrep(日本語)AquaMozc for BlackBerryJota Text EditorFAQHow To LocalizeSyntax Highlighting‎Jota Text Editor‎(日本語)FAQ - よくある質問シンタックスハイライトメニュー項目基本操作Other AppsPrivacy PolicyJota+ βAquamarine Networks.Privacy Policy,400,<error>,<error>
+Privacy Policy of below Apps.,Privacy Policy of below Apps.,100.0,456,main,Privacy Policy of below Apps.,29,<generic>,<error>
+Jota+ Drive Connector,Jota+ Drive Connector,100.0,486,sub,Jota+ Drive Connector,21,<generic>,<error>
+Jota+ One Connector,Jota+ One Connector,100.0,508,sub,Jota+ One Connector,19,<generic>,<error>
+Jota+ Connector for Dropbox,Jota+ Connector for Dropbox,100.0,528,sub,Jota+ Connector for Dropbox,27,<generic>,<error>
+These applications do not collect user data.,These applications do not collect user data.,100.0,556,main,These applications do not collect user data.,44,<first>,<error>
+These applications will share the user's authorized data to a cloud storage account owned by the user.,These applications will share the user's authorized data to a cloud storage account owned by the user.,100.0,601,main,These applications will share the user's authorized data to a cloud storage account owned by the user.上記のアプリケーションは、ユーザーデータを収集しません。上記のアプリケーションは、ユーザーの許可したデータを、ユーザーの所有しているクラウドストレージのアカウントに共有します。,190,<third>,<error>
+Jota+ SMB Connector,Jota+ SMB Connector,100.0,794,sub,Jota+ SMB Connector,19,<generic>,<error>
+Jota+ FTP Connector,Jota+ FTP Connector,100.0,814,sub,Jota+ FTP Connector,19,<generic>,<error>
+These applications do not collect or share user data.,"These applications do not collect
+or share
+user data.",96.22641509433963,834,main,These applications do not collector shareuser data.,51,<first>,<error>
+These applications will send the user's authorized data to a file server owned by the user.,"These applications will
+send
+the user's authorized data to a
+file server
+owned by the user.",95.6043956043956,888,main,These applications willsendthe user's authorized data to afile serverowned by the user.上記のアプリケーションは、ユーザーデータを収集・共有しません。上記のアプリケーションは、ユーザーの許可したデータを、ユーザーの所有しているファイルサーバーに送信します。,171,<third>,<error>
+Jota Text Editor,Jota Text Editor,100.0,1067,main,Jota Text Editor,16,<generic>,<error>
+Jota+,Jota+,100.0,1084,main,Jota+ ProkeyJota+root,21,<generic>,<error>
+Connector,Connector,100.0,1108,main,Connector,9,<generic>,<error>
+AquaMozc,AquaMozc,100.0,1118,main,AquaMozc,8,<generic>,<error>
+AquaMozc for Titan,AquaMozc for Titan,100.0,1127,sub,AquaMozc for Titan,18,<generic>,<error>
+AquaMozc 外部キーボード用,AquaMozc 外部キーボード用,100.0,1146,sub,AquaMozc 外部キーボード用,17,<generic>,<error>
+Layout for KEYone,Layout for KEYone,100.0,1164,sub,Layout for KEYone,17,<generic>,<error>
+Layout for Priv,Layout for Priv,100.0,1182,sub,Layout for Priv,15,<generic>,<error>
+Tweaked Keyboard Layout,Tweaked Keyboard Layout,100.0,1198,sub,Tweaked Keyboard Layout,23,<generic>,<error>
+Voice Input for Jota,Voice Input for Jota,100.0,1222,sub,Voice Input for Jota,20,<generic>,<error>
+aDice,aDice,100.0,1243,main,aDice,5,<generic>,<error>
+aGrep,aGrep,100.0,1249,main,aGrep,5,<generic>,<error>
+かんたん路線検索,かんたん路線検索,100.0,1255,sub,かんたん路線検索,8,<generic>,<error>
+校正支援 for Jota Text Editor,校正支援 for Jota Text Editor,100.0,1264,sub,校正支援 for Jota Text Editor,25,<generic>,<error>
+縦書きプレビュー for Jota+,縦書きプレビュー for Jota+,100.0,1290,sub,縦書きプレビュー for Jota+These applications do not collect or transmit user data to outside the device.上記のアプリケーションは、端末外部へのユーザーデータの送信は行いません。Google SitesReport abuseGoogle SitesReport abuse,180,<generic>,<error>

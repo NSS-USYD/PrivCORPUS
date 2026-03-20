@@ -1,0 +1,10 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,NetGuard - PrivacyNetGuard - Privacy,36,<error>,<error>
+NetGuard does not collect any information.,NetGuard does not collect any information.,100.0,38,main,NetGuard does not collect any information.,42,<generic>,<error>
+NetGuard forwards traffic of allowed connections directly to its destination and does not use a remote VPN server.,NetGuard forwards traffic of allowed connections directly to its destination and does not use a remote VPN server.,100.0,81,main,"NetGuard forwards traffic of allowed connections directly to its destination and does not use a remote VPN server.			For more detailed information about this, please seethe FAQ, question 6.",189,<generic>,<error>
+NetGuard does not require unnecessary permissions.,NetGuard does not require unnecessary permissions.,100.0,274,main,"NetGuard does not require unnecessary permissions.			For more detailed information about this, please seethe FAQ, question 42.",126,<generic>,<error>
+NetGuard is 100% open source.,"
+NetGuard is
+100% open source",93.10344827586206,403,main,NetGuard is100% open source.,28,<generic>,<error>
+Copyright,Copyright,100.0,435,main,Copyright ©,11,<copyright>,<error>
+2015-2023 Marcel Bokhorst (M66B), 2015-2023 Marcel Bokhorst (M66B,96.875,446,sub, 2015-2023 Marcel Bokhorst (M66B),33,<not>,<error>

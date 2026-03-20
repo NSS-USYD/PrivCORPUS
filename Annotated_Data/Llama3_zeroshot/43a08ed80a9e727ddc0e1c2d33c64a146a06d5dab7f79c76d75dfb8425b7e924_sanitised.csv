@@ -1,0 +1,63 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,"Privacy PolicyPrivacy PolicySafe games yazilim hizmetleri built the SociFind app as                  a Freemium app. This SERVICE is provided by                  safe games yazilim hizmetleri at no cost and is intended for use as                  is.This page is used to inform visitors regarding our                  policies with the collection, use, and disclosure of Personal                  Information if anyone decided to use our Service.If you choose to use our Service, then you agree to",497,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,"                  the collection and use of information in relation to this                  policy. The Personal Information that we collect is                  used for providing and improving the Service. We will not use or share your information with                  anyone except as described in this Privacy Policy.The terms used in this Privacy Policy have the same meanings                  as in our Terms and Conditions, which is accessible at",454,<generic>,<error>
+Privacy Policy,Privacy Policy,100.0,0,main,                  SociFind unless otherwise defined in this Privacy Policy.,75,<generic>,<error>
+Information Collection and Use,Information Collection and Use,100.0,1043,main,Information Collection and,26,<generic>,<what>
+"For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information."," Use
+For a better experience, while using our Service, we
+                  may require you to provide us with certain personally
+  ",81.81818181818181,1069,sub," UseFor a better experience, while using our Service, we                  may require you to provide us with certain personally                  identifiable information. The information ",187,<first>,<why>
+The information that we request will be retained by us and used as described in this privacy policy.,"that
+                  we request will be retained by us and used as described in this privacy polic",83.0,1259,sub,that                  we request will be retained by us and used as described in this privacy policy.,101,<first>,<what>
+The app does use third party services that may collect information used to identify you.,"The app does use third party services that may collect
+                    information u",77.27272727272727,1362,main,The app does use third party services that may collect                    information used to identif,101,<third>,<how-gathered>
+Link to privacy policy of third party service providers used by the app,"y you.
+Link to privacy policy of third party service providers used
+   ",88.73239436619718,1464,sub,y you.Link to privacy policy of third party service providers used                    by the app,96,<third>,<other>
+Google Play Services,Google Play Services,100.0,1563,main,Google Play Services,20,<third>,<error>
+AdMob,AdMob,100.0,1584,sub,AdMob,5,<third>,<error>
+Google Analytics for Firebase,Google Analytics for Firebase,100.0,1590,sub,Google Analytics for Firebase,29,<third>,<error>
+Firebase Crashlytics,Firebase Crashlytics,100.0,1620,sub,Firebase Crashlytics,20,<third>,<error>
+Facebook,Facebook,100.0,1641,sub,Facebook,8,<third>,<error>
+Unity,Unity,100.0,1650,sub,Unity,5,<third>,<error>
+One Signal,One Signal,100.0,1656,sub,One Signal,10,<third>,<error>
+AppLovin,AppLovin,100.0,1667,sub,AppLovin,8,<third>,<error>
+Vungle,Vungle,100.0,1676,sub,Vungle,6,<third>,<error>
+Adjust,Adjust,100.0,1683,sub,Adjust,6,<third>,<error>
+Log Data,Log Data,100.0,1690,main,Log DataWe want to inform you that whenever you          ,57,<third>,<what>
+"We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data.","        use our Service, in a case of an error in the app
+                  we collect data and information (through third party
+                  products) on your phone called Log D",80.32786885245902,1749,sub,"        use our Service, in a case of an error in the app                  we collect data and information (through third party                  products) on your phone called Log Data. This Log Data may              ",217,<first>,<how-used>
+"This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.","    include information such as your device Internet Protocol
+                  (â€œIPâ€) address, device name, operating system version, the
+                  configuration of the app when utilizing our Service,
+                  the time and date of yo",76.47058823529412,1969,sub,"    include information such as your device Internet Protocol                  (â€œIPâ€) address, device name, operating system version, the                  configuration of the app when utilizing our Service,                  the time and date of your use of the Service, and other                  statistics.",313,<first>,<error>
+Cookies,Cookies,100.0,2287,main,Cookies,7,<tracking>,<what>
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.,"Cookies are files with a small amount of data that are
+                  commonly used as anonymous u",82.17821782178218,2295,sub,Cookies are files with a small amount of data that are                  commonly used as anonymous unique identifiers. These are sent               ,148,<tracking>,<error>
+These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,"   to your browser from the websites that you visit and are
+                  stored on your device's internal m",83.92857142857143,2445,sub,"   to your browser from the websites that you visit and are                  stored on your device's internal memory.This Service does not use these â€œcookiesâ€ explicitly. However,                  the app may use third party code and libraries that use                  â€œcookiesâ€ to collect information and improve their services.                  You have the option to either accept or refuse these cookies                  and know when a cookie is being sent to your device. If you",493,<tracking>,<how-used>
+These are sent to your browser from the websites that you visit and are stored on your device's internal memory.,"   to your browser from the websites that you visit and are
+                  stored on your device's internal m",83.92857142857143,2445,sub,"                  choose to refuse our cookies, you may not be able to use some                  portions of this Service.",122,<tracking>,<how-used>
+Service Providers,Service Providers,100.0,3069,main,Service Providers,17,<third>,<other>
+We may employ third-party companies and individuals due to the following reasons:,"We may employ third-party companies and
+                  individuals due to the ",77.77777777777779,3087,sub,We may employ third-party companies and                  individuals due to the following reasons:,98,<third>,<how-gathered>
+To facilitate our Service;,To facilitate our Service;,100.0,3187,sub,To facilitate our Service;,26,<third>,<why>
+To provide the Service on our behalf;,To provide the Service on our behalf;,100.0,3214,sub,To provide the Service on our behalf;,37,<third>,<why>
+To perform Service-related services; or,To perform Service-related services; or,100.0,3252,sub,To perform Service-related services; or,39,<third>,<why>
+To assist us in analyzing how our Service is used.,To assist us in analyzing how our Service is used.,100.0,3292,sub,"To assist us in analyzing how our Service is used.We want to inform users of this Service                  that these third parties have access to your Personal                  Information. The reason is to perform the tasks assigned to                  them on our behalf. However, they are obligated not to                  disclose or use the information for any other purpose.",381,<third>,<why>
+Security,Security,100.0,3679,main,"SecurityWe value your trust in providing us your                  Personal Information, thus we are striving to use commercially                  acceptable means of protecting it. But remember that no method                  of transmission over the internet, or method of electronic                  storage is 100% secure and reliable, and we cannot                  guarantee its absolute security.",402,<security>,<other>
+Links to Other Sites,Links to Other Sites,100.0,4088,main,Links to Other Sites,20,<security>,<other>
+This Service may contain links to other sites.,This Service may contain links to other sites.,100.0,4109,sub,This Service may contain links to other sites. If you click on  ,64,<security>,<error>
+"If you click on a third-party link, you will be directed to that site.","                a third-party link, you will be directed to that site.",82.85714285714285,4174,sub,"                a third-party link, you will be directed to that site. Note                  that these external sites are not operated by us.                  Therefore, we strongly advise you to review the                  Privacy Policy of these websites. We have                  no control over and assume no responsibility for the content,                  privacy policies, or practices of any third-party sites or                  services.",448,<security>,<error>
+Children’s Privacy,Childrenâ€™s Priva,83.33333333333334,4629,main,Childrenâ€™s Privacy,20,<audience>,<other>
+These Services do not address anyone under the age of 13.,These Services do not address anyone under the age of 13.,100.0,4650,sub,These Services do not address anyone under the age of 13.                  ,75,<audience>,<error>
+We do not knowingly collect personally identifiable information from children under 13 years of age.,"We do not knowingly collect personally
+                  identifiable information from children unde",82.0,4726,sub,"We do not knowingly collect personally                  identifiable information from children under 13 years of age. In the case                  we discover that a child under 13 has provided                  us with personal information, we immediately                  delete this from our servers. If you are a parent or guardian                  and you are aware that your child has provided us with                  personal information, please contact us so that",471,<audience>,<when>
+We do not knowingly collect personally identifiable information from children under 13 years of age.,"We do not knowingly collect personally
+                  identifiable information from children unde",82.0,4726,sub,                  we will be able to do necessary actions.,58,<audience>,<when>
+Changes to This Privacy Policy,Changes to This Privacy Policy,100.0,5263,main,Changes to This Priva,21,<change>,<other>
+We may update our Privacy Policy from time to time.,"cy Policy
+We may update our Privacy Policy from
+   ",78.43137254901961,5284,sub,"cy PolicyWe may update our Privacy Policy from                  time to time. Thus, you are advised to review this page                  periodically for any changes. We will                  notify you of any changes by posting the new Privacy Policy on                  this page.This policy is effective as of 2021-04-30",323,<change>,<how-gathered>
+Contact Us,Contact Us,100.0,5614,main,"Contact UsIf you have any questions or suggestions about our                  Privacy Policy, do not hesitate to contact us at[email protected]",143,<error>,<other>

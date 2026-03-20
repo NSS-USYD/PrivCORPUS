@@ -1,0 +1,3 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+隐私,隐私,100.0,0,main,隐私-guizhanbuguizhanbu私信归档0102隐私android.permission.VIBRATE ： 当番茄完成的时候，通知提醒中包含震动android.permission.INTERNET：数据云端同步，需要网络访问权限com.android.vending.BILLING：Google Pay支付支持android.permission.WAKE_LOCK：后台计时时，为了保证计时不被结束，需要保持应用唤醒状态,219,<generic>,<error>
+评论,评论,100.0,230,main,评论上一篇下一篇©guizhanbu| Powered byLOFTER,36,<choice>,<other>

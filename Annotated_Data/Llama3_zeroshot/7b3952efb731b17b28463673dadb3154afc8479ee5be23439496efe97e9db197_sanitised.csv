@@ -1,0 +1,26 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Privacy Policy | WeatherBugGroundTruthSign InPressEducationFeedbackCareersSettingsLocale ({{ $root.SelectedLocaleLanguage | uppercase }})Main MenuGroundTruthFor more than 20 years Earth Networks has operated the world’s largest and most comprehensive weather observation, lightning detection, and climate networks.",314,<error>,<error>
+,,-1.0,0,,We are now leveraging our big data smarts to deliver on the promise of IoT. By integrating our hyper-local weather data with Smart Home connected devices we are delievering predictive energy efficiency insight to homeowners and Utility companies.GroundTruth,257,<error>,<error>
+Company,Company,100.0,585,main,Company,7,<generic>,<error>
+Management,Management,100.0,593,main,Management,10,<generic>,<error>
+Board of Directors,Board of Directors,100.0,604,main,Board of Directors,18,<generic>,<error>
+Press Releases,Press Releases,100.0,623,main,Press Releases,14,<generic>,<error>
+Careers,Careers,100.0,638,main,Careers,7,<generic>,<error>
+Solutions,Solutions,100.0,646,main,Solutions,9,<generic>,<error>
+WeatherBug,WeatherBug,100.0,656,main,WeatherBug,10,<generic>,<error>
+Consumer,Consumer,100.0,667,sub,Consumer,8,<generic>,<error>
+Corporate,Corporate,100.0,676,sub,CorporateWeatherBugConsumerCorporate,36,<generic>,<error>
+GroundTruth,GroundTruth,100.0,716,main,GroundTruth,11,<generic>,<error>
+Sign In,Sign In,100.0,728,main,Sign In,7,<generic>,<error>
+Press,Press,100.0,736,main,Press,5,<generic>,<error>
+Education,Education,100.0,742,main,Education,9,<generic>,<error>
+Forecasts,Forecasts,100.0,752,main,Forecasts,9,<generic>,<error>
+Maps,Maps,100.0,762,main,Maps,4,<generic>,<error>
+Alerts,Alerts,100.0,767,main,Alerts,6,<generic>,<error>
+Life,Life,100.0,774,main,Life,4,<generic>,<error>
+News & Videos,News & Videos,100.0,779,main,News & Videos,13,<generic>,<error>
+Cameras,Cameras,100.0,793,main,Cameras,7,<generic>,<error>
+Air Quality,Air Quality,100.0,801,main,Air Quality,11,<generic>,<error>
+Hurricane,Hurricane,100.0,813,main,Hurricane,9,<generic>,<error>
+Settings,"
+Setting",87.5,822,main,Settings,8,<generic>,<error>

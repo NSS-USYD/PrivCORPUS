@@ -1,0 +1,16 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy,Privacy,100.0,0,sub,Privacy | Canela TV×MENUPrivacy,31,<error>,<error>
+Watch anywhere 24/7,Watch anywhere 24/7,100.0,35,sub,Watch anywhere ,15,<error>,<error>
+&copy; 2023 Canela.TV a division of,"24/7
+© 2023 Canela.TV a division of",82.85714285714285,50,sub,"24/7© 2023 Canela.TV a division ofCanela Media, Inc.",52,<error>,<error>
+All rights reserved.,All rights reserved.,100.0,105,sub,All rights reserved.×,21,<error>,<error>
+This site uses cookies to allow access to content. Please review our,This site uses cookies to allow access to content. Please review our,100.0,128,sub,This site uses cookies to allow access to content. Please review our,68,<tracking>,<error>
+privacy policy,privacy policy,100.0,197,sub,privacy policybefore viewing content on this site.,50,<error>,<error>
+You may also,You may also,100.0,249,sub,You may also,12,<error>,<error>
+decline cookies,decline cookies,100.0,262,sub,"decline cookies, with reduced functionality.",44,<error>,<error>
+I agree to allow cookies,I agree to allow cookies,100.0,308,sub,I agree to allow cookies✖️✖️,28,<error>,<error>
+"You have declined cookies, which means you cannot log in, or use other personalized features of this site.","You have declined cookies, which means you cannot log in, or use other personalized features of this site.",100.0,339,sub,"You have declined cookies, which means you cannot log in, or use other personalized features of this site.",106,<choice>,<error>
+Review our privacy policy,Review our privacy policy,100.0,446,sub,Review our privacy policy.,26,<error>,<error>
+Allow cookies,Allow cookies,100.0,474,sub,Allow cookies,13,<error>,<error>
+CLOSE,"
+CLOS",80.0,487,sub,CLOSE,5,<error>,<error>

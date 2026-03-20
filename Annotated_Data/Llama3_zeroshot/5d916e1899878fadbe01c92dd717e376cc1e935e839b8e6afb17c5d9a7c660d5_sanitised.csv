@@ -1,0 +1,9 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy | BANDBackView Navigation,40,<generic>,<error>
+Terms of Service,Terms of Service,100.0,43,main,Terms of ServicePrivacy Policy,30,<generic>,<error>
+Privacy Policy for U.S. Kids,Privacy Policy for U.S. Kids,100.0,75,main,Privacy Policy for U.S. Kids,28,<generic>,<error>
+Privacy Policy for School Use,Privacy Policy for School Use,100.0,104,main,Privacy Policy for School Use,29,<generic>,<error>
+Efforts to protect youth,Efforts to protect youth,100.0,134,main,Efforts to protect youth,24,<first>,<error>
+Activity Policy,Activity Policy,100.0,159,main,Activity Policy,15,<first>,<error>
+About paid services,About paid services,100.0,175,main,About paid services,19,<first>,<error>
+Reporting Infringement of Your Rights,Reporting Infringement of Your Rights,100.0,195,main,Reporting Infringement of Your RightsPrivacy PolicyLoading,58,<first>,<error>

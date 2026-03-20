@@ -1,0 +1,28 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+,,-1.0,0,,"Welcome to Just4Fun Utilities (“J4FU”, “we”, “us, “our”).Your privacy  is important to us, so we have created this ",115,<error>,<error>
+Privacy Policy,Privacy Policy,100.0,116,main,"Privacy Policy(“Policy”) to explain how Just4Fun Utilities collects, stores, uses anddiscloses the information about you.",121,<generic>,<error>
+1. What information we collect,"1.
+What information we collect",96.66666666666667,240,main,1.What information we collect,29,<not>,<what>
+We do NOT collect any Personal or Non-Personal Information about you.,"We do NOT collect any Personal or
+Non-Personal Information about you.",98.55072463768117,271,sub,We do NOT collect any Personal orNon-Personal Information about you.,68,<error>,<error>
+2. Third-party services,"2.
+Third-party
+services",91.30434782608697,341,main,2.Third-partyservicesWe may include,35,<third>,<what>
+Advertising services:, advertising services,95.23809523809523,379,sub, advertising services (“ads”)in our Apps that may be provided by third parties (“Third Party Services”).Such Third Party Services’ providers have their own privacy policies and weadvise you to read them carefully. Below you can find the details of all ThirdParty Services we may work with:Advertisingservices:,309,<error>,<error>
+Unity Ads,Unity Ads,100.0,695,sub,"Unity Ads(Webpage|Privacy Policy|Opt out(Search in FAQs))Unity Ads is anadvertising service provided by Unity Technologies, Inc.",128,<error>,<error>
+IronSource,IronSource,100.0,833,sub,IronSource(Webpage|PrivacyPolicy)IronSource is anadvertising service provided by ironSource Mobile Ltd.,103,<error>,<error>
+InMobi,InMobi,100.0,945,sub,InMobi(Webpage|Privacy Policy|Opt out)InMobi is anadvertising service provided by InMobi Pte. Ltd.,98,<error>,<error>
+Applovin,Applovin,100.0,1053,sub,Applovin(Webpage|Privacy Policy|Opt out)Applovinis an advertising service provided by AppLovin Corporation.We display ads inour Apps to keep them free of charge.When you use ourApps your device may automatically send Personal and Non-Personal Informationto our advertising partners. All the information gathered by our advertisingpartners are used only to display ads tailored to your interests and behavior.For more information please read the privacy policies of the relevant services.,487,<error>,<error>
+Analytics services:,Analytics services:,100.0,1557,sub,Analytics services:GoogleAnalytics(Webpage|Privacy Policy),58,<error>,<error>
+Google Analytics,Google Analytics,100.0,1623,sub,Google Analyticsis an analytics service provided by Google LLC.We use analyticsservices to better understand and analyze way you interact with our Apps.,152,<error>,<error>
+Crash reporting services:,Crash reporting services:,100.0,1779,sub,Crash reporting services:,25,<error>,<error>
+Firebase Crashlytics,"Firebase
+Crashlytics",95.0,1805,sub,FirebaseCrashlytics(Webpage|Privacy Policy)FirebaseCrashlytics is a bug reporting service provided by Google LLC.We use bugreporting services to keep our Apps out of bugs and crashes.,183,<error>,<error>
+3. Android permissions,"3.
+Android permissions",95.45454545454545,1999,main,"3.Android permissionsSome of our Android mobileapplications and games (collectively called “Products”) may require permissionslike :ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION, ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, CAMERA,INTERNET, READ_CONTACTS, READ_EXTERNAL_STORAGE, READ_PHONE_STATE, RECORD_AUDIO,SEND_SMS, SET_WALLPAPER, SYSTEM_ALERT_WINDOW, VIBRATE, WAKE_LOCK,WRITE_EXTERNAL_STORAGE (collectively called the “Permissions”)All Permissions are used in",458,<generic>,<what>
+3. Android permissions,"3.
+Android permissions",95.45454545454545,1999,main,"Products to provide best user experience. All personal and non-personalinformation obtained by the use of above Permissions are used only by theProducts itself and are not stored, used, disclosed outside of the Products.",220,<generic>,<what>
+4. Changes to our Privacy Policy,"4.
+Changes to our Privacy Policy",96.875,2691,main,4.Changes to our Privacy PolicyThis Privacy Policy may be updated fromtime to time for any reason. We will notify you of any changes to our PrivacyPolicy by posting the new Privacy Policy on https://just4funutilities.s3.eu-north-1.amazonaws.com/Privacy.htm.Your continued use of the Just4Fun Utilities Services following theposting of changes will mean you accept those changes.,378,<change>,<what>
+5. Contact Us,"5.
+Contact Us",92.3076923076923,3076,main,"5.Contact UsIf you have any questions regardingprivacy while using the Just4Fun Utilities Services, or have questions aboutour practices, please contact us:Just4Fun Utilitiesj4f.utilities@gmail.comWarszawa 03-231Poland",218,<contact>,<other>

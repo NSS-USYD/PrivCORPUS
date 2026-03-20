@@ -1,0 +1,35 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Terms and conditions,Terms and conditions,100.0,0,main,Terms and conditions – FBReaderFBReader,39,<generic>,<other>
+Favourite Book Reader,Favourite Book Reader,100.0,41,main,Favourite Book Reader,21,<generic>,<error>
+Platform,Platform,100.0,63,main,Platform,8,<generic>,<error>
+Android,Android,100.0,72,sub,Android,7,<generic>,<other>
+iOS,iOS,100.0,80,sub,iOS,3,<generic>,<other>
+Windows,Windows,100.0,84,sub,Windows,7,<generic>,<other>
+Mac,Mac,100.0,92,sub,Mac,3,<generic>,<other>
+Linux,Linux,100.0,96,sub,Linux,5,<generic>,<other>
+Chrome OS,Chrome OS,100.0,102,sub,Chrome OS,9,<generic>,<other>
+Obsolete versions,Obsolete versions,100.0,112,sub,Obsolete versions,17,<generic>,<other>
+News,News,100.0,130,main,News,4,<generic>,<other>
+All news,All news,100.0,135,sub,All news,8,<generic>,<other>
+Telegram channel,Telegram channel,100.0,144,sub,Telegram channel,16,<generic>,<other>
+RSS,RSS,100.0,161,sub,RSS,3,<generic>,<other>
+Get Help,Get Help,100.0,165,main,Get Help,8,<generic>,<other>
+F.A.Q.,F.A.Q.,100.0,174,sub,F.A.Q.,6,<generic>,<other>
+Chat,Chat,100.0,181,sub,Chat,4,<generic>,<other>
+Book formats,Book formats,100.0,186,main,Book formats,12,<generic>,<error>
+Book sources,Book sources,100.0,199,sub,Book sources,12,<generic>,<error>
+ЛитРес book store,ЛитРес book store,100.0,212,sub,ЛитРес book store,17,<generic>,<error>
+About us,About us,100.0,230,main,About us,8,<generic>,<other>
+More,More,100.0,239,sub,More,4,<generic>,<error>
+The book network,The book network,100.0,244,sub,The book network,16,<generic>,<other>
+FBReader SDK,FBReader SDK,100.0,261,sub,FBReader SDK,12,<generic>,<error>
+Support the project,Support the project,100.0,274,sub,"Support the projectThe book networkThe SDKSupport the projectСайт на русскомTerms and conditionsThis is a legal agreement between users of this service (""you"", ""your"") and FBReader.ORG Limited (""we"", ""our""), the company behind FBReader. This agreement covers your usage of the FBReader app and fbreader.org site and its subdomains (""the service"").FBReader.ORG LimitedOur companyis registered in the United Kingdom. We are working under British jurisdiction.",457,<generic>,<other>
+Privacy,Privacy,100.0,741,main,"PrivacyWe do not share any information received from you during usage of the service, implicitly or explicitly, with any third party. We do our best to protect your data stored on our servers from leaks.We do not send spam. If you share your email with our site or app for signing in to the FBReader Book Network, we never use it for sending you messages.The information is stored on cloud servers provided byLinode. The servers are physically located in London, UK. Please readtheir privacy notesfor details.",509,<generic>,<error>
+Disclaimer of Warranties,Disclaimer of Warranties,100.0,1258,main,"Disclaimer of WarrantiesTHE SERVICE IS PROVIDED ""AS IS"". WHEN ALLOWED BY LOCAL LAW, WE HEREBY DISCLAIM ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTY THAT THE SERVICE WILL BE ERROR FREE OR THAT ACCESS WILL BE CONTINUOUS OR UNINTERRUPTED. YOU UNDERSTAND THAT USE OF THE SERVICE IS ENTIRELY AT YOUR DISCRETION AND RISK.",460,<first>,<error>
+Disclaimer of Warranties,Disclaimer of Warranties,100.0,1258,main,"In simple words, you use the service at your own risk. We do our best to keep your data safe, but the final responsibility is in your hands.",140,<first>,<error>
+Limitation of Liability,Limitation of Liability,100.0,1861,main,"Limitation of LiabilityTO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL WE BE LIABLE FOR ANY GENERAL, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR OTHER DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, INCORRECT DATA, BUSINESS INTERRUPTION, OR ANY OTHER DAMAGES OR LOSSES INCURRED BY YOUR USE OF, OR INABILITY TO USE THIS SERVICE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE THEORY OF LIABILITY.Last updated: 2nd August 2022.Copyright © 2013–2023",493,<first>,<error>
+FBReader.ORG Limited,FBReader.ORG Limited,100.0,2358,main,FBReader.ORG LimitedTerms and conditions,40,<first>,<other>
+Cookie settings,Cookie settings,100.0,2400,main,Cookie settings,15,<third>,<other>
+English,English,100.0,2416,sub,English,7,<choice>,<other>
+Русский,Русский,100.0,2424,sub,Русский,7,<choice>,<other>
+Cookie warning,Cookie warning,100.0,2432,sub,"Cookie warningOur site uses cookies to make your browsing convenient. Some cookies are necessary. Please, select your preferred variant below to continue to the FBReader site.Accept all cookiesAccept necessary cookies and review othersLeave the site",249,<third>,<other>

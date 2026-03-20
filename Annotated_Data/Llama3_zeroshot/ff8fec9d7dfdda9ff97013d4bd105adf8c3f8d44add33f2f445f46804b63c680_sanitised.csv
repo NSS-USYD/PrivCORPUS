@@ -1,0 +1,4 @@
+decoder_heading,ident_heading,heading_map_score,heading_map_index,heading_type,heading_content_part,heading_content_part_len,high_level_tag,medium_level_tag
+Privacy Policy,Privacy Policy,100.0,0,main,Privacy Policy | tinyCam MonitorWe respect your right to online privacy. tinyCam Monitor does not collect or send us or 3d parties any ,135,<error>,<error>
+Personal Information,personal information,100.0,136,sub,personal information.The app may collect ,41,<generic>,<error>
+Anonymous Usage Statistics,anonymous usage statistics,100.0,178,sub,anonymous usage statistics. That can be disabled in app settings.,65,<third>,<error>
